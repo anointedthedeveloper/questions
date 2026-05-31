@@ -3070,5 +3070,53 @@
     "solution": "Given information:\n\nPitch (p) = 0.45 cm\nLength of arm (L) = 60 cm\nEfficiency = 75/π %\nMechanical Advantage (M.A) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor a screw jack:\nV.R = 2πL/p\nV.R = (2π × 60)/0.45\nV.R = 120π/0.45\nV.R = 120π × (100/45)\nV.R = 120π × (20/9)\nV.R = 2400π/9\nV.R = 800π/3\nStep 2: Use efficiency formula\nEfficiency = (M.A/V.R) × 100%\n75/π = (M.A/(800π/3)) × 100\n75/π = (M.A × 3 × 100)/(800π)\n75/π = (300 × M.A)/(800π)\nSolving for M.A:\n75/π × (800π/300) = M.A\n75 × 800/300 = M.A\n60,000/300 = M.A\nM.A = 200",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 506,
+    "question": "The terminals of a battery of emf 24.0 V and internal resistance of 1.0 Ω is connected to an external resistor 5.0 Ω. Find the terminal p.d.",
+    "option": {
+      "a": "18.0V",
+      "b": "12.0V",
+      "c": "16.0V",
+      "d": "20.0V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nEMF of battery, E = 24.0 V\nInternal resistance, r = 1.0 Ω\nExternal resistance, R = 5.0 Ω\nTerminal potential difference, V = ?\n\nSolution:\nStep 1: Calculate total resistance\nTotal resistance = R + r\nR_total = 5.0 + 1.0 = 6.0 Ω\nStep 2: Calculate current in the circuit\nUsing Ohm's law:\nI = E/R_total\nI = 24.0/6.0\nI = 4.0 A\nStep 3: Calculate terminal potential difference\nTerminal p.d. = EMF - voltage drop across internal resistance\nV = E - Ir\nV = 24.0 - (4.0 × 1.0)\nV = 24.0 - 4.0\nV = 20.0 V\nAlternative method:\nV = IR (voltage across external resistor)\nV = 4.0 × 5.0\nV = 20.0 V",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1129,
+    "question": "Some of the features of the human eye that greatly help to refract light entering the eyes are",
+    "option": {
+      "a": "cornea and lens",
+      "b": "cornea and aqueous humor",
+      "c": "lens and vitreous humor",
+      "d": " aqueous humor and lens"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "cornea and lens (Main refractive structures.)",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 320,
+    "question": "A pulley system has three pulleys in the fixed block and two in the movable block and if the pulley has an efficiency of 72%, the mechanical advantage of the system is?",
+    "option": {
+      "a": "36",
+      "b": "7.2",
+      "c": "5",
+      "d": "3.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nFixed block: 3 pulleys\nMovable block: 2 pulleys\nEfficiency = 72% = 0.72\nMechanical Advantage (M.A) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings\nWith 3 pulleys in fixed block and 2 in movable block:\nTotal number of supporting strings = 5\nV.R = 5\nStep 2: Calculate Mechanical Advantage using efficiency\nEfficiency = M.A / V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.72 × 5\nM.A = 3.6",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

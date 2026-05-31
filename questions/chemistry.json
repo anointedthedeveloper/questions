@@ -10590,5 +10590,21 @@
     "solution": "KCl and KClO₃ (potassium trioxochlorate V) are both soluble salts with different solubilities at different temperatures. Fractional crystallization exploits these differences in solubility — on cooling a hot concentrated solution, the less soluble salt crystallizes first. This allows the two salts to be separated selectively. Distillation, filtration, and evaporation are not appropriate for separating two dissolved solids.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 704,
+    "question": "How many pi (π) bonds are there in an alkene with six carbon atoms?",
+    "option": {
+      "a": "1",
+      "b": "6",
+      "c": "5",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An alkene contains exactly one carbon-carbon double bond (C=C), regardless of the total number of carbon atoms in the chain. A C=C double bond consists of one sigma (σ) bond and one pi (π) bond. A six-carbon alkene (hex-1-ene, for example) has one C=C double bond and therefore one pi bond.",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

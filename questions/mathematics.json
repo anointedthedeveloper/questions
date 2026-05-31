@@ -14334,5 +14334,21 @@
     "solution": "U = {2,4,6,8,10,12,14,16,18,20,22,24,26,28,30}\nP = {6,12,18,24,30}\nQ = {4,8,12,16,20,24,28}\nP∪Q = {4,6,8,12,16,18,20,24,28,30}\n(P∪Q)c = {2,10,14,22,26}",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 434,
+    "question": "Determine the value of ∫<supb>0</sub><sup>(π/2)</sup>(-2cosx)dx",
+    "option": {
+      "a": "(π/2)",
+      "b": "-1/2",
+      "c": " -3",
+      "d": "-3/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": " ∫<sub>0</sub><sup>(π/2)</sup>(-2cosx)dx=[-2sinx+c]<sub>0</sub><sup>(π/2)</sup>=(-2sin π/2 + c + 2sin0 - c) = -2sin90 + c + 2sin0 - c.= -2(1) + 2(0) = -2",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

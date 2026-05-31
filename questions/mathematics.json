@@ -13374,5 +13374,37 @@
     "solution": "h = 30 tan 60 \n\n= 30√3\n ",
     "examtype": "2020",
     "examyear": "utme"
+  },
+  {
+    "id": 1257,
+    "question": "Find the simple interest on N325 in 5years at 3% per annum.",
+    "option": {
+      "a": "N48.75K",
+      "b": "N50.10K",
+      "c": " N75.50K",
+      "d": "N15.75K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "I =[ PRT ÷ 100]\n\n[(325 × 5 × 3) ÷ (100)]\n\nN(195 ÷ 4)\n\nN48.75K",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 611,
+    "question": "Find the distance between the points (1/2, 1/2) and (-1/2, -1/2).",
+    "option": {
+      "a": "1",
+      "b": "0",
+      "c": "√3",
+      "d": "√2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let D denote the distance between (1/2, -1/2) then using                                                         D = √((x<sub>2</sub>-x<sub>1</sub> )<sup>2</sup>+(y<sub>2</sub>-y<sub>1</sub> )<sup>2</sup> ) = √((-1/2-1/2 )<sup>2</sup> + (-1/2-1/2 )<sup>2</sup> ) = √((-1)<sup>2</sup>+(-1)<sup>2</sup> ) = √(1+1) = √2",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

@@ -3358,5 +3358,53 @@
     "solution": "Given information:\nNumber of turns, N = 500\nArea, A = 20 cm × 20 cm = 0.2 m × 0.2 m = 0.04 m²\nInitial magnetic field, B₁ = 1.0 T\nFinal magnetic field, B₂ = 0.4 T\nTime interval, Δt = 5 s\n\nSolution:\n\nStep 1: Change in magnetic flux\nΔΦ = N × A × (B₂ – B₁) = 500 × 0.04 × (0.4 – 1.0) = 500 × 0.04 × (–0.6) = –12 Wb\n\nStep 2: Induced e.m.f.\nMagnitude of induced e.m.f. = |ΔΦ| / Δt = 12 Wb / 5 s = 2.4 V",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 745,
+    "question": "A progressive wave equation is represented by y = a sin(150πt - (π/4)x). If the phase difference of the wave is 45°, the value of x in the equation is?",
+    "option": {
+      "a": "3 cm",
+      "b": "4 cm",
+      "c": "1 cm",
+      "d": "2 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nWave equation: y = a sin(150πt - (π/4)x)\nPhase difference Δφ = 45° = π/4 rad\n\nSolution:\n\nStep 1: Identify the wave number\nComparing with standard form y = a sin(ωt - kx):\nWave number k = π/4\n\nStep 2: Phase difference formula\nFor a progressive wave, phase difference Δφ = kΔx\nHere Δx is the distance x we want to find.\n\nStep 3: Substitute values\nπ/4 = (π/4) * x\n\nStep 4: Solve for x\nx = (π/4) / (π/4) = 1",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 762,
+    "question": "The blade of a hoe feel colder to touch in the morning than the wooden handle because the",
+    "option": {
+      "a": " handle is a better conductor of heat than blade",
+      "b": " handle contains stored energy in form of heat",
+      "c": "blade is a better conductor of heat than the handle",
+      "d": "blade is placed at a lower temperature than the heat"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The metal blade transfers heat away from your skin more effectively than the wooden handle. When you touch the blade, it rapidly absorbs heat from your hand, causing it to feel colder. In contrast, the wooden handle, which is a less effective conductor of heat, doesn't draw heat away as quickly, making it feel warmer in comparison.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 170,
+    "question": "A radioactive source emits X–rays of very short wavelength (10⁻¹³ m ). What is the frequency of these rays?",
+    "option": {
+      "a": "2 × 10¹⁸ Hz",
+      "b": "3 × 10¹⁹ Hz",
+      "c": "3 × 10²¹ Hz",
+      "d": "3 × 10⁻¹⁹ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nWavelength (λ) = 10⁻¹³ m\nSpeed of light (c) = 3 × 10⁸ m/s\nFrequency (f) = ?\n\nFormula:\nc = fλ\nRearranging to find f:\nf = c/λ\nSubstituting values:\nf = (3 × 10⁸)/(10⁻¹³)\nf = 3 × 10⁸ × 10¹³\nf = 3 × 10²¹ Hz\nAnswer: C. 3 × 10²¹ Hz\nThe frequency of the X-rays is 3 × 10²¹ Hertz.",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

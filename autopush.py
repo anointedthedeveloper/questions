@@ -14,6 +14,15 @@ def run(cmd):
     result = subprocess.run(cmd, cwd=REPO_DIR, capture_output=True, text=True, shell=True)
     return result.stdout.strip(), result.stderr.strip()
 
+def pull():
+    out, err = run("git pull origin master --rebase")
+    if "error" in err.lower() or "conflict" in out.lower():
+        print(f"  pull issue: {err or out}")
+    elif "Already up to date" in out:
+        pass  # silent, no new changes
+    else:
+        print(f"  pulled: {out}")
+
 def push():
     total = 0
     subjects = []

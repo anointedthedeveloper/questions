@@ -10926,5 +10926,53 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 545,
+    "question": "Which of the following is a physical change?",
+    "option": {
+      "a": "Exposing white phosphorus to air",
+      "b": "Burning kerosene",
+      "c": "Dissolving calcium in water",
+      "d": "Freezing ice cream"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A physical change alters the form or appearance of a substance without changing its chemical composition. Freezing ice cream involves a change of state (liquid to solid) — no new substance is formed. Exposing white phosphorus to air, burning kerosene, and dissolving calcium in water all involve chemical reactions that produce new substances.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 250,
+    "question": "Dynamic equilibrium describes a situation where",
+    "option": {
+      "a": "A reaction gives back the reactants",
+      "b": "Reactants are converted to products",
+      "c": "The concentration of reactants and products is equal",
+      "d": "Both forward and reverse reaction proceed at the same rate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 387,
+    "question": "The arrangement of particles in crystal lattices can be studied using",
+    "option": {
+      "a": "X-rays",
+      "b": "β-rays",
+      "c": "α-rays",
+      "d": "γ-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "X-ray crystallography is the technique used to study the arrangement of particles in crystal lattices. X-rays have wavelengths comparable to the spacing between atoms in crystals, causing diffraction patterns that reveal the three-dimensional structure of the crystal.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

@@ -6702,5 +6702,69 @@
     "solution": "Low humidity means dry air, which promotes rapid evaporation of water.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 697,
+    "question": "In the photoelectric effect, which of the following graphs correctly represents the graph of stopping potential V₀ against frequency(f), of incident light?",
+    "option": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296828/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_48_prkfje.png",
+    "answer": "d",
+    "solution": "Option D is the graph of stopping potential V₀ against the frequency of the incident light I. The straight line graph cuts the intercept I = threshold frequency. As the frequency of the incident light increases above this point(threshold frequency), the stopping potential corresponding to the kinetic energy of the photoelectron also increases.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 692,
+    "question": "If the distance between two point charges is increased by a factor of four, the magnitude of the electrostatic force between them will be",
+    "option": {
+      "a": "1/4 of its former value",
+      "b": "1/16 of its former value",
+      "c": " 1/2 of its former value",
+      "d": "4 times its former value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Coulomb's Law\nFormula: F = kq₁q₂/r²\nWhere:\n\nF = electrostatic force\nk = Coulomb's constant\nq₁, q₂ = charges\nr = distance between charges\n\nStep 2: Initial force\nF₁ = kq₁q₂/r²\nStep 3: New force when distance becomes 4r\nF₂ = kq₁q₂/(4r)²\nF₂ = kq₁q₂/16r²\nStep 4: Find ratio of new force to initial force\nF₂/F₁ = [kq₁q₂/16r²] / [kq₁q₂/r²]\nF₂/F₁ = 1/16\nStep 5: Conclusion\nF₂ = F₁/16\nThe force becomes 1/16 of its former value.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 185,
+    "question": "If the distance between the object and the pinhole of a pinhole camera is reduced by half the size of the image of the object",
+    "option": {
+      "a": "Is quadrupled",
+      "b": "Is halved",
+      "c": "Remains the same",
+      "d": "Is double"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Pinhole Camera Principle:\nThe image size is proportional to the ratio of image distance to object distance.\nFormula:\nImage height/Object height = Image distance/Object distance\nh_i/h_o = v/u\nwhere:\n\nv = distance from pinhole to screen (image distance) - constant\nu = distance from object to pinhole (object distance)\n\nInitially:\nh_i ∝ v/u\nWhen object distance is halved (u becomes u/2):\nNew image height = v/(u/2) = 2v/u\nResult:\nNew image height = 2 × original image height\nAnswer: D. Is double\nWhen the object distance is reduced by half, the image size doubles.\nExplanation: The closer the object to the pinhole, the larger the image appears on the screen, following an inverse relationship.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 322,
+    "question": "A ball of mass 800g moving horizontally with a speed of 5m/s hits a vertical wall and rebounds with the same speed. The impulse experienced by the ball is?",
+    "option": {
+      "a": "0kgm",
+      "b": "2kgm/s",
+      "c": "4kgm/s",
+      "d": "8kgm/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 800g = 0.8 kg\nInitial velocity (u) = +5 m/s (toward wall)\nFinal velocity (v) = -5 m/s (away from wall, opposite direction)\nImpulse = ?\n\nFormula for impulse:\nImpulse = Change in momentum\nImpulse = m(v - u)\nNote: Since the ball reverses direction, we must consider the sign change.\nCalculating:\nImpulse = 0.8 × (-5 - 5)\nImpulse = 0.8 × (-10)\nImpulse = -8 kgm/s\nMagnitude of impulse:\n|Impulse| = 8 kgm/s\nExplanation:\nThe negative sign indicates direction (force acts opposite to initial motion). The magnitude of impulse is 8 kgm/s.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

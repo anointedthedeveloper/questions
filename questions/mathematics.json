@@ -14846,5 +14846,37 @@
     "solution": "Variance = ∑f(x−x¯)/∑f\n= 170.888/46\n= 3.72",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 1215,
+    "question": "If y = 4x<sup>3</sup> - 2x<sup>2</sup> + x, find δy/δx",
+    "option": {
+      "a": " 8x<sup>2</sup> - 2x + 1",
+      "b": "8x<sup>2</sup> - 4x + 1",
+      "c": " 12x<sup>2</sup> - 2x + 1",
+      "d": "12x<sup>2</sup> - 4x + 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "If y = 4x<sup>3</sup> - 2x<sup>2</sup> + x, then;\n\nδy/δx\n = 3(4x<sup>2</sup>) - 2(2x) + 1\n\n= 12x<sup>2</sup> - 4x + 1",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 206,
+    "question": "The range of the data: k+2, k-3, k+4, k-2, k, k-5, k+3, k-1, and k+6 is",
+    "option": {
+      "a": "10",
+      "b": "11",
+      "c": "6",
+      "d": "8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Range = Highest value - Lowest value\n\n= (k + 6) - (k - 5)\n\n= 11",
+    "examtype": "utme",
+    "examyear": "2002"
   }
 ]

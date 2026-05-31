@@ -16062,5 +16062,37 @@
     "solution": "120km → 45litres\n1km → 45/120litres\n600km → 45/120 x 600 =225litres",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 772,
+    "question": "Evaluate 1.25×0.025/0.05\n, correct to 1 decimal place",
+    "option": {
+      "a": "0.6",
+      "b": "6.2",
+      "c": "6.3",
+      "d": "0.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "1.25 × 0.025/0.05\n\n\n=125×10<sup>−2</sup> × 25 × 10<sup>−3</sup>/5× 10<sup>−2</sup>\n\n\n= 125 x 5 x 10<sup>−3</sup>\n\n= 625 x 0.001\n\n= 0.625\n\n= 0.6 Approx to 1 d.p.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1138,
+    "question": "Evaluate: 16<sup>(0.16)</sup>\n × 16<sup>(0.04)</sup>(0.04) × 2<sup>(0.2)</sup>",
+    "option": {
+      "a": " 2",
+      "b": " 0",
+      "c": "2<sup>0</sup>",
+      "d": " 1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "16<sup>0.16</sup> × 16<sup>0.04</sup> × 2<sup>0.2/sup>\n\n= 2<sup>4(0.16)</sup> × 2<sup>4(0.04)</sup> ×2<sup>0.2</sup>\n\n= 2<sup>0.64</sup> × 2<sup>0.16</sup> × 2<sup>0.2</sup>\n\n=2<sup>(0.64 × 0.16 × 0.2)</sup>\n\n=2<sup>1</sup>\n\n  = 2",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

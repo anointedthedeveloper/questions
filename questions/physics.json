@@ -9710,5 +9710,37 @@
     "solution": "Given information:\n\nMass of block, m = 0.5 kg\nPosition of block (C) = 40 cm mark\nPosition of pivot (E) = 90 cm mark\nPosition of string (D) = 60 cm mark\nAngle of string = 30° to the horizontal\ng = 10 m/s²\n\nSolution:\nStep 1: Calculate weight of block\nW = mg\nW = 0.5 × 10\nW = 5 N (acting downward at C)\nStep 2: Determine perpendicular distances from pivot E\nDistance from E to C:\ndC = 90 - 40 = 50 cm = 0.50 m\nDistance from E to D:\ndD = 90 - 60 = 30 cm = 0.30 m\nStep 3: Resolve tension into vertical component\nThe vertical component of tension creates the moment:\nTvertical = T sin 30° = T × 0.5 = 0.5T\nStep 4: Apply principle of moments (about pivot E)\nFor equilibrium, clockwise moment = anticlockwise moment\nMoment due to weight = Moment due to tension\nW × dC = Tvertical × dD\n5 × 0.50 = 0.5T × 0.30\n2.5 = 0.15T\nStep 5: Solve for tension\nT = 2.5/0.15\nT = 16.67 N",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 839,
+    "question": "A body of mass 4 kg resting on a smooth horizontal plane is simultaneously acted upon by two perpendicular forces 6 N and 8 N. Calculate the acceleration of the motion",
+    "option": {
+      "a": "2.5 m s⁻²",
+      "b": "3.0 m s⁻²",
+      "c": "4.0 m s⁻²",
+      "d": "4.5 m s⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nMass m = 4 kg\nForces: F₁ = 6 N, F₂ = 8 N, perpendicular to each other.\nPlane is smooth (no friction).\n\nSolution:\n\nStep 1: Find resultant force\nSince forces are perpendicular, resultant R = √(F₁² + F₂²)\nR = √(6² + 8²) = √(36 + 64) = √100 = 10 N\n\nStep 2: Apply Newton's second law\nAcceleration a = R / m = 10 N / 4 kg = 2.5 m s⁻²",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1154,
+    "question": "Lining the walls of an auditorium with perforated materials reduces",
+    "option": {
+      "a": "reverberation",
+      "b": "diffraction",
+      "c": "refraction",
+      "d": " auditorium pulse"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Perforated materials absorb sound, reducing reverberation.",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

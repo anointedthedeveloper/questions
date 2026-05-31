@@ -8590,5 +8590,37 @@
     "solution": "Increase in the pressure of the atmosphere does NOT increase evaporation.",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 829,
+    "question": "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is?",
+    "option": {
+      "a": "0.96 kWh",
+      "b": "1.92 kWh",
+      "c": "9.60 kWh",
+      "d": "19.20 kWh"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nTen 60 W bulbs\nFive 40 W bulbs\nTime interval = 24 hours (assumed daily usage)\n\nSolution:\n\nStep 1: Calculate total power\nTotal power = (10 × 60 W) + (5 × 40 W) = 600 W + 200 W = 800 W\n\nStep 2: Convert power to kilowatts\n800 W = 0.8 kW\n\nStep 3: Calculate energy consumed\nEnergy = Power × Time = 0.8 kW × 24 h = 19.2 kWh",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 244,
+    "question": "The S.I unit of moment of a force is",
+    "option": {
+      "a": "kgm",
+      "b": "Nm",
+      "c": "Jm",
+      "d": "µm⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Understanding moment of a force:\nMoment (or Torque) = Force × Perpendicular distance\nDetermining the unit:\n\nForce is measured in Newtons (N)\nDistance is measured in meters (m)\nTherefore: Moment = N × m = Nm (Newton-meter)",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

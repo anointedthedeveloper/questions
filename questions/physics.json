@@ -6318,5 +6318,53 @@
     "solution": "Semi-conductor have an elecctric conductivity intermediate in value between that of a pure metal and a good insulator. Silicon is an example",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 888,
+    "question": "A body of mass 12 kg traveling at 4.2 m s⁻¹ collides with a second body of mass 18 kg at rest. Calculate their common velocity if the two bodies coalesce after collision?",
+    "option": {
+      "a": "1.5 m s⁻¹",
+      "b": "1.4 m s⁻¹",
+      "c": "2.1 m s⁻¹",
+      "d": "1.7 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nMass m₁ = 12 kg, initial velocity u₁ = 4.2 m s⁻¹\nMass m₂ = 18 kg, initial velocity u₂ = 0 m s⁻¹\nThey coalesce (perfectly inelastic collision).\n\nSolution:\n\nStep 1: Conservation of momentum\nTotal initial momentum = m₁u₁ + m₂u₂ = 12 × 4.2 + 18 × 0 = 50.4 kg m s⁻¹\n\nStep 2: Total mass after collision\nM = m₁ + m₂ = 12 + 18 = 30 kg\n\nStep 3: Common velocity v\nv = Total initial momentum / M = 50.4 / 30 = 1.68 m s⁻¹ ≈ 1.7 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 781,
+    "question": "Three cells each of e.m.f 1.5 V and internal resistance 2.5 Ω are connected as shown in the diagram above. Find the net e.m.f and the internal resistance.",
+    "option": {
+      "a": "1.5 V, 7.50 Ω",
+      "b": "1.5 V, 0.83 Ω",
+      "c": "4.5 V, 7.50 Ω",
+      "d": "4.5 V, 0.83 Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431480/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_32_iriuvb.png",
+    "answer": "b",
+    "solution": "Given information:\nEach cell: e.m.f = 1. V, internal resistance r = 2.5 Ω\nThree cells connected as shown.\n\nSolution:\n\nStep 1: Interpret the diagram\nThe diagram indicates a parallel connection of the three cells. In a parallel combination of identical cells, the net e.m.f is the same as that of one cell, and the internal resistance is the parallel combination of the individual internal resistances.\n\nStep 2: Calculate net e.m.f\nFor cells in parallel, net e.m.f E = 1.5 V.\n\nStep 3: Calculate net internal resistance\nFor identical resistors in parallel:\n1/R = 1/r + 1/r + 1/r = 3/r\nR = r/3 = 2.5 Ω / 3 ≈ 0.833 Ω",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 665,
+    "question": "The current in a reverse-biased junction is due to?",
+    "option": {
+      "a": "minority carriers",
+      "b": "electrons",
+      "c": "majority carriers",
+      "d": "holes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The small reverse current (typically microamperes) in a reverse-biased junction is due to the drift of minority carriers across the junction, not majority carriers. This current is also called leakage current or reverse saturation current.",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

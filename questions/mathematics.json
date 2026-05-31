@@ -14654,5 +14654,53 @@
     "solution": "Total frequency = 1 + 2 + 7 + 5 + 4 + 3 = 22\n\n Median is the middle number\n\n = Nth/2\n  term = 22th/2\n = 11th term\n\n  Going in ascending order, 11th term is 3, going in descending order 11th term is 3\n\n  Median = 3 + 3/2 = 6/2 = 3",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 248,
+    "question": "By how much is the mean of 30, 56, 31, 55, 43 and 44 less than the median?",
+    "option": {
+      "a": " 0.75",
+      "b": "0.50",
+      "c": "0.33",
+      "d": " 0.17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mean = 30+56+31+55+43+44/6=259/6 = 43.167 Median = 30,31,43,44,55,56 = 43+44/2 = 87/2 = 43.5                     Median − mean = 43.5 − 43.17 = 0.33",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 320,
+    "question": "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?",
+    "option": {
+      "a": "9000 tonnes",
+      "b": "6000 tonnes",
+      "c": "1500 tonnes",
+      "d": "1200tonnes"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710701186/ALOC-Questions/Mathematics/2004/math_2004_q49_lqap9i.jpg",
+    "answer": "d",
+    "solution": "beans angle = 360° - (60° + 90° + 150°)\n\n360° - 300° = 60°\n\n150° - 3000 tonnes\n\n60° - 60/150 x 3000 tonnes\n\n= 1,200 tonnes",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 752,
+    "question": "The mean of seven numbers is 96. If an eighth number is added, the mean becomes 112. Find the eighth number.",
+    "option": {
+      "a": "126",
+      "b": "180",
+      "c": "216",
+      "d": "224"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x/7 = 96/1  ==> 672/ + x/8 =112\n\n\nTherefore x = 224",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

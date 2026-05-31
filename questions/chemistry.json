@@ -8766,5 +8766,53 @@
     "solution": "An oxide is a binary compound formed between oxygen and another element. Binary means it contains exactly two different elements, one of which is oxygen. Examples include water (H₂O), iron oxide (Fe₂O₃), carbon dioxide (CO₂), and sodium oxide (Na₂O). All these are classified as oxides.",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 316,
+    "question": "The weakest attractive force that can be observed between two molecules is",
+    "option": {
+      "a": "ionic",
+      "b": "covalent",
+      "c": " co-ordinate covalent",
+      "d": " vander Waals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Van der Waals forces are the weakest attractive forces between molecules, arising from temporary dipoles and induced dipoles. These include London dispersion forces and dipole-dipole interactions.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 270,
+    "question": "A noble gas with a high power of fog penetration used in aerodrome beacons is",
+    "option": {
+      "a": "Argon",
+      "b": "Helium",
+      "c": "Neon",
+      "d": "Krypton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 334,
+    "question": "All these are electromagnetic waves except",
+    "option": {
+      "a": "White light",
+      "b": "Photon",
+      "c": "X-ray",
+      "d": "Infrared"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A photon is a quantum (particle) of electromagnetic energy, not a type of electromagnetic wave. White light, X-rays, and infrared radiation are all types of electromagnetic waves within the electromagnetic spectrum.",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

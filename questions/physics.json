@@ -7726,5 +7726,37 @@
     "solution": "Given information:\nFull-scale deflection current, I_g = 10 mA = 0.010 A\nFull-scale voltage, V = 5 V\nSeries resistance, R_s = 498 Ω\n\nSolution:\n\nStep 1: Voltmeter conversion principle\nTo convert a galvanometer to a voltmeter, a high resistance is connected in series. At full-scale deflection, the total voltage across the series combination is:\nV = I_g (R_s + R_g)\nwhere R_g is the galvanometer resistance.\n\nStep 2: Substitute known values\n5 = 0.010 × (498 + R_g)\n\nStep 3: Solve for R_g\n498 + R_g = 5 / 0.010 = 500\nR_g = 500 – 498 = 2 Ω",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 1023,
+    "question": "Where can a man place his face to get an enlarged image when using a concave mirror to shave?",
+    "option": {
+      "a": " Between the centre of curvature and the principal focus",
+      "b": " At the principal focus",
+      "c": " Between the principal focus and the pole",
+      "d": "At the centre of curvature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Shaving requires an enlarged, upright image (virtual). This occurs only when the object (face) is placed between the principal focus (F) and the pole (P) of the concave mirror.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 141,
+    "question": "A vector quantity can only be completely described when ……… and …………are mentioned.",
+    "option": {
+      "a": "Magnitude and motion",
+      "b": " Magnitude and direction",
+      "c": "Distance and specified displacement",
+      "d": "Moment and momentum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A vector quantity has both magnitude and direction",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

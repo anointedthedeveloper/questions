@@ -15262,5 +15262,53 @@
     "solution": "(r/2)/r Sin θ = 1/2\nθ = sin<sp>(−1)</sup> (1/2) = 30°\n = 60°\n \n\nLength of arc (minor)\n\nST = θ/360 x 2πr\n \n\n60/360 × 2π × r = π/3\n ",
     "examtype": "2020",
     "examyear": "utme"
+  },
+  {
+    "id": 366,
+    "question": "The Venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only?",
+    "option": {
+      "a": "19",
+      "b": "6",
+      "c": "15",
+      "d": "4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702500/ALOC-Questions/Mathematics/2005/math_2005_q45_zzirbb.jpg",
+    "answer": "c",
+    "solution": "N (two games only) = 7 + 5 + 3 = 15",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 210,
+    "question": "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set.",
+    "option": {
+      "a": "105",
+      "b": "100",
+      "c": " 95",
+      "d": " 110"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let the sum of the first five numbers and the sixth number be x and t respectively.\n\n(x+t)/6 = 60 ⟹ x + t = 360\nx/5 = 50 ⟹ x = 250\n∴ t = 360 − 250 = 110",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 61,
+    "question": "The value of (0.303)3 – (0.02)3 is ",
+    "option": {
+      "a": "0.019",
+      "b": "0.0019",
+      "c": "0.0268",
+      "d": "0.000019"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   }
 ]

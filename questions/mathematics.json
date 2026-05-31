@@ -13166,5 +13166,21 @@
     "solution": "Let the number of days worked by the assistant = t\n\n∴\n The bricklayer worked (t + 10) days.\n\n1500(t + 10) + 500(t) = N 95,000\n\n1500t + 15,000 + 500t = N 95,000\n\n2000t = N 95,000 - N 15,000\n\n2000t = N 80,000\n\nt = 40 days\n\n∴\n The assistant worked for 40 days and received N (500 x 40)\n\n= N 20,000",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 548,
+    "question": "Find the radius of a sphere whose surface area is 154 cm<sup>2</sup>?",
+    "option": {
+      "a": " 7.00 cm",
+      "b": "3.50 cm",
+      "c": " 3.00 cm",
+      "d": "1.75 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "154 = 4 x\t22/7 x  r<sup>2</sup>\n154 x 7r<sup>2</sup>\n4 x 22\n \n√ 49/4  = r                          \n7/2 = r2\n\n∴ r = 3.50",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

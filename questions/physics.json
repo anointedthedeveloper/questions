@@ -2510,5 +2510,165 @@
     "solution": "When a charged particle moves parallel to a magnetic field, it experiences no magnetic force and continues in a straight line.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 33,
+    "question": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four ",
+    "option": {
+      "a": "2",
+      "b": "4",
+      "c": "2",
+      "d": "¼"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 818,
+    "question": "Given the progressive wave equation y = 5 sin(2000πt - 0.4x), calculate wavelength",
+    "option": {
+      "a": "12.4 m",
+      "b": "15.7 m",
+      "c": "17.5 m",
+      "d": "18.6 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given wave equation:\ny = 5 sin(2000πt - 0.4x)\nStandard form of progressive wave:\ny = A sin(ωt - kx)\nwhere:\n\nA = amplitude\nω = angular frequency\nk = wave number\n\nComparing with standard form:\n\nA = 5\nω = 2000π\nk = 0.4\n\nFormula relating wave number and wavelength:\nk = 2π/λ\nRearranging for wavelength:\nλ = 2π/k\nSubstituting values:\nλ = 2π/0.4\nλ = 2 × 3.14159/0.4\nλ = 6.28318/0.4\nλ = 15.708 m\nλ ≈ 15.7",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 867,
+    "question": "Metal cables are used as telephone wires because?",
+    "option": {
+      "a": "they are cheap",
+      "b": "they are sourced locally",
+      "c": "the speed of sound in them is very low",
+      "d": " the speed of sound in them is very high"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The speed of sound is highest in solid.\n\nMetals (solids) like copper, steel rod, etc",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 341,
+    "question": "Which of the following is/are the limitations to the Rutherford's atomic models?\n\nI. It is applicable when energy is radiated as electrons are revolving\n\nII. It is applicable when energy is radiated in a continuous mode\n\nIII. It is applicable to an atom with only one electron in the other shell",
+    "option": {
+      "a": " I only",
+      "b": " II only",
+      "c": "I & II only",
+      "d": " I, II & III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The limitations are that Rutherford's model incorrectly assumed (I) energy is radiated as electrons revolve and (II) energy is radiated continuously, both of which contradict experimental observations.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 456,
+    "question": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a?",
+    "option": {
+      "a": " concave mirror of focal length 5cm",
+      "b": "concave mirror of focal length 10cm",
+      "c": " convex mirror of focal length 5cm",
+      "d": "convex mirror of focal length 10cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Understanding the setup:\n\nHollow metal sphere with diameter = 20cm\nInside portion is polished (reflective surface)\nThis means the reflecting surface curves inward\n\nType of mirror:\nWhen the inside of a spherical surface is polished:\n\nThe reflecting surface curves inward\nThis forms a concave mirror\n\n(If the outside were polished, it would be a convex mirror)\nCalculating focal length:\nGiven:\n\nDiameter = 20 cm\nRadius of curvature (R) = 20/2 = 10 cm\n\nFormula:\nFor spherical mirrors: f = R/2\nCalculating:\nf = 10/2 = 5 cm\nTherefore:\n\nType: Concave mirror (inside surface polished)\nFocal length: 5 cm",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 93,
+    "question": "the velocity of a 500 kg car moving long a straight  road, changes from 12 m/s to 20 m/s in 5 sec. calculate the average force moving the car. ",
+    "option": {
+      "a": "2000N  ",
+      "b": "1600N  ",
+      "c": "1200N  ",
+      "d": "800N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 1024,
+    "question": "A pinhole camera is placed 300 m in front of a building so that the image is formed on a screen 5 cm from the pinhole. If the image is 2.5 cm high, the height of the building will be",
+    "option": {
+      "a": "25 m",
+      "b": "50 m",
+      "c": "100 m",
+      "d": "150 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nObject distance, u = 300 m\nImage distance, v = 5 cm = 0.05 m\nImage height, hᵢ = 2.5 cm = 0.025 m\n\nSolution:\n\nStep 1: Magnification formula for pinhole camera\nMagnification m = image height / object height = hᵢ / h₀\nAlso, for pinhole camera, m = v / u\n\nStep 2: Equate the two expressions\nv / u = hᵢ / h₀\n\nStep 3: Substitute values\n0.05 / 300 = 0.025 / h₀\n\nStep 4: Solve for h₀\nh₀ = (0.025 × 300) / 0.05 = (7.5) / 0.05 = 150 m",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1083,
+    "question": "Which type of motion do the wheels of a moving car undergo?",
+    "option": {
+      "a": " Vibratory and translational motion",
+      "b": "Random and translational motion",
+      "c": " Rotational mand oscillatory motion",
+      "d": "Translational and rotational motion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The tyre in motion makes a rotation and it translates in a straight line alongside. if the wheels is turned it continued further in a translational straight line through rotational motion.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 18,
+    "question": "The half-life of a radioactive element is 9 days. What fraction of atoms has decayed in 36 days? ",
+    "option": {
+      "a": "16-Jan",
+      "b": "¼ ",
+      "c": " ½ ",
+      "d": "15/16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 38,
+    "question": "The silver wall of a vacuum flask prevents heat loss due to ",
+    "option": {
+      "a": "conduction ",
+      "b": "Convection ",
+      "c": "Radiation ",
+      "d": "Diffraction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   }
 ]

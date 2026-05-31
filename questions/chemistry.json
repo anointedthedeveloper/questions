@@ -9166,5 +9166,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 466,
+    "question": "The consecutive members of an alkane homologous series differ by",
+    "option": {
+      "a": "CH",
+      "b": "CH₂",
+      "c": "CH₃",
+      "d": "CₙHₙ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Consecutive members of a homologous series differ by one CH₂ (methylene) unit, with a molar mass difference of 14 g mol⁻¹. For example: methane (CH₄) → ethane (C₂H₆) → propane (C₃H₈), each differing by CH₂.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 225,
+    "question": "The solution that will conduct the highest amount of electricity is",
+    "option": {
+      "a": "2.0 moldm-3 of ethanoic acid",
+      "b": "0.5 mol dm-3 of ethanoic acid",
+      "c": "2.0 mol dm-3 of hydrochloric acid",
+      "d": "0.5 moldm-3 of hydrochloric acid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

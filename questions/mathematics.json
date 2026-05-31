@@ -12286,5 +12286,69 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 361,
+    "question": "In how many ways can 6 coloured chalks be arranged if 2 are same colour?",
+    "option": {
+      "a": "60",
+      "b": "120",
+      "c": "240",
+      "d": "360"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "6!/2!=ways=(6×5×4×3×2!)/2!=6×5×4×3=360ways",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 384,
+    "question": "Differentiate (cos θ - sin θ)<sup>2</sup>",
+    "option": {
+      "a": "-2 cos 2θ",
+      "b": "-2 sin2θ",
+      "c": " 1 - 2 cos 2θ",
+      "d": "1 - 2 sin 2θ\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "y = (cosθ - sinθ)\ndy/dx = 2(cosθ - sinθ)(-sinθ - cosθ)\ndy/dx = 2(-cosθsinθ - cos<sup>2</sup>θ + sin<sup>2</sup>θ)\ndy/dx = 2(- cos<sup>2</sup>θ + sin<sup>2</sup>θ)\n= -2(cos<sup>2</sup>θ - sin<sup>2</sup>θ)\n= -2(1 - sin<sup>2</sup>θ)\n= -2cos2θ",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 249,
+    "question": "The histogram above shows the ages of the victims of a pollution. How many people were involved in the pollution?",
+    "option": {
+      "a": "15",
+      "b": "18",
+      "c": "20",
+      "d": " 21"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699321/ALOC-Questions/Mathematics/2003/math_2003_q28_fhor2c.jpg",
+    "answer": "c",
+    "solution": "age\tPeople\n10\t3\n20\t4\n30\t5\n40\t6\n50\t2\n                    20",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 483,
+    "question": "Make Q the subject of formula when L = 4/3 M√PQ",
+    "option": {
+      "a": "(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
+      "b": "3L/(4M√P)",
+      "c": "√3L/4MP",
+      "d": "(3L<sup>2</sup>)/(16M<sup>2</sup> ) P"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "L=4/3 M√PQ=3/4M×L=√PQ=〖(3L/4M)〗<sup>2</sup>=(√PQ )<sup>2</sup>=(9L<sup>2</sup>)/(16M<sup>2</sup> )=PQ=Q=(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

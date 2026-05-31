@@ -318,5 +318,165 @@
     "solution": "The uses of a transistor are current amplification, power amplification, and as a switch.\n",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 436,
+    "question": "A certain radioactive source emits radiation that was found to be deflected by both magnetic and electric fields. The radiation is?",
+    "option": {
+      "a": "beta rays",
+      "b": "gamma rays",
+      "c": "x-rays",
+      "d": "ultra-violet rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Both the electric field and magnetic field affect the β-particles.\n",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 2,
+    "question": "A body accelerates uniformly from rest at 6ms-2 for 8 seconds and then decelerates uniformly to rest in the next 5 seconds. The magnitude of the deceleration is: ",
+    "option": {
+      "a": "9.6ms-2 ",
+      "b": "48 ms-2 ",
+      "c": " 24 ms-2 ",
+      "d": "39.2 ms-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 847,
+    "question": "If electrons are accelerated from rest through a potential difference of 10kV, what is the wavelength of the associated electron? [m = 9.1 × 10⁻³¹ kg, e = 1.6 × 10⁻¹⁹ C, h = 6.6 × 10⁻³⁴ Js]",
+    "option": {
+      "a": "1.22 × 10⁻¹¹ m",
+      "b": "3.87 × 10⁻¹⁰ m",
+      "c": "2.27 × 10¹¹ m",
+      "d": " 2.27 × 10¹⁴ m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nPotential difference (V) = 10 kV = 10,000 V\nMass of electron (m) = 9.1 × 10⁻³¹ kg\nCharge of electron (e) = 1.6 × 10⁻¹⁹ C\nPlanck's constant (h) = 6.6 × 10⁻³⁴ Js\nWavelength (λ) = ?\n\nStep 1: Calculate kinetic energy gained\nKE = eV\nKE = 1.6 × 10⁻¹⁹ × 10,000\nKE = 1.6 × 10⁻¹⁵ J\nStep 2: Calculate velocity\nKE = ½mv²\nv² = 2KE/m\nv² = (2 × 1.6 × 10⁻¹⁵)/(9.1 × 10⁻³¹)\nv² = (3.2 × 10⁻¹⁵)/(9.1 × 10⁻³¹)\nv² = 3.516 × 10¹⁵\nv = 5.93 × 10⁷ m/s\nStep 3: Calculate momentum\np = mv\np = 9.1 × 10⁻³¹ × 5.93 × 10⁷\np = 5.40 × 10⁻²³ kg·m/s\nStep 4: Calculate de Broglie wavelength\nλ = h/p\nλ = (6.6 × 10⁻³⁴)/(5.40 × 10⁻²³)\nλ = 1.22 × 10⁻¹¹ m",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1127,
+    "question": "The emf of a cell is the potential difference across its terminals when it is in",
+    "option": {
+      "a": " series connection",
+      "b": "closed circuit",
+      "c": "open circuit",
+      "d": "parallel connection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "open circuit (EMF is maximum PD with no current drawn.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 445,
+    "question": "A solid weighs 10.00N in air, 6N when fully immersed in water, and 7.0N when fully immersed in a liquid X. Calculate the relative density of the liquid X.",
+    "option": {
+      "a": "5/3",
+      "b": "4/3",
+      "c": "3/4",
+      "d": "7/10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nWeight in air (W_air) = 10.00 N\nWeight in water (W_water) = 6.0 N\nWeight in liquid X (W_X) = 7.0 N\nRelative density of liquid X = ?\n\nStep 1: Calculate upthrust in water\nUpthrust in water = W_air - W_water\nUpthrust in water = 10.00 - 6.0 = 4.0 N\nStep 2: Calculate upthrust in liquid X\nUpthrust in liquid X = W_air - W_X\nUpthrust in liquid X = 10.00 - 7.0 = 3.0 N\nStep 3: Use relationship between upthrust and density\nSince upthrust = Volume × Density × g, and volume is constant:\nUpthrust in liquid X / Upthrust in water = Density of X / Density of water\nRelative density of X = Upthrust in X / Upthrust in water\nCalculating:\nRelative density of X = 3.0 / 4.0 = 3/4 = 0.75",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 612,
+    "question": "Which of the following is an electrolyte?",
+    "option": {
+      "a": "Paraffin",
+      "b": "Sugar solution",
+      "c": "Grape fruit",
+      "d": "Alcohol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "It has been scientifically proven that 100g of grapefruit contains 135g of potassium electrolyte.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 695,
+    "question": "If two inductors of inductances 3H and 6H are arranged in series, the total inductance is",
+    "option": {
+      "a": " 9.0H",
+      "b": "18.0H",
+      "c": " 0.5H",
+      "d": "2.0H"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "l =l1 + l2 = 3 + 6 = 9H",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 647,
+    "question": "Calculate the angle of minimum deviation for a ray which is refracted through an equiangular prism of refractive index 1.4",
+    "option": {
+      "a": "60°",
+      "b": "29°",
+      "c": "99°",
+      "d": "90°\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nEquiangular prism (all angles equal to 60°)\nAngle of prism, A = 60°\nRefractive index, n = 1.4\nAngle of minimum deviation, Dₘ = ?\n\nSolution:\nStep 1: Formula for minimum deviation\nAt minimum deviation:\nn = sin[(A + Dₘ)/2] / sin(A/2)\nWhere:\n\nn = refractive index\nA = angle of prism\nDₘ = angle of minimum deviation\n\nStep 2: Substitute known values\n1.4 = sin[(60° + Dₘ)/2] / sin(60°/2)\n1.4 = sin[(60° + Dₘ)/2] / sin(30°)\n1.4 = sin[(60° + Dₘ)/2] / 0.5\nStep 3: Solve for the numerator\nsin[(60° + Dₘ)/2] = 1.4 × 0.5\nsin[(60° + Dₘ)/2] = 0.7\nStep 4: Find the angle\n(60° + Dₘ)/2 = sin⁻¹(0.7)\n(60° + Dₘ)/2 = 44.43°\nStep 5: Solve for Dₘ\n60° + Dₘ = 2 × 44.43°\n60° + Dₘ = 88.86°\nDₘ = 88.86° - 60°\nDₘ = 28.86° ≈ 29°",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 724,
+    "question": "The energy associated with the emitted photon when a mercury atom changes from one state to another is 3.3 eV. Calculate the frequency of the photon. [e = 1.6 × 10⁻¹⁹C; h = 6.6 × 10⁻³⁴Js]",
+    "option": {
+      "a": "1.3 × 10⁻¹⁵ Hz",
+      "b": "3.1 × 10⁵² Hz",
+      "c": "3.2 × 10⁻⁵³ Hz",
+      "d": " 8.0 × 10¹⁴ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nEnergy, E = 3.3 eV\nCharge of electron, e = 1.6 × 10⁻¹⁹ C\nPlanck's constant, h = 6.6 × 10⁻³⁴ Js\nFrequency, f = ?\n\nSolution:\nStep 1: Convert energy from eV to Joules\n1 eV = 1.6 × 10⁻¹⁹ J\nE = 3.3 × 1.6 × 10⁻¹⁹\nE = 5.28 × 10⁻¹⁹ J\nStep 2: Apply Planck's equation\nFormula: E = hf\nWhere:\n\nE = energy of photon\nh = Planck's constant\nf = frequency\n\nStep 3: Rearrange for frequency\nf = E/h\nStep 4: Substitute values\nf = (5.28 × 10⁻¹⁹)/(6.6 × 10⁻³⁴)\nf = (5.28/6.6) × 10⁻¹⁹⁻⁽⁻³⁴⁾\nf = 0.8 × 10¹⁵\nf = 8.0 × 10¹⁴ Hz",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 176,
+    "question": "If a projectile has maximum range of 36m, find the speed of projection (Take g = 9.8m/s2)",
+    "option": {
+      "a": "19m/s",
+      "b": "2m/s",
+      "c": " 4m/s²",
+      "d": "7m/s²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMaximum range (R) = 36 m\nAcceleration due to gravity (g) = 9.8 m/s²\nSpeed of projection (u) = ?\n\nKey concept:\nMaximum range occurs when the projectile is launched at 45° angle.\nFormula for maximum range:\nR_max = u²/g\nRearranging to find u:\nu² = R × g\nu = √(R × g)\nSubstituting values:\nu = √(36 × 9.8)\nu = √352.8\nu = 18.78 m/s\nu ≈ 19 m/s",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

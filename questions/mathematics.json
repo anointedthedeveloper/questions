@@ -15358,5 +15358,21 @@
     "solution": "132<sub>x</sub> = 70<sub>8</sub>\n\n1 × x<sup>2</sup> + 3 × x<sup>1</sup> + 2 × x<sup>0</sup> \n\n\n7 × 8<sup>1</sup> + 0 ×8<sup>0</sup> \n\n\nx<sup>2</sup> +3x + 2 −56 = 0\n\n\nx<sup>2</sup> + 3x −54 = 0\n\n\nx(x + 9) −6(x + 9) = 0\n\n(x + 9)(x − 6) = 0\n\nEither (x + 9) = 0 or (x − 6) = 0\n\nx = − 9 or +6\n\nThe positive values for x = 6\n\nThe base number for 132<sub>x</sub>  = 132<sub>6</sub> ",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 369,
+    "question": "The histogram above shows the distribution of the distribution of the monthly incomes of the workers in a company. How many workers earn more than N700.000?",
+    "option": {
+      "a": "16",
+      "b": "12",
+      "c": "8",
+      "d": "6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702571/ALOC-Questions/Mathematics/2005/math_2005_q48_xftxzo.jpg",
+    "answer": "b",
+    "solution": "Workers earning more than N700.00 = 4 + 6 + 2 = 12",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

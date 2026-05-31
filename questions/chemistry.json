@@ -11262,5 +11262,21 @@
     "solution": "Water (H₂O) has 2 bonding pairs and 2 lone pairs on the central oxygen atom. Lone pair–lone pair repulsion compresses the bond angle from the ideal tetrahedral 109.5° to approximately 105°, giving water a bent/V-shape. Answer: D.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 426,
+    "question": "The shape of ammonia molecules is",
+    "option": {
+      "a": "trigonal pyramidal",
+      "b": "octahedral",
+      "c": "square planar",
+      "d": "tetrahedral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "NH₃ has 3 bonding pairs and 1 lone pair of electrons around the nitrogen. The lone pair repels the bonding pairs more strongly, compressing the H-N-H bond angle to ~107°. This gives a trigonal pyramidal shape (not tetrahedral, which is the electron geometry).",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

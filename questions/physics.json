@@ -8014,5 +8014,53 @@
     "solution": "ince the charged rod is not in contact with the electroscope, the leaves divergence will diverge.",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 50,
+    "question": "When a yellow card is observed through a blue glass, the card would appear as ",
+    "option": {
+      "a": "black ",
+      "b": "green ",
+      "c": "red ",
+      "d": "white "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 140,
+    "question": "The resultant force of a couple is ………?",
+    "option": {
+      "a": "Infinity",
+      "b": "Zero",
+      "c": "One",
+      "d": "Half"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "What is a couple?\nA couple consists of two equal and opposite parallel forces acting on a body at different points.\nKey characteristics:\n\nTwo forces of equal magnitude\nActing in opposite directions\nParallel to each other\nSeparated by a distance (perpendicular distance between the lines of action)\n\nResultant force of a couple:\nSince the two forces are:\n\nEqual in magnitude\nOpposite in direction\n\nWhen we add them vectorially:\nForce₁ + Force₂ = F + (-F) = 0\nTherefore, the resultant force = Zero",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 699,
+    "question": "A motorcyclist traveling at 30 m/s starts to apply his brakes when he is 50 m from the traffic light that had just turned red. If he reached the traffic light, his deceleration is",
+    "option": {
+      "a": "18 m/s²",
+      "b": "10 m/s²",
+      "c": "9 m/s²",
+      "d": "5 m/s²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nInitial velocity, u = 30 m/s\nDistance to traffic light, s = 50 m\nFinal velocity at light, v = 0 m/s\n\nStep 1: Use kinematic equation for constant acceleration\nv² = u² + 2 a s\n\nStep 2: Substitute known values\n0² = 30² + 2 × a × 50\n0 = 900 + 100 a\n\nStep 3: Solve for deceleration a\n100 a = –900\na = –9 m/s²\n\nThe magnitude of deceleration is 9 m/s².\n",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

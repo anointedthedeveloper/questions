@@ -8398,5 +8398,37 @@
     "solution": "Thermionic emission is ejection of electron from a metal surface as a result of heating.",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 310,
+    "question": "The process whereby a liquid turns spontaneously into vapour is called",
+    "option": {
+      "a": "regelation",
+      "b": "evaporation",
+      "c": "boiling",
+      "d": "sublimation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Evaporation is the process whereby a liquid turns spontaneously into vapor at temperatures below the boiling point, occurring naturally at the liquid's surface.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 35,
+    "question": "An electric cell has an internal resistance of 2Ω. A current of 0.5A was measured when a resistor of resistance 5Ω was connected across it. Determine the electromotive force of the cell",
+    "option": {
+      "a": "3.5V ",
+      "b": "2.5V ",
+      "c": "4.5V ",
+      "d": "2.35V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   }
 ]

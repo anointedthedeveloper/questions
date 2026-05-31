@@ -11742,5 +11742,21 @@
     "solution": "(0.026 × 0.36)/0.69\n = (26 × 10<sup>−3</sup> × 36 × 10<sup>−2</sup> )/(69 × 10<sup>−2</sup>\n\n\n= 0.01356 = 1.36 x 10<sup>-2</sup>",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 350,
+    "question": "If y = (1 - 2x)<sup>3</sup>\n, find the value of dy/dx at x = -1",
+    "option": {
+      "a": "57",
+      "b": "27",
+      "c": "-6",
+      "d": "-54"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = (1 - 2x)<sup>3</sup>\n\nlet u = 1-2x\ndu/dx = -2\n∴y = u<sup>3</sup>\n\ndy/du = 3u<sup>2</sup>\n\nBut dy/dx = du/dx * dy/du\n= -2 * 3u<sup>2</sup>\n\n= -6u<sup>2</sup>\n\n= -6(1-2x)<sup>2</sup>\n\nAt x = -1: dy/dx = -6(1 - 2(-1))<sup>2</sup>\n\ndy/dx = -6(1 + 2)<sup>2</sup>\n\n= -6 * 3<sup>2</sup>\n\n= -6 * 9\n= -54\n",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

@@ -8526,5 +8526,53 @@
     "solution": "Dilute sulfuric acid (H₂SO₄) is used in the electrolysis of water because it's non-volatile, chemically stable, and provides ions for conductivity without interfering with the water decomposition reaction (2H₂O → 2H₂ + O₂).",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 510,
+    "question": "Hydrocarbons which will react with Tollen's reagent conform to the general formula",
+    "option": {
+      "a": "CₙH₂ₙ",
+      "b": "CₙH₂ₙ₊₂",
+      "c": "CₙH₂ₙ₋₂",
+      "d": "CₙH₂ₙ₊₁OH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Tollen's reagent (ammoniacal silver nitrate) reacts with terminal alkynes (RC≡CH) to give a silver acetylide precipitate. Alkynes have the general formula CₙH₂ₙ₋₂. CₙH₂ₙ are alkenes; CₙH₂ₙ₊₂ are alkanes (unreactive); CₙH₂ₙ₊₁OH are alkanols. Note: Tollen's reagent also oxidizes aldehydes, but the question specifies hydrocarbons, pointing to alkynes.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 180,
+    "question": "When pure aluminum metal is heated to red hot in the presence of nitrogen gas, the compound formed is",
+    "option": {
+      "a": "AI2N",
+      "b": "AIN",
+      "c": "AI2N2",
+      "d": "AI2N3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 449,
+    "question": "Due to the high reactivity of sodium, it is usually stored under",
+    "option": {
+      "a": "water",
+      "b": "mercury",
+      "c": "paraffin",
+      "d": "phenol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Sodium is stored under paraffin oil (kerosene/mineral oil) to prevent it from reacting with oxygen and moisture in the air. Paraffin is a non-polar, unreactive liquid that forms a protective layer around the sodium. Water would react explosively with sodium; mercury would form an amalgam; phenol would react with sodium.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

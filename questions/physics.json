@@ -2142,5 +2142,85 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 314,
+    "question": "In the diagram shown, If the south-poles of two magnets stroke a steel bar, the polarities at T and V will respectively be",
+    "option": {
+      "a": "north and south",
+      "b": "south and south",
+      "c": "north and north",
+      "d": "south and north"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611723/ALOC-Questions/Physics/2018/2018_Q_35_asprjk.jpg",
+    "answer": "c",
+    "solution": "Understanding magnetic induction by stroking:\nWhen a steel bar is magnetized by stroking with a magnet:\n\nThe pole that is stroked attracts the stroking pole\nTherefore, it becomes the opposite polarity\n\nFrom the diagram:\n\nTwo magnets with south poles (S) stroke the steel bar\nLeft magnet strokes from center (U) toward left end (T)\nRight magnet strokes from center (U) toward right end (V)\n\nApplying the rule:\n\nAt T: Stroked by south pole → becomes north pole\nAt V: Stroked by south pole → becomes north pole\nThe center (U) becomes a south pole (or weak point)\n\nResult:\nBoth ends (T and V) become north poles because both were stroked by south poles.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 972,
+    "question": "hree similar cells each of e.m.f 2 v and internal resistance 2Ω are connected in parallel, the total e.m.f and total internal resistance are respectively",
+    "option": {
+      "a": "6 v, 6.0Ω",
+      "b": " 2 v, 0.7Ω",
+      "c": "2 v, 6.0Ω",
+      "d": "6 v, 0.7Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nNumber of identical cells = 3\nE.m.f of each cell (E) = 2V\nInternal resistance of each cell (r) = 2Ω\nCells connected in parallel\nTotal e.m.f and total internal resistance = ?\n\nFor identical cells in parallel:\nTotal e.m.f:\nWhen identical cells are connected in parallel:\nE_total = E = 2V\n(The e.m.f remains the same as individual cells)\nTotal internal resistance:\nFor resistances in parallel:\n1/r_total = 1/r₁ + 1/r₂ + 1/r₃\nSince all three have same resistance (2Ω):\n1/r_total = 1/2 + 1/2 + 1/2\n1/r_total = 3/2\nr_total = 2/3 Ω\nr_total ≈ 0.67Ω ≈ 0.7Ω",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 733,
+    "question": "An object placed 10cm from a concave mirror of focal length 5cm would have its image",
+    "option": {
+      "a": "at the centre of convature",
+      "b": "at the radius of curvature",
+      "c": " at infinity",
+      "d": "10 cm from the focus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The image is formed 10 cm from the mirror, on the same side as the object (real image). For a concave mirror, the radius of curvature R = 2f = 10 cm. The centre of curvature is located at distance R from the mirror. Since u = 10 cm, the object is at the centre of curvature, and with v = 10 cm, the image is also formed at the centre of curvature.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 983,
+    "question": "Which of the following materials has an increase in resistance with temperature?",
+    "option": {
+      "a": "water",
+      "b": "metals",
+      "c": "wood",
+      "d": "electrolyte"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Metals have an increase in resistance with temperature due to increased atomic vibrations that scatter conducting electrons more frequently.\nPractical example: This is why incandescent light bulb filaments (tungsten metal) have much higher resistance when hot and glowing than when cold.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 575,
+    "question": "A thick glass tumbler cracks when boiling water is poured into it because",
+    "option": {
+      "a": "The inside expands more rapidly than the outside",
+      "b": "The inside expands less rapidly than the outside",
+      "c": "The expansion is even",
+      "d": " It does not expand"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When boiling water is poured into the tumbler, the inner surface heats up and expands quickly, while the outer surface remains cooler and expands more slowly. This difference in expansion rates creates stress in the glass, leading to cracks.",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

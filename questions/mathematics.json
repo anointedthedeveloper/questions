@@ -11870,5 +11870,21 @@
     "solution": "-6(x + 3) ≤ 4(x - 2)\n\n-6(x +3) ≤ 4(x - 2)\n\n-6x -18 ≤ 4x - 8\n\n-18 + 8 ≤ 4x +6x\n\n-10 ≤ 10x\n\n10x ≥ -10\n\nx ≥ -1",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 857,
+    "question": "If N = p/2((T<sub>1</sub> −T<sub>2</sub> )/T<sub>1</sub> ). Find P when N = 12, T<sub>1</sub>  = 27 and T<sub>2</sub>  = 24.",
+    "option": {
+      "a": "48",
+      "b": "108",
+      "c": "54",
+      "d": "216"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "N = p/2(T<sub>1</sub> −T<sub>2</sub> /T<sub>1</sub> )\n12 = p/2((27−24)/27)\n24 = P(3/27)\n\nP = 24 x 9 = 216",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

@@ -12366,5 +12366,85 @@
     "solution": "Athletes lose heat through evaporation when perspiring.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 114,
+    "question": "When the length of the string of a simple pendulum is L its period is 0.5π second is 0.5π seconds. The period when the length is increased to 4L will be ",
+    "option": {
+      "a": "0.5π seconds",
+      "b": "π seconds ",
+      "c": "2π seconds ",
+      "d": "4π seconds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 865,
+    "question": "It is observed that water will wet a clean glass because the?",
+    "option": {
+      "a": "cohesion of water to glass is stronger than the cohesion of water molecules",
+      "b": "adhesion of water molecules is weaker than the cohesion of water to glass",
+      "c": " cohesion of water to glass is weaker than the cohesion of water molecules",
+      "d": "adhesion of water molecules is stronger than the cohesion of water molecules"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When the adhesion of liquid molecules to the glass is more than the cohesion of the liquid, the liquid will wet glass.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 666,
+    "question": "which of the following materials is a conductor?",
+    "option": {
+      "a": "Glass",
+      "b": "Wax",
+      "c": "Sodium",
+      "d": "Plastic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Sodium is a soft, silvery-white metal that is a good conductor of electricity. It has free-moving electrons, which allows it to conduct electrical current efficiently",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1033,
+    "question": "A particle carrying a charge of 1.0 × 10⁻⁸ C enters a magnetic field at 3.0 × 10⁻² ms⁻¹ at right angles to the field. If the force on this particle is 1.8 × 10⁻⁸ N, what is the magnitude of the field?",
+    "option": {
+      "a": " 6.0 × 10⁻¹ T",
+      "b": "6.0 × 10¹ T",
+      "c": " 6.0 × 10⁻³ T",
+      "d": "6.0 × 10⁻⁴ T"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nCharge (q) = 1.0 × 10⁻⁸ C\nVelocity (v) = 3.0 × 10⁻² m/s\nAngle (θ) = 90° (right angles to field)\nForce (F) = 1.8 × 10⁻⁸ N\nMagnetic field strength (B) = ?\n\nFormula for magnetic force on a moving charge:\nF = qvB sin θ\nSince θ = 90°, sin 90° = 1:\nF = qvB\nRearranging for B:\nB = F/(qv)\nSubstituting values:\nB = (1.8 × 10⁻⁸)/(1.0 × 10⁻⁸ × 3.0 × 10⁻²)\nB = (1.8 × 10⁻⁸)/(3.0 × 10⁻¹⁰)\nB = 1.8/3.0 × 10⁻⁸⁺¹⁰\nB = 0.6 × 10²\nB = 6.0 × 10¹ T\nB = 60 T",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 581,
+    "question": "In a series resonant circuit, the current flowing in the circuit is ",
+    "option": {
+      "a": "maximum",
+      "b": "minimum",
+      "c": "zero",
+      "d": "unaffected"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "At resonance, the circuit's impedance is at its lowest (equal to the resistance), which results in the highest current flow. This condition is achieved when the inductive reactance and capacitive reactance are equal, causing them to cancel each other out.",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

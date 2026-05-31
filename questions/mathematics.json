@@ -17054,5 +17054,37 @@
     "solution": "Principal = N225.00, interest = N27.00\n\nYear = x, Rate = 4% \n\n1 = PRT/100\n27 = (225 × 4 × X)/100 = 2700  = 900T\n\nT = 2700/900\n \n\n= 3 years",
     "examtype": "2020",
     "examyear": "utme"
+  },
+  {
+    "id": 516,
+    "question": "The result of rolling a fair die 150 times is as summarized in the table above. What is the probability of obtaining a 5",
+    "option": {
+      "a": "3/10",
+      "b": "1/5",
+      "c": " 1/6",
+      "d": " 1/10"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546346/ALOC-Questions/Mathematics/2008/MATH_2008_Q45_c23x6z.jpg",
+    "answer": "b",
+    "solution": "Total possible outcome\n12+18+x+30+2x+45 = 105+3x\nâˆ´105+3x = 150\n3x = 150-105\n3x = 45\nx = 15\nP(obtaining 5) =  2x/((105+3x)) Butx=15=(2(15))/((105+3(15)))=30/((105+45))=30/150=1/5",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 991,
+    "question": "If y=6x<sup>3</sup> +2x<sup>(-2)</sup> - x<sup>(-3</sup>), find dy/dx\n.",
+    "option": {
+      "a": "dy/dx=15x<sup>2</sup> -4x<sup>(-2)</sup> - 3x<sup>(-2)</sup>",
+      "b": "dy/dx = 6x + 4x<sup>(-1)</sup> - 3x<sup>(-4)</sup>",
+      "c": "dy/dx=18x<sup>2</sup>-4x<sup>(-3)</sup> + 3x<sup>(-4)</sup>",
+      "d": "dy/dx=12x<sup>2</sup> + 4x<sup>(-1)</sup>-3x<sup>(-2)</sup>"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>y</mi>\n  <mo>=</mo>\n  <mn>6</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>3</mn>\n  </msup>\n  <mo>+</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>x</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2212;<!-- − --></mo>\n  <msup>\n    <mi>x</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n    </mrow>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "y = 6x<sup>3</sup> +2x<sup>(-2)</sup> - x<sup>(-3</sup>)\ndy/dx = 18x<sup>2</sup> −4x<sup>(−3)</sup> + 3x<sup>(−4)</sup>",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

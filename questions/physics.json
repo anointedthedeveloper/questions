@@ -8462,5 +8462,53 @@
     "solution": "(Neglect of Air resistance)\n\nNote: Both objects reach the ground at the same time",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 929,
+    "question": "In alternating current circuit at resonance, the angle of lead or lag is?",
+    "option": {
+      "a": "π°",
+      "b": "(π)/2°",
+      "c": "(π)/3°",
+      "d": " 0°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nIn an AC circuit, resonance occurs when the inductive reactance equals the capacitive reactance (X_L = X_C).\n\nSolution:\n\nStep 1: Condition at resonance\nAt resonance, the circuit behaves purely resistively. The phase angle between voltage and current is zero.\n\nStep 2: Interpretation\nA phase angle of zero means the voltage and current are in phase, neither leads nor lags.\n\nStep 3: Evaluate options\nOnly 0° corresponds to this condition.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 748,
+    "question": "Use the figures above to answer the question below\n\nWhich of the following diagrams represents correctly an n-p-n transistor?",
+    "option": {
+      "a": "A",
+      "b": "B ",
+      "c": "C",
+      "d": "D"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430743/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_49_ofsda0.png",
+    "answer": "b",
+    "solution": "Arrow is on the emitter and points outward, with correct labeling of b, c, e.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 1075,
+    "question": "To convert a galvanometer to a voltmeter, a",
+    "option": {
+      "a": "high resistance is connected to it in series",
+      "b": " high resistance is connected to it in parallel",
+      "c": " low resistance is connected to it in parallel",
+      "d": " low resistance is connected to it in series"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To convert a galvanometer (which measures current) into a voltmeter (which measures voltage), a high resistance is connected in series with the galvanometer. This limits the current flowing through the galvanometer, allowing it to measure higher voltages without exceeding its maximum current rating.",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

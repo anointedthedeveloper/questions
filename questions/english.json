@@ -18998,5 +18998,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 326,
+    "question": "The stadium was <i>seething</i> with people when we entered",
+    "option": {
+      "a": " filled ",
+      "b": " crowded ",
+      "c": "empty   ",
+      "d": "noisy."
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1604,
+    "question": "Choose the option nearest in meaning to the word or phrase in italics\n\nThis case is within the <i>jurisdiction</i> of the council",
+    "option": {
+      "a": "record",
+      "b": "prohibition",
+      "c": "authority",
+      "d": "finance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "<i>Jurisdiction</i>' the italicized word in the question means the official power to make legal decision and judgement while authority, the answer, is synonymous in that it means the power or right to give orders, make decisions",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 41,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

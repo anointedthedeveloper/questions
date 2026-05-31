@@ -11358,5 +11358,21 @@
     "solution": "Given information:\n\nHeight (h) = 50 meters\nInitial velocity (u) = 0 m/s (fruit is dropped, not thrown)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing the equation of motion:\nh = ut + ½gt²\nSince u = 0 (dropped from rest):\nh = ½gt²\nRearranging to find t:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 50/10)\nt = √(100/10)\nt = √10\nt = 3.16 seconds\nt ≈ 3.2 seconds\nAnswer: D. 3.2 sec",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 500,
+    "question": "The property of wave shown in the diagram above is?",
+    "option": {
+      "a": "Diffraction",
+      "b": "Refraction",
+      "c": "Polarisation",
+      "d": "Interference"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614425/ALOC-Questions/Physics/2023/physics_2023-Q1_jx0lbx.png",
+    "answer": "a",
+    "solution": "The diagram clearly shows plane waves passing through a narrow gap and spreading out in semicircular wavefronts. This is the characteristic pattern of wave diffraction, where waves bend and spread after passing through an aperture.",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

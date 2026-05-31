@@ -16734,5 +16734,21 @@
     "solution": "if y - 1 is a factor of y<sup>3</sup> + 4y<sup>2</sup> + ky - 6, then\n\nf(1) = (1)<sup>3</sup> + 4(1)<sup>2</sup> + k(1) - 6 = 0 (factor theorem)\n\n1 + 4 + k - 6 = 0\n\n5 - 6 + k = 0\n\n-1 + k = 0\n\nk = 1",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 943,
+    "question": "(0.00256×0.0064)/(0.025 × 0.08)",
+    "option": {
+      "a": "8.8 x 10<sup>-1</sup>",
+      "b": "8.8 x 10<sup>-2</sup>",
+      "c": "8.2 x 10<sup>-3</sup>",
+      "d": " 8.8 x 10<sup>3</sup>"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>0.00256</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.0064</mn>\n    </mrow>\n    <mrow>\n      <mn>0.025</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.08</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

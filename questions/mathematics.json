@@ -11534,5 +11534,37 @@
     "solution": "log (y + 8) + log (y - 8) = 2log 3 + 2log 5\n\n⇒ log (y + 8)(y - 8) = 2log 3 + 2log 5 (log ab = log a + log b)\n\n⇒ log (y<sup>2</sup> -8y + 8y - 64) = log 3<sup>2</sup> + log 5<sup>2</sup>\n\n\n⇒ log (y<sup>2</sup> - 64) = log 3<sup>2</sup> + log 5<sup>2</sup>\n\n\n⇒ log (y<sup>2</sup> - 64) = log 9 + log 25\n\n⇒ log (y<sup>2</sup> - 64) = log (9 × 25)\n\n⇒ log(y<sup>2</sup> - 64) = log 225\n\n⇒ y<sup>2</sup> - 64 = 225\n\n⇒ y<sup>2</sup> = 225 + 64\n\n⇒ y<sup>2</sup> = 289\n\n⇒ y = ±√289\n\n∴ y = ±17",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 456,
+    "question": "If the lines 3y = 4x - 1 and qy = x + 3 are parallel to each other, the value of q is",
+    "option": {
+      "a": " -4/3",
+      "b": "-3/4",
+      "c": "4/3",
+      "d": "3/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "If the line 3y = 4x – 1 is parallel t[ line qy = x + 3\nImplies gradient of 3y = 4x – 1\nY = 4/3x - 1/3\n∴Gradient = 4/3\nGradient of line qy = x + 3\nY = 1/qx + 3/q\n∴ Gradient = 1/q\n4/3 = 1/q\n4q = 3\nQ = 3/4",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 831,
+    "question": "If x<sub>10</sub> = 23<sub>5</sub>. Find x",
+    "option": {
+      "a": "15",
+      "b": "12",
+      "c": "14",
+      "d": "13"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x<sub>10</sub> = 23<sub>5</sub>\nx<sub>10</sub> = 2 x 5<sup>1</sup> + 3 x 5<sup>0</sup>\n= 10 + 3\n= x<sub>10</sub> = 13",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

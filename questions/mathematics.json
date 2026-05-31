@@ -14494,5 +14494,21 @@
     "solution": "NB: This is a correction to the solution in the video lesson.\n123456 ≊\n 123000.",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 536,
+    "question": "Find the range of values of x for which 3x - 7 ≤ 0 and x + 5 > 0?",
+    "option": {
+      "a": "-5 < x < 7/3",
+      "b": "-5 ≤ x ≤ 7/3",
+      "c": "-5 < x ≤ 7/3",
+      "d": "-5 ≤ x < 7/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "3x - 7 ≤ 0 and x + 5 > 0\n3x ≤ 7 and x > -5\nx ≤ 7/3\n∴ Range -5 < x ≤ 7/3",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

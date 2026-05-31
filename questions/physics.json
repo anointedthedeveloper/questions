@@ -5870,5 +5870,69 @@
     "solution": "The magnitude of the angle of dip at the equator is 0°.",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 1088,
+    "question": "What happens when three coplanar non-parallel forces are in equilibrium?",
+    "option": {
+      "a": "Their lines of action are parallel.",
+      "b": "They are represented in magnitude only",
+      "c": "They are represented in direction only",
+      "d": "Their lines of action meet at a point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Conditions for non-parallel coplanar forces",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 799,
+    "question": "A photon of wavelength 6.0 × 10⁻⁷ m behaves like a particle of a certain mass. The value of that mass is [h = 6.63 × 10⁻³⁴ Js, c = 3.0 × 10⁸ ms⁻¹]",
+    "option": {
+      "a": " 3.7 × 10⁻³⁶ kg",
+      "b": "2.2 × 10⁻³⁵ kg",
+      "c": " 1.1 × 10⁻³⁵ kg",
+      "d": "2.2 × 10⁻⁷ kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nWavelength (λ) = 6.0 × 10⁻⁷ m\nPlanck's constant (h) = 6.63 × 10⁻³⁴ Js\nSpeed of light (c) = 3.0 × 10⁸ m/s\nEffective mass (m) = ?\n\nUnderstanding photon mass:\nAlthough photons have zero rest mass, they have an effective relativistic mass associated with their energy.\nStep 1: Calculate photon energy\nE = hf = hc/λ\nE = (6.63 × 10⁻³⁴ × 3.0 × 10⁸)/(6.0 × 10⁻⁷)\nE = (19.89 × 10⁻²⁶)/(6.0 × 10⁻⁷)\nE = 3.315 × 10⁻¹⁹ J\nStep 2: Calculate effective mass using E = mc²\nm = E/c²\nm = (3.315 × 10⁻¹⁹)/(3.0 × 10⁸)²\nm = (3.315 × 10⁻¹⁹)/(9.0 × 10¹⁶)\nm = 0.368 × 10⁻³⁵\nm = 3.68 × 10⁻³⁶ kg\nm ≈ 3.7 × 10⁻³⁶ kg",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 1141,
+    "question": "Which of the following has the least thermal conductivity?",
+    "option": {
+      "a": "air",
+      "b": "ash",
+      "c": "glass",
+      "d": "water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(Air is a poor conductor ~0.025 W/mK; water ~0.6, glass ~1, ash varies but is higher.)\n\nAir is a poor conductor of heat compared to solids and liquids like ash, glass, and water, making it a good insulator.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 163,
+    "question": "If the velocity ratio of a machine is 5. What is its ratio of x and y?",
+    "option": {
+      "a": "2:05",
+      "b": "1:05",
+      "c": " 5 : 1",
+      "d": "3:01"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Velocity Ratio (V.R) = distance moved by the effort (x)÷ distance moved by the load (y)\n\ni.e. V.R = x/y\n\nv. R = 5, x/y = ?\n\ni.e x/y = 5/1; , where x = 5, y = 1\n\nx : y = 5 : 1",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

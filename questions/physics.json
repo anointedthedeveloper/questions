@@ -12110,5 +12110,53 @@
     "solution": "Steam causes worse burns because when it condenses on skin, it releases the latent heat of vaporization (approximately 2260 kJ/kg at 100°C), which is a huge amount of energy in addition to the sensible heat released as it cools.",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 135,
+    "question": "In an elastic collision\n\nI. Energy is conserved\nII. Energy is decreased\nIII. Energy is increased\nIV. Linear momentum conserved",
+    "option": {
+      "a": "I only",
+      "b": "I and IV only",
+      "c": "II only",
+      "d": "III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In an inelastic collision, linear momentum is conserved and energy is decreased\n\nMomentum and kinetic energy are conserved in elastic collision",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 814,
+    "question": "A sealed flask contains 600cm³ of air at 27°C and is heated to 35°C at constant pressure. The new volume is?",
+    "option": {
+      "a": "508 cm³",
+      "b": "516 cm³",
+      "c": "608 cm³",
+      "d": "616 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial volume (V₁) = 600 cm³\nInitial temperature (T₁) = 27°C = 27 + 273 = 300 K\nFinal temperature (T₂) = 35°C = 35 + 273 = 308 K\nPressure = constant\nFinal volume (V₂) = ?\n\nUsing Charles' Law (constant pressure):\nV₁/T₁ = V₂/T₂\nRearranging for V₂:\nV₂ = V₁ × T₂/T₁\nSubstituting values:\nV₂ = 600 × 308/300\nV₂ = 600 × 1.02667\nV₂ = 616 cm³",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 934,
+    "question": "The diagram above shows a velocity - time graph. The statement that is true about this motion is that the car?",
+    "option": {
+      "a": " has no acceleration between point F and G",
+      "b": "decelerates between F and H",
+      "c": " has a constant soeed between points E and F",
+      "d": "Accelerates between points F and G"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435489/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_35_zmxbxg.png",
+    "answer": "a",
+    "solution": "Above are the V-t graphs for\nI Uniform acceleration\nII uniform retardation\nIII Uniform velocity\nThus the car has no acceleration between point F and G since that portion of the graph represents uniform velocity",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

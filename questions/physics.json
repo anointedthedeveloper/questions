@@ -12558,5 +12558,53 @@
     "solution": "Given information:\nInstantaneous current, I = 10 sin ωt\nPeak current, I₀ = 10 A\n\nSolution:\n\nStep 1: d.c equivalent of a.c current\nThe d.c equivalent (or r.m.s value) of a sinusoidal a.c current is given by:\nI_rms = I₀ / √2\n\nStep 2: Substitute the value\nI_rms = 10 / √2 ≈ 10 / 1.4142 ≈ 7.07 A ≈ 7.1 A",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 335,
+    "question": "The value of T in the figure above is",
+    "option": {
+      "a": "30N",
+      "b": "10.0N",
+      "c": " 20N",
+      "d": " 40N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612271/ALOC-Questions/Physics/2019/2019_physics_Q_6_zoy9bf.jpg",
+    "answer": "d",
+    "solution": "Given:\nWeight = 40 N\nAngle = 30 degrees\n\nVertical equilibrium:\n2 * T * sin(30°) = 40\n\nSince sin(30°) = 0.5:\n2 * T * 0.5 = 40\nT = 40 N\n\nAnswer: 40 N",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 923,
+    "question": "Which of the following is used for the correction of short sightedness?",
+    "option": {
+      "a": "convex lens",
+      "b": "concave lens",
+      "c": " convex mirror",
+      "d": "concave mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Concave lens diverges parallel rays of light. A short sighted person has the image formed before the retina,and the rays have to be diverged so that they intersect to form image onto the retina",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 986,
+    "question": "The electrical properties of germanium can be altered drastically by the addition of impurity. This process is referred to as",
+    "option": {
+      "a": "saturation",
+      "b": "bonding",
+      "c": "amplification",
+      "d": "dopping"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The process of adding impurities to drastically alter the electrical properties of germanium (or other semiconductors) is called doping. This is fundamental to semiconductor technology and the basis of modern electronics.",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

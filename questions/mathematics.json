@@ -14766,5 +14766,37 @@
     "solution": "x α 1/y .........(1)\n\nx = k x 1/y .........(2)\n\nWhen x = 2(1/2)\n\n= 5/2, y = 2\n\n(2) becomes 5/2 = k x 1/2\n\ngiving k = 5\n\nfrom (2), x = 5/y\n\nso when y =4, x = 5/y = 1(1/4)",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 729,
+    "question": "In a class of 46 students, 22 play football and 26 play volleyball. If 3 students play both games, how many play neither?",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "n(f ∩ v) + n(f) + n(v) + n(f ∩ v) = 46\n\n3 + 19 + 23 + x = 46\n\n22 + 23 + x = 46\n\n45 + x = 46\n\nx = 46 - 45\n\nx = 1",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 336,
+    "question": "The diagram above is the graph of the function f(x). Determined the range of values of x for which f(x) ≤ 0",
+    "option": {
+      "a": "x ≤ 2",
+      "b": "0 ≤\n x ≤\n 2",
+      "c": "-2 ≤\n x ≤\n 0, x ≥\n 2",
+      "d": " x ≤\n -2, 0 ≤\n x ≤\n 2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702037/ALOC-Questions/Mathematics/2005/math_2005_q15_h5gfn6.jpg",
+    "answer": "c",
+    "solution": "The graph of the function f(x) is a curve that starts at (-2,0) and ends at (2,0) with a peak at (0,1). The range of values of x for which f(x) ≥ 0 is the interval where the graph of the function is above or touches the x-axis. From the given graph, we can see that this interval is [-2, 2]. Therefore, the correct answer is -2 ≤ x ≤ 0, x ≥ 2",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

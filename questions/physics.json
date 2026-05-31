@@ -6542,5 +6542,69 @@
     "solution": "Given information:\n\nInitial length (L₁) = 100 cm at temperature T₁ = 200°C\nFinal length (L₂) = 99.4 cm at temperature T₂ = ?\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\n\nFormula for linear expansion:\nL₂ = L₁[1 + α(T₂ - T₁)]\nSubstituting values:\n99.4 = 100[1 + 2 × 10⁻⁵(T₂ - 200)]\nDividing by 100:\n0.994 = 1 + 2 × 10⁻⁵(T₂ - 200)\nRearranging:\n0.994 - 1 = 2 × 10⁻⁵(T₂ - 200)\n-0.006 = 2 × 10⁻⁵(T₂ - 200)\nSolving for (T₂ - 200):\n(T₂ - 200) = -0.006/(2 × 10⁻⁵)\n(T₂ - 200) = -0.006/0.00002\n(T₂ - 200) = -300\nTherefore:\nT₂ = -300 + 200\nT₂ = -100°C",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 969,
+    "question": "A block of aluminum is heated electrically by a 30W heater. If the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is",
+    "option": {
+      "a": "900 JK⁻¹",
+      "b": "90 JK⁻¹",
+      "c": "100 JK⁻¹",
+      "d": "200 JK⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nPower (P) = 30 W\nTemperature rise (ΔT) = 10°C = 10 K\nTime (t) = 5 minutes = 5 × 60 = 300 seconds\nHeat capacity (C) = ?\n\nStep 1: Calculate total heat energy supplied\nEnergy = Power × Time\nQ = P × t\nQ = 30 × 300\nQ = 9000 J\nStep 2: Calculate heat capacity\nHeat capacity is the heat required to raise the temperature by 1K:\nQ = CΔT\nRearranging for C:\nC = Q/ΔT\nSubstituting values:\nC = 9000/10\nC = 900 JK⁻¹",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 434,
+    "question": "If the frequency of an emitted x-ray is 1.6 × 10¹⁶ Hz, the accelerating potential is?\n[e = 1.6 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ Js]",
+    "option": {
+      "a": "6630.0V",
+      "b": "663.0V",
+      "c": " 66.3V",
+      "d": "6.6V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nFrequency of x-ray (f) = 1.6 × 10¹⁶ Hz\nPlanck's constant (h) = 6.63 × 10⁻³⁴ Js\nCharge of electron (e) = 1.6 × 10⁻¹⁹ C\nAccelerating potential (V) = ?\n\nPrinciple:\nWhen electrons are accelerated through a potential V, they gain kinetic energy that is converted to x-ray photon energy:\nEnergy of electron = Energy of x-ray photon\neV = hf\nRearranging to find V:\nV = hf/e\nSubstituting values:\nV = (6.63 × 10⁻³⁴ × 1.6 × 10¹⁶) / (1.6 × 10⁻¹⁹)\nV = (6.63 × 1.6 × 10⁻³⁴⁺¹⁶) / (1.6 × 10⁻¹⁹)\nV = (10.608 × 10⁻¹⁸) / (1.6 × 10⁻¹⁹)\nV = (10.608 / 1.6) × 10⁻¹⁸⁺¹⁹\nV = 6.63 × 10¹\nV = 66.3 V",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 231,
+    "question": "Which of the following is not an electromagnetic radiation?",
+    "option": {
+      "a": "x - ray",
+      "b": "Radio waves",
+      "c": "sunlight",
+      "d": "sound waves"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Electromagnetic waves do not require any material medium, but sound waves is a mechanical wave that require a material medium",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 359,
+    "question": "The statement 'Heat lost by the hot body equals that gained by the cold one' is assumed when determining specific that heat capacity by the method of mixtures. Which of the following validates the assumption?\nI. Lagging the Calorimeter\nII. Ensuring that only S.I units are used\nIII. Weighing the calorimeter, the lid and the stirrer.",
+    "option": {
+      "a": " I only",
+      "b": " I & II only",
+      "c": "I & III only",
+      "d": "II & III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "I & III only as units are independent of energy equation.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

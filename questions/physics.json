@@ -7838,5 +7838,53 @@
     "solution": "Given information:\nForce, F = 500 N\nCross‑sectional area, A = 0.2 m²\n\nSolution:\n\nStep 1: Formula for tensile stress\nTensile stress σ = Force / Area = F / A\n\nStep 2: Substitute the values\nσ = 500 N / 0.2 m² = 2500 N m⁻²\n\nStep 3: Express in scientific notation\n2500 N m⁻² = 2.5 × 10³ N m⁻²",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 303,
+    "question": "A lead bullet of mass 0.05 kg is fired with a velocity of 200 m/s into a lead block of mass 0.95 kg. Given that the lead block can move freely, the final kinetic energy after impact is",
+    "option": {
+      "a": "100J",
+      "b": "150J",
+      "c": "50J",
+      "d": "200J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass of bullet (m₁) = 0.05 kg\nInitial velocity of bullet (u₁) = 200 m/s\nMass of block (m₂) = 0.95 kg\nInitial velocity of block (u₂) = 0 m/s (at rest)\nFinal kinetic energy = ?\n\nThis is an inelastic collision (bullet embeds in block)\nStep 1: Find final velocity using conservation of momentum\nm₁u₁ + m₂u₂ = (m₁ + m₂)v\n0.05 × 200 + 0.95 × 0 = (0.05 + 0.95)v\n10 + 0 = 1.0v\nv = 10 m/s\nStep 2: Calculate final kinetic energy\nKE_final = ½(m₁ + m₂)v²\nKE_final = ½ × 1.0 × (10)²\nKE_final = ½ × 1.0 × 100\nKE_final = 50 J",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 580,
+    "question": "The thermometer whose thermometric property is change in volume with temperature is ",
+    "option": {
+      "a": "Resistance thermometer",
+      "b": "Thermocouple",
+      "c": " Bimetallic thermometer",
+      "d": "Liquid-in-glass thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A liquid-in-glass thermometer operates on the principle that liquids (like mercury or alcohol) expand and contract with temperature changes. This change in volume of the liquid causes it to rise or fall in a calibrated glass tube, allowing temperature measurement.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 516,
+    "question": "A man swung an object of mass 2 kg in a circular path with a rope 1.2 m long. If the object was swung at 120 rev/min, find the tension in the rope.",
+    "option": {
+      "a": "400",
+      "b": "288",
+      "c": "240",
+      "d": "379"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 2 kg\nRadius (rope length), r = 1.2 m\nFrequency, f = 120 rev/min\nTension, T = ?\n\nSolution:\nStep 1: Convert frequency to rev/s\nf = 120 rev/min = 120/60 rev/s\nf = 2 rev/s = 2 Hz\nStep 2: Calculate angular velocity\nω = 2πf\nω = 2 × π × 2\nω = 4π rad/s\nω = 12.566 rad/s\nStep 3: Calculate centripetal force (tension)\nFor horizontal circular motion, tension provides the centripetal force:\nT = mω²r\nT = 2 × (12.566)² × 1.2\nT = 2 × 157.914 × 1.2\nT = 2 × 189.497\nT = 378.99 N\nT ≈ 379 N",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

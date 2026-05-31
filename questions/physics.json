@@ -9998,5 +9998,69 @@
     "solution": "If both the coil and the magnet are stationary, then there is no change in the magnetic flux and hence no current is induced in the coil.",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 622,
+    "question": "A body of mass 4kg is acted on by a constant force of 12N for 3 seconds. The kinetic energy gained by the body at the end of the time is",
+    "option": {
+      "a": "144J",
+      "b": "162J",
+      "c": " 81J",
+      "d": "72J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate acceleration\nFormula: F = ma\na = F/m = 12/4 = 3 m/s²\nStep 2: Calculate final velocity\nFormula: v = u + at\nv = 0 + (3 × 3)\nv = 9 m/s\nStep 3: Calculate kinetic energy gained\nFormula: KE = ½mv²\nKE = ½ × 4 × (9)²\nKE = ½ × 4 × 81\nKE = 2 × 81\nKE = 162 J",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 775,
+    "question": "From the diagram above, the bob of the pendulum has the fastest speed at",
+    "option": {
+      "a": "X",
+      "b": "Y",
+      "c": "Z",
+      "d": "W"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431437/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_26_kpwqqs.png",
+    "answer": "a",
+    "solution": "\nEnergy considerations:\nAt the extremes (W and Z):\n\nMaximum potential energy\nMinimum kinetic energy (velocity = 0)\nBob momentarily stops before reversing direction\n\nAt the lowest point (X):\n\nMinimum potential energy\nMaximum kinetic energy\nAll potential energy converted to kinetic energy\nFastest speed\n\nAt intermediate positions (Y):\n\nMixed potential and kinetic energy\nSpeed between zero and maximum\n\nConservation of energy:\nTotal Energy = PE + KE = constant\nAt extremes: E = PE_max + 0\nAt lowest point: E = PE_min + KE_max\nTherefore: KE_max occurs at lowest point (X)",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 817,
+    "question": "In a good thermos flask, heat loss is reduced through the following features EXCEPT?",
+    "option": {
+      "a": " the lens surface",
+      "b": " the insulating cork",
+      "c": " silvered walls",
+      "d": "the cork lid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The silver coating on the inner bottle of a thermos flask is used to prevent heat transfer by radiation",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 400,
+    "question": "A magnetic needle is suspended first at the earth's north magnetic pole and then at a point on the magnetic equator. The respective angles between the needle and the horizontal are",
+    "option": {
+      "a": " 0° and 0°",
+      "b": "60° and 60°",
+      "c": "90° and 90°",
+      "d": "90° and 0°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "At the Earth's north magnetic pole, the angle is 90° (needle vertical), and at the magnetic equator, the angle is 0° (needle horizontal).",
+    "examtype": "utme",
+    "examyear": "2020"
   }
 ]

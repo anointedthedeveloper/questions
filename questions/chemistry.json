@@ -11742,5 +11742,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 710,
+    "question": "Which separation technique is used to separate different pigments in a mixture based on their affinity for a stationary phase and a mobile phase?",
+    "option": {
+      "a": "Chromatography",
+      "b": "Filtration",
+      "c": "Decantation",
+      "d": "Distillation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Chromatography separates components of a mixture based on their different affinities for a stationary phase and a mobile phase. Components that interact more strongly with the stationary phase move more slowly, while those that interact more with the mobile phase move faster. This differential migration separates pigments and other mixture components. It is widely used in paper chromatography, thin-layer chromatography, and column chromatography.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 718,
+    "question": "Silver and Gold are metals found as free uncombined elements in the earth's crust, which makes them to be referred to as",
+    "option": {
+      "a": "corrosive metals",
+      "b": "reactive metals",
+      "c": "natural metals",
+      "d": "noble metals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Silver and gold are called noble metals because they occur naturally in the free (uncombined) elemental state in the earth's crust. They are unreactive and resist corrosion and oxidation. The term \"noble\" reflects their low chemical reactivity and their position at the bottom of the electrochemical/reactivity series.",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

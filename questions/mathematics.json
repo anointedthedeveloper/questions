@@ -16222,5 +16222,53 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 748,
+    "question": "If angle θ is 135°, evaluate cosθ",
+    "option": {
+      "a": "1/2",
+      "b": "√2/2",
+      "c": "−√2/2",
+      "d": "−1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "θ  = 135°\n\nCos 135o = Cos(90 + 45)o\n\n= cos90ocos45° - sin90osin45°\n\n= 0cos45° - (1 x √2/2)\n\n= −√2/2",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 818,
+    "question": "Evaluate 3(x + 2) > 6(x + 3)",
+    "option": {
+      "a": " x < 4",
+      "b": "x > -4",
+      "c": "x < -4",
+      "d": "x > 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "3(x + 2) > 6(x + 3)\n\n3x + 6 > 6x + 18\n\n3x - 6x > 18 - 6\n\n-3x > 12\n\nx < -4",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 95,
+    "question": "A predator moves in a circle of radius √2 centre (0,0), while a prey moves along the line y = x. If 0 ≤ x ≤ 2, at which point(s) will they meet?\n",
+    "option": {
+      "a": "(1,1) only",
+      "b": "(1,1) and (1,2)",
+      "c": " (0,0) and (1,1)",
+      "d": " (√2,√2) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x<sup>2</sup> + y<sup>2</sup> = (√2)<sup>2</sup>\nx<sup>2</sup> + y</sup> = 2\nbut y = x\nThus; x<sup>2</sup> + x<sup>2</sup> = 2\n2x<sup>2</sup> = 2\nx<sup>2</sup> = + or - 1\nBut x<sup>2</sup> + y<sup>2</sup> = 2\n1<sup>2</sup>+ y<sup>2</sup> = 2\n1 + y<sup>2</sup> = 2\ny<sup>2</sup> = 2 - 1\ny<sup>2</sup> = 1\ny = + or - 1\nThus point (x,y) = (1,1) only.",
+    "examtype": "utme",
+    "examyear": "2000"
   }
 ]

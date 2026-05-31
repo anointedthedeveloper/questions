@@ -782,5 +782,53 @@
     "solution": "Barometer is used to measure atmosphere pressure\nThermometer is used to measure temperature\nHydrometer is used to measure relative density of a liquid\nManometer is used to measure the pressure of a gas",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 693,
+    "question": "The velocity of sound in air will be doubled if it's absolute temperature is",
+    "option": {
+      "a": "Quadrupled",
+      "b": "Constant",
+      "c": "Halved",
+      "d": "Doulbed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: Relationship between velocity and temperature\nThe velocity of sound in air is given by:\nv ∝ √T\nOr: v = k√T\nWhere:\n\nv = velocity of sound\nT = absolute temperature (in Kelvin)\nk = constant\n\nStep 2: Initial condition\nv₁ = k√T₁\nStep 3: Final condition (velocity doubled)\nv₂ = 2v₁\nStep 4: Set up equation\nk√T₂ = 2(k√T₁)\n√T₂ = 2√T₁\nStep 5: Square both sides\nT₂ = 4T₁\nStep 6: Conclusion\nThe absolute temperature must be quadrupled (multiplied by 4) to double the velocity of sound.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 212,
+    "question": "Shadows and eclipse result from the",
+    "option": {
+      "a": "Reflection of light",
+      "b": "Rectilinear propagation of light",
+      "c": "Diffraction of light",
+      "d": "Refraction of light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Shadows and eclipses result from light traveling in straight lines and being blocked by opaque objects.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 989,
+    "question": "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is",
+    "option": {
+      "a": " 14.0 N",
+      "b": "10.0 N",
+      "c": "12.0 N",
+      "d": "13.0 N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774439306/ALOC-Questions/Physics/2011/PHYSICS_2011_Q_40_qpknov.png",
+    "answer": "b",
+    "solution": "For two perpendicular vectors, use the Pythagorean theorem:\nR² = A² + B²\nwhere:\n\nA = 6.0 N\nB = 8.0 N\nR = resultant\n\nCalculating:\nR² = (6.0)² + (8.0)²\nR² = 36 + 64\nR² = 100\nR = √100\nR = 10.0 N\nDirection of resultant:\ntan θ = opposite/adjacent = 6.0/8.0 = 0.75\nθ = tan⁻¹(0.75) ≈ 36.9° above the horizontal",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

@@ -12446,5 +12446,37 @@
     "solution": "The line equidistant from x = 1 and x = 7 is\n\nx = (1+7)/2 ⟹ x = 4",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 777,
+    "question": "if P = {x:x is odd, −1<x≤20\n} and Q is {y:y is prime, −2 < y ≤ 25, find P ∩ Q",
+    "option": {
+      "a": "{3,5,7,11,17,19}",
+      "b": "{3,5,11,13,17,19}",
+      "c": "{3,5,7,11,13,17,19}",
+      "d": " {2,3,5,7,11,13,17,19}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "P = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19}\n\nQ = {-1, 3, 5, 7, 11, 13, 17, 19, 23}\n\nP ∩\n Q = {3, 5, 7, 11, 13, 17, 19}",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1273,
+    "question": "Given that S and T are sets of real numbers such that S = {x : 0 ≤\n x ≤ 5} and T = {x : − 2 < x < 3} Find S ∪ T",
+    "option": {
+      "a": "−3 < x < ≤3",
+      "b": "−2< x < ≤5",
+      "c": " 2< x < ≥ −5",
+      "d": "−1< x ≥ ≤2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "S = {0, 1, 2, 3, 4, 5}\n\nT = {− 1, 0, 1, 2}\n\nS ∪ T = {− 1, 0, 1, 2, 3, 4, 5 }\n\n⇒ − 2 < x ≤ 5",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

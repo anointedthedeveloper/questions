@@ -15230,5 +15230,37 @@
     "solution": "The diagonal QS bisects the angle formed by PQ and QR\n∴ [A]",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1049,
+    "question": "A sector of circle of radius 7.2cm which substends an angle of 300°\n at the centre is used to form a cone. What s the radius of the base of the cone?",
+    "option": {
+      "a": "8 cm",
+      "b": "9 cm",
+      "c": "6 cm",
+      "d": "7 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1048,
+    "question": "The chord ST of a circle is equal to the radius r of the circle. Find the length of arc ST",
+    "option": {
+      "a": "πr/3",
+      "b": "πr/2",
+      "c": "πr/12",
+      "d": "πr/6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(r/2)/r Sin θ = 1/2\nθ = sin<sp>(−1)</sup> (1/2) = 30°\n = 60°\n \n\nLength of arc (minor)\n\nST = θ/360 x 2πr\n \n\n60/360 × 2π × r = π/3\n ",
+    "examtype": "2020",
+    "examyear": "utme"
   }
 ]

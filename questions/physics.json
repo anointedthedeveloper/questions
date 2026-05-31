@@ -7678,5 +7678,53 @@
     "solution": "Due to anomalous expansion of water at temperature range (0 - 4)°c, when a given mass of water turns into ice, its volume will increase, while the mass remains constant. Thus, when a given volum of ice melts, the volume of water formed will be less than the volume of ice. Hence, the level of water in the container will drop.",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 394,
+    "question": "A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is ",
+    "option": {
+      "a": "5 volts",
+      "b": "10 volts",
+      "c": "15 volts",
+      "d": " 20 volts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nSolution:\nGiven information:\n\nPrimary turns (Nₚ) = 300 turns\nSecondary turns (Nₛ) = 30 turns\nPrimary voltage (Vₚ) = 100 volts\nSecondary voltage (Vₛ) = ?\n\nTransformer equation:\nVₛ/Vₚ = Nₛ/Nₚ\nRearranging to find Vₛ:\nVₛ = Vₚ × (Nₛ/Nₚ)\nSubstituting values:\nVₛ = 100 × (30/300)\nVₛ = 100 × (1/10)\nVₛ = 10 volts\nExplanation:\nThis is a step-down transformer because the secondary coil has fewer turns than the primary coil (30 < 300). The voltage is reduced by the same ratio as the turns ratio (1:10).",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 572,
+    "question": "288KJ is conducted across two opposite faces of a 3m cube of temperature gradient 90°Cm⁻¹ in 7200s. Calculate the thermal conductivity.",
+    "option": {
+      "a": "4.9 x 10⁻²Wm⁻¹k⁻¹",
+      "b": "5.0 x 10⁻²Wm⁻¹k⁻¹",
+      "c": " 5.2 x 10⁻²Wm⁻¹k⁻¹",
+      "d": "5.1 x 10⁻²Wm⁻¹k⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHeat conducted, Q = 288 kJ = 288,000 J\nSide of cube, L = 3 m\nTemperature gradient, dT/dx = 90°C/m = 90 K/m\nTime, t = 7200 s\nThermal conductivity, k = ?\n\nSolution:\nStep 1: Calculate cross-sectional area\nFor a cube with side L:\nA = L² = 3² = 9 m²\nStep 2: Apply heat conduction formula\nRate of heat transfer:\nQ/t = kA(dT/dx)\nStep 3: Rearrange to find thermal conductivity\nk = Q/(t × A × dT/dx)\nStep 4: Substitute the known values\nk = 288,000/(7200 × 9 × 90)\nk = 288,000/(5,832,000)\nk = 0.0494 W/(m·K)\nk ≈ 4.9 × 10⁻² Wm⁻¹K⁻¹",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 927,
+    "question": "A galvanometer with full-scale deflection of 10 mA is to be converted to a voltmeter with full-scale deflection of 5v.  if a series resistance of 498Ω is used for the conversion, the resistance of the galvanometer is ?",
+    "option": {
+      "a": "1Ω",
+      "b": "2Ω",
+      "c": "5Ω",
+      "d": "10Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nFull-scale deflection current, I_g = 10 mA = 0.010 A\nFull-scale voltage, V = 5 V\nSeries resistance, R_s = 498 Ω\n\nSolution:\n\nStep 1: Voltmeter conversion principle\nTo convert a galvanometer to a voltmeter, a high resistance is connected in series. At full-scale deflection, the total voltage across the series combination is:\nV = I_g (R_s + R_g)\nwhere R_g is the galvanometer resistance.\n\nStep 2: Substitute known values\n5 = 0.010 × (498 + R_g)\n\nStep 3: Solve for R_g\n498 + R_g = 5 / 0.010 = 500\nR_g = 500 – 498 = 2 Ω",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

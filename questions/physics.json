@@ -7758,5 +7758,85 @@
     "solution": "A vector quantity has both magnitude and direction",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 682,
+    "question": "The figure above shows a plot of angles of deviation through a glass prism when light is incident at θ degrees on the prism. The incident angle that produces the minimum deviation is",
+    "option": {
+      "a": "20°",
+      "b": "18°",
+      "c": "35°",
+      "d": "25°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296611/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_33_oy4esv.png",
+    "answer": "d",
+    "solution": "The curve reaches its minimum (lowest point) at approximately θ = 25°, where the deviation is approximately 18°.\n\nAt minimum deviation:\n\nThe ray passes symmetrically through the prism\nThe angle of incidence equals the angle of emergence\nThis condition is used in prism experiments to determine refractive index\n\n\nIncident angle at minimum deviation = 25°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1003,
+    "question": "A car starts from rest and moves with a uniform acceleration of 30ms⁻² for 20s. Calculate the distance covered at the end of the motion",
+    "option": {
+      "a": "6km",
+      "b": "12km",
+      "c": "18km",
+      "d": "24km"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nInitial velocity (u) = 0 m/s (starts from rest)\nAcceleration (a) = 30 m/s²\nTime (t) = 20 s\nDistance (s) = ?\n\nUsing equation of motion:\ns = ut + ½at²\nSubstituting values:\ns = 0(20) + ½(30)(20)²\ns = 0 + ½(30)(400)\ns = ½ × 12,000\ns = 6,000 m\ns = 6 km",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1150,
+    "question": "What form of energy is present in the food we eat?",
+    "option": {
+      "a": "Kinetic",
+      "b": "Mechanical",
+      "c": "Potential",
+      "d": "Chemical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Food stores energy in chemical bonds, released during metabolism.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 995,
+    "question": "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys",
+    "option": {
+      "a": "Graham's Law",
+      "b": "Boyle's Law",
+      "c": "Pressure law",
+      "d": "No Correct Option"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nVolume increases while temperature decreases.\nPressure is held constant.\n\nSolution:\n\nStep 1: Recall the gas laws\n\nBoyle's Law: At constant temperature, pressure is inversely proportional to volume (P ∝ 1/V).\n\nCharles's Law: At constant pressure, volume is directly proportional to absolute temperature (V ∝ T).\n\nPressure Law (Gay-Lussac's Law): At constant volume, pressure is directly proportional to absolute temperature (P ∝ T).\n\nGraham's Law: Rate of effusion of a gas is inversely proportional to the square root of its molar mass.\n\nStep 2: Analyze the given behavior\nThe statement says: volume increases as temperature decreases at constant pressure.\nAccording to Charles's Law, at constant pressure, V ∝ T.\nIf T decreases, V should decrease. But here V increases while T decreases. This is the opposite of Charles's Law.\n\nStep 3: Conclusion\nNone of the listed laws (Graham's, Boyle's, Pressure law) describe this behavior.\n\nGraham's Law is unrelated to volume-temperature relationships.\n\nBoyle's Law involves pressure-volume at constant temperature.\n\nPressure law involves pressure-temperature at constant volume.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 1093,
+    "question": "A force of 500 N is applied to a steel wire of cross‑sectional area 0.2 m². The tensile stress is",
+    "option": {
+      "a": "2.5 × 10⁴ N m⁻²",
+      "b": "1.0 × 10² N m⁻²",
+      "c": " 1.0 × 10³ N m⁻²",
+      "d": " 2.5 × 10³ N m⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nForce, F = 500 N\nCross‑sectional area, A = 0.2 m²\n\nSolution:\n\nStep 1: Formula for tensile stress\nTensile stress σ = Force / Area = F / A\n\nStep 2: Substitute the values\nσ = 500 N / 0.2 m² = 2500 N m⁻²\n\nStep 3: Express in scientific notation\n2500 N m⁻² = 2.5 × 10³ N m⁻²",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

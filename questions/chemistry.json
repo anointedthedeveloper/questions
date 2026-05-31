@@ -8686,5 +8686,53 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 374,
+    "question": "Cast iron is used in making",
+    "option": {
+      "a": "Chains and agricultural implements",
+      "b": "Iron sheets and retort stand",
+      "c": "Nails and iron rods",
+      "d": "Stoves and cookers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cast iron, which contains about 3–4% carbon, is hard but brittle. It is used in making stoves, cookers, manhole covers, engine blocks, and pipes. Wrought iron (low carbon) is used for chains and ornamental work; mild steel is used for nails, rods, and sheets.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 17,
+    "question": "In which of the following reactuions does reduction take place",
+    "option": {
+      "a": "Fe2+ - e-   Fe3+",
+      "b": "2O2-  → O2 + 4e-",
+      "c": "Cr - 2e-  → Cr2+",
+      "d": "2H+  +  2e-   →H2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 553,
+    "question": "Which important nitrogen-containing compound is produced in Haber's process?",
+    "option": {
+      "a": "NH₃",
+      "b": "NO₂",
+      "c": "NO",
+      "d": "HNO₃"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Haber process combines nitrogen gas and hydrogen gas under high temperature (450°C), high pressure (200 atm), and an iron catalyst to produce ammonia: N₂ + 3H₂ ⇌ 2NH₃. Ammonia is the primary product and is used in fertiliser production.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

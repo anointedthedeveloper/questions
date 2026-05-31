@@ -11342,5 +11342,21 @@
     "solution": "To remove parallax error, the eye should be focused vertically downwards on the markings, ensuring the line of sight is perpendicular to the scale. This eliminates angular displacement and ensures accurate readings.\nPractical tip: When using a metre rule, always position your eye directly above (perpendicular to) the point you're measuring to avoid parallax error. Some instruments have mirrors behind the scale to help verify correct eye position - your eye and its reflection should align.",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 160,
+    "question": "f a mango fruit dropped at a height of 50 meters. How long does it reach the ground? (take g = 10m/s2)",
+    "option": {
+      "a": "2 sec",
+      "b": "3 sec",
+      "c": " 4sec",
+      "d": "3.2sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nHeight (h) = 50 meters\nInitial velocity (u) = 0 m/s (fruit is dropped, not thrown)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing the equation of motion:\nh = ut + ½gt²\nSince u = 0 (dropped from rest):\nh = ½gt²\nRearranging to find t:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 50/10)\nt = √(100/10)\nt = √10\nt = 3.16 seconds\nt ≈ 3.2 seconds\nAnswer: D. 3.2 sec",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

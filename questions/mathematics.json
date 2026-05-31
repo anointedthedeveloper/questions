@@ -15454,5 +15454,21 @@
     "solution": "Given (-2, 0) ans (0, -4).\n\nGradient = y<sub>2</sub>−y<sub>1</sub>/x<sub>2</sub> − x<sub>1</sub>\n\n= (−4−0)/(0−(−2))\n= −4/2\n \n= -2",
     "examtype": "2020",
     "examyear": "utme"
+  },
+  {
+    "id": 861,
+    "question": "Find the mean of 10, 8, 5, 11, 12, 9, 6, 3, 15, and 23.",
+    "option": {
+      "a": "11.2",
+      "b": "10",
+      "c": "10.2",
+      "d": "11.3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(10+8+5+11+12+9+6+3+15+23)/10\n \n= 102/10\n = 10.2",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

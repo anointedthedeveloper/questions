@@ -8158,5 +8158,53 @@
     "solution": "Given information:\n\nPrimary voltage, Vₚ = 240 V\nPrimary turns, Nₚ = 4000 turns\nSecondary voltage, Vₛ = 12 V\nSecondary turns, Nₛ = ?\n\nSolution:\nStep 1: Apply transformer equation\nFormula: Vₚ/Vₛ = Nₚ/Nₛ\nStep 2: Rearrange for Nₛ\nNₛ = (Vₛ × Nₚ)/Vₚ\nStep 3: Substitute values\nNₛ = (12 × 4000)/240\nNₛ = 48000/240\nNₛ = 200 turns",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 332,
+    "question": "When blue and green colours of light are mixed, the resultant colour is",
+    "option": {
+      "a": "cyan",
+      "b": "magenta",
+      "c": "black",
+      "d": "yellow"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When blue and green colors of light are mixed, the resultant color is cyan (a blue-green color).",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 746,
+    "question": "The frequency of the wave in the diagram above is",
+    "option": {
+      "a": " 0.17 Hz",
+      "b": "0.25 Hz",
+      "c": "1.57 Hz",
+      "d": "1.05 Hz"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430694/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_47_pp0zer.png",
+    "answer": "b",
+    "solution": "Generally, period T = 1/f(reciprocal of frequency).\n=> f = 1/T\nAnd from the diagram, period T = 4s\n∴ frequency, f = 1/T = 1/4 = 0.25 Hz",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 991,
+    "question": "The correct expression for the potential at a point distance r from a charge q in an electric field is?",
+    "option": {
+      "a": "q²/(4πε₀r²)",
+      "b": " q²/(4πε₀r)",
+      "c": "q/(4πε₀r²)",
+      "d": "q/(4πε₀r)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding electric potential:\nElectric potential (V) at a point is the work done per unit charge in bringing a test charge from infinity to that point.\nFormula for electric potential due to a point charge:\nV = kq/r = q/(4πε₀r)\nwhere:\n\nV = electric potential\nq = source charge\nr = distance from the charge\nk = Coulomb's constant = 1/(4πε₀)\nε₀ = permittivity of free space\n\nComparing with electric field:\nElectric field (E):\nE = kq/r² = q/(4πε₀r²)\n\nUnits: N/C or V/m\nVector quantity\nProportional to 1/r²\n\nElectric potential (V):\nV = kq/r = q/(4πε₀r)\n\nUnits: Volts (V) or J/C\nScalar quantity\nProportional to 1/r\n\nThe correct expression for electric potential at distance r from charge q is V = q/(4πε₀r).",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

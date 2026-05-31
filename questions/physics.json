@@ -10126,5 +10126,37 @@
     "solution": "\nGiven information:\n\nSame mass: m_X = m_Y = m\nSame heat supplied: Q_X = Q_Y = Q\nTemperature rise: ΔT_X = 2ΔT_Y\nRatio c_X : c_Y = ?\n\nFormula for heat energy:\nQ = mcΔT\nwhere:\n\nQ = heat energy\nm = mass\nc = specific heat capacity\nΔT = temperature change\n\nSetting up equations:\nFor liquid X:\nQ = mc_X ΔT_X\nFor liquid Y:\nQ = mc_Y ΔT_Y\nSince Q is same for both:\nmc_X ΔT_X = mc_Y ΔT_Y\nSimplifying (m cancels):\nc_X ΔT_X = c_Y ΔT_Y\nRearranging:\nc_X / c_Y = ΔT_Y / ΔT_X\nSubstituting ΔT_X = 2ΔT_Y:\nc_X / c_Y = ΔT_Y / (2ΔT_Y)\nc_X / c_Y = 1/2\nTherefore:\nc_X : c_Y = 1:2",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 808,
+    "question": "A spring of force constant 500 Nm⁻¹ is compressed such that its length shortens by 5cm. The energy stored in the spring is?",
+    "option": {
+      "a": "0.625 J",
+      "b": "6.250 J",
+      "c": " 62.500 J",
+      "d": " 625.000 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nSpring constant (k) = 500 Nm⁻¹\nCompression (x) = 5 cm = 0.05 m\nEnergy stored (E) = ?\n\nFormula for elastic potential energy stored in a spring:\nE = ½kx²\nSubstituting values:\nE = ½ × 500 × (0.05)²\nE = ½ × 500 × 0.0025\nE = ½ × 1.25\nE = 0.625 J",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 343,
+    "question": "Ripple in a power supply unit is caused by",
+    "option": {
+      "a": "using an alternating current source",
+      "b": "forward voltage drop",
+      "c": "heavy load",
+      "d": " using a zener diode"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ripple in a power supply is fundamentally caused by using an alternating current source, which produces a pulsating DC output after rectification that retains some AC variation.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

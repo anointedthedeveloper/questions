@@ -14254,5 +14254,37 @@
     "solution": "Condition for Parallelism means that their gradient value is same\n\nline 2x - y = 5 is rearranged\n\nAs y = 2x - 5 from y = mx + c\n\n: line 2x - y = 5 has the gradient of 2\n\nA parallel line with gradient of 2 and intercept of 5\n\n→ 2x - y = -5\n\nRearranged as y = 2x + 5",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 103,
+    "question": "If U = {x : x is an integer and 1≤ x ≤ 20\nE1 = {x : x is a multiple of 3}\nE2 = {x : x is a multiple of 4}\nand an integer is picked at random from U, find the probability that it is not in E2",
+    "option": {
+      "a": "3/4",
+      "b": "3/10",
+      "c": "1/4",
+      "d": " 1/20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "U = {1, 2, 3, 4, 5,..., 20}\nE1 = {3, 6, 9, 12, 15, 18}\nE2 = {4, 8, 12, 16, 20}\nP(E1) = 5/20\nP(not E1) = 1 - (5/20) = 15/20 = 3/4",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 287,
+    "question": "find the mean deviation of 1, 2, 3 and 4",
+    "option": {
+      "a": "2.5",
+      "b": "2.0",
+      "c": "1.0",
+      "d": "1.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "X = 1, 2, 3, 4; ∑X = 10\nx = ∑X/n = 10/4 = 2.5\nX - x = -1.5, -0.5, 0.5, 1.5\nlX - xl = 1.5, 0.5, 0.5, 1.5; ∑lX - xl = 4.0\nmean deviation = (∑lX - xl)/n\n= 4.0/4\n= 1.0",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

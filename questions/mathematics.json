@@ -11710,5 +11710,37 @@
     "solution": "by method of long division, we get the answer.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 181,
+    "question": "Evaluate ∫sin3xdx",
+    "option": {
+      "a": " (2/3) cos 3x + c",
+      "b": "(1/3) cos 3x + c",
+      "c": "(-1/3) cos 3x + c",
+      "d": "(-2/3) cos 3x + c"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>&#x222B;<!-- ∫ --></mo>\n  <mi>sin</mi>\n  <mo>&#x2061;<!-- ⁡ --></mo>\n  <mn>3</mn>\n  <mi>x</mi>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">d</mi>\n  </mrow>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "∫sin3xdx=−cos3x/3 + c\n= −1/3 (cos 3x) + c",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 839,
+    "question": "Simplify (0.026 × 0.36)/0.69\n. Leave your answer in standard form",
+    "option": {
+      "a": "1.36 x 10-4",
+      "b": "1.36 x 10-3",
+      "c": "1.36 x 10-1",
+      "d": "1.36 x 10-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "(0.026 × 0.36)/0.69\n = (26 × 10<sup>−3</sup> × 36 × 10<sup>−2</sup> )/(69 × 10<sup>−2</sup>\n\n\n= 0.01356 = 1.36 x 10<sup>-2</sup>",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

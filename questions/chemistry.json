@@ -8494,5 +8494,37 @@
     "solution": "The fountain experiment requires a gas with very high solubility in water. When the gas dissolves rapidly, pressure inside the flask drops sharply, drawing water up in a fountain. HCl and NH₃ are both extremely soluble in water and satisfy this requirement. Answer: C.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 30,
+    "question": "Fermentation is the",
+    "option": {
+      "a": "Breaking down of carbohydrate to glucose",
+      "b": "Conversion of sugar to alcohol in the presence of yeast",
+      "c": "Breaking down of sugar to carbohydrate",
+      "d": "Conversion of alcohol to sugar in the presence of yeast"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 311,
+    "question": "The acid in electrolysis of water is dilute",
+    "option": {
+      "a": "HNO₃",
+      "b": "CH₃COOH",
+      "c": " H₂SO₄",
+      "d": "HCl"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Dilute sulfuric acid (H₂SO₄) is used in the electrolysis of water because it's non-volatile, chemically stable, and provides ions for conductivity without interfering with the water decomposition reaction (2H₂O → 2H₂ + O₂).",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

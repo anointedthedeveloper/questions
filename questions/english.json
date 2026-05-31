@@ -13241,5 +13241,62 @@
     "questionNub": 22,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 112,
+    "question": "The <i>potency</i> of the drug has been acknowledged.",
+    "option": {
+      "a": "action",
+      "b": "loss",
+      "c": "inefficacy",
+      "d": "power"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 23,
+    "question": "Nowadays, many graduates are not Will disposed to teaching……………..",
+    "option": {
+      "a": "are they",
+      "b": "aren't they?",
+      "c": "do they?    ",
+      "d": " they are?"
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1472,
+    "question": "The sick man is now [ambulatory]",
+    "option": {
+      "a": "recovering gradually",
+      "b": "walking",
+      "c": " sound in health",
+      "d": "immobile"
+    },
+    "section": "Choose the word that has an opposite meaning to the one in bracket for questions below.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "To ambulatory as in this context is to be able to move or walk around.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 99,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

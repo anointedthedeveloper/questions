@@ -17262,5 +17262,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 1027,
+    "question": "In a class of 150 students, the sector in a pie chart representing the students offering physics has angle 12°. How many students are offering physics? ",
+    "option": {
+      "a": "18",
+      "b": "15",
+      "c": "10",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "No of students offering physics are \n\n12/360 x 150 = 5",
+    "examtype": "2020",
+    "examyear": "utme"
   }
 ]

@@ -5774,5 +5774,37 @@
     "solution": "Given information:\n\nVoltage across resistor, VR = 30 V\nVoltage across capacitor, VC = 120 V\nVoltage across inductor, VL = 60 V\nEffective potential difference (supply voltage), V = ?\n\nSolution:\nStep 1: Apply voltage equation for RLC series circuit\nIn an a.c. series circuit, the effective voltage is given by:\nV² = VR² + (VL - VC)²\nStep 2: Substitute the known values\nV² = 30² + (60 - 120)²\nV² = 30² + (-60)²\nV² = 900 + 3600\nStep 3: Calculate the effective voltage\nV² = 4500\nV = √4500\nV = 67.08 V\nV ≈ 67 V",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 178,
+    "question": "For a best result using temperature to achieve an accurate measurement, it is best to use",
+    "option": {
+      "a": " Mercury thermometer",
+      "b": " gas thermometer",
+      "c": " clinical thermometer",
+      "d": "alcohol thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Gas thermometers are considered best for use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 259,
+    "question": "I. Refraction II. Interference III. Diffraction Which of the above properties are common to all waves?",
+    "option": {
+      "a": "II and III only",
+      "b": " I, II and III",
+      "c": "I and II only",
+      "d": " I and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "All three properties, refraction, interference, and diffraction, are fundamental wave phenomena that occur in ALL types of waves, whether mechanical (sound, water) or electromagnetic (light, radio).",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

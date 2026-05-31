@@ -11998,5 +11998,37 @@
     "solution": "An ideal gas obeys Boyle's Law perfectly: PV = constant, meaning V is inversely proportional to P, giving a straight horizontal line when plotted as PV vs P. Curve N is the flat horizontal line in the diagram, representing a gas that shows no deviation from ideal behaviour across all pressures. Real gases (K, L, M) show deviations — dipping below or rising above the ideal line.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 528,
+    "question": "For the general equation of the nature xP + yQ ⇌ mR + nS, the expression for the equilibrium constant is",
+    "option": {
+      "a": "k[P]ˣ[Q]ʸ",
+      "b": "m[R][S] / x[P]y[Q]",
+      "c": "[P]ˣ[Q]ʸ / [R]ᵐ[S]ⁿ",
+      "d": "[R]ᵐ[S]ⁿ / [P]ˣ[Q]ʸ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The equilibrium constant Kc = [products]/[reactants], with each concentration raised to its stoichiometric coefficient. For xP + yQ ⇌ mR + nS: Kc = [R]ᵐ[S]ⁿ / [P]ˣ[Q]ʸ. Products appear in the numerator and reactants in the denominator, each raised to their respective coefficients.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 757,
+    "question": "In the table above, the two compounds that will combine in the presence of an acid catalyst to form compound V are",
+    "option": {
+      "a": "I and IV",
+      "b": "III and IV",
+      "c": "I and II",
+      "d": "II and III"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777640735/ALOC-Questions/Chemistry/UTME/2025/Chemistry_2025_Q34_sawho2.png",
+    "answer": "a",
+    "solution": "Compound V is an ester (RCOOR'). Esters are formed by acid-catalyzed esterification: RCOOH (carboxylic acid = IV) + ROH (alcohol = I) → RCOOR' + H₂O. Therefore compounds I and IV combine to produce compound V.",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

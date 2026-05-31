@@ -11694,5 +11694,69 @@
     "solution": "\nA negative temperature coefficient means α < 0\nThis occurs when ΔR < 0 for ΔT > 0\nTherefore: as temperature increases, resistance decreases\nPhysical basis:\nIn semiconductors, higher temperature increases the number of charge carriers (electrons and holes), which increases conductivity and decreases resistance.",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1013,
+    "question": "Clinical thermometers are examples of",
+    "option": {
+      "a": "pressure gas thermometer",
+      "b": "resistance thermometer",
+      "c": "alcohol thermometer",
+      "d": " mercury- in - glass thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Clinical thermometers are traditionally examples of mercury-in-glass thermometers, which use the thermal expansion of mercury in a narrow glass tube to measure body temperature accurately within the range of 35°C to 42°C.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 676,
+    "question": "An electric device is rated 2000 W, 250 v. The correct fuse rating of the device is?",
+    "option": {
+      "a": "9 A",
+      "b": "8 A",
+      "c": "6 A",
+      "d": "7 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\nPower, P = 2000 W\nVoltage, V = 250 V\n\nStep 1: Calculate operating current\nI = P / V = 2000 / 250 = 8 A\n\nStep 2: Determine fuse rating principle\nA fuse rating should be slightly higher than the normal operating current to allow for normal operation without unnecessary blowing, but not too high to fail protection.  9 A is the next higher standard value and provides a small safety margin.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 842,
+    "question": "The diagram above is the heating curve for a solid, QR is the?",
+    "option": {
+      "a": "melting region",
+      "b": "boiling region",
+      "c": " sublimation region",
+      "d": "evaporating process"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432563/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_43_kgsgv7.png",
+    "answer": "a",
+    "solution": "At melting point there is no change temperature",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 369,
+    "question": "The lead-acid accumulator consists of",
+    "option": {
+      "a": " lead as the positive electrode",
+      "b": "lead acid as the negative electrode",
+      "c": "hydrochloric acid as the electrolyte",
+      "d": "tetraoxosulphate (vi) acid as the electrolyte"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The lead-acid accumulator uses tetraoxosulphate (VI) acid (sulfuric acid, H₂SO₄) as the electrolyte.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

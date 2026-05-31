@@ -16846,5 +16846,37 @@
     "solution": "2x + x = 180°\n\n3x = 180°\n\nx = 60° (exterior angle of the polygon)\n\nangle = total angle/number of sides\n\n\n60 = 360/n\n\n\nn = 360/60\n\n\nn = 6 sides",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 896,
+    "question": "Find the principal which amounts to ₦ 5,500 at a simple interest in 5 years at 2% per annum",
+    "option": {
+      "a": " ₦ 4,900",
+      "b": "₦ 5,000",
+      "c": "₦ 4,700",
+      "d": "₦ 4,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Principal = P, Simple Interest = I, Amount = A\n\nAmount = Principal + Simple Interest\n\nI = PRT/100\n\n\nR = rate, T = time\n\nI = (P×5×2)/100\n\n\nI = 10P/100\n\n\nI = P/10\n\n\nAmount A = P + I\n\n5500 = P + P/10\n\n\nMultiply through by 100\n\n5500 = 10P + P\n\n5500 = 11P\n\np = 5500/11\n\n\np = ₦5000",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 582,
+    "question": "From the cyclic quadrilateral TUVW above, find the value of x",
+    "option": {
+      "a": "26°",
+      "b": "24°",
+      "c": "20°",
+      "d": "23°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128258/ALOC-Questions/Mathematics/2010/MATH_2010_Q11_fzqprk.jpg",
+    "answer": "b",
+    "solution": "TUVW is a cyclic quad\n3χ + 20 + 88 = 180 (opp ∠ s of a cyclic quad are supplementary)\n3χ + 108 = 180\n3χ = 180 - 108\n3χ = 72\nχ = 72/3\nχ = 24°",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

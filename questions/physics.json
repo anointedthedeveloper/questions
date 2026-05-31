@@ -9630,5 +9630,37 @@
     "solution": "Given information:\n\nMass of first ball (m₁) = 0.5 kg\nInitial velocity of first ball (u₁) = 10 m/s\nMass of second ball (m₂) = 0.5 kg\nInitial velocity of second ball (u₂) = 0 m/s (at rest)\nCommon final velocity (v) = ?\n\nThis is an inelastic collision (balls stick together)\nUsing Conservation of Momentum:\nTotal momentum before collision = Total momentum after collision\nm₁u₁ + m₂u₂ = (m₁ + m₂)v\nSubstituting values:\n(0.5 × 10) + (0.5 × 0) = (0.5 + 0.5)v\n5 + 0 = 1.0v\n5 = v\nv = 5.0 m/s",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 125,
+    "question": "A 3.0cm object is placed 12.0cm in front of bi-convex lens of focal length 8.0cm. Calculate the height of the image of the object.  ",
+    "option": {
+      "a": "3.0cm ",
+      "b": "6.0cm ",
+      "c": "12.0cm ",
+      "d": "24.0cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 12,
+    "question": "The most suitable type of mirror used for the construction of search light is the: ",
+    "option": {
+      "a": "concave mirror ",
+      "b": "Convex mirror ",
+      "c": "Spherical mirror ",
+      "d": "Parabolic Mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
   }
 ]

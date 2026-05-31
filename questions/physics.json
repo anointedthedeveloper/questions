@@ -10110,5 +10110,21 @@
     "solution": "Given information:\nWave equation: y = 15 sin (2π/5)(60t - x)\n\nSolution:\n\nStep 1: Rewrite the equation in standard form\nThe argument of the sine function is (2π/5)(60t - x).\nExpanding: (2π/5)(60t - x) = (2π × 60 / 5)t - (2π/5)x = (120π/5)t - (2π/5)x = 24π t - (2π/5)x\n\nStep 2: Identify the wave number k\nThe standard form is y = A sin(ωt - kx), where k = 2π/λ.\nFrom the equation, k = 2π/5.\n\nStep 3: Calculate wavelength λ\nλ = 2π / k = 2π / (2π/5) = 5 m",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 1054,
+    "question": "Two liquids X and Y having the same mass are supplied with the same quantity of heat. If the temperature rise in X is twice that of Y, the ratio of specific heat capacity of X to that of Y is",
+    "option": {
+      "a": "2:1",
+      "b": "1:2",
+      "c": "4:1",
+      "d": "1:4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nSame mass: m_X = m_Y = m\nSame heat supplied: Q_X = Q_Y = Q\nTemperature rise: ΔT_X = 2ΔT_Y\nRatio c_X : c_Y = ?\n\nFormula for heat energy:\nQ = mcΔT\nwhere:\n\nQ = heat energy\nm = mass\nc = specific heat capacity\nΔT = temperature change\n\nSetting up equations:\nFor liquid X:\nQ = mc_X ΔT_X\nFor liquid Y:\nQ = mc_Y ΔT_Y\nSince Q is same for both:\nmc_X ΔT_X = mc_Y ΔT_Y\nSimplifying (m cancels):\nc_X ΔT_X = c_Y ΔT_Y\nRearranging:\nc_X / c_Y = ΔT_Y / ΔT_X\nSubstituting ΔT_X = 2ΔT_Y:\nc_X / c_Y = ΔT_Y / (2ΔT_Y)\nc_X / c_Y = 1/2\nTherefore:\nc_X : c_Y = 1:2",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

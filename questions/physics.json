@@ -10878,5 +10878,21 @@
     "solution": "Given information:\nFocal length f = 12 cm (positive for convex mirror in Cartesian sign convention)\nImage distance v = 6 cm (positive, since image is virtual and behind the mirror)\nObject distance u = ?\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n\nStep 2: Substitute values\n1/12 = 1/u + 1/6\n\nStep 3: Solve for 1/u\n1/u = 1/12 – 1/6 = 1/12 – 2/12 = –1/12\n\nStep 4: Find u\nu = –12 cm\n\nThe negative sign indicates the object is placed in front of the mirror (real object). The distance is 12 cm.",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 157,
+    "question": "Quantities of heat Q can be measured using a container called",
+    "option": {
+      "a": "Thermometer",
+      "b": "Measuring cylinder",
+      "c": "Calorimeter",
+      "d": "Meter rule"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

@@ -11150,5 +11150,133 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 246,
+    "question": "When two objects P and Q are supplied with the same quantity of heat, the temperature change in P is observed to be twice that of Q. The mass of P is half that of Q. The ratio of the specific heat capacity pf P to Q is",
+    "option": {
+      "a": "1:04",
+      "b": "4:01",
+      "c": "1:01",
+      "d": "2:01"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nSame heat supplied: Qₚ = Q_Q = Q\nTemperature change: ΔTₚ = 2ΔT_Q\nMass: mₚ = ½m_Q\nRatio Cₚ:C_Q = ?\n\nFormula:\nQ = mcΔT\nFor object P:\nQ = mₚCₚΔTₚ\nQ = (½m_Q)Cₚ(2ΔT_Q)\nQ = m_QCₚΔT_Q\nFor object Q:\nQ = m_QC_QΔT_Q\nSince both receive the same heat:\nm_QCₚΔT_Q = m_QC_QΔT_Q\nCanceling m_Q and ΔT_Q:\nCₚ = C_Q\nTherefore:\nCₚ/C_Q = 1/1 = 1:1",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 477,
+    "question": "According to kinetic molecular model in gases,",
+    "option": {
+      "a": "the particles are closely packed together; they occupy minimum space are usually arranged in a regular pattern",
+      "b": "the particles vibrate about fixed positions and are held together by the strong intermolecular bonds between them",
+      "c": "the molecules are very far apart and occupy all the spaces made available to them",
+      "d": "the particles occur in clusters with molecules slightly further apart"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The model, called the kinetic theory of gases, assumes that the molecules are very small relative to the distance between molecules.\n\nThe molecules are in constant, random motion and frequently collide with each other and with the walls of any container.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 755,
+    "question": "A reservoir 500 m deep is filled with a fluid of density 850 kgm⁻³. If the atmospheric pressure is 1.05 × 10⁵ Nm⁻², the pressure at the bottom of the reservoir is. [g = 10ms⁻²]",
+    "option": {
+      "a": "4.72 × 10⁶ Nm⁻²",
+      "b": "4.36 × 10⁶ Nm⁻²",
+      "c": "4.28 × 10⁶ Nm⁻²",
+      "d": "4.25 × 10⁶ Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDepth (h) = 500 m\nDensity of fluid (ρ) = 850 kg/m³\nAtmospheric pressure (P₀) = 1.05 × 10⁵ N/m²\ng = 10 m/s²\nPressure at bottom (P) = ?\n\nFormula for pressure at depth:\nP = P₀ + ρgh\nwhere:\n\nP₀ = atmospheric pressure\nρgh = pressure due to fluid column\n\nStep 1: Calculate pressure due to fluid column\nρgh = 850 × 10 × 500\nρgh = 850 × 5000\nρgh = 4,250,000 N/m²\nρgh = 4.25 × 10⁶ N/m²\nStep 2: Calculate total pressure at bottom\nP = P₀ + ρgh\nP = 1.05 × 10⁵ + 4.25 × 10⁶\nP = 0.105 × 10⁶ + 4.25 × 10⁶\nP = 4.355 × 10⁶ N/m²\nP ≈ 4.36 × 10⁶ N/m²",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 899,
+    "question": "A stone is dropped from the top of a tower 80m high. Calculate the time it takes to reach the ground. [g = 10 ms⁻²]",
+    "option": {
+      "a": "2 s",
+      "b": " 4 s",
+      "c": "6 s",
+      "d": "8 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nHeight of tower (h) = 80 m\nInitial velocity (u) = 0 m/s (dropped from rest)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing equation of motion:\ns = ut + ½gt²\nSince the stone is dropped (u = 0):\nh = ½gt²\nRearranging for time:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 80/10)\nt = √(160/10)\nt = √16\nt = 4 s",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 96,
+    "question": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)  ",
+    "option": {
+      "a": "142.90C  ",
+      "b": "63.60C  ",
+      "c": "43.00C  ",
+      "d": "00C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 993,
+    "question": "A length of wire has a frequency of 225 Hz when stretched by a force of 225 N. If the force increased to 324 N, what is the new frequency of vibration?",
+    "option": {
+      "a": "270 Hz",
+      "b": "512 Hz",
+      "c": "488 Hz",
+      "d": "356 Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial tension, T₁ = 225 N\nInitial frequency, f₁ = 225 Hz\nFinal tension, T₂ = 324 N\n\nSolution:\n\nStep 1: Relationship for frequency of a stretched string\nFor a string of fixed length and linear density, frequency f ∝ √T.\nThus, f₂ / f₁ = √(T₂ / T₁)\n\nStep 2: Substitute values\nf₂ / 225 = √(324 / 225)\n\nStep 3: Simplify the square root\n√(324 / 225) = √324 / √225 = 18 / 15 = 6 / 5 = 1.2\n\nStep 4: Calculate f₂\nf₂ = 225 × 1.2 = 270 Hz",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 210,
+    "question": "Vapour is said to be saturated on top of an enclosed liquid if _________",
+    "option": {
+      "a": "The rate of condensation is greater than that of vapourization",
+      "b": "The rate of condensation is equal to that of vapourization",
+      "c": "There is neither condensation nor vaporization of the liquid",
+      "d": "The rate of condensation is less that that of vaporization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Saturated vapour exists when the rates of condensation and vaporization are equal, creating a dynamic equilibrium.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 430,
+    "question": "A boy standing some distance from the foot of a tall cliff claps his hands and hears an echo 0.5s later. If the speed of sound is 340ms⁻¹, how far is he from the cliff?",
+    "option": {
+      "a": "680m",
+      "b": "170m",
+      "c": "34m",
+      "d": "85m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nTime for echo = 0.5 s\nSpeed of sound (v) = 340 m/s\nDistance to cliff = ?\n\nUnderstanding echo:\n\nSound travels from boy to cliff and back to boy\nTotal distance = 2 × distance to cliff\nTime given is for the round trip\n\nStep 1: Calculate total distance traveled by sound\nTotal distance = Speed × Time\nTotal distance = 340 × 0.5\nTotal distance = 170 m\nStep 2: Calculate distance to cliff\nSince sound travels to the cliff and back:\nDistance to cliff = Total distance / 2\nDistance to cliff = 170 / 2\nDistance to cliff = 85 m",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

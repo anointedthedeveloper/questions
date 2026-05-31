@@ -16702,5 +16702,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 550,
+    "question": "What is the locus of the mid-point of all the chords of length 6cm with circle of radius 5cm and with center O?",
+    "option": {
+      "a": "A circle of radius 4 cm and the center 0",
+      "b": "The perpendicular bisector of the chords",
+      "c": "A straight line passing through 0",
+      "d": "A circle of radius 6 cm and with center 0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547223/ALOC-Questions/Mathematics/2009/MATH_2009_Q29_SOLUTION_mwxenz.jpg",
+    "answer": "a",
+    "solution": "x<sup>2</sup> + 3<sup>3</sup> = 5<sup>2</sup>\nx<sup>2</sup> + 9 = 25\nx<sup>2</sup> = 25 – 9\nx<sup>2</sup> = 16\n\nx = √ 16 \n\n= 4 cm\n∴ The locus is a circle of radius 4 cm with the center O",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1198,
+    "question": "Find the value of k if y - 1 is a factor of y<sup>3</sup> + 4y<sup>2</sup> + ky - 6",
+    "option": {
+      "a": "-6",
+      "b": "-4",
+      "c": "O",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "if y - 1 is a factor of y<sup>3</sup> + 4y<sup>2</sup> + ky - 6, then\n\nf(1) = (1)<sup>3</sup> + 4(1)<sup>2</sup> + k(1) - 6 = 0 (factor theorem)\n\n1 + 4 + k - 6 = 0\n\n5 - 6 + k = 0\n\n-1 + k = 0\n\nk = 1",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

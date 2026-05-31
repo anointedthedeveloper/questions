@@ -1054,5 +1054,69 @@
     "solution": "Given information:\n\nMass (m) = 60 kg\nAcceleration upward (a) = 10 m/s²\nAcceleration due to gravity (g) = 10 m/s²\nApplied force (F) = ?\n\nForces acting on the mass:\n\nApplied force (F) acting upward\nWeight (W = mg) acting downward\n\nUsing Newton's Second Law:\nNet force = mass × acceleration\nFor upward motion:\nF - mg = ma\nRearranging:\nF = ma + mg\nF = m(a + g)\nSubstituting values:\nF = 60(10 + 10)\nF = 60 × 20\nF = 1200 N\nAnswer: C. 1200N\nA force of 1200N must be exerted to give the mass an upward acceleration of 10 m/s².",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 939,
+    "question": "Three capacitors of capacitance 2 μF, 4 μF and 8 μF are connected in parallel and a P.D of 6 V is maintained across each capacitor. The total energy stored is?",
+    "option": {
+      "a": " 2.52 × 10⁻⁶ J",
+      "b": "6.90 × 10⁻⁶ J",
+      "c": "2.52 × 10⁻⁴ J",
+      "d": " 6.90 × 10⁻⁴ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nC₁ = 2 μF = 2 × 10⁻⁶ F\nC₂ = 4 μF = 4 × 10⁻⁶ F\nC₃ = 8 μF = 8 × 10⁻⁶ F\nVoltage across each, V = 6 V\nConnection: parallel\n\nSolution:\n\nStep 1: Total capacitance in parallel\nFor parallel combination, total capacitance C = C₁ + C₂ + C₃\nC = (2 + 4 + 8) × 10⁻⁶ F = 14 × 10⁻⁶ F\n\nStep 2: Formula for energy stored in a capacitor\nEnergy stored E = ½ C V²\n\nStep 3: Substitute values\nE = ½ × (14 × 10⁻⁶) × (6)²\nE = ½ × 14 × 10⁻⁶ × 36\n\nStep 4: Simplify\n½ × 36 = 18\nE = 14 × 18 × 10⁻⁶ = 252 × 10⁻⁶ J\n\nStep 5: Express in scientific notation\n252 × 10⁻⁶ = 2.52 × 10⁻⁴ J",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 249,
+    "question": "The net capacitance in the circuit above is",
+    "option": {
+      "a": "80µF",
+      "b": " 6.0µF",
+      "c": " 4.0µF",
+      "d": "2.0µF"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610999/ALOC-Questions/Physics/2017/2017_Q_20_jqc9yc.png",
+    "answer": "d",
+    "solution": "Series arrangement:\nIf the two 2µF are in parallel first: 2 + 2 = 4µF\nThen this 4µF is in series with the other 4µF:\n1/C_total = 1/4 + 1/4 = 2/4\nC_total = 2µF",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 1115,
+    "question": "Calculate the mass of the copper deposited during electrolysis when a current of 4 A passes through a copper salt for 2 hours. [Ece of Copper, z = 3.3 × 10⁻⁷ kg C⁻¹]",
+    "option": {
+      "a": " 2.9 × 10⁵ kg",
+      "b": " 9.5 × 10⁻⁷ kg",
+      "c": " 9.5 × 10⁻³ kg",
+      "d": " 2.9 × 10⁴ kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nCurrent, I = 4 A\nTime, t = 2 hours = 2 × 3600 = 7200 s\nElectrochemical equivalent, z = 3.3 × 10⁻⁷ kg C⁻¹\n\nSolution:\n\nStep 1: Calculate total charge passed\nQ = I × t = 4 A × 7200 s = 28 800 C\n\nStep 2: Calculate mass deposited\nm = z × Q = (3.3 × 10⁻⁷) × 28 800 = 3.3 × 10⁻⁷ × 2.88 × 10⁴ = 3.3 × 2.88 × 10⁻³ = 9.504 × 10⁻³ kg\n\nStep 3: Round to two significant figures\n9.504 × 10⁻³ kg ≈ 9.5 × 10⁻³ kg",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 852,
+    "question": "A bullet fired vertically upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0 s. Calculate its initial velocity. [g = 10 m s⁻²]",
+    "option": {
+      "a": "10 m s⁻¹",
+      "b": "8 m s⁻¹",
+      "c": "40 m s⁻¹",
+      "d": "20 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nTime to reach maximum height, t = 4.0 s\nAcceleration due to gravity, g = 10 m s⁻²\nInitial height above ground = 2.0 m (not needed for initial velocity calculation)\n\nSolution:\n\nStep 1: Relation at maximum height\nAt maximum height, final velocity v = 0. Using first equation of motion:\nv = u – gt\n0 = u – 10 × 4\n\nStep 2: Solve for initial velocity u\nu = 40 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

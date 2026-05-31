@@ -12622,5 +12622,37 @@
     "solution": "Let the total number of items in the man's shop = y\nNumber of Brand A's items in the man's shop = 1/9y\nRemaining items = 1 - 1/9y=8/9y\nNumber of Brand B's items in The man's shop = 5/8of8/9y=5/9y\nTotal of Brand A and Brand B's items = 1/9y+5/9y=2/3y\nNumber of Brand C's items in the man's shop = 1 - 2/3y=1/3y\n⟹1/3y = 81 (Given)\n\n⟹y = 81 x 3 = 243\n\n∴ The total number of items in the man's shop = 243\n\n∴ Number of Brand B's items in the man's shop = 5/9\n x 243 = 135\n\n∴ The number of more Brand B items than Brand C = 135 - 81 =54",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 1194,
+    "question": "Evaluate Log<sub>2</sub> 8 + Log<sub>2</sub> 16 - Log<sub>2</sub> 4",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "=log<sub>2</sub> (8 × 16)/4\n\n\n=log<sub>2</sub> 32\n\n=log<sub>2</sub> 2<sup>5</sup> \n\n\n=5log<sub>2</sub>2 \n\n\n= 5 × 1\n\n\n= 5",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1177,
+    "question": "The angle of elevation and depression of the top and bottom of another building, measured from the top of a 24 m tall building, is 30° and 60°, respectively. Determine the second building's height.",
+    "option": {
+      "a": "24 m",
+      "b": "32√3m",
+      "c": "24√3",
+      "d": " 32 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The height of the second building H = h + 24\n\ntan θ = opp/adj\ntan 30° = h/x\n⟹3√3 = h/x\n⟹x = √3 = 3h\n⟹x = 3h/√3 ....(i)\n\ntan 60° = 24/x\n⟹√3 = 24x\n⟹x√3 = 24\n⟹x = 24/√3 ....(ii)\n\nEquate equation (i) and (ii)\n\n⟹3h/√3 = 24/√3\n⟹ 3h = 24\n\n⟹h = 24/3 = 8m\n\n∴The height of the second building = 8 + 24 = 32m",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

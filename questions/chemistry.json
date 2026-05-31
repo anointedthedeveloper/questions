@@ -9326,5 +9326,69 @@
     "solution": "NH₄Cl contains both ionic and covalent bonding. Within the NH₄⁺ ion, there are three ordinary N-H covalent bonds and one dative covalent bond (from NH₃ + H⁺). Between NH₄⁺ and Cl⁻, the bonding is ionic (electrostatic attraction between oppositely charged ions). So NH₄Cl has both ionic and covalent bonding.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 48,
+    "question": "A little quantity of Trichloromethane (b.pt.600C) was added to a large quantity of ethanol (b.pt.780C). the most probable boiling point of the resultant mixture is from",
+    "option": {
+      "a": "699C – 700C",
+      "b": "820C – 840C",
+      "c": "600C – 780C",
+      "d": "700C – 744C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 511,
+    "question": "The IUPAC name of the compound CF₃CHBrCl is",
+    "option": {
+      "a": "2-chloro-2-bromo-1,1,1-trifluoroethane",
+      "b": "2-bromo-2-chloro-1,1,1-trifluoroethane",
+      "c": "1-bromo-1-chloro-2,2,2-trifluoroethane",
+      "d": "1,1,1-trifluoro-2-bromo-2-chloroethane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In CF₃CHBrCl: C1 carries the three F atoms, C2 carries Br, Cl, and H. Numbering to give lowest locants: C1 = CF₃ (F gets positions 1,1,1), C2 = CHBrCl (Br and Cl at position 2). Substituents listed alphabetically: bromo before chloro before fluoro. IUPAC name: 1-bromo-1-chloro-2,2,2-trifluoroethane.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 399,
+    "question": "In the diagram above, X is the",
+    "option": {
+      "a": "Enthalpy",
+      "b": "Activated complex",
+      "c": "Activation energy",
+      "d": "Enthalpy change"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636239/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q45_px9hlb.png",
+    "answer": "d",
+    "solution": "In the energy profile diagram, X is the arrow showing the difference in energy level between the reactants and the products. This energy difference is the enthalpy change (ΔH) of the reaction. Since products are lower in energy than reactants, ΔH is negative (exothermic). The activation energy would be measured from reactants to the peak, not between reactants and products.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 417,
+    "question": "The oxidation number of iodine in KIO₃ is",
+    "option": {
+      "a": "7",
+      "b": "3",
+      "c": "5",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In KIO₃: K = +1, O = -2. Let I = x. +1 + x + 3(-2) = 0 → 1 + x - 6 = 0 → x = +5. The oxidation number of iodine in KIO₃ is +5.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

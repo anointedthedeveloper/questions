@@ -4974,5 +4974,85 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 1082,
+    "question": "I. Electrical potential\nII. Torque\nIII. Kinetic Energy\nIV. Momentum\n\n\nWhich of the quantities listed are vectors?",
+    "option": {
+      "a": "II and IV",
+      "b": "I and II",
+      "c": "I and III",
+      "d": "II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The vector quantities are II and IV.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 866,
+    "question": "A man standing 2 m from a charcoal fire is warmed mainly by?",
+    "option": {
+      "a": "convection",
+      "b": "radiation",
+      "c": "refraction",
+      "d": "conduction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Radiation is the method of heat transfer with or without a material medium. It can be through space or through a material medium.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 239,
+    "question": "Which of the following statements is NOT correct?",
+    "option": {
+      "a": "Molecules of a liquid are stationary",
+      "b": " Brownian motion is an evidence of particle nature of matter",
+      "c": "Matter is made up of molecules",
+      "d": "The molecules of matter are in constant motion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Molecules of a liquid are stationary is NOT correct because liquid molecules are constantly in random motion, not stationary.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 251,
+    "question": "A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10ms⁻², the power expended is",
+    "option": {
+      "a": "100W",
+      "b": "200W",
+      "c": "400W",
+      "d": "500W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 50 kg\nHeight (h) = 5 m\nTime (t) = 5 seconds\nAcceleration due to gravity (g) = 10 m/s²\nPower (P) = ?\n\nStep 1: Calculate work done against gravity\nWork = Force × Distance\nWork = Weight × Height\nWork = mgh\nWork = 50 × 10 × 5\nWork = 2500 J\nStep 2: Calculate power\nPower = Work/Time\nP = 2500/5\nP = 500 W",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 749,
+    "question": "When the base current of a common-emitter transistor is kept at zero, it operates in the ",
+    "option": {
+      "a": "active-on region",
+      "b": " breakdown region",
+      "c": "saturation region",
+      "d": "cut-off region"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When the base current of a common-emitter transistor is zero, it operates in the cut-off region, meaning it does not conduct current. This region is essential for the transistor to act as an off switch in circuits.",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

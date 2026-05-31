@@ -11582,5 +11582,101 @@
     "solution": "When an atom loses or gains electrons (charge), it becomes an ion - a charged particle.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 235,
+    "question": "Under what conditions are cathode rays produced in a discharge tube?",
+    "option": {
+      "a": " High pressure and low voltage",
+      "b": " High pressure and high voltage",
+      "c": " Low pressure and low voltage",
+      "d": " Low pressure and high volatge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cathode rays are produced in a discharge tube under Low pressure and high voltage",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 218,
+    "question": "A body which weighs 50N in air displaces 3.7kg of water when partially immersed in water. Calculate the upthrust on the body?",
+    "option": {
+      "a": "8.7N",
+      "b": "37.0N",
+      "c": " 87.0N",
+      "d": "13.0N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nWeight in air = 50 N\nMass of water displaced = 3.7 kg\nUpthrust = ?\n\nUsing Archimedes' Principle:\nUpthrust = Weight of fluid displaced\nCalculate weight of water displaced:\nWeight = Mass × g\nUpthrust = 3.7 kg × 10 m/s²\nUpthrust = 37 N\nExplanation:\nWhen a body is immersed in a fluid, it experiences an upward force (upthrust) equal to the weight of the fluid it displaces. Since the body displaces 3.7 kg of water, the upthrust equals the weight of this water.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 771,
+    "question": "The energy E of a photon and its wavelength are related by Eλ = X. The numerical value of X is? [h = 6.63 × 10⁻³⁴ Js, c = 3 × 10⁸ ms⁻¹]",
+    "option": {
+      "a": "6.6 × 10⁻²⁸",
+      "b": "1.99 × 10⁻²⁷",
+      "c": "6.60 × 10⁻²⁶",
+      "d": " 1.99 × 10⁻²⁵"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding photon energy:\nFormula for photon energy:\nE = hf\nwhere:\n\nh = Planck's constant\nf = frequency\n\nRelating frequency and wavelength:\nc = fλ\nTherefore: f = c/λ\nSubstituting into energy equation:\nE = h(c/λ)\nE = hc/λ\nRearranging:\nEλ = hc\nTherefore:\nX = hc\nStep 1: Calculate X\nX = hc\nX = 6.63 × 10⁻³⁴ × 3 × 10⁸\nX = 19.89 × 10⁻³⁴⁺⁸\nX = 19.89 × 10⁻²⁶\nX = 1.989 × 10⁻²⁵\nX ≈ 1.99 × 10⁻²⁵\nUnit check:\nX = hc = (J·s)(m/s) = J·m",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 600,
+    "question": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
+    "option": {
+      "a": "armature coil should be made of silver",
+      "b": " commutator should be replaced with slip ring",
+      "c": "commutator should be replaced with split rings",
+      "d": "armature coil should be made of aluminium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To convert a DC dynamo to an AC dynamo, the split-ring commutator must be replaced with slip rings. This allows the alternating current generated in the rotating coil to be delivered to the external circuit without rectification.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 638,
+    "question": "When left in a freezer, a bottle full of water cracks on freezing into ice because of the",
+    "option": {
+      "a": "increase in the volume of water",
+      "b": " contraction of the bottle",
+      "c": " expansion of the bottle",
+      "d": " decrease in the volume of water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nThe bottle cracks due to increase in the volume of water when it freezes.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1038,
+    "question": "A piece of radioactive material contains 1000 atoms. If its half‑life is 20 seconds, the time taken for 125 atoms to remain is",
+    "option": {
+      "a": "20 seconds",
+      "b": "40 seconds",
+      "c": "80 seconds",
+      "d": "60 seconds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nInitial number of atoms, N₀ = 1000\nHalf‑life, T = 20 s\nRemaining atoms, N = 125\n\nSolution:\n\nStep 1: Radioactive decay formula\nN = N₀ × (½)^(t / T)\n\nStep 2: Substitute the values\n125 = 1000 × (½)^(t / 20)\n\nStep 3: Divide both sides by 1000\n125 / 1000 = (½)^(t / 20)\n0.125 = (½)^(t / 20)\n\nStep 4: Express 0.125 as a power of ½\n0.125 = ⅛ = (½)³\n\nStep 5: Equate exponents\n(½)^(t / 20) = (½)³\nt / 20 = 3\nt = 60 s",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

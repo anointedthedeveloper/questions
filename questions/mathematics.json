@@ -16782,5 +16782,69 @@
     "solution": "Number of yellow cars = 3\nTotal number of cars = 3 + 4 + 8 + 2 + 6 + 2 = 25\nFraction of yellow cars = 3/25",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 792,
+    "question": "Find the mean of t + 2, 2t - 4, 3t + 2 and 2t.",
+    "option": {
+      "a": "t + 1",
+      "b": "2t",
+      "c": " 2t + 1",
+      "d": "t"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "∑x\n  = (t + 2) + (2t + 4) + (3t + 2) + 2t = 8t\n\nN = 4\n\n∴ Mean, x = ∑xN=8t4=2t\n\n\n= 2t",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 592,
+    "question": "Find r, if 6r7<sub>8</sub> = 511<sub>9</sub>",
+    "option": {
+      "a": "3",
+      "b": "2",
+      "c": "6",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": " 6r7<sub>8</sub> = 511<sub>9</sub>                               \n6 x 8<sup>2</sup> + r x 8<sup>1</sup> + 7 x 8<sup>0</sup> = 5 x 9<sup>2</sup> + 1 x 9<sup>1</sup> + 1 x 9<sup>0</sup>\n\n6 x 64 + 8r + 7 x 1 = 5 x 81 + 9 + 1 x 1\n\n384 + 8r + 7 = 405 + 9 + 1\n\n \n\n8r = 415 - 391\n\n 8r = 24\n\nr = 24/8\n\n= 3",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 902,
+    "question": "Find ∫(x<sup>2</sup>  + 3x − 5)dx",
+    "option": {
+      "a": "x3/3  - 3x2/2 - 5x + k",
+      "b": "x3/3 - 3x2/2\n + 5x + k",
+      "c": "x3/3  + 3x2/2 - 5x + k",
+      "d": "x3/3  + 3x2/2\n + 5x + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫x<sup>n</sup>dx = x<sub>n+1</sub>/n+1\n\n\n∫dx = x + k\n\nwhere k is constant\n\n∫(x<sup>2</sup>  + 3x − 5)dx\n\n∫x<sup>2</sup>  dx + ∫3xdx − ∫5dx\n\n(2<sub>2</sub> + 1)/(2 + 1)\n + 3x<sup>1+1</sup>/(1+1)\n − 5x + k\n\nx<sub>3</sub>/3 + 3x<sub>2</sub>/2 − 5x + k",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 886,
+    "question": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon",
+    "option": {
+      "a": "8",
+      "b": "6",
+      "c": "4",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2x + x = 180°\n\n3x = 180°\n\nx = 60° (exterior angle of the polygon)\n\nangle = total angle/number of sides\n\n\n60 = 360/n\n\n\nn = 360/60\n\n\nn = 6 sides",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

@@ -11470,5 +11470,69 @@
     "solution": "T = {evenn numbers from 1 to 12}\nN = {common factors of 6,8 and 12}\nFind T ∩ N\nT = {2, 4, 6, 8, 10, 12}\nN = {2}\nT ∩ N = {2} i.e value common to T & N",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 601,
+    "question": "If 9x<sup>2</sup>  + 6xy + 4y<sup>2</sup>  is a factor of 27x<sup>3</sup>  - 8y<sup>3</sup> , find the other factor.",
+    "option": {
+      "a": "2y + 3x",
+      "b": " 2y - 3x",
+      "c": "3x + 2y",
+      "d": " 3x - 2y"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "27x<sup>3</sup>  - 8y<sup>3</sup> = (3x - 2y)3\n\nBut 9x<sup>2</sup>  + 6xy + 4y<sup>2</sup>  = (3x +2y)2\n\nSo, 27x<sup>3</sup>  - 8y<sup>3</sup>  = (3x - 2y)(3x - 2y)<sup>2</sup> \n\nHence the other factor is 3x - 2y",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 817,
+    "question": "P, Q and R are subsets of the universal set U. The Venn diagram showing the relationship (P∩Q)∪R\n is",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131538/ALOC-Questions/Mathematics/2013/JAMB_MATH_2013_Q48_ka7ezx.png",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 265,
+    "question": "Find the number of committees of three that can be formed \nconsisting of two men and one woman from four men \nand three women.",
+    "option": {
+      "a": "24",
+      "b": "18",
+      "c": "3",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1163,
+    "question": "Find the value of y, if log (y + 8) + log (y - 8) = 2log 3 + 2log 5",
+    "option": {
+      "a": " y = ±5",
+      "b": " y = ±10",
+      "c": " y = ±17",
+      "d": " y = ±13"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "log (y + 8) + log (y - 8) = 2log 3 + 2log 5\n\n⇒ log (y + 8)(y - 8) = 2log 3 + 2log 5 (log ab = log a + log b)\n\n⇒ log (y<sup>2</sup> -8y + 8y - 64) = log 3<sup>2</sup> + log 5<sup>2</sup>\n\n\n⇒ log (y<sup>2</sup> - 64) = log 3<sup>2</sup> + log 5<sup>2</sup>\n\n\n⇒ log (y<sup>2</sup> - 64) = log 9 + log 25\n\n⇒ log (y<sup>2</sup> - 64) = log (9 × 25)\n\n⇒ log(y<sup>2</sup> - 64) = log 225\n\n⇒ y<sup>2</sup> - 64 = 225\n\n⇒ y<sup>2</sup> = 225 + 64\n\n⇒ y<sup>2</sup> = 289\n\n⇒ y = ±√289\n\n∴ y = ±17",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

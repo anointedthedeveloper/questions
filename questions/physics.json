@@ -6238,5 +6238,85 @@
     "solution": "The differences between solids, liquids, and gases are accounted for by the spacing between molecules and the strength of intermolecular forces.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 533,
+    "question": "A piano wire 50 cm long has a total mass of 10 g and its stretched with a tension of 800 N. Find the frequency of the wire when it sounds its third overtone note.",
+    "option": {
+      "a": "800 Hz",
+      "b": "600 Hz",
+      "c": "400 Hz",
+      "d": " 200 Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nLength of wire, L = 50 cm = 0.50 m\nTotal mass, m = 10 g = 0.01 kg\nTension, T = 800 N\nThird overtone frequency = ?\n\nSolution:\nStep 1: Calculate mass per unit length (linear density)\nμ = m/L\nμ = 0.01/0.50\nμ = 0.02 kg/m\nStep 2: Calculate wave velocity in the wire\nv = √(T/μ)\nv = √(800/0.02)\nv = √40000\nv = 200 m/s\nStep 3: Understand harmonics and overtones\nFor a string fixed at both ends:\n\nFundamental frequency (1st harmonic) = f₀\n1st overtone (2nd harmonic) = 2f₀\n2nd overtone (3rd harmonic) = 3f₀\n3rd overtone (4th harmonic) = 4f₀\n\nStep 4: Calculate fundamental frequency\nFundamental frequency:\nf₀ = v/(2L)\nf₀ = 200/(2 × 0.50)\nf₀ = 200/1\nf₀ = 200 Hz\nStep 5: Calculate third overtone frequency\nThird overtone = 4th harmonic = 4f₀\nf = 4 × 200\nf = 800 Hz",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1138,
+    "question": "For a gas, which pair of variables is inversely proportional to each other (provided other conditions are constant), where P = pressure, T = temperature, V = volume, and n = number of molecules?",
+    "option": {
+      "a": " P, T",
+      "b": "P, V",
+      "c": " n, P",
+      "d": "V, T"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Recall Boyle's law\nBoyle's law states that for a fixed mass of gas (n constant) at constant temperature (T constant), pressure P is inversely proportional to volume V:\nP ∝ 1/V, or PV = constant.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 389,
+    "question": "Natural radioactivity consists of emission?",
+    "option": {
+      "a": "α\n -particles and β\n-rays",
+      "b": "α\n-particles and X-rays",
+      "c": "γ\n -ray and X-rays",
+      "d": "α\n -particles and β\n-rays and γ\n-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Natural radioactivity consists of the emission of alpha particles, beta rays, and gamma rays. These are the three main types of radiation emitted by naturally radioactive materials.Retry",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 553,
+    "question": "Rainbow is formed when sunlight undergoes ",
+    "option": {
+      "a": "reflection",
+      "b": "refraction",
+      "c": "dispersion",
+      "d": "diffraction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A rainbow is formed by the DISPERSION of sunlight by spherical raindrops floating in the air.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 261,
+    "question": "Which of the following is a semiconductor",
+    "option": {
+      "a": "copper",
+      "b": "silicon",
+      "c": "plastic",
+      "d": "Iron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Semi-conductor have an elecctric conductivity intermediate in value between that of a pure metal and a good insulator. Silicon is an example",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

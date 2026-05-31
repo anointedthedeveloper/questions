@@ -11982,5 +11982,21 @@
     "solution": "Cu²⁺ + 2e⁻ → Cu. Moles of Cu = 4.5/64 = 0.0703 mol. Moles of electrons = 2 × 0.0703 = 0.1406 mol. Charge Q = 0.1406 × 96500 = 13570 C. Time t = Q/I = 13570/2.5 = 5428 sec.",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 402,
+    "question": "From the diagram above, an ideal gas can be represented by",
+    "option": {
+      "a": "K",
+      "b": "M",
+      "c": "L",
+      "d": "N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636456/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q48_bczgfu.png",
+    "answer": "d",
+    "solution": "An ideal gas obeys Boyle's Law perfectly: PV = constant, meaning V is inversely proportional to P, giving a straight horizontal line when plotted as PV vs P. Curve N is the flat horizontal line in the diagram, representing a gas that shows no deviation from ideal behaviour across all pressures. Real gases (K, L, M) show deviations — dipping below or rising above the ideal line.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

@@ -11438,5 +11438,149 @@
     "solution": "Energy stored in a stretched wire (strain energy)\n= average force x extension\n= (1)/2 Fe\n= (1)/2 x 300 N (30.5 - 30.0) x 10-2 m\n= (300)/2 x 0.5 x 10-2 = 0.75J",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 1012,
+    "question": "A balloon whose volume is 300 m³ is filled with hydrogen. If the density of air is 1.3 kg m⁻³, find the upthrust on the balloon. [g = 10 m s⁻²]",
+    "option": {
+      "a": "3000 N",
+      "b": "3800 N",
+      "c": " 3900 N",
+      "d": "4200 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nVolume of balloon = 300 m³\nDensity of air = 1.3 kg m⁻³\ng = 10 m s⁻²\n\nSolution:\n\nStep 1: Upthrust (buoyant force)\nUpthrust = weight of displaced air = (density of air) × (volume) × g\n\nStep 2: Substitute values\nUpthrust = 1.3 kg m⁻³ × 300 m³ × 10 m s⁻² = 1.3 × 300 × 10 = 3900 N",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 106,
+    "question": "Which of the following is not a thermometer?  ",
+    "option": {
+      "a": "thermocouple  ",
+      "b": "pyrometer  ",
+      "c": "hydrometer  ",
+      "d": "platinum resistance thermometer. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 230,
+    "question": "Which is the incorrect formula for a body accelerating uniformly?",
+    "option": {
+      "a": "a = (v² − u²)/2",
+      "b": "v² = u² + 2as",
+      "c": "s = ut + ½at²",
+      "d": "v² − u² = 2as"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Standard equations of motion for uniform acceleration:\n\nv = u + at\ns = ut + ½at²\nv² = u² + 2as\n\nAnalyzing each option:\nOption A: a = (v² − u²)/2\n\nThis is INCORRECT ✗\nThe correct formula derived from v² = u² + 2as is:\nv² − u² = 2as\nTherefore: a = (v² − u²)/(2s) [NOT divided by 2 alone]\n\nOption B: v² = u² + 2as\n\nThis is CORRECT ✓\nStandard equation of motion\n\nOption C: s = ut + ½at²\n\nThis is CORRECT ✓\nStandard equation of motion\n\nOption D: v² − u² = 2as\n\nThis is CORRECT ✓\nRearranged form of equation 3\n\nAnswer: A. a = (v² − u²)/2\nThis is the incorrect formula. The correct formula should be a = (v² − u²)/(2s), which includes the displacement 's' in the denominator.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 86,
+    "question": "Which of the following is not true about the properties of x-rays? ",
+    "option": {
+      "a": "they are not deflected by magnetic or electric field",
+      "b": "they ionized a gas making it a conductor ",
+      "c": "they are massive ",
+      "d": "they have high penetrating power "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 1056,
+    "question": "What will happen to the boiling point of pure water when it is heated in a place 30m below sea level?",
+    "option": {
+      "a": " It will be more than 100 °C",
+      "b": "It will be less than 100 °C",
+      "c": "It will still be at 100 °C",
+      "d": "It will be fluctuating"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Boiling point of a liquid depends on external pressure. At sea level (standard atmospheric pressure), water boils at 100 °C. Below sea level, atmospheric pressure is higher because there is more air above.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 556,
+    "question": "The friction due to air mass can be reduced by ",
+    "option": {
+      "a": "streaming",
+      "b": "lubricating",
+      "c": "propeller",
+      "d": "polishing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Streaming refers to the streamlined shape of an object, which helps minimize air resistance (drag) as it moves through the air. This is often applied in aerodynamics to improve the efficiency of vehicles and objects moving through air.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 201,
+    "question": "A projectile is fired from the ground level with a velocity of 300ms-1 at an angle of a 30o to the horizontal.\nCalculate the time taken to reach the maximum height?\n[g = 10ms-2]",
+    "option": {
+      "a": "30s",
+      "b": " 20s",
+      "c": "25s",
+      "d": "15s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial velocity (u) = 300 m/s\nAngle of projection (θ) = 30°\nAcceleration due to gravity (g) = 10 m/s²\nTime to reach maximum height (t) = ?\n\nStep 1: Find vertical component of initial velocity\nu_y = u sin θ\nu_y = 300 × sin 30°\nu_y = 300 × 0.5\nu_y = 150 m/s\nStep 2: At maximum height, vertical velocity = 0\nUsing: v = u - gt\n0 = 150 - 10t\nStep 3: Solve for time\n10t = 150\nt = 150/10\nt = 15 seconds",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 626,
+    "question": "A 100kg box is pushed along a road with force of 500N. If the box moves with a uniform velocity, the coefficient of friction between the box and the road is",
+    "option": {
+      "a": "0.4",
+      "b": "1",
+      "c": "0.8",
+      "d": "0.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 100 kg\nApplied force, F = 500 N\nMotion: uniform velocity (constant velocity)\nAcceleration due to gravity, g = 10 m/s²\n\nSolution:\nKey concept:\nWhen an object moves with uniform velocity, acceleration = 0, therefore net force = 0.\nThis means: Applied force = Frictional force\nStep 1: Determine frictional force\nSince velocity is constant:\nFrictional force, f = Applied force = 500 N\nStep 2: Calculate normal reaction\nNormal reaction, N = mg\nN = 100 × 10 = 1000 N\nStep 3: Calculate coefficient of friction\nFormula: f = μN\nWhere μ = coefficient of friction\nμ = f/N\nμ = 500/1000\nμ = 0.5",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 321,
+    "question": "When an atom loses or gain a charge it becomes",
+    "option": {
+      "a": "An electron",
+      "b": "An ion",
+      "c": " A neutron",
+      "d": "A proton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When an atom loses or gains electrons (charge), it becomes an ion - a charged particle.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

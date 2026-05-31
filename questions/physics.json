@@ -2222,5 +2222,53 @@
     "solution": "When boiling water is poured into the tumbler, the inner surface heats up and expands quickly, while the outer surface remains cooler and expands more slowly. This difference in expansion rates creates stress in the glass, leading to cracks.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 1061,
+    "question": "What is the velocity of sound at 100 °C if the velocity of sound at 0 °C is 340 m s⁻¹?",
+    "option": {
+      "a": " 497 m s⁻¹",
+      "b": "440 m s⁻¹",
+      "c": "397 m s⁻¹",
+      "d": " 240 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nVelocity at 0 °C, v₀ = 340 m s⁻¹\nTemperature T₁ = 0 °C = 273 K\nTemperature T₂ = 100 °C = 373 K\n\nSolution:\n\nStep 1: Relationship between velocity and absolute temperature\nFor sound in air, velocity v ∝ √T, where T is absolute temperature.\nThus, v₂ / v₁ = √(T₂ / T₁)\n\nStep 2: Substitute values\nv₂ / 340 = √(373 / 273)\n\nStep 3: Calculate the ratio\n373 / 273 ≈ 1.3663\n√1.3663 ≈ 1.169\n\nStep 4: Compute v₂\nv₂ = 340 × 1.169 ≈ 397.5 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 395,
+    "question": "A solid weighs 4.8g in air, 2.8g in water and 3.2g in Kerosine. The ratio of density of the solid to that of the kerosine is ",
+    "option": {
+      "a": "2",
+      "b": "3/2",
+      "c": "2/3",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nWeight in air (W_air) = 4.8g\nWeight in water (W_water) = 2.8g\nWeight in kerosene (W_kerosene) = 3.2g\nRatio of densities = ?\n\nStep 1: Calculate upthrust in water\nUpthrust in water = W_air - W_water\nUpthrust in water = 4.8 - 2.8 = 2.0g\nStep 2: Calculate upthrust in kerosene\nUpthrust in kerosene = W_air - W_kerosene\nUpthrust in kerosene = 4.8 - 3.2 = 1.6g\nStep 3: Use relationship between upthrust and density\nUpthrust = Volume × Density of liquid × g\nSince volume is constant:\nUpthrust in water / Upthrust in kerosene = Density of water / Density of kerosene\n2.0 / 1.6 = ρ_water / ρ_kerosene\nρ_water / ρ_kerosene = 5/4\nStep 4: Find density of solid using water\nUsing Archimedes' principle:\nDensity of solid / Density of water = W_air / Upthrust in water\nρ_solid / ρ_water = 4.8 / 2.0 = 2.4 = 12/5\nStep 5: Find ratio of solid to kerosene\nρ_solid / ρ_kerosene = (ρ_solid / ρ_water) × (ρ_water / ρ_kerosene)\nρ_solid / ρ_kerosene = (12/5) × (5/4) = 12/4 = 3",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 824,
+    "question": "An object placed at the bottom of a well full of clear water appears closer to the surface due to?",
+    "option": {
+      "a": "diffraction",
+      "b": "reflection",
+      "c": "refraction",
+      "d": "polarization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Real depth and apparent dept is due to refraction",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

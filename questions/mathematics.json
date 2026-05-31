@@ -13086,5 +13086,21 @@
     "solution": "m * n = n - (m+2)\n= -5 - (3+2)\n= -5-5\n= -10",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 54,
+    "question": "Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium  ",
+    "option": {
+      "a": "3/5 ",
+      "b": "2/5 ",
+      "c": "1/5 ",
+      "d": "1/5 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   }
 ]

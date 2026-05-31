@@ -9966,5 +9966,37 @@
     "solution": "Heating a pure semiconductor increases the mobility of electrons and holes and hence the conductivity. thus, the resistance decreases on heating",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 437,
+    "question": "The inner diameter of a test tube can be measured accurately using a?",
+    "option": {
+      "a": "micrometer screw gauge",
+      "b": "pair of dividers",
+      "c": "meter rule",
+      "d": "pair of vernier calipers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Vernier calipers are also used to measure the internal and external diameters of a tube",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 464,
+    "question": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
+    "option": {
+      "a": " the magnet is moved towards the stationary solenoid",
+      "b": "there is no relative motion ",
+      "c": "the magnet is moved away from the stationary solenoid",
+      "d": "the solenoid is moved away from the stationary magnet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If both the coil and the magnet are stationary, then there is no change in the magnetic flux and hence no current is induced in the coil.",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

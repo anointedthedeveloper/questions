@@ -1118,5 +1118,85 @@
     "solution": "Given information:\nTime to reach maximum height, t = 4.0 s\nAcceleration due to gravity, g = 10 m s⁻²\nInitial height above ground = 2.0 m (not needed for initial velocity calculation)\n\nSolution:\n\nStep 1: Relation at maximum height\nAt maximum height, final velocity v = 0. Using first equation of motion:\nv = u – gt\n0 = u – 10 × 4\n\nStep 2: Solve for initial velocity u\nu = 40 m s⁻¹",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 789,
+    "question": "Which of the following gas laws is equivalent to the work done?",
+    "option": {
+      "a": "Boyle' law",
+      "b": "Charles law",
+      "c": "Pressure law",
+      "d": "van der Waal's law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nBoyle's law is equivalent to (or most directly related to) the concept of work done because it involves the pressure-volume relationship (PV = constant), and work done by/on a gas is defined as W = PΔV. Isothermal processes described by Boyle's law involve work being done as the gas expands or compresses.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 331,
+    "question": "If a body moves with a constant speed and at the same time undergoes an acceleration, its motion is said to be",
+    "option": {
+      "a": "oscillation",
+      "b": "circular",
+      "c": "rotational",
+      "d": "rectilinear"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Circular motion is characterized by constant speed with continuous acceleration (centripetal acceleration) that changes the direction of velocity while maintaining constant magnitude.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 224,
+    "question": "From the diagram above, the measuring accuracy of the micrometer screw gauge is",
+    "option": {
+      "a": "4.78mm",
+      "b": "4.16mm",
+      "c": "4.66mm",
+      "d": "4.70mm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610469/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_45_dtlnzx.jpg",
+    "answer": "b",
+    "solution": "Micrometer screw gauge reading = main scale reading + vernier scale reading\n\n                                          = 4.0mm + 16mm = 4.16mm\n",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 541,
+    "question": "An explosion occurs at an altitude of 312 m above the ground. If the air temperature is -10.00°C, how long does it take the sound to reach the ground? [velocity of sound at 0°C = 331 ms⁻¹]",
+    "option": {
+      "a": "0.94s",
+      "b": " 0.96s",
+      "c": " 0.93s",
+      "d": "0.95s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nHeight (distance), d = 312 m\nAir temperature, T = -10.00°C\nVelocity of sound at 0°C, v₀ = 331 m/s\nTime, t = ?\n\nSolution:\nStep 1: Calculate velocity of sound at -10°C\nThe velocity of sound in air varies with temperature:\nv = v₀ + 0.6T\nWhere T is in degrees Celsius.\nv = 331 + 0.6(-10)\nv = 331 - 6\nv = 325 m/s\nStep 2: Calculate time for sound to travel\nUsing the formula:\nt = d/v\nt = 312/325\nt = 0.96 s",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 203,
+    "question": "Which of the following electromagnetic waves has the shortest wavelength?",
+    "option": {
+      "a": " Visible Light",
+      "b": " Ultraviolet rays",
+      "c": "Infrared rays",
+      "d": "Gamma rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gamma rays have the shortest wavelength among all electromagnetic waves.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

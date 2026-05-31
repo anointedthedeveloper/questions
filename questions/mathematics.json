@@ -12654,5 +12654,53 @@
     "solution": "The height of the second building H = h + 24\n\ntan θ = opp/adj\ntan 30° = h/x\n⟹3√3 = h/x\n⟹x = √3 = 3h\n⟹x = 3h/√3 ....(i)\n\ntan 60° = 24/x\n⟹√3 = 24x\n⟹x√3 = 24\n⟹x = 24/√3 ....(ii)\n\nEquate equation (i) and (ii)\n\n⟹3h/√3 = 24/√3\n⟹ 3h = 24\n\n⟹h = 24/3 = 8m\n\n∴The height of the second building = 8 + 24 = 32m",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 489,
+    "question": "Solve the quadratic inequalities x<sup>2</sup> - 5x + 6 ≥ 0",
+    "option": {
+      "a": "x ≤ 2, x ≥ 3",
+      "b": "x ≤ 3, x ≥ 2",
+      "c": "x ≤ -2, x ≥ -3",
+      "d": "x ≤-3, x ≥ 2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545860/ALOC-Questions/Mathematics/2008/MATH_2008_Q18_SOLUTION_qtwz0u.jpg",
+    "answer": "a",
+    "solution": "x<sup>2</sup> - 5x + 6 = 0\n(X-2)(X-3) = 0\nX-2 = 0 implies X = 2\nX-3 = 0 implies X = 3\n− x ≤ 2, x ≥ 3",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 409,
+    "question": "A binary operation * on the set of rational numbers is defined asx×y=(x^2-y^2)/2xy find-5×3",
+    "option": {
+      "a": "-8/15",
+      "b": "8/15",
+      "c": "17/15",
+      "d": "-17/15"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>x</mi>\n  <mo>&#xD7;</mo>\n  <mi>y</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <msup>\n        <mi>x</mi>\n        <mn>2</mn>\n      </msup>\n      <mo>&#x2212;</mo>\n      <msup>\n        <mi>y</mi>\n        <mn>2</mn>\n      </msup>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mi>x</mi>\n      <mi>y</mi>\n    </mrow>\n  </mfrac>\n  <mi>f</mi>\n  <mi>i</mi>\n  <mi>n</mi>\n  <mi>d</mi>\n  <mo>&#x2212;</mo>\n  <mn>5</mn>\n  <mo>&#xD7;</mo>\n  <mn>3</mn>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(x)×(y)=(x<sup>2</sup>-y<sup>2</sup>)/2xy find-5×3=((x+y)(x-y))/2xy=((-5+3)(-5-3))/(2(-5×3))=(-2×-8)/(2(-5×3))=(-8)/15",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 666,
+    "question": "The pie chart shows the distribution of courses offered by students. What percentage of the students offer English?",
+    "option": {
+      "a": "30%",
+      "b": "25%",
+      "c": "35%",
+      "d": "20%"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129889/ALOC-Questions/Mathematics/2011/JAMB_MATH_2011_Q45_mvphhp.png",
+    "answer": "b",
+    "solution": "90/360 × 100 = 100/4\n \n\n= 25",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

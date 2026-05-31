@@ -11438,5 +11438,37 @@
     "solution": "Gradient m=y<sub>2</sub> −y<sub>1</sub> /x<sub>2</sub> −x<sub>1</sub> \n \n\n1/2 = (2−4)/(1−x)\n\n\n1 - x = 2(2 - 4)\n\n1 - x = 4 - 8\n\n1 - x = -4\n\n-x = -4 - 1\n\nx = 5",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 107,
+    "question": "In how many ways can a delegation of 3 be chosen from among 5 men and 3 women, if at least one man and at least one woman must be included?",
+    "option": {
+      "a": "15",
+      "b": "28",
+      "c": "30",
+      "d": "45"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "No of ways of choosing 1 man, 2 women = 5C1 x 3C2\nNo of ways of choosing 2 men, 1 woman = 5C2 x 3C1\nSumming, => (5C1 x 3C2) + (5C2 x 3C1) = 15 + 30 = 45",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 869,
+    "question": "Given T = { even numbers from 1 to 12 }\nN = {common factors of 6, 8 and 12}\nFind T ∩ N",
+    "option": {
+      "a": "{2, 3}",
+      "b": " {2, 3, 4}",
+      "c": " {3, 4, 6}",
+      "d": "{2}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "T = {evenn numbers from 1 to 12}\nN = {common factors of 6,8 and 12}\nFind T ∩ N\nT = {2, 4, 6, 8, 10, 12}\nN = {2}\nT ∩ N = {2} i.e value common to T & N",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

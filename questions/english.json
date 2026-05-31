@@ -12899,5 +12899,62 @@
     "questionNub": 64,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 101,
+    "question": "Ju<u>dge</u>",
+    "option": {
+      "a": "gear",
+      "b": "spinach",
+      "c": "pleasure",
+      "d": "camouflage"
+    },
+    "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underline.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 991,
+    "question": "Uche LOVES Toyota cars?",
+    "option": {
+      "a": "Who loves Toyota cars?",
+      "b": " What brand of car Uche love?",
+      "c": "Does Uche hate Toyota cars?",
+      "d": " Does Uche love bicycle?"
+    },
+    "section": "<b>In each of the questions 93 to 98 choose the appropriate stress pattern from the options. The syllables are written in capital letters.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "In responding to questions on emphatic stress, Interrogative sentence that contradicts the emphasized word is the correct option. This means that, the statement that does not have the emphasized word in it is the correct answer. ",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 96,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1037,
+    "question": "Oche entered the principal's office in a rather <u>abrasive</u> manner.",
+    "option": {
+      "a": "gentle",
+      "b": "rude",
+      "c": "lackadaisical",
+      "d": "indifferent"
+    },
+    "section": "In each of the questions 36 to 50 choose the option <b>opposite</b> in meaning to the underlined word or phrase.\n",
+    "image": "",
+    "answer": "a",
+    "solution": "Abrasive; showing little concern for the feelings of others; harsh. ",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 43,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

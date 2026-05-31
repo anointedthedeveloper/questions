@@ -32,7 +32,7 @@ NO_NEW_LIMIT = 15
 RATE_LIMIT = 58  # safe threshold per key per minute
 DELAY = 60 / (RATE_LIMIT * len(API_KEYS))  # spread across both keys
 
-WORKERS = 3  # number of subjects processed in parallel
+WORKERS = 4  # number of subjects processed in parallel
 
 key_lock = threading.Lock()
 current_key = 0

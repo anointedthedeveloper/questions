@@ -12030,5 +12030,37 @@
     "solution": "U = {1, 2, 3, 4, 5,..., 20}\nE1 = {3, 6, 9, 12, 15, 18}\nE2 = {4, 8, 12, 16, 20}\nP(E1) = 5/20\nP(not E1) = 1 - (5/20) = 15/20 = 3/4",
     "examtype": "utme",
     "examyear": "2000"
+  },
+  {
+    "id": 12,
+    "question": "Expand the expression (x2-2x-3)(x2+x+1).  ",
+    "option": {
+      "a": "x4-4x2-5x-3  ",
+      "b": "–x3-4x2+5x-3",
+      "c": "x4-x3-4x2-5x-3  ",
+      "d": "x4-4x2-5x -3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 661,
+    "question": "In how many was can the letters of the word ELATION be arranged?",
+    "option": {
+      "a": "6!",
+      "b": "7!",
+      "c": "5!",
+      "d": "8!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "ELATION\nSince there are 7 letters. The first letter can be arranged in 7 ways, , the second letter in 6 ways, the third letter in 5 ways, the 4th letter in four ways, the 3rd letter in three ways, the 2nd letter in 2 ways and the last in one way.\n\ntherefore, 7 x 6 x 5 x 4 x 3 x 2 x 1 = 7! ways",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

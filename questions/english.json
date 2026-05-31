@@ -13773,5 +13773,43 @@
     "questionNub": 61,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 993,
+    "question": "Maiduguri is the CAPITAL of Borno State.",
+    "option": {
+      "a": "Is Maiduguri the capital of Plateau State?",
+      "b": "Which State is Maiduguri the capital of?",
+      "c": " Is Maiduguri a town in Borno State?",
+      "d": "What is the capital Borno State?"
+    },
+    "section": "<b>In each of the questions 93 to 98 choose the appropriate stress pattern from the options. The syllables are written in capital letters.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "In answering questions on emphatic stress, the interrogative sentence that contradicts the emphasized word is the correct option. The emphasized word from the question above is ''capital''. Option C contradicts the statement.\n\nIs Maiduguri a town in Borno State? The underlined word contradicts the emphasized word, ''capital''.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 98,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1336,
+    "question": "Many a ____________ to understand me",
+    "option": {
+      "a": " man fail",
+      "b": "man fails",
+      "c": "men fail",
+      "d": "men fails"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "b",
+    "solution": "In the rule of Concord, 'when many-a is used, the verb and the noun that follows must be singular'\n\nOption B is the correct answer.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 23,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

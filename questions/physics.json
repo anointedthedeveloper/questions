@@ -4094,5 +4094,69 @@
     "solution": "A pinhole camera operates on the principle that light travels in straight lines (rectilinear propagation). Light from each point on the object passes through the small hole in a straight line to form an inverted image on the screen opposite the pinhole.",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 619,
+    "question": "To protect a material from the influnce of an external magnetic field, the materials should be kept",
+    "option": {
+      "a": "square steel ring",
+      "b": "triangular zinc ring",
+      "c": "soft iron ring",
+      "d": "loop of copper wire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In order to protect a material from the influence of an external magnetic field, the material is placed in a soft iron ring, usually referred to as magnetic screening.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 462,
+    "question": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is?",
+    "option": {
+      "a": " 0.1 cm⁻¹",
+      "b": "10 cm⁻¹",
+      "c": " 1.0 cm⁻¹",
+      "d": "2 cm⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given wave equation:\ny = 5 mm sin[1 cm⁻¹x - 60 s⁻¹t]\nStandard form of wave equation:\ny = A sin(kx - ωt)\nwhere:\n\nA = amplitude\nk = wave number\nω = angular frequency\nx = position\nt = time\n\nComparing given equation with standard form:\ny = 5 mm sin[1 cm⁻¹x - 60 s⁻¹t]\ny = A sin(kx - ωt)\nIdentifying parameters:\n\nAmplitude (A) = 5 mm\nWave number (k) = 1 cm⁻¹\nAngular frequency (ω) = 60 s⁻¹\n\nThe coefficient of x in the wave equation is the wave number.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 158,
+    "question": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change",
+    "option": {
+      "a": "N – W when suspended freely",
+      "b": "N–S when suspended freely",
+      "c": "S – E when suspended freely",
+      "d": "S–W when suspended freely"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Lodestone is a natural magnet it points approximate at N – S when suspended freely",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1086,
+    "question": "An object of weight 8kg on earth is taken to a planet where acceleration due to gravity is one-third of its value on earth. The weight of the object on the planet is",
+    "option": {
+      "a": "48N",
+      "b": "12N",
+      "c": "27N",
+      "d": "36N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass of object, m = 8 kg (interpreted from “weight 8 kg” as mass)\nGravity on planet, gₚ = (1/3) gₑ, where gₑ is gravity on earth.\nTake gₑ = 10 m s⁻² (commonly used for such calculations).\n\nSolution:\n\nStep 1: Weight on earth\nWₑ = m × gₑ = 8 kg × 10 m s⁻² = 80 N\n\nStep 2: Weight on planet\nWₚ = m × gₚ = m × (gₑ/3) = 80 N / 3 ≈ 26.67 N",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

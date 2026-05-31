@@ -9214,5 +9214,53 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 635,
+    "question": "The pitch of a sound note depends on",
+    "option": {
+      "a": "timbre",
+      "b": "frequency",
+      "c": "harmonics",
+      "d": "quality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Pitch depends on frequency.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 853,
+    "question": "I. The motion of the tyres of a moving car.\nII. The motion of a loaded test tube oscillated\nvertically.\nIII. The beating of the heart.\nIV. A stone tied to a string and whirled round.\nV. The motion of the pistons in a gasoline engine.\n\n\nWhich of the motions above is simple harmonic?",
+    "option": {
+      "a": " III, IV and V only",
+      "b": "II, III and V only",
+      "c": " II, III and IV only",
+      "d": "I, II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Simple harmonic motion is the motion of a body whose acceleration is directed towards a fixed point and is directly proportional to its displacement from point.\n\nStatements ii, iii and v are clear examples",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 63,
+    "question": "The refractive index of a liquid is 1.5, if the velocity of light in a vacuum is 3.0 x 108ms-1, the velocity of light in the liquid is ",
+    "option": {
+      "a": "1.5 x 108ms-2 ",
+      "b": "2.0 x 108ms-1 ",
+      "c": "3.1 x 108ms-1",
+      "d": "4.5 x 108ms-1 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   }
 ]

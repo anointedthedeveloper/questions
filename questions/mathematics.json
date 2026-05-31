@@ -15774,5 +15774,37 @@
     "solution": "= 0.16063/0.017 × 0.219\n= 43.1 (to 3 s.f)",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 1258,
+    "question": "Simplify (0.09)<sup>2</sup> and give your answer correct to 4 significant figures",
+    "option": {
+      "a": "0.81",
+      "b": "0.081",
+      "c": "0.0081",
+      "d": "8.0001"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(0.09)<sup>2</sup> = 0.09 × 0.09\n\n= 0.0081\n\n= 0.008100 to 4 significant figures\n\nPlease, start counting first from the non-zero digits i.e. 8",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1106,
+    "question": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gift+B10s(g), savings(s) and some B28miscellaneous (m) as indicate in the table below:                 If the above information is represented on a pie chart. What angle represents his spending on food?",
+    "option": {
+      "a": " 108.5",
+      "b": " 100.8",
+      "c": "98.8",
+      "d": "120.5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007442/ALOC-Questions/Mathematics/2022/JAMB_MATH_2022_Q9_tovtlt.jpg",
+    "answer": "b",
+    "solution": "28∗360/100\n  \n\n= 100.8°",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

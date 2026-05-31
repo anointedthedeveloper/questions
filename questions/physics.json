@@ -9310,5 +9310,37 @@
     "solution": "Given information:\n\nEfficiency, η = 60% = 0.60\nVelocity Ratio, VR = 5\nEffort, E = 500 N\nLoad, P = ?\n\nSolution:\nStep 1: Relationship between efficiency, MA, and VR\nFormula: Efficiency = MA/VR\nWhere:\n\nMA = Mechanical Advantage = Load/Effort = P/E\nVR = Velocity Ratio\n\nStep 2: Calculate Mechanical Advantage\nη = MA/VR\n0.60 = MA/5\nMA = 0.60 × 5\nMA = 3\nStep 3: Calculate load P\nMA = P/E\n3 = P/500\nP = 3 × 500\nP = 1500 N",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 822,
+    "question": "An object of heights 5 cm is placed at 20 cm from a concave mirror of focal length 10 cm. the image height is?",
+    "option": {
+      "a": "20 cm",
+      "b": "15 cm",
+      "c": "10 cm",
+      "d": " 5 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nObject height, h₀ = 5 cm\nObject distance, u = 20 cm\nFocal length, f = 10 cm (positive for concave mirror in sign convention used here)\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n1/10 = 1/20 + 1/v\n\nStep 2: Solve for image distance v\n1/v = 1/10 - 1/20 = 1/20\nv = 20 cm\n\nStep 3: Magnification formula\nMagnification m = v/u = 20/20 = 1\nAlso, m = image height / object height = hᵢ / h₀\n\nStep 4: Find image height\n1 = hᵢ / 5 cm\nhᵢ = 5 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 217,
+    "question": "A manometer is an instrument used for measuring",
+    "option": {
+      "a": "Relative density of liquid",
+      "b": " Pressure in liquids and gases",
+      "c": "Humidity",
+      "d": "Atmospheric pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A manometer is used for measuring pressure in liquids and gases.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

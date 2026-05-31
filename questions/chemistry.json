@@ -11486,5 +11486,37 @@
     "solution": "When concentrated H₂SO₄ contacts skin, the immediate first aid is to flush the affected area with large amounts of cool running water for at least 15–20 minutes. Using NaOH solution could cause a further exothermic neutralisation reaction, worsening the burn. Iodine and sodium trioxonitrate solutions are inappropriate.",
     "examtype": "utme",
     "examyear": "2020"
+  },
+  {
+    "id": 675,
+    "question": "What happens to the position of equilibrium, if a reversible exothermic reaction is subjected to a decrease in temperature?",
+    "option": {
+      "a": "The position of equilibrium shifts to the left",
+      "b": "The position of equilibrium shifts to the right.",
+      "c": "The position of equilibrium remains unchanged",
+      "d": "The reaction stops"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "For a reversible exothermic reaction, the forward reaction releases heat. By Le Chatelier's principle, decreasing temperature removes heat from the system. The equilibrium shifts in the direction that produces more heat, which is the forward (exothermic) direction. The equilibrium position therefore shifts to the right, increasing the yield of products.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 467,
+    "question": "A correct electrochemical series can be obtained from Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging",
+    "option": {
+      "a": "Al and Mg",
+      "b": "Zn and Fe",
+      "c": "Zn and Pb",
+      "d": "Pb and H"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The correct reactivity/electrochemical series order is: Na, Ca, Mg, Al, Zn, Fe, Pb, H, Cu, Hg, Ag, Au. In the given series, Al and Mg are swapped (Al appears before Mg, but Mg is more reactive). Interchanging Al and Mg corrects the series.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

@@ -17250,5 +17250,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 661,
+    "question": "What a <u>harmless</u> thought he has?",
+    "option": {
+      "a": "pericious",
+      "b": "pertinent",
+      "c": "pleasant",
+      "d": "perfect"
+    },
+    "section": "<b>In each of questions 63 to 77,choose the option opposite in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 65,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1296,
+    "question": "Choose the option that has a different vowel sound from the others",
+    "option": {
+      "a": "here",
+      "b": "beer",
+      "c": "idea",
+      "d": "head"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All options have /ɪə/ except head that has the /e/ sound.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 43,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

@@ -14478,5 +14478,21 @@
     "solution": "4<sup>2x</sup>  = 16\nthis implies that (3√4<sup>2x</sup>)<sup>3</sup>. 4<sup>2x</sup>  = 4<sup> 2*3</sup>\n4<sup>2x</sup>= 4<sup>6</sup>\n∴ 2x = 6\nx = 3",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 475,
+    "question": "Express 123456 to 3 significant figures",
+    "option": {
+      "a": " 123000",
+      "b": "124000",
+      "c": "125000",
+      "d": "126000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "NB: This is a correction to the solution in the video lesson.\n123456 ≊\n 123000.",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

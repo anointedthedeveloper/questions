@@ -11310,5 +11310,101 @@
     "solution": "The mean X = sumation x/n = 30/6 = 5\\ Variance = (sumation (x-x)<sup>2</sup>) /n = 30/6= 5",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 244,
+    "question": "Find the slope of the curve y = 2x2\n + 5x - 3 at (1, 4).",
+    "option": {
+      "a": " 4",
+      "b": "6",
+      "c": "7",
+      "d": "9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = 2x2\n + 5x - 3\ndy/dx = 4x + 5\n= 4 + 5\n= 9",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 876,
+    "question": "If temperature t is directly proportional to heat h, and when t = 20oC, h = 50 J, find t when h = 60J",
+    "option": {
+      "a": "24°C",
+      "b": "20°C",
+      "c": "34°C",
+      "d": "30°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "t ∝ h, t = 20, h\n\nt = ? h = 60\n\nt = kh where k is constant\n\n20 = 50k\n\nk = 20/50\n\nk = 2/5\n\n\nwhen h = 60, t = ?\n\nt = 2/5 × 60\n\nt = 24°C",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 245,
+    "question": "Evaluate ∫<sup>2</sup>\n<sub>3</sub>(x2−2x)dx",
+    "option": {
+      "a": "4",
+      "b": "2",
+      "c": "4/3",
+      "d": "1/3"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>3</mn>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msubsup>\n  <mo stretchy=\"false\">(</mo>\n  <msup>\n    <mi>x</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>2</mn>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mi>d</mi>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 964,
+    "question": "Using the table,What is the modal age?",
+    "option": {
+      "a": "4",
+      "b": "5",
+      "c": "5",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006540/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q46_ypiyhc.jpg",
+    "answer": "b",
+    "solution": "The modal age is the age with the highest frequency, and that is age 5 years with f of 7",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 365,
+    "question": "The diagram above is the graph of the function f(x). Determine the range of values of x for which f(x) ≥ 0.\n ",
+    "option": {
+      "a": "x ≥ 2",
+      "b": " 0 ≥ x ≥ 2",
+      "c": " -2 ≥ x ≥ 0, x ≤\n 2",
+      "d": " x ≥ -2, 0 ≥\n x ≥\n 2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702450/ALOC-Questions/Mathematics/2005/math_2005_q44_bnvtsf.jpg",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 873,
+    "question": "If two graphs Y = px<sup>2</sup> + q and y = 2x<sup>2</sup> − 1 intersect at x =2, find the value of p in terms of q",
+    "option": {
+      "a": "q − 8/7",
+      "b": "7 − q/4",
+      "c": "8 − q/2",
+      "d": "7 + q/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Y = Px<sup>2</sup> + q\n\nY = 2x<sup>2</sup> - 1\n\nPx<sup>2</sup> + q = 2x<sup>2</sup> - 1\n\nPx<sup>2</sup> = 2x<sup>2</sup> - 1 - q\n\np = (2x<sup>2</sup>−1−q)/x<sup>2</sup>\n\n\nat x = 2\n\nP = (2(2)<sup>2</sup>−1−q)/2<sup>2</sup>\n\n\n= (2(4)−1−q)/4\n\n\n= (8−1−q)/4\n\n\nP = (7−q)/4",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

@@ -8206,5 +8206,85 @@
     "solution": "Covalent molecules are held together by weak van der Waals (intermolecular) forces between molecules. Little energy is needed to overcome these forces, resulting in low melting and boiling points. The strong covalent bonds within the molecule are not broken during melting or boiling.",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 164,
+    "question": "Which of these reagents can confirm the presence of a triple bond",
+    "option": {
+      "a": "Bromine water",
+      "b": "Acidified KMnO4 ",
+      "c": "Copper (I) chloride",
+      "d": "Bromine gas"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 445,
+    "question": "A particle that contains 9 protons, 10 neutrons and 10 electrons is",
+    "option": {
+      "a": "positive ion",
+      "b": "neutral atom of a metal",
+      "c": "neutral atom of a non-metal",
+      "d": "negative ion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The particle has 9 protons (atomic number = 9, so it is fluorine) but 10 electrons. Since electrons (10) > protons (9), the particle carries a net negative charge of -1. It is therefore a negative ion (anion) — specifically the fluoride ion, F⁻.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 644,
+    "question": "A chemical widely used as a fertilizer is?",
+    "option": {
+      "a": "galena",
+      "b": "bauxite",
+      "c": "emerald",
+      "d": "nitrochalk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nitrochalk is a widely used nitrogen fertilizer consisting of a mixture of ammonium nitrate and calcium carbonate (limestone). It supplies nitrogen to plants in the form of ammonium and nitrate ions. Galena is lead sulphide (ore of lead), bauxite is aluminium ore, and emerald is a gemstone — none of these are fertilizers.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 739,
+    "question": "For a chemical reaction to be spontaneous, ΔG must be",
+    "option": {
+      "a": "positive",
+      "b": "negative",
+      "c": "zero",
+      "d": "equal to the enthalpy change"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Gibbs free energy change (ΔG) determines spontaneity. A reaction is spontaneous when ΔG < 0 (negative). When ΔG > 0, the reaction is non-spontaneous. When ΔG = 0, the system is at equilibrium. The relationship is ΔG = ΔH − TΔS, where both enthalpy and entropy contributions determine spontaneity.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 62,
+    "question": "The processes which return carbon(IV) oxide to the atmosphere include",
+    "option": {
+      "a": "Photosynthesis, decay and respiration",
+      "b": "Photosynthesis, respiration and transpiration",
+      "c": "Respiration, decay and combustion",
+      "d": "Ozone, depletion, combustion and decay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
   }
 ]

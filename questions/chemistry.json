@@ -8814,5 +8814,101 @@
     "solution": "A photon is a quantum (particle) of electromagnetic energy, not a type of electromagnetic wave. White light, X-rays, and infrared radiation are all types of electromagnetic waves within the electromagnetic spectrum.",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 116,
+    "question": "The formula for ethyl butanoate is",
+    "option": {
+      "a": "C3H7COOC2H5",
+      "b": "C2H5COOC3H7",
+      "c": "C4H9COOC2H5",
+      "d": "C2H5COOC4H9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 532,
+    "question": "Which of the following statements about catalyst is false?",
+    "option": {
+      "a": "biological catalysts are called enzymes",
+      "b": "catalysts do not appear in the balanced equation",
+      "c": "catalysts reduce the activation energy for a reaction",
+      "d": "catalysts do not alter the mechanism of the reaction and never appear in the rate law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Option D is false. Catalysts DO alter the mechanism of the reaction — they provide an alternative pathway with lower activation energy. They also CAN appear in the rate law (rate equation), especially homogeneous catalysts whose concentration affects the rate. Options A, B, and C are all true statements about catalysts.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 626,
+    "question": "The reactions involving simultaneous oxidation and reduction are called?",
+    "option": {
+      "a": "Automatic reactions",
+      "b": "Alternate reactions",
+      "c": "Reduction agency",
+      "d": "Redox reactions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Redox reactions are chemical reactions in which oxidation and reduction occur simultaneously. One species loses electrons (is oxidised) while another gains those electrons (is reduced). The term redox is a combination of reduction and oxidation. These reactions include combustion, rusting, electrochemical cells, and many biological processes.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 447,
+    "question": "Calculate the amount in moles of a gas which occupies 10.5 dm³ at 6 atm and 30°C [R = 0.082 atm dm³ K⁻¹ mol⁻¹]",
+    "option": {
+      "a": "2.536",
+      "b": "1.623",
+      "c": "4.736",
+      "d": "0.394"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using the ideal gas equation PV = nRT. T = 30 + 273 = 303 K. n = PV/RT = (6 × 10.5)/(0.082 × 303) = 63/24.846 = 2.536 mol.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 459,
+    "question": "What is the pH of 0.001 mol dm⁻³ solution of sodium hydroxide?",
+    "option": {
+      "a": "1400%",
+      "b": "1300%",
+      "c": "1200%",
+      "d": "1100%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "NaOH is a strong base: [OH⁻] = 0.001 = 10⁻³ mol dm⁻³. pOH = -log(10⁻³) = 3. pH = 14 - pOH = 14 - 3 = 11.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 420,
+    "question": "A sample of orange juice is found to have a pH of 3.80. What is the concentration of the hydroxide ion in the juice?",
+    "option": {
+      "a": "1.6 × 10⁻⁴",
+      "b": "6.3 × 10⁻¹¹",
+      "c": "6.3 × 10⁻⁴",
+      "d": "1.6 × 10⁻¹¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "pH = 3.80, so pOH = 14 - 3.80 = 10.20. [OH⁻] = 10⁻¹⁰·²⁰ = 6.3 × 10⁻¹¹ mol dm⁻³. Alternatively: [H⁺] = 10⁻³·⁸⁰ = 1.585 × 10⁻⁴; [OH⁻] = Kw/[H⁺] = 1 × 10⁻¹⁴ / 1.585 × 10⁻⁴ = 6.3 × 10⁻¹¹ mol dm⁻³.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

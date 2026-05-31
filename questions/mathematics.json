@@ -11966,5 +11966,69 @@
     "solution": "Let δ<sup>2</sup> and δ denote the variance and standard deviation of the distribution respectively.\n\nBut δ<sup>2</sup> = 4 (given)\n\nHence δ = √4 = 2",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 878,
+    "question": "Given m = N√(SL/T) make T the subject of the formula",
+    "option": {
+      "a": "NSL/M",
+      "b": "N<sup>2</sup>SL/M<sup>2</sup>",
+      "c": "N<sup>2</sup>SLM",
+      "d": "NSL/M<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "M = N√(SL/T),\n\nmake T subject of formula square both sides\n\nM<sup>2</sup> = (N<sup>2</sup>SL)/T\n\n\nTM<sup>2</sup> = N<sup>2</sup>SL\n\nT = (N<sup>2</sup>SL)/M<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 150,
+    "question": "Find the area bounded by the curves y = 4 - x<sup>2</sup> and y = 2x + 1",
+    "option": {
+      "a": "20(1/3) sq. units",
+      "b": "20(2/3) sq. units",
+      "c": "10(2/3) sq. units",
+      "d": "10(1/3) sq. units"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Hint:\ny = 4 - x<sup>2</sup> and y = 2x + 1\n=> 4 - x<sup>2</sup> = 2x + 1\n=> x<sup>2</sup> + 2x - 3 = 0\n(x+3)(x-1) = 0\nthus x = -3 or x = 1.\n\nIntegrating x<sup>2</sup> + 2x - 3 from (-3, to 1) w.r.t x will give 31/3 = 10(1/3)",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 627,
+    "question": "If log<sub>3</sub>18 + log<sub>3</sub>3 - log<sub>3</sub>x = 3, Find x.",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "0",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "log<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = 3\n\nlog<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = 3log<sub>3</sub>3\n\nlog<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = log<sub>3</sub>3<sup>3</sup>\n\nlog<sub>3</sub>(18×3/X\n) = log<sub>3</sub>3<sup>3</sup>\n\n18×3/X\n = 3<sup>3</sup>\n\n18 x 3 = 27 x X\n\nx = 18×3/27\n\n\n= 2",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 105,
+    "question": " If U = {x : x is an integer and 1 ≤\n x ≤\n 20\nE1 = {x : x is a multiple of 3}\nE2 = {x : x is a multiple of 4}\nand an integer is picked at random from U, find the probability that it is not in E2\n",
+    "option": {
+      "a": "3/4",
+      "b": "3/10",
+      "c": "1/4",
+      "d": "1/20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "U = {1, 2, 3, 4, 5,..., 20}\nE1 = {3, 6, 9, 12, 15, 18}\nE2 = {4, 8, 12, 16, 20}\nP(E1) = 5/20\nP(not E1) = 1 - (5/20) = 15/20 = 3/4",
+    "examtype": "utme",
+    "examyear": "2000"
   }
 ]

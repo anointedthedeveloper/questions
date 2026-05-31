@@ -12174,5 +12174,21 @@
     "solution": "Consider the range -3 < x < -1\n\n= { -2, -1, 0}, for instance\n\nWhen x = -2,\n\n(−2−5)/(−2 + 3) < −1\n\n\n−7/1 < −1\n\n\nWhen x = -1,\n\n(−1−5)/(−1+3) <−1\n\n\n−6/2 < −1\n\n\n= -3 < -1\n\nWhen x = 0,\n\n(0−5)/(0 + 3) < −1\n\n\n−5/3 < −1\n\n\nHence -3 < x < 1",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 641,
+    "question": "A binary operation ⊕ on real numbers is defined by x ⊕ y = xy + x + y for two real numbers x and y. Find the value of 3 ⊕ -2/3\n.",
+    "option": {
+      "a": " - 1/2",
+      "b": "1/3",
+      "c": "-1",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "N + Y = XY + X + Y\n\n3 + -2/3 = 3(- 2/3) + 3 + (- 2/3)\n\n= -2 + 3 -2/3\n\n\n= 1−2/1−3\n\n\n= 1/3",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

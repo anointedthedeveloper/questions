@@ -52,6 +52,9 @@ class ChangeHandler(FileSystemEventHandler):
     def on_modified(self, event):
         if event.is_directory:
             return
+        # ignore .git folder and autopush script itself
+        if ".git" in event.src_path or "autopush.py" in event.src_path:
+            return
         self.last_change = time.time()
         if not self.pending:
             self.pending = True

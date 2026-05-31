@@ -1,0 +1,162 @@
+[
+  {
+    "id": 26,
+    "question": "The energy contained in wire when it is extended by 0.02m by a force 500N is ",
+    "option": {
+      "a": "104J ",
+      "b": "103J ",
+      "c": "10J ",
+      "d": "5J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 990,
+    "question": "The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as",
+    "option": {
+      "a": "Z only",
+      "b": " X only",
+      "c": " Y and Z",
+      "d": " Y and X"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774439348/ALOC-Questions/Physics/2011/PHYSICS_2011_Q_41_p3q4wh.png",
+    "answer": "a",
+    "solution": "Under neutral equilibrium, the body rolls and the position of the center of gravity , C. G is neither raised nor lowered",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 105,
+    "question": "A hydraulic press works on the principle of transmission of   ",
+    "option": {
+      "a": "force  ",
+      "b": "energy  ",
+      "c": "volume  ",
+      "d": "pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 978,
+    "question": "Which of the following is a property of steel?",
+    "option": {
+      "a": " it cannot retain its magnetism longer than iron",
+      "b": " it can be used for making temporary magnets",
+      "c": " it can be used for making permanent magnets",
+      "d": "it can easily be magnetized and demagnetized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Steel is not easily magnetized and dismagnetized",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 317,
+    "question": "What effort will a machine of efficiency 90% apply to a load of 180N if its efforts arm is twice as long as its load arm?",
+    "option": {
+      "a": "100N",
+      "b": "90N",
+      "c": "80N",
+      "d": "120N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nLoad (L) = 180 N\nEfficiency = 90% = 0.90\nEffort arm = 2 × Load arm\nEffort (E) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor a lever:\nV.R = Effort arm / Load arm = 2/1 = 2\nStep 2: Use efficiency formula\nEfficiency = M.A / V.R\nwhere M.A (Mechanical Advantage) = Load / Effort\nSubstituting:\n0.90 = M.A / 2\nM.A = 0.90 × 2 = 1.8\nStep 3: Calculate Effort\nM.A = Load / Effort\n1.8 = 180 / E\nE = 180 / 1.8\nE = 100 N",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 850,
+    "question": "I. Diameter of a small ball bearing.\nII. Thickness of a pieces of paper.\nIII. Diameter of a measuring cylinder.\nIV. Length of a piece of wire.\n\n\nWhich of the above can be measured using a micrometer screw gauge?",
+    "option": {
+      "a": "I, II and IV only",
+      "b": "I and II only",
+      "c": " II and III only",
+      "d": "III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A micrometer screw gauge is designed to measure small thicknesses, diameters of thin wires, and small spherical objects. It is not suitable for measuring large dimensions or lengths.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 754,
+    "question": "A machine has a velocity ratio of 4. if it requires 800 N to overcome a load of 1600 N,what is the efficiency of the machine?",
+    "option": {
+      "a": "60%",
+      "b": "50%",
+      "c": "40%",
+      "d": "20%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nVelocity Ratio (V.R) = 4\nEffort (E) = 800 N\nLoad (L) = 1600 N\nEfficiency = ?\n\nStep 1: Calculate Mechanical Advantage (M.A)\nM.A = Load / Effort\nM.A = 1600 / 800\nM.A = 2\nStep 2: Calculate Efficiency\nEfficiency = (M.A / V.R) × 100%\nSubstituting values:\nEfficiency = (2 / 4) × 100%\nEfficiency = 0.5 × 100%\nEfficiency = 50%",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 560,
+    "question": "A light ray passing from air into water at an angle of 30º from the normal in air would ",
+    "option": {
+      "a": "make an angle greater than 300\n in water surface",
+      "b": "be completely absorbed by the water surface",
+      "c": "be completely reflected by the water surface",
+      "d": "make an angle less than 300\n from the normal in water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Observations show that when the light travels from a medium A(air) to a more dense medium B(water), the refracted ray bends towards the normal and the angle of refraction (r) is, therefore, less than the angle of incidence. vice versa.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 393,
+    "question": "Tha mass of a proton is approximately equal to that of ",
+    "option": {
+      "a": "an α\n-particle",
+      "b": "a β\n-Particle",
+      "c": " a neutron",
+      "d": "an electron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The mass of a proton is approximately equal to that of a neutron. Both have a relative mass of approximately 1 atomic mass unit (u), with the neutron being only slightly heavier.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 883,
+    "question": "Which of the following can conduct electricity owing to the presence of free mobile electrons?",
+    "option": {
+      "a": "germanium",
+      "b": "silicon",
+      "c": "grapefruit",
+      "d": "copper"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Metals are good conductors due to the presence of free electrons.",
+    "examtype": "utme",
+    "examyear": "2009"
+  }
+]

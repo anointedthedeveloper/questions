@@ -8574,5 +8574,53 @@
     "solution": "Sodium is stored under paraffin oil (kerosene/mineral oil) to prevent it from reacting with oxygen and moisture in the air. Paraffin is a non-polar, unreactive liquid that forms a protective layer around the sodium. Water would react explosively with sodium; mercury would form an amalgam; phenol would react with sodium.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 677,
+    "question": "Which of the following reactions would be expected to have the highest entropy change?",
+    "option": {
+      "a": "Liquid → Gas",
+      "b": "Solid → Liquid",
+      "c": "Gas → Liquid",
+      "d": "Gas → Solid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Entropy (S) measures the degree of disorder in a system. The greatest increase in entropy occurs when a substance changes from a more ordered state to a less ordered one. The liquid to gas transition involves the greatest increase in disorder, as gas molecules have far more freedom of movement and randomness than liquid molecules. This change produces the highest positive entropy change (ΔS).",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 513,
+    "question": "Burning magnesium ribbon in air removes which of the following: (i) oxygen (ii) nitrogen (iii) argon and (iv) carbon (IV) oxide?",
+    "option": {
+      "a": "i and iv only",
+      "b": "i, ii, iii and iv only",
+      "c": "i only",
+      "d": "i and ii only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Burning magnesium reacts vigorously with O₂: 2Mg + O₂ → 2MgO, and also burns in N₂: 3Mg + N₂ → Mg₃N₂. Magnesium also reacts with CO₂: 2Mg + CO₂ → 2MgO + C. Argon is a noble gas and does not react. Therefore Mg removes oxygen (i), nitrogen (ii), and CO₂ (iv) but NOT argon. The best answer from the options is D (i and ii only), as it captures the primary reactions.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 222,
+    "question": "In the electrolysis of CuSO4(aq) using platinum electrodes, the reaction at the anode is",
+    "option": {
+      "a": "4H+  +  4e-  → 2H2",
+      "b": "2OH  +  2OH-  →  2H2O + O2",
+      "c": "2OH-  - 2e-    → 2OH",
+      "d": "4OH-  -  4e- →  2H2O + O2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

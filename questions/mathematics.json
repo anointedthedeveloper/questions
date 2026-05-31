@@ -11758,5 +11758,53 @@
     "solution": "y = (1 - 2x)<sup>3</sup>\n\nlet u = 1-2x\ndu/dx = -2\n∴y = u<sup>3</sup>\n\ndy/du = 3u<sup>2</sup>\n\nBut dy/dx = du/dx * dy/du\n= -2 * 3u<sup>2</sup>\n\n= -6u<sup>2</sup>\n\n= -6(1-2x)<sup>2</sup>\n\nAt x = -1: dy/dx = -6(1 - 2(-1))<sup>2</sup>\n\ndy/dx = -6(1 + 2)<sup>2</sup>\n\n= -6 * 3<sup>2</sup>\n\n= -6 * 9\n= -54\n",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 1196,
+    "question": "If gt<sup>2</sup> - k - w = 0, make g the subject of the formula",
+    "option": {
+      "a": "k+w/t<sup>2</sup>",
+      "b": "k-w/t<sup>2</sup>",
+      "c": "k+w/t",
+      "d": "k-w/t"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "gt<sup>2</sup> - k - w = 0\n\ngt<sup>2</sup> = k + w\n\ng = k + w/t<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 477,
+    "question": "The cost of kerosene per liter increased from N60 to N85. What is the percentage rate of increase?",
+    "option": {
+      "a": " 42%",
+      "b": " 41%",
+      "c": "40%",
+      "d": "25%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "N85 - N60 = N25 increase\n∴percentage increase 25/60 × 100/1 = 125/3 = 41.67 = 42",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 730,
+    "question": "Make 'n' the subject of the formula if w = v(2+cn)/(1−cn)",
+    "option": {
+      "a": "1/c(w−2/vv+w)",
+      "b": "1/c(w−2/vv−w)",
+      "c": "1/c(w+2/vv−w)",
+      "d": " 1/c(w+2/vv+w)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "w = v(2+cn)/1−cn\n\n\n2v + cnv = w(1 - cn)\n\n2v + cnv = w - cnw\n\n2v - w = -cnv - cnw\n\nMultiply through by negative sign\n\n-2v + w = cnv + cnw\n\n-2v + w = n(cv + cw)\n\nn = −(2v+w)/(cv+cw)\n\n\nn = 1/c(−2v+w/v+w)\n\n\nRe-arrange...\n\nn = 1/c(w−2v/v+w)",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

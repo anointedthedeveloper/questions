@@ -9598,5 +9598,37 @@
     "solution": "Given information:\n\nMass (m) = 100g = 0.1 kg\nInitial velocity (u) = +10 m/s (toward wall)\nFinal velocity (v) = -2.0 m/s (away from wall, opposite direction)\nChange in momentum = ?\n\nFormula:\nChange in momentum = m(v - u)\nCalculating:\nChange in momentum = 0.1 × (-2 - 10)\nChange in momentum = 0.1 × (-12)\nChange in momentum = -1.2 kgm/s\nMagnitude:\n|Change in momentum| = 1.2 kgm/s = 1.2 Ns\nNote: The negative sign indicates direction (opposite to initial motion). The magnitude is what's typically reported.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 964,
+    "question": "Which of the following electromagnetic waves has the highest frequency?",
+    "option": {
+      "a": " utra - violet rays",
+      "b": "radio waves",
+      "c": "x - rays",
+      "d": " infrared - rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "r - rays has the highest frequency followed by X - rays, ultraviolet ray, visible light intra - red and the least is radio weaves",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 423,
+    "question": "A ball of mass 0.5kg moving at 10ms⁻¹ collides with another ball of equal mass at rest. If the two balls move off together after the impact, calculate their common velocity.",
+    "option": {
+      "a": "0.2 ms⁻¹",
+      "b": "0.5 ms⁻¹",
+      "c": "5.0 ms⁻¹",
+      "d": "5.5 ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass of first ball (m₁) = 0.5 kg\nInitial velocity of first ball (u₁) = 10 m/s\nMass of second ball (m₂) = 0.5 kg\nInitial velocity of second ball (u₂) = 0 m/s (at rest)\nCommon final velocity (v) = ?\n\nThis is an inelastic collision (balls stick together)\nUsing Conservation of Momentum:\nTotal momentum before collision = Total momentum after collision\nm₁u₁ + m₂u₂ = (m₁ + m₂)v\nSubstituting values:\n(0.5 × 10) + (0.5 × 0) = (0.5 + 0.5)v\n5 + 0 = 1.0v\n5 = v\nv = 5.0 m/s",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

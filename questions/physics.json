@@ -5182,5 +5182,85 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 610,
+    "question": "Flourescent tubes produces light by the",
+    "option": {
+      "a": "excitation of gas molecules",
+      "b": "conduction of solar energy",
+      "c": "refraction of light by gas molecules",
+      "d": " thermal agitation of electron in the tubes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Working principle of fluorescent tubes:\nStep 1: Electric discharge\nElectric current passes through mercury vapor (or other gases) inside the tube.\nStep 2: Excitation process\nElectrons collide with gas molecules (atoms), transferring energy and exciting electrons to higher energy levels.\nStep 3: De-excitation and photon emission\nExcited electrons return to ground state, emitting UV photons.\nStep 4: Fluorescence\nUV photons strike the phosphor coating on the tube's inner surface, which fluoresces and emits visible light.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 953,
+    "question": "An object of mass 2 kg moves with a velocity of 10 ms⁻¹ round a circle of radius 4 m. Calculate the centripetal force on the object",
+    "option": {
+      "a": " 25 N",
+      "b": " 100 N",
+      "c": " 50 N",
+      "d": "40 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass (m) = 2 kg\nVelocity (v) = 10 m/s\nRadius (r) = 4 m\nCentripetal force (F) = ?\n\nFormula for centripetal force:\nF = mv²/r\nSubstituting values:\nF = (2 × 10²)/4\nF = (2 × 100)/4\nF = 200/4\nF = 50 N.  This centripetal force of 50 N is directed towards the center of the circular path and is necessary to keep the 2 kg object moving in a circle at 10 m/s. This force must be provided by friction, tension, gravity, or some other physical force depending on the situation (e.g., tension in a string, friction on a road, etc.).",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 1151,
+    "question": "What magnitude of electric current can store 2.5 J of energy in a 3 H induction coil?",
+    "option": {
+      "a": "1.29 A",
+      "b": " 2.48 A",
+      "c": " 5.00 A",
+      "d": "3.66 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nEnergy stored, E = 2.5 J\nInductance, L = 3 H\n\nSolution:\n\nStep 1: Formula for energy stored in an inductor\nE = ½ × L × I²\n\nStep 2: Rearrange to find current\nI² = 2E / L\nI = √(2E / L)\n\nStep 3: Substitute values\nI = √(2 × 2.5 / 3) = √(5 / 3) = √1.6667\n\nStep 4: Calculate\n√1.6667 ≈ 1.29 A",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 22,
+    "question": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v. ",
+    "option": {
+      "a": "mv2/p ",
+      "b": "mv2/2p ",
+      "c": "mv/p ",
+      "d": "mv/2p"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 999,
+    "question": "A wire of length 5.0 m and cross-sectional area 2.0 × 10⁻⁶ m² has a resistance of 0.5Ω. Calculate the resistivity of the material.",
+    "option": {
+      "a": "1.0 × 10⁻⁷ Ωm",
+      "b": "2.0 × 10⁻⁷ Ωm",
+      "c": "5.0 × 10⁻⁷ Ωm",
+      "d": "1.25 × 10⁻⁶ Ωm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLength (L) = 5.0 m\nCross-sectional area (A) = 2.0 × 10⁻⁶ m²\nResistance (R) = 0.5 Ω\nResistivity (ρ) = ?\n\nFormula for resistance:\nR = ρL/A\nRearranging for resistivity:\nρ = RA/L\nSubstituting values:\nρ = (0.5 × 2.0 × 10⁻⁶)/5.0\nρ = (1.0 × 10⁻⁶)/5.0\nρ = 0.2 × 10⁻⁶\nρ = 2.0 × 10⁻⁷ Ωm",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

@@ -12734,5 +12734,117 @@
     "solution": "At -273°C (absolute zero), the pressure of an ideal gas becomes zero because all molecular motion ceases.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 147,
+    "question": "Electrons were discovered by",
+    "option": {
+      "a": "James Chadwick B.",
+      "b": "J.J Thompson",
+      "c": "Sir Isaac Newton",
+      "d": "Charles Newton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "J.J. Thompson discovered ELECTRONS",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 503,
+    "question": "A missile is launched with a speed of 75 ms-1 at an angle of 22° above the surface of a warship. Find the horizontal range achieved by the missile. Ignore the effects of air resistance.\n\n[Take g = 10 ms⁻²]",
+    "option": {
+      "a": "195",
+      "b": " 271 m",
+      "c": "391 m",
+      "d": "136 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nInitial velocity, u = 75 m/s\nAngle of projection, θ = 22°\nAcceleration due to gravity, g = 10 m/s²\nHorizontal range, R = ?\n\nSolution:\nUsing the range formula for projectile motion:\nR = (u² sin 2θ)/g\nStep 1: Calculate sin 2θ\n2θ = 2 × 22° = 44°\nsin 44° = 0.6947\nStep 2: Substitute values into the range formula\nR = (75² × sin 44°)/10\nR = (5625 × 0.6947)/10\nR = 3907.4/10\nR = 390.74 m\nR ≈ 391 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 627,
+    "question": "As the pressure of a fluid increases, its viscosity",
+    "option": {
+      "a": "decreases",
+      "b": "increases",
+      "c": "increases then decreases",
+      "d": "remains constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "With an increase in pressure, the viscosity of liquids except water increases while that of gases is practically independent of pressure.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 490,
+    "question": "The amount of energy required to change a kilogram of ice block into water without a change in temperature is?",
+    "option": {
+      "a": "specific latent heat of fusion of ice",
+      "b": "specific heat capacity of ice",
+      "c": "heat capacity of ice",
+      "d": " specific heat of vaporization of ice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Specific latent heat of fusion is the energy required per kilogram to change a substance from solid to liquid at its melting point without temperature change. For ice, this value is approximately 334 kJ/kg or 3.34 × 10⁵ J/kg.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 773,
+    "question": "Silicon doped with aluminum and germanium doped with arsenic become?",
+    "option": {
+      "a": "p- and n- types respectively",
+      "b": "n- en p- type respectively",
+      "c": " p- type semiconductor",
+      "d": "n- type semiconductors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Silicon is a group IV element with four valence electrons. Doping it with aluminum (a group III element with three valence electrons) creates a deficiency of electrons, resulting in a p‑type semiconductor. Germanium is also a group IV element, and doping it with arsenic (a group V element with five valence electrons) introduces extra free electrons, making it an n‑type semiconductor. Therefore, in the order given, silicon doped with aluminum becomes p‑type, and germanium doped with arsenic becomes n‑type.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 148,
+    "question": "What is the relationship mechanical advantage (MA) velocity Ratio (V.R) and efficiency with percentage?",
+    "option": {
+      "a": "e = M.A/V.R × 100 %",
+      "b": "M.A = E.V.R",
+      "c": "V.R = 1 ÷ sin θ M.A",
+      "d": "M.A = 1/E × 100%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Efficiency of a machine relates the output to the input of the machine.\nKey definitions:\n\nMechanical Advantage (M.A) = Output force/Input force (what you get out)\nVelocity Ratio (V.R) = Input distance/Output distance (what you put in)\nEfficiency (E) = (Useful work output)/(Work input)\n\nRelationship:\nEfficiency can be expressed as:\nEfficiency = (Mechanical Advantage)/(Velocity Ratio)\nIn percentage form:\nEfficiency (%) = (M.A/V.R) × 100%\nWhy this relationship:\n\nM.A represents the force advantage (output/input)\nV.R represents the distance disadvantage (input/output)\nEfficiency = (Force advantage)/(Distance disadvantage)\nIn an ideal machine (100% efficient), M.A = V.R\n\nAnswer: A. e = M.A/V.R × 100%\nThis formula shows that efficiency is the ratio of mechanical advantage to velocity ratio, expressed as a percentage.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 293,
+    "question": "Shadows and eclipses result from the",
+    "option": {
+      "a": "refraction of light",
+      "b": "reflection of light",
+      "c": " defraction of light",
+      "d": "rectilinear propagation of light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Shadows and eclipses result from the rectilinear propagation of light (light traveling in straight lines).",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

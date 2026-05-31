@@ -13470,5 +13470,21 @@
     "solution": "(159.75)10 = (y)6\n\n\n\n15910 = 4236\n\nThen Convert 0.75 to base 6\n\n0.75 x 6 =4.5 i.e 4.5 - 3.00 = 1.5\n0.5 x 6 = 3.00 423 + 1.5 =424.5\n\n159.75 = (424.5)6\n\n(159)10 = (424.5)6",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 1254,
+    "question": "The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newton’s is 2cm, find the extension produced by a tension of 12 newton’s.",
+    "option": {
+      "a": "2",
+      "b": "1",
+      "c": "0",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let the extension be E and the tension be T.\n\nThen E∝T\nE=kT\nwhen T = 8N, E = 2cm\n\n2=k × 8\nk = 2/8 = 0.25\n∴ E = 0.25T\nwhen T = 12N, E = 0.25 × 12 =3 cm",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

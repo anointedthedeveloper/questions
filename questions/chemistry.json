@@ -9966,5 +9966,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 491,
+    "question": "The salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate (VII) solution is",
+    "option": {
+      "a": "Na₂SO₄",
+      "b": "Na₂SO₃",
+      "c": "Na₂S",
+      "d": "Na₂CO₃"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Na₂SO₃ reacts with dilute HCl to produce SO₂: Na₂SO₃ + 2HCl → 2NaCl + H₂O + SO₂↑. SO₂ has a pungent smell and is a reducing agent that decolourizes (reduces) acidified KMnO₄ solution: 5SO₂ + 2KMnO₄ + 2H₂O → K₂SO₄ + 2MnSO₄ + 2H₂SO₄. Na₂S gives H₂S (rotten egg smell, not the same); Na₂CO₃ gives odourless CO₂.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 731,
+    "question": "If the solubility of KNO₃ at 30°C is 3.10 mol/dm³, a solution containing 303g/dm³ KNO₃ is likely to be",
+    "option": {
+      "a": "saturated",
+      "b": "unsaturated",
+      "c": "supersaturated",
+      "d": "at saturation point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Molar mass of KNO₃ = 39 + 14 + 48 = 101 g/mol. Concentration of the solution = 303 ÷ 101 = 3.0 mol/dm³. The solubility at 30°C is 3.10 mol/dm³. Since 3.0 mol/dm³ is less than the solubility limit, the solution is unsaturated.",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

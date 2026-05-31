@@ -15768,5 +15768,81 @@
     "questionNub": 100,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1479,
+    "question": "B[oo]k",
+    "option": {
+      "a": "shoe",
+      "b": "group",
+      "c": "blue",
+      "d": "full"
+    },
+    "section": "Choose the word that has the same vowel sound as the one in bracket, from questions below",
+    "image": "",
+    "answer": "d",
+    "solution": "The vowel sound obtainable here is the short /u/ sound as in 'put'. The rest of the options have elongated pronunciation than 'full'",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 106,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 992,
+    "question": "The POLICE arrested the suspect.",
+    "option": {
+      "a": "Did the police placate the suspect?",
+      "b": "Who arrested the suspect?",
+      "c": "Who did the police arrest?",
+      "d": "Did the police arrest the suspect?"
+    },
+    "section": "<b>In each of the questions 93 to 98 choose the appropriate stress pattern from the options. The syllables are written in capital letters.</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "In responding to questions on emphatic stress, Interrogative sentence that contradicts the emphasized word is the correct option. This means that, the statement that does not have the emphasized word in it is the correct answer. ",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 97,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 170,
+    "question": "Some people consider the leather uphoistery and thick rugs a bit <i>sumptuous</i>  ",
+    "option": {
+      "a": "expensive",
+      "b": "desirable",
+      "c": "lavish",
+      "d": "simple"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 535,
+    "question": "His father surmounted the  <i>myriad</i>  of obstacles on his way ",
+    "option": {
+      "a": "most ",
+      "b": "few ",
+      "c": "all ",
+      "d": "many"
+    },
+    "section": "choose the option opposite In meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

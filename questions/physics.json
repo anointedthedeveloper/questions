@@ -3518,5 +3518,69 @@
     "solution": "Examples of first class levers are pliers, scissors, a crow bar, a claw hammer, a see-saw and a weighing balance.\n\nA wheelbarrow, a bottle opener, and an oar are examples of second class levers",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 435,
+    "question": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
+    "option": {
+      "a": "24 years",
+      "b": "20 years",
+      "c": "10 years",
+      "d": "2 years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nTime elapsed (t) = 120 years\nFraction remaining = 1/64\nHalf-life (T½) = ?\n\nStep 1: Determine number of half-lives\nAfter n half-lives, fraction remaining = (1/2)ⁿ\nGiven: (1/2)ⁿ = 1/64\nFinding n:\n1/64 = 1/2ⁿ\n64 = 2ⁿ\nSince 64 = 2⁶:\nn = 6\nSo 6 half-lives have passed.\nStep 2: Calculate half-life\nNumber of half-lives × Half-life = Total time\nn × T½ = t\n6 × T½ = 120 years\nT½ = 120/6\nT½ = 20 years",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 607,
+    "question": "In a reverse biased junction diode, current flows in by",
+    "option": {
+      "a": "positive holes alone",
+      "b": "majority carriers",
+      "c": "electron alone",
+      "d": "minority carriers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a reverse biased junction diode only a very small current flows in, carried by the minority carriers which are the negative charges in the n-semi conductor",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 980,
+    "question": "\nIf the charge of electricity is K per kWh is N4, what is the cost of operating an electrical appliance rated 250V, 2A for six hours?",
+    "option": {
+      "a": "N28",
+      "b": "N12",
+      "c": "N16",
+      "d": "N24"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nCost per kWh = N4\nVoltage (V) = 250 V\nCurrent (I) = 2 A\nTime (t) = 6 hours\nTotal cost = ?\n\nStep 1: Calculate power of the appliance\nP = VI\nP = 250 × 2\nP = 500 W = 0.5 kW\nStep 2: Calculate energy consumed\nEnergy = Power × Time\nE = 0.5 kW × 6 hours\nE = 3 kWh\nStep 3: Calculate total cost\nCost = Energy × Rate per kWh\nCost = 3 × N4\nCost = N12",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 769,
+    "question": "The production of pure spectrum could easily be achieved using a?",
+    "option": {
+      "a": "glass prism with a pin",
+      "b": " triangular prism with two convex lens",
+      "c": " traingular prism only",
+      "d": "triangular prism with two concave lenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A pure spectrum can be produced using a triangular prism-two converging lenses and a narrow slit of white light",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

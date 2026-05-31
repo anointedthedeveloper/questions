@@ -11918,5 +11918,21 @@
     "solution": "In Cu₂S, S has oxidation number -2, so each Cu must be +1 (since 2(+1) + (-2) = 0). In the product Cu, copper is in its elemental state with oxidation number 0. Therefore copper changes from +1 (in Cu₂S) to 0 (in Cu) — this is a reduction.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 333,
+    "question": "Which of these radioactive elements is commonly used as a nuclear fuel?",
+    "option": {
+      "a": "uranium",
+      "b": "palladium",
+      "c": "actium",
+      "d": "thorium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Uranium (specifically U-235) is the most commonly used nuclear fuel. Its nucleus undergoes fission when struck by a slow neutron, releasing enormous energy and additional neutrons that sustain a chain reaction in nuclear reactors.",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

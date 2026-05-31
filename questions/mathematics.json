@@ -16686,5 +16686,21 @@
     "solution": "P(pass) = 2/3\nP(not pass) = 1 - 2/3 = 1/3\nP(not passing any of the 3 Exams) = 1/3 x 1/3 x 1/3\n= 1/27",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 149,
+    "question": "Differentiate (2x+5)<sup>2</sup>(x-4) with respect to x.",
+    "option": {
+      "a": "4(2x+5)(x-4)",
+      "b": "4(2x+5)(4x-3)",
+      "c": "(2x+5)(2x-13)",
+      "d": "(2x+5)(6x-11)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

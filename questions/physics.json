@@ -11086,5 +11086,69 @@
     "solution": "Given information:\nHalf‑life, T₁/₂ = 138.5 s\n\nSolution:\n\nStep 1: Relationship between decay constant and half‑life\nλ = ln 2 / T₁/₂\n\nStep 2: Substitute ln 2 ≈ 0.693\nλ = 0.693 / 138.5\n\nStep 3: Calculate\n0.693 ÷ 138.5 = 0.0050036 ≈ 5.00 × 10⁻³ s⁻¹",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 955,
+    "question": "If a tube of small radius opened at both ends is placed in a liquid, the liquid will",
+    "option": {
+      "a": " remain at the same level irrespective of whether the liquid wet the glass or not",
+      "b": "fall below the liquid level if the liquid wets the glass",
+      "c": "falls below the liquid level if the liquid does not wet the glass",
+      "d": "rise above the liquid level if the liquid does not wet the glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The liquid will rise up the capillary if it wets glass and falls below its wets glass and falls below its initial level if it does not wet glass",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 855,
+    "question": "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction. [g = 10 m s⁻²]",
+    "option": {
+      "a": "0.8",
+      "b": "0.4",
+      "c": "1.0",
+      "d": "0.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate normal reaction\nSince the surface is horizontal, normal reaction N = m × g = 80 kg × 10 m s⁻² = 800 N\n\nStep 2: Condition for impending motion\nAssuming the force is just sufficient to overcome static friction, the maximum static frictional force equals the applied force:\nF = μₛ × N\n\nStep 3: Solve for μₛ\nμₛ = F / N = 500 N / 800 N = 0.625\n\nStep 4: Compare with options\n0.625 is closest to 0.6 among the given options.\n\n",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 954,
+    "question": "A carpenter on top of a roof of 20.0m high dropped a hammer of mass 1.5 kg and it fell directly to the ground. The kinetic energy of the hammer just before hitting the ground is? [g = 10 ms⁻²]",
+    "option": {
+      "a": "600 J",
+      "b": "150 J",
+      "c": "300 J",
+      "d": "450 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nHeight (h) = 20.0 m\nMass (m) = 1.5 kg\ng = 10 m/s²\nInitial velocity (u) = 0 (dropped from rest)\nKinetic energy just before hitting ground = ?\n\nMethod 1: Using conservation of energy\nInitial state (at top):\n\nPE = mgh = 1.5 × 10 × 20 = 300 J\nKE = 0 (at rest)\nTotal energy = 300 J\n\nFinal state (just before hitting ground):\n\nPE = 0 (at ground level)\nKE = ?\nTotal energy = 300 J\n\nBy conservation of energy:\nInitial PE = Final KE\nKE = 300 J\n\nThe kinetic energy of the hammer just before hitting the ground is 300 J.\nExplanation: All the potential energy at the top (300 J) is converted to kinetic energy at the bottom, demonstrating the conservation of mechanical energy. The hammer reaches a velocity of 20 m/s just before impact.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 127,
+    "question": "Two 2µF capacitors are connected in parallel. The combination is connected in series with a 6µF capacitor. What is the equivalent capacitor for the combination?",
+    "option": {
+      "a": "10.0µF  ",
+      "b": "8.0µF  ",
+      "c": "1.5µF  ",
+      "d": "2.4µF"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   }
 ]

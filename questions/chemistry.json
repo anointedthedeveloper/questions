@@ -10174,5 +10174,37 @@
     "solution": "Ozone layer (O₃) in the stratosphere absorbs harmful ultraviolet (UV) radiation from the sun, particularly UV-B and UV-C rays that cause skin cancer, cataracts, and damage to DNA.",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 684,
+    "question": "What happens to the value of the equilibrium constant (Kc) for a reaction if the reaction is reversed?",
+    "option": {
+      "a": "It becomes zero",
+      "b": "It becomes negative",
+      "c": "It remains the same",
+      "d": "It becomes the reciprocal of the original value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The equilibrium constant Kc is defined as the ratio of product concentrations to reactant concentrations at equilibrium. When a reaction is reversed, products become reactants and vice versa. The Kc for the reversed reaction is therefore 1 divided by the original Kc (its reciprocal). For example, if Kc = 4 for the forward reaction, then Kc = 1/4 = 0.25 for the reverse reaction.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 360,
+    "question": "The principle of column chromatography is based on the ability of the constituents to",
+    "option": {
+      "a": "React with the solvent in the column",
+      "b": "React with each other in the solvent in the column",
+      "c": "Dissolve in each other in the column",
+      "d": "Move at different speeds in the column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Column chromatography separates mixtures based on the ability of components to move at different speeds through the stationary phase. Components with greater affinity for the stationary phase move more slowly, while those preferring the mobile phase move faster, achieving separation.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

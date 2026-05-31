@@ -4222,5 +4222,69 @@
     "solution": "Increase in pressure generally raises the boiling point but but lowers the melting point. II and III",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 291,
+    "question": "The amount of heat needed to raise the temperature of 10kg of Copper by 1K is its",
+    "option": {
+      "a": "specific heat capacity",
+      "b": "latent heat",
+      "c": "heat capacity",
+      "d": "internal energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The amount of heat needed to raise the temperature of 10kg of copper (a specific object) by 1K is its heat capacity.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 46,
+    "question": "A machine has a velocity ratio of 5, if it requires a 50kg weight to overcome 200kg weight, the efficiency is? ",
+    "option": {
+      "a": "4%",
+      "b": "5%",
+      "c": "40%",
+      "d": "80%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 377,
+    "question": "Three resistors with resistance 200Ω, 500Ω and 1kΩ are connected in series. A 6v battery is connected to either end of the combination. Calculate the potential difference between the ends of 200Ω resistance.",
+    "option": {
+      "a": "0.71V",
+      "b": "0.7V",
+      "c": " 0.82V",
+      "d": "0.8V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nR₁ = 200Ω\nR₂ = 500Ω\nR₃ = 1kΩ = 1000Ω\nVoltage (V) = 6V\nIn series connection\nPotential difference across 200Ω = ?\n\nStep 1: Calculate total resistance\nFor series: R_total = R₁ + R₂ + R₃\nR_total = 200 + 500 + 1000\nR_total = 1700Ω\nStep 2: Calculate current through circuit\nUsing Ohm's law: I = V/R_total\nI = 6/1700\nI = 0.00353 A (approximately)\nStep 3: Calculate voltage across 200Ω resistor\nIn series, same current flows through all resistors\nV₁ = I × R₁\nV₁ = (6/1700) × 200\nV₁ = 1200/1700\nV₁ = 0.706V ≈ 0.71V\nAlternative method (voltage divider):\nV₁ = (R₁/R_total) × V_total\nV₁ = (200/1700) × 6\nV₁ = 1200/1700 = 0.706V ≈ 0.71V",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 478,
+    "question": "A current of 0.5 A flows through a resistor when connected to a 40 V battery. How much energy is dispatched in 2 minutes?",
+    "option": {
+      "a": "2400 J",
+      "b": "9600 J",
+      "c": "1500 J",
+      "d": "1200 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCurrent, I = 0.5 A\nVoltage, V = 40 V\nTime, t = 2 minutes = 2 × 60 = 120 s\nEnergy, E = ?\n\nSolution:\nUsing the electrical energy formula:\nE = VIt\nStep 1: Substitute the known values\nE = 40 × 0.5 × 120\nStep 2: Calculate the energy\nE = 40 × 0.5 × 120\nE = 20 × 120\nE = 2400 J",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

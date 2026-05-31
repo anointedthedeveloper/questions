@@ -13726,5 +13726,37 @@
     "solution": "7x - 3 > 25 + 3x\n7x - 3x > 25 + 3\n4x > 28\nx > 28/4\nx > 7",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 528,
+    "question": "Simplify (5+√7)/(3+√7)",
+    "option": {
+      "a": "17-√7",
+      "b": "4-√7",
+      "c": "15+√7",
+      "d": "7-√7"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>5</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo stretchy=\"false\">)</mo>\n      <mo stretchy=\"false\">(</mo>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <msup>\n        <mn>3</mn>\n        <mn>2</mn>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <msup>\n        <msqrt>\n          <mn>7</mn>\n        </msqrt>\n        <mn>2</mn>\n      </msup>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>15</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>5</mn>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo>+</mo>\n      <mn>3</mn>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>7</mn>\n    </mrow>\n    <mrow>\n      <mn>9</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>7</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>8</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>2</mn>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n</math>\n\n\n\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <mo stretchy=\"false\">(</mo>\n      <mn>4</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>4</mn>\n  <mo>&#x2212;<!-- − --></mo>\n  <msqrt>\n    <mn>7</mn>\n  </msqrt>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(5+√7)/(3+√7) = (5+√7)/(3+√7) × (3-√7)/(3-√7) = ((5+√7)(3-√7))/(3<sup>2</sup>-√7<sup>2</sup> ) = (15-5√7+3√7-7)/(9-7) = (8-2√7)/2.                  Factorize then divide by 2.            =(2(4-√7)/2  = 4-√7",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 642,
+    "question": "If ∣∣∣2533x∣∣∣ = ∣∣∣4312x∣∣∣\n, find the value of x. ",
+    "option": {
+      "a": "-6",
+      "b": "6",
+      "c": "-12",
+      "d": "12"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>|</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mn>3</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mn>5</mn>\n        </mtd>\n        <mtd>\n          <mn>3</mn>\n          <mi>x</mi>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>|</mo>\n  </mrow>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129575/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q21_mrjaiw.jpg",
+    "answer": "a",
+    "solution": "(2 x 3x) - (5 x 3) = (4 x 2x) - (3 x 1)\n\n6x - 15 = 8x - 3\n\n6x - 8x = 15 - 3\n\n-2x = 12\n\nx = 12/−2\n\n\n= -6\n",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

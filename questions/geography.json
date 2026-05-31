@@ -3774,5 +3774,37 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
+  },
+  {
+    "id": 317,
+    "question": "If the total population of the city is 500,000 what is the population of ward 4?",
+    "option": {
+      "a": "75,000",
+      "b": "150,000",
+      "c": "125,000",
+      "d": "100,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_01_and_02_v2sqab.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 321,
+    "question": "Intervisibility is possibility between the points marked X and Y because the intervening slope is",
+    "option": {
+      "a": "Convex",
+      "b": "Rectilinear",
+      "c": "Convexo-concave",
+      "d": "Steep slope"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_03_and_07_byo7zc.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

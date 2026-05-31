@@ -23,11 +23,11 @@ HEADERS_LIST = [
 
 SUBJECTS = [
     "mathematics", "english", "chemistry", "physics", "biology",
-    "economics", "government", "literature-in-english", "geography",
-    "commerce", "accounting", "civic-education", "agricultural-science",
-    "christian-religious-knowledge", "islamic-religious-knowledge",
+    "economics", "government", "englishlit", "geography",
+    "commerce", "accounting", "civiledu", "agricultural-science",
+    "crk", "irk",
     "further-mathematics", "computer-studies", "home-economics",
-    "yoruba", "igbo", "hausa"
+    "yoruba", "igbo", "hausa", "currentaffairs", "history", "insurance"
 ]
 
 OUTPUT_DIR = "questions"

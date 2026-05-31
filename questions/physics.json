@@ -7054,5 +7054,85 @@
     "solution": "Given information:\n\nInitial volume (V₁) = 76 cm³\nInitial temperature (T₁) = 27°C = 27 + 273 = 300 K\nInitial pressure (P₁) = 800 mmHg\nFinal conditions: S.T.P (Standard Temperature and Pressure)\n\nFinal temperature (T₂) = 0°C = 273 K\nFinal pressure (P₂) = 760 mmHg\n\n\nFinal volume (V₂) = ?\n\nUsing Combined Gas Law:\n(P₁V₁)/T₁ = (P₂V₂)/T₂\nRearranging to find V₂:\nV₂ = (P₁V₁T₂)/(T₁P₂)\nSubstituting values:\nV₂ = (800 × 76 × 273)/(300 × 760)\nV₂ = (16,588,800)/(228,000)\nV₂ = 72.76 cm³\nV₂ ≈ 72.8 cm³\nAnswer: C. 72.8 cm³",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 162,
+    "question": "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s)",
+    "option": {
+      "a": "2sec",
+      "b": "3sec",
+      "c": "35sec",
+      "d": "2.4sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHeight (h) = 20 meters\nInitial velocity (u) = 0 m/s (ball is released, not thrown)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing the equation of motion:\nh = ut + ½gt²\nSince u = 0 (released from rest):\nh = ½gt²\nRearranging to find t:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 20/10)\nt = √(40/10)\nt = √4\nt = 2 seconds\nAnswer: A. 2 sec",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 981,
+    "question": "Under which of the following conditions do gases conduct electricity?",
+    "option": {
+      "a": "Low presssure and low p.d",
+      "b": "ow pressure and high p.d",
+      "c": "high pressure an low p.d",
+      "d": "high pressure and high p.d"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Under high potential difference and low pressure gases are good conductor of electricity",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 207,
+    "question": "The relative density of a liquid is the ratio of the",
+    "option": {
+      "a": " Mass of water to the mass of an equal volume of liquid",
+      "b": "Upthrust in the liquid to the upthrust in water",
+      "c": "Density of water to the density of the liquid",
+      "d": "Upthrust in water to the upthrust in the liquid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The relative density equals the ratio of upthrust in the liquid to upthrust in water (which equals the ratio of densities).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 460,
+    "question": "Which of these is a derived unit?",
+    "option": {
+      "a": "Kilogram",
+      "b": "Metre",
+      "c": "Newton",
+      "d": "Second"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Newton is a derived unit because it is defined in terms of base units: 1 Newton = 1 kg·m/s² (combining kilogram, metre, and second).",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1087,
+    "question": "One of the conditions necessary for an object to be in equilibrium when acted upon by a number of parallel forces is that the vector sum of the forces is",
+    "option": {
+      "a": "Average",
+      "b": "Zero",
+      "c": "Negative",
+      "d": "Positive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The vector sum of the forces must be zero.",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

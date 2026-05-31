@@ -15654,5 +15654,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1698,
+    "question": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nP<u>a</u>ss",
+    "option": {
+      "a": "earth",
+      "b": "clerk",
+      "c": "lass",
+      "d": "man"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "as usual, we will consider the pronunciations for all the given options above and choose the one with a differnt sound. \n\npass goes thus: [pɑːs]\n\nclerk  [klɑːk]\n\nearth  [əːθ]\n\nlass  [las]\n\nman   [man]             The answer is B because the word ‘pass’ is transcribes /pa:s/ and is a longer form of /ae/. In the options above the word ‘earth’ /Ʒ:o/ or /Ʒ or o/, ‘lass’ /wes/ but the word ‘clerk’/kla:k/ has the same long vowel sound as pass /pa:s/",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 11,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 16,
+    "question": "If you would do me this favour,  I …………..  be very grateful",
+    "option": {
+      "a": "should",
+      "b": " would ",
+      "c": " shall ",
+      "d": "will"
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

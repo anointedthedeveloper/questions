@@ -3310,5 +3310,53 @@
     "solution": "Given information:\n\nInitial velocity (u) = 25 m/s\nFinal velocity (v) = 45 m/s\nTime (t) = 10 s\nAcceleration (a) = ?\n\nFormula for acceleration:\na = (v - u)/t\nSubstituting values:\na = (45 - 25)/10\na = 20/10\na = 2 m/s²",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 487,
+    "question": "In order to view the sun, the most suitable instrument to use is?",
+    "option": {
+      "a": "helioscope",
+      "b": "telescope",
+      "c": " stroboscope",
+      "d": " sun meter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A helioscope is specifically designed for safe solar observation with appropriate filters and protective features. Direct viewing of the sun with ordinary telescopes or other instruments can cause severe eye damage or blindness.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 851,
+    "question": "What is the acceleration between two points on a velocity-time graph which has coordinates (10 s, 15 m s⁻¹) and (20 s, 35 m s⁻¹)?",
+    "option": {
+      "a": " 1.7 m s⁻²",
+      "b": "3.50 m s⁻²",
+      "c": "1.00 m s⁻²",
+      "d": "2.00 m s⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nPoint 1: t₁ = 10 s, v₁ = 15 m s⁻¹\nPoint 2: t₂ = 20 s, v₂ = 35 m s⁻¹\n\nSolution:\n\nStep 1: Acceleration from velocity-time graph\nAcceleration a = (change in velocity) / (change in time) = (v₂ – v₁) / (t₂ – t₁)\n\nStep 2: Substitute values\na = (35 – 15) / (20 – 10) = 20 / 10 = 2 m s⁻²",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 878,
+    "question": "A band of 500 rectangular loops of wire of area 20 cm by 20 cm, encloses a region of magnetic field which charges from 1.0T to 0.4T within 5 seconds, calculate the induced e.m.f.",
+    "option": {
+      "a": "5.60 v",
+      "b": "24.00 v",
+      "c": "0.24 v",
+      "d": "2.40 v"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nNumber of turns, N = 500\nArea, A = 20 cm × 20 cm = 0.2 m × 0.2 m = 0.04 m²\nInitial magnetic field, B₁ = 1.0 T\nFinal magnetic field, B₂ = 0.4 T\nTime interval, Δt = 5 s\n\nSolution:\n\nStep 1: Change in magnetic flux\nΔΦ = N × A × (B₂ – B₁) = 500 × 0.04 × (0.4 – 1.0) = 500 × 0.04 × (–0.6) = –12 Wb\n\nStep 2: Induced e.m.f.\nMagnitude of induced e.m.f. = |ΔΦ| / Δt = 12 Wb / 5 s = 2.4 V",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

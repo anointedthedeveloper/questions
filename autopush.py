@@ -7,7 +7,8 @@ from watchdog.events import FileSystemEventHandler
 
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 Q_DIR = os.path.join(REPO_DIR, "questions")
-DEBOUNCE = 5  # wait 5 seconds after last change before pushing (avoids mid-write pushes)
+DEBOUNCE = 5       # seconds after last change before pushing
+PULL_INTERVAL = 60 # pull every 60 seconds to sync from other system
 
 def run(cmd):
     result = subprocess.run(cmd, cwd=REPO_DIR, capture_output=True, text=True, shell=True)

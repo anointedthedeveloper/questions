@@ -13358,5 +13358,21 @@
     "solution": "27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>,\n \n3<sup>3(x+2)</sup> ÷ 3<sup>2(x+1)</sup> =3<sup>2x</sup> \n3<sup>3x+6</sup> ÷ 3<sup>2x+2</sup> = 3<sup>2x</sup> \n∴ (3x + 6) − (2x + 2) = 2x\nx + 4 = 2x ⟹ x = 4",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 1042,
+    "question": "A school boy lying on the ground 30 m away from the foot of a water tank towel observes that the angle of elevation of the top of the tank is 60°\n. Calculate the height of the tank.",
+    "option": {
+      "a": "60√3 m",
+      "b": "30√3 m",
+      "c": "20√3 m",
+      "d": "10√3 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "h = 30 tan 60 \n\n= 30√3\n ",
+    "examtype": "2020",
+    "examyear": "utme"
   }
 ]

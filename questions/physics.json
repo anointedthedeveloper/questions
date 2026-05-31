@@ -638,5 +638,85 @@
     "solution": "\nGiven information:\n\nMass of water (m) = 2 kg\nCurrent (I) = 3.5 A\nVoltage (V) = 200 V\nTime (t) = 2 minutes = 2 × 60 = 120 seconds\nSpecific heat capacity of water (c) = 4200 J/(kg·K)\nTemperature increase (ΔT) = ?\n\nStep 1: Calculate electrical power\nP = VI\nP = 200 × 3.5\nP = 700 W\nStep 2: Calculate electrical energy supplied\nEnergy = Power × Time\nE = 700 × 120\nE = 84,000 J\nStep 3: Calculate temperature increase\nAssuming all electrical energy is converted to heat:\nHeat gained by water = Electrical energy\nmcΔT = E\nRearranging:\nΔT = E/(mc)\nSubstituting values:\nΔT = 84,000/(2 × 4200)\nΔT = 84,000/8,400\nΔT = 10°C",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 385,
+    "question": "Which of the following statements about radioactivity is true?\n\n(i) Alpha particle is positively charged\n\n(ii) Beta particle is negatively charged\n\n(iii) Gamma ray is neutral\n\n(iv) Beta particle has the  same mass as helium atom\n\n(v) Gamma ray is charged. ",
+    "option": {
+      "a": "i, ii, iii, iv only",
+      "b": "i, ii, iii only",
+      "c": "iv and v only",
+      "d": "i, ii and v only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The true statements are: (i) alpha particles are positively charged, (ii) beta particles are negatively charged, and (iii) gamma rays are neutral.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 947,
+    "question": "An object is weighed at different locations on the Earth. What will be the right observation?",
+    "option": {
+      "a": "Both the mass and weight vary",
+      "b": "The weight is constant while the mass varies",
+      "c": "The mass is constant while the weight varies",
+      "d": "Both the mass and weight are constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The mass is constant while the weight varies.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 652,
+    "question": "A thin converging lens has a power of 4.0 diopters determined its focal length.",
+    "option": {
+      "a": "2.50m",
+      "b": "0.03m",
+      "c": "5.00m",
+      "d": "0.25m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPower of lens, P = 4.0 diopters (D)\nFocal length, f = ?\n\nSolution:\nFormula:\nThe power of a lens is related to its focal length by:\nP = 1/f\nWhere:\n\nP = power (in diopters, D)\nf = focal length (in meters)\n\nRearrange for focal length:\nf = 1/P\nSubstitute values:\nf = 1/4.0\nf = 0.25 m",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 618,
+    "question": "The difference between X-rays and gamma rays is that",
+    "option": {
+      "a": "x-rays are more penetrating than gamma rays",
+      "b": " x-rays are electromagnetic radiations while gamma rays are negatively charged radiation",
+      "c": "x-rays have higher frequencies than gamma rays",
+      "d": "x-rays arise from energy changes in the electronic structure of atoms while gamma rays come from the nucleus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x-rays arise from energy changes in the electronic structure of atoms while gamma rays come from the nucleus",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 532,
+    "question": "A 35 kΩ is connected in series with a resistance of 40 kΩ. What resistance R must be connected in parallel with the combination so that the equivalent resistance is equal to 25 kΩ?",
+    "option": {
+      "a": "40 kΩ",
+      "b": "37.5 kΩ",
+      "c": "45.5 kΩ",
+      "d": "30 kΩ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nResistance 1, R₁ = 35 kΩ\nResistance 2, R₂ = 40 kΩ\nEquivalent resistance, Req = 25 kΩ\nUnknown parallel resistance, R = ?\n\nSolution:\nStep 1: Calculate series resistance\nWhen R₁ and R₂ are connected in series:\nRseries = R₁ + R₂\nRseries = 35 + 40\nRseries = 75 kΩ\nStep 2: Apply parallel resistance formula\nResistance R is connected in parallel with Rseries to give Req:\n1/Req = 1/Rseries + 1/R\nStep 3: Substitute known values\n1/25 = 1/75 + 1/R\nStep 4: Solve for R\n1/R = 1/25 - 1/75\n1/R = 3/75 - 1/75\n1/R = 2/75\nR = 75/2\nR = 37.5 kΩ",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

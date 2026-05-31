@@ -12398,5 +12398,37 @@
     "solution": "Since PQRS is quadrilateral\n\n2y + 2x + QPS = 360o\ni.e. (y + x) + QPS = 360o\n \n\nQPS = 360° - 2 (y + x)\n\nBut x + y + 68° = 180°\nThere; x + y = 180° - 68° = 112°\nQPS = 360 - 2(112°)\n\n= 360° - 224° = 136°",
     "examtype": "2020",
     "examyear": "utme"
+  },
+  {
+    "id": 1228,
+    "question": "From the venn diagram above, the shaded parts represent",
+    "option": {
+      "a": "(P∩Q)∪(P∩R)",
+      "b": "(P∪Q)∩(P∩R)",
+      "c": " (P∪Q)∪(P∪R)",
+      "d": "(P∩Q)∪(P∪R)"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206734/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q43_z19fk2.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1266,
+    "question": "The volume of a cylinder whose height is 4cm and whose radius 5cm is equal to (π = 3.14)",
+    "option": {
+      "a": "3.13 cm<sup>2</sup>",
+      "b": "145 cm<sup>2</sup>",
+      "c": "314 cm<sup>2</sup>",
+      "d": "214 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "V = πr<sup>2</sup>h\n\nV = ?, h = 4cm, r = 5cm\n\nV = 3.14(5)2 (4)\n\nV = 3.14(25)(4)\n\nV = 3.14 × 1200\n\n= 314 cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

@@ -8654,5 +8654,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 574,
+    "question": "The shape of ammonia molecule is?",
+    "option": {
+      "a": "Trigonal planar",
+      "b": "Octahedral",
+      "c": "Square planar",
+      "d": "Tetrahedral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ammonia (NH₃) has 3 bonding pairs and 1 lone pair around the central nitrogen atom. VSEPR theory predicts the electron geometry is tetrahedral, but the molecular shape (considering only bonded atoms) is trigonal pyramidal — which is derived from the tetrahedral arrangement. The correct answer from the given options is D — tetrahedral (referring to the electron pair geometry).",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 259,
+    "question": "The ion that will give a white precipitate with aqueous NaOH and soluble in excess of the base is",
+    "option": {
+      "a": "Zn2+",
+      "b": "Mg2+",
+      "c": "Ca2+",
+      "d": "Cu2+"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

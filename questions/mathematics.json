@@ -14382,5 +14382,21 @@
     "solution": "Find the slant height\n\nl<sup>2</sup> = h<sup>2</sup> + r<sup>2</sup>(h = 4 cm, r = 3 cm)\n\n\nl<sup>2</sup> = 4<sup>2</sup> + 3<sup>2</sup> = 16 + 9 =25\n\n\nl<sup>2</sup> = √25\n\n\nSquaring both sides\n\nl = 5cm\n\nThe area of curved surface (s) =π(3)(5)\n\n15π = 15 × 3.14\n\n= 47.1 cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 275,
+    "question": "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm 2, find the area of the trapezium PQRU",
+    "option": {
+      "a": "60 cm2",
+      "b": "72 cm2",
+      "c": "48 cm2",
+      "d": "24 cm2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700535/ALOC-Questions/Mathematics/2004/math_2004_q4_fsnzjv.jpg",
+    "answer": "b",
+    "solution": "Area of parallelogram PQTU = base * height\n32 = 4 * h\nw = 32/4\nw = 8\n∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8\n= 1/2 * (18 * 8)\n= 72 cm2",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

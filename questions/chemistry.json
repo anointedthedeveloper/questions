@@ -9438,5 +9438,53 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 390,
+    "question": "An example of a solid emulsion is",
+    "option": {
+      "a": "Butter",
+      "b": "Hair cream",
+      "c": "Milk",
+      "d": "Cod-liver oil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Butter is a solid emulsion — it is water droplets dispersed in a solid fat matrix. Milk is a liquid emulsion (fat droplets in water). Hair cream is a semi-solid emulsion (liquid in liquid). Cod-liver oil is a pure oil, not an emulsion. Therefore butter is the correct example of a solid emulsion.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 335,
+    "question": "Cu₂S(s) + O₂(g) = 2Cu(s) + SO₂(g). \n\nIn the above reaction, the oxidation number of Cu changes from ___ to ___?",
+    "option": {
+      "a": "+1 to 0",
+      "b": "0 to +2",
+      "c": "+2 to +1",
+      "d": "0 to +1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In Cu₂S, copper has oxidation number +1 (since S is -2 and there are 2 Cu atoms: 2x + (-2) = 0, x = +1). In the product Cu(s), copper is in its elemental state with oxidation number 0. Therefore Cu changes from +1 to 0 (reduction).",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 747,
+    "question": "The principle which states that no two electrons in the same orbital of an atom have the same value for all four quantum numbers is the",
+    "option": {
+      "a": "Aufbau principle",
+      "b": "Hund's rule",
+      "c": "Pauli Exclusion principle",
+      "d": "Dilution principle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Pauli Exclusion Principle states that no two electrons in an atom can have the same set of all four quantum numbers (n, l, mₗ, mₛ). This means each orbital can hold at most two electrons, and they must have opposite spins (+½ and −½). The Aufbau principle states electrons fill orbitals in order of increasing energy, and Hund's rule states electrons occupy degenerate orbitals singly before pairing.",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

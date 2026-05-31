@@ -1198,5 +1198,69 @@
     "solution": "Gamma rays have the shortest wavelength among all electromagnetic waves.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 406,
+    "question": "Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media?\n\nI. Light is passing from optical denser medium to optically less dense medium\n\nII. Light is passing from optically less dense medium to optically denser medium\n\nIII. Angle of incidence is greater than a certain critical value\n\nIV. Angle of incidence is lesser  than a certain critical value",
+    "option": {
+      "a": " I and II only",
+      "b": " II only III only",
+      "c": " III and IV only",
+      "d": "I and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The conditions for total internal reflection include light traveling from an optically denser medium (higher refractive index) to an optically less dense medium (lower refractive index) and that the angle of incidence is greater than the critical angle.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 854,
+    "question": "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended? [g = 10 m s⁻²]",
+    "option": {
+      "a": "11.50 kW",
+      "b": "12.60 kW",
+      "c": "12.60 kW",
+      "d": "12.10 kW"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass m = 750 kg\nHeight h = 90 m\nTime t = 1 min = 60 s\nAcceleration due to gravity g = 10 m s⁻²\n\nSolution:\n\nStep 1: Work done against gravity\nWork = m × g × h = 750 kg × 10 m s⁻² × 90 m = 675 000 J\n\nStep 2: Power expended\nPower = Work / time = 675 000 J / 60 s = 11 250 W = 11.25 kW",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 146,
+    "question": "Primary colours of light are",
+    "option": {
+      "a": "Red, blue and green",
+      "b": "Cyan, magneta and yellow",
+      "c": " Black, blue and green",
+      "d": "None of these colours"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Primary colours of light are red, blue and green\n\nSecondary colours of light are cyan, magneta and yellow",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 726,
+    "question": "The battery connection that permits current to flow across a p-n junction is called?",
+    "option": {
+      "a": "reverse baised",
+      "b": "forward baised",
+      "c": "amplification",
+      "d": "rectification"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nStep 1: Understanding p‑n junction behavior\nA p‑n junction allows significant current to flow when the p‑side is connected to the positive terminal of a battery and the n‑side to the negative terminal. This connection reduces the depletion region and lowers the barrier for charge carriers.\n\nStep 2: Identifying the correct term\nThis configuration is known as forward bias. The opposite connection (reverse bias) blocks current flow under normal conditions.",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

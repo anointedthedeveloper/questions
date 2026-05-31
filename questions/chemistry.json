@@ -8030,5 +8030,53 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 729,
+    "question": "How many isomers has the organic compound represented by the formula C₃H₈O?",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "C₃H₈O can be alcohols or ethers. Alcohols: propan-1-ol (CH₃CH₂CH₂OH), propan-2-ol (CH₃CHOHCH₃). Ether: methoxyethane (CH₃OCH₂CH₃). These give 3 structural isomers in total for C₃H₈O.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 787,
+    "question": "Which of the following has the highest boiling point?",
+    "option": {
+      "a": "CH₃CH₂OH",
+      "b": "CH₃CH₂CH₂Cl",
+      "c": "CH₃CH₂CH₂CH₂CH₂CH₃",
+      "d": "CH₃CH₂CH₂OH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Boiling points: CH₃CH₂OH (ethanol) = 78°C, CH₃CH₂CH₂Cl (1-chloropropane) = 47°C, CH₃CH₂CH₂CH₂CH₂CH₃ (hexane) = 69°C, CH₃CH₂CH₂OH (propan-1-ol) = 97°C. Propan-1-ol has the highest bp because it forms hydrogen bonds and has a greater molecular mass than ethanol, giving stronger intermolecular forces.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 144,
+    "question": "Which of the following acts as both a reducing and an oxidizing agent",
+    "option": {
+      "a": "H2",
+      "b": "SO2",
+      "c": "H2S",
+      "d": "CO2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

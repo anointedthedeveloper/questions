@@ -11150,5 +11150,53 @@
     "solution": "60 = 30 – x + x + 40 – x\n\n60 = 70 – x\n\nx = 10\n\nn(P∩C)=10\nProb(P∩C)=10/60=1/6",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 665,
+    "question": "From the venn diagram above, the complement of the set P∩\nQ is given by",
+    "option": {
+      "a": " {a, b, d, e}",
+      "b": "{b, d}",
+      "c": "{a, e}",
+      "d": "{c}"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129865/ALOC-Questions/Mathematics/2011/JAMB_MATH_2011_Q44_bh7tnc.png",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 420,
+    "question": "The response of 160 pupils in a school asked to indicate their favourite subjects is given in the bar chart above. What percentage of the pupils have English and Health education as the their favourite subjects?",
+    "option": {
+      "a": "55%",
+      "b": "52%",
+      "c": "36%",
+      "d": "22%"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542849/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q49_jljlgj.jpg",
+    "answer": "a",
+    "solution": "English = 52 students\n\nHealth education = 36 students\n\nTotal = 88 students\n\n= 88/160×100\n= 55%",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 32,
+    "question": "Factorize 16(3x +2y)2 -25(a+2b)2  ",
+    "option": {
+      "a": "(12x + 8y -5a-10b)(12x+8y-5a-10b)",
+      "b": "20(3x +2y-a-2b)(3x+2y+a+1-2b) ",
+      "c": "(12x +8y+5a+10b)(12x +8y-5a-10b)",
+      "d": "20(3x +2y+ a+2b)(3x + 2y+a+2b)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
   }
 ]

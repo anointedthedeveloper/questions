@@ -8078,5 +8078,133 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 353,
+    "question": "Alloys are best prepared by",
+    "option": {
+      "a": "electroplating",
+      "b": "Arc-welding",
+      "c": "reducing and mixture of their metallic",
+      "d": "cooking a molten of the metals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Alloys are best prepared by melting (fusing) the component metals together in the molten state and allowing the mixture to cool and solidify. This ensures homogeneous mixing of the metals at the atomic level, producing a uniform alloy.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 406,
+    "question": "The constituent common to duralumin and alnico is",
+    "option": {
+      "a": "Co",
+      "b": "Mn",
+      "c": "Al",
+      "d": "Mg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Duralumin is an alloy of Al, Cu, Mg, and Mn. Alnico is an alloy of Al, Ni, and Co. The only element common to both is Aluminium (Al).",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 252,
+    "question": "Carbon exists naturally in the combined state as",
+    "option": {
+      "a": "Diamond",
+      "b": "Coal",
+      "c": "Wood",
+      "d": "Graphite"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 496,
+    "question": "In the laboratory preparation of oxygen, the gas cannot be collected by downward displacement of air because",
+    "option": {
+      "a": "the density of oxygen is greater than that of air",
+      "b": "the density of air is nearly the same as that of oxygen",
+      "c": "oxygen is a component of air",
+      "d": "air is an impure substance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Oxygen cannot be collected by downward displacement of air because oxygen is itself a major component of air (~21%). Introducing O₂ into air simply mixes with the air already present, making it impossible to collect a pure sample. O₂ is collected over water (upward displacement of water) or by upward displacement of air instead.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 68,
+    "question": "A rock sample was added to cold dilute HNMO3. The gas evolved was passed into a solution of acidified K2Cr2O7 and the solution turned green. The rock sample contains",
+    "option": {
+      "a": "NO3-",
+      "b": "Cl-",
+      "c": "SO42-",
+      "d": "SO32-"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 712,
+    "question": "What type of reaction is involved in the formation of alkanols from alkenes?",
+    "option": {
+      "a": "Elimination reaction",
+      "b": "Redox reaction",
+      "c": "Substitution reaction",
+      "d": "Addition reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Alkanols (alcohols) are formed from alkenes by the addition of water across the C=C double bond in a reaction called hydration. For example: CH₂=CH₂ + H₂O → CH₃CH₂OH. This is an addition reaction because atoms are added across the double bond without any atoms being removed. The reaction requires a catalyst (concentrated H₂SO₄ or H₃PO₄) and heat.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 159,
+    "question": "Sodium metal is always kept under oil because it",
+    "option": {
+      "a": "Readily reacts with water",
+      "b": "Is reduced by atmospheric nitrogen",
+      "c": "Reacts vigorously on exposure to air",
+      "d": "Reacts with oxygen and carbon(IV) oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 778,
+    "question": "What accounts for the low melting and boiling points of covalent molecules?",
+    "option": {
+      "a": "They have weak intermolecular forces",
+      "b": "They have definite shapes",
+      "c": "They are three dimensional structures",
+      "d": "They possess shared electron pairs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Covalent molecules are held together by weak van der Waals (intermolecular) forces between molecules. Little energy is needed to overcome these forces, resulting in low melting and boiling points. The strong covalent bonds within the molecule are not broken during melting or boiling.",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

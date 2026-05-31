@@ -2,27 +2,16 @@ import subprocess
 import time
 import os
 import json
+from watchdog.observers import Observer
+from watchdog.events import FileSystemEventHandler
 
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 Q_DIR = os.path.join(REPO_DIR, "questions")
-CHECK_INTERVAL = 30  # check every 30 seconds
+DEBOUNCE = 5  # wait 5 seconds after last change before pushing (avoids mid-write pushes)
 
 def run(cmd):
     result = subprocess.run(cmd, cwd=REPO_DIR, capture_output=True, text=True, shell=True)
     return result.stdout.strip(), result.stderr.strip()
-
-def get_snapshot():
-    snapshot = {}
-    if not os.path.exists(Q_DIR):
-        return snapshot
-    for f in os.listdir(Q_DIR):
-        if f.endswith(".json"):
-            try:
-                with open(os.path.join(Q_DIR, f), encoding="utf-8") as jf:
-                    snapshot[f] = len(json.load(jf))
-            except:
-                snapshot[f] = 0
-    return snapshot
 
 def push():
     total = 0
@@ -55,18 +44,39 @@ def push():
     else:
         print(f"  pushed ok")
 
-print("Auto-push started — watching for changes every 30 seconds...\n")
+class ChangeHandler(FileSystemEventHandler):
+    def __init__(self):
+        self.last_change = None
+        self.pending = False
 
-last_snapshot = get_snapshot()
+    def on_modified(self, event):
+        if event.is_directory:
+            return
+        self.last_change = time.time()
+        if not self.pending:
+            self.pending = True
 
-while True:
-    time.sleep(CHECK_INTERVAL)
-    current_snapshot = get_snapshot()
+    on_created = on_modified
 
-    if current_snapshot != last_snapshot:
-        added = sum(current_snapshot.get(f, 0) - last_snapshot.get(f, 0) for f in current_snapshot)
-        print(f"[{time.strftime('%H:%M:%S')}] change detected (+{added} questions), pushing...")
-        push()
-        last_snapshot = current_snapshot
-    else:
-        print(f"[{time.strftime('%H:%M:%S')}] no change")
+handler = ChangeHandler()
+observer = Observer()
+observer.schedule(handler, REPO_DIR, recursive=True)
+observer.start()
+
+print("Auto-push started — watching for file changes...\n")
+
+try:
+    while True:
+        if handler.pending and handler.last_change:
+            elapsed = time.time() - handler.last_change
+            if elapsed >= DEBOUNCE:
+                print(f"[{time.strftime('%H:%M:%S')}] change detected, pushing...")
+                push()
+                handler.pending = False
+                handler.last_change = None
+        time.sleep(1)
+except KeyboardInterrupt:
+    observer.stop()
+    print("\nStopped.")
+
+observer.join()

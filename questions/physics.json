@@ -10574,5 +10574,69 @@
     "solution": "Due to rectilinear propagation of light we have ecslipse which occur as a result relative motion of the earth, sun and moon",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 107,
+    "question": "Dry air of column length 10 cm is trapped by a pellet of mercury of length 15 cm, with the open end uppermost. When the capillary is inverted the length of the air column increased to 25 cm while that of mercury remained constant. Calculate the atmospheric pressure (in cm of Hg.)  ",
+    "option": {
+      "a": "35 cm Hg  ",
+      "b": "15 cm Hg  ",
+      "c": "20 cm Hg  ",
+      "d": "35 cm Hg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 381,
+    "question": "The force required to make an object of mass m, travelling with velocity v, turn in a circle of radius r is",
+    "option": {
+      "a": "mv²/r",
+      "b": "mr²/v",
+      "c": "mrv",
+      "d": "mv/r²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Understanding circular motion:\nFor an object moving in a circle at constant speed, a centripetal force is required to keep it moving in that circular path.\nCentripetal force formula:\nF = mv²/r\nwhere:\n\nm = mass of the object\nv = velocity (speed) of the object\nr = radius of the circular path\n\nDerivation concept:\n\nCentripetal acceleration = v²/r\nForce = mass × acceleration\nTherefore: F = m × (v²/r) = mv²/r",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 459,
+    "question": "A 2H inductor has negligible resistance and is connected to a 50/π Hz A.C supply. The reactance of the inductor is?",
+    "option": {
+      "a": "200Ω",
+      "b": "50Ω",
+      "c": "100πΩ",
+      "d": "25πΩ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInductance (L) = 2 H\nFrequency (f) = 50/π Hz\nInductive reactance (X_L) = ?\n\nFormula for inductive reactance:\nX_L = 2πfL\nSubstituting values:\nX_L = 2π × (50/π) × 2\nX_L = 2 × 50 × 2\nX_L = 200 Ω\nSimplification:\nThe π in the numerator (from 2π) cancels with the π in the denominator (from 50/π):\nX_L = 2 × 50 × 2 = 200 Ω",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 673,
+    "question": "Which combination of the above is evident of the molecular nature of matter?\nI. Melting\nII. Boiling\nIII. Refraction\nIV. Conduction",
+    "option": {
+      "a": "II, III and IV only",
+      "b": "I, II and IV only",
+      "c": "I, III and IV only",
+      "d": "I, II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "I. Melting: Solid to liquid transition; molecules gain energy to overcome fixed positions, showing molecular motion and interactions.\n\nII. Boiling: Liquid to gas transition; molecules gain enough energy to break intermolecular forces, demonstrating molecular kinetic energy and forces.\n\nIV. Conduction: Heat transfer via molecular collisions (or electron movement), directly showing molecular motion and energy transfer.                           Melting, boiling, and conduction are direct evidence of the molecular nature of matter.",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

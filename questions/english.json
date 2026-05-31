@@ -20442,5 +20442,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1816,
+    "question": "Ever.",
+    "option": {
+      "a": "Heavier.",
+      "b": "Favour.",
+      "c": "Fever.",
+      "d": "Never."
+    },
+    "section": "Choose the option that rhymes with the given word.",
+    "image": "",
+    "answer": "d",
+    "solution": "ever; /ˈɛvə/\nnever; /ˈnɛvə/",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 57,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1705,
+    "question": "Who was Efua related to?",
+    "option": {
+      "a": "Arisa",
+      "b": "Jimi",
+      "c": " Mrs. Alli",
+      "d": " Mr. Mallum"
+    },
+    "section": "This question is from the novel 'The Last Days at Forcados High school'.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "Efua is related Mrs Alli who lives on balogun street not too far from Nene ekpo, Jimi and Arisa’s house",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 18,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

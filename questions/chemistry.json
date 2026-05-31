@@ -11870,5 +11870,21 @@
     "solution": "Ammoniacal silver nitrate (Tollens' reagent) is used to test for terminal alkynes (those with a C≡C-H bond). Terminal alkynes react with ammoniacal silver nitrate to form a white precipitate of silver acetylide, effectively decolourising the reagent. Alkanes are unreactive, alkenes do not react with Tollens' reagent, and alkanols do not produce this reaction.",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 416,
+    "question": "A given mass of gas occupies 2 dm³ at 300 K. At what temperature will its volume be doubled, keeping the pressure constant?",
+    "option": {
+      "a": "400 K",
+      "b": "480 K",
+      "c": "550 K",
+      "d": "600 K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using Charles's Law: V₁/T₁ = V₂/T₂. V₁ = 2 dm³, T₁ = 300 K, V₂ = 4 dm³ (doubled). Therefore T₂ = (V₂ × T₁)/V₁ = (4 × 300)/2 = 600 K.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

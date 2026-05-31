@@ -108,6 +108,53 @@ def smart_request(subject):
     return []
 
 
+def load_locks():
+    if os.path.exists(LOCK_FILE):
+        with open(LOCK_FILE) as f:
+            return json.load(f)
+    return {"locks": {}}
+
+def save_locks(locks):
+    with open(LOCK_FILE, "w") as f:
+        json.dump(locks, f, indent=2)
+
+def claim_subject(subject):
+    """Try to claim a subject. Returns True if claimed, False if another machine owns it."""
+    data = load_locks()
+    locks = data.get("locks", {})
+    now = time.time()
+
+    if subject in locks:
+        owner = locks[subject]["machine"]
+        claimed_at = locks[subject]["time"]
+        # allow claim if it's ours or lock has expired
+        if owner != MACHINE_ID and now - claimed_at < LOCK_TIMEOUT:
+            print(f"  [{subject}] claimed by {owner}, skipping")
+            return False
+
+    locks[subject] = {"machine": MACHINE_ID, "time": now}
+    data["locks"] = locks
+    save_locks(data)
+    return True
+
+def release_subject(subject):
+    data = load_locks()
+    locks = data.get("locks", {})
+    if subject in locks and locks[subject]["machine"] == MACHINE_ID:
+        del locks[subject]
+        data["locks"] = locks
+        save_locks(data)
+
+def renew_lock(subject):
+    """Renew lock timestamp so it doesn't expire mid-download."""
+    data = load_locks()
+    locks = data.get("locks", {})
+    if subject in locks and locks[subject]["machine"] == MACHINE_ID:
+        locks[subject]["time"] = time.time()
+        data["locks"] = locks
+        save_locks(data)
+
+
 def load_progress():
     if os.path.exists(PROGRESS_FILE):
         with open(PROGRESS_FILE) as f:
@@ -164,7 +211,10 @@ def append_questions(subject, new_questions):
 
 
 def process_subject(subject, progress):
-    print(f"\n[{subject}] starting")
+    if not claim_subject(subject):
+        return
+
+    print(f"\n[{subject}] claimed by {MACHINE_ID}")
     questions, seen_ids = verify_and_load(subject)
     total = len(questions)
 
@@ -173,6 +223,7 @@ def process_subject(subject, progress):
         print(f"[{subject}] already complete ({total} questions), skipping")
         progress[subject] = {"done": True, "total": total}
         save_progress(progress)
+        release_subject(subject)
         return
 
     if total > 0:
@@ -181,6 +232,7 @@ def process_subject(subject, progress):
     no_new_streak = 0
 
     for round_num in range(1, MAX_ROUNDS + 1):
+        renew_lock(subject)  # keep lock alive
         data = smart_request(subject)
         new = [q for q in data if q["id"] not in seen_ids]
 
@@ -206,6 +258,7 @@ def process_subject(subject, progress):
     with progress_lock:
         progress[subject] = {"done": True, "total": total}
     save_progress(progress)
+    release_subject(subject)
     print(f"[{subject}] done: {total} questions")
 
 

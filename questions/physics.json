@@ -4558,5 +4558,117 @@
     "solution": "Given information:\n\nMass (m) = 800 kg\nFinal velocity (v) = 25 m/s\nInitial velocity (u) = 0 m/s (starts from rest)\nTime (t) = 20 seconds\nPower (P) = ?\n\nStep 1: Calculate kinetic energy gained\nChange in KE = ½mv² - ½mu²\nΔKE = ½mv² - 0  (since u = 0)\nΔKE = ½ × 800 × (25)²\nΔKE = 400 × 625\nΔKE = 250,000 J\nStep 2: Calculate power\nPower = Work done / Time\nPower = Energy / Time\nP = ΔKE / t\nP = 250,000 / 20\nP = 12,500 W\nP = 1.25 × 10⁴ W",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 301,
+    "question": "One of the features of the fission process is that",
+    "option": {
+      "a": "it leads to chain reaction",
+      "b": " its products are not radioactive",
+      "c": "neutrons are not released",
+      "d": "The sum of the masses of the reactants equals the sum of the masses of the products"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "One of the key features of nuclear fission is that it can lead to a chain reaction because neutrons released from one fission event can trigger additional fission events.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following radiations cannot be deflected by an electric field or ",
+    "option": {
+      "a": "(i) and (ii) only ",
+      "b": "(ii) only ",
+      "c": "(iii) and (iv) only ",
+      "d": "(i) and (iii) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 113,
+    "question": "Two plane mirrors are inclined at angle 45 to another. A ray of light has incident angle of 20 at the surface of the first mirror. The reflected ray is then incident on the second mirror. Calculate the angle of reflection at the second mirror ",
+    "option": {
+      "a": "65",
+      "b": "45",
+      "c": "25",
+      "d": "20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 721,
+    "question": "The component of vector X along the direction of vector Y is zero when",
+    "option": {
+      "a": "X and Y are in opposite directions to each other",
+      "b": " X is at an angle of 45° to Y",
+      "c": "X is perpendicular to Y",
+      "d": "X and Y are parallel to each other"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The component of vector X along vector Y is given by |X|cosθ, where θ is the angle between them. This component becomes zero when cosθ = 0, which occurs at θ = 90°. Therefore, the component is zero only when X is perpendicular to Y",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 936,
+    "question": "A bob of weight 0.1 N hangs from a massless string of length 50 cm. A variable horizontal force which increases from zero is applied to pull the bob until the string makes an angle of 60° with the vertical. The work done is?",
+    "option": {
+      "a": ". 0.500 J",
+      "b": "0.250 J",
+      "c": " 0.050 J",
+      "d": " 0.025 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nWeight (W) = 0.1 N\nLength of string (L) = 50 cm = 0.5 m\nFinal angle with vertical (θ) = 60°\nWork done = ?\n\nUnderstanding the problem:\nThe horizontal force does work against gravity by lifting the bob to a higher position.\nMethod: Using work-energy theorem\nStep 1: Calculate vertical displacement (height gained)\nInitial position: Bob hangs vertically (h₁ = 0, taking this as reference)\nFinal position: String at 60° to vertical\nVertical height of bob below support:\n\nInitial: h₁ = L = 0.5 m\nFinal: h₂ = L cos 60° = 0.5 × 0.5 = 0.25 m\n\nHeight gained:\nΔh = h₁ - h₂ = 0.5 - 0.25 = 0.25 m\nStep 2: Calculate work done\nWork done = Increase in potential energy\nW = mgΔh = WΔh\nW = 0.1 × 0.25\nW = 0.025 J",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 283,
+    "question": "Which of the following is true of an electrical charge?",
+    "option": {
+      "a": "Positive charge means deficit electrons",
+      "b": "Negative charge means excess of electrons",
+      "c": "electric current means movement of electrons",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All three statements correctly describe aspects of electrical charge and current.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 119,
+    "question": "Which of the following quantities is a scalar quantity?",
+    "option": {
+      "a": "Electric field ",
+      "b": "Coulomb force",
+      "c": "Electric potential ",
+      "d": "Acceleration due to gravity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   }
 ]

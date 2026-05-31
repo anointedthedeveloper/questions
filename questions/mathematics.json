@@ -13918,5 +13918,69 @@
     "solution": " <sup>3</sup><sup>2 </sup> + <sup>1</sup>C<sub>(3+5)</sub>\n\n<sup>9+1</sup>C<sub>3+5</sub>\n \n\n\n<sup>10</sup>C<sub>8</sub> = 10!/(8!2!)\n(10∗9∗8!)/(8!2!)= (10∗9)/2\n= 45",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 42,
+    "question": "If the distance covered by a body in time t seconds is s = t2 - 6t2  - 5t, what is its initial velocity?  ",
+    "option": {
+      "a": "0ms-1    ",
+      "b": "-4 ms-1 ",
+      "c": "(13t2  - 12t + 5) ms-1   ",
+      "d": "5ms-1 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 784,
+    "question": "Solve for x: |x - 2| < 3",
+    "option": {
+      "a": "x < 5",
+      "b": " -2 < x < 3",
+      "c": "-1 < x < 5",
+      "d": "x < 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "|x - 2| < 3 implies\n\n-(x - 2) < 3 .... or .... +(x - 2) < 3\n\n-x + 2 < 3 .... or .... x - 2 < 3\n\n-x < 3 - 2 .... or .... x < 3 + 2\n\nx > -1 .... or .... x < 5\n\ncombining the two inequalities results, we get;\n\n-1 < x < 5",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1280,
+    "question": "Simplify 1/(x+1) + 1/(x−1)",
+    "option": {
+      "a": "2x/(x + 1)(x−3)",
+      "b": "2x/(x + 1)(x−1)",
+      "c": "2x/(x + 1)2",
+      "d": "2x(x+1)2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mn>1</mn>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>x</mi>\n      <mo>+</mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n  <mo>+</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>x</mi>\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "[1 ÷ (x+1)] + [1 ÷ (x − 1)]\n\n= ((x − 1) + [(x + 1)) ÷ (x+1)(x − 1)]\n\nUsing the L.C.M.\n\n= (x − 1 + x + 1) ÷ (x + 1)(x − 1)\n\n= (x + 2 − 1 + 1) ÷ (x + 1)(x − 1)\n\n= 2x ÷ (x + 1)(x − 1) =2x ÷ (x + 1)(x − 1)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 438,
+    "question": "The solution of the quadratic inequality (x<sup>3</sup> + x - 12) ≥ 0 is",
+    "option": {
+      "a": " x ≥ -3 or x ≤ 4",
+      "b": "x ≥ 3 or x ≥ -4",
+      "c": "x ≤ 3 or x v -4",
+      "d": "x ≥ 3 or x ≤ -4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(x<sup>3</sup> + x - 12) ≥ 0\n(x + 4)(x - 3) ≥ 0\nEither x + 4 ≥ 0 implies x ≥ -4\nOr x - 3 ≥ 0 implies x ≥ 3\n∴ x ≥ 3 or x ≥ -4",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

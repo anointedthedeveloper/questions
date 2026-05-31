@@ -10302,5 +10302,85 @@
     "solution": "The nucleus of an atom is made up of protons (positively charged) and neutrons (no charge), collectively called nucleons. Electrons are negatively charged particles that orbit the nucleus in energy levels (shells) outside the nucleus. The number of protons equals the atomic number, and protons plus neutrons give the mass number.",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 781,
+    "question": "Alkenes are represented with the general molecular formula",
+    "option": {
+      "a": "CₙH₂ₙ",
+      "b": "CₙH₂ₙ₋₂",
+      "c": "CₙH₂ₙ₊₂",
+      "d": "CₙH₂ₙ₊₁OH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Alkenes contain one C=C double bond and have the general formula CₙH₂ₙ. CₙH₂ₙ₊₂ is for alkanes, CₙH₂ₙ₋₂ is for alkynes, and CₙH₂ₙ₊₁OH is for alkanols.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 533,
+    "question": "Which of the following does NOT support the fact that air is a mixture?",
+    "option": {
+      "a": "the constituents of air are in a fixed proportion by mass",
+      "b": "it cannot be represented with a chemical formula",
+      "c": "the constituents of air can be separated by physical means",
+      "d": "none of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Mixtures do NOT have a fixed composition by mass — their components can vary in any proportion. The fact that air's composition is approximately fixed (78% N₂, 21% O₂, etc.) is actually more characteristic of a compound. Options B and C support air being a mixture. Therefore, option A does NOT support the fact that air is a mixture.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 401,
+    "question": "The curve depicts titration between",
+    "option": {
+      "a": "Strong acid and strong base",
+      "b": "Strong acid and weak base",
+      "c": "Weak acid and weak base",
+      "d": "Weak acid and strong base"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777636437/ALOC-Questions/Chemistry/UTME/2016/Chemistry_2016_Q47_sodvoa.png",
+    "answer": "b",
+    "solution": "The curve starts at a low pH (~3), indicating a strong acid. The equivalence point and the final pH (~5) are both in the acidic range, which is characteristic of a strong acid-weak base titration (the salt formed is acidic). A strong acid-strong base titration would end at pH 7, and a weak acid-strong base would end above pH 7.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 94,
+    "question": "A charge in the temperature of a saturated solution disturbs the equilibrium between the",
+    "option": {
+      "a": "Dissolved solute and the solvent",
+      "b": "Solvent and the undissolved solute",
+      "c": "Dissolved solute and the undissolved solute",
+      "d": "Dissolved solute and the solution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 453,
+    "question": "X(g) + 3Y(g) → 2Z(g), ΔH = +ve. If the reaction above takes place at room temperature, the ΔG will be",
+    "option": {
+      "a": "negative",
+      "b": "zero",
+      "c": "positive",
+      "d": "indeterminate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using ΔG = ΔH - TΔS. The reaction goes from 4 moles of gas to 2 moles, so ΔS is negative (decrease in disorder). ΔH is positive (endothermic). Therefore ΔG = (+) - T(-) = positive + positive = positive. At room temperature, ΔG > 0 means the reaction is non-spontaneous.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

@@ -9870,5 +9870,69 @@
     "solution": "The rate of cooling depends on the temperature in the enclosure (the surrounding temperature).",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 720,
+    "question": "If the radius of the Earth is 6.4 × 10⁶ m, the escape velocity of a satellite from the Earth is?\n[g = 10 m s⁻²]",
+    "option": {
+      "a": "1.13 × 10⁴ m s⁻¹",
+      "b": "9.00 × 10³ m s⁻¹",
+      "c": "8.00 × 10³ m s⁻¹",
+      "d": "1.27 × 10⁴ m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nEarth’s radius, R = 6.4 × 10⁶ m\nAcceleration due to gravity at Earth’s surface, g = 10 m s⁻²\n\nSolution:\n\nStep 1: Formula for escape velocity\nEscape velocity, v_esc = √(2gR)\n\nStep 2: Substitute values\n2gR = 2 × 10 m s⁻² × 6.4 × 10⁶ m = 1.28 × 10⁸ m² s⁻²\n\nStep 3: Take square root\nv_esc = √(1.28 × 10⁸) = √1.28 × 10⁴\n√1.28 ≈ 1.13137, so\nv_esc ≈ 1.13137 × 10⁴ m s⁻¹ ≈ 1.13 × 10⁴ m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 233,
+    "question": "Why do soldiers march disorderly while crossing a bridge?",
+    "option": {
+      "a": "To prevent resonance on the bridge",
+      "b": " To set the bridge into resonance",
+      "c": " To make the bridge collapse",
+      "d": "To spread their weight evenly on the bridge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Soldiers march disorderly to prevent resonance, which could cause dangerous oscillations and potential collapse of the bridge.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 949,
+    "question": "A wire of length 2.0 m and cross-sectional area 2.0 × 10⁻⁶ m² is stretched by 1.0 mm when a load of 100 N is applied. Calculate the Young's modulus of the material.",
+    "option": {
+      "a": "1.0 × 10¹¹ Nm⁻²",
+      "b": "2.0 × 10¹¹ Nm⁻²",
+      "c": "5.0 × 10¹⁰ Nm⁻²",
+      "d": " 1.0 × 10¹⁰ Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nOriginal length (L) = 2.0 m\nCross-sectional area (A) = 2.0 × 10⁻⁶ m²\nExtension (ΔL) = 1.0 mm = 1.0 × 10⁻³ m\nApplied force (F) = 100 N\nYoung's modulus (E) = ?\n\nFormula for Young's modulus:\nE = (Stress)/(Strain)\nE = (F/A)/(ΔL/L)\nE = FL/(AΔL)\nStep 1: Calculate stress\nStress = F/A\nStress = 100/(2.0 × 10⁻⁶)\nStress = 5.0 × 10⁷ Nm⁻²\nStep 2: Calculate strain\nStrain = ΔL/L\nStrain = (1.0 × 10⁻³)/2.0\nStrain = 5.0 × 10⁻⁴\nStep 3: Calculate Young's modulus\nE = Stress/Strain\nE = (5.0 × 10⁷)/(5.0 × 10⁻⁴)\nE = 1.0 × 10¹¹ Nm⁻²",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 1065,
+    "question": "Total internal reflection will not occur when light travels from",
+    "option": {
+      "a": " water to air",
+      "b": " water into glass",
+      "c": "glass to air",
+      "d": " glass into water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Total internal reflection will not occur when light travels from water into glass.",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

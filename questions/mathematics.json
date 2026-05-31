@@ -16142,5 +16142,53 @@
     "solution": "3X + 2Y + 1 = 0\n2Y = -3X - 1\n−3/2X−1/2\nGradient of 3X + 2Y +1 = 0 is -3/2\nGradient of a line perpendicular to 3X + 2Y + 1 = 0\n=−1÷3/2 = −1 × −2/3 =2/3",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 990,
+    "question": "If ∣∣∣2x−49∣∣∣=58\n, find the value of x.",
+    "option": {
+      "a": "10",
+      "b": "30",
+      "c": "14",
+      "d": "28"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>|</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>4</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mi>x</mi>\n        </mtd>\n        <mtd>\n          <mn>9</mn>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>|</mo>\n  </mrow>\n  <mo>=</mo>\n  <mn>58</mn>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006887/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q23_baoa2n.jpg",
+    "answer": "a",
+    "solution": "⟹(2×9)−(−4×x)=58\n18+4x=58⟹4x=58−18=40\nx=10",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 262,
+    "question": "XYZ is a circle enter o and a radius 7cm. Find the area of the shaded region. θ = 45 x 2 = 90",
+    "option": {
+      "a": "84cm<sup>2</sup>",
+      "b": "B 77cm<sup>2</sup>",
+      "c": "38cm<sup>2</sup>",
+      "d": "14cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699665/ALOC-Questions/Mathematics/2003/math_2003_q41_hvzhnt.jpg",
+    "answer": "d",
+    "solution": "θ = 45 x 2 (∠ at center twice ∠ at θ)\nθ = 90\nArea of sector = θ/360 x πr<sup>2</sup>\n= 90/360 x 22/7 x 7 x 7\n= 77/2cm<sup>2</sup>\nArea of triangle = 1/2 ab sin θ\n= 1/2 x 7 x 7 sin 90\n= 1/2 x 7 x 7 x 1\n= 49/2\nArea of shaded region = 77/2 - 49/2\n1\t1\n2\n\n= 28/2\n= 14cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 447,
+    "question": "Evaluate ((05652)<sup>2</sup> - (04375)<sup>2</sup>)/0.04 correct to three significant figures",
+    "option": {
+      "a": " 3.11",
+      "b": "3.13",
+      "c": " 0.313",
+      "d": "3.12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "((0.5652<sup>2</sup>-(0.4375)<sup>2</sup>)/0.04  ((0.5625+0.4375)(0.5625-0.4375))/0.04  (1.000×0.125)/0.04=3.125=3.13",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

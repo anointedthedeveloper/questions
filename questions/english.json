@@ -20024,5 +20024,43 @@
     "questionNub": 90,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 307,
+    "question": "I visited Amina <i>umpteen times</i> in her college, but she never came to me",
+    "option": {
+      "a": "often   ",
+      "b": " seldom   ",
+      "c": " twice   ",
+      "d": "occasionally."
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1044,
+    "question": "The way the workshop was organized was rather <u>hit-and-miss</u>",
+    "option": {
+      "a": "systematic",
+      "b": "hasty",
+      "c": "slow",
+      "d": "funny"
+    },
+    "section": "In each of the questions 36 to 50 choose the option <b>opposite</b> in meaning to the underlined word or phrase.\n",
+    "image": "",
+    "answer": "a",
+    "solution": "Hit-and-miss; done or occurring at random.\n\nSystematic; done or acting according to a fixed plan or system; methodical.",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 50,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

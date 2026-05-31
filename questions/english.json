@@ -14989,5 +14989,43 @@
     "questionNub": 85,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 501,
+    "question": "You are just-putting the hat on. ……?",
+    "option": {
+      "a": "don't you  ",
+      "b": "isn't it ",
+      "c": " aren't you  ",
+      "d": "not so"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 744,
+    "question": "The team Manager told us that the race could only be won by the .......?",
+    "option": {
+      "a": "flat-footed",
+      "b": "bare-footed",
+      "c": "switf-footed",
+      "d": "fore-footed"
+    },
+    "section": "<b>In each of questions 41 to 62, fill the gap with the most appropriate option from the list provided.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "To be swift-footed means  having rapidly moving feet or able to run very quickly",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 48,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

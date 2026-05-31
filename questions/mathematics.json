@@ -13038,5 +13038,53 @@
     "solution": "log<sub>10</sub> 4 = 0.6021, evaluate log<sub>10</sub> 4<sup>1/3</sup>\n\n= 1/3 x 0.6021\n\n= 0.2007",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 863,
+    "question": "OGIVE is constructed using",
+    "option": {
+      "a": "Third quartile range",
+      "b": "Semi-quartile range",
+      "c": "Cummulative frequency table",
+      "d": "Inter-quartile table"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 1244,
+    "question": "If x + y = 90 simplify (sinx+siny)<sup>2</sup> −2sinxsiny",
+    "option": {
+      "a": "1",
+      "b": "0",
+      "c": "2",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given: x + y=90°...(1)\n(sinx + siny)<sup>2</sup> −2sinxsiny = sin<sup>2</sup> x  + sin<sup>2</sup> y + 2sinxsiny − 2sinxsiny\n= sin<sup>2</sup> x + sin<sup>2</sup> y...(2)\nRecall: sinx = cos(90−x)...(a)\nFrom (1), y = 90−x...(b)\nPutting (a) and (b) in (2), we have\n\nsin<sup>2</sup> x + sin<sup>2</sup> y ≡ cos<sup>2</sup> (90−x) + sin<sup>2</sup> (90−x)\n= 1",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 539,
+    "question": "If m * n = n - (m+2) for any real number m and n find the value of 3*(-5)?",
+    "option": {
+      "a": "-6",
+      "b": "-8",
+      "c": "-10",
+      "d": "-12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "m * n = n - (m+2)\n= -5 - (3+2)\n= -5-5\n= -10",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

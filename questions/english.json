@@ -19473,5 +19473,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 756,
+    "question": "You can travel on your own ......?",
+    "option": {
+      "a": " isn't it",
+      "b": "wouldn't you",
+      "c": "can't you",
+      "d": "shouldn't you"
+    },
+    "section": "<b>In each of questions 41 to 62, fill the gap with the most appropriate option from the list provided.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 60,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1304,
+    "question": "I have always found that it is helpful to have a few wise and trusted people to ________ you can turn for information and advice.",
+    "option": {
+      "a": "whom",
+      "b": "who",
+      "c": "whose",
+      "d": "that"
+    },
+    "section": "Fill in the gap with the option that best completes the sentence.",
+    "image": "",
+    "answer": "a",
+    "solution": "Whom should be used to refer to the object of a verb or preposition.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

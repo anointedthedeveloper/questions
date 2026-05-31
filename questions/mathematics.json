@@ -15742,5 +15742,21 @@
     "solution": "Given from 41 to 56\n\n41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56\n\nThe nos multiple of 9 are: 45, 54\n\nP(multiple of 9) = 2/16\n\n\n= 1/8",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 552,
+    "question": "What is the value of r if the distance between the point (4,2) and (1,r) is 3 units?",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A(4,2) and B(1,r), AB = 3 units\n\n3 = √ (x<sup>2</sup>- x<sup>1</sup>)2 + (y<sup>2</sup>-y<sup>1</sup>)2\n\n\n3 = √ (4-1)2 + (2-r)2\n\n\n3 = √ 32 + (2-r)2\n\n\n3 = √ 9 + 4 – 4r + r2\n\n\n3 = √ r2 - 4r + 13\n\n9 = r2 - 4r + 13 By squaring both sides\nr2 - 4r + 4 = 0\n(r-2)(r-2) = 0\nr = 2",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

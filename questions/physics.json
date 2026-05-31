@@ -9070,5 +9070,69 @@
     "solution": "Given information:\nForce F = 2 N\nAngle θ = 60°\nDisplacement s = 3 m\nFloor is smooth (no friction)\n\nSolution:\n\nStep 1: Work done formula\nWork done W = F × s × cosθ\n\nStep 2: Substitute values\nW = 2 N × 3 m × cos60°\n\nStep 3: Calculate\ncos60° = 0.5\nW = 2 × 3 × 0.5 = 3 J",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 578,
+    "question": "A mass of gas at 40mmHg is heated from 298k to 348k at constant volume. Cal the pressure exerted by the gas.",
+    "option": {
+      "a": " 50.21mmHg",
+      "b": "46.71mmHg",
+      "c": "42.35mmHg",
+      "d": "35.12mmHg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial pressure, P₁ = 40 mmHg\nInitial temperature, T₁ = 298 K\nFinal temperature, T₂ = 348 K\nVolume is constant\nFinal pressure, P₂ = ?\n\nSolution:\nStep 1: Apply Gay-Lussac's Law\nAt constant volume:\nP₁/T₁ = P₂/T₂\nStep 2: Rearrange to find final pressure\nP₂ = P₁ × (T₂/T₁)\nStep 3: Substitute the known values\nP₂ = 40 × (348/298)\nStep 4: Calculate the final pressure\nP₂ = 40 × 1.1678\nP₂ = 46.71 mmHg",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 919,
+    "question": "During a thunderstorm, the sound is heard over a long time. this phenomenon is referred to as?",
+    "option": {
+      "a": " diffraction of sound",
+      "b": "refraction of sound",
+      "c": "superposition",
+      "d": "reveraberation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The lengthening effect of sound is known as reverberation.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 209,
+    "question": "Which of the following does Not use magnetic effect of current to function?",
+    "option": {
+      "a": "Lead acid accumulator",
+      "b": "An electric bell",
+      "c": "A moving coil galvanometer",
+      "d": "A telephone receiver"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A lead acid accumulator (battery) works on chemical principles, not the magnetic effect of current.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 1069,
+    "question": "Capacitors are used in the induction coil to",
+    "option": {
+      "a": " control circuits",
+      "b": " prevent distortion of electric fields",
+      "c": "prevent electric sparks",
+      "d": "dissipate energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Capacitors are used to prevent electric sparks.",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

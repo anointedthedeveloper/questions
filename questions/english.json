@@ -14856,5 +14856,24 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1569,
+    "question": "Choose the option to which the given sentence relates\n\nMy Boss has an amiable DISPOSITION",
+    "option": {
+      "a": "Does your boss have an amiable disposition",
+      "b": "Does my boss have an unfriendly disposition",
+      "c": "Does my colleague have an amiable disposition?",
+      "d": "Does my boss have an amiable complexion?"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Still going by the rule when answering questions on emphatic stress, the option that doesn't have the emphasized word. In this case 'DISPOSITION' is the emphasized word on the only option without it is option D",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 6,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

@@ -9678,5 +9678,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 332,
+    "question": "A major source of oxide of nitrogen is from the burning of",
+    "option": {
+      "a": "coal",
+      "b": "wood",
+      "c": "fuel",
+      "d": "chlorofluorocarbons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The burning of fuel (particularly fossil fuels in vehicle engines and power plants) at high temperatures causes atmospheric N₂ and O₂ to combine, producing oxides of nitrogen (NOₓ) such as NO and NO₂. These are major contributors to air pollution and acid rain.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 326,
+    "question": "P₁V₁ = P₂V₂ supports?",
+    "option": {
+      "a": "Charles's law",
+      "b": "Boyle's law",
+      "c": "Graham's law",
+      "d": "Avogadro's law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "P₁V₁ = P₂V₂ is the mathematical expression of Boyle's Law, which states that at constant temperature, the pressure of a fixed mass of gas is inversely proportional to its volume.",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

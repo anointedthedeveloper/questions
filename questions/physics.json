@@ -1854,5 +1854,85 @@
     "solution": "Given information:\n\nPerson's near point = 50 cm (cannot see closer than this)\nDesired near point = 25 cm (normal near point)\nPower of lens (P) = ?\n\nUnderstanding the correction:\nThe lens must take an object at 25 cm and form a virtual image at 50 cm (where the person can see clearly).\nUsing sign convention:\n\nObject distance (u) = -25 cm = -0.25 m (object on left, negative)\nImage distance (v) = -50 cm = -0.50 m (virtual image on same side, negative)\n\nStep 1: Use lens formula\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-0.50) - 1/(-0.25)\n1/f = -1/0.50 + 1/0.25\n1/f = -2 + 4\n1/f = 2 m⁻¹\nStep 2: Calculate power\nPower (P) = 1/f (in meters)\nP = 2 D",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 646,
+    "question": "A man exerts a pressure of 2.8 × 10³ Nm⁻² on the ground and has 4 × 10⁻² m² of his feet in contact with the ground. The weight of the man is",
+    "option": {
+      "a": " 102N",
+      "b": "70N",
+      "c": "140N",
+      "d": "112N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPressure, P = 2.8 × 10³ Nm⁻²\nContact area, A = 4 × 10⁻² m²\nWeight, W = ?\n\nSolution:\nStep 1: Recall pressure formula\nFormula: P = F/A\nWhere:\n\nP = pressure\nF = force (weight in this case)\nA = area\n\nStep 2: Rearrange for force\nF = P × A\nSince the man is standing on the ground:\nWeight, W = P × A\nStep 3: Substitute values\nW = 2.8 × 10³ × 4 × 10⁻²\nW = (2.8 × 4) × (10³ × 10⁻²)\nW = 11.2 × 10¹\nW = 112 N",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1081,
+    "question": "A quantity which requires magnitude and direction to be specified is",
+    "option": {
+      "a": "Temperature",
+      "b": "Distance",
+      "c": "Displacement",
+      "d": "Mass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Displacement is a vector quantity",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1046,
+    "question": "A piece of cork floats in a liquid. What fraction of its volume will be immersed in the liquid? [Density of the cork = 0.25 × 10³ kgm⁻³, Density of the liquid = 1.25 × 10³ kgm⁻³]",
+    "option": {
+      "a": "0.8",
+      "b": "0.5",
+      "c": "0.2",
+      "d": "0.1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nDensity of cork (ρ_cork) = 0.25 × 10³ kg/m³ = 250 kg/m³\nDensity of liquid (ρ_liquid) = 1.25 × 10³ kg/m³ = 1250 kg/m³\nFraction of volume immersed = ?\n\nPrinciple of flotation:\nFor a floating object:\nWeight of object = Weight of liquid displaced (Upthrust)\nSetting up equation:\nLet:\n\nV = total volume of cork\nV_immersed = volume of cork immersed in liquid\n\nWeight of cork:\nW_cork = ρ_cork × V × g\nUpthrust (weight of liquid displaced):\nUpthrust = ρ_liquid × V_immersed × g\nAt equilibrium (floating):\nρ_cork × V × g = ρ_liquid × V_immersed × g\nSimplifying (g cancels):\nρ_cork × V = ρ_liquid × V_immersed\nSolving for fraction immersed:\nV_immersed/V = ρ_cork/ρ_liquid\nSubstituting values:\nFraction immersed = (0.25 × 10³)/(1.25 × 10³)\nFraction immersed = 0.25/1.25\nFraction immersed = 1/5\nFraction immersed = 0.2",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 20,
+    "question": "Calculate the length of a displaced pendulum bob that passes its lowest point twice every second. [g=10ms-1] ",
+    "option": {
+      "a": ".100m ",
+      "b": "0.253m ",
+      "c": "0.450m ",
+      "d": "0.58m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 907,
+    "question": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and?",
+    "option": {
+      "a": " a density bottle",
+      "b": "an eureka can",
+      "c": " a pipette",
+      "d": "a burette"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Since relative density = mass of substance\nmass of equal volume of water relative density bottle should be used to determine the mass of the substance, and mass of an equal volume of water by filling the bottle with the powder and water respectively and weighed with the beam balance.",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

@@ -9598,5 +9598,53 @@
     "solution": "Hard water contains dissolved Ca²⁺ and Mg²⁺ ions which help build strong bones and teeth (A and D are true), and it does taste better than soft water (C is true). Statement B is false: hard water can be supplied in lead pipes because it deposits a protective scale of calcium carbonate inside the pipes, preventing lead from dissolving. It is soft water that is dangerous in lead pipes.",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 689,
+    "question": "What is Faraday's constant?",
+    "option": {
+      "a": "6.022 × 10²³ mol⁻¹",
+      "b": "3.00 × 10⁸ m/s",
+      "c": "9.81 m/s²",
+      "d": "96,485 C/mol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Faraday's constant (F) is the electric charge carried by one mole of electrons, equal to 96,485 coulombs per mole (approximately 96,500 C/mol). It is used in electrochemistry calculations relating the amount of substance deposited or dissolved at an electrode to the quantity of electricity passed. 6.022 × 10²³ is Avogadro's number, 3.00 × 10⁸ m/s is the speed of light, and 9.81 m/s² is gravitational acceleration.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 663,
+    "question": "When heat is absorbed during a chemical reaction, the reaction is said to be?",
+    "option": {
+      "a": "thermodynamic",
+      "b": "exothermic",
+      "c": "isothermal",
+      "d": "endothermic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An endothermic reaction is one in which heat energy is absorbed from the surroundings, causing the temperature of the surroundings to fall. The enthalpy change (ΔH) is positive for endothermic reactions. Exothermic reactions release heat, isothermal processes occur at constant temperature, and thermodynamic is a general term not specific to heat absorption.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 182,
+    "question": "The pressure of 100cm3 of oxygen at 350C is 750mmHg. What will be the volume of the gas if the pressure is reduced to 100mmHg  without changing the temperature",
+    "option": {
+      "a": "850cm3",
+      "b": "750cm3",
+      "c": "650cm3",
+      "d": "580cm3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

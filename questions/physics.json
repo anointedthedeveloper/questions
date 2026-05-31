@@ -1630,5 +1630,85 @@
     "solution": "Diffusion is the process by which molecules move from an area of higher concentration to an area of lower concentration. This movement occurs due to the random motion of particles, leading to an even distribution of substances over time.",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 1143,
+    "question": "Charge carriers in doped semiconductors are",
+    "option": {
+      "a": "electrons and protons",
+      "b": "electrons and neutrons",
+      "c": "anions and cations",
+      "d": "electrons and holes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Electrical conduction in semiconductors occurs via electrons and holes.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 47,
+    "question": "If the force on a charge of 0.2 Coulomb in an electric field is 4N, then electric intensity of the field is ",
+    "option": {
+      "a": "0.8",
+      "b": "0.8N/C  ",
+      "c": "20.0 N/C ",
+      "d": "4.2 N/C "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1098,
+    "question": "The melting point of a substance is equivalent to its",
+    "option": {
+      "a": "Vapour Pressure",
+      "b": "Solidification Temperature",
+      "c": " Liquidification Temperature",
+      "d": "Solidification Pressures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The melting point is equivalent to the solidification temperature.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 450,
+    "question": "The temperature gradient across a copper rod of thickness 0.02m, maintained at two temperature junctions of 20°C and 80°C respectively is?",
+    "option": {
+      "a": "3.0 × 10² Km⁻¹",
+      "b": "3.0 × 10³ Km⁻¹",
+      "c": "5.0 × 10³ Km⁻¹",
+      "d": "3.0 × 10⁴ Km⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nThickness of rod (d) = 0.02 m\nTemperature at hot junction (T₁) = 80°C\nTemperature at cold junction (T₂) = 20°C\nTemperature gradient = ?\n\nFormula for temperature gradient:\nTemperature gradient = Change in temperature / Distance\nTemperature gradient = ΔT / d\nStep 1: Calculate temperature difference\nΔT = T₁ - T₂\nΔT = 80 - 20 = 60°C = 60 K\nStep 2: Calculate temperature gradient\nTemperature gradient = 60 / 0.02\nTemperature gradient = 3000 K/m\nTemperature gradient = 3.0 × 10³ Km⁻¹",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1110,
+    "question": "A circuit has a resistance of 200Ω. The resistance of the circuit can be reduced to 120Ω when",
+    "option": {
+      "a": "A 300 Ω resistor is connected to it in parallel",
+      "b": "An 80 Ω resistor is connected to it in series",
+      "c": " A 150 Ω resistor is connected to it in parallel",
+      "d": "A 240 Ω resistor is connected to it in series"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial resistance, R₁ = 200 Ω\nDesired total resistance, Rₜ = 120 Ω\n\nSolution:\n\nStep 1: Effect of series and parallel connections\n\nConnecting a resistor in series increases the total resistance.\n\nConnecting a resistor in parallel decreases the total resistance.\n\nStep 2: Parallel resistance formula\nFor two resistors R₁ and R₂ in parallel:\n1/Rₜ = 1/R₁ + 1/R₂\n\nStep 3: Solve for R₂\n1/120 = 1/200 + 1/R₂\n1/R₂ = 1/120 – 1/200 = (5 – 3)/600 = 2/600 = 1/300\nR₂ = 300 Ω",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

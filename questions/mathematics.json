@@ -12830,5 +12830,37 @@
     "solution": "Let f(p) = 6p<sup>3</sup> - p<sup>2</sup> - 47p + 30\n\nThen by the remainder theorem,\n\n(p - 3): f(3) = remainder R,\n\ni.e. f(3) = 6(3)<sup>3</sup> - (3)2 - 47(3) + 30 = R\n\n162 - 9 - 141 + 30 = R\n\n192 - 150 = R\n\nR = 42",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 920,
+    "question": "Find the values of x for which\n\n(x+2)/4 - (2x−3)/3 < 4",
+    "option": {
+      "a": "x < 8",
+      "b": " x > -6",
+      "c": " x < 4",
+      "d": "x > -3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(x+2)/4 - (2x−3)/3 < 4\n(3(x+2)−4(2x−3))/12 < 4\n3x + 6 − 8x + 12 < 48\n18 − 5x < 48 ⟹ −5x < 30\n∴ x > − 6",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 1229,
+    "question": "In the figure above, KL//NM, LN bisects < KNM. If angles KLN is 54o and angle MKN is 35°, calculate the size of angle KMN.",
+    "option": {
+      "a": " 91°",
+      "b": "89°",
+      "c": "37°",
+      "d": "19°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206803/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q44_tzglsu.jpg",
+    "answer": "c",
+    "solution": "In the diagram above, α\n = 54o(alternate angles; KL||MN) < KNM = 2α\n (LN is bisector of < KNM) = 108°\n\n35° + < KMN + 108° = 180°(sum of angles of △\n)\n\n< KMN + 143° = 180°\n\n< KMN = 180° - 143°\n\n= 37°",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

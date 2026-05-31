@@ -15726,5 +15726,21 @@
     "solution": "∫π0(cos<sup>2</sup>θ−1)/(sin<sup>2</sup>θ)dθ=∫π0(−sin<sup>2</sup>θ)/sinsin<sup>2</sup>θ)=∫π0dθ=−π",
     "examtype": "utme",
     "examyear": "2000"
+  },
+  {
+    "id": 1082,
+    "question": "Find the probability that a number selected at random from 41 to 56 is a multiple of 9",
+    "option": {
+      "a": "1/8",
+      "b": "2/15",
+      "c": "3/16",
+      "d": "7/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given from 41 to 56\n\n41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56\n\nThe nos multiple of 9 are: 45, 54\n\nP(multiple of 9) = 2/16\n\n\n= 1/8",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

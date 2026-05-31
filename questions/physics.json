@@ -11278,5 +11278,69 @@
     "solution": "Given information:\n\nTime for echo = 0.5 s\nSpeed of sound (v) = 340 m/s\nDistance to cliff = ?\n\nUnderstanding echo:\n\nSound travels from boy to cliff and back to boy\nTotal distance = 2 × distance to cliff\nTime given is for the round trip\n\nStep 1: Calculate total distance traveled by sound\nTotal distance = Speed × Time\nTotal distance = 340 × 0.5\nTotal distance = 170 m\nStep 2: Calculate distance to cliff\nSince sound travels to the cliff and back:\nDistance to cliff = Total distance / 2\nDistance to cliff = 170 / 2\nDistance to cliff = 85 m",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 271,
+    "question": "From the diagram above, calculate the total current in the circuit",
+    "option": {
+      "a": "5.0A",
+      "b": "3.7A",
+      "c": " 4.5A",
+      "d": "4.0A"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611100/ALOC-Questions/Physics/2017/2017_Q_42_fqgmd3.jpg",
+    "answer": "b",
+    "solution": "Given information:\n\nVoltage = 12V\nThree resistors: 18Ω, 12Ω, and 6Ω\nFrom the diagram, the resistors appear to be in parallel\n\nStep 1: Calculate equivalent resistance for parallel resistors\n1/Rₑq = 1/R₁ + 1/R₂ + 1/R₃\n1/Rₑq = 1/18 + 1/12 + 1/6\nFinding common denominator (36):\n1/Rₑq = 2/36 + 3/36 + 6/36\n1/Rₑq = 11/36\nTherefore:\nRₑq = 36/11 = 3.27Ω\nStep 2: Calculate total current using Ohm's Law\nI = V/Rₑq\nI = 12/3.27\nI = 3.67A ≈ 3.7A",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 60,
+    "question": "Four lenses are being considered for use as a microscope object. Which of the following focal length is most suitable ",
+    "option": {
+      "a": "-5mm ",
+      "b": "+5mm ",
+      "c": "5cm ",
+      "d": "+5cm "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1148,
+    "question": "How long will it take to heat 4 kg of water from 30 °C to 65 °C using an electric kettle taking 5 A from a 240 V supply?\n(Specific heat capacity of water = 4200 J kg⁻¹ K⁻¹)",
+    "option": {
+      "a": "160 s",
+      "b": "245 s",
+      "c": "490 s",
+      "d": "150 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass of water, m = 4 kg\nInitial temperature, T₁ = 30 °C\nFinal temperature, T₂ = 65 °C\nTemperature change, Δθ = 35 K\nSpecific heat capacity, c = 4200 J kg⁻¹ K⁻¹\nCurrent, I = 5 A\nVoltage, V = 240 V\n\nSolution:\n\nStep 1: Calculate heat energy required\nQ = m × c × Δθ = 4 × 4200 × 35\nQ = 4 × 4200 = 16 800\n16 800 × 35 = 588 000 J\n\nStep 2: Calculate electrical power\nP = I × V = 5 × 240 = 1200 W\n\nStep 3: Relate energy, power, and time\nQ = P × t\nt = Q / P = 588 000 / 1200 = 490 s",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1000,
+    "question": "In order to remove the error of parallax when taking measurements with a metre rule, the eye should be focused",
+    "option": {
+      "a": "slantingly towards the right on the markings",
+      "b": "slantingly towards the left on the markings",
+      "c": "vertically downwards on the markings",
+      "d": "vertically upwards on the markings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To remove parallax error, the eye should be focused vertically downwards on the markings, ensuring the line of sight is perpendicular to the scale. This eliminates angular displacement and ensures accurate readings.\nPractical tip: When using a metre rule, always position your eye directly above (perpendicular to) the point you're measuring to avoid parallax error. Some instruments have mirrors behind the scale to help verify correct eye position - your eye and its reflection should align.",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

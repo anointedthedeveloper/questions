@@ -7422,5 +7422,53 @@
     "solution": "if appliances are connected in series, the effective voltage is the sum of individual voltages which will be high.",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 410,
+    "question": "Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is P₁ while the pressure on H is P₂. If the atmospheric pressure is equivalent to 10m of water, then the value of P₂/P₁ is?",
+    "option": {
+      "a": "0.5",
+      "b": "0.6",
+      "c": "1.67",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nDepth of diver G = 20 m\nDepth of diver H = 40 m\nAtmospheric pressure = 10 m of water\nP₂/P₁ = ?\n\nUnderstanding pressure in liquids:\nTotal pressure = Atmospheric pressure + Pressure due to water depth\nP = P₀ + ρgh\nIn terms of water column height:\nP = Atmospheric pressure (in m) + Depth (in m)\nStep 1: Calculate pressure on diver G (P₁)\nP₁ = Atmospheric pressure + Depth of G\nP₁ = 10 m + 20 m = 30 m of water\nStep 2: Calculate pressure on diver H (P₂)\nP₂ = Atmospheric pressure + Depth of H\nP₂ = 10 m + 40 m = 50 m of water\nStep 3: Calculate ratio P₂/P₁\nP₂/P₁ = 50/30\nP₂/P₁ = 5/3\nP₂/P₁ = 1.67",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 857,
+    "question": "I. Density of the liquid.\nII. Acceleration due to gravity.\nIII. Type of container of the liquid.\nIV. The constituents of the liquid.\n\n\nWhich of the above conditions will NOT affect the pressure of fluid?",
+    "option": {
+      "a": " I and III only",
+      "b": "II and III only",
+      "c": "III and IV only",
+      "d": "I and II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "pressure in fluid is given by P = hpg.\n∴ fluid pressure depends on height of liquid column, h, density of liquid p and acceleration of free fall g. it is therefore independent of type of container and constituents of the liquid.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 819,
+    "question": "The fundamental property of a propagating wave which depends only on the source and not the medium of propagation is the?",
+    "option": {
+      "a": "wavelength",
+      "b": "harmonics",
+      "c": "frequency",
+      "d": "velocity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The property that depends only on the source and is independent of the medium is frequency.",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

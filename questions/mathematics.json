@@ -15166,5 +15166,21 @@
     "solution": "The coordinate of the midpoint is ((−3+4)/2 ,(5+(−1))/2)\n= (1/2,2)",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 1139,
+    "question": "Let '*' and '^' be two binary operations such that a * b = a<sup>2</sup>b and a ^ b = 2a + b. Find (-4 * 2) ^ (7 * -1).",
+    "option": {
+      "a": "-49",
+      "b": "64",
+      "c": "113",
+      "d": "15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given that, a * b = a<sup>2</sup>b and a ^ b = 2a + b\n\n(-4 * 2) = (-4)<sup>2</sup> x 2 = 16 x 2 = 32\n\n(7 * -1) = 7<sup>2</sup> x (-1) = 49 x (-1) = -49\n\n∴ (-4 * 2) ^ (7 * -1) = 2(32) + (-49) = 64 - 49 = 15",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

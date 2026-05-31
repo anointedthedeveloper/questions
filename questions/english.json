@@ -18314,5 +18314,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 640,
+    "question": "He does not seem to know how to solve the problem ...... ?",
+    "option": {
+      "a": "does not he",
+      "b": "does he not",
+      "c": " does he",
+      "d": "doesn't he"
+    },
+    "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 44,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 969,
+    "question": "Here is Mr. Odumusu who teaches English ....... in our school?",
+    "option": {
+      "a": "pronuntiation",
+      "b": "pronounciation",
+      "c": "pronunciation",
+      "d": "pronountiation"
+    },
+    "section": "<b>In each of the questions 64 to 83, choose the option that best completes the gap(s).</b> \n",
+    "image": "",
+    "answer": "c",
+    "solution": "The correct spelling is pronunciation [prəˌnʌnsɪˈeɪʃ(ə)n], this refers to the way in which a word is pronounced.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 74,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

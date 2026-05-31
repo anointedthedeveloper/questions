@@ -11630,5 +11630,53 @@
     "solution": "Y ∝ 1/2\n\n\nY = 6, X = 7\n\nY = k/x\n where k is constant\n\n6 = k/7\n\n\nk = 42",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 497,
+    "question": "Find the angle subtended at the center of a circle by a chord which is equal in length to the radius of the circle.",
+    "option": {
+      "a": "30°",
+      "b": "45°",
+      "c": " 60°",
+      "d": " 90°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "If a length of a chord is equal to the length of a radius in the same circle, the triangle formed y the chord and the radii is an equilateral triangle\n∴each angle = 60°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1233,
+    "question": "The pie chart above shows the monthly distribution of a man's salary on food items. If he spent N8,000 on rice, how much did he spent on yam?",
+    "option": {
+      "a": "N42,000",
+      "b": "N18,000",
+      "c": "N16,000",
+      "d": "N12,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206958/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q48_ar7jt6.jpg",
+    "answer": "c",
+    "solution": "Angle of sector subtended by yam\n\n= 360° - (70 + 80 + 50)°\n\n= 360° - 200°\n\n= 160°\n\nBut (80°/360°)\n x T = 8000\n\nT = (8000×360°)/80°\n\n\n= N36,000\n\nHence the amount spent on yam = (160°/260) × N36,000\n\n\n= N16,000",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1184,
+    "question": "Find the compound interest (CI) on ₦15,700 for 2 years at 8% per annum compounded annually.",
+    "option": {
+      "a": " ₦6,212.48",
+      "b": "₦2,834.48",
+      "c": " ₦18,312.48",
+      "d": " ₦2,612.48"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Principal (P) = ₦15,700\n\nRate (R) = 8\n\nNumber of years (t) = 2\n\nA = P (1 + R/100)<sup>t</sup>\n⇒ A = 15700 (1 + 8/100)<sup>2</sup>\n⇒ A = 15700 (1 + 0.08)<sup>2</sup>\n⇒ A = 15700 (1.08)<sup>2</sup>\n⇒ A = 15700  x 1.1664\n\n⇒ A = ₦18,312.48\n\nTotal amount, A = ₦18,312.48\n\nA = P + CI\n\n⇒ CI = A - P\n\n⇒ CI = 18,312.48 - 15,700\n\n∴ CI = ₦2,612.48",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

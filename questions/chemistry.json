@@ -11774,5 +11774,21 @@
     "solution": "Silver and gold are called noble metals because they occur naturally in the free (uncombined) elemental state in the earth's crust. They are unreactive and resist corrosion and oxidation. The term \"noble\" reflects their low chemical reactivity and their position at the bottom of the electrochemical/reactivity series.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 546,
+    "question": "In the reaction between sodium hydroxide and tetraoxosulphate (VI) solutions, what volume of 0.5 molar sodium hydroxide would exactly neutralize 10cm³ of 1.25 molar tetraoxosulphate (vi) acid?",
+    "option": {
+      "a": "25cm³",
+      "b": "10cm³",
+      "c": "20cm³",
+      "d": "50cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Equation: 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O. Moles of H₂SO₄ = 1.25 × 10/1000 = 0.0125 mol. Moles of NaOH required = 2 × 0.0125 = 0.025 mol. Volume of NaOH = moles ÷ concentration = 0.025 ÷ 0.5 = 0.05 dm³ = 50 cm³.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

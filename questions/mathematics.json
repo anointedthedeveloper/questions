@@ -11422,5 +11422,21 @@
     "solution": "(2 2/3×1 1/2)/(4 4/5)     8/3 ×3/2 ÷ 24/5\n \n\n8/3 × 3/2 × 5/24\n\n\n5/6",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 1212,
+    "question": "The gradient of a line joining (x,4) and (1,2) is 1/2\n. Find the value of x",
+    "option": {
+      "a": "5",
+      "b": "3",
+      "c": "-3",
+      "d": "-5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Gradient m=y<sub>2</sub> −y<sub>1</sub> /x<sub>2</sub> −x<sub>1</sub> \n \n\n1/2 = (2−4)/(1−x)\n\n\n1 - x = 2(2 - 4)\n\n1 - x = 4 - 8\n\n1 - x = -4\n\n-x = -4 - 1\n\nx = 5",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

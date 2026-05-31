@@ -4286,5 +4286,69 @@
     "solution": "Given information:\n\nCurrent, I = 0.5 A\nVoltage, V = 40 V\nTime, t = 2 minutes = 2 × 60 = 120 s\nEnergy, E = ?\n\nSolution:\nUsing the electrical energy formula:\nE = VIt\nStep 1: Substitute the known values\nE = 40 × 0.5 × 120\nStep 2: Calculate the energy\nE = 40 × 0.5 × 120\nE = 20 × 120\nE = 2400 J",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 136,
+    "question": "Body floats in fluid when its …………………",
+    "option": {
+      "a": "Displaces its own volume of the liquid (fluid)",
+      "b": " Displaces its own weight of the fluid",
+      "c": "Displace its own density of the fluid",
+      "d": "Is no longer subjected to gravity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Archimedes' Principle states: A body floats when the upward force (buoyant force) equals the weight of the body.\nFor a body to float:\nThe buoyant force = Weight of fluid displaced\nThe key condition:\nA body floats when it displaces its own weight of the fluid.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 266,
+    "question": "The action of blotting paper on ink is due to",
+    "option": {
+      "a": "diffusion",
+      "b": "osmosis",
+      "c": "capillarity",
+      "d": "surface tension"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nCapillarity occurs when adhesive forces (between ink and paper fibers) are stronger than cohesive forces (within the ink itself), causing the ink to climb up the tiny spaces in the paper.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 226,
+    "question": "Which of the following statements is Not true about atoms?",
+    "option": {
+      "a": "Atom of different elements have different atomic weights",
+      "b": "The mass of an atom is concentrated in the nucleus",
+      "c": "An atom is made up of a nucleus and number of electrons",
+      "d": "Atoms of all elements are identical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "This statement is NOT true. Atoms of different elements have different structures and properties, making them unique.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 614,
+    "question": "The instrument used for securing a large number of similar charges by induction is called",
+    "option": {
+      "a": "electrophorus",
+      "b": "capacitor",
+      "c": "proof-plane",
+      "d": "electroscope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The electrophorus uses electrostatic induction to repeatedly generate charges without losing the initial charge on the base plate. This allows securing a large number of similar charges.",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

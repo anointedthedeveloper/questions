@@ -13758,5 +13758,37 @@
     "solution": "(2 x 3x) - (5 x 3) = (4 x 2x) - (3 x 1)\n\n6x - 15 = 8x - 3\n\n6x - 8x = 15 - 3\n\n-2x = 12\n\nx = 12/−2\n\n\n= -6\n",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 828,
+    "question": "The venn diagram shows a class of 50 students with the games they play. How many students play only two games?",
+    "option": {
+      "a": "15",
+      "b": "16",
+      "c": "20",
+      "d": "18"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724002995/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q10_igfh5i.jpg",
+    "answer": "a",
+    "solution": "Number of students that plays only two games = 4 + 8 + 3 = 15",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 544,
+    "question": "A regular polygon has 150º as the size of each interior angle. How many sides does it have?",
+    "option": {
+      "a": "12",
+      "b": "10",
+      "c": "9",
+      "d": "8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sum of interior angles of a polygon = each interior ∠ x n\n(n-2)180 = 150 x n\n180n - 360 = 150n\n180n-150n = 360\n30n = 360\nn = 360/30\nn = 12 sides\n",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

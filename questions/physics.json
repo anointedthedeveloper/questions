@@ -2670,5 +2670,85 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 214,
+    "question": "Which of the following instruments can be used to measure current in an a.c circuit?",
+    "option": {
+      "a": "Hot wire ammeter",
+      "b": "Moving coil ammeter",
+      "c": "Tangent galvanometer",
+      "d": "Moving coil galvanometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A hot wire ammeter can measure AC current because it works on the heating effect, which is independent of current direction.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 364,
+    "question": "The following are parts of the eye\nI. Retina\nII. Pupil\nIII. Iris\nThe correct equivalent in the camera in the same order are",
+    "option": {
+      "a": "Diaphragm, Aperture, film",
+      "b": "Aperture, Diaphragm, Film",
+      "c": "Film, Diaphragm, Aperture",
+      "d": "Film, Aperture, Diaphragm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Retina is similar to film\nPupil is similar to aperture\nIris is similar to diaphragm",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 962,
+    "question": "Which of the following could be effectively used to reduce friction?",
+    "option": {
+      "a": "kerosene",
+      "b": "grease",
+      "c": "water",
+      "d": "petrol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "grease is more viscous than the rest of the liquids",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 152,
+    "question": "Radio waves belong to the class of wave whose velocity is about",
+    "option": {
+      "a": "34m/s",
+      "b": "3 × 10⁶ m/s",
+      "c": " 3 × 10⁸ m/s",
+      "d": "3 × 10⁻⁸ m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Radio waves are part of the electromagnetic spectrum, which includes:\n\nRadio waves\nMicrowaves\nInfrared\nVisible light\nUltraviolet\nX-rays\nGamma rays\n\nKey property of electromagnetic waves:\nAll electromagnetic waves travel at the speed of light in vacuum (or air).\nSpeed of light (c):\nc = 3 × 10⁸ m/s (or approximately 300,000 km/s)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 702,
+    "question": "If the relative density of gold is 19.2, the volume of 2.4kg of gold is?",
+    "option": {
+      "a": "8.00 × 10⁻³ m³",
+      "b": " 1.25 × 10⁻⁴ m³",
+      "c": "1.92 × 10⁻⁴ m³",
+      "d": "4.61 × 10⁻³ m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\n\nGiven information:\n\nRelative density of gold = 19.2\nMass of gold, m = 2.4 kg\nVolume, V = ?\n\nSolution:\nStep 1: Understand relative density\nRelative density (specific gravity) = Density of substance / Density of water\nDensity of water = 1000 kgm⁻³\nStep 2: Calculate density of gold\nDensity of gold = Relative density × Density of water\nρ = 19.2 × 1000\nρ = 19,200 kgm⁻³\nStep 3: Apply density formula\nFormula: Density = Mass/Volume\nρ = m/V\nStep 4: Rearrange for volume\nV = m/ρ\nStep 5: Substitute values\nV = 2.4/19,200\nV = 0.000125 m³\nV = 1.25 × 10⁻⁴ m³",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

@@ -10094,5 +10094,21 @@
     "solution": "Given information:\nCharge, q = 1.5 × 10⁻¹⁹ C\nElectric field intensity, E = 10⁵ V m⁻¹\n\nSolution:\n\nStep 1: Formula for force on a charge in an electric field\nF = q × E\n\nStep 2: Substitute values\nF = (1.5 × 10⁻¹⁹) × (10⁵)\n\nStep 3: Calculate\nF = 1.5 × 10⁻¹⁴ N",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 1020,
+    "question": "The equation of a wave traveling in a horizontal direction is expressed as y = 15 sin 2π/5 (60t - x). What is its wavelength?",
+    "option": {
+      "a": "60 m",
+      "b": "15 m",
+      "c": "5 m",
+      "d": "2 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nWave equation: y = 15 sin (2π/5)(60t - x)\n\nSolution:\n\nStep 1: Rewrite the equation in standard form\nThe argument of the sine function is (2π/5)(60t - x).\nExpanding: (2π/5)(60t - x) = (2π × 60 / 5)t - (2π/5)x = (120π/5)t - (2π/5)x = 24π t - (2π/5)x\n\nStep 2: Identify the wave number k\nThe standard form is y = A sin(ωt - kx), where k = 2π/λ.\nFrom the equation, k = 2π/5.\n\nStep 3: Calculate wavelength λ\nλ = 2π / k = 2π / (2π/5) = 5 m",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

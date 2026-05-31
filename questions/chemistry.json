@@ -9774,5 +9774,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 495,
+    "question": "When air which contains oxygen, nitrogen, carbon dioxide, water vapour and the rare gases is passed through alkaline pyrogallol and then over quicklime, the only gases left are",
+    "option": {
+      "a": "nitrogen and carbon dioxide",
+      "b": "the rare gases",
+      "c": "nitrogen and oxygen",
+      "d": "nitrogen and the rare gases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Alkaline pyrogallol absorbs O₂ from air. Quicklime (CaO) absorbs CO₂ and water vapour: CaO + CO₂ → CaCO₃; CaO + H₂O → Ca(OH)₂. After these treatments, only nitrogen (unreactive, not absorbed) and the rare gases (noble gases, chemically inert) remain.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 755,
+    "question": "The molecule with the highest number of lone pair of electrons is",
+    "option": {
+      "a": "H₂O",
+      "b": "NH₃",
+      "c": "CH₄",
+      "d": "CO₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Counting lone pairs per molecule: CO₂ has 4 lone pairs (2 on each O), H₂O has 2 lone pairs, NH₃ has 1 lone pair, CH₄ has 0 lone pairs. CO₂ has the highest number of lone pairs.",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

@@ -13182,5 +13182,37 @@
     "solution": "154 = 4 x\t22/7 x  r<sup>2</sup>\n154 x 7r<sup>2</sup>\n4 x 22\n \n√ 49/4  = r                          \n7/2 = r2\n\n∴ r = 3.50",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 1283,
+    "question": "The volume of a cone (s) of height 6cm and base radius 5cm is",
+    "option": {
+      "a": "157 cm<sup>3</sup>",
+      "b": "155 cm<sup>3</sup>",
+      "c": "175 cm<sup>3</sup>",
+      "d": "145 cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "V = ⅓ πr<sup>2</sup> h\n\nVolume of a cone (Vc) = ⅓ × 3.14 × (5)2 × 6\n\n= 156.9<sup>3</sup>\n\n157 cm<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 134,
+    "question": "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to",
+    "option": {
+      "a": "Zero",
+      "b": "half of the common difference",
+      "c": " double the common difference",
+      "d": "the common difference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "1st statement: U<sub>6</sub> = 1/2(U<sub>12</sub>)\na + (n -1)d = 1/2[a + (n-1)d]\na + 5d = a + 11d\n2(a + 5d) = a + 11d\n2a + 10d = a + 11d\n\nSolving, => a = d\nHence the first term is equal to the common difference",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

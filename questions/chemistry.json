@@ -11902,5 +11902,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 433,
+    "question": "Cu₂S(g) + O₂(g) → 2Cu + SO₂(g). What is the change in the oxidation number of copper in the reaction?",
+    "option": {
+      "a": "0 to +2",
+      "b": "0 to +1",
+      "c": "+1 to 0",
+      "d": "+2 to +1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In Cu₂S, S has oxidation number -2, so each Cu must be +1 (since 2(+1) + (-2) = 0). In the product Cu, copper is in its elemental state with oxidation number 0. Therefore copper changes from +1 (in Cu₂S) to 0 (in Cu) — this is a reduction.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

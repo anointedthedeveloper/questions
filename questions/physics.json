@@ -10846,5 +10846,37 @@
     "solution": "Given information:\n\nRadius of Earth = 4 × Radius of Moon → Rₑ = 4Rₘ\nAcceleration due to gravity on Earth = 80 × acceleration on Moon → gₑ = 80gₘ\n\nSolution:\nFormula for acceleration due to gravity:\ng = GM/R²\nWhere:\n\nG = gravitational constant\nM = mass of planet\nR = radius of planet\n\nStep 1: Write expressions for Earth and Moon\nFor Earth: gₑ = GMₑ/Rₑ²\nFor Moon: gₘ = GMₘ/Rₘ²\nStep 2: Take ratio\ngₑ/gₘ = (Mₑ/Mₘ) × (Rₘ/Rₑ)²\nStep 3: Substitute given values\n80 = (Mₑ/Mₘ) × (Rₘ/(4Rₘ))²\n80 = (Mₑ/Mₘ) × (1/4)²\n80 = (Mₑ/Mₘ) × (1/16)\nStep 4: Solve for mass ratio\nMₑ/Mₘ = 80 × 16\nMₑ/Mₘ = 1280\nTherefore: Mₘ/Mₑ = 1/1280\nFinal Answer:\nRatio of mass of Moon to Earth = 1:1280",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1133,
+    "question": "A force of 18 N pulls a 40 kg mass on a horizontal floor at 0.3 m s⁻². Find the coefficient of friction.",
+    "option": {
+      "a": "0.003",
+      "b": "0.015",
+      "c": "0.3",
+      "d": "0.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nApplied force, F = 18 N\nMass, m = 40 kg\nAcceleration, a = 0.3 m s⁻²\ng = 10 m s⁻² (assumed)\n\nSolution:\n\nStep 1: Calculate frictional force\nNet force = Applied force – Frictional force\nF_net = m × a = 40 × 0.3 = 12 N\nTherefore, F – F_f = 12\nF_f = 18 – 12 = 6 N\n\nStep 2: Calculate normal reaction\nNormal reaction, R = mg = 40 × 10 = 400 N\n\nStep 3: Calculate coefficient of friction\nμ = F_f / R = 6 / 400 = 0.015",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 871,
+    "question": "Calculate the position of an object placed in front of a convex mirror having focal length of 12 cm such that an image is formed 6 cm away from the mirror",
+    "option": {
+      "a": "4.0 cm",
+      "b": " 3.0 cm",
+      "c": "12.0 cm",
+      "d": "9.0 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nFocal length f = 12 cm (positive for convex mirror in Cartesian sign convention)\nImage distance v = 6 cm (positive, since image is virtual and behind the mirror)\nObject distance u = ?\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n\nStep 2: Substitute values\n1/12 = 1/u + 1/6\n\nStep 3: Solve for 1/u\n1/u = 1/12 – 1/6 = 1/12 – 2/12 = –1/12\n\nStep 4: Find u\nu = –12 cm\n\nThe negative sign indicates the object is placed in front of the mirror (real object). The distance is 12 cm.",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

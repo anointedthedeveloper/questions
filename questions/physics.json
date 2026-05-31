@@ -8126,5 +8126,37 @@
     "solution": "For equilibrium, F must be equal in magnitude to the resultant of the 10 N and 17 N forces (but opposite in direction).\n\nUsing the cosine rule:\n\nR² = 10² + 17² + 2(10)(17)cos150°\n\ncos150° = −0.866\n\nR² = 100 + 289 − 294.4\nR² ≈ 94.6\nR ≈ 9.7 N ≈ 10 N",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 497,
+    "question": "One of the following is a scalar quantity?",
+    "option": {
+      "a": "weight",
+      "b": "momentum",
+      "c": " potential energy",
+      "d": "displacement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Potential energy is a scalar quantity as it only has magnitude and no directional component. Weight, momentum, and displacement are all vector quantities because they require both magnitude and direction for complete description.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 664,
+    "question": "A transformer is rated 240v. If the primary coil is 4000 turns and the secondary voltage 12v, determine the number of turns in the secondary coil.",
+    "option": {
+      "a": "200",
+      "b": "100",
+      "c": "250",
+      "d": "150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nPrimary voltage, Vₚ = 240 V\nPrimary turns, Nₚ = 4000 turns\nSecondary voltage, Vₛ = 12 V\nSecondary turns, Nₛ = ?\n\nSolution:\nStep 1: Apply transformer equation\nFormula: Vₚ/Vₛ = Nₚ/Nₛ\nStep 2: Rearrange for Nₛ\nNₛ = (Vₛ × Nₚ)/Vₚ\nStep 3: Substitute values\nNₛ = (12 × 4000)/240\nNₛ = 48000/240\nNₛ = 200 turns",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

@@ -10382,5 +10382,21 @@
     "solution": "Using ΔG = ΔH - TΔS. The reaction goes from 4 moles of gas to 2 moles, so ΔS is negative (decrease in disorder). ΔH is positive (endothermic). Therefore ΔG = (+) - T(-) = positive + positive = positive. At room temperature, ΔG > 0 means the reaction is non-spontaneous.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 357,
+    "question": "The enzyme used in the hydrolysis of starch to dextrin and maltose is",
+    "option": {
+      "a": "Zymase",
+      "b": "Sucrase",
+      "c": "Amylase",
+      "d": "Lactase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Amylase is the enzyme responsible for the hydrolysis of starch, breaking it down first into dextrin and then into maltose. Zymase converts sugars to ethanol; sucrase hydrolyses sucrose; lactase hydrolyses lactose.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

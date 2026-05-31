@@ -4702,5 +4702,85 @@
     "solution": "Given information:\nVelocity of aircraft relative to air, vₐ = 100 km h⁻¹ due north\nVelocity of wind, v_w = 60 km h⁻¹ from east to west (i.e., towards west)\n\nSolution:\n\nStep 1: Represent velocities as vectors\nLet north be positive y‑direction and east be positive x‑direction.\nvₐ = (0, 100) km h⁻¹\nv_w = (−60, 0) km h⁻¹ (since it blows towards west)\n\nStep 2: Resultant velocity\nResultant v = vₐ + v_w = (−60, 100) km h⁻¹\n\nStep 3: Calculate magnitude\n|v| = √[(−60)² + (100)²] = √(3600 + 10000) = √13600 ≈ 116.62 km h⁻¹ ≈ 117 km h⁻¹\n\nStep 4: Calculate direction\nThe angle θ from north towards west is given by:\ntan θ = (west component) / (north component) = 60 / 100 = 0.6\nθ = tan⁻¹(0.6) ≈ 31°\n\nSince the westward component is negative x, the direction is N31°W.",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 330,
+    "question": "The limiting frictional force between two surface depends on\n\nI. the gaseous reaction between the surfaces\n\nII. the nature of the surfaces in contact\n\nIII. the relative velocity between the surfaces",
+    "option": {
+      "a": "I only",
+      "b": "I & II only",
+      "c": "II only",
+      "d": "III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The limiting frictional force depends only on the nature of the surfaces in contact",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 443,
+    "question": "When the breaks in a car are applied, the frictional force on the tyres is?",
+    "option": {
+      "a": "a disadvantage because it is in the direction of the motion of the car",
+      "b": "a disadvantage because it is in the opposite direction of the motion of the car",
+      "c": "an advantage because it is in the direction of the motion of the car",
+      "d": "an advantage because it is in the opposite direction of the motion of the car"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Frictional force opposes motion",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1058,
+    "question": "The mechanism of heat transfer from one point to another through the vibration of the molecules of the medium is",
+    "option": {
+      "a": "covection",
+      "b": "conduction",
+      "c": "radiation",
+      "d": "diffusion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The mechanism of heat transfer from one point to another through the vibration of molecules of the medium is conduction. In this process, energetic molecules vibrate and collide with neighboring molecules, transferring kinetic energy without the molecules themselves moving from their positions. This is the dominant heat transfer mechanism in solids, especially metals.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 655,
+    "question": "In an ideal wheel an axle system, R stand for the radius of the wheel and r is the radius of the axle. the mechanical advantage is",
+    "option": {
+      "a": "(R/r)²",
+      "b": "r/R",
+      "c": "(r/R)²",
+      "d": "R/r"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nRadius of wheel = R\nRadius of axle = r\nMechanical advantage, MA = ?\n\nSolution:\nStep 1: Define mechanical advantage\nMechanical Advantage (MA) = Load/Effort\nFor an ideal machine (100% efficiency):\nMA = Distance moved by effort / Distance moved by load\nStep 2: Analyze wheel and axle system\nIn a wheel and axle:\n\nEffort is applied at the wheel (larger radius R)\nLoad is lifted by the axle (smaller radius r)\n\nStep 3: Calculate distances moved\nFor one complete rotation:\n\nDistance moved by effort = 2πR (circumference of wheel)\nDistance moved by load = 2πr (circumference of axle)\n\nStep 4: Apply MA formula\nMA = Distance moved by effort / Distance moved by load\nMA = 2πR / 2πr\nMA = R/r",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1067,
+    "question": "The angle of deviation of light of various colours passing through a triangular prism increases in the order",
+    "option": {
+      "a": "red → green → blue",
+      "b": "green → violet → blue",
+      "c": "blue → red → green",
+      "d": " blue → green → red"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In a triangular prism, light of different colors is refracted at different angles, with red light deviating the least and blue light deviating the most.",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

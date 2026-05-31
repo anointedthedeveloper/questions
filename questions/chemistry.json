@@ -9294,5 +9294,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 27,
+    "question": "As the concentration of an electrolyte reduces, the conductivity",
+    "option": {
+      "a": "Reduces to zero",
+      "b": "Decreases",
+      "c": "Increases",
+      "d": "Is unaffected"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 526,
+    "question": "Which of the following represents the kind of bonding present in ammonium chloride?",
+    "option": {
+      "a": "ionic only",
+      "b": "covalent only",
+      "c": "ionic and covalent",
+      "d": "dative covalent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "NH₄Cl contains both ionic and covalent bonding. Within the NH₄⁺ ion, there are three ordinary N-H covalent bonds and one dative covalent bond (from NH₃ + H⁺). Between NH₄⁺ and Cl⁻, the bonding is ionic (electrostatic attraction between oppositely charged ions). So NH₄Cl has both ionic and covalent bonding.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

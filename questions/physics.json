@@ -990,5 +990,69 @@
     "solution": "Given information:\nRay passes through centre of curvature of concave mirror.\nCentre of curvature lies on the principal axis at distance equal to radius of curvature from the pole.\n\nSolution:\n\nStep 1: Understand the path of the ray\nA ray passing through the centre of curvature strikes the mirror normally (perpendicularly) because it is along the radius.\n\nStep 2: Law of reflection\nWhen a ray is incident normally on a mirror, the angle of incidence is 0°. Therefore, the angle of reflection is also 0°. The ray retraces its path back along the same line.",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 740,
+    "question": "In the diagram above, the pressure of the gas is",
+    "option": {
+      "a": " 86 cm of mercury",
+      "b": "66 cm of mercury",
+      "c": "96 cm of mercury",
+      "d": "76 cm mercury"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430637/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_41_t4sf0o.png",
+    "answer": "a",
+    "solution": "Pressure of the Gas, P = A + h\n= 76 + 10\n86 cm Hg",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 7,
+    "question": "  An electric kettle with negligible heat capacity is rated at 2000W, if 2.0kg of water is put in it, how long will it take temperature of water to rise from 20oC to 100oC? (specific heat capacity of water = 4200J/Kg-1K-1) ",
+    "option": {
+      "a": "336s ",
+      "b": "240s ",
+      "c": " 168s ",
+      "d": "84s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 339,
+    "question": "In a slide wire bridge, the balance is obtained at a point 25cm from one end of wire 1m long. The resistance to be tested is connected to that end and a standard resistance of 3.6Ω\n is connected to the other end of the wire. Determine the value of the unknown resistance",
+    "option": {
+      "a": "3.2Ω",
+      "b": "1.4Ω",
+      "c": " 3.21Ω",
+      "d": "1.2Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nTotal wire length = 1m = 100cm\nBalance point = 25cm from one end (where unknown resistance R is connected)\nStandard resistance (S) = 3.6Ω\nUnknown resistance (R) = ?\n\nUnderstanding slide wire bridge (meter bridge):\nAt balance:\nR/S = L₁/L₂\nwhere:\n\nL₁ = length on side of unknown resistance = 25cm\nL₂ = length on side of standard resistance = 100 - 25 = 75cm\n\nCalculating unknown resistance:\nR/3.6 = 25/75\nR/3.6 = 1/3\nR = 3.6 × (1/3)\nR = 3.6/3\nR = 1.2Ω",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 199,
+    "question": "What force has to be exerted on a mass 60kg to give it an acceleration of 10ms-2 vertically upwards?\n[g = 10ms-2",
+    "option": {
+      "a": "300N",
+      "b": "600N",
+      "c": "1200N",
+      "d": "400N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass (m) = 60 kg\nAcceleration upward (a) = 10 m/s²\nAcceleration due to gravity (g) = 10 m/s²\nApplied force (F) = ?\n\nForces acting on the mass:\n\nApplied force (F) acting upward\nWeight (W = mg) acting downward\n\nUsing Newton's Second Law:\nNet force = mass × acceleration\nFor upward motion:\nF - mg = ma\nRearranging:\nF = ma + mg\nF = m(a + g)\nSubstituting values:\nF = 60(10 + 10)\nF = 60 × 20\nF = 1200 N\nAnswer: C. 1200N\nA force of 1200N must be exerted to give the mass an upward acceleration of 10 m/s².",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

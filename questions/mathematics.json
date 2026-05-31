@@ -12574,5 +12574,53 @@
     "solution": "Locus of point equidistant from points P and q is a perpendicular bisector of the straight joining P and Q\n∴PN = NQ",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 1174,
+    "question": "What is the general term of the sequence 3, 8, 13, 18, ...?",
+    "option": {
+      "a": " 5n - 2",
+      "b": "5n + 2",
+      "c": " 5",
+      "d": " 5n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given the sequence 3, 8, 13, 18, ... which is an arithmetic sequence\n\na = 3\n\nd = T<sub>2</sub>  - T<sub>1</sub>  = 8 - 3 = 5\n\nThe general term of an A.P is:\n\nT<sub>n</sub>  = a + (n - 1)d\n\n⇒ T<sub>n</sub> = 3 + (n - 1)5\n\n= T<sub>n</sub> = 3 + 5n - 5\n\n∴ T<sub>n</sub> = 5n - 2",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 654,
+    "question": "ClassIntervalsFrequency0−233−526−859−113\n \nFind the mode of the above distribution.",
+    "option": {
+      "a": "9",
+      "b": "8",
+      "c": "10",
+      "d": "7"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>C</mi>\n        <mi>l</mi>\n        <mi>a</mi>\n        <mi>s</mi>\n        <mi>s</mi>\n        <mi>I</mi>\n        <mi>n</mi>\n        <mi>t</mi>\n        <mi>e</mi>\n        <mi>r</mi>\n        <mi>v</mi>\n        <mi>a</mi>\n        <mi>l</mi>\n        <mi>s</mi>\n      </mtd>\n      <mtd>\n        <mn>0</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>6</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>8</mn>\n      </mtd>\n      <mtd>\n        <mn>9</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>11</mn>\n      </mtd>\n      <mtd />\n    </mtr>\n    <mtr>\n      <mtd>\n        <mi>F</mi>\n        <mi>r</mi>\n        <mi>e</mi>\n        <mi>q</mi>\n        <mi>u</mi>\n        <mi>e</mi>\n        <mi>n</mi>\n        <mi>c</mi>\n        <mi>y</mi>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd />\n    </mtr>\n  </mtable>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129744/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q33_qgwykn.jpg",
+    "answer": "d",
+    "solution": "Mode = L<sub>1</sub> + (D<sub>1</sub/D<sub>1</sub>+D<sub>2</sub>)C\n\nD<sub>1</sub> = frequency of modal class - frequency of the class before it\n\nD<sub>1</sub> = 5 - 2 = 3\n\nD<sub>2</sub> = frequency of modal class - frequency of the class that offers it\n\nD<sub>2</sub> = 5 - 3 = 2\n\nL<sub>1</sub> = lower class boundary of the modal class\n\nL<sub>1</sub> = 5 - 5\n\nC is the class width = 8 - 5.5 = 3\n\nMode = L<sub>1</sub> + (D<sub>1</sub>/D<sub>1</sub>+D<sub>2</sub>)C\n\n= 5.5 + 3/(2+3)C\n\n= 5.5 + 3/5 x 3\n\n= 5.5 + 9/5\n\n= 5.5 + 1.8\n\n= 7.3 ≈ = 7",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 1182,
+    "question": "A man sells different brands of an items. 1/9\n of the items he has in his shop are from Brand A, 5/8\n of the remainder are from Brand B and the rest are from Brand C. If the total number of Brand C items in the man's shop is 81, how many more Brand B items than Brand C does the shop has?",
+    "option": {
+      "a": " 243",
+      "b": "108",
+      "c": "54",
+      "d": "135"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let the total number of items in the man's shop = y\nNumber of Brand A's items in the man's shop = 1/9y\nRemaining items = 1 - 1/9y=8/9y\nNumber of Brand B's items in The man's shop = 5/8of8/9y=5/9y\nTotal of Brand A and Brand B's items = 1/9y+5/9y=2/3y\nNumber of Brand C's items in the man's shop = 1 - 2/3y=1/3y\n⟹1/3y = 81 (Given)\n\n⟹y = 81 x 3 = 243\n\n∴ The total number of items in the man's shop = 243\n\n∴ Number of Brand B's items in the man's shop = 5/9\n x 243 = 135\n\n∴ The number of more Brand B items than Brand C = 135 - 81 =54",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

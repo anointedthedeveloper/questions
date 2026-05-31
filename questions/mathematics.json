@@ -12478,5 +12478,69 @@
     "solution": "S = {0, 1, 2, 3, 4, 5}\n\nT = {− 1, 0, 1, 2}\n\nS ∪ T = {− 1, 0, 1, 2, 3, 4, 5 }\n\n⇒ − 2 < x ≤ 5",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 1014,
+    "question": "A man bought a car newly for ₦1,250,000. He had a crash with the car and later sold it at the rate of ₦1,085,000. What is the percentage gain or loss of the man?",
+    "option": {
+      "a": " 43.7% loss",
+      "b": "13.2% gain",
+      "c": "13.2% loss",
+      "d": "43.7% gain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Cost price of the car = N 1,250.00\n\nSelling price = N 1,085.00\n\nLoss = N (1250 - 1085)\n\n= N 165.00\n\n% loss = 165/1250×100\n= 13.2% loss",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 955,
+    "question": "Find the equation of the tangent at the point (2, 0) to the curve y = x<sup>2</sup> - 2x",
+    "option": {
+      "a": "y = 2x - 4",
+      "b": " y = 2x + 4",
+      "c": "y = 2x - 2",
+      "d": "y = 2x + 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The gradient to the curve is found by differentiating the curve equation with respect to x\n\nSo dy/dx 2x - 2\n\nThe gradient of the curve is the same with that of the tangent.\n\n At point (2, 0) dy/dx = 2(2) - 2\n\n  = 4 – 2 = 2\n\n The equation of the tangent is given by (y - y1) dy/dx\n (x – x1)\n\n At point (x1, y1) = (2, 0)\n\n  y - 0 = 2(x - 2)\n\n  y = 2x - 4",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 1192,
+    "question": "Solve for x in 8x<sup>-2</sup> = 2/25",
+    "option": {
+      "a": "4",
+      "b": "6",
+      "c": "8",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "8x<sup>-2</sup> = 2/25\n\nx<sup>-2</sup> = 2/25 x 1/8\n\nx<sup>-2</sup> = 2/200\n\nx<sup>-2</sup> = 1/100\n\n1/x<sup>2</sup> = 1/100\n\nx<sup>2</sup> = 100\n\nx = 10",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 114,
+    "question": "In the diagram, EFGH is a circle centre O. FH is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH",
+    "option": {
+      "a": " 32cm",
+      "b": " 26cm",
+      "c": "20cm",
+      "d": "16cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710691965/ALOC-Questions/Mathematics/2000/question-43_ptovoz.jpg",
+    "answer": "b",
+    "solution": "△OEN = △OGN\n\nOE = OG = r(radii)\n\n(r - 8)<sup>2</sup> + 12<sup>2</sup> = r<sup>2</sup>\n\nr<sup>2</sup> - 16r + 64 + 144 = r<sup>2</sup>\n\n16r = 64 + 144 = r<sup>2</sup>\n\n16r = 64 + 144 = 208\n\n208/16 = 13cm\n\nFH = 2FO = 2OH = 2R\n\n= 2 x 13cm\n\n= 26cm",
+    "examtype": "utme",
+    "examyear": "2000"
   }
 ]

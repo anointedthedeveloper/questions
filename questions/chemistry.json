@@ -9246,5 +9246,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 645,
+    "question": "On the basis of the electrochemical series, which of these ions will show the greater tendency to be discharged at the cathode in an electrolytic cell?",
+    "option": {
+      "a": "Cu²⁺",
+      "b": "Sn²⁺",
+      "c": "Fe²⁺",
+      "d": "Zn²⁺"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "At the cathode, reduction occurs and ions are discharged. Ions lower in the electrochemical series (closer to the bottom/more noble) are discharged preferentially. In the electrochemical series: Cu²⁺ > Fe²⁺ > Sn²⁺ > Zn²⁺ in terms of ease of discharge. Cu²⁺ has the highest reduction potential among the options and is therefore discharged most readily at the cathode.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 439,
+    "question": "The densities of two gases, X and Y are 0.5 g dm⁻³ and 2.0 g dm⁻³ respectively. What is the rate of diffusion of X relative to Y?",
+    "option": {
+      "a": "0.1",
+      "b": "0.5",
+      "c": "2",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "By Graham's Law of diffusion: rate of X / rate of Y = √(density of Y / density of X) = √(2.0/0.5) = √4 = 2.0. Therefore the rate of diffusion of X relative to Y is 2.0.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

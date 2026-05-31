@@ -830,5 +830,85 @@
     "solution": "For two perpendicular vectors, use the Pythagorean theorem:\nR² = A² + B²\nwhere:\n\nA = 6.0 N\nB = 8.0 N\nR = resultant\n\nCalculating:\nR² = (6.0)² + (8.0)²\nR² = 36 + 64\nR² = 100\nR = √100\nR = 10.0 N\nDirection of resultant:\ntan θ = opposite/adjacent = 6.0/8.0 = 0.75\nθ = tan⁻¹(0.75) ≈ 36.9° above the horizontal",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 764,
+    "question": "In a large telecommunications auditorium, perforated absorbent materials are used to line the ceiling so as to",
+    "option": {
+      "a": " Increase the reverberation of sound in the hall",
+      "b": " increase the amount of echo in the hall",
+      "c": "reduce the hight of the ceiling from the floor",
+      "d": "reduce the reverberation of sound in the hall"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a large auditorium perforated, absorbent materials are used to line the ceiling so as to reduce the effect of multiple reflection of echo called reverberation",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 735,
+    "question": "Non-luminous object can be seen because they",
+    "option": {
+      "a": "reflect light",
+      "b": "are near",
+      "c": " are polished",
+      "d": "emit light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Non-luminous objects do not emit light; instead, they are visible because they reflect light from luminous sources (such as the sun or artificial lights). This reflection allows us to see them.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 53,
+    "question": "The mode of heat transfer which does not require material medium is",
+    "option": {
+      "a": "conduction ",
+      "b": "radiation ",
+      "c": "convection ",
+      "d": "propagation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 689,
+    "question": "Two liquids L₁ and L₂ are contained in a U-tube. The height and the density of L₁ are 8 cm and 10³ kgm⁻³ respectively. If the density of L₂ is 800 kgm⁻³, its height measured from the same level is",
+    "option": {
+      "a": "8 cm",
+      "b": "10 cm",
+      "c": "16 cm",
+      "d": "12 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Height of L₁, h₁ = 8 cm\nDensity of L₁, ρ₁ = 10³ kgm⁻³ = 1000 kgm⁻³\nDensity of L₂, ρ₂ = 800 kgm⁻³\nHeight of L₂, h₂ = ?\n\nSolution:\nStep 1: Apply principle of U-tube equilibrium\nIn a U-tube at equilibrium, the pressure at the same horizontal level in both arms must be equal.\nPressure due to liquid column: P = ρgh\nStep 2: Set up equation\nAt the same reference level (bottom of liquids):\nP₁ = P₂\nρ₁gh₁ = ρ₂gh₂\nStep 3: Simplify (g cancels out)\nρ₁h₁ = ρ₂h₂\nStep 4: Substitute values\n1000 × 8 = 800 × h₂\n8000 = 800h₂\nStep 5: Solve for h₂\nh₂ = 8000/800\nh₂ = 10 cm",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 73,
+    "question": "A boat is passing under a bridge. The deck of the boat is 15m below the bridge. A small package is to be dropped from the bridge onto the deck of the boat is 25m from just below the drop point. What speed is necessary to have the package land in the boat? (g= 9.8ms-2)",
+    "option": {
+      "a": "17m/s ",
+      "b": "14m/s ",
+      "c": "1.7m/s ",
+      "d": "4.9m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
   }
 ]

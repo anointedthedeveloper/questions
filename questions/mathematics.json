@@ -16574,5 +16574,21 @@
     "solution": "log<sub>10</sub>12.5 = log<sub>10</sub>12(1/2)\n= log<sub>10</sub>25/2\n= log<sub>10</sub>25 - log<sub>10</sub>2\n= log<sub>10</sub>5log<sup>10</sup> - log<sub>10</sub>2\n= 2log<sub>10</sub>5 - log<sub>10</sub>2\n= 2log<sub>10</sub>10/2 - log<sub>10</sub>2\n= 2(1-x)- x\n= 2 - 2x – x\n= 2 – 3x",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 8,
+    "question": "Solve for p in the following  equation given in base two  11(p+ 110) = 1001p   ",
+    "option": {
+      "a": "10",
+      "b": "11",
+      "c": "110",
+      "d": "111"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
   }
 ]

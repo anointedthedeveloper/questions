@@ -10750,5 +10750,37 @@
     "solution": "Given information:\nObject height = 4 cm\nImage height = 2 cm\nImage distance (camera size) = 6 cm\n\nSolution:\n\nStep 1: Magnification formula for pinhole camera\nMagnification = Image height / Object height = Image distance / Object distance\n\nStep 2: Substitute known values\n2/4 = 6 / u\n1/2 = 6 / u\n\nStep 3: Solve for object distance u\nu = 6 × 2 = 12 cm",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 526,
+    "question": "A travelling wave of amplitude 0.80 m has a frequency of 16 Hz and a wave speed of 20 ms⁻¹. Calculate the wave number of the wave.",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nAmplitude, A = 0.80 m\nFrequency, f = 16 Hz\nWave speed, v = 20 m/s\nWave number, k = ?\n\nSolution:\nStep 1: Calculate wavelength\nUsing the wave equation:\nv = fλ\nλ = v/f\nλ = 20/16\nλ = 1.25 m\nStep 2: Calculate wave number\nWave number is defined as:\nk = 2π/λ\nk = 2π/1.25\nk = 2 × 3.142/1.25\nk = 6.284/1.25\nk = 5.03 rad/m\nk ≈ 5 rad/m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 922,
+    "question": "An object is embedded in a block of ice, 10 cm below the plane surface. if the refractive index of the ice is 1.50, the apparent depth below the surface is?",
+    "option": {
+      "a": " 2.50 cm",
+      "b": " 6.67 cm",
+      "c": " 7.50 cm",
+      "d": "7.63 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Refraction index, n = (real depth)/apparent depth\n1.5 = (10)/X\nX = (10)/1.5 = 6.67 cm",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

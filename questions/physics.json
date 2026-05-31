@@ -10478,5 +10478,69 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
+  },
+  {
+    "id": 83,
+    "question": "Which of the following statements are correct of nuclear fission? During the process \nI. energy is released \nII. More neutrons are released than those that cause fission \nIII. Small nuclei merge into large nuclei \nIV. There is a loss on mass\n",
+    "option": {
+      "a": "II and I only",
+      "b": "III",
+      "c": "I,II and IV",
+      "d": "IV and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 77,
+    "question": "  A gas at constant pressure of 4.0 x 105 Pa is cooled so that its volume decreases from 1.6m3 to 1.2m3. What work is performed by the gas? ",
+    "option": {
+      "a": "6.4 x 105 J ",
+      "b": "3.2 x 105 J  ",
+      "c": "1.6 x 105 J ",
+      "d": "0.4 x 105 J  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 193,
+    "question": "The heat required to raise a mass of a substance through 1K is known as",
+    "option": {
+      "a": "Specific heat capacity",
+      "b": "Specific latent heat of vaporization",
+      "c": "Capacity latent heat of fusion",
+      "d": "Heat capacity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Heat capacity is the heat required to raise a mass of a substance through 1K.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 307,
+    "question": "The time rate of loss of heat by a body is proportional to the",
+    "option": {
+      "a": " temperature of its surroundings",
+      "b": " temperature of the body",
+      "c": " difference in temperature between the body and its surroundings",
+      "d": "ratio of the temperature of the body to that of its surroundings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "According to Newton's Law of Cooling, the rate of heat loss is proportional to the temperature difference between the body and its surroundings.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

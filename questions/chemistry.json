@@ -11838,5 +11838,37 @@
     "solution": "Across a period, the number of valence electrons increases progressively from left to right (e.g., Period 3: Na=1, Mg=2, Al=3, Si=4, P=5, S=6, Cl=7, Ar=8). Elements in the same group have the same valence electrons (not shells); elements in the same period have the same number of electron shells. Non-metallic properties increase (not decrease) across a period.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 138,
+    "question": "The solubility in mol dm-3 of 20g of CuSO4 dissolved in 100g of water at 1800C is  [Cu = 64, S = 32, O = 16]",
+    "option": {
+      "a": "0.13",
+      "b": "0.25",
+      "c": "1.25",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 651,
+    "question": "An organic functional group which can likely decolourise ammoniacal silver nitrate is?",
+    "option": {
+      "a": "alkene",
+      "b": "alkane",
+      "c": "alkyne",
+      "d": "alkanol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Ammoniacal silver nitrate (Tollens' reagent) is used to test for terminal alkynes (those with a C≡C-H bond). Terminal alkynes react with ammoniacal silver nitrate to form a white precipitate of silver acetylide, effectively decolourising the reagent. Alkanes are unreactive, alkenes do not react with Tollens' reagent, and alkanols do not produce this reaction.",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

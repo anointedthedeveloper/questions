@@ -17649,5 +17649,43 @@
     "questionNub": 90,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1770,
+    "question": "Prolonged strike action <u>debilitated</u> the industry.",
+    "option": {
+      "a": "Stroyed.",
+      "b": "Invigorated.",
+      "c": "Isolated.",
+      "d": "Weakened."
+    },
+    "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "b",
+    "solution": "debilitated; in a very weakened and infirm state.\n\ninvigorate; give strength or energy to",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 11,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1645,
+    "question": "He walks in a <i>gawky</i> way",
+    "option": {
+      "a": "suitable",
+      "b": "clumsy",
+      "c": "lumbering",
+      "d": "graceful"
+    },
+    "section": "For this question, choose the option opposite in meaning to the word or phrase in italics ",
+    "image": "",
+    "answer": "d",
+    "solution": "<i>gawky</i>; nervously awkward and ungainly.\n\ngraceful; having or showing grace or elegance",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 33,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

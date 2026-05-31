@@ -6494,5 +6494,53 @@
     "solution": "Given information:\nCharles' Law states that at constant pressure, volume is directly proportional to absolute temperature: V ∝ T, or V/T = constant. This implies P is constant.\n\nSolution:\n\nStep 1: Interpret the given equation\nPᵃ Vᵇ Tᶜ = constant. For this to represent Charles' Law, pressure P must be constant. That means the factor Pᵃ must not vary, so its exponent a must be 0 (since P⁰ = 1).\n\nStep 2: Apply Charles' Law condition\nWith a = 0, the equation becomes Vᵇ Tᶜ = constant. Charles' Law requires V ∝ T, i.e., V¹ T⁻¹ = constant. Therefore, b = 1 and c = –1.",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 40,
+    "question": "Under constant tension and constant mass per unit length, the note produced by a plucked string is 500Hz when the length of the string is 0.90m, at what length is the frequency 150Hz?",
+    "option": {
+      "a": "6m ",
+      "b": "3m ",
+      "c": "5m ",
+      "d": "4m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 528,
+    "question": "Which of the following is/are not true about the heat capacity of a substance? (i) It is an intensive property (ii) Its S.I unit is jK⁻¹ (iii) It is an extensive property (iv) Its S.I unit is jkg⁻¹",
+    "option": {
+      "a": "(i) and (iii) only",
+      "b": "(i), (ii) and (iv) only",
+      "c": " (i) and (iv) only",
+      "d": "(ii) and (iii) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Heat capacity is an extensive property (depends on mass) with SI unit JK⁻¹. Statement (i) incorrectly calls it intensive, and statement (iv) gives the wrong unit (Jkg⁻¹ relates to specific energy, not heat capacity).",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 368,
+    "question": "A metal rod has a length of 100cm at 200°C. At what temperature will its length be 99.4cm, if the linear expansivity of the material of the rod is 2 × 10⁻⁵ °C⁻¹?",
+    "option": {
+      "a": "300°C",
+      "b": "200°C",
+      "c": "100°C",
+      "d": "-100°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial length (L₁) = 100 cm at temperature T₁ = 200°C\nFinal length (L₂) = 99.4 cm at temperature T₂ = ?\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\n\nFormula for linear expansion:\nL₂ = L₁[1 + α(T₂ - T₁)]\nSubstituting values:\n99.4 = 100[1 + 2 × 10⁻⁵(T₂ - 200)]\nDividing by 100:\n0.994 = 1 + 2 × 10⁻⁵(T₂ - 200)\nRearranging:\n0.994 - 1 = 2 × 10⁻⁵(T₂ - 200)\n-0.006 = 2 × 10⁻⁵(T₂ - 200)\nSolving for (T₂ - 200):\n(T₂ - 200) = -0.006/(2 × 10⁻⁵)\n(T₂ - 200) = -0.006/0.00002\n(T₂ - 200) = -300\nTherefore:\nT₂ = -300 + 200\nT₂ = -100°C",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

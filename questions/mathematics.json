@@ -15502,5 +15502,37 @@
     "solution": "1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20\nModal height = 1.35\nRange (r) = 1.50 - 1.20\n= 0.30\n∴m + 2r = 1.35 + 2(0.30)\n= 1.35 + 0.60\n= 1.95",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 362,
+    "question": "How many possible ways are there of seating seven people P,Q,R,S,T,U and V at a circular table",
+    "option": {
+      "a": "360",
+      "b": "720",
+      "c": "2520",
+      "d": "5040"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(n - 1)! = (7 - 1)!\n= 6!\n= 6*5*4*3*2*1\n= 720 ways",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 29,
+    "question": "If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure? ",
+    "option": {
+      "a": "0.01",
+      "b": "0.0051",
+      "c": "0.1",
+      "d": "0.005"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   }
 ]

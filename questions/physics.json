@@ -8430,5 +8430,37 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 641,
+    "question": "Tea pots are often silver-coated to prevent heat loss by",
+    "option": {
+      "a": "conduction only",
+      "b": "convention only",
+      "c": " convection and conduction",
+      "d": "radiation only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Teapots are often silver-coated to prevent heat loss by reflecting infrared radiation. Silver is a good reflector of thermal radiation, which helps to minimize heat loss from the teapot, keeping the contents warm for a longer period.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 166,
+    "question": "A structural engineer stood on a top of a building releasing a light and heavy object to the ground which of the following statement is true?(Neglect Air Resistance)",
+    "option": {
+      "a": "Both the light and heavy subject reach the ground at the same time",
+      "b": "The light object get to the ground first before the heavy object",
+      "c": "The heavy object to the ground first before the light object",
+      "d": "None get to the ground first"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(Neglect of Air resistance)\n\nNote: Both objects reach the ground at the same time",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

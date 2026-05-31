@@ -7646,5 +7646,165 @@
     "solution": "Duralumin is an alloy of Al, Cu, Mg, and Mn. Alnico is an alloy of Al, Ni, and Co. The only element common to both alloys is Aluminium (Al).",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 694,
+    "question": "Balance the following redox reaction: Fe₂O₃ + CO → Fe + CO₂",
+    "option": {
+      "a": "Fe₂O₃ + CO → 2Fe + 2CO₂",
+      "b": "2Fe₂O₃ + 3CO → 4Fe + 3CO₂",
+      "c": "Fe₂O₃ + 2CO → 2Fe + 2CO₂",
+      "d": "Fe₂O₃ + 3CO → 2Fe + 3CO₂"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Balancing Fe₂O₃ + CO → Fe + CO₂. Fe: 2 on left, so 2Fe on right. O: Fe₂O₃ has 3 oxygen atoms. Each CO takes 1 oxygen to become CO₂, so 3CO are needed to remove all 3 oxygens: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Check: Fe: 2=2; O: 3+3=6 on left, 6 on right; C: 3=3. Balanced.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 550,
+    "question": "The IUPAC nomenclature of the compound H₃C - CH(CH₃) - CH(CH₃) - CH₂ - CH₃",
+    "option": {
+      "a": "3,4-dimethylhexane",
+      "b": "2,3-dimethyl pentane",
+      "c": "2-ethyl hexane",
+      "d": "2,3-dimethylhexane"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The longest carbon chain: CH₃-CH(CH₃)-CH(CH₃)-CH₂-CH₃ contains 6 carbons (hexane). Methyl groups are on C2 and C3. IUPAC name: 2,3-dimethylhexane. Numbering from the end closest to the substituents gives positions 2 and 3, not 3 and 4.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 265,
+    "question": "Moving from left to right across a period, the general rise in the first ionization energy can be attributed to the",
+    "option": {
+      "a": "Increase in nuclear charge",
+      "b": "Decrease in screening effect",
+      "c": "Increase in screening effect",
+      "d": "Decrease in nuclear charge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 317,
+    "question": "An elements used in production of matches is",
+    "option": {
+      "a": "nitrogen",
+      "b": "aluminum",
+      "c": "copper",
+      "d": "sulphur"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Sulphur is used in the production of matches as a key component of the match head, where it acts as a fuel that ignites easily when the match is struck.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 50,
+    "question": "Steam changes the colour of anhydrous cobalt(II) chloride from",
+    "option": {
+      "a": "White to red",
+      "b": "Blue to white",
+      "c": "White to green",
+      "d": "Blue to pink"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 236,
+    "question": "If 30cm3 of a gas at 500C is warmed to 800C at a fixed pressure. The fractional increase in volume is",
+    "option": {
+      "a": "0.91",
+      "b": "0.009",
+      "c": "1.09",
+      "d": "0.093"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 85,
+    "question": "When cathode rays are detected onto the electrode of an electrometer, the instrument becomes",
+    "option": {
+      "a": "Negatively charged",
+      "b": "Positively charged",
+      "c": "Neutral",
+      "d": "Bipolar"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 657,
+    "question": "2H₂ + O₂ → 2H₂O. From the equation above, calculate the volume of unreacted oxygen gas if a mixture of 50cm³ of hydrogen and 75cm³ of oxygen are involved.",
+    "option": {
+      "a": "85cm³",
+      "b": "50cm³",
+      "c": "125cm³",
+      "d": "55cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "From the equation: 2 volumes H₂ react with 1 volume O₂. Volume of O₂ needed to react with 50cm³ H₂ = 50/2 = 25cm³. Volume of O₂ available = 75cm³. Volume of O₂ unreacted = 75 − 25 = 50cm³.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 207,
+    "question": "In which of the following reactions can the oxidation number of nitrogen be said to have increased",
+    "option": {
+      "a": "FeSO4(aq)  +  NO(g) →   Fe(NO)SO4(S)",
+      "b": "2NO(g)  +  O2(g) → 2NO2(g)",
+      "c": "NO(g)  +  CI2(g)  → NOCI2(l)",
+      "d": "NO(g)  +  Br2(l)   → NOBr2(l)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 345,
+    "question": "Detergents are manufactured with straight hydrocarbon chains, is to make them",
+    "option": {
+      "a": "soluble",
+      "b": "biodegradable",
+      "c": "cheaper",
+      "d": "foamy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Detergents with straight (unbranched) hydrocarbon chains are biodegradable because soil bacteria can break down straight chains enzymatically. Branched-chain detergents resist bacterial degradation and cause persistent foam pollution in water bodies.",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

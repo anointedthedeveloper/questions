@@ -16766,5 +16766,21 @@
     "solution": " Arrange in ascending order\n2, 5, 5, 6, 6, ,6, 6, 8, 8\nPosition of median = N/2 = 8/2 = 4th and 5th\nâˆ´Median = (6+6) / 2 = 12/2 = 6\nMode the item that repeat itself most = 6\nâˆ´Product of modal and median number = 6 x 6 = 36",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 165,
+    "question": "The bar chart above shows different colours of passing a particular point of a certain street in two minutes. What fraction of the total number of cars is yellow?",
+    "option": {
+      "a": " 3/25",
+      "b": "2/25",
+      "c": "1/5",
+      "d": " 4/15"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696737/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_44_vvchkb.jpg",
+    "answer": "a",
+    "solution": "Number of yellow cars = 3\nTotal number of cars = 3 + 4 + 8 + 2 + 6 + 2 = 25\nFraction of yellow cars = 3/25",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

@@ -11390,5 +11390,21 @@
     "solution": "The penetrating power of alpha rays, beta rays, and gamma rays varies greatly. Alpha particles can be blocked by a few pieces of paper. Beta particles pass through paper but are stopped by aluminum foil. Gamma rays are the most difficult to stop and require concrete, lead, or other heavy shielding to block them.\n\nTherefore, X = γ-ray; Y = α-particle; Z = β-particle",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 354,
+    "question": "A vibrator causes water ripples to travel across the surface of a tank. The wave travels 50cm in 2s and the distance between successive crests is 5cm. Calculate the frequency of the vibrator",
+    "option": {
+      "a": "5Hz",
+      "b": "6Hz",
+      "c": "5.2Hz",
+      "d": "25Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDistance traveled = 50 cm\nTime = 2 s\nDistance between successive crests (wavelength, λ) = 5 cm = 0.05 m\nFrequency (f) = ?\n\nStep 1: Calculate wave speed\nSpeed (v) = Distance/Time\nv = 50/2 = 25 cm/s = 0.25 m/s\nStep 2: Use wave equation\nv = fλ\nRearranging to find frequency:\nf = v/λ\nSubstituting values:\nf = 25/5 = 5 Hz",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

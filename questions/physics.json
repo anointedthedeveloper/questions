@@ -6414,5 +6414,85 @@
     "solution": "Given information:\nInitial number of atoms, N₀ = 10²⁰\nHalf‑life, T = 20 s\n\nSolution:\n\nStep 1: Calculate decay constant\nλ = ln 2 / T = 0.693 / 20 = 0.03465 s⁻¹\n\nStep 2: Initial activity\nActivity A₀ = λ N₀ = 0.03465 × 10²⁰ = 3.465 × 10¹⁸ s⁻¹\n\nStep 3: Number of disintegrations in first second\nSince the time interval (1 s) is much smaller than the half‑life, the activity remains nearly constant. Thus, the number of disintegrations ≈ A₀ × 1 s = 3.465 × 10¹⁸.",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 768,
+    "question": "When an object is placed between the principal focus and the optical center of a convex lens, it could be used as a?",
+    "option": {
+      "a": "Simple microscope",
+      "b": "refecting lens",
+      "c": "compound microscope",
+      "d": "projector"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Simple microscope: A single convex lens used to magnify small objects. It allows the viewer to see details that are not visible to the naked eye.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 431,
+    "question": "Which of the following is not a vector quantity?",
+    "option": {
+      "a": "momentum",
+      "b": "force",
+      "c": "temperature",
+      "d": "displacement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Temperature is NOT a vector quantity. It is a scalar quantity because it has magnitude only and no direction associated with it.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1045,
+    "question": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5 ms⁻². [g = 10 ms⁻²]",
+    "option": {
+      "a": " 686 N",
+      "b": "595 N",
+      "c": "581 N",
+      "d": "105 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nMass (m) = 70 kg\nAcceleration of elevator (a) = 1.5 m/s² (downward)\ng = 10 m/s²\nApparent weight loss = ?\n\nUnderstanding apparent weight:\nWhen elevator accelerates downward:\n\nMan experiences reduced normal force from floor\nFeels lighter than usual\nApparent weight < Actual weight\n\nStep 1: Calculate actual weight\nActual weight (W) = mg\nW = 70 × 10\nW = 700 N\nStep 2: Calculate apparent weight\nWhen elevator accelerates downward with acceleration a:\nApparent weight = m(g - a)\nApparent weight = 70(10 - 1.5)\nApparent weight = 70 × 8.5\nApparent weight = 595 N\nStep 3: Calculate apparent weight loss\nWeight loss = Actual weight - Apparent weight\nWeight loss = 700 - 595\nWeight loss = 105 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 780,
+    "question": "The fundamental frequency of a plucked wire under a tension of 400N is 250Hz. When the frequency is changed to 500 Hz at constant length, the tension is",
+    "option": {
+      "a": "1600N",
+      "b": "400N",
+      "c": "160N",
+      "d": "40N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial tension, T₁ = 400 N\nInitial frequency, f₁ = 250 Hz\nFinal frequency, f₂ = 500 Hz\nLength and linear density are constant.\n\nSolution:\n\nStep 1: Relationship for a stretched string\nThe fundamental frequency is given by:\nf = (1/(2L)) √(T/μ)\nThus, for constant L and μ, f ∝ √T.\n\nStep 2: Set up ratio\nf₂ / f₁ = √(T₂ / T₁)\n\nStep 3: Substitute values\n500 / 250 = √(T₂ / 400)\n2 = √(T₂ / 400)\n\nStep 4: Square both sides\n4 = T₂ / 400\nT₂ = 4 × 400 = 1600 N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 1096,
+    "question": "The equation PᵃVᵇTᶜ = constant reduces to Charles' Law if",
+    "option": {
+      "a": " a=1, b=1, c=0",
+      "b": " a=1, b=0, c=-1",
+      "c": "a=0, b=1, c=1",
+      "d": "a=0, b=1, c=-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nCharles' Law states that at constant pressure, volume is directly proportional to absolute temperature: V ∝ T, or V/T = constant. This implies P is constant.\n\nSolution:\n\nStep 1: Interpret the given equation\nPᵃ Vᵇ Tᶜ = constant. For this to represent Charles' Law, pressure P must be constant. That means the factor Pᵃ must not vary, so its exponent a must be 0 (since P⁰ = 1).\n\nStep 2: Apply Charles' Law condition\nWith a = 0, the equation becomes Vᵇ Tᶜ = constant. Charles' Law requires V ∝ T, i.e., V¹ T⁻¹ = constant. Therefore, b = 1 and c = –1.",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

@@ -16046,5 +16046,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 854,
+    "question": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km?",
+    "option": {
+      "a": " 720 litres",
+      "b": "160 litres",
+      "c": "225 litres",
+      "d": "960 litres"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "120km → 45litres\n1km → 45/120litres\n600km → 45/120 x 600 =225litres",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

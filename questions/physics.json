@@ -9678,5 +9678,37 @@
     "solution": "Gamma rays cannot be deflected by both electric and magnetic fields.",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 510,
+    "question": "Name the type of equilibrium for each position of the ball",
+    "option": {
+      "a": "A - unstable, B - neutral, C - stable",
+      "b": "A - stable, B - neutral, C - unstable",
+      "c": "A - stable, B - unstable, C - neutral",
+      "d": "A - unstable, B - stable, C - neutral"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614783/ALOC-Questions/Physics/2023/physics_2023-Q11_nw4jov.jpg",
+    "answer": "d",
+    "solution": "Object A will undergo unstable equilibrium as it can move farther from its original position\n\nObject B will undergo stable equilibrium as it can return to its original position\n\nObject C will undergo neutral equilibrium as it can remain in a new position",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 531,
+    "question": "A block of mass 0.5 kg is suspended at the 40 cm mark of a light metre rule AB that is pivoted at point E, the 90 cm mark, and is kept at equilibrium by a string attached at point D, the 60 cm mark, as shown in the figure above. Find the tension T in the string. [Take g = 10ms⁻²]",
+    "option": {
+      "a": "16.67N",
+      "b": "15.67N",
+      "c": "14.67N",
+      "d": "18.67N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614955/ALOC-Questions/Physics/2023/physics_2023-Q32_awom7h.png",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of block, m = 0.5 kg\nPosition of block (C) = 40 cm mark\nPosition of pivot (E) = 90 cm mark\nPosition of string (D) = 60 cm mark\nAngle of string = 30° to the horizontal\ng = 10 m/s²\n\nSolution:\nStep 1: Calculate weight of block\nW = mg\nW = 0.5 × 10\nW = 5 N (acting downward at C)\nStep 2: Determine perpendicular distances from pivot E\nDistance from E to C:\ndC = 90 - 40 = 50 cm = 0.50 m\nDistance from E to D:\ndD = 90 - 60 = 30 cm = 0.30 m\nStep 3: Resolve tension into vertical component\nThe vertical component of tension creates the moment:\nTvertical = T sin 30° = T × 0.5 = 0.5T\nStep 4: Apply principle of moments (about pivot E)\nFor equilibrium, clockwise moment = anticlockwise moment\nMoment due to weight = Moment due to tension\nW × dC = Tvertical × dD\n5 × 0.50 = 0.5T × 0.30\n2.5 = 0.15T\nStep 5: Solve for tension\nT = 2.5/0.15\nT = 16.67 N",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

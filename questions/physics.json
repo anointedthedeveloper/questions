@@ -10302,5 +10302,69 @@
     "solution": "A compound microscope uses two convex lenses: an objective lens (near the object) and an eyepiece lens (near the eye). To achieve high magnification, both lenses need to have short focal lengths.",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 363,
+    "question": "The earth's gravitational field intensity at its surface is about (G = 6.7 × 10⁻¹¹ Nm²/kg², mass of the earth is 6 × 10²⁴ kg, radius of the earth is 6.4 × 10⁶ m, g on the earth = 9.8 m/s²)",
+    "option": {
+      "a": "6.7 N/kg",
+      "b": " 7.9 N/kg",
+      "c": "8.0 N/kg",
+      "d": "9.8 N/kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding gravitational field intensity:\nGravitational field intensity (g) is the force per unit mass at a point in the gravitational field.\nFormula:\ng = GM/R²\nwhere:\n\nG = gravitational constant = 6.7 × 10⁻¹¹ Nm²/kg²\nM = mass of Earth = 6 × 10²⁴ kg\nR = radius of Earth = 6.4 × 10⁶ m\n\nCalculating:\ng = (6.7 × 10⁻¹¹ × 6 × 10²⁴)/(6.4 × 10⁶)²\ng = (40.2 × 10¹³)/(40.96 × 10¹²)\ng = (40.2 × 10¹³)/(4.096 × 10¹³)\ng = 40.2/4.096\ng ≈ 9.8 N/kg",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 134,
+    "question": "A stroboscope can be used to make the wave appear …………..",
+    "option": {
+      "a": "Stationary",
+      "b": "In motion",
+      "c": "Dipper",
+      "d": "Ripple"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Stroboscope is a scientific instrument used to make a wave appears stationary when used",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 165,
+    "question": "For a best result using temperature to achieve an accurate measurement, it is best to use",
+    "option": {
+      "a": "Mercury thermometer",
+      "b": "gas thermometer",
+      "c": "clinical thermometer",
+      "d": "alcohol thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A gas thermometers are more besting use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 129,
+    "question": "To convert an a.c generator to d.c generator, one needs to ",
+    "option": {
+      "a": "Remove the brush touching the slip rings ",
+      "b": "Laminate the armature ",
+      "c": "Replace the permanent magnets with  iron-core armature. ",
+      "d": "replace the slip rings with split rings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   }
 ]

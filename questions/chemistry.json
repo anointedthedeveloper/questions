@@ -11806,5 +11806,21 @@
     "solution": "In an energy profile diagram, the activation energy is the minimum energy required for a reaction to occur. It is represented by the energy difference between the reactants and the peak of the curve (transition state). Arrow y in the diagram points from the reactant energy level up to the peak (t), which represents the activation energy. ΔH represents the overall energy change between reactants and products.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 523,
+    "question": "By what amount must the temperature of 200 cm³ of nitrogen at 27°C be increased to double the pressure if the final volume is 150 cm³? (Assume ideality)",
+    "option": {
+      "a": "150°C",
+      "b": "177°C",
+      "c": "75°C",
+      "d": "120°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using the general gas law: P₁V₁/T₁ = P₂V₂/T₂. T₁ = 27 + 273 = 300 K, V₁ = 200 cm³, P₂ = 2P₁, V₂ = 150 cm³. T₂ = T₁ × (P₂ × V₂)/(P₁ × V₁) = 300 × (2 × 150)/200 = 300 × 1.5 = 450 K. Increase in temperature = 450 - 300 = 150 K = 150°C.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

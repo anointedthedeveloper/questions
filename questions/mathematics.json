@@ -15198,5 +15198,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 115,
+    "question": "If the diagram is the graph of y = x<sup>2</sup>, the shaded area is",
+    "option": {
+      "a": " 64 square units",
+      "b": "126/4 square units",
+      "c": "32 square units",
+      "d": "64/3 square units"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710692111/ALOC-Questions/Mathematics/2000/question-44_oul7ru.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 278,
+    "question": "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR",
+    "option": {
+      "a": " The diagonal QS",
+      "b": "the perpendicular bisector of PQ",
+      "c": "The diagonal PR",
+      "d": "side SR"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The diagonal QS bisects the angle formed by PQ and QR\n∴ [A]",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

@@ -7614,5 +7614,69 @@
     "solution": "Step 1: Define Young's modulus\nYoung's modulus (E) is defined as:\nE = Stress/Strain\nStep 2: Determine dimensions of stress\nStress = Force/Area\nForce = Mass × Acceleration = MLT⁻²\nArea = L²\nStress = MLT⁻²/L² = ML⁻¹T⁻²\nStep 3: Determine dimensions of strain\nStrain = Change in length/Original length = L/L\nStrain is dimensionless (no units)\nStep 4: Calculate dimensions of Young's modulus\nE = Stress/Strain\nE = ML⁻¹T⁻²/1\nE = ML⁻¹T⁻²",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 1066,
+    "question": "If the linear magnification of the objective and eyepiece convex lenses of a compound microscope are 4 and 7 respectively. Calculate the angular magnification of the microscope",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "11",
+      "d": "28"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nLinear magnification of objective = 4\nLinear magnification of eyepiece = 7\n\nSolution:\n\nStep 1: Total magnification of a compound microscope\nThe overall angular magnification (or total magnification) is the product of the magnification of the objective and the magnification of the eyepiece.\n\nStep 2: Multiply the magnifications\nTotal magnification = 4 × 7 = 28",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 815,
+    "question": "A block of aluminum is heated electrically by a 25W heater. If the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is?",
+    "option": {
+      "a": " 850 JK⁻¹",
+      "b": "750 JK⁻¹",
+      "c": " 650 JK⁻¹",
+      "d": "500 JK⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPower (P) = 25 W\nTemperature rise (ΔT) = 10°C = 10 K\nTime (t) = 5 minutes = 5 × 60 = 300 seconds\nHeat capacity (C) = ?\n\nStep 1: Calculate total heat energy supplied\nEnergy = Power × Time\nQ = P × t\nQ = 25 × 300\nQ = 7500 J\nStep 2: Calculate heat capacity\nHeat capacity is the heat required to raise the temperature of an object by 1K:\nQ = CΔT\nRearranging for C:\nC = Q/ΔT\nSubstituting values:\nC = 7500/10\nC = 750 JK⁻¹",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 576,
+    "question": "How much joules of heat are given out when a piece of iron, of mass 60g and specific heat capacity 460JKg⁻¹K⁻¹, cools from 75ºC to 35ºC",
+    "option": {
+      "a": "1000J",
+      "b": "1050J",
+      "c": "1067J",
+      "d": "1104J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 60 g = 0.06 kg\nSpecific heat capacity, c = 460 J/(kg·K)\nInitial temperature, T₁ = 75°C\nFinal temperature, T₂ = 35°C\nHeat given out, Q = ?\n\nSolution:\nStep 1: Calculate temperature change\nΔT = T₁ - T₂\nΔT = 75 - 35\nΔT = 40°C = 40 K\nStep 2: Apply heat energy formula\nQ = mcΔT\nStep 3: Substitute the known values\nQ = 0.06 × 460 × 40\nStep 4: Calculate heat given out\nQ = 0.06 × 460 × 40\nQ = 27.6 × 40\nQ = 1104 J",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 912,
+    "question": "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts?",
+    "option": {
+      "a": " the level of water goes up",
+      "b": "the water in the glass outflows",
+      "c": " the level of water remains unchanged",
+      "d": "the level of water drops"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Due to anomalous expansion of water at temperature range (0 - 4)°c, when a given mass of water turns into ice, its volume will increase, while the mass remains constant. Thus, when a given volum of ice melts, the volume of water formed will be less than the volume of ice. Hence, the level of water in the container will drop.",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

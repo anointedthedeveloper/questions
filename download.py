@@ -111,8 +111,14 @@ def smart_request(subject):
 
 def load_locks():
     if os.path.exists(LOCK_FILE):
-        with open(LOCK_FILE) as f:
-            return json.load(f)
+        try:
+            with open(LOCK_FILE) as f:
+                content = f.read().strip()
+                if not content:
+                    return {"locks": {}}
+                return json.loads(content)
+        except (json.JSONDecodeError, Exception):
+            return {"locks": {}}
     return {"locks": {}}
 
 def save_locks(locks):
@@ -120,40 +126,38 @@ def save_locks(locks):
         json.dump(locks, f, indent=2)
 
 def claim_subject(subject):
-    """Try to claim a subject. Returns True if claimed, False if another machine owns it."""
-    data = load_locks()
-    locks = data.get("locks", {})
-    now = time.time()
-
-    if subject in locks:
-        owner = locks[subject]["machine"]
-        claimed_at = locks[subject]["time"]
-        # allow claim if it's ours or lock has expired
-        if owner != MACHINE_ID and now - claimed_at < LOCK_TIMEOUT:
-            print(f"  [{subject}] claimed by {owner}, skipping")
-            return False
-
-    locks[subject] = {"machine": MACHINE_ID, "time": now}
-    data["locks"] = locks
-    save_locks(data)
-    return True
+    with file_lock_mutex:
+        data = load_locks()
+        locks = data.get("locks", {})
+        now = time.time()
+        if subject in locks:
+            owner = locks[subject]["machine"]
+            claimed_at = locks[subject]["time"]
+            if owner != MACHINE_ID and now - claimed_at < LOCK_TIMEOUT:
+                print(f"  [{subject}] claimed by {owner}, skipping")
+                return False
+        locks[subject] = {"machine": MACHINE_ID, "time": now}
+        data["locks"] = locks
+        save_locks(data)
+        return True
 
 def release_subject(subject):
-    data = load_locks()
-    locks = data.get("locks", {})
-    if subject in locks and locks[subject]["machine"] == MACHINE_ID:
-        del locks[subject]
-        data["locks"] = locks
-        save_locks(data)
+    with file_lock_mutex:
+        data = load_locks()
+        locks = data.get("locks", {})
+        if subject in locks and locks[subject]["machine"] == MACHINE_ID:
+            del locks[subject]
+            data["locks"] = locks
+            save_locks(data)
 
 def renew_lock(subject):
-    """Renew lock timestamp so it doesn't expire mid-download."""
-    data = load_locks()
-    locks = data.get("locks", {})
-    if subject in locks and locks[subject]["machine"] == MACHINE_ID:
-        locks[subject]["time"] = time.time()
-        data["locks"] = locks
-        save_locks(data)
+    with file_lock_mutex:
+        data = load_locks()
+        locks = data.get("locks", {})
+        if subject in locks and locks[subject]["machine"] == MACHINE_ID:
+            locks[subject]["time"] = time.time()
+            data["locks"] = locks
+            save_locks(data)
 
 
 def load_progress():

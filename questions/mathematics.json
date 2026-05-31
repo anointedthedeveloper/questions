@@ -14222,5 +14222,21 @@
     "solution": "√6+2)<sup>2</sup> −(√6−2)<sup>2</sup>  =  [(√6+2)+(√6 − 2)][(√6 + 2) − (√6 − 2)]\n\n= (√6 + 2 + √6 − 2)(√6 + 2− √6 + 2)]\n\n\n= (2√6)(4)\n\n\n= 8√6",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 556,
+    "question": "If s = (2 + 3t)(5t - 4), find ds/dt when t = 4/5 secs",
+    "option": {
+      "a": "0 units per sec",
+      "b": "15 units per sec",
+      "c": "22 unit per sec",
+      "d": "26 units per sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "x = (2+3t)(5t-4)\nLet u = 2+3t ∴du/dt = 3\nand v = 5t-4 ∴dv/dt = 5\ndx/dt = Vdu/dt + Udv/dt\n= (5t-4)3 + (2+3t)5\n= 15t - 12 + 10 + 15t\n= 30t - 2\n= 30x4/5 - 2\n= 24 - 2\n= 22",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

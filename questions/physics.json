@@ -5262,5 +5262,69 @@
     "solution": "Given information:\n\nLength (L) = 5.0 m\nCross-sectional area (A) = 2.0 × 10⁻⁶ m²\nResistance (R) = 0.5 Ω\nResistivity (ρ) = ?\n\nFormula for resistance:\nR = ρL/A\nRearranging for resistivity:\nρ = RA/L\nSubstituting values:\nρ = (0.5 × 2.0 × 10⁻⁶)/5.0\nρ = (1.0 × 10⁻⁶)/5.0\nρ = 0.2 × 10⁻⁶\nρ = 2.0 × 10⁻⁷ Ωm",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 543,
+    "question": "The branch of physics that deals with the motion of objects and the forces acting on them is called:",
+    "option": {
+      "a": "Electromagnetism",
+      "b": "Thermodynamics",
+      "c": "Mechanics",
+      "d": "Quantum mechanics"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mechanics is the branch of physics that deals with the motion of objects and the forces acting on them. It is the foundation of all other branches of physics, and it is used to study everything from the motion of planets to the motion of electrons.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 674,
+    "question": "When very hot water is poured into two identical thin and thick glass tumblers in equal volumes, the thick one cracks because?",
+    "option": {
+      "a": "of the even expansion of glass",
+      "b": "glass is a crystal",
+      "c": "glass is a good conductor of heat",
+      "d": "of the uneven expansion of glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Thick glass has a greater temperature gradient between the inner and outer surfaces because glass is a poor conductor (so heat does not quickly transfer through the thickness). The inner surface expands more than the outer, leading to cracking. Thin glass heats more evenly.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 904,
+    "question": "A machine of velocity ratio 6 requires an effort of 400 N to raise a load of 800 N through 1 m. Find the efficiency of the machine",
+    "option": {
+      "a": "55. 6 %",
+      "b": "50.00%",
+      "c": "33.30%",
+      "d": "22.20%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nVelocity Ratio (V.R) = 6\nEffort (E) = 400 N\nLoad (L) = 800 N\nDistance load raised = 1 m\nEfficiency = ?\n\nStep 1: Calculate Mechanical Advantage (M.A)\nM.A = Load/Effort\nM.A = 800/400\nM.A = 2\nStep 2: Calculate Efficiency\nEfficiency = (M.A/V.R) × 100%\nSubstituting values:\nEfficiency = (2/6) × 100%\nEfficiency = (1/3) × 100%\nEfficiency = 33.33%\nEfficiency ≈ 33.3%",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 268,
+    "question": "If silicon is doped with phosphorus, what type of semiconductor material will be formed?",
+    "option": {
+      "a": "Zener material",
+      "b": "P-n junction",
+      "c": "n-type",
+      "d": "p-type"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When silicon is doped with phosphorus, an n-type semiconductor material is formed due to the extra free electrons provided by phosphorus atoms.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

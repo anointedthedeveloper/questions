@@ -16446,5 +16446,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 337,
+    "question": "If the 7th term of an AP is twice the third term and the sum of the first four terms is 42, find the common difference.",
+    "option": {
+      "a": "6",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "U7 = a + (7 - 1)d\n= a + 6d\nU3 = a + (3 - 1)d\n= a + 2d\nBut U7 = 2(U3)\n∴a + 6d = 2(a + 2d)\na + 6d = 2a + 4d\n2a - a + 4d - 6d = 0\na - 2d = 0 → eqn1\nSn = n/2 (2a + (n - 1)d)\n42 = 4/2 (2a + (4 - 1)d)\n42 = 2(2a + 3d)\n21 = 2a + 3d → eqn2\neqn1 * eqn2 0 = 2a - 4d\n21 = 7d\n∴d = 21/7\nd = 3",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1181,
+    "question": "A rectangular plot of land has sides with lengths of 38 m and 52 m corrected to the nearest m. Find the range of the possible values of the area of the rectangle",
+    "option": {
+      "a": " 1931.25 m<sup>2</sup> ≤ A < 2021.25 m<sup>2</sup>",
+      "b": " 1950 m<sup>2</sup>\n ≤ A < 2002m<sup>2</sup>",
+      "c": "1957 m<sup>2</sup>\n ≤ A < 1995 m<sup>2</sup>",
+      "d": "1931.25 m<sup>2</sup>\n ≥ A > 2021.25 m<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The sides have been given to the nearest meter, so\n\n51.5 m ≤ length < 52.5\n\n37.5 m ≤ width < 38.5\n\nMinimum area = 37.5 x 51.5 = 1931.25 m<sup>2</sup>\n\n\nMaximum area = 38.5 x 52.5 = 2021.25 m<sup>2</sup>\n\n\n∴ The range of the area = 1931.25 m<sup>2</sup> ≤ A < 2021.25 m<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

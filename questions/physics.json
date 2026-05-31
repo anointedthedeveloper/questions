@@ -3582,5 +3582,85 @@
     "solution": "A pure spectrum can be produced using a triangular prism-two converging lenses and a narrow slit of white light",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 81,
+    "question": "The superposition of two or more waves to produce a maximum or zero effect at a point is known as: ",
+    "option": {
+      "a": "reflection ",
+      "b": "refraction ",
+      "c": "diffraction ",
+      "d": "interference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 256,
+    "question": "How can energy loss be minimized through Eddy-current?",
+    "option": {
+      "a": "By using high resistance wire",
+      "b": "By using insulated soft iron wires",
+      "c": " By using low resistance wires",
+      "d": "By using turns of wires"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Understanding Eddy currents:\nEddy currents are circular electric currents induced in conductors when exposed to changing magnetic fields. They cause energy loss as heat (I²R losses).\nHow to minimize Eddy current losses:\nThe key is to reduce the paths available for eddy currents to flow.\nMethod: Lamination\n\nUse thin sheets (laminations) of the magnetic core material\nInsulate each sheet from the others\nThis breaks up the continuous conducting path\nEddy currents are confined to smaller loops within each lamination\nSmaller current loops = less energy loss\n\nEnergy loss through eddy currents is minimized by using laminated (insulated soft iron) cores, which break up the conducting paths and reduce eddy current circulation.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 813,
+    "question": "During summer, the balance wheel of a clock expands.what effect does this have on the accuracy of the clock?",
+    "option": {
+      "a": " the clock gians time",
+      "b": "the accuracy of the clock is not affected",
+      "c": "the clock losses time",
+      "d": "the clock stops working"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The elastic potential energy of the balance wheel reduces as the wheel expands, therefore the clock will loose time.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 267,
+    "question": "When two mirrors are placed at an angle of 90º to each other, how many images will be formed when an object is placed in front of the mirrors",
+    "option": {
+      "a": "5",
+      "b": "4",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When two plane mirrors are placed at an angle, multiple images are formed due to repeated reflections. The number of images depends on the angle between the mirrors. At 90°, three images are formed.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 1156,
+    "question": "A well-lagged thin metal rod of length 0.2 m has a temperature gradient of 416 K m⁻¹. If one end is at 233 °C, what is the temperature at the other end?",
+    "option": {
+      "a": "141.20 °C",
+      "b": "257.48 °C",
+      "c": " 408.60 °C",
+      "d": "316.28 °C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nLength of rod, L = 0.2 m\nTemperature gradient = 416 K m⁻¹\nTemperature at one end, T₁ = 233 °C\n\nSolution:\n\nStep 1: Interpret temperature gradient\nTemperature gradient = (T₂ – T₁) / L, where T₂ is the temperature at the other end.\n\nStep 2: Rearrange to find T₂\nT₂ – T₁ = temperature gradient × L\nT₂ = T₁ + (temperature gradient × L)\n\nStep 3: Substitute values\nT₂ = 233 °C + (416 K m⁻¹ × 0.2 m)\nNote: A change of 1 K is the same as a change of 1 °C, so we can work in °C directly.\nT₂ = 233 + 83.2 = 316.2 °C",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

@@ -13486,5 +13486,37 @@
     "solution": "Let the extension be E and the tension be T.\n\nThen E∝T\nE=kT\nwhen T = 8N, E = 2cm\n\n2=k × 8\nk = 2/8 = 0.25\n∴ E = 0.25T\nwhen T = 12N, E = 0.25 × 12 =3 cm",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 281,
+    "question": "If y = 3 cos(x/3), find dy/dx when x = (3π/2)",
+    "option": {
+      "a": "1",
+      "b": "-3",
+      "c": "2",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = 3cos(x/3)\ndy/dx = 3x(1/3)x - sin (x/3)\n= - sin x/3\nBut x = 3π/2 ∴ -sin(x/3) = -sin(3π/6)\n= -sin (3 * 180)/6\n= - sin 90\n= -1",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1154,
+    "question": "A committee of 5 people is to be chosen from a group of 6 men and 4 women. How many committees are possible if there is to be a majority of women?",
+    "option": {
+      "a": " 60",
+      "b": "15",
+      "c": " 66",
+      "d": " 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "If the majority are women implies that:\n\n3 Women and 2 Men Or 4 Women and 1 Man\n\n= <sup>4</sup>C<sub>3</sub> × <sup>6</sup>C<sub>2</sub> + <sup>4</sup>C<sub>4</sub> × <sup>6</sup>C<sub>1</sub>\n= 4 × 15 +1 × 6\n= 60 + 6 = 66",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

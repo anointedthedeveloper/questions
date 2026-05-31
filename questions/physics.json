@@ -12014,5 +12014,37 @@
     "solution": "The symbol ₋₁⁰X shows:\n\n0 (top) = mass number (electrons have negligible mass)\n-1 (bottom) = charge (electrons are negatively charged)\n\nAnswer: C. Electrons\nElectrons have zero mass and a charge of -1, which matches the symbol ₋₁⁰X.",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 334,
+    "question": "According to kinetic molecular model, in gases",
+    "option": {
+      "a": "The molecule are very fast apart & occupy all the space made available",
+      "b": "The particles occur in clusters with molecules slightly farther apart",
+      "c": "The particles vibrate about fixed positions and are held together by the strong intermolecular bond between them",
+      "d": "The particles are closely packed together, they occupy minimum space & are usually arranged in a regular pattern"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "According to the kinetic molecular model, gas molecules are very far apart relative to their size and occupy all available space in their container.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 561,
+    "question": "A solid cube of aluminum is 1.5cm on each edge. The density of aluminum is 2700kgm⁻³. Find the mass of the cube.",
+    "option": {
+      "a": " 7.5g",
+      "b": " 9.1g",
+      "c": "12.0g",
+      "d": "15.0g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLength of each edge, L = 1.5 cm = 0.015 m\nDensity of aluminum, ρ = 2700 kg/m³\nMass, m = ?\n\nSolution:\nStep 1: Calculate volume of the cube\nVolume = L³\nV = (0.015)³\nV = 3.375 × 10⁻⁶ m³\nStep 2: Apply density formula\nDensity = Mass/Volume\nρ = m/V\nm = ρV\nStep 3: Substitute values\nm = 2700 × 3.375 × 10⁻⁶\nm = 9112.5 × 10⁻⁶ kg\nm = 9.1125 × 10⁻³ kg\nStep 4: Convert to grams\nm = 9.1125 g\nm ≈ 9.1 g",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

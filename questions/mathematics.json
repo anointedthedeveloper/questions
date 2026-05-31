@@ -16958,5 +16958,21 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 367,
+    "question": "From the diagram given, find the bearing of R from S",
+    "option": {
+      "a": "226°",
+      "b": "224°",
+      "c": "136°",
+      "d": "134°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702538/ALOC-Questions/Mathematics/2005/math_2005_q46_dluvgl.jpg",
+    "answer": "b",
+    "solution": "The bearing of R from S = 180 + 44 = 224°",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

@@ -19739,5 +19739,43 @@
     "questionNub": 43,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1156,
+    "question": "The <u>exhibition</u> was an eye opener to all",
+    "option": {
+      "a": "style",
+      "b": "examination",
+      "c": "dispatch",
+      "d": "display"
+    },
+    "section": "In each of questions 56 to 65, choose the option <b>nearest</b> in meaning to the word or phrase underlined.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "Exhibition; a public display of works of art or items of interest, held in an art gallery or museum or at a trade fair.",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 64,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1291,
+    "question": "I only visited Chidi. This means that",
+    "option": {
+      "a": "None of the above",
+      "b": "I didn't do anything asides visiting Chidi",
+      "c": " I didn't go with anyone to visit Chidi",
+      "d": "I visited Chidi and his friends"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The general rule is adverbs should be placed next to the thing they modify. Here, the adverb is modifying visited .",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 38,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

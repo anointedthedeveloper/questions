@@ -11566,5 +11566,37 @@
     "solution": "x<sub>10</sub> = 23<sub>5</sub>\nx<sub>10</sub> = 2 x 5<sup>1</sup> + 3 x 5<sup>0</sup>\n= 10 + 3\n= x<sub>10</sub> = 13",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 1218,
+    "question": "Evaluate ∫sin2xdx",
+    "option": {
+      "a": "cos 2x + k",
+      "b": "1/2cos 2x + k",
+      "c": "−1/2\ncos 2x + k",
+      "d": " -cos 2x + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫sin2xdx =1/2(−cos2x) + k\n\n\n−1/2cos2x + k",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 609,
+    "question": "The interior angles of a quadrilateral are (x + 15)°, (2x - 45)°, ( x - 30)° and (x + 10)°. Find the value of the least interior angle.",
+    "option": {
+      "a": "112°",
+      "b": "102°",
+      "c": "82°",
+      "d": "52°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "(x + 15)o + (2x - 45)o + (x + 10)o = (2n - 4)90o\n\nwhen n = 4\n\nx + 15o + 2x - 45o + x - 30o + x + 10o = (2 x 4 - 4) 90o\n\n5x - 50° = (8 - 4)90°\n\n5x - 50° = 4 x 90° = 360°\n\n5x = 360° + 50°\n\n5x = 410°\n\nx = 410°/5\n\n= 82°\n\nHence, the value of the least interior angle is (x - 30°)\n\n= (82 - 30)°\n\n= 52°",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

@@ -8382,5 +8382,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 642,
+    "question": "An organic compound which liberates carbon(iv)oxide from trioxocarbonate(iv) solution is likely to be?",
+    "option": {
+      "a": "C₂H₅OH",
+      "b": "C₃H₄",
+      "c": "C₆H₆",
+      "d": "CH₃COOH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A compound that liberates CO₂ from a carbonate (trioxocarbonate) solution must be an acid stronger than carbonic acid. Ethanoic acid (CH₃COOH) reacts with sodium carbonate: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂. Ethanol, propyne, and benzene are not acidic enough to displace CO₂ from carbonate solutions.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 730,
+    "question": "When a few drops of Millon's reagent is added to egg-white solution in a test tube, the white precipitate changes to",
+    "option": {
+      "a": "orange",
+      "b": "brick red",
+      "c": "reddish brown",
+      "d": "blue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Millon's reagent (a solution of mercury in concentrated nitric acid) is a test for proteins containing the amino acid tyrosine. When added to egg white (which contains tyrosine-containing proteins), the white precipitate first forms then turns brick red on gentle heating. This brick red colour is characteristic of the Millon test for proteins.",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

@@ -11358,5 +11358,37 @@
     "solution": "Calcium carbonate (CaCO₃) exists in several natural forms. Limestone, marble, chalk, and egg-shells are all composed primarily of calcium carbonate. Limestone is sedimentary, marble is metamorphic limestone, chalk is a soft porous form of CaCO₃, and egg-shells are made of calcite (crystalline CaCO₃). All four are correct.",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 163,
+    "question": "A characteristic of the alkane family is",
+    "option": {
+      "a": "Addition reaction",
+      "b": "Elimination reaction",
+      "c": "Substitution reaction",
+      "d": "Neutralization reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 549,
+    "question": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180. Find the molecular formula. [H = 1, C = 12, O = 16]",
+    "option": {
+      "a": "C₃H₆O₃",
+      "b": "C₆H₆O₃",
+      "c": "C₆H₁₂O₆",
+      "d": "CH₂O"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mole ratio — C: 40.0/12 = 3.33; H: 6.7/1 = 6.7; O: 53.3/16 = 3.33. Divide by smallest (3.33): C:H:O = 1:2:1. Empirical formula = CH₂O. Empirical formula mass = 12 + 2 + 16 = 30. n = 180 ÷ 30 = 6. Molecular formula = C₆H₁₂O₆.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

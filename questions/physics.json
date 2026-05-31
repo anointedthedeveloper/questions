@@ -2798,5 +2798,85 @@
     "solution": "The pin-hole camera produces a less sharply defined (blurred) image when the pin-hole is larger because multiple light rays from each object point can pass through, creating overlapping light circles on the screen.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 111,
+    "question": "  Calcium has a work function of 19 eV with a wavelength of 150 nm. Calculate the maximum energy of a photo electron emitted. (1 eV = 16.1 x 10-19J, h = 6.6 x 10-34Js)            ",
+    "option": {
+      "a": "6.35 Ev  ",
+      "b": "8.25 cV  ",
+      "c": "14.60eV  ",
+      "d": "None of above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 1128,
+    "question": "The thermometric property of mercury is best on the change in",
+    "option": {
+      "a": "density with temperature",
+      "b": "volume with temperature",
+      "c": " pressure with temperature",
+      "d": " resistance with temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "volume with temperature (Mercury thermometers rely on thermal expansion of volume.)",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following  is common to evaporation and boiling, they ",
+    "option": {
+      "a": "take place at any temperature ",
+      "b": "are surface phenomena ",
+      "c": "involve change of state ",
+      "d": "take place at a definite pressure "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1004,
+    "question": "A rocket is fired from the earth's surface to a distant planet. By Newton's law of universal gravitation, the force F will",
+    "option": {
+      "a": " increase as r reduces",
+      "b": "increase as G varies",
+      "c": " remains constant",
+      "d": "increases as r increases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "By Newton's law of universal gravitation, the gravitational force increases as the distance (r) reduces. This is because gravitational force is inversely proportional to the square of the distance between the objects (F ∝ 1/r²).\nPractical example: As the rocket approaches the distant planet, it experiences increasingly stronger gravitational pull from that planet. Conversely, as it moves away from Earth, Earth's gravitational pull weakens.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1152,
+    "question": "A machine has an efficiency of 80%. If the input work is 200J, the output work is?",
+    "option": {
+      "a": " 250J",
+      "b": "160J",
+      "c": "120J",
+      "d": "100J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nEfficiency η = 80% = 0.8\nInput work, W_in = 200 J\n\nSolution:\n\nStep 1: Efficiency formula\nEfficiency = (Output work) / (Input work)\n\nStep 2: Rearrange for output work\nOutput work = Efficiency × Input work\n\nStep 3: Substitute values\nOutput work = 0.8 × 200 J = 160 J",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

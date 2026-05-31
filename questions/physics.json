@@ -1710,5 +1710,69 @@
     "solution": "Given information:\nInitial resistance, R₁ = 200 Ω\nDesired total resistance, Rₜ = 120 Ω\n\nSolution:\n\nStep 1: Effect of series and parallel connections\n\nConnecting a resistor in series increases the total resistance.\n\nConnecting a resistor in parallel decreases the total resistance.\n\nStep 2: Parallel resistance formula\nFor two resistors R₁ and R₂ in parallel:\n1/Rₜ = 1/R₁ + 1/R₂\n\nStep 3: Solve for R₂\n1/120 = 1/200 + 1/R₂\n1/R₂ = 1/120 – 1/200 = (5 – 3)/600 = 2/600 = 1/300\nR₂ = 300 Ω",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 358,
+    "question": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because",
+    "option": {
+      "a": "the heat energy is quickly conducted away",
+      "b": "the heat capacity has become very large as the substance melts",
+      "c": "the heat gained is equal to the heat lost by the substance",
+      "d": "all the heat is used to break the bonds holding the molecules of the solid together"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because all the heat is used to break the bonds holding the molecules of the solid together",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 525,
+    "question": "Three forces with magnitudes 16 N, 12 N and 21 N are shown in the diagram below. Determine the magnitude of their resultant force and angle with the x-axis",
+    "option": {
+      "a": "7.63N,61°",
+      "b": " 8.71N,61°",
+      "c": "7.63N,29°",
+      "d": " 8.71N,29°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614922/ALOC-Questions/Physics/2023/physics_2023-Q26_gyyxse.png",
+    "answer": "b",
+    "solution": "Given information:\n\nForce F₁ = 16 N at 26° above negative x-axis\nForce F₂ = 12 N at 32° above positive x-axis\nForce F₃ = 21 N along negative y-axis\n\nSolution:\nStep 1: Resolve forces into x-components\nTaking right as positive (+ve) and left as negative (-ve):\nFₓ = 12 cos 32° - 16 cos 26°\nFₓ = 10.18 - 14.38\nFₓ = -4.20 N\nStep 2: Resolve forces into y-components\nTaking up as positive (+ve) and down as negative (-ve):\nFᵧ = 12 sin 32° + 16 sin 26° - 21\nFᵧ = 6.36 + 7.01 - 21\nFᵧ = -7.63 N\nStep 3: Calculate magnitude of resultant\nR² = Fₓ² + Fᵧ²\nR² = (-4.20)² + (-7.63)²\nR² = 17.64 + 58.22\nR² = 75.86\nR = √75.86\nR = 8.71 N\nStep 4: Calculate angle with x-axis\ntan θ = opposite/adjacent\ntan θ = Fᵧ/Fₓ\ntan θ = 7.63/4.20\ntan θ = 1.8095\nθ = tan⁻¹(1.8095)\nθ = 61°\nAnswer: B. 8.71N, 61°",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 277,
+    "question": "Which of the following is true of an electrical charge?",
+    "option": {
+      "a": "Positive charge means deficit electrons",
+      "b": "Negative charge means excess of electrons",
+      "c": " electric current means movement of electrons",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All of the statements are true about electrical charge.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 694,
+    "question": "A force of 200N acts between two objects at a certain distance apart. The value of the force when the distance is halved is",
+    "option": {
+      "a": "400N",
+      "b": "200N",
+      "c": "100N",
+      "d": "800N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Identify force law\nFor gravitational or electrostatic forces between two objects:\nF = k/r²\nWhere:\n\nF = force\nk = constant (depends on masses/charges)\nr = distance between objects\n\nStep 2: Initial force\nF₁ = k/r²\n200 = k/r²\nStep 3: New force when distance is halved\nF₂ = k/(r/2)²\nF₂ = k/(r²/4)\nF₂ = 4k/r²\nStep 4: Find ratio\nF₂/F₁ = [4k/r²] / [k/r²]\nF₂/F₁ = 4\nStep 5: Calculate new force\nF₂ = 4F₁\nF₂ = 4 × 200\nF₂ = 800 N",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

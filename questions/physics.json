@@ -3006,5 +3006,69 @@
     "solution": " This statement is NOT correct because molecules are always in constant motion according to the kinetic theory of matter.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 611,
+    "question": "The energy stored in an inductor of inductance 5mH when a current of 6A flows through it is",
+    "option": {
+      "a": "9.0 × 10⁻³ J",
+      "b": "9.0 × 10⁻² J",
+      "c": "1.4 × 10⁻² J",
+      "d": "1.8 × 10⁻³ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Formula:\nEnergy stored in an inductor: E = ½LI²\nWhere:\n\nE = energy (in joules)\nL = inductance (in henries)\nI = current (in amperes)\n\nStep 1: Substitute values\nE = ½ × (5 × 10⁻³) × (6)²\nStep 2: Calculate\nE = ½ × (5 × 10⁻³) × 36\nE = ½ × 180 × 10⁻³\nE = 90 × 10⁻³\nE = 9.0 × 10⁻² J",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 742,
+    "question": "In a gas experiment, if the volume of the gas is plotted against the reciprocal of the pressure, the unit of the slope of the resulting curve is",
+    "option": {
+      "a": "force",
+      "b": "temperature",
+      "c": "power",
+      "d": "work"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Identify the variables and their units\nVolume V has SI unit m³.\nPressure p has SI unit N m⁻², so the reciprocal of pressure, 1/p, has unit m² N⁻¹.\n\nStep 2: Determine the units of the slope\nSlope = change in volume / change in (1/p) = ΔV / Δ(1/p).\nUnits of slope = (m³) / (m² N⁻¹) = m³ × N m⁻² = N m = joule (J).\n\nStep 3: Relate to physical quantity\nThe joule is the SI unit of work (or energy). For an ideal gas at constant temperature, pV = constant, so the slope of V versus 1/p is constant and equals pV, which has dimensions of work.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 1132,
+    "question": "\nI. The colour of light depends on its frequency\nII. When white light is dispersed by a triangular prism, yellow is deviated more than green\nIII. Rainbows are formed when rains fall heavily\nWhich of the above statements is/are correct about dispersion and colours?",
+    "option": {
+      "a": " I and III only",
+      "b": "I only",
+      "c": " II and III only",
+      "d": "I and II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Color depends on frequency (I is true), but green is deviated more than yellow in a prism (II is false), and rainbows don't specifically require heavy rain - they just need sunlight and water droplets (III is false or misleading).",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 349,
+    "question": "The pitch of a screw jack is 0.45cm and the arm is 60cm long. If the efficiency of the Jack is 75/π %, calculate the mechanical advantage.",
+    "option": {
+      "a": "400",
+      "b": "300",
+      "c": "200",
+      "d": "150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nPitch (p) = 0.45 cm\nLength of arm (L) = 60 cm\nEfficiency = 75/π %\nMechanical Advantage (M.A) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor a screw jack:\nV.R = 2πL/p\nV.R = (2π × 60)/0.45\nV.R = 120π/0.45\nV.R = 120π × (100/45)\nV.R = 120π × (20/9)\nV.R = 2400π/9\nV.R = 800π/3\nStep 2: Use efficiency formula\nEfficiency = (M.A/V.R) × 100%\n75/π = (M.A/(800π/3)) × 100\n75/π = (M.A × 3 × 100)/(800π)\n75/π = (300 × M.A)/(800π)\nSolving for M.A:\n75/π × (800π/300) = M.A\n75 × 800/300 = M.A\n60,000/300 = M.A\nM.A = 200",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

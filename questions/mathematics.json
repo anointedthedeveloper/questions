@@ -13230,5 +13230,53 @@
     "solution": "y ∝ 1/x\ny = K/x\nK = xy\nK = (1/2) * 4 ( when y = 4 and x = 1/2)\nK = 2\n∴y = 2/x\n10 = 2/x (when y = 10)\n10x = 2\nx = 2/10\nx = 1/5",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1077,
+    "question": "A cylinder pipe, made of metal is 3cm thick.If the internal radius of the pipe is 10cm.Find the volume of metal used in making 3m of the pipe.",
+    "option": {
+      "a": " 153π cm<sup>3</sup>",
+      "b": "207π cm<sup>3</sup>",
+      "c": "15300π cm<sup>3</sup>",
+      "d": "20700π cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Volume of a cylinder = πr<sup>2</sup>h\n\nFirst convert 3 m to cm by multiplying by 100\n\nVolume of External cylinder = π × 13<sup>2</sup> × 300\nVolume of Internal cylinder = π × 10<sup>2</sup> × 300\nHence; Volume of External cylinder - Volume of Internal cylinder\n\nTotal volume (v) = π(169 − 100) × 300\nV = π × 69 × 300\nV = 20700π cm<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1073,
+    "question": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius",
+    "option": {
+      "a": "6.5 units",
+      "b": "13.0 units",
+      "c": "3.5 units",
+      "d": "7.0 units"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "PQ<sup>2</sup>  = (x<sub>2</sub> - x<sub>1</sub>)<sup>2</sup>   + (y<sub>2</sub> - y<sub>1</sub>)<sup>2</sup> \n \n\n= 12<sup>2</sup>  + 5<sup>2</sup>  \n= 144 + 25\n= 169\n\nPQ = √169 = 13\n\nBut PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 112,
+    "question": "In the diagram above, EFGH is a circle center O. Fh is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH.",
+    "option": {
+      "a": "16 cm",
+      "b": "20 cm",
+      "c": "26 cm",
+      "d": " 32 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710691853/ALOC-Questions/Mathematics/2000/question-41_ggjkvo.jpg",
+    "answer": "d",
+    "solution": "The locus of X is the perpendicular bisector of PQ",
+    "examtype": "utme",
+    "examyear": "2000"
   }
 ]

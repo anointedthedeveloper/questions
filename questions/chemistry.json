@@ -10974,5 +10974,37 @@
     "solution": "X-ray crystallography is the technique used to study the arrangement of particles in crystal lattices. X-rays have wavelengths comparable to the spacing between atoms in crystals, causing diffraction patterns that reveal the three-dimensional structure of the crystal.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 405,
+    "question": "The general formula of alkanones is",
+    "option": {
+      "a": "RCHO",
+      "b": "RCOR'",
+      "c": "RCOOH",
+      "d": "RCOOR"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Alkanones (ketones) have the general formula RCOR', where R and R' are alkyl groups flanking the carbonyl (C=O) group. RCHO is an aldehyde; RCOOH is a carboxylic acid; RCOOR is an ester.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 575,
+    "question": "A few drops of conc HCl are added to about 10cm³ of a solution of pH 3.4. The pH of the resulting mixture is?",
+    "option": {
+      "a": "less than 3.4",
+      "b": "greater than 3.4",
+      "c": "unaltered",
+      "d": "the same as that of the pure water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "pH 3.4 means the solution is already acidic. Adding concentrated HCl (a strong acid) increases the concentration of H⁺ ions in the solution. A higher H⁺ concentration means a lower pH. Therefore the resulting pH will be less than 3.4.",
+    "examtype": "utme",
+    "examyear": "2020"
   }
 ]

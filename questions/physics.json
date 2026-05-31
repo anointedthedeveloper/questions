@@ -6766,5 +6766,69 @@
     "solution": "Given information:\n\nMass (m) = 800g = 0.8 kg\nInitial velocity (u) = +5 m/s (toward wall)\nFinal velocity (v) = -5 m/s (away from wall, opposite direction)\nImpulse = ?\n\nFormula for impulse:\nImpulse = Change in momentum\nImpulse = m(v - u)\nNote: Since the ball reverses direction, we must consider the sign change.\nCalculating:\nImpulse = 0.8 × (-5 - 5)\nImpulse = 0.8 × (-10)\nImpulse = -8 kgm/s\nMagnitude of impulse:\n|Impulse| = 8 kgm/s\nExplanation:\nThe negative sign indicates direction (force acts opposite to initial motion). The magnitude of impulse is 8 kgm/s.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 3,
+    "question": "A nail is pulled from a wall with a string tied to the nail. If the string is inclined at an angle of 30oC to the wall and the tension in the string is 50N, the effective force used in pulling the nail is: ",
+    "option": {
+      "a": "25N ",
+      "b": "25√3 N ",
+      "c": "50N ",
+      "d": "50√3N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 1070,
+    "question": "A cell of emf 1.5V is connected in series with a 1Ω resistor and a current of 0.3A flows through the resistor. Find the internal resistance of the cell",
+    "option": {
+      "a": " 4.0Ω",
+      "b": "3.0Ω",
+      "c": "1.5Ω",
+      "d": "1.0Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nElectromotive force (emf), E = 1.5 V\nExternal resistance, R = 1 Ω\nCurrent, I = 0.3 A\n\nSolution:\n\nStep 1: Relate emf, current, and resistances\nFor a cell with internal resistance r connected to an external resistor R, the current is given by:\nI = E / (R + r)\n\nStep 2: Rearrange to solve for r\nR + r = E / I\nr = (E / I) – R\n\nStep 3: Substitute the values\nr = (1.5 / 0.3) – 1\nr = 5 – 1 = 4 Ω",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 247,
+    "question": "When the r.m.s value of a source of electricity supply is given as 240v, it means that the peak value of the supply is",
+    "option": {
+      "a": "240v",
+      "b": "340v",
+      "c": " 480v",
+      "d": "57600v"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nr.m.s voltage (Vᵣₘₛ) = 240V\nPeak voltage (V₀) = ?\n\nRelationship between r.m.s and peak voltage:\nVᵣₘₛ = V₀/√2\nRearranging to find peak voltage:\nV₀ = Vᵣₘₛ × √2\nSubstituting values:\nV₀ = 240 × √2\nV₀ = 240 × 1.414\nV₀ = 339.4V\nV₀ ≈ 340V\nExplanation:\nThe r.m.s (root mean square) value is the effective value of an alternating voltage. The peak value is always √2 (approximately 1.414) times the r.m.s value.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 313,
+    "question": "Musical instruments playing the same note can be distinguished from one another owing to the difference in their",
+    "option": {
+      "a": "quality",
+      "b": "pitch",
+      "c": "intensity",
+      "d": "loudness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Musical instruments playing the same note can be distinguished from one another by their quality (timbre), which depends on the unique combination of harmonics and overtones each instrument produces.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

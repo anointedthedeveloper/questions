@@ -17839,5 +17839,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 433,
+    "question": "Sc<u>oo</u> led ",
+    "option": {
+      "a": "cold ",
+      "b": "could ",
+      "c": "court",
+      "d": "you"
+    },
+    "section": "choose the option that has the same vowel sound as the represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1049,
+    "question": "That type of response is <u>typical</u> of a lazy teacher",
+    "option": {
+      "a": "symptomatic",
+      "b": "characteristic",
+      "c": "universal",
+      "d": "incontestable"
+    },
+    "section": "In each of the questions 51 to 65 choose the option <b>nearest in meaning</b> to the underlined word or phrase.",
+    "image": "",
+    "answer": "b",
+    "solution": "Typical; representative as a symbol. symbolic.\n\ncharacteristic; typical of a particular person, place, or thing.",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 55,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

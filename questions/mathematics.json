@@ -10094,5 +10094,485 @@
     "solution": "Pass(P) = 2/3\n, Fail(F) = 1/3\n\n\nT = P.P.F ==> 2/3 × 2/3 × 1/3\n = 4/27",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 339,
+    "question": "An operation * is defined on the set of real numbers by a * b = ab + 2(a + b + 1). find the identity elements",
+    "option": {
+      "a": "2",
+      "b": "1",
+      "c": "-1",
+      "d": "-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "a * b = ab + 2(a + b + 1)\nlet e be the identity element\n∴ a * e = e * b = a\n∴ a * e\nae + 2(a + e + 1) = a\nae + 2a + 2e + 2 = a\nae + 2e = a - 2a = 2\n(a + 2)e = -a - 2\ne = -(a-2) / (a+2)\ne = -(a+2) / (a+2)\ne = -1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1164,
+    "question": "In a group of 500 people, 350 people can speak English, and 400 people can speak French. Find how many people can speak both languages.",
+    "option": {
+      "a": "750",
+      "b": " 850",
+      "c": " 250",
+      "d": "150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let F be the set of people who can speak French and E be the set of people who can speak English. Then,\n\nn(F) = 400\n\nn(E) = 350\n\nn(F ∪ E) = 500\n\nWe have to find n(F ∩ E).\n\nNow, n(F ∪ E) = n(F) + n(E) – n(F ∩ E)\n\n⇒ 500 = 400 + 350 – n(F ∩ E)\n\n⇒ n(F ∩ E) = 750 – 500 = 250.\n\n∴ 250 people can speak both languages.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 452,
+    "question": "Given\nP = {1, 3, 5, 7, 9, 11}\nand Q = {2, 4, 6, 8, 10, 12}. Determine the relationship between P and Q",
+    "option": {
+      "a": "P∩Q = ∅",
+      "b": "P ⊂ Q",
+      "c": " Q⊂P",
+      "d": "P = Q"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "P = {1, 3, 5, 7, 9, 11}\nQ = {2, 4, 6, 8, 1, 12}\nP∩Q = {1, 3, 5, 7, 9, 11}∩{2, 4, 6, 8, 1, 12}\n= {} = ∅",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 292,
+    "question": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal?",
+    "option": {
+      "a": "9/35",
+      "b": "11/35",
+      "c": "4/7",
+      "d": "3/7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Gold medals = 30\nsilver medals = 22\nBronze medals = 18/70\nP(Gold medals) = 30/70 = 3/7\n∴ P(not Gold medal) = 1 - 3/7\n= 4/7",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 833,
+    "question": "Calculate the range of 20, -6, 25, 30, 21, 28, 32, 33, 34, 5, 3, 2, and 1.",
+    "option": {
+      "a": "32",
+      "b": "36",
+      "c": "33",
+      "d": "40"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Range = 34 - (-6) = 34 + 6 = 40",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 120,
+    "question": "A ship sails a distance of 50km in the direction S50°E \nand then sails a distance of 50km in the direction \nN40°E. find the bearing of the ship from its original \nposition",
+    "option": {
+      "a": "S90°E",
+      "b": "N40°E",
+      "c": "S95°E",
+      "d": "N85°E"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 113,
+    "question": "In the diagram, If < RPS = 50°, < RPQ = 30° and pq = QR, Find the value of < prs\n",
+    "option": {
+      "a": "50°",
+      "b": " 60°",
+      "c": "70°",
+      "d": "80<sup>o</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710691930/ALOC-Questions/Mathematics/2000/question-42_jnvogc.jpg",
+    "answer": "c",
+    "solution": "< QPR = < PRQ = 30° (PQ = QR)\n\n< SPQ + < QRS = 180° (supplementary)\n\n80 + < QRS = 180° = < QRS = 180° - 80° = 100°\n\n< QRP + < PRS = 100° = 30o + < PRS = 100°\n\n= < PRS = 100° - 30° = 70°",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 620,
+    "question": "Determine the value of x for which (x2 - 1)>0",
+    "option": {
+      "a": " x < -1 or x > 1",
+      "b": "-1 < x < 1",
+      "c": "x > 0",
+      "d": "x < -1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x(x - 1) > 0\n\nx < -1 or x > 1",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 412,
+    "question": "THe cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room?",
+    "option": {
+      "a": "N1215",
+      "b": "N720",
+      "c": " N1620",
+      "d": "N810"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cost of removing a 6m2 room = N540\nCost of renovating a 1m2 room = 540 / 6\nCost of removing a 9m2 room\n= (540 / 6) * 9\n= N810",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 370,
+    "question": "From the diagram above, find the bearing of R and S",
+    "option": {
+      "a": "226°",
+      "b": "224°",
+      "c": "136°",
+      "d": "134°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702612/ALOC-Questions/Mathematics/2005/math_2005_q49_kb66c4.jpg",
+    "answer": "b",
+    "solution": "The diagram x = 44o (alternate ∠s) the bearing of R from S\n= 180 + x\n= 180 + 44\n= 224°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 199,
+    "question": "The sum of the interior angles of a polygon is 20 right angles. How many sides does the polygon have?",
+    "option": {
+      "a": "12",
+      "b": " 20",
+      "c": " 40",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The formula for the sum of the interior angles of a regular polygon = (2n - 4) x 90°\n\nGiven: Sum = 20 right angles\n\n(2n - 4) x 90° = 20 times 90°\n\n⇒ 2n - 4 = 20\n\n2n = 24; n = 12.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 131,
+    "question": "Find the integral values of x and y satisfying the inequality 3y + 5x( less than equal to)\n 15, given that y > 0, y < 3 and x > 0.",
+    "option": {
+      "a": "(1,1), (1,2), (1,3)",
+      "b": "(1,1), (2,1), (1,3)",
+      "c": "(1,1), (3,1), (2,2)",
+      "d": "(1,1), (1,2), (2,1)\n"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>&#x2264;</mo>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "Hint: Sketch the inequality graph for the 3 conditions given and read out your points from the co-ordinates.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1188,
+    "question": "A woman bought a grinder for N60,000. She sold it at a loss of 15%. How much did she sell it?",
+    "option": {
+      "a": " N53,000",
+      "b": "N52,000",
+      "c": "N51,000",
+      "d": "N50,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "SP = Nx\nCP = N60,000\nPercentage loss = 15%\nUsing percentage loss...\n\n(CP−SP)/CP = 100%\n\n\n15% = (60000− x)/ 60000 × 100%\n\n\n15% × 60000=(60000−x)100%\n\n\n60000 − x = (15% × 60000)100%\n\n\n60000 - x = 3 x 3000\n\n60000 -x = 9000\n\nx = 60000 - 9000\n\nx = N51,000",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 101,
+    "question": "\nIf the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation.",
+    "option": {
+      "a": "0",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mean = {0 + (x+2) + (3x+6) + (4x+8)}/4 = 4\n=> 0 + (x+2) + (3x+6) + (4x+8) = 16\n8x + 16 = 16\nx = 0\nNow prepare a table showing the deviation of each of 0, (x+2), (3x+6) and (4x+8), adding the deviations will give 12.\nThus M.D = 12/4 = 3\n",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 276,
+    "question": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3).",
+    "option": {
+      "a": "(1, 1)",
+      "b": "(2, 2)",
+      "c": "(4, 4)",
+      "d": "(4, -4)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>M</mi>\n  <mi>i</mi>\n  <mi>d</mi>\n  <mi>p</mi>\n  <mi>o</mi>\n  <mi>i</mi>\n  <mi>n</mi>\n  <mi>t</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <msub>\n        <mi>x</mi>\n        <mn>1</mn>\n      </msub>\n      <mo>+</mo>\n      <msub>\n        <mi>x</mi>\n        <mn>2</mn>\n      </msub>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mo>;</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <msub>\n        <mi>y</mi>\n        <mn>1</mn>\n      </msub>\n      <mo>+</mo>\n      <msub>\n        <mi>y</mi>\n        <mn>2</mn>\n      </msub>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo>+</mo>\n      <mn>5</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mo>;</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>5</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mn>2</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mo>;</mo>\n  <mfrac>\n    <mn>2</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mo stretchy=\"false\">(</mo>\n  <mn>1</mn>\n  <mo>,</mo>\n  <mn>1</mn>\n  <mo stretchy=\"false\">)</mo>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "Midpoint = (x<sub>1</sub>+x<sub>2</sub>)/2; (y<sub>1</sub>+y<sub>2</sub>)/2 = (−3+5)/2; (5−3)/2 = 2/2; 2/2 = (1, 1)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 872,
+    "question": "The curved surface area of a cylinder 5cm high is 110cm2. Find the radius of its base\nπ = 22/7",
+    "option": {
+      "a": "2.6cm",
+      "b": "3.5cm",
+      "c": "3.6cm",
+      "d": "7.0cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Curved surface area of cylinder = 2πrh\n\n110 = 2 × 22/7 × r × 5\n\nr = (110×7)/(44×5)\n\n\n= 3.5cm",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 545,
+    "question": "In the figure above , TS//XY and XY = TY, ∠STZ = 34°, ∠TXY = 47°, find the angle marked n?",
+    "option": {
+      "a": "47°",
+      "b": " 52°",
+      "c": "56°",
+      "d": "99°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547111/ALOC-Questions/Mathematics/2009/MATH_2009_Q24_ilgdry.jpg",
+    "answer": "b",
+    "solution": "In Δ TYX\nXY = TY ∴y =47° base ∠s of ISCΔ\nBut y+x+34+47 = 180 interior\nopposite ∠s are supplementary\n47 + x + 34 + 47 = 180\nx + 128= 180\nx = 180- 128\nx = 52°",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 904,
+    "question": "Factorize completely X<sup>2</sup> +2XY+Y<sup>2</sup> +3X+3Y-18",
+    "option": {
+      "a": "(x + y + 6)(x + y -3)",
+      "b": "(x - y - 6)(x - y + 3)",
+      "c": " (x - y + 6)(x - y - 3)",
+      "d": "(x + y - 6)(x + y + 3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x<sup>2</sup> +2xy + y<sup>2</sup> + 3x + 3y − 18\n \n\nx<sup>2</sup> +2xy + 3x + y<sup>2</sup> + 3y − 18\n\n\nx<sup>2</sup> + 2xy − 3x +6x + y<sup>2</sup> −3y +6y−18\n\n\nx<sup>2</sup> + 2xy − 3x + y<sup>2</sup> − 3y + 6x +6y − 18\n\n\nx<sup>2</sup> +xy − 3x + xy + y<sup>2</sup> − 3y +6x + 6y − 18\n\n\nx(x + y - 3) + y(x + y - 3) + 6(x + y - 3)\n\n= (x + y - 3)(x + y + 6)\n\n= (x + y + 6)(x + y -3)",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 1012,
+    "question": "In the diagram above, O is the centre of the circle ABC, < ABO = 26° and < BOC = 130°. Calculate < AOC.",
+    "option": {
+      "a": "26°",
+      "b": "13°",
+      "c": " 80°",
+      "d": "102°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006921/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q45_sr8yzi.jpg",
+    "answer": "d",
+    "solution": "< BAC = 130/2\n (angle subtended at the centre)\n\n< BAC = 65°\n\nAlso, x = 26° (theorem)\n\ny = 65° - 26° = 39°\n\n< AOC = 180° - (39° + 39°)\n\n= 102°",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 513,
+    "question": "In how many ways can the letters of the word ACCEPTANCE be arranged?",
+    "option": {
+      "a": "10! / (2!2!3!)",
+      "b": "10! / ( 2!3!)",
+      "c": "10! / (2!2!)",
+      "d": " 10!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "ACCEPTANCE = 10 Letters\nA = 2 letters\nC = 3 letters\nE = 2 letters\nCan be arranged in 10! / (2!3!2!) ways",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 207,
+    "question": "The probability of a student passing any exam is 2/3. If the student takes three exams, what is the probability that he will not pass any of them?",
+    "option": {
+      "a": "2/3",
+      "b": "4/9",
+      "c": "8/27",
+      "d": "1/27"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "P(not passing exam) = 1−2/3 = 1/3\nP(not passing any of the three exams) = 1/3 × 1/3 × 1/3\n= 1/27",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1169,
+    "question": "Find the matrix A",
+    "option": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>[</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>0</mn>\n        </mtd>\n        <mtd>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>]</mo>\n  </mrow>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007996/ALOC-Questions/Mathematics/2023/Screenshot_2024-08-18_at_8.06.28_PM_nw7cet.png",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 797,
+    "question": "In how many ways can a student select 2 subjects from 5 subjects?",
+    "option": {
+      "a": " 5!/3!",
+      "b": "5!/2!2!",
+      "c": "5!/2!3!",
+      "d": "5!/2!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A student can select 2 subjects from 5 subjects in;\n\n<sup>5</sup>C<sub>3</sub> ways, i.e. = 5!/2!(5−2)!\n\n\n= 5!/2!3!",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 653,
+    "question": "The derivatives of (2x + 1)(3x + 1) is",
+    "option": {
+      "a": " 12x + 1",
+      "b": "6x + 5",
+      "c": "6x + 1",
+      "d": "12x + 5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "2x + 1 d(3x+1)/dx\n + (3x + 1) d(2x+1)/dx\n\n\n2x + 1 (3) + (3x + 1) (2)\n\n6x + 3 + 6x + 2 = 12x + 5",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 870,
+    "question": "What is the next number in the series 2, 1, 1/2, 1/4 ...",
+    "option": {
+      "a": "1/3",
+      "b": "2/8",
+      "c": "3/7",
+      "d": "1/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "2, 1, 12\n, 14\n.....\n\nThere are 4 terms in the series\nTherefore the next number will be the 5th term\n\nT<sub>n</sub>  = ar<sup>(n−1)</sup>\n (formular for geometric series)\n\na = first term = 2\n\nr = common rate = next term/previous term\n = 1/2\n\n\nn = number of terms\n\nT<sub>5</sub>  = 5th term = ?\n\nT<sub>5</sub>  = ar<sup>(5−1>/sup>\n\n\n= ar<sup>4</sup>\n\n\n= 2 × (ar<sup>(n−1)</sup><sup>)<sup>4</sup>\n\n= 2 × 1/16\n\n\n= 1/8",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 334,
+    "question": "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 4(2/3) and L = 54, find d in terms of W and L.",
+    "option": {
+      "a": "√(42W/5L)",
+      "b": "√(6L/42W)",
+      "c": "42W/5L",
+      "d": "5L/42W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "W∞LD<sup>2</sup> W=KLd<sup>2</sup> K=W/(Ld^2 )=140/54×〖(4 2/3)〗<sup>2</sup>=140/54×〖(14/3)〗<sup>2</sup> = (140×9)/(54×14×14)=5/42∴W=5/(42Ld<sup>2</sup> ) 42W=5Ld<sup>2</sup>  42W/5L=d<sup>2</sup> d=√(42W/5L)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 214,
+    "question": "In the diagram above, PST is a straight line, PQ = QS = RS. If ∠RST = 72°, find x",
+    "option": {
+      "a": "36°",
+      "b": "18°",
+      "c": "72°",
+      "d": "24°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710697968/ALOC-Questions/Mathematics/2002/math_2000_q43_ugfbxx.jpg",
+    "answer": "d",
+    "solution": "In Δ PQS, ∠PSQ = X(base ∠s of isoc Δ PQS)\nIn Δ QRS, ∠RQS = ∠PSQ + X(Extr ∠ = sum of two intr. opp ∠s)\n∴ ∠RQS = X + X\n= 2X\nAlso ∠QRS = 2X(base ∠s of isoc Δ QRS in Δ PRS,\n72 = ∠RPS + ∠PRS(Extr, ∠ = sum of two intr. opp ∠s)\n∴ 72 = x + 2x\n72 = 3x\nx = 72/3\nx = 24°",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 554,
+    "question": "Find the value of sin 45° - cos 30°",
+    "option": {
+      "a": "(2+√3)/4",
+      "b": "(√2+√3)/4",
+      "c": "(√3+√3)/2",
+      "d": "(√2−√3)/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Sin45 − cos30.    √2/2− √3/2 = (√2−√3)/2",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 279,
+    "question": "P, R and S lie on a circle center as shown above while Q lies outside the circle. Find ∠PSO",
+    "option": {
+      "a": "45°",
+      "b": "55°",
+      "c": "35°",
+      "d": "40°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700637/ALOC-Questions/Mathematics/2004/math_2004_q8_gaptwy.jpg",
+    "answer": "c",
+    "solution": "x° = 35 + 29 (Exterior angle = sum of two interior opposite angles)\nx = 55° (∠ at the center twice ∠ at circumference) y = 110°\n∠PSO = ∠SPO (base ∠S of 1sc Δ b/c PO = SO)\n∴ ∠PSO = (180 - 110)/2\n= 35°",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1275,
+    "question": "Evaluate log<sub>7</sub>17",
+    "option": {
+      "a": "1.35",
+      "b": "1.353",
+      "c": "1.455",
+      "d": "0.455"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "log<sub>7</sub>17\n\n= [log 17 ÷ log7]\n\n= [1.2304 ÷ 0.8451]\n\n[10<sup>0.0899</sup> ÷ 10<sup>1.9270</sup>]\n\n= 1.455(antilog)",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

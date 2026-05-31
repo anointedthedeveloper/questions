@@ -2014,5 +2014,53 @@
     "solution": "Given information:\nForce on smaller piston, F₁ = 200 N\nForce on larger piston, F₂ = 3200 N\n\nSolution:\n\nStep 1: Pascal's principle for hydraulic press\nPressure is transmitted equally throughout the fluid:\nP₁ = P₂\nF₁ / A₁ = F₂ / A₂\n\nStep 2: Express area in terms of radius\nArea A = πr², so\nF₁ / πr₁² = F₂ / πr₂²\nF₁ / r₁² = F₂ / r₂²\n\nStep 3: Rearrange to find ratio r₁ / r₂\nr₁² / r₂² = F₁ / F₂\nr₁ / r₂ = √(F₁ / F₂)\n\nStep 4: Substitute values\nr₁ / r₂ = √(200 / 3200) = √(1/16) = 1/4",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 45,
+    "question": "To find the dept of the sea, a ship send out a second waves and an echo after one second. If the velocity of sound in water is 1500m/s, what is the depth of the sea ",
+    "option": {
+      "a": "0.75km ",
+      "b": "1.50km ",
+      "c": "2.20km ",
+      "d": "3.00km "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1091,
+    "question": "A machine whose efficiency is 75% is used to lift a load of 1000N. Calculate the effort put in to the machine if it has a Velocity ratio of 4.",
+    "option": {
+      "a": " 343.32N",
+      "b": "233.33N",
+      "c": " 333.33N",
+      "d": "334.33N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nEfficiency η = 75% = 0.75\nLoad L = 1000 N\nVelocity ratio VR = 4\n\nSolution:\n\nStep 1: Relationship between efficiency, mechanical advantage, and velocity ratio\nEfficiency η = (Mechanical Advantage) / (Velocity Ratio)\n\nStep 2: Express mechanical advantage\nMechanical Advantage MA = η × VR = 0.75 × 4 = 3\n\nStep 3: Relate mechanical advantage to load and effort\nMA = Load / Effort\nEffort = Load / MA = 1000 N / 3 = 333.333… N\n\nStep 4: Match with options\n333.333 N ≈ 333.33 N",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 175,
+    "question": "Neutron were discovered by",
+    "option": {
+      "a": "J.J. Thompson",
+      "b": " James Chadwick",
+      "c": " Michael faraday",
+      "d": "Dalton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Neutron were discovered by James Chadwick in 1931",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

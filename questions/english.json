@@ -14951,5 +14951,43 @@
     "questionNub": 69,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 168,
+    "question": "Asabe bought a <i>glossy</i>  pair of shoes ",
+    "option": {
+      "a": "smooth and shiny",
+      "b": "rough an dull",
+      "c": "smooth and shining",
+      "d": "rough an gummy"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1079,
+    "question": "I wanted to know his political beliefs, so l asked him what........",
+    "option": {
+      "a": "this was",
+      "b": "these are",
+      "c": "this is",
+      "d": "they were"
+    },
+    "section": "<b>In each of the question 66 to 85 choose the option that best completes the gap(s)</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "I wanted to know his political beliefs, so l asked him what they were",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 85,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

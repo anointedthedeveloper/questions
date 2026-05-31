@@ -9182,5 +9182,37 @@
     "solution": "Given information:\nRefractive index n = 1.51\n\nSolution:\n\nStep 1: Critical angle formula\nFor a ray traveling from the medium (glass) to air, the critical angle C is given by:\nsin C = 1 / n\n\nStep 2: Substitute value\nsin C = 1 / 1.51 ≈ 0.66225\n\nStep 3: Find C\nC = sin⁻¹(0.66225) ≈ 41.5°",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 958,
+    "question": "A copper wire was subjected to a tensile stress of 7.7 × 10⁷ Nm⁻². Calculate the strain of the wire. [Young's modulus = 1.1 × 10¹¹ Nm⁻²]",
+    "option": {
+      "a": " 2.0 × 10⁻⁵",
+      "b": "7.0 × 10⁻³",
+      "c": "7.0 × 10⁻⁴",
+      "d": "2.2 × 10⁻⁴"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nTensile stress (σ) = 7.7 × 10⁷ Nm⁻²\nYoung's modulus (E) = 1.1 × 10¹¹ Nm⁻²\nStrain (ε) = ?\n\nFormula for Young's modulus:\nE = Stress/Strain\nE = σ/ε\nRearranging for strain:\nε = σ/E\nSubstituting values:\nε = (7.7 × 10⁷)/(1.1 × 10¹¹)\nε = (7.7/1.1) × 10⁷⁻¹¹\nε = 7.0 × 10⁻⁴",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 124,
+    "question": "A coin is at the bottom of a bucket filled with a liquid whose refractive index is 1.35. The coin appears to be 12.0cm below the surface of the liquid. Calculate the depth of the liquid.",
+    "option": {
+      "a": "16.2cm  ",
+      "b": "13.4cm  ",
+      "c": "8.9cm  ",
+      "d": "5.4cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   }
 ]

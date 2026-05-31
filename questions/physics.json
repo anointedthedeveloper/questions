@@ -12286,5 +12286,85 @@
     "solution": "Given information:\n\nInductance 1 (L₁) = 4 H\nInductance 2 (L₂) = 8 H\nCurrent (I) = 10 A\nConnected in series\nTotal energy stored = ?\n\nStep 1: Calculate total inductance (series)\nFor inductors in series:\nL_total = L₁ + L₂\nL_total = 4 + 8\nL_total = 12 H\nStep 2: Calculate energy stored\nEnergy stored in an inductor:\nE = ½LI²\nSubstituting values:\nE = ½ × 12 × (10)²\nE = ½ × 12 × 100\nE = 6 × 100\nE = 600 J",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 213,
+    "question": "Which of the following is obtained when a magenta is mixed with green colour?",
+    "option": {
+      "a": "Yellow",
+      "b": "Blue",
+      "c": "White",
+      "d": "Red"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Color mixing (light - additive):\nMagenta = Red + Blue\nGreen = Green\nWhen mixed:\nMagenta + Green = (Red + Blue) + Green = Red + Blue + Green\nRed + Blue + Green = White light\nNote: This applies to mixing colored lights (additive color mixing), not paints (subtractive mixing).\n\nWhen magenta and green light are mixed together, they produce white light.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 428,
+    "question": "Which of the following instruments may be used to measure relative humidity?",
+    "option": {
+      "a": "Hydrometer",
+      "b": "Manometer",
+      "c": "Hygrometer",
+      "d": "Hypsometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A hygrometer is an instrument that is used to measure water vapor in the atmosphere. This is also commonly referred to as relative humidity in the atmosphere.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 696,
+    "question": "An elastic material has a length of 36 cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is",
+    "option": {
+      "a": " 12 cm",
+      "b": "20 cm",
+      "c": "18 cm",
+      "d": "15 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nWhen F₁ = 40 N, total length L₁ = 36 cm\nWhen F₂ = 60 N, total length L₂ = 45 cm\nOriginal length, L₀ = ?\n\nSolution:\nStep 1: Apply Hooke's Law\nForce F = ke\nWhere:\n\nk = spring constant\ne = extension from original length\n\nFor any load: Total length = Original length + Extension\nStep 2: Set up equations\nFor first load:\n36 = L₀ + e₁\n40 = ke₁\nFor second load:\n45 = L₀ + e₂\n60 = ke₂\nStep 3: Find change in extension\nChange in length: 45 - 36 = 9 cm\nChange in force: 60 - 40 = 20 N\nStep 4: Calculate spring constant\nk = ΔF/Δe = 20/9 N/cm\nStep 5: Find extension for first load\nFrom equation: 40 = ke₁\ne₁ = 40/k = 40/(20/9) = 40 × 9/20 = 18 cm\nStep 6: Calculate original length\nL₀ = L₁ - e₁\nL₀ = 36 - 18\nL₀ = 18 cm",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 202,
+    "question": "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is",
+    "option": {
+      "a": "40s",
+      "b": "10s",
+      "c": "20s",
+      "d": "5s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial velocity (u) = 20 m/s\nFinal velocity (v) = 0 m/s (complete halt)\nDeceleration (a) = -2 m/s² (negative because it's deceleration)\nTime (t) = ?\n\nUsing the equation of motion:\nv = u + at\nSubstituting values:\n0 = 20 + (-2)t\n0 = 20 - 2t\nSolving for t:\n2t = 20\nt = 20/2\nt = 10 seconds",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 191,
+    "question": "When an athlete perspires after running, he loses heat through",
+    "option": {
+      "a": "Evaporation",
+      "b": "Conduction",
+      "c": "Radiation",
+      "d": "Convection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Athletes lose heat through evaporation when perspiring.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

@@ -19188,5 +19188,62 @@
     "questionNub": 38,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 511,
+    "question": "  re<u>s</u>t",
+    "option": {
+      "a": "result",
+      "b": "show",
+      "c": "unasked",
+      "d": "wise"
+    },
+    "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1729,
+    "question": "It was a funny episode, I ----------------",
+    "option": {
+      "a": "Can’t help to laugh",
+      "b": " Couldn’t help laugh",
+      "c": " couldn’t help laughing",
+      "d": " couldn’t help to laugh"
+    },
+    "section": "From the options, choose the word(s) that best filll the gap.     ",
+    "image": "",
+    "answer": "c",
+    "solution": "The correct answer is (C) because a sentence is arrange in a formation which is (subject, verb and object) the subject is the doer of the action , the verb is the action (auxiliary + lexical/ main verb) and the object which is the receiver of the action.\nI couldn’t help laughing = past continuous tense\nSubject (I) auxiliary verb (couldn’t) hexical verb (help)\nThe other options are disarranged and not appropriate",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 42,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 924,
+    "question": "Even though Susan was the last in the examination, her result wasn't too different from what had been expected.",
+    "option": {
+      "a": " Her result was poor",
+      "b": "Her result was a dissapointment",
+      "c": "Her result was as expected",
+      "d": "She had not been serious with her studies"
+    },
+    "section": "<b>LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of the questions 26 to 33, select the option \nthat best explains the information conveyed in \nthe sentence.",
+    "image": "",
+    "answer": "c",
+    "solution": "This means her result turned out as everyone expected despite what had happened during the examination",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 29,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

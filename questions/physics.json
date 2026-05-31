@@ -8670,5 +8670,37 @@
     "solution": "The object oscillates because the acceleration (restoring force) is directly proportional to the displacement from equilibrium. This fundamental relationship defines Simple Harmonic Motion and is what causes the oscillatory behavior.\nKey relationships in pendulum SHM:\n\nAt extreme positions: Maximum displacement, zero velocity, maximum acceleration\nAt equilibrium: Zero displacement, maximum velocity, zero acceleration\nThe proportional relationship a ∝ -x ensures continuous oscillation",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 9,
+    "question": "The scent from a jar of perfume open move through the air molecules by ",
+    "option": {
+      "a": "evaporation ",
+      "b": "osmosis ",
+      "c": "diffusion ",
+      "d": "Convection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 232,
+    "question": "Calculate the electric field intensity between two plates of potential difference 6.5V when separated by a distance of 35cm.",
+    "option": {
+      "a": "18.57 NC⁻¹",
+      "b": "53.06 NC⁻¹",
+      "c": "2.28 NC⁻¹",
+      "d": "0.80 NC⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nPotential difference (V) = 6.5V\nDistance between plates (d) = 35cm = 0.35m\nElectric field intensity (E) = ?\n\nFormula:\nE = V/d\nSubstituting values:\nE = 6.5/0.35\nE = 18.57 V/m or NC⁻¹\nNote: Electric field units V/m and NC⁻¹ are equivalent.\n\nThe electric field intensity between the two plates is 18.57 NC⁻¹.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

@@ -10814,5 +10814,37 @@
     "solution": "All of the statements correctly define temperature and heat: (A) temperature measures average molecular kinetic energy, (B) heat relates to total kinetic energy of the system, and (C) different materials have different heat requirements for temperature changes.",
     "examtype": "utme",
     "examyear": "2020"
+  },
+  {
+    "id": 559,
+    "question": "Pilots uses aneroid barometer to know the height above sea level because ",
+    "option": {
+      "a": "Very accurate",
+      "b": "Small and convenient",
+      "c": "Heavy and huge",
+      "d": "Costly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Pilots use aneroid barometers (altimeters) because they are small, lightweight, and convenient for use in aircraft. Unlike mercury barometers which are heavy, bulky, and contain liquid that would be affected by aircraft motion, aneroid barometers are compact and portable, making them ideal for aviation use.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 629,
+    "question": "The earth is four times the size of the moon and the acceleration due to gravity on the earth is 80 times that on the moon. The ratio of the mass of the moon to that of the earth is",
+    "option": {
+      "a": "1:80",
+      "b": "1:320",
+      "c": "1:1280",
+      "d": "1:4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nRadius of Earth = 4 × Radius of Moon → Rₑ = 4Rₘ\nAcceleration due to gravity on Earth = 80 × acceleration on Moon → gₑ = 80gₘ\n\nSolution:\nFormula for acceleration due to gravity:\ng = GM/R²\nWhere:\n\nG = gravitational constant\nM = mass of planet\nR = radius of planet\n\nStep 1: Write expressions for Earth and Moon\nFor Earth: gₑ = GMₑ/Rₑ²\nFor Moon: gₘ = GMₘ/Rₘ²\nStep 2: Take ratio\ngₑ/gₘ = (Mₑ/Mₘ) × (Rₘ/Rₑ)²\nStep 3: Substitute given values\n80 = (Mₑ/Mₘ) × (Rₘ/(4Rₘ))²\n80 = (Mₑ/Mₘ) × (1/4)²\n80 = (Mₑ/Mₘ) × (1/16)\nStep 4: Solve for mass ratio\nMₑ/Mₘ = 80 × 16\nMₑ/Mₘ = 1280\nTherefore: Mₘ/Mₑ = 1/1280\nFinal Answer:\nRatio of mass of Moon to Earth = 1:1280",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

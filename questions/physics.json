@@ -9502,5 +9502,53 @@
     "solution": "\nGiven information:\n\nWavelength (λ) = 500 nm = 500 × 10⁻⁹ m = 5 × 10⁻⁷ m\nSpeed of light (c) = 3 × 10⁸ m/s\nFrequency (f) = ?\n\nFormula for wave equation:\nc = fλ\nRearranging for frequency:\nf = c/λ\nSubstituting values:\nf = (3 × 10⁸)/(5 × 10⁻⁷)\nf = (3/5) × 10⁸⁺⁷\nf = 0.6 × 10¹⁵\nf = 6.0 × 10¹⁴ Hz",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 717,
+    "question": "An ammeter of resistance 5Ω has a full-scale deflection when a current of 50 mA flows in it. The value of the resistor required to adapt it to measure a current of 5 A is?",
+    "option": {
+      "a": " 0.25Ω",
+      "b": "5.00Ω",
+      "c": "19.80Ω",
+      "d": " 0.05Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nAmmeter resistance, G = 5 Ω\nFull-scale deflection current, Iɡ = 50 mA = 0.05 A\nDesired maximum current, I = 5 A\nShunt resistance, S = ?\n\nSolution:\nStep 1: Understand shunt resistor\nA shunt resistor is connected in parallel with the ammeter to allow most of the current to bypass the ammeter, extending its range.\nStep 2: Current distribution\nTotal current: I = 5 A\nCurrent through ammeter: Iɡ = 0.05 A\nCurrent through shunt: Iₛ = I - Iɡ = 5 - 0.05 = 4.95 A\nStep 3: Voltage across parallel components\nSince ammeter and shunt are in parallel, voltage across both is equal:\nVɡ = Vₛ\nIɡG = IₛS\nStep 4: Substitute values\n0.05 × 5 = 4.95 × S\n0.25 = 4.95S\nStep 5: Solve for shunt resistance\nS = 0.25/4.95\nS = 0.0505 Ω ≈ 0.05 Ω",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 504,
+    "question": "On a particular hot day, the temperature is 40°C and the partial pressure of water vapor in the air is 38.8 mmHg. What is the relative humidity?",
+    "option": {
+      "a": "70",
+      "b": "62",
+      "c": "80",
+      "d": "42"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614729/ALOC-Questions/Physics/2023/physics_2023-Q5_snfh7b.png",
+    "answer": "a",
+    "solution": "Given information:\n\nTemperature = 40°C\nPartial pressure of water vapor (actual) = 38.8 mmHg\nSaturated vapor pressure at 40°C (from table) = 55.3 mmHg\nRelative humidity = ?\n\nSolution:\nUsing the relative humidity formula:\nRelative Humidity (RH) = (Actual vapor pressure / Saturated vapor pressure) × 100%\nStep 1: Identify values from the table\nAt 40°C:\n\nSaturated vapor pressure (s.v.p) = 55.3 mmHg\nActual vapor pressure = 38.8 mmHg\n\nStep 2: Calculate relative humidity\nRH = (38.8/55.3) × 100%\nRH = 0.7014 × 100%\nRH = 70.14%\nRH ≈ 70%",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 554,
+    "question": "Find the value of a capacitor with voltage 5V and 30C.",
+    "option": {
+      "a": "7f",
+      "b": " 6f",
+      "c": "15f",
+      "d": "0.17f"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nVoltage, V = 5 V\nCharge, Q = 30 C\nCapacitance, C = ?\n\nSolution:\nStep 1: Apply capacitance formula\nThe capacitance of a capacitor is defined as:\nC = Q/V\nStep 2: Substitute the known values\nC = 30/5\nStep 3: Calculate capacitance\nC = 6 F",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

@@ -4782,5 +4782,69 @@
     "solution": "In a triangular prism, light of different colors is refracted at different angles, with red light deviating the least and blue light deviating the most.",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 630,
+    "question": "In which of the following material media will sound travel fastest?",
+    "option": {
+      "a": "oil",
+      "b": "metal",
+      "c": "gas",
+      "d": "water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Sound travels fastest in solids (especially metals) because:\n\nStrong intermolecular bonds\nParticles are tightly packed\nEfficient transmission of vibrations",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 110,
+    "question": "A p-n junction can act as  ",
+    "option": {
+      "a": "an amplifier  ",
+      "b": "a rectifier  ",
+      "c": "an inductor ",
+      "d": "a capacitor "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 366,
+    "question": "A force of 6N acts horizontally on a stationary mass of 2kg for 4s. The kinetic energy gained by the mass is _________",
+    "option": {
+      "a": "366j",
+      "b": "240j",
+      "c": "144j",
+      "d": " 90j"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nForce (F) = 6 N\nMass (m) = 2 kg\nTime (t) = 4 s\nInitial velocity (u) = 0 (stationary)\nKinetic energy gained = ?\n\nStep 1: Calculate acceleration\nF = ma\n6 = 2 × a\na = 3 m/s²\nStep 2: Calculate final velocity\nv = u + at\nv = 0 + 3 × 4\nv = 12 m/s\nStep 3: Calculate kinetic energy gained\nKE = ½mv²\nKE = ½ × 2 × (12)²\nKE = 1 × 144\nKE = 144 J",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 227,
+    "question": "The frequency of beats produced when two tunning forks of frequencies 258Hz and 270Hz are sounded close to each other",
+    "option": {
+      "a": ". 6Hz",
+      "b": "264Hz",
+      "c": "528Hz",
+      "d": "12Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nFrequency of first tuning fork (f₁) = 258 Hz\nFrequency of second tuning fork (f₂) = 270 Hz\nBeat frequency = ?\n\nFormula for beat frequency:\nBeat frequency = |f₂ - f₁|\nCalculation:\nBeat frequency = |270 - 258|\nBeat frequency = 12 Hz\nExplanation:\nWhen two sound waves of slightly different frequencies are sounded together, they interfere to produce beats. The beat frequency equals the difference between the two frequencies. You hear the sound getting louder and softer 12 times per second.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

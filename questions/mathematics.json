@@ -17118,5 +17118,21 @@
     "solution": "Q = {1,2,3,6,9,18}, T ={2,3,5,7,11,13,17}\nQ∩T = {2,3}",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 1234,
+    "question": "If the angle of a sector of a circle with radius 10.5 cm is 120°, find the perimeter of the sector. [Take π=22/7]",
+    "option": {
+      "a": "48 cm",
+      "b": "40 cm",
+      "c": " 43 cm",
+      "d": "45 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Perimeter of the sector = 2r+θ/360° × 2πr\n= 2(10.5) + 120/360 × 2 ×(22/7) × 10.5\n= 21 + 22\n= 43 cm",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

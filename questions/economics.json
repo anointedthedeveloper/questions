@@ -8000,6 +8000,7 @@
     "examyear": "2007"
   },
   {
+<<<<<<< Updated upstream
     "id": 108,
     "question": "Which of the following items is NOT a variable cost? ",
     "option": {
@@ -8007,12 +8008,22 @@
       "b": "cost of electricity ",
       "c": "salaries and wages",
       "d": "cost of raw materials."
+=======
+    "id": 57,
+    "question": "Money market differs from capital market in that it. ",
+    "option": {
+      "a": "deals with short-term loans while capital market deals with long term funds. ",
+      "b": "deals with money only while capital as well ",
+      "c": "is limited in scope while capital market does not. ",
+      "d": "Uses interest rates while capital market does nor."
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "a",
     "solution": "",
     "examtype": "post-utme",
+<<<<<<< Updated upstream
     "examyear": "2011"
   },
   {
@@ -8167,11 +8178,24 @@
       "b": "Conservation of natural gas and oil deposits ",
       "c": "equity in the distribution of national resource ",
       "d": "Producing without waste "
+=======
+    "examyear": "2008"
+  },
+  {
+    "id": 528,
+    "question": "One of the factors determining price elasticity of demand for a commodity is the",
+    "option": {
+      "a": "availability of close substitutes",
+      "b": "number of producers",
+      "c": "government policy",
+      "d": "price of other commodities."
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "a",
     "solution": "",
+<<<<<<< Updated upstream
     "examtype": "post-utme",
     "examyear": "2009"
   },
@@ -8302,5 +8326,9 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
+=======
+    "examtype": "wassce",
+    "examyear": "2005"
+>>>>>>> Stashed changes
   }
 ]

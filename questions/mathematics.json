@@ -15886,5 +15886,21 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
+  },
+  {
+    "id": 527,
+    "question": "If log<sub>10</sub>2 = 0.3010 and log<sub>10</sub>7 = 0.8451, evaluate log<sub>10</sub>280",
+    "option": {
+      "a": "3.4471",
+      "b": "2.4471",
+      "c": "1.4471",
+      "d": "1.4071"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Log 2 = 0.3010, Log 7 = 0.8451\n∴Log 280 = Log 28 x 10\n= Log 7x4x10\n=Log7 + Log4 + Log10\n= Log7 + Log2<sup>2</sup> + Log10\n= Log7 + 2Log2 + Log10\n= 0.8451 + 2(0.3010) + 1\n= 0.8451 + 0.6020 + 1\n= 2.4471",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

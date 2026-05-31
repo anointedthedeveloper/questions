@@ -9390,5 +9390,37 @@
     "solution": "When downward current flows in a vertical conductor, the magnetic field at a point due north of the wire points west (following the right-hand grip rule).",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 161,
+    "question": "A zinc has a heat capacity of 40 J/K, what is the mass of the zinc, given that the specific heat of zinc is 380 J/kg k",
+    "option": {
+      "a": "0.11kg",
+      "b": " 0.12kg",
+      "c": "0.13kg",
+      "d": " 0.14kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Heat capacity (o) = mass (kg) specific heat of a substance (C₂)\n\ni.e Q = MC\n\nwhere Q = 40 J/L, m = ?(380 J/Kgk)\n\n40 = m × 380\n\nm = 0.11kg (Approx)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 84,
+    "question": "Which of the following statements is not true? ",
+    "option": {
+      "a": "electric field intensity is force per unit charge. ",
+      "b": "electric potential is a vector ",
+      "c": "the S.I unit of electric field strength is N/C ",
+      "d": "electric field intensity is equal to the potential gradient"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
   }
 ]

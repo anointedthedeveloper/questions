@@ -1,24 +1,20 @@
 {
   "locks": {
-    "biology": {
-      "machine": "PCTOP",
-      "time": 1780267533.242143
+    "mathematics": {
+      "machine": "A-Server",
+      "time": 1780267614.526136
     },
-    "economics": {
-      "machine": "PCTOP",
-      "time": 1780267533.5029306
+    "english": {
+      "machine": "A-Server",
+      "time": 1780267614.8784537
     },
-    "government": {
-      "machine": "PCTOP",
-      "time": 1780267533.6195486
+    "chemistry": {
+      "machine": "A-Server",
+      "time": 1780267614.91066
     },
-    "geography": {
-      "machine": "PCTOP",
-      "time": 1780266351.238195
-    },
-    "englishlit": {
-      "machine": "PCTOP",
-      "time": 1780267533.336875
+    "physics": {
+      "machine": "A-Server",
+      "time": 1780267614.9226294
     }
   }
 }

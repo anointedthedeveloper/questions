@@ -16750,5 +16750,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 422,
+    "question": "If 5, 8, 6 and 2 occur with frequencies 3, 2, 4 and 1 respectively. Find the product of the modal and the median number",
+    "option": {
+      "a": "36",
+      "b": "48",
+      "c": "30",
+      "d": "40"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715544785/ALOC-Questions/Mathematics/2007/JAMB_2007_Q1_SOLUTION_aujivz.jpg",
+    "answer": "a",
+    "solution": " Arrange in ascending order\n2, 5, 5, 6, 6, ,6, 6, 8, 8\nPosition of median = N/2 = 8/2 = 4th and 5th\nâˆ´Median = (6+6) / 2 = 12/2 = 6\nMode the item that repeat itself most = 6\nâˆ´Product of modal and median number = 6 x 6 = 36",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

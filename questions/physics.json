@@ -5470,5 +5470,69 @@
     "solution": "The instrument used in measuring relative density is hydrometer",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 833,
+    "question": "zener diode is used for?",
+    "option": {
+      "a": "current amplification",
+      "b": "power amplification",
+      "c": "voltage regulation",
+      "d": "energy conversion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Zener diode is useful in stabilized power supply i.e to keep steady the voltage of a power supply.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 705,
+    "question": "The thermos flask is designed to?",
+    "option": {
+      "a": " prevent heat loss or gain by conduction, convection and radiation",
+      "b": " store hot tea or water",
+      "c": " prevent heat gain by conduction, convection and radiation",
+      "d": "prevent heat lost by conduction, convention and radiation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The thermos flask is designed to: A. prevent heat loss or gain by conduction, convection, and radiation\n\nIts design minimizes heat transfer in all three forms, keeping liquids hot or cold for extended periods.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 164,
+    "question": "If the mechanical advantage of a machine is 4. What is its ratio for LOAD to EFFORT?",
+    "option": {
+      "a": "4:01",
+      "b": "1:04",
+      "c": "5:01",
+      "d": "2:01"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Mechanical advantage (M.A) of a machine is the ratio of its load to effort\n\nMathematically\n\nMechanical advantage (M.A) = Load (L) ÷ Effort (E)\n\nIn symbol M.A = L/E\n\nNote:Mechanical (advantages has no S.I unit)\n\nIf M.A = 4 then,\n\nL/E = 4/1\n\nThe ratio of load to effort = 4 : 1 respectively",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 294,
+    "question": "Which of the following obeys Ohm's law?",
+    "option": {
+      "a": " all metals",
+      "b": "diode only",
+      "c": "all electrolytes",
+      "d": "glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "All metals (at constant temperature) obey Ohm's law, acting as ohmic conductors with constant resistance.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

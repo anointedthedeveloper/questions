@@ -14302,5 +14302,21 @@
     "solution": "P (games end in draw)\n=> Team P wins and Q wins\nP(P wins) = 1/2\nP(Q wins) = 1/2\nTherefore P (games ends in draw) = 1/2 x 1/2 = 1/4",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 1178,
+    "question": "Calculate, correct to three significant figures, the length AB in the diagram above.",
+    "option": {
+      "a": "36.4 cm",
+      "b": "36.1 cm",
+      "c": "36.2 cm",
+      "d": " 36.3 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008055/ALOC-Questions/Mathematics/2023/MATH_2023_Q42_msoqr6.jpg",
+    "answer": "c",
+    "solution": "sinA/a = sinB/b = sinC/c\n⟹sin82<sup>0</sup>/43.2 = sin56<sup>0</sup>/AB\n⟹AB × sin82<sup>0</sup> = 43.2 × sin56<sup>0</sup>\n∴ AB = (43.2 × sin56<sup>0</sup>)/sin82<sup>0</sup>  = 36.2cm (to 3 s.f)",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

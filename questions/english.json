@@ -17098,5 +17098,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 523,
+    "question": "People are not interested in who rules ",
+    "option": {
+      "a": "People are not ruled by the leaders they want ",
+      "b": "People are not concerned about who rules them ",
+      "c": "The rulers are not concerned about the people ",
+      "d": "People who rule are not interested in the ruled."
+    },
+    "section": " select the option that best explains the Information conveyed In the sentence. ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1777,
+    "question": "The dressmaker <u>unpicked</u> the seam of the shirt.",
+    "option": {
+      "a": "Tore up.",
+      "b": "Threaded.",
+      "c": "Sewed up.",
+      "d": "Picked up."
+    },
+    "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "c",
+    "solution": "unpicked ; not sewed.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 18,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

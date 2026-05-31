@@ -10574,5 +10574,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 534,
+    "question": "What technique is suitable for separating a binary solution of potassium chloride and potassium trioxochlorate (V)?",
+    "option": {
+      "a": "Fractional crystallization",
+      "b": "Fractional distillation",
+      "c": "Filtration",
+      "d": "Evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "KCl and KClO₃ (potassium trioxochlorate V) are both soluble salts with different solubilities at different temperatures. Fractional crystallization exploits these differences in solubility — on cooling a hot concentrated solution, the less soluble salt crystallizes first. This allows the two salts to be separated selectively. Distillation, filtration, and evaporation are not appropriate for separating two dissolved solids.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

@@ -4414,5 +4414,85 @@
     "solution": "\nGiven information:\n\nC₁ = 0.3 μF\nC₂ = 0.5 μF\nC₃ = 0.2 μF\n\nSolution:\nKey concept:\nMinimum capacitance is obtained when capacitors are connected in series.\nFormula for series capacitors:\n1/Cₜₒₜₐₗ = 1/C₁ + 1/C₂ + 1/C₃\nStep 1: Substitute values\n1/Cₜₒₜₐₗ = 1/0.3 + 1/0.5 + 1/0.2\nStep 2: Calculate each term\n1/Cₜₒₜₐₗ = 3.333 + 2.0 + 5.0\n1/Cₜₒₜₐₗ = 10.333 μF⁻¹\nStep 3: Find Cₜₒₜₐₗ\nCₜₒₜₐₗ = 1/10.333\nCₜₒₜₐₗ = 0.0968 μF ≈ 0.1 μF",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 713,
+    "question": "When an a.c. voltage is applied to a capacitor, no power is consumed because the current",
+    "option": {
+      "a": "leads the voltage by 90°",
+      "b": "lags behind the voltage by 90°",
+      "c": "and voltage are in phase",
+      "d": "and voltage are 180° out of phase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The phase difference of 90° means voltage and current are in quadrature. The capacitor stores energy when charging and returns it when discharging, resulting in zero net power consumption.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 667,
+    "question": "When the temperature difference between the wet and dry bulbs of a hygrometer is high, this indicates that",
+    "option": {
+      "a": "it is about to rain",
+      "b": "the relative humidity is high",
+      "c": "there is plenty of sunshine",
+      "d": "the relative humidity is low"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Large temperature difference indicates low relative humidity.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 200,
+    "question": "A metre rule is pivoted at its mid-point with a vertical force of 10N hanging from the distance 30cm from the mid-point. At what distance must a 15N force hang to balance the ruler horizontally?",
+    "option": {
+      "a": "30cm",
+      "b": "10cm",
+      "c": "20cm",
+      "d": "25m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMeter rule pivoted at mid-point (50 cm mark)\nForce 1 (F₁) = 10 N at distance d₁ = 30 cm from pivot\nForce 2 (F₂) = 15 N at distance d₂ = ? from pivot\n\nPrinciple of moments:\nFor the ruler to balance horizontally:\nClockwise moment = Anticlockwise moment\nFormula:\nF₁ × d₁ = F₂ × d₂\nRearranging to find d₂:\nd₂ = (F₁ × d₁)/F₂\nSubstituting values:\nd₂ = (10 × 30)/15\nd₂ = 300/15\nd₂ = 20 cm\nAnswer: C. 20cm\nThe 15N force must hang at a distance of 20cm from the mid-point to balance the ruler horizontally.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 926,
+    "question": "Power supply is transmitted at a very high voltage and low current in order to?",
+    "option": {
+      "a": ". make pass through the trasformers",
+      "b": "ncrease the power supply",
+      "c": "make it travel fast",
+      "d": "prevent overheating of the coil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "High voltage and low current are used to prevent overheating of the transmission lines.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 509,
+    "question": "The number of holes in an intrinsic semiconductor",
+    "option": {
+      "a": "s not equal to the number of free electrons",
+      "b": "is greater than the number of free electrons",
+      "c": " is equal to the number of free electrons",
+      "d": "is less than the number of free electrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An intrinsic semiconductor, also called an undoped semiconductor, is a pure semiconductor. In intrinsic semiconductors the number of excited electrons and the number of holes are equal: n = p",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

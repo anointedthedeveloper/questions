@@ -16357,5 +16357,24 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 874,
+    "question": "The politician was pilloried by the press for his inflammatory remarks?",
+    "option": {
+      "a": "The politician was snubbed by the press for his remarks",
+      "b": "The politician was criticized by the press for his remarks",
+      "c": "The politician was closely questioned by the press for his remarks",
+      "d": "The politician was ridiculed by the press for his remarks"
+    },
+    "section": "<b>In each of questions 76 to 80, select the option that best explains the information conveyed in the sentence.</b>\n",
+    "image": "",
+    "answer": "d",
+    "solution": "To transcribe the statement above, we first need to know the meaning of the various words used;\n\npilloried means to be attacked or ridiculed publicly. \n\ninflammatory (relating to speech or writing) arousing or intended to arouse angry or violent feelings. example \"inflammatory remarks\"\n\nsynonyms: provocative · provoking · inflaming  · inciting · agitating ·\n\noption D best translate the statement.",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 78,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

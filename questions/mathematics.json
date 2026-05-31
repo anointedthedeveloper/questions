@@ -13854,5 +13854,37 @@
     "solution": "<sup>3</sup>C<sub>1</sub> ×<sup>9</sup> C<sub>5</sub>=3!/((3-1)!1!)×9!/((9-5)!5!) \"\\= \"  3!/2!1!×9!/4!5! \"\\=\"  (3×2!)/(2!×1)×(9×8×7×6×5!)/(4×3×2×1×5!) \"\\=\" 3×9×2×7\"\\=\" 378ways",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1146,
+    "question": "The diagram above is a circle with centre C. P, Q and S are points on the circumference. PS and SR are tangents to the circle. ∠PSR = 36<sup>o</sup>\n. Find ∠PQR",
+    "option": {
+      "a": "72<sup>o</sup>",
+      "b": "36<sup>o</sup>",
+      "c": " 144<sup>o</sup>",
+      "d": "54<sup>o</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007804/ALOC-Questions/Mathematics/2023/Screenshot_2024-08-18_at_8.03.15_PM_e3llyp.png",
+    "answer": "a",
+    "solution": "From ∆PSR\n\n|PS| = |SR| (If two tangents are drawn from an external point of the circle, then they are of equal lengths)\n\n∴ ∆PSR is isosceles\n\n∠PSR + ∠SRP + ∠SPR = 180\n <sup>o</sup> (sum of angles in a triangle)\n\nSince |PS| = |SR|; ∠SRP = ∠SPR\n\n⇒ ∠PSR + ∠SRP + ∠SRP = 180<sup>o</sup>\n\n\n∠PSR + 2∠SRP = 180<sup>o</sup>\n\n\n36<sup>o</sup>\n + 2∠SRP = 180<sup>o</sup>\n\n\n2∠SRP = 180<sup>o</sup>\n - 36<sup>o</sup>\n\n\n2∠SRP = 144<sup>o</sup>\n∠SRP = 144<sup>o</sup>/2=72<sup>o</sup>\n∠SRP = ∠PQR (angle formed by a tangent and chord is equal to the angle in the alternate segment)\n\n∴ ∠PQR = 72<sup>o</sup>",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1124,
+    "question": "The coordinates of the mid-point of the line joining the points (-3,5) and (2,10) is given by? ",
+    "option": {
+      "a": "( 1/2, 15/2)",
+      "b": " ( 1/2, −15/2)",
+      "c": " ( −1/2, −15/2)",
+      "d": " ( −1/2, 15/2)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given Data: x<sub>1</sub> = -3,  x<sub>2</sub> = 2,y<sub>1</sub>  = 5,  y<sub>2</sub> = 10\n\ncoordinates of the mid-point of the line = (x<sub>1</sub>+x<sub>2</sub> /2, y<sub>1</sub>+y<sub>2</sub> /2)\n\n(−3+2/2, 5+10/2)\n\n=  −1/2) , 15/2)",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

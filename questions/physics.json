@@ -11854,5 +11854,165 @@
     "solution": "Opposite deflections imply the charges must be of opposite sign.",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 801,
+    "question": "Which of the following is NOT a vector quantity?",
+    "option": {
+      "a": "altitude",
+      "b": "acceleration",
+      "c": "displacement",
+      "d": "weight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Altitude is just a measure of height, regardless of direction.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 906,
+    "question": "In a hydraulic press, the pump piston exerts a pressure of 100 pa on the liquid. what force is exerted in the second piston of cross sectional area 3 m2?",
+    "option": {
+      "a": "300 N",
+      "b": "200 N",
+      "c": "150 N",
+      "d": "100 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nPressure exerted (P) = 100 Pa\nCross-sectional area of second piston (A₂) = 3 m²\nForce on second piston (F₂) = ?\n\nUnderstanding hydraulic press:\nPascal's principle: Pressure is transmitted equally throughout the fluid in all directions.\nFormula:\nPressure = Force/Area\nP = F/A\nRearranging for force:\nF = P × A\nCalculating force on second piston:\nF₂ = P × A₂\nF₂ = 100 × 3\nF₂ = 300 N",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 943,
+    "question": "In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at N40, the cost of keeping the bulb lighted for a day is?",
+    "option": {
+      "a": "₦1,920.00",
+      "b": " ₦192.00",
+      "c": " ₦19.20",
+      "d": " ₦1.92"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435706/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_44_lbw3ip.png",
+    "answer": "b",
+    "solution": "Energy consumed = power x time\n= 200W x 24hr = 4800wh\n= 4.8 kwh\nBut 1 kwh cost N40\n∴ 4.8kwh costs 4.8 x 40\n= ₦192",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 198,
+    "question": "A saturated vapour pressure of a liquid increases when the",
+    "option": {
+      "a": " Temperature of a liquid increases",
+      "b": "Volume of the liquid increases",
+      "c": "Volume of the liquid decreases",
+      "d": "Temperature of the liquid decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Saturated vapor pressure increases when temperature increases.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 558,
+    "question": "When a charged ebonite rod is brought near a charged glass rod, there will be ",
+    "option": {
+      "a": "attraction",
+      "b": "repulsion",
+      "c": "spark",
+      "d": "no force experienced"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ebonite rods are negatively charged, while glass rods are positively charged when rubbed. Opposite charges attract each other, leading to an attractive force between the rods.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 796,
+    "question": "Lenz's law is a law of conservation of",
+    "option": {
+      "a": "electric charge",
+      "b": "electric current",
+      "c": "Energy",
+      "d": "Momentum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Lenz's lew of electrical magnetic induction is usefully referred to as the law of conservation of energy",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 272,
+    "question": "Calculate the time taken for a mango fruit that falls from a tree 20m to the ground [g = 10 ms⁻²]",
+    "option": {
+      "a": "10s",
+      "b": "5s",
+      "c": "4s",
+      "d": "2s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nHeight (h) = 20 m\nInitial velocity (u) = 0 m/s (dropped from rest)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing equation of motion:\nh = ut + ½gt²\nSince u = 0:\nh = ½gt²\nRearranging:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 20/10)\nt = √(40/10)\nt = √4\nt = 2 seconds",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 830,
+    "question": "The d.c generator has essentially the same components as the a.c generator except the presence of?",
+    "option": {
+      "a": " slip-ring",
+      "b": "carbon brushes",
+      "c": " split ring",
+      "d": "armature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A d.c. generator uses a split ring (commutator) to convert alternating current (a.c.) to direct current (d.c.), while an a.c. generator uses slip rings.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1074,
+    "question": "When a charge moves through an electric circuit in the direction of an electric force, it",
+    "option": {
+      "a": " gains both potential and kinetic energy",
+      "b": " gains potential energy and lose kinetic energy",
+      "c": "loses potential energy and gains kinetic energy",
+      "d": "loses both potential and kinetic energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a charge moves in the direction of electric force, it loses potential energy and gains kinetic energy.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 169,
+    "question": "The symbol  ₋₁⁰X used to represent which of the particles?",
+    "option": {
+      "a": "Proton",
+      "b": "Neutron",
+      "c": "Electrons",
+      "d": "Atoms"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The symbol ₋₁⁰X shows:\n\n0 (top) = mass number (electrons have negligible mass)\n-1 (bottom) = charge (electrons are negatively charged)\n\nAnswer: C. Electrons\nElectrons have zero mass and a charge of -1, which matches the symbol ₋₁⁰X.",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

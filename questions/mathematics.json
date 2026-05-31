@@ -16942,5 +16942,21 @@
     "solution": "P(H) = 1/2 and P(T) = 1/2\n\nUsing the binomial prob. distribution,\n\n(H + T)3 = H3 + 3H2T1 + 3HT2 + T3\n\nHence the probability that three heads show in a toss of the three coins is H3\n\n= (1/2)3\n\n= 1/8",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 19,
+    "question": "A square tile measures 20cm by 20cm. How many of such tiles will cover a floor measuring 5m by 4m? ",
+    "option": {
+      "a": "500",
+      "b": "400",
+      "c": "320",
+      "d": "250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   }
 ]

@@ -12174,5 +12174,21 @@
     "solution": "Given information:\nVoltage = 240 V (not needed directly for energy calculation)\nPower P = 60 W\nTime t = 1 hour = 3600 s\n\nSolution:\n\nStep 1: Relationship between energy, power, and time\nElectrical energy E = P × t\n\nStep 2: Substitute values\nE = 60 W × 3600 s = 216 000 J\n\nStep 3: Express in scientific notation\n216 000 J = 2.16 × 10⁵ J",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 236,
+    "question": "Under which of the following conditions is workdone",
+    "option": {
+      "a": "A man supports a heavy food above his head with his hands",
+      "b": "A boy climbs onto a table",
+      "c": "A man pushes unto a table",
+      "d": "A woman holds a pot of water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "For work to be done, distance must be involved because\nworkdone = force × distance",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

@@ -12804,5 +12804,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1224,
+    "question": "The lady has devised a means of <u>tackling</u> her current challenges.",
+    "option": {
+      "a": "attacking",
+      "b": "avoiding",
+      "c": "handling",
+      "d": "suspending"
+    },
+    "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+    "image": "",
+    "answer": "b",
+    "solution": "Tackling: make determined efforts to deal with (a problem or difficult task).\n\nAvoiding: keep away from or stop oneself from doing (something).",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 31,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 411,
+    "question": "The union officials suddenly became <i>reactive</i>",
+    "option": {
+      "a": "unruly ",
+      "b": "impatient ",
+      "c": "calm  ",
+      "d": "submissive "
+    },
+    "section": "choose the option nearest in meaning to the word or phrase In Italics",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

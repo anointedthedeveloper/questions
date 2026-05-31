@@ -10782,5 +10782,37 @@
     "solution": "Refraction index, n = (real depth)/apparent depth\n1.5 = (10)/X\nX = (10)/1.5 = 6.67 cm",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 900,
+    "question": "Two cars moving in the same direction have speeds of 100 kmh⁻¹ and 130 kmh⁻¹. What is the velocity of the faster car as measured by an observer in the slower car?",
+    "option": {
+      "a": "30 kmh⁻¹",
+      "b": "130 kmh⁻¹",
+      "c": "200 kmh⁻¹",
+      "d": "230 kmh⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nSpeed of slower car (v₁) = 100 km/h\nSpeed of faster car (v₂) = 130 km/h\nBoth moving in the same direction\nRelative velocity = ?\n\nUnderstanding relative velocity:\nThe velocity of one object as measured by an observer in another moving object is called relative velocity.\nFormula for relative velocity (same direction):\nv_relative = v₂ - v₁\nSubstituting values:\nv_relative = 130 - 100\nv_relative = 30 km/h",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 386,
+    "question": "In the study of Physics, temperature and heat are often confused with each other. Which of the following statements correctly defines these two elements?",
+    "option": {
+      "a": "Temperature is a measure of the average kinetic energy of the molecules of a substance",
+      "b": "Heat is a measure of the total kinetic energy of the molecules in a system",
+      "c": " Different materials require different amounts of heat to cause a given change in temperature",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All of the statements correctly define temperature and heat: (A) temperature measures average molecular kinetic energy, (B) heat relates to total kinetic energy of the system, and (C) different materials have different heat requirements for temperature changes.",
+    "examtype": "utme",
+    "examyear": "2020"
   }
 ]

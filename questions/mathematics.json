@@ -17198,5 +17198,37 @@
     "solution": "hyp = 5cm, adj =  8cm/2  4cm, opp = xcm\n\nPythagoras theorem: \n\nhyp<sup>2</sup> = opp<sup>2</sup> + adj<sup>2</sup>\n                                                                                                                        5<sup>2</sup>  = x<sup>2</sup>  + 4<sup>2</sup>\n                                                                                                                        x<sup>2</sup> = 25 - 16\n\nx = √9\n\nx = 3cm",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 663,
+    "question": "Find the probability that a number picked at random from the set(43, 44, 45, ..., 60) is a prime number.",
+    "option": {
+      "a": "2/3",
+      "b": "1/3",
+      "c": "2/9",
+      "d": "7/9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Prime numbers = (43,47,53,59)\n\nN = (43, 44, 45,..., 60)\n\nThe universal set contains 18 numbers.\n\nThe prime numbers between 43 and 60 are 4\n\nProbability of picking a prime number = 4/18\n\n= 2/9",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 1157,
+    "question": "A coin is thrown 3 times. What is the probability that atleast one head is obtained?",
+    "option": {
+      "a": "7/8",
+      "b": "3/8",
+      "c": " None the above",
+      "d": "1/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sample space = {HHH, HHT, HTH, THH, TTH, THT, HTT, TTT}\n\nTotal number of possible outcomes = 2 x 2 x 2 = 8\n\nfavourable number of outcomes = 7\n\n∴Pr(at least one head) = 7/8",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

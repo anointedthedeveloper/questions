@@ -8654,5 +8654,21 @@
     "solution": "Given information:\n\nWavelength (λ) = 1.65 m\nSpeed of sound (v) = 330 m/s\nPeriod (T) = ?\n\nStep 1: Calculate frequency using wave equation\nv = fλ\nRearranging:\nf = v/λ\nSubstituting values:\nf = 330/1.65\nf = 200 Hz\nStep 2: Calculate period\nPeriod is the reciprocal of frequency:\nT = 1/f\nSubstituting:\nT = 1/200\nT = 0.005 s\nExplanation:\nThe period represents the time for one complete wave cycle (oscillation). With a frequency of 200 Hz (200 cycles per second), each cycle takes 1/200 = 0.005 seconds.",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 1005,
+    "question": "If a freely suspended object is pulled to one side and released, it oscillates about the point of suspension because the",
+    "option": {
+      "a": " acceleration is directly proportional to the displacement",
+      "b": " motion is directed away from the equilibrium point",
+      "c": "acceleration is directly proportional to the square of the displacement",
+      "d": "velocity is minimum at the equilibrium ponit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The object oscillates because the acceleration (restoring force) is directly proportional to the displacement from equilibrium. This fundamental relationship defines Simple Harmonic Motion and is what causes the oscillatory behavior.\nKey relationships in pendulum SHM:\n\nAt extreme positions: Maximum displacement, zero velocity, maximum acceleration\nAt equilibrium: Zero displacement, maximum velocity, zero acceleration\nThe proportional relationship a ∝ -x ensures continuous oscillation",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

@@ -19929,5 +19929,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 937,
+    "question": "The principal described Oche as the most <u>tactful</u> person he had ever worked with?",
+    "option": {
+      "a": "passionate",
+      "b": "discreet",
+      "c": "hard-working",
+      "d": "innovative"
+    },
+    "section": "<b>In each of the questions 34 to 48, Choose the option nearest in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "Tactful;  having or showing skill and sensitivity in dealing with others or with difficult issues.\n\nDiscreet; careful and prudent in one's speech or actions, especially to keep something confidential or avoid embarrassment.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 42,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1586,
+    "question": "When you ____ an opponent's point in a debate, you must do so politely",
+    "option": {
+      "a": "refute",
+      "b": "rebuke",
+      "c": "reject",
+      "d": "refuse"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When you refute you prove a statement or theory to be wrong or false",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 23,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

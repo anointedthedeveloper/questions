@@ -9742,5 +9742,53 @@
     "solution": "Perforated materials absorb sound, reducing reverberation.",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 1048,
+    "question": "\nIf a pump is capable of lifting 5000kg of water through a vertical height of 60m in 15 min, the power of the pump is",
+    "option": {
+      "a": "2.5 × 10⁵ Js⁻¹",
+      "b": "2.5 × 10⁴ Js⁻¹",
+      "c": "3.3 × 10³ Js⁻¹",
+      "d": "3.3 × 10² Js⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\n\nMass of water (m) = 5000 kg\nHeight (h) = 60 m\nTime (t) = 15 min = 15 × 60 = 900 s\ng = 10 m/s² (assumed)\nPower (P) = ?\n\nUnderstanding power:\nPower = Work done / Time taken\nStep 1: Calculate work done\nWork = Potential energy gained\nW = mgh\nSubstituting values:\nW = 5000 × 10 × 60\nW = 3,000,000 J\nW = 3.0 × 10⁶ J\nStep 2: Calculate power\nP = W/t\nP = (3.0 × 10⁶)/900\nP = 3333.33 W\nP = 3.3 × 10³ W\nP = 3.3 × 10³ Js⁻¹",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1145,
+    "question": "The volume of a fixed mass of gas at 0 °C is 200 m³. What is its volume at 273 °C at constant pressure?",
+    "option": {
+      "a": "100 m³",
+      "b": "400 m³",
+      "c": "800 m³",
+      "d": "200 m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nInitial temperature, T₁ = 0 °C = 273 K\nInitial volume, V₁ = 200 m³\nFinal temperature, T₂ = 273 °C = 273 + 273 = 546 K\nPressure is constant.\n\nSolution:\n\nStep 1: Charles' law\nAt constant pressure, V ∝ T (absolute temperature).\nV₁ / T₁ = V₂ / T₂\n\nStep 2: Rearrange to find V₂\nV₂ = V₁ × (T₂ / T₁)\n\nStep 3: Substitute values\nV₂ = 200 × (546 / 273) = 200 × 2 = 400 m³",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 601,
+    "question": "A radioisotope has a decay constant of 10⁻⁷ s⁻¹. The average life of the radioisotope is",
+    "option": {
+      "a": "1.00 × 10⁷ s",
+      "b": "6.93 × 10⁶ s",
+      "c": " 1.00 × 10⁻⁷ s",
+      "d": " 6.93 × 10⁷ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁷ s⁻¹\nAverage life (mean life) = ?\n\nUnderstanding average life:\nThe average (mean) life of a radioisotope is the average time a nucleus exists before decaying.\nFormula for average life:\nAverage life (τ) = 1/λ\nNote: This is different from half-life:\n\nHalf-life: T₁/₂ = 0.693/λ = ln(2)/λ\nAverage life: τ = 1/λ\n\nCalculating average life:\nτ = 1/λ\nτ = 1/(10⁻⁷)\nτ = 10⁷ s\nτ = 1.00 × 10⁷ s\nVerification:\nThe relationship between average life and half-life:\nτ = T₁/₂/0.693 = 1.44 × T₁/₂",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

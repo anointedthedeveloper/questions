@@ -16094,5 +16094,21 @@
     "solution": "16<sup>0.16</sup> × 16<sup>0.04</sup> × 2<sup>0.2/sup>\n\n= 2<sup>4(0.16)</sup> × 2<sup>4(0.04)</sup> ×2<sup>0.2</sup>\n\n= 2<sup>0.64</sup> × 2<sup>0.16</sup> × 2<sup>0.2</sup>\n\n=2<sup>(0.64 × 0.16 × 0.2)</sup>\n\n=2<sup>1</sup>\n\n  = 2",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 148,
+    "question": "Evaluate (Integral)2(2x-3)<sup>2/3</sup>dx",
+    "option": {
+      "a": "3/5(2x-3)<sup>5/3</sup> + k",
+      "b": "6/5(2x-3)<sup>5/3</sup> + k",
+      "c": " 2x-3+k",
+      "d": "2(2x-3)+k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "HINT: Integrate the function easily by letting the value in bracket = letter \"U\". ie U = 2x-3, and then dx = du/2.\n\nSubstitute into the function and work it out.",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

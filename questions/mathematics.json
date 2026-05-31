@@ -14510,5 +14510,21 @@
     "solution": "3x - 7 ≤ 0 and x + 5 > 0\n3x ≤ 7 and x > -5\nx ≤ 7/3\n∴ Range -5 < x ≤ 7/3",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 178,
+    "question": "If dy/dx = 2x - 3 and y = 3 when x = 0, find y in terms of x.",
+    "option": {
+      "a": " 2x<sup>2</sup> - 3x",
+      "b": " x<sup>2</sup> - 3x",
+      "c": " 2x<sup>2</sup> - 3x - 3",
+      "d": " 2x<sup>2</sup> - 3x + 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "dy/dx = 2x - 3\ny = ∫2x - 3 dx => y = xx<sup>2</sup> - 3x + c\n3 = (0)2 - 3(0) + c\n=> c = 3\n\nThus y = x2 - 3x + 3",
+    "examtype": "utme",
+    "examyear": "2002"
   }
 ]

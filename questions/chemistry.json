@@ -10702,5 +10702,37 @@
     "solution": "Rare (noble) gases are stable because their outermost shells contain a full complement of electrons — a duplet (2 electrons, for He) or octet (8 electrons, for Ne, Ar, Kr, Xe, Rn). This full outer shell configuration makes them chemically inert with no tendency to gain or lose electrons.",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 525,
+    "question": "When ammonia and hydrogen ion bond together to form ammonium ion, the bond formed is called",
+    "option": {
+      "a": "electrovalent bond",
+      "b": "compound bond",
+      "c": "ionic bond",
+      "d": "dative covalent bond"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When NH₃ donates its lone pair of electrons to H⁺ to form NH₄⁺, a dative covalent (coordinate) bond is formed: NH₃ + H⁺ → NH₄⁺. In a dative bond, both electrons in the bond come from one atom (the nitrogen in NH₃). This is a special type of covalent bond — also called a coordinate bond.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 581,
+    "question": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?",
+    "option": {
+      "a": "24,125 C",
+      "b": "48,250 C",
+      "c": "72,375 C",
+      "d": "96,500 C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "At the anode: 2H₂O → O₂ + 4H⁺ + 4e⁻. One mole of O₂ requires 4 Faradays. For 0.125 mol O₂: charge = 0.125 × 4 × 96500 = 48,250 C.",
+    "examtype": "utme",
+    "examyear": "2020"
   }
 ]

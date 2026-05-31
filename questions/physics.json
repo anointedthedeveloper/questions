@@ -6158,5 +6158,53 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
+  },
+  {
+    "id": 584,
+    "question": "The process of adding impurities to a semiconductor material to increase its conductivity is ",
+    "option": {
+      "a": "Rectification",
+      "b": "Emission",
+      "c": "Doping",
+      "d": "Stabilization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The process of adding impurities to a semiconductor material to increase its conductivity is called doping. This is fundamental to creating functional semiconductor devices like diodes, transistors, and integrated circuits.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1155,
+    "question": "If an object sinks in water, it means that",
+    "option": {
+      "a": "Its density is greater than that of water",
+      "b": ". upthrust equals its weight",
+      "c": " its density is less than that of water",
+      "d": "water pressure is greater than its weight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An object sinks when its density is greater than that of water.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 290,
+    "question": "What type of reaction is represented by the following scheme?\n²¹X + ²¹Y → ³²Z + ¹⁰n + energy",
+    "option": {
+      "a": "Fusion reaction",
+      "b": "Fission reaction",
+      "c": "Chain reaction",
+      "d": " Radioactive decay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Analyzing the reaction:\nReactants:\n\nTwo light nuclei: ²¹X and ²¹Y\n\nProducts:\n\nOne heavier nucleus: ³²Z\nNeutrons: ¹⁰n\nEnergy released\n\nCharacteristics observed:\n\nTwo lighter nuclei combine to form a heavier nucleus\nEnergy is released\nMass numbers: 21 + 21 ≈ 32 + 10 (conserved)\n\nThis is a fusion reaction where two light nuclei (²¹X and ²¹Y) combine to form a heavier nucleus (³²Z) with the release of neutrons and energy.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

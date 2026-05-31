@@ -14606,5 +14606,37 @@
     "solution": "If logx1/264 = 3\n(X 1/2)3 = 64\n(X 1/2)3 = 4 3\nX 1/2 = 4\nX = 42\nX = 16",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 340,
+    "question": "In the diagram above calculate the value of x",
+    "option": {
+      "a": "60°",
+      "b": "100°",
+      "c": "120°",
+      "d": "140°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702104/ALOC-Questions/Mathematics/2005/math_2005_q19_gir53c.jpg",
+    "answer": "c",
+    "solution": "p + 40° = 100° (exterior ∠ = sum of two interior opp ∠s)\np = 100° - 40°\nP = 60°\nBut q + p = 180° (∠s on a straight line)\nq + 60°\nq = 180° - 60°\nq = 120°\nx = q (corresponding ∠)\n∴x = 120°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 356,
+    "question": "The histogram above shows the distribution of monthly incomes of the workers in a company. How many workers earn more than N700.00?",
+    "option": {
+      "a": "16",
+      "b": "12",
+      "c": "8",
+      "d": "6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702298/ALOC-Questions/Mathematics/2005/math_2005_q35_dwzadg.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

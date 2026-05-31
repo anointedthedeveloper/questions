@@ -2638,5 +2638,53 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following formulae is the correct one for converting X0 Fahrenheit temperature reading into Centigrade temperature readings (Y0)?  ",
+    "option": {
+      "a": "Y = (X + 32)5/90C ",
+      "b": "Y = (X – 32)5/90C  ",
+      "c": "Y =  (X – 32)9/50C  ",
+      "d": "Y = (X+32)9/50C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 283,
+    "question": "The relative relief of the area is slight above",
+    "option": {
+      "a": "575m",
+      "b": "485m",
+      "c": "75m",
+      "d": "105m"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2017_6_and_7_y30z7q.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 128,
+    "question": "Noonday sun is vertically overhead along the Tropic of Cancer during the month of  ",
+    "option": {
+      "a": "June  ",
+      "b": "July  ",
+      "c": "August  ",
+      "d": "September "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
   }
 ]

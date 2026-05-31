@@ -11022,5 +11022,21 @@
     "solution": "Noble gases (Group VIII/Group 18) are chemically inert because their outermost electron shells are completely filled. Helium has 2 electrons (full 1s²), and the rest have 8 electrons in their outermost shell (ns²np⁶), achieving stable octet configurations. This complete filling leaves no tendency to gain, lose, or share electrons, making them unreactive. They are not solids at room temperature and exist as monoatomic gases.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 650,
+    "question": "Zn + 2HCl → ZnCl₂ + H₂. What happens to zinc in the above reaction?",
+    "option": {
+      "a": "oxidized",
+      "b": "a reactant",
+      "c": "reduced",
+      "d": "a metal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In this reaction, zinc (Zn) goes from an oxidation state of 0 in the element to +2 in ZnCl₂. A loss of electrons and an increase in oxidation number constitutes oxidation. Zinc is therefore oxidised. Hydrogen simultaneously goes from +1 in HCl to 0 in H₂ gas, meaning hydrogen is reduced. Zinc is the reducing agent.",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

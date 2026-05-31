@@ -18010,5 +18010,62 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1253,
+    "question": "He travels every WEEKEND",
+    "option": {
+      "a": " Does he sleep every weekend?",
+      "b": " Does he wash every week days?",
+      "c": " Does he travel every month?",
+      "d": "Does he travel every day?"
+    },
+    "section": "choose the option that best answers the question from the options lettered A-D",
+    "image": "",
+    "answer": "c",
+    "solution": "Option c is the correct answer because WEEKEND contradicts the phrase 'every month'",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 60,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1618,
+    "question": "The speculation amongst the students of Forcados High School was that Jimi was dating",
+    "option": {
+      "a": "Risikat",
+      "b": "Joke",
+      "c": "Caro",
+      "d": "Efua"
+    },
+    "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 6,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1031,
+    "question": "We were <u>shocked</u> by the news that he had lost the money.",
+    "option": {
+      "a": "astonished",
+      "b": "unconcerned",
+      "c": "disconcerted",
+      "d": "surprised"
+    },
+    "section": "In each of the questions 36 to 50 choose the option <b>opposite</b> in meaning to the underlined word or phrase.\n",
+    "image": "",
+    "answer": "b",
+    "solution": "shocked; cause (someone) to feel surprised and upset",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 37,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

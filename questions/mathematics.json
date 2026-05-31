@@ -16558,5 +16558,21 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 450,
+    "question": "If log<sub>10</sub> 2 = x, express log<sub>10</sub>12.5 in terms of x",
+    "option": {
+      "a": "2(1 + x)",
+      "b": " 2 + 3x",
+      "c": "2(1 - x)",
+      "d": "2 - 3x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "log<sub>10</sub>12.5 = log<sub>10</sub>12(1/2)\n= log<sub>10</sub>25/2\n= log<sub>10</sub>25 - log<sub>10</sub>2\n= log<sub>10</sub>5log<sup>10</sup> - log<sub>10</sub>2\n= 2log<sub>10</sub>5 - log<sub>10</sub>2\n= 2log<sub>10</sub>10/2 - log<sub>10</sub>2\n= 2(1-x)- x\n= 2 - 2x – x\n= 2 – 3x",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

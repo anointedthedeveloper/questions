@@ -15582,5 +15582,21 @@
     "solution": "1011<sup>2</sup><sub>2</sub> - 101<sup>2</sup><sub>2</sub> = (1x2<sup>3</sup> + 0x2<sup>2</sup> + 1x2<sup>1</sup> + 1x2<sup>0</sup>)<sup>2</sup> - (1x2<sup>2</sup> + 0x2<sup>1</sup> + 1x2<sup>2</sup>)2\n(1x8 + 0x4 + 1x2 + 1x1)<sup>2</sup> - (1x4 + 0x2 + 1x1)<sup>2</sup>)\n= (8 + 0 + 2 + 1) <sup>2</sup> - (4 + 0 + 1) <sup>2</sup>\n= 11<sup>2</sup>- 5<sup>2</sup>\n= 16 x 6 = 96\n9610 to base 2\n2/96 = 48 R 0\n2/48 = 24 R 0\n2/24 = 12 R 0\n2/12 = 6 R 0\n2/6 = 3 R 0\n2/3 = 1 R 1\n2/1 = 0 R 1\n1100000<sub>2</sub>",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 159,
+    "question": "Find the number of ways of selecting 8 subjects from 12 subjects for an examination.",
+    "option": {
+      "a": "490",
+      "b": "495",
+      "c": "496",
+      "d": "498"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Combination is the (n) number of ways of selecting a number of (r) subjects from n.\nnCr = n!/r!(n-r)! = 12! 8! x 4! = 495",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

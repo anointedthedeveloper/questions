@@ -14638,5 +14638,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 937,
+    "question": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\n \n\nWhat is the median mark?",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006353/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q19_itulpw.jpg",
+    "answer": "c",
+    "solution": "Total frequency = 1 + 2 + 7 + 5 + 4 + 3 = 22\n\n Median is the middle number\n\n = Nth/2\n  term = 22th/2\n = 11th term\n\n  Going in ascending order, 11th term is 3, going in descending order 11th term is 3\n\n  Median = 3 + 3/2 = 6/2 = 3",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

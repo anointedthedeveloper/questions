@@ -6206,5 +6206,37 @@
     "solution": "Analyzing the reaction:\nReactants:\n\nTwo light nuclei: ²¹X and ²¹Y\n\nProducts:\n\nOne heavier nucleus: ³²Z\nNeutrons: ¹⁰n\nEnergy released\n\nCharacteristics observed:\n\nTwo lighter nuclei combine to form a heavier nucleus\nEnergy is released\nMass numbers: 21 + 21 ≈ 32 + 10 (conserved)\n\nThis is a fusion reaction where two light nuclei (²¹X and ²¹Y) combine to form a heavier nucleus (³²Z) with the release of neutrons and energy.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 133,
+    "question": "What is the inductance (L) of an inductor whose reactance is 1Ω at 50/ π hertz (H)?",
+    "option": {
+      "a": " 100 H",
+      "b": "0.01H",
+      "c": "10H",
+      "d": "1H"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInductive reactance (Xₗ) = 1Ω\nFrequency (f) = 50/π Hz\nInductance (L) = ?\n\nFormula for Inductive Reactance:\nXₗ = 2πfL\nRearranging to find L:\nL = Xₗ/(2πf)\nSubstituting values:\nL = 1/(2π × 50/π)\nL = 1/(2 × 50)\nL = 1/100\nL = 0.01 H\nAnswer: B. 0.01H",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 311,
+    "question": "The differences observed in solids, liquids and gases may be accounted for by",
+    "option": {
+      "a": "their relative masses",
+      "b": "their melting points",
+      "c": " the spacing and forces acting between the molecules",
+      "d": "the different molecules in each of them"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The differences between solids, liquids, and gases are accounted for by the spacing between molecules and the strength of intermolecular forces.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

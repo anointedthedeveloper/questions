@@ -14830,5 +14830,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 982,
+    "question": "Find the variance",
+    "option": {
+      "a": "3.42",
+      "b": "4.69",
+      "c": " 4.85",
+      "d": " 3.72"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006808/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q15_cfctff.jpg",
+    "answer": "d",
+    "solution": "Variance = ∑f(x−x¯)/∑f\n= 170.888/46\n= 3.72",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

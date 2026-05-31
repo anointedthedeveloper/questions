@@ -6654,5 +6654,53 @@
     "solution": "Given information:\n\nForce (F) = 5 N\nTime (t) = 5 seconds\nMass (m) = 5 kg\nInitial velocity = 0 (at rest)\nFinal momentum = ?\n\nUsing Impulse-Momentum Theorem:\nImpulse = Change in momentum\nFt = Final momentum - Initial momentum\nSince initial momentum = 0 (at rest):\nFt = Final momentum\nCalculating:\nFinal momentum = Ft\nFinal momentum = 5 × 5\nFinal momentum = 25 kgms⁻¹",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 551,
+    "question": "Under which conditions is work done",
+    "option": {
+      "a": "A man supports a heavy load on his head with hands.",
+      "b": "A woman holds a pot of water",
+      "c": "A boy climbs onto a table",
+      "d": "A man pushes against a stationary petrol tanker"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Work is only done when there is both force and displacement in the direction of the force. Only in option C does the boy move (upward displacement) while applying force against gravity, thus doing work. In all other options, despite forces being applied, there is no displacement, so no work is done.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 265,
+    "question": "What is the speed of a body vibrating at 50 cyclic per second",
+    "option": {
+      "a": "100πrads⁻¹",
+      "b": "200πrads⁻¹",
+      "c": "50πrads⁻¹",
+      "d": "400πrads⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nFrequency (f) = 50 cycles per second = 50 Hz\nAngular speed (ω) = ?\n\n\nFormula:\nω = 2πf\nSubstituting values:\nω = 2π × 50\nω = 100π rad/s",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 182,
+    "question": "What happens to a water pool on a day when the humidity of the air is very low?",
+    "option": {
+      "a": "Temperature decreases",
+      "b": " Slow evaporation",
+      "c": "Temperature increases",
+      "d": "Rapid evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Low humidity means dry air, which promotes rapid evaporation of water.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

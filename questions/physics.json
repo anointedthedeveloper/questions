@@ -3662,5 +3662,69 @@
     "solution": "Given information:\nLength of rod, L = 0.2 m\nTemperature gradient = 416 K m⁻¹\nTemperature at one end, T₁ = 233 °C\n\nSolution:\n\nStep 1: Interpret temperature gradient\nTemperature gradient = (T₂ – T₁) / L, where T₂ is the temperature at the other end.\n\nStep 2: Rearrange to find T₂\nT₂ – T₁ = temperature gradient × L\nT₂ = T₁ + (temperature gradient × L)\n\nStep 3: Substitute values\nT₂ = 233 °C + (416 K m⁻¹ × 0.2 m)\nNote: A change of 1 K is the same as a change of 1 °C, so we can work in °C directly.\nT₂ = 233 + 83.2 = 316.2 °C",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 1103,
+    "question": "An object is placed 10m from a pinhole camera of length 25cm. Calculate the linear magnification.",
+    "option": {
+      "a": "2.5 × 10²",
+      "b": "2.5 × 10⁻²",
+      "c": "2.5 × 10⁻¹",
+      "d": " 2.5 × 10¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nObject distance, u = 10 m\nImage distance (camera length), v = 25 cm = 0.25 m\n\nSolution:\n\nStep 1: Magnification formula for a pinhole camera\nLinear magnification m = image height / object height = v / u\n\nStep 2: Substitute the values\nm = 0.25 m / 10 m = 0.025\n\nStep 3: Express in scientific notation\n0.025 = 2.5 × 10⁻²",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 379,
+    "question": "In semi-conductor, the carriers of current at room temperature are",
+    "option": {
+      "a": "electrons only",
+      "b": "electrons and holes",
+      "c": " holes only",
+      "d": " electron and ions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Electron and holes represents the negative and positive charge respectively.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 184,
+    "question": "I. Chemical II. Sound III. Electricity\n\nWhich of the above forms of energy can directly be converted to light energy?",
+    "option": {
+      "a": " I and II only",
+      "b": " II and III only",
+      "c": "I, II and III",
+      "d": " I and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Chemical and electrical energy can be directly converted to light energy, but sound energy cannot.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 413,
+    "question": "\nIn an experiment in which molten naphthalene is allowed to cool, the cooling curve in the figure was obtained. The temperature 80°C is known as the",
+    "option": {
+      "a": "Cooling temperature",
+      "b": "Boiling point",
+      "c": "Melting point",
+      "d": "Vaporization point"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612725/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_34_giruq4.jpg",
+    "answer": "c",
+    "solution": "Understanding the cooling curve:\nFrom the graph:\n\nTemperature starts at ~100°C\nDrops rapidly to ~80°C\nRemains constant at 80°C for several minutes (flat horizontal section)\nThen continues dropping below 80°C\n\nWhat happens at the flat section:\nThe horizontal plateau at 80°C indicates a phase change is occurring:\n\nTemperature remains constant while naphthalene changes from liquid to solid\nDuring solidification, latent heat is released\nThis heat release keeps temperature constant until all liquid has solidified\n\nIdentifying the temperature:\nThe temperature at which a substance changes from liquid to solid (or solid to liquid) is called the melting point (or freezing point - same temperature).\nFor naphthalene: 80°C is the temperature where:\n\nLiquid naphthalene solidifies (when cooling)\nSolid naphthalene melts (when heating)",
+    "examtype": "utme",
+    "examyear": "2020"
   }
 ]

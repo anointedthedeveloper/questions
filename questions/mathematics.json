@@ -15758,5 +15758,21 @@
     "solution": "A(4,2) and B(1,r), AB = 3 units\n\n3 = √ (x<sup>2</sup>- x<sup>1</sup>)2 + (y<sup>2</sup>-y<sup>1</sup>)2\n\n\n3 = √ (4-1)2 + (2-r)2\n\n\n3 = √ 32 + (2-r)2\n\n\n3 = √ 9 + 4 – 4r + r2\n\n\n3 = √ r2 - 4r + 13\n\n9 = r2 - 4r + 13 By squaring both sides\nr2 - 4r + 4 = 0\n(r-2)(r-2) = 0\nr = 2",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 1002,
+    "question": "Find the value of ((0.5436)<sup>3</sup>)/(0.017×0.219) to 3 significant figures.",
+    "option": {
+      "a": "46.2",
+      "b": "43.1",
+      "c": "534",
+      "d": "431"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "= 0.16063/0.017 × 0.219\n= 43.1 (to 3 s.f)",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

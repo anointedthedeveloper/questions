@@ -9166,5 +9166,21 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 872,
+    "question": "If the refractive index of crown glass is 1.51, its critical angle is?",
+    "option": {
+      "a": "48.6°",
+      "b": "22.5°",
+      "c": "41.5°",
+      "d": "45.0°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nRefractive index n = 1.51\n\nSolution:\n\nStep 1: Critical angle formula\nFor a ray traveling from the medium (glass) to air, the critical angle C is given by:\nsin C = 1 / n\n\nStep 2: Substitute value\nsin C = 1 / 1.51 ≈ 0.66225\n\nStep 3: Find C\nC = sin⁻¹(0.66225) ≈ 41.5°",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

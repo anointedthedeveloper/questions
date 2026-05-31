@@ -10254,5 +10254,37 @@
     "solution": "The atomicity of ozone is 3 because each ozone molecule contains three oxygen atoms (O₃).",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 669,
+    "question": "How many bonding pairs are present in carbon(iv)oxide?",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Carbon(IV) oxide is CO₂, with the structure O=C=O. Each C=O double bond consists of 2 bonding pairs (one sigma bond and one pi bond). With two C=O double bonds, the total number of bonding pairs = 2 × 2 = 4. There are no lone pairs on carbon and 2 lone pairs on each oxygen, but these are not bonding pairs.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 539,
+    "question": "A radioactive nucleus has a half-life of 20 years, starting with 100,000 particles, how many particles will be left exactly at the end of 40 years",
+    "option": {
+      "a": "75,000 particles",
+      "b": "35,000 particles",
+      "c": "25,000 particles",
+      "d": "50,000 particles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Number of half-lives in 40 years = 40 ÷ 20 = 2. Remaining particles = 100,000 × (½)² = 100,000 × ¼ = 25,000 particles. Answer: C.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

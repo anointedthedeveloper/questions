@@ -4350,5 +4350,69 @@
     "solution": "The electrophorus uses electrostatic induction to repeatedly generate charges without losing the initial charge on the base plate. This allows securing a large number of similar charges.",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 975,
+    "question": "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant?",
+    "option": {
+      "a": "0.3",
+      "b": "6.0",
+      "c": "3.0",
+      "d": "2.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Dielectric constant = (c)/c° = (60)/20 = 3",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 763,
+    "question": "I. They should be identical\nII. They should originate from the same source.\nIII. They should be coherent.\nIV. They should be monochromatic.\n\n\nfrom the statements above, the conditions for two waves to interfere are?",
+    "option": {
+      "a": "I ,II and III only",
+      "b": "I, III and IV only",
+      "c": " II, III and IV only",
+      "d": " I, II, III and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The conditions for two waves to produce observable interference are that they should originate from the same source (II), be coherent (III), and be monochromatic (IV). They don't need to be identical in all respects, just coherent with constant wavelength.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 921,
+    "question": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is?",
+    "option": {
+      "a": "2 cm",
+      "b": " 3 cm",
+      "c": "4 cm",
+      "d": " 5 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nObject height, h₀ = 4 cm\nObject distance, u = 15 cm\nFocal length, f = 5 cm (positive for concave mirror in Cartesian sign convention)\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n1/5 = 1/15 + 1/v\n\nStep 2: Solve for image distance v\n1/v = 1/5 – 1/15 = 3/15 – 1/15 = 2/15\nv = 15/2 = 7.5 cm\n\nStep 3: Magnification formula\nMagnification m = v / u = 7.5 / 15 = 0.5\nAlso, m = image height / object height = hᵢ / h₀\n\nStep 4: Find image height\nhᵢ = m × h₀ = 0.5 × 4 cm = 2 cm",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 617,
+    "question": "Given three capacitors 0.3μF, 0.5μF and 0.2μF, the joint capacitance when arranged to give minimum capacitance is",
+    "option": {
+      "a": " 0.1μF",
+      "b": "0.3μF",
+      "c": "1.0μF",
+      "d": "0.5μF"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nC₁ = 0.3 μF\nC₂ = 0.5 μF\nC₃ = 0.2 μF\n\nSolution:\nKey concept:\nMinimum capacitance is obtained when capacitors are connected in series.\nFormula for series capacitors:\n1/Cₜₒₜₐₗ = 1/C₁ + 1/C₂ + 1/C₃\nStep 1: Substitute values\n1/Cₜₒₜₐₗ = 1/0.3 + 1/0.5 + 1/0.2\nStep 2: Calculate each term\n1/Cₜₒₜₐₗ = 3.333 + 2.0 + 5.0\n1/Cₜₒₜₐₗ = 10.333 μF⁻¹\nStep 3: Find Cₜₒₜₐₗ\nCₜₒₜₐₗ = 1/10.333\nCₜₒₜₐₗ = 0.0968 μF ≈ 0.1 μF",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

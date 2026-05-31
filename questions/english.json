@@ -16319,5 +16319,43 @@
     "questionNub": 26,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1297,
+    "question": "Choose the option that has a different vowel sound from the others",
+    "option": {
+      "a": "beach",
+      "b": "ski",
+      "c": "be",
+      "d": "been"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Only been has the /ɪ/ sound. Others have the /i:/ sound.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 44,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 327,
+    "question": "The Vice-Chancellor <i>relinquished</i> power at the end of busterm ",
+    "option": {
+      "a": "abandoned   ",
+      "b": "wielded  ",
+      "c": "gave up",
+      "d": " clung on to."
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

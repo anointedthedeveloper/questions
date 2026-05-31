@@ -11518,5 +11518,53 @@
     "solution": "The correct reactivity/electrochemical series order is: Na, Ca, Mg, Al, Zn, Fe, Pb, H, Cu, Hg, Ag, Au. In the given series, Al and Mg are swapped (Al appears before Mg, but Mg is more reactive). Interchanging Al and Mg corrects the series.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 169,
+    "question": "The gas that can be dried using concentrated Tetraoxosulphate (VI) acid is",
+    "option": {
+      "a": "Ammonia",
+      "b": "Hydrogen bromide",
+      "c": "Sulphur (IV) oxide",
+      "d": "Hydrogen sulphide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 442,
+    "question": "An oxide XO₂ has a vapour density of 32. What is the atomic mass of X?",
+    "option": {
+      "a": "20",
+      "b": "32",
+      "c": "14",
+      "d": "12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Molar mass of XO₂ = 2 × vapour density = 2 × 32 = 64 g mol⁻¹. Molar mass = atomic mass of X + 2(16) → X + 32 = 64 → X = 32. The element with atomic mass 32 is sulphur (S), and XO₂ is SO₂ (sulphur dioxide).",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 487,
+    "question": "The radioisotope used in industrial radiography for the rapid checking of faults in welds and casting is",
+    "option": {
+      "a": "carbon-14",
+      "b": "phosphorus-32",
+      "c": "cobalt-60",
+      "d": "iodine-131"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Cobalt-60 is used in industrial radiography because it emits high-energy gamma rays that can penetrate metal welds and castings. The gamma rays expose photographic film on the other side, revealing any internal flaws or defects. Carbon-14 is used in radiocarbon dating; iodine-131 is used in thyroid diagnosis/treatment; phosphorus-32 is used in biological research.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

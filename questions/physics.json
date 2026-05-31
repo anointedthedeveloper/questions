@@ -9342,5 +9342,53 @@
     "solution": "A manometer is used for measuring pressure in liquids and gases.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 831,
+    "question": "A step-down transformer has a power output of 50 W and efficiency of 80%. if the mains supply voltage is 200 v, calculate the primary current of the transformer.",
+    "option": {
+      "a": "0.31 A",
+      "b": "3.20 A",
+      "c": "3.40 A",
+      "d": "5.00 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\nOutput power = 50 W\nEfficiency = 80% = 0.8\nPrimary voltage = 200 V\n\nSolution:\n\nStep 1: Efficiency formula\nEfficiency = Output power / Input power\n0.8 = 50 W / Input power\n\nStep 2: Solve for input power\nInput power = 50 W / 0.8 = 62.5 W\n\nStep 3: Relationship between input power, primary voltage, and primary current\nInput power = Primary voltage × Primary current\n62.5 W = 200 V × Primary current\n\nStep 4: Solve for primary current\nPrimary current = 62.5 W / 200 V = 0.3125 A ≈ 0.31 A",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 180,
+    "question": "Myopic defects in the human eye can be corrected through the use of a",
+    "option": {
+      "a": " Concave Mirror",
+      "b": "Concave lens",
+      "c": "Prism",
+      "d": "Convex lens"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Myopia is corrected using a concave (diverging) lens.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 350,
+    "question": "When the downward current flows in a straight vertical conductor, the direction of its magnetic field at a point due north of the wire is?",
+    "option": {
+      "a": "Upward",
+      "b": "North",
+      "c": "South",
+      "d": "West"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When downward current flows in a vertical conductor, the magnetic field at a point due north of the wire points west (following the right-hand grip rule).",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

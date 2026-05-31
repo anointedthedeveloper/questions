@@ -15854,5 +15854,37 @@
     "solution": "S = √(t<sup>2</sup> −4t + 4)\n\n\nS<sup>2</sup> = t<sup>2</sup> - 4t + 4\n\nt<sup>2</sup> - 4t + 4 - S<sup>2</sup> = 0\n\nUsing t = −b ± √(b<sup>2</sup −4ac)/2a\n\n\nSubstituting, we have;\n\nUsing t = −(−4) ±)√(−4)<sup>2</sup> −4(1)(4−S<sup>2</sup.>/2(1)\n\n\nt = 4 ±√(16−4(4−S<sup>2</sup>)/2\n\n\nt = 4 ±√(16−16+4S<sup>2</sup>/2\n\n\nt = 4 ±√(4S<sup>2</sup>/2\n\n\nt = 2(2±S)/2\n\n\nHence t = 2 + S or t = 2 - S",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 843,
+    "question": "From the table above, find the median",
+    "option": {
+      "a": "3",
+      "b": "5",
+      "c": "4",
+      "d": "6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003119/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q25_kwrqbw.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 16,
+    "question": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is without replacement ",
+    "option": {
+      "a": "0.1",
+      "b": "0.47",
+      "c": "0.42",
+      "d": "0.21"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
   }
 ]

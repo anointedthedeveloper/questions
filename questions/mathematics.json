@@ -11022,5 +11022,133 @@
     "solution": "mean(x)=20t/5=4t. Standard deviation=√((10t<sup>2</sup> )/5) √2=√((10t<sup>2</sup> )/5) √2=√(2t<sup>2</sup>  ) 2=2t<sup>2</sup>  t<sup>2</sup> =1. t=1",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 916,
+    "question": "The bar chart above is a representation of a candidate’s scores in UTME in 2014, find his total scores",
+    "option": {
+      "a": "210",
+      "b": "240",
+      "c": "340",
+      "d": "200"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006153/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q48_vd1jdm.png",
+    "answer": "a",
+    "solution": "Total marks scored = 75+45+60+30 = 210",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 1160,
+    "question": "Calculate the mean deviation of the first five prime numbers.",
+    "option": {
+      "a": "2.72",
+      "b": "5.6",
+      "c": " 5.25",
+      "d": "13.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The first five prime numbers are 2, 3, 5, 7 and 11\n\nM.D = ∑(x−x̄ )/n\nn = 5\n\nx̄ =∑x/n = (2 + 3 + 5 + 7 + 11)/5 = 28/5 = 5.6\nM.D = ((2 − 5.6) + (3 − 5.6) + (5 − 5.6) + (7 − 5.6)) + (11 − 5.6)/5\n= ((−3.6) + (−2.6) + (−0.6) + (1.4) + (5.4))/5=13.6/5\nTake the absolute value of all numbers in bracket\n\n= (3.6 + 2.6 + 0.6 + 1.4 + 5.4)/5 = 13.6/5\n∴M.D = 2.72",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1131,
+    "question": "Find x if the mean of 2x, 4x, 2x - 13 and 6x is 4.",
+    "option": {
+      "a": "1.5",
+      "b": "2.0",
+      "c": "1.0",
+      "d": " 0.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "mean (4) =  2x+4x+2x−13+6x/4                                                           16 = 14x - 13\n\n16 + 13 = 14x\n\nx = 29/14 or 2.07",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 968,
+    "question": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?",
+    "option": {
+      "a": "1/16",
+      "b": "1/6",
+      "c": "1/4",
+      "d": "3/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "P( tail on a coin) = 1/2\nEven numbers on a care 2, 4 and 6\n\n  P( even number on a die) = 3/6 = 1/2\nP( tail on a coin and even number on a die) = 1/2 x 1/2\n = 1/4",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 1040,
+    "question": "The equation of the line in the graph is ",
+    "option": {
+      "a": "3y = 3x + 12",
+      "b": "3y = 3x + 12",
+      "c": "3y = -4x + 12",
+      "d": "3y = -4x + 9"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007156/ALOC-Questions/Mathematics/2020/JAMB_MATH_2020_Q23_qrkny8.jpg",
+    "answer": "c",
+    "solution": "Gradient of line = Change in y/Change in x = (y<sub>2</sub> −Y<sub>1</sub>)/(x<sub>2</sub>  − x<sub>1</sub>)\n \n\ny<sub>2</sub>   = 0<sub>1</sub> \n \n\nY<sub>1</sub>  = 4 \n\nx<sub>2</sub> = 3 and x<sub>1</sub> = 0\n\n(y<sub>2</sub>  − y<sub>1</sub> )/(x<sub>2</sub>  − x<sub>1</sub> ) = (0−4)/(3 − 0) = −4/3\nEquation of straight line y = mx + c\n\nWhere m = gradient and c = y \n\nintercept = 4 \n\ny = -4/3x + 4 multiply through by 3\n\n3y = -4x + 12",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 635,
+    "question": "If x varies directly as square root of y and x = 81 when y = 9, Find x when y = 1(7/9)",
+    "option": {
+      "a": "20(1/4)",
+      "b": "27",
+      "c": "2(1/4)",
+      "d": "36"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x α√y\n\n\nx = k√y\n\n\n81 = k√9\n\n\nk = 81/3\n\n\n= 27\n\ntherefore, x = 27√y\n\n\ny = 1(7/9) = 16/9\n\n\nx = 27 x √(16/9)\n\n\n= 27 x 4/3\n\n\ndividing 27 by 3\n\n= 9 x 4\n\n= 36",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 782,
+    "question": "If r varies inversely as the square root of s and t, how does s vary with r and t?",
+    "option": {
+      "a": " s varies inversely as r and t<sup>2</sup>",
+      "b": "s varies inverely as r<sup>2</sup> and t",
+      "c": "s varies directly as r<sup>2</sup> and t<sup>2</sup>",
+      "d": "s varies directly as r and t"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "r ∝ 1/√s, r ∝ 1/√t\n \n\nr ∝ 1/√s ..... (1)\n\nr ∝ 1/√t ..... (2)\n\nCombining (1) and (2), we get\n\nr = k/(√s × √t) = k/√(st)\n\n\nThis gives √(st) = k/r\n\n\nBy taking the square of both sides, we get\n\nst = k<sup>2</sup>/r<sup>2</sup>\n\n\ns = k<sup>2</sup>/r<sup>2</sup>t",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 670,
+    "question": "In a class of 60 students, 30 offers physics and 40 offers chemistry. If a students is picked at random from the class, what is the probability that the student offer both physics and Chemistry?",
+    "option": {
+      "a": "1/2",
+      "b": "1/6",
+      "c": "1/4",
+      "d": "1/3"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129944/ALOC-Questions/Mathematics/2011/JAMB_MATH_2011_Q49_SOLUTION_dbv0wq.png",
+    "answer": "b",
+    "solution": "60 = 30 – x + x + 40 – x\n\n60 = 70 – x\n\nx = 10\n\nn(P∩C)=10\nProb(P∩C)=10/60=1/6",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

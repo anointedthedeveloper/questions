@@ -16318,5 +16318,21 @@
     "solution": "4, 4, 1, 0, 4, 4, 2, 0\nArrange in ascending order:\n0, 0, 1, 1, 2, 4, 4, 4, 4\nPosition of median = N+1 / 2 = 9+1 / 2 = 5th\nMedian = 2",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 413,
+    "question": "The sum of the first n positive integers is",
+    "option": {
+      "a": "1/2 n(n-1)",
+      "b": " n(n+1)",
+      "c": "n(n-1)",
+      "d": "1/2 n(n-1)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let the positive integers be 1, 2, ,3, 4, .....n\n∴ a = 1, d = 1 and n = n\nSn = n/2(2a + (n-1)d)\n= n/2 (2 + n – 1)\n= 1/2n(n + 1)",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

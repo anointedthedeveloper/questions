@@ -11790,5 +11790,21 @@
     "solution": "Equation: 2NaOH + H₂SO₄ → Na₂SO₄ + 2H₂O. Moles of H₂SO₄ = 1.25 × 10/1000 = 0.0125 mol. Moles of NaOH required = 2 × 0.0125 = 0.025 mol. Volume of NaOH = moles ÷ concentration = 0.025 ÷ 0.5 = 0.05 dm³ = 50 cm³.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 742,
+    "question": "In the graph above, y represents ",
+    "option": {
+      "a": "endothermic reaction",
+      "b": "activation energy",
+      "c": "exothermic reaction",
+      "d": "ionization energy"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777640487/ALOC-Questions/Chemistry/UTME/2024/Chemistry_2024_Q28_q3tdxs.png",
+    "answer": "b",
+    "solution": "In an energy profile diagram, the activation energy is the minimum energy required for a reaction to occur. It is represented by the energy difference between the reactants and the peak of the curve (transition state). Arrow y in the diagram points from the reactant energy level up to the peak (t), which represents the activation energy. ΔH represents the overall energy change between reactants and products.",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

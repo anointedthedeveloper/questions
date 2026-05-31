@@ -10366,5 +10366,85 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 463,
+    "question": "An object 40 cm high is 30cm from the pin hole camera. If the height of the image formed is 20 cm. What is the distance of the image from the pin height?",
+    "option": {
+      "a": "15 cm",
+      "b": "70 cm",
+      "c": "40 cm",
+      "d": "60 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHeight of object (h_o) = 40 cm\nObject distance from pinhole (u) = 30 cm\nHeight of image (h_i) = 20 cm\nImage distance from pinhole (v) = ?\n\nPrinciple of pinhole camera:\nSimilar triangles are formed, so:\nh_i/h_o = v/u\nRearranging to find v:\nv = (h_i/h_o) × u\nSubstituting values:\nv = (20/40) × 30\nv = (1/2) × 30\nv = 15 cm\nVerification:\nThe image is smaller (20 cm vs 40 cm), so it makes sense that the image distance is also smaller (15 cm vs 30 cm), maintaining the proportion.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 27,
+    "question": "What is the acceleration due to gravity ‘g’ on the moon, if ‘g’ is   10ms-2 on the earth?",
+    "option": {
+      "a": "0.74ms-2 ",
+      "b": "0.1ms-2 ",
+      "c": "10.0 ms-2 ",
+      "d": "1.67 ms-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 295,
+    "question": "Which of the following statements are TRUE of isotopes?\nI. Isotopes of an element have the same chemical properties because they have the same number of electrons\nII. Isotopes of elements are normally separated using physical properties\nIII. Isotopes of an element have the same number of protons in their nuclei",
+    "option": {
+      "a": "I and II only",
+      "b": " I and III only",
+      "c": "II and III only",
+      "d": "I, II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All three statements are true about isotopes.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 57,
+    "question": "A house hold refrigerator is rated 200 watts. If electricity cost 5k per Kwh, what is the cost of operating it for 20 days ",
+    "option": {
+      "a": "N4.80  ",
+      "b": "N48.00 ",
+      "c": "N480.00 ",
+      "d": "N4800.00 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 64,
+    "question": "A train has an initial velocity of 44m/s and an acceleration of -4m/s2 what is its velocity after 10seconds? ",
+    "option": {
+      "a": "2m/s ",
+      "b": "4m/s ",
+      "c": "8m/s ",
+      "d": "12m/s "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   }
 ]

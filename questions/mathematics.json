@@ -16350,5 +16350,37 @@
     "solution": "X = 20/4\n= 5\nmean deviation = 8/4 = 2",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 389,
+    "question": "If (K2)\n<sub>6</sub> * 3<sub>6</sub> = 3<sub>5</sub>(K4)<sub>5</sub>, what is the value of k?",
+    "option": {
+      "a": "1",
+      "b": "4",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": " (K2)\n<sub>6</sub> * 3<sub>6</sub> = 3<sub>5</sub>(K4)<sub>5</sub>\nk*6<sup>1</sup>  + 2*6<sup>0</sup>  + 3*5<sup>0</sup>  = 3*5<sup>0</sup>  + K*5<sup>1</sup>  + 4*5<sup>0</sup> \n6K + 2 = 5K + 4\n6K - 5k = 4 - 2\nK = 2",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 268,
+    "question": "The range of 4, 3, 11, 9, 6, 15, 19, 23, 27, 24, 21 and\n16 is",
+    "option": {
+      "a": "23",
+      "b": "24",
+      "c": "21",
+      "d": "16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The range of a set of numbers is the difference between the largest and the smallest values in the set.\n\nGiven the set: 4, 3, 11, 9, 6, 15, 19, 23, 27, 24, 21, 16\n\nThe smallest value is 3, and the largest value is 27.\n\nRange = Largest Value − Smallest Value\nRange=Largest Value−Smallest Value\nRange = 27 − 3\nRange = 27 − 3\nRange = 24\nRange = 24\n\nSo, the range of the given set is 24.\n\n\n\n\n",
+    "examtype": "utme",
+    "examyear": "2003"
   }
 ]

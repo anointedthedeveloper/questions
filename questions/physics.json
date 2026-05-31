@@ -5422,5 +5422,53 @@
     "solution": "Terminal velocity is reached when the velocity is uniform.",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 329,
+    "question": "A force of 5N acts at a point Y on a rod XYZ as shown in this diagram. If XYZ is 2m, what is the moment of the force about point X?",
+    "option": {
+      "a": "0 Nm",
+      "b": "3 Nm",
+      "c": "7 Nm",
+      "d": "10 Nm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611795/ALOC-Questions/Physics/2018/2018_Q_50_ru9ogm.jpg",
+    "answer": "a",
+    "solution": "Given information:\n\nForce (F) = 5 N (acting at point Y)\nDistance XY = 2 m\nMoment about point X = ?\n\nUnderstanding the diagram:\n\nThe force acts along the line of the rod (from the arrow direction)\nThe force appears to act along the rod's length\n\nFormula for moment:\nMoment = Force × Perpendicular distance\nKey point:\nSince the force acts along the rod (parallel to XY), the perpendicular distance from the line of action of the force to point X is zero.\nCalculating moment:\nMoment = F × perpendicular distance\nMoment = 5 × 0 = 0 Nm\nExplanation:\nFor a moment to exist, the force must have a component perpendicular to the line joining the pivot point and the point of application. Since the force acts along the rod, it produces no turning effect about point X.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 892,
+    "question": "\nThe diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is?",
+    "option": {
+      "a": "20 Nm⁻¹",
+      "b": "40 Nm⁻¹",
+      "c": "30 Nm⁻¹",
+      "d": "10 Nm⁻¹"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433293/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_43_due6xq.png",
+    "answer": "a",
+    "solution": "\nUnderstanding Hooke's Law:\nF = kx\nwhere:\n\nF = applied force\nk = spring constant (force constant)\nx = extension\n\nFrom the graph:\nThe graph is a straight line passing through the origin, confirming Hooke's Law is obeyed.\nFinding the spring constant:\nk = slope of the graph = F/x = ΔF/Δx\nReading from the graph:\nTaking two points:\n\nPoint 1: (0, 0)\nPoint 2: (6, 120)\n\nCalculating slope:\nk = (120 - 0)/(6 - 0)\nk = 120/6\nk = 20 Nm⁻¹",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 908,
+    "question": "A hydrometer is an instrument used in measuring?",
+    "option": {
+      "a": "vapour pressure of a fluid",
+      "b": "density of liquid",
+      "c": "relative humidity of a liquid",
+      "d": "relative density of a liquid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The instrument used in measuring relative density is hydrometer",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

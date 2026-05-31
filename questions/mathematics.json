@@ -14286,5 +14286,21 @@
     "solution": "X = 1, 2, 3, 4; ∑X = 10\nx = ∑X/n = 10/4 = 2.5\nX - x = -1.5, -0.5, 0.5, 1.5\nlX - xl = 1.5, 0.5, 0.5, 1.5; ∑lX - xl = 4.0\nmean deviation = (∑lX - xl)/n\n= 4.0/4\n= 1.0",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 156,
+    "question": "Teams P and Q are involved in a game of football. What is the probability that the game ends in a draw?",
+    "option": {
+      "a": "2/3",
+      "b": "1/2",
+      "c": "1/3",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "P (games end in draw)\n=> Team P wins and Q wins\nP(P wins) = 1/2\nP(Q wins) = 1/2\nTherefore P (games ends in draw) = 1/2 x 1/2 = 1/4",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

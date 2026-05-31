@@ -13518,5 +13518,21 @@
     "solution": "If the majority are women implies that:\n\n3 Women and 2 Men Or 4 Women and 1 Man\n\n= <sup>4</sup>C<sub>3</sub> × <sup>6</sup>C<sub>2</sub> + <sup>4</sup>C<sub>4</sub> × <sup>6</sup>C<sub>1</sub>\n= 4 × 15 +1 × 6\n= 60 + 6 = 66",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 376,
+    "question": "Find the variance of 2x, 2x-1 and 2x+1",
+    "option": {
+      "a": "2/3",
+      "b": "2",
+      "c": "√(2/3)",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "∑x=6x∑(x-¯x )<sup>2</sup> =2¯x=(∑x)/n=6x/3=2xVariance=(∑(x-¯x )<sup>2</sup> )/n=2/3",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

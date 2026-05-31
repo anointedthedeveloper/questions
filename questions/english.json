@@ -15882,5 +15882,62 @@
     "questionNub": 72,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 156,
+    "question": "The crisis ended as suddenly as it began",
+    "option": {
+      "a": "The crisis ha suddenly as it began",
+      "b": "The crisis will not end suddenly",
+      "c": "The crisis stopped almost immediately",
+      "d": "The crisis will stop immediately."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1477,
+    "question": "We must not [foreclose] reconciliation as the purpose of his trip\n",
+    "option": {
+      "a": "exclude",
+      "b": "consider",
+      "c": "underestimate",
+      "d": "forgo"
+    },
+    "section": "CHOOSE THE OPTION THAT IS NEAREST IN MEANING TO THE WORD(S) IN BRACKET, FOR  THE QUESTIONS ",
+    "image": "",
+    "answer": "a",
+    "solution": "To foreclose is to leave out the consideration of an option or alternative to something.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 104,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1616,
+    "question": "Mama Shilifat had an affection for Jimi because she always gave him",
+    "option": {
+      "a": "money to buy chewing gum",
+      "b": "advice against bad students",
+      "c": "the courage to do well in his class",
+      "d": " the largest pieces of puff-puff"
+    },
+    "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 4,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

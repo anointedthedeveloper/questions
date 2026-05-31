@@ -10046,5 +10046,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 666,
+    "question": "Electrons enter into orbitals in order of increasing energy as exemplified by?",
+    "option": {
+      "a": "1S²2S²2PX²2py²2pz⁰3s⁰",
+      "b": "1S²2S²2PX²2py¹2pz¹3s⁰",
+      "c": "1S²2S²2PX¹2py¹2pz¹3s¹",
+      "d": "1S²2S²2PX²2py²2pz⁰3s¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Aufbau principle states electrons fill orbitals in order of increasing energy. Hund's rule states that electrons occupy degenerate orbitals (same energy) singly before pairing. Option B shows 1S²2S²2Px²2py¹2pz¹3s⁰, where the 2p electrons are distributed as 2, 1, 1 across the three 2p orbitals before filling the 3s. This correctly follows both the Aufbau principle and Hund's rule for an element with 8 electrons (oxygen).",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 760,
+    "question": "The property of metal that makes it suitable as a catalyst is",
+    "option": {
+      "a": "filled f-orbital",
+      "b": "partially filled d-orbitals",
+      "c": "partially filled f-orbital",
+      "d": "filled d-orbital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Transition metals act as catalysts because they have partially filled d-orbitals that allow them to form temporary bonds with reactants, adopt variable oxidation states, and adsorb reactant molecules — all of which lower the activation energy.",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

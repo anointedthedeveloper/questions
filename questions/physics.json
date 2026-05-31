@@ -3726,5 +3726,21 @@
     "solution": "Understanding the cooling curve:\nFrom the graph:\n\nTemperature starts at ~100°C\nDrops rapidly to ~80°C\nRemains constant at 80°C for several minutes (flat horizontal section)\nThen continues dropping below 80°C\n\nWhat happens at the flat section:\nThe horizontal plateau at 80°C indicates a phase change is occurring:\n\nTemperature remains constant while naphthalene changes from liquid to solid\nDuring solidification, latent heat is released\nThis heat release keeps temperature constant until all liquid has solidified\n\nIdentifying the temperature:\nThe temperature at which a substance changes from liquid to solid (or solid to liquid) is called the melting point (or freezing point - same temperature).\nFor naphthalene: 80°C is the temperature where:\n\nLiquid naphthalene solidifies (when cooling)\nSolid naphthalene melts (when heating)",
     "examtype": "utme",
     "examyear": "2020"
+  },
+  {
+    "id": 453,
+    "question": "If a sound wave goes from a cold air region to a hot air region, its wavelength will?",
+    "option": {
+      "a": "increase",
+      "b": "decrease",
+      "c": "decrease then increase",
+      "d": "remain constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a sound wave goes from a cold air region to a hot air region, its wavelength will increase because sound travels faster in hot air while the frequency remains constant.",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

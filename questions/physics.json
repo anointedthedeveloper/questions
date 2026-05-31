@@ -12446,5 +12446,117 @@
     "solution": "At resonance, the circuit's impedance is at its lowest (equal to the resistance), which results in the highest current flow. This condition is achieved when the inductive reactance and capacitive reactance are equal, causing them to cancel each other out.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 91,
+    "question": "In the force of gravity on an object of mass m, the gravitational field strength, g, is given by the following equation. ",
+    "option": {
+      "a": "g = √MF ",
+      "b": "g = MF ",
+      "c": "g = M√F ",
+      "d": "g = F/M."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 1009,
+    "question": "If a load of 1 kg stretches a cord by 1.2 cm, what is the force constant of the cord? {g = 10 m s⁻²}",
+    "option": {
+      "a": "866 N m⁻¹",
+      "b": "833 N m⁻¹",
+      "c": "769 N m⁻¹",
+      "d": "667 N m⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "iven information:\nMass m = 1 kg\nExtension x = 1.2 cm = 0.012 m\nAcceleration due to gravity g = 10 m s⁻²\n\nSolution:\n\nStep 1: Calculate the force stretching the cord\nThe force is the weight of the load:\nF = m × g = 1 kg × 10 m s⁻² = 10 N\n\nStep 2: Apply Hooke's law\nHooke's law: F = k × x, where k is the force constant.\nTherefore, k = F / x\n\nStep 3: Substitute values\nk = 10 N / 0.012 m = 833.33 N m⁻¹",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 171,
+    "question": "The strength of an electromagnet increases with",
+    "option": {
+      "a": " Increases in the number of turn of the coil",
+      "b": "Decreases in current with the coil",
+      "c": "Increases in the distance between the pole",
+      "d": "Increases in current without the coil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "More coil turns produce a stronger electromagnetic field.Retry",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1106,
+    "question": "When a telescope is in normal use, the final image is at",
+    "option": {
+      "a": "Infinity",
+      "b": "The focus",
+      "c": "The radius of curvature",
+      "d": "The near point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A refracting telescope consists of an objective lens and an eyepiece. In normal adjustment, the telescope is set so that the final image is formed at infinity, allowing relaxed viewing.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 89,
+    "question": "When three coplanar non-parallel forces are in equilibrium i. they can be represented in magnitude and direction by the three sides of a triangle taken in order ii. The lines of action meet at a point iii. The magnitude of any one force equals the magnitude of the other two forces iv. Any one force is the equivalent of the other two. Which of the following statements above are correct? ",
+    "option": {
+      "a": "i and iii only ",
+      "b": "i and ii only",
+      "c": "i, ii,iii and iv ",
+      "d": "none of them"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 51,
+    "question": "A devise that converts sound energy into electrical energy is ",
+    "option": {
+      "a": "the horn of a motor car ",
+      "b": "An AC generator ",
+      "c": "A microphone ",
+      "d": "Telephone earpiece "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1034,
+    "question": "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is",
+    "option": {
+      "a": "5.0A",
+      "b": "7.1A",
+      "c": "10.0A",
+      "d": "14.1A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nInstantaneous current, I = 10 sin ωt\nPeak current, I₀ = 10 A\n\nSolution:\n\nStep 1: d.c equivalent of a.c current\nThe d.c equivalent (or r.m.s value) of a sinusoidal a.c current is given by:\nI_rms = I₀ / √2\n\nStep 2: Substitute the value\nI_rms = 10 / √2 ≈ 10 / 1.4142 ≈ 7.07 A ≈ 7.1 A",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

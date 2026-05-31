@@ -7230,5 +7230,69 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 698,
+    "question": "The amount of energy released when 0.5 kg of uranium is burnt completely is [c = 3 × 10⁸ m/s]",
+    "option": {
+      "a": "1.5 × 10⁸ J",
+      "b": "4.5 × 10⁸ J",
+      "c": "1.5 × 10¹⁶ J",
+      "d": "4.5 × 10¹⁶ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nMass of uranium, m = 0.5 kg\nSpeed of light, c = 3 × 10⁸ m/s\n\nStep 1: Mass‑energy equivalence formula\nE = m c²\n\nStep 2: Substitute values\nE = 0.5 kg × (3 × 10⁸ m/s)² = 0.5 kg × 9 × 10¹⁶ m²/s² = 4.5 × 10¹⁶ J",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 542,
+    "question": "A charge of 4.6×10⁻⁵C is placed in an electric field of intensity 3.2×10⁴ Vm⁻¹. What is the force acting on the electron?",
+    "option": {
+      "a": " 1.5 N",
+      "b": "3.7 N",
+      "c": "4.2 N",
+      "d": " 2.5 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCharge, q = 4.6×10⁻⁵ C\nElectric field intensity, E = 3.2×10⁴ V/m\nForce, F = ?\n\nSolution:\nStep 1: Apply electric force formula\nThe force on a charge in an electric field:\nF = qE\nStep 2: Substitute the known values\nF = 4.6×10⁻⁵ × 3.2×10⁴\nStep 3: Calculate the force\nF = (4.6 × 3.2) × (10⁻⁵ × 10⁴)\nF = 14.72 × 10⁻¹\nF = 1.472 N\nF ≈ 1.5 N",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 858,
+    "question": "If a load of mass 10 N stretched a cord by 1.2 cm, what is the total work done?",
+    "option": {
+      "a": "6.0 × 10⁻² J",
+      "b": "7.6 × 10⁻² J",
+      "c": " 1.8 × 10⁻² J",
+      "d": " 6.6 × 10⁻² J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nForce (weight of load) = 10 N\nExtension = 1.2 cm = 0.012 m\n\n\nStep 1: Interpret the situation\nThe cord behaves like a spring; the force is proportional to extension (Hooke’s law). The work done in stretching the cord is the area under the force‑extension graph, which is a triangle:\nWork = ½ × force × extension\n\nStep 2: Calculate work\nWork = ½ × 10 N × 0.012 m = 5 × 0.012 = 0.06 J = 6.0 × 10⁻² J",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 967,
+    "question": "A cannon is fired from town X, after how long is the sound heard at a town Y 4.95 km away? [velocity of sound in the air = 330 ms⁻¹]",
+    "option": {
+      "a": "30 s",
+      "b": " 10 s",
+      "c": "15 s",
+      "d": "20 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nDistance (d) = 4.95 km = 4950 m\nVelocity of sound (v) = 330 m/s\nTime (t) = ?\n\nFormula:\nTime = Distance/Velocity\nt = d/v\nSubstituting values:\nt = 4950/330\nt = 15 s",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

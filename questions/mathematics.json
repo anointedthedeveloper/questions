@@ -15070,5 +15070,21 @@
     "solution": "Capacity = 3080 m<sup>3</sup>\nBase diameter = 14 m, thus radius = 7 m.\n\nVolume of cylinder = capacity of cylinder = πr<sup>2</sup>h. = 3080\n22/7 x 7<sup>2</sup> x h = 3080\nh = 3080/(22x7)\nh = 20 m",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 791,
+    "question": "The radius of a circle is increasing at the rate of 0.02cms<sup>-1</sup>. Find the rate at which the area is increasing when the radius of the circle is 7cm.",
+    "option": {
+      "a": "0.75cm<sup>2</sup>S<sup>-1</sup>",
+      "b": " 0.53cm<sup>2</sup>,S<sup>-1</sup>",
+      "c": " 0.35cm<sup>2</sup>S<sup>-1</sup>",
+      "d": " 0.88cm<sup>2</sup>S<sup>-1</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A = πr<sup>2</sup>, δA/δr\n = 2πr\n\nSo, using δAδt\n = δA/δr x δAδt\n\n\n= 2πr x 0.02\n\n= 2π x 7 x 0.02\n\n= 2 x 22/7 x 0.02\n\n=  0.88cm<sup>2</sup>S<sup>-1</sup>",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

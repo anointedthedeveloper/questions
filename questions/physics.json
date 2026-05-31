@@ -8702,5 +8702,85 @@
     "solution": "Given information:\n\nPotential difference (V) = 6.5V\nDistance between plates (d) = 35cm = 0.35m\nElectric field intensity (E) = ?\n\nFormula:\nE = V/d\nSubstituting values:\nE = 6.5/0.35\nE = 18.57 V/m or NC⁻¹\nNote: Electric field units V/m and NC⁻¹ are equivalent.\n\nThe electric field intensity between the two plates is 18.57 NC⁻¹.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 92,
+    "question": " A body of mass m slides down an inclined plane with a constant velocity. If the angle of the incline is Ø, the coefficient of kinetic friction between the body and the plane is  ",
+    "option": {
+      "a": "cot Ø ",
+      "b": "cos Ø  ",
+      "c": "tan Ø  ",
+      "d": "sine Ø"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 797,
+    "question": "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value",
+    "option": {
+      "a": "100Ω",
+      "b": "200Ω",
+      "c": "300Ω",
+      "d": "500Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLamp rating: 120V, 60W\nSupply voltage: 220V AC\nRequired series resistance (R) = ?\n\nStep 1: Calculate lamp current\nAt rated conditions:\nP = VI\nI = P/V = 60/120 = 0.5A\nStep 2: Calculate lamp resistance\nR_lamp = V/I = 120/0.5 = 240Ω\nStep 3: Determine voltage drop needed across series resistor\nExcess voltage = Supply voltage - Lamp voltage\nV_R = 220 - 120 = 100V\nStep 4: Calculate required series resistance\nThe series resistor must drop 100V while carrying 0.5A:\nR = V_R/I\nR = 100/0.5\nR = 200Ω",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 204,
+    "question": " radioactive isotope has a decay constant of 10⁻⁶ s⁻¹. Calculate its half-life.",
+    "option": {
+      "a": "5.93 × 10⁶ s",
+      "b": "6.93 × 10⁵ s",
+      "c": "6.93 × 10⁹ s",
+      "d": " 5.93 × 10⁷ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁶ s⁻¹\nHalf-life (t₁/₂) = ?\n\nFormula relating half-life and decay constant:\nt₁/₂ = 0.693/λ\nor\nt₁/₂ = (ln 2)/λ = 0.693/λ\nSubstituting values:\nt₁/₂ = 0.693/(10⁻⁶)\nt₁/₂ = 0.693 × 10⁶\nt₁/₂ = 6.93 × 10⁵ s\nAnswer: B. 6.93 × 10⁵ s\nThe half-life of the radioactive isotope is 6.93 × 10⁵ seconds.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 1028,
+    "question": "I. Rays of light travel from a less dense medium to a denser medium.\nII. The angle of incidence is greater than critical angle.\nIII. Rays of light travel from a denser medium to a less dense medium.\n\nWhich of the statements above are conditions for total internal reflection to occur?",
+    "option": {
+      "a": " I and II only",
+      "b": "I and III only",
+      "c": "II and III only",
+      "d": "II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The conditions for total internal reflection are II and III only.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 223,
+    "question": "In the diagram above, the neutral point is at",
+    "option": {
+      "a": "R",
+      "b": "X",
+      "c": "Sound waves",
+      "d": "P"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610399/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_44_dw0oc9.jpg",
+    "answer": "b",
+    "solution": "Understanding neutral points in magnetism:\nA neutral point is a location where the magnetic field strength is zero because two opposing magnetic fields cancel each other out.\nFrom the diagram:\nThe diagram shows what appears to be magnetic field lines from two bar magnets placed with like poles facing each other (N-N or S-S arrangement based on the concentric circles pattern).\nCharacteristics of neutral point:\n\nLocated between two like poles\nMagnetic fields are equal in magnitude but opposite in direction\nNet magnetic field = zero\n\nAnalysis:\n\nPoint X appears to be positioned between the two magnetic sources where the fields would oppose and cancel each other\nPoints R, S, and P are at other locations where fields wouldn't completely cancel\n\n\nThe neutral point is at X, where the opposing magnetic fields from the two sources cancel each other out, resulting in zero net magnetic field.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

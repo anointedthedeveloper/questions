@@ -15598,5 +15598,37 @@
     "solution": "Combination is the (n) number of ways of selecting a number of (r) subjects from n.\nnCr = n!/r!(n-r)! = 12! 8! x 4! = 495",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 492,
+    "question": "A binary operation on the real set of numbers excluding -1 is such that for all m, n ∈ R, mΔn = m+n+mn. Find the identity element of the operation.",
+    "option": {
+      "a": "1",
+      "b": "0",
+      "c": "-1/2",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "mΔn = m+n+mn\nLet e be the identity element\n∴mΔe = eΔm = m\nm+e+me = m\ne+me = m-m\ne+me = 0\ne(1+m) = 0\ne = 0 / (1+m)\ne = 0",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 446,
+    "question": "If x<sub>10</sub> = 1214<sub>5</sub> find x",
+    "option": {
+      "a": "124",
+      "b": "121",
+      "c": "184",
+      "d": "180"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": " x<sub>10</sub> = 1214<sub>5</sub>\n= x x<sub>10</sub>  = 1 x 5<sup>3</sup> + 2 x 5<sup>2</sup> + 1 * 5<sup>1</sup> + 4 x 5<sup>0</sup>\n= 1 x 125 + 2 x 25 + 1 x 5 + 4 x 1\n= 125 + 50 + 5 + 4\n= 184",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

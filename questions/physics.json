@@ -3966,5 +3966,69 @@
     "solution": "Given information:\n\nInitial velocity (u) = 20 m/s\nFinal velocity (v) = 0 m/s (complete halt)\nDeceleration (a) = -2 m/s² (negative because it's slowing down)\nTime (t) = ?\n\nUsing equation of motion:\nv = u + at\nRearranging for time:\nt = (v - u)/a\nSubstituting values:\nt = (0 - 20)/(-2)\nt = -20/(-2)\nt = 10 s",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 458,
+    "question": "An astronomical telescope is said to be in normal adjustment when the?",
+    "option": {
+      "a": "eye is accommodated",
+      "b": "focal length of an object lens is longer than that of eye piece",
+      "c": " final image is at the near point of eye",
+      "d": "final image is at infinity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A normal arrangement is an arrangement where the principal focus of objective coincides with the eyepiece so that the final image is at infinity ",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 427,
+    "question": "\n0.5kg of water at 10°C is completely converted to ice at 0°C by extracting 88000J of heat from it. If the specific heat capacity of water is 4200 Jkg⁻¹°C⁻¹, calculate the specific latent heat of fusion of ice.",
+    "option": {
+      "a": "9.0 kJkg⁻¹",
+      "b": "84.0 kJkg⁻¹",
+      "c": "134.0 kJkg⁻¹",
+      "d": "168.0 kJkg⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass of water (m) = 0.5 kg\nInitial temperature = 10°C\nFinal temperature = 0°C (ice)\nTotal heat extracted (Q_total) = 88,000 J\nSpecific heat capacity of water (c) = 4200 J/(kg·°C)\nSpecific latent heat of fusion (L_f) = ?\n\nProcess involves two stages:\nStage 1: Cooling water from 10°C to 0°C\nQ₁ = mcΔT\nQ₁ = 0.5 × 4200 × (10 - 0)\nQ₁ = 0.5 × 4200 × 10\nQ₁ = 21,000 J\nStage 2: Freezing water at 0°C to ice at 0°C\nQ₂ = mL_f\nTotal heat extracted:\nQ_total = Q₁ + Q₂\n88,000 = 21,000 + Q₂\nQ₂ = 88,000 - 21,000\nQ₂ = 67,000 J\nCalculate specific latent heat of fusion:\nQ₂ = mL_f\n67,000 = 0.5 × L_f\nL_f = 67,000 / 0.5\nL_f = 134,000 J/kg\nL_f = 134 kJ/kg",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 465,
+    "question": "Tyres are treaded to?",
+    "option": {
+      "a": " increase weight of tyres",
+      "b": " increase friction",
+      "c": " increase its longevity",
+      "d": " look good"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Tyres are treaded to increase friction (grip/traction) between the tyre and the road surface, especially in wet or slippery conditions, which is crucial for vehicle safety and control.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 253,
+    "question": "Which of the following is a scalar quantity?",
+    "option": {
+      "a": "Tension",
+      "b": "Weight",
+      "c": "Impulse",
+      "d": "Mass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Mass is a scalar quantity because it has magnitude only and no direction.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

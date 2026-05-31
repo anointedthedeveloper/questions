@@ -13646,5 +13646,37 @@
     "solution": "Using a venn diagram, let x = number who offer both Maths and Physics. So that (32-x) offer Maths and another (24-x) offer Physics.\n(32-x) + (24-x) + (x) + (4 who offer neither) = 40\n=> 60 - x = 40\n=> -x = -20\nTherefore x = 20.",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 183,
+    "question": "If y=x<sup>2</sup>−1x. find dy/dx",
+    "option": {
+      "a": " 2x - (1/x<sup>2</sup>)",
+      "b": "2x + x<sup>2</sup>",
+      "c": "2x - x<sup>2</sup>",
+      "d": " 2x + (1/x<sup>2</sup>)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y=x<sup>2</sup>−1/x = x2− x<sup>-1</sup>\n \ndy/dx = 2x − ( −x<sup>-2</sup>)\n= 2x + 1/x<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 466,
+    "question": "The area of a square is 144 sqcm. Find the length of the diagonal.",
+    "option": {
+      "a": " 13 cm",
+      "b": "12√2 cm",
+      "c": "12 cm",
+      "d": "11√3 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545145/ALOC-Questions/Mathematics/2007/JAMB_2007_Q45_solution_usiv1t.jpg",
+    "answer": "b",
+    "solution": "Area of a square = x * x\n144 = x2\n√144 = x\n12 = x\nBut d2 = 122 + 122\n= 144 + 144\n= 288\nd = √288\n= √144 x 2\n= 12√2",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

@@ -14190,5 +14190,37 @@
     "solution": "dy/dx = 2x + 7\ny = ∫2x + 7\ny = x2 + 7x + C at (2,0)\n0 = 22 + 7(2) + C\n0 = 4 + 14 + C\n0 = 18 + C\nC = -18\n∴ The equation is y = x<sup>2</sup> + 7x - 18",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 125,
+    "question": "A car dealer bought a second-hand car for N250,000 and spent N70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
+    "option": {
+      "a": "60%",
+      "b": " 32%",
+      "c": "25%",
+      "d": "20%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Total cost = N(250,000 + 70,000) = N320,000\nSelling price = N400,000 (given)\nGain = SP - CP = N(400,000 - 320,000) = N80,000\nGain % = gain/CP x 100 = (80,000/320,000) x 100\n\nGain % = 25%",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 727,
+    "question": "Simplify (√6+2)<sup>2</sup> −(√6−2)<sup>2</sup> ",
+    "option": {
+      "a": "2√6",
+      "b": "4√6",
+      "c": "8√6",
+      "d": "16√6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "√6+2)<sup>2</sup> −(√6−2)<sup>2</sup>  =  [(√6+2)+(√6 − 2)][(√6 + 2) − (√6 − 2)]\n\n= (√6 + 2 + √6 − 2)(√6 + 2− √6 + 2)]\n\n\n= (2√6)(4)\n\n\n= 8√6",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

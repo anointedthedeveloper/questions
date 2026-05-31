@@ -5134,5 +5134,53 @@
     "solution": "Given information:\n\nIncident angle in water, θ₁ = 40°\nRefractive index of water, n₁ = 1.33\nRefractive index of glass, n₂ = 1.5\nAngle of refraction in glass, θ₂ = ?\n\nSolution:\nStep 1: Apply Snell's Law\nWhen light travels from one medium to another:\nn₁ sin θ₁ = n₂ sin θ₂\nStep 2: Substitute the known values\n1.33 × sin 40° = 1.5 × sin θ₂\n1.33 × 0.6428 = 1.5 × sin θ₂\n0.8549 = 1.5 × sin θ₂\nStep 3: Solve for sin θ₂\nsin θ₂ = 0.8549/1.5\nsin θ₂ = 0.5699\nStep 4: Calculate angle of refraction\nθ₂ = sin⁻¹(0.5699)\nθ₂ = 34.75°",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 798,
+    "question": "A radioactive substance has a half life of 20 days. What fraction of the original radioactive nuclei will remain after 80 days?",
+    "option": {
+      "a": "1/32",
+      "b": "1/16",
+      "c": "1/8",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nHalf-life (T½) = 20 days\nTime elapsed (t) = 80 days\nFraction remaining = ?\n\nStep 1: Calculate number of half-lives\nNumber of half-lives (n) = t/T½\nn = 80/20 = 4\nSo 4 half-lives have passed.\nStep 2: Calculate fraction remaining\nAfter each half-life, half of the remaining nuclei decay.\nAfter n half-lives, fraction remaining = (1/2)ⁿ\nSubstituting:\nFraction = (1/2)⁴\nFraction = 1/16",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 1159,
+    "question": "The thermal capacity of a body depends on one of the following ",
+    "option": {
+      "a": "Quantity of heat",
+      "b": "Temperature and mass",
+      "c": "Nature and mass",
+      "d": "Mass, volume, and temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The thermal capacity of a body depends on its nature (type of material, which determines specific heat capacity) and mass (amount of material). The relationship is C = mc, where m is mass and c is the specific heat capacity characteristic of the material's nature.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 55,
+    "question": "A simple pendulum 0.6 long has a period of 1.55, what is the period of a similar pendulum 0.4 long in the same direction ",
+    "option": {
+      "a": "1.4 √1/3s ",
+      "b": "1.5 √1/3s ",
+      "c": "2.25s ",
+      "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   }
 ]

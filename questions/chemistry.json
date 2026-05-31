@@ -10670,5 +10670,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 688,
+    "question": "Which of the following methods can be used to remove temporary hardness from water?",
+    "option": {
+      "a": "Boiling",
+      "b": "Filtration",
+      "c": "Sedimentation",
+      "d": "Chlorination"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Temporary hardness is caused by dissolved calcium and magnesium hydrogen carbonates (bicarbonates). Boiling decomposes these salts: Ca(HCO₃)₂ → CaCO₃ + H₂O + CO₂. The insoluble CaCO₃ precipitates out, removing the hardness. Filtration, sedimentation, and chlorination do not remove dissolved bicarbonate salts causing temporary hardness.",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

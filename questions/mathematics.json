@@ -14430,5 +14430,53 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 5,
+    "question": "A cyclist rode for 30minutes at xhkm/hr. if the total distance covered is less than 60km, what is the range of values for x? ",
+    "option": {
+      "a": "x<14   ",
+      "b": "x<20  ",
+      "c": "x<29  ",
+      "d": "x< 28"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 649,
+    "question": "The midpoint of P(x, y) and Q(8, 6) is (5, 8). Find x and y.",
+    "option": {
+      "a": " (2, 10)",
+      "b": " (2, 8)",
+      "c": "(2, 12)",
+      "d": " (2, 6)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "P(x, y) Q(8, 6)\n\nmidpoint = (5, 8)\n\nx + 8 = 5\n\ny+6/2 = 8\n\nx + 8 = 10\n\nx = 10 - 8 = 2\n\ny + 6 = 16\n\ny + 16 - 6 = 10\n\ntherefore, P(2, 10)",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 308,
+    "question": "Given that 3√4<sup>2x</sup>  = 16, find the value of x",
+    "option": {
+      "a": "4",
+      "b": "6",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "4<sup>2x</sup>  = 16\nthis implies that (3√4<sup>2x</sup>)<sup>3</sup>. 4<sup>2x</sup>  = 4<sup> 2*3</sup>\n4<sup>2x</sup>= 4<sup>6</sup>\n∴ 2x = 6\nx = 3",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

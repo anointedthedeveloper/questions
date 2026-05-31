@@ -5806,5 +5806,37 @@
     "solution": "All three properties, refraction, interference, and diffraction, are fundamental wave phenomena that occur in ALL types of waves, whether mechanical (sound, water) or electromagnetic (light, radio).",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 633,
+    "question": "A ray of light makes an angle of 35o with a plane mirror. What is the angle of reflection?",
+    "option": {
+      "a": "35°",
+      "b": "55°",
+      "c": "70°",
+      "d": "65°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nAngle between the incident ray and the plane mirror = 35°\n\nStep 1: Law of reflection\nAngle of incidence = Angle of reflection\n(Both measured from the normal to the surface.)\n\nStep 2: Find angle of incidence\nThe normal is perpendicular to the mirror.\nAngle of incidence = 90° - (angle with mirror)\nAngle of incidence = 90° - 35° = 55°\n\nStep 3: Apply law of reflection\nAngle of reflection = Angle of incidence = 55°",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 441,
+    "question": "A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms⁻¹ from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is? (Take g = 10ms⁻²)",
+    "option": {
+      "a": "5J",
+      "b": "10J",
+      "c": "15J",
+      "d": "20J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass (m) = 0.1 kg\nInitial velocity (u) = 10 m/s (upward)\nHeight of tower (h) = 10 m\ng = 10 m/s²\nTotal energy just before hitting ground = ?\n\nKey principle: Conservation of Energy\nIn the absence of air resistance, total mechanical energy is conserved.\nTotal energy at any point = KE + PE (constant throughout motion)\nCalculate total energy at initial position (top of tower):\nInitial Kinetic Energy:\nKE₀ = ½mu²\nKE₀ = ½ × 0.1 × (10)²\nKE₀ = ½ × 0.1 × 100\nKE₀ = 5 J\nInitial Potential Energy (taking ground as reference):\nPE₀ = mgh\nPE₀ = 0.1 × 10 × 10\nPE₀ = 10 J\nTotal initial energy:\nTotal Energy = KE₀ + PE₀\nTotal Energy = 5 + 10 = 15 J",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

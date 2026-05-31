@@ -36,9 +36,9 @@ echo Upgrading pip...
 
 echo.
 echo Installing packages...
-%PYTHON% -m pip install requests
-%PYTHON% -m pip install python-dotenv
-%PYTHON% -m pip install watchdog
+%PYTHON% -m pip install requests --user
+%PYTHON% -m pip install python-dotenv --user
+%PYTHON% -m pip install watchdog --user
 
 echo.
 echo Verifying installs...

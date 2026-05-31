@@ -8814,5 +8814,37 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 397,
+    "question": "When a sound wave passes from air into water its ",
+    "option": {
+      "a": "speed and frequency increases but its wavelength remains the same",
+      "b": "speed and wavelength increases but its frequency remains the same",
+      "c": "speed decreases",
+      "d": " speed increases but its frequency and wavelength decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When sound passes from air into water, its speed and wavelength both increase while its frequency remains constant.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 1099,
+    "question": "The temperature at which the water vapour present in the air is just sufficient to saturate air is",
+    "option": {
+      "a": " Boiling point",
+      "b": "Ice point",
+      "c": "Saturation point",
+      "d": " Dew point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The correct term is dew point.",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

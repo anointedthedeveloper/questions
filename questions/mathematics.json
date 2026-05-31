@@ -15630,5 +15630,37 @@
     "solution": " x<sub>10</sub> = 1214<sub>5</sub>\n= x x<sub>10</sub>  = 1 x 5<sup>3</sup> + 2 x 5<sup>2</sup> + 1 * 5<sup>1</sup> + 4 x 5<sup>0</sup>\n= 1 x 125 + 2 x 25 + 1 x 5 + 4 x 1\n= 125 + 50 + 5 + 4\n= 184",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 162,
+    "question": "The identity element with respect to the multiplication shown in the table above is",
+    "option": {
+      "a": "o",
+      "b": "m",
+      "c": "i",
+      "d": "k"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696566/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_40_wirh19.jpg",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 574,
+    "question": "Express the product of 0.21 and 0.34 in standard form",
+    "option": {
+      "a": " 7.14 x 10<sup>-3</sup>",
+      "b": " 7.14 x 10<sup>-2</sup>",
+      "c": "7.14 x 10<sup>-1</sup>",
+      "d": " 7.14 x 10sup>-4</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "0.21 x 0.34 = 0.0714\n= 7.14 x 10<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

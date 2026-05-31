@@ -13118,5 +13118,37 @@
     "solution": " [1÷64<sup>(x+2)</sup>] = [4<sup>(x−3)</sup> ÷16<sup>x</sup>]               64<sup>-(x+2)</sup>=[4<sup>(x−3)</sup>] ÷ [16<sup>x</sup>]\n\n\nbreakdown 4,16,64 into a small index no\n\n2<sup>−6(x+2)</sup> = 2<sup>2</sup>(x−3)÷2<sup>4(x)</sup>\n\n\n2<sup>−6x−12</sup> =2<sup>2x−4x−6</sup>\n\n\n2<sup>−6x−12</sup> = 2<sup>−2x−6</sup>\n\n\n− 6x − 12 = − 2x − 6\n\nCollect the like term\n\n−6x + 2x = −6 + 12\n\n−4x =6\n\nx = 6/4\n\n\nx = −3/2",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 724,
+    "question": "A man earns N3,500 per month out of which he spends 15% on his children's education. If he spends additional N1,950 on food, how much does he have left?",
+    "option": {
+      "a": "N525",
+      "b": "N1,025",
+      "c": "N1,950",
+      "d": "N2,975"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Amount spent on children = 15/100 × 3500 = N525\n\n\nAmount spent = Amount on children + Additional amount on food\n\nAmount Spent = N525 + N1950 = N2475\n\nTherefore amount left = N3,500 - N2,475 = N1,025",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1278,
+    "question": "Integral ∫(5x<sup>3</sup> + 7x<sup>2</sup> − 2x +5)\ndx",
+    "option": {
+      "a": "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 + 2x + C",
+      "b": "5x<sup>4</sup> /4 + 7x<sup>3</sup> /3 − x<sup>2</sup>  + 5x + C",
+      "c": "5x<sup>3</sup> /3 + 7x<sup>2</sup> /x − x + C",
+      "d": "2x<sup>2</sup> /3 + x/5  − C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "∫(5x<sup>3</sup> + 7x<sup>2</sup> −2x + 5)dx\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − 2x<sup>2</sup>/2 + 5x + c\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − x<sup>2</sup> + 5x + c",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

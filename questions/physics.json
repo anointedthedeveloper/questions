@@ -2350,5 +2350,85 @@
     "solution": "Relays are electrically operated switches that open and close the circuits by receiving electrical signals from outside sources.",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 66,
+    "question": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of ",
+    "option": {
+      "a": "2:01",
+      "b": "1:02",
+      "c": "1:04",
+      "d": "1:16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1112,
+    "question": "What is the best method of demagnetizing a steel bar magnet?",
+    "option": {
+      "a": "Hammering",
+      "b": " Heating it",
+      "c": " Rough handling it",
+      "d": " Solenoid method"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Solenoid method: This involves placing the magnet inside a solenoid (an electromagnet) and gradually reducing the current. It provides a controlled environment for effective demagnetization.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 608,
+    "question": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance X_L and X_C respectively are related as",
+    "option": {
+      "a": "X_L = X_C",
+      "b": "X_L = ½X_C",
+      "c": "X_L = 1/X_C",
+      "d": "X_L = 2X_C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nRLC series circuit at resonance\n\nSolution:\nKey formulas:\nInductive reactance: XL = ωL = 2πfL\nCapacitive reactance: XC = 1/(ωC) = 1/(2πfC)\nResonance condition:\nAt resonance in an RLC series circuit, the impedance is minimum and purely resistive.\nThis occurs when the inductive and capacitive reactances cancel each other:\nXL = XC\nStep 1: Mathematical proof\nAt resonance frequency f₀:\n2πf₀L = 1/(2πf₀C)\nThis confirms: XL = XC\nStep 2: Physical interpretation\nWhen XL = XC:\n\nInductive and capacitive effects cancel\nTotal impedance Z = R (minimum)\nCurrent is maximum\nCircuit is in resonance",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 577,
+    "question": "The energy of light of frequency 2.0 x 10¹⁵Hz is (h = 6.63 x 10⁻³⁴Js)",
+    "option": {
+      "a": ". 3.33 x 10⁻¹⁸J",
+      "b": "1.33 x 10⁻¹⁸J",
+      "c": "1.33 x 10⁻¹⁹J",
+      "d": "3.33 x 10⁻¹⁹J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nFrequency, f = 2.0 × 10¹⁵ Hz\nPlanck's constant, h = 6.63 × 10⁻³⁴ J·s\nEnergy, E = ?\n\nSolution:\nStep 1: Apply Planck's equation\nThe energy of a photon:\nE = hf\nStep 2: Substitute the known values\nE = 6.63 × 10⁻³⁴ × 2.0 × 10¹⁵\nStep 3: Calculate the energy\nE = (6.63 × 2.0) × (10⁻³⁴ × 10¹⁵)\nE = 13.26 × 10⁻¹⁹\nE = 1.326 × 10⁻¹⁸ J\nE ≈ 1.33 × 10⁻¹⁸ J",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 70,
+    "question": " For  a particle having an x co-ordinate that varies in time according to the express ion x = 4t -2t2 The instantaneous velocity for of the particle at t = 2.5s is:",
+    "option": {
+      "a": "12m/s ",
+      "b": "6m/s ",
+      "c": "0m/s ",
+      "d": "10m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
   }
 ]

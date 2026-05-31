@@ -11406,5 +11406,37 @@
     "solution": "Given information:\n\nDistance traveled = 50 cm\nTime = 2 s\nDistance between successive crests (wavelength, λ) = 5 cm = 0.05 m\nFrequency (f) = ?\n\nStep 1: Calculate wave speed\nSpeed (v) = Distance/Time\nv = 50/2 = 25 cm/s = 0.25 m/s\nStep 2: Use wave equation\nv = fλ\nRearranging to find frequency:\nf = v/λ\nSubstituting values:\nf = 25/5 = 5 Hz",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 485,
+    "question": "In the formation of sea breeze, wind blows from?",
+    "option": {
+      "a": "sky to land",
+      "b": "sea to sky",
+      "c": "land to sea",
+      "d": "sea to land"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A sea breeze describes a wind that blows from the ocean inland towards land.\n\nThis breeze occurs most often in the spring and summer months because of the greater temperature differences between the ocean and nearby land, particularly in the afternoon when the land is at maximum heating from the sun.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 905,
+    "question": "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire",
+    "option": {
+      "a": "0.75 J",
+      "b": " 7.50 J",
+      "c": "75.00 J",
+      "d": "750.00 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Energy stored in a stretched wire (strain energy)\n= average force x extension\n= (1)/2 Fe\n= (1)/2 x 300 N (30.5 - 30.0) x 10-2 m\n= (300)/2 x 0.5 x 10-2 = 0.75J",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

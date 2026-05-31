@@ -15806,5 +15806,53 @@
     "solution": "28∗360/100\n  \n\n= 100.8°",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 985,
+    "question": "If 4sin2x−3=0, find the value of x, when 0° ≤ x ≤ 90°",
+    "option": {
+      "a": " 90°",
+      "b": "45°",
+      "c": " 60°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "4sin<sup>2</sup>x − 3 = 0\n4sin<sup>2</sup>x = 3 ⟹ sin<sup>2</sup>x = 3/4 \nsin x = √3/2\n∴ x = sin<sup>−1</sup>(√3/2)\nx = 60°",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 858,
+    "question": "Solve for x and y respectively\n3x - 5y = 9\n6x - 4y = 12",
+    "option": {
+      "a": "3/4 , 1",
+      "b": "4/3 , 1",
+      "c": "3/4 , -1",
+      "d": "4/3 , -1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "3x - 5y = 9 ------x2\n6x - 4y = 12 -----x1\n6x - 10y = 18\n-6x - 4y = 12\n____________\n6y/−6 = 6/6\n\n\ny = -1\nin eq (1) 3x - 5y = 9\n3x - 5(-1) = 9\n3x + 5 = 9\n3x = 4\nx = 4/3",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 778,
+    "question": "If S = √(t<sup>2</sup>-4t+4), find t in terms of s",
+    "option": {
+      "a": " S<sup>2</sup> - 2",
+      "b": "S + 2",
+      "c": "S - 2",
+      "d": " S<sup>2</sup> + 2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msqrt>\n    <msup>\n      <mi>t</mi>\n      <mn>2</mn>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>4</mn>\n    <mi>t</mi>\n    <mo>+</mo>\n    <mn>4</mn>\n  </msqrt>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "S = √(t<sup>2</sup> −4t + 4)\n\n\nS<sup>2</sup> = t<sup>2</sup> - 4t + 4\n\nt<sup>2</sup> - 4t + 4 - S<sup>2</sup> = 0\n\nUsing t = −b ± √(b<sup>2</sup −4ac)/2a\n\n\nSubstituting, we have;\n\nUsing t = −(−4) ±)√(−4)<sup>2</sup> −4(1)(4−S<sup>2</sup.>/2(1)\n\n\nt = 4 ±√(16−4(4−S<sup>2</sup>)/2\n\n\nt = 4 ±√(16−16+4S<sup>2</sup>/2\n\n\nt = 4 ±√(4S<sup>2</sup>/2\n\n\nt = 2(2±S)/2\n\n\nHence t = 2 + S or t = 2 - S",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

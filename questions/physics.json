@@ -9262,5 +9262,53 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 150,
+    "question": "Convert 45°C to kelvin",
+    "option": {
+      "a": "318K",
+      "b": "250K",
+      "c": "184K",
+      "d": "120K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Note: T = 273 + θ\n\nθ = 45°\n\nT = 273 + 45\n\n= 318K",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 903,
+    "question": "The surfaces of conveyor belts are made rough so as to?",
+    "option": {
+      "a": " protect them while carrying loads",
+      "b": "prevent the loads from slipping",
+      "c": "enable them to carry more load",
+      "d": " make them stronger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Rough surface promotes friction. Therefore, roughness of conveyor belt prevents the load from slipping",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 623,
+    "question": "A machine whose efficiency is 60% has a velocity ratio of 5. If a force of 500N is applied to lift a load P, what is the magnitude of P?",
+    "option": {
+      "a": "1500N",
+      "b": "500N",
+      "c": "4166N",
+      "d": "750N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nEfficiency, η = 60% = 0.60\nVelocity Ratio, VR = 5\nEffort, E = 500 N\nLoad, P = ?\n\nSolution:\nStep 1: Relationship between efficiency, MA, and VR\nFormula: Efficiency = MA/VR\nWhere:\n\nMA = Mechanical Advantage = Load/Effort = P/E\nVR = Velocity Ratio\n\nStep 2: Calculate Mechanical Advantage\nη = MA/VR\n0.60 = MA/5\nMA = 0.60 × 5\nMA = 3\nStep 3: Calculate load P\nMA = P/E\n3 = P/500\nP = 3 × 500\nP = 1500 N",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

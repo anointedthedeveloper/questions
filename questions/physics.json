@@ -6110,5 +6110,53 @@
     "solution": "Dispersion is the splitting of white light into its spectral component colors and is caused by different speed of the colors in the prism.",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 557,
+    "question": "Which of the following operates based on magnetic effect of electric current?",
+    "option": {
+      "a": "electric heater",
+      "b": "photocell",
+      "c": "Dynamo",
+      "d": "Cold cathode"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A dynamo (generator) operates based on electromagnetic induction, which is a magnetic effect. When a conductor moves through a magnetic field or when magnetic flux through a coil changes, an electric current is induced. This conversion of mechanical energy to electrical energy relies on the interaction between motion and magnetic fields.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 803,
+    "question": "I. All the three forces must be concurrent.\nII. The upward force is equal to the downward force.\nIII. The algebraic sum of the moment about any point must be zero.\n\nwhich of the above conditions must hold for a body acted upon by a system of three coplanar forces equilibrium?",
+    "option": {
+      "a": " I and II only",
+      "b": "I and III only",
+      "c": "II and III only",
+      "d": "I, II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All three conditions must hold for a body acted upon by three coplanar forces to be in equilibrium: the forces must be concurrent (I), upward forces must equal downward forces (II), and the algebraic sum of moments about any point must be zero (III).",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 10,
+    "question": "  A convex lens of focal length 10.0cm is used to form a real image which is half the size of the object. How far from the object is the image? ",
+    "option": {
+      "a": "45cm ",
+      "b": "30cm ",
+      "c": "15cm ",
+      "d": "20cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
   }
 ]

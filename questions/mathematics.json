@@ -14590,5 +14590,21 @@
     "solution": "∫<sub>2</sub><sup>2</sup> 〖(6x<sup>2</sup> -2x)dx=[(6x<sup>3</sup> )/3-(2x<sup>2</sup> )/2 ]<sub>1</sub><sup>2</sup> = [2x<sup>3</sup> -x<sup>2</sup>  ]<sub>1</sub><sup>2</sup>  〗",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 479,
+    "question": "〖log〗<sub>(x<sup>1/2</sup>)</sub><sup>64</sup> = 3,  find the value of x",
+    "option": {
+      "a": "4",
+      "b": "16",
+      "c": "32",
+      "d": "64"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If logx1/264 = 3\n(X 1/2)3 = 64\n(X 1/2)3 = 4 3\nX 1/2 = 4\nX = 42\nX = 16",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

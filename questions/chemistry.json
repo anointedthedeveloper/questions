@@ -10846,5 +10846,53 @@
     "solution": "Hydrogen chloride (HCl) is extremely soluble in water (about 500 volumes per volume of water). When a flask of HCl is inverted over water, rapid dissolution creates a near-vacuum, drawing water up in a dramatic fountain. This high solubility makes HCl the classic gas for the fountain experiment.",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 348,
+    "question": "A difference between chemical and physical change is that in a chemical change",
+    "option": {
+      "a": "oxygen is consumed",
+      "b": "heat is supplied",
+      "c": "the reversible process occurs",
+      "d": "a new substance is formed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The defining characteristic of a chemical change is that a new substance with different chemical properties is formed. Physical changes alter the form or state of matter without producing a new substance. Options A, B, and C can occur in both types of change.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 64,
+    "question": "A gas X diffuses twice as fast as gas Y under the same conditions. If the relative molecular mass of X is 28. Calculate the relative molecular mass of Y",
+    "option": {
+      "a": "120",
+      "b": "14",
+      "c": "56",
+      "d": "112"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 777,
+    "question": "Acid radicals are present in",
+    "option": {
+      "a": "CO₃²⁻, PO₄³⁻, Mg²⁺",
+      "b": "CO₃²⁻, SO₄²⁻, Na⁺",
+      "c": "CO₃²⁻, SO₄²⁻, NO₃⁻",
+      "d": "CO₃²⁻, SO₄²⁻, K⁺"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Acid radicals are negatively charged ions (anions) derived from acids. CO₃²⁻ (from H₂CO₃), SO₄²⁻ (from H₂SO₄), and NO₃⁻ (from HNO₃) are all acid radicals. Options A, B, and D each contain a cation (Mg²⁺, Na⁺, K⁺) which are basic radicals, not acid radicals.",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

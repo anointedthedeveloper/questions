@@ -17744,5 +17744,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1815,
+    "question": "Epita<u>ph</u>.",
+    "option": {
+      "a": "Pneumonia.",
+      "b": "Pseudo.",
+      "c": "Fan.",
+      "d": "Paper."
+    },
+    "section": "Choose the option that has the same consonant sound as the one represented by the letter underlined. ",
+    "image": "",
+    "answer": "c",
+    "solution": "epitaph; /ˈɛpɪtɑːf,ˈɛpɪtaf/\nfan; /fan/",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 56,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1764,
+    "question": "Kunana is like a bear in the sore head.",
+    "option": {
+      "a": "He is a bully.",
+      "b": " He is grumpy.",
+      "c": "He is ugly.",
+      "d": " He is quiet."
+    },
+    "section": "Select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "b",
+    "solution": "If someone is like a bear with a sore head, they are being very bad-tempered and irritable.\n\ngrumpy; bad-tempered and irritable",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 5,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

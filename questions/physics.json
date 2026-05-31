@@ -6606,5 +6606,53 @@
     "solution": "I & III only as units are independent of energy equation.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 115,
+    "question": "A uniform meter rule AB has a mass 15g. A 30g mass is suspended at the 10.0cm mark, and another 5g mass is suspended at the 65.0cm mark. Calculate the position of the fulcrum that will keep the meter rule balanced horizontally ",
+    "option": {
+      "a": "50.0cm ",
+      "b": "32.0cm ",
+      "c": "27.5cm ",
+      "d": "17.9cm "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1104,
+    "question": "The focal length of a concave mirror is 2.0cm. If an object is placed 8.0cm from it, the image is at",
+    "option": {
+      "a": "2.7 m",
+      "b": " 2.0 m",
+      "c": " 2.3 m",
+      "d": "2.5 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nFocal length, f = 2.0 cm\nObject distance, u = 8.0 cm\n\nSolution:\n\nStep 1: Mirror formula\nFor a concave mirror, the mirror formula is:\n1/f = 1/u + 1/v\n\nStep 2: Substitute values\n1/2 = 1/8 + 1/v\n1/v = 1/2 – 1/8 = 4/8 – 1/8 = 3/8\nv = 8/3 ≈ 2.67 cm",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 258,
+    "question": "A constant force of 5N acts for 5 seconds on a mass of 5kg initially at rest. Calculate the final momentum",
+    "option": {
+      "a": "125 kgms⁻¹",
+      "b": " 25 kgms⁻¹",
+      "c": "15 kgms⁻¹",
+      "d": " 0 kgms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nForce (F) = 5 N\nTime (t) = 5 seconds\nMass (m) = 5 kg\nInitial velocity = 0 (at rest)\nFinal momentum = ?\n\nUsing Impulse-Momentum Theorem:\nImpulse = Change in momentum\nFt = Final momentum - Initial momentum\nSince initial momentum = 0 (at rest):\nFt = Final momentum\nCalculating:\nFinal momentum = Ft\nFinal momentum = 5 × 5\nFinal momentum = 25 kgms⁻¹",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

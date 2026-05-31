@@ -14798,5 +14798,37 @@
     "solution": "The graph of the function f(x) is a curve that starts at (-2,0) and ends at (2,0) with a peak at (0,1). The range of values of x for which f(x) ≥ 0 is the interval where the graph of the function is above or touches the x-axis. From the given graph, we can see that this interval is [-2, 2]. Therefore, the correct answer is -2 ≤ x ≤ 0, x ≥ 2",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 175,
+    "question": "Simplify (√0.7+√70)<sup>2</sup>",
+    "option": {
+      "a": "84.7",
+      "b": "70.7",
+      "c": "217.7",
+      "d": "168.7"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <msqrt>\n    <mn>0.7</mn>\n  </msqrt>\n  <mo>+</mo>\n  <msqrt>\n    <mn>70</mn>\n  </msqrt>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(√0.7 + √70)<sup>2</sup>\n \n= (√0.7 + √70)(√0.7 + √70)\n= 0.7+2√(0.7×70) + 70\n= 0.7 + 14 + 70\n= 84.7",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 459,
+    "question": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus of P",
+    "option": {
+      "a": "It is a semi circle with ST as diameter",
+      "b": " It is a perpendicular bisector of St",
+      "c": "It is a quadrant of a circle with ST as diameter",
+      "d": "It is a straight line perpendicular to ST"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

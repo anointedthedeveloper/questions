@@ -14174,5 +14174,21 @@
     "solution": "∠BDC + ∠BDA = 180° { Sum ∠s on a straight line } 65° + ∠BDA = 180° ∠BDA = 115° ∠BDA + ∠BAD + ∠ABD = 180°  (Sum ∠s in a △ } 115° + 50° + x = 180°.  x = 15°",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 380,
+    "question": "The gradient of a curve is 2x + 7 and the curve passes through point (2, 0). find the equation of the curve.",
+    "option": {
+      "a": " y = x<sup>2</sup> + 7x + 9",
+      "b": " y = x<sup>2</sup> + 7x - 18",
+      "c": " y = x<sup>2</sup> + 7x + 18",
+      "d": "y = x<sup>2</sup> + 14x + 11"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "dy/dx = 2x + 7\ny = ∫2x + 7\ny = x2 + 7x + C at (2,0)\n0 = 22 + 7(2) + C\n0 = 4 + 14 + C\n0 = 18 + C\nC = -18\n∴ The equation is y = x<sup>2</sup> + 7x - 18",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

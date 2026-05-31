@@ -10478,5 +10478,21 @@
     "solution": "According to the kinetic theory, the kinetic energy of particles is directly proportional to absolute temperature. At absolute zero (0 K), temperature is absent and particle motion theoretically ceases completely, so kinetic energy becomes zero.",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 490,
+    "question": "(I) 3CuO(s) + 2NH₃(g) → 3Cu(s) + 3H₂O(l) + N₂(g)\n(II) 2NH₃(g) + 3Cl₂(g) → 6HCl(g) + N₂(g)\n(III) 4NH₃(g) + 3O₂(g) → 6H₂O(l) + N₂(g)\nThe reactions represented by the equations above demonstrate the",
+    "option": {
+      "a": "basic properties of ammonia",
+      "b": "acidic properties of ammonia",
+      "c": "reducing properties of ammonia",
+      "d": "oxidizing properties of ammonia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In all three reactions, nitrogen in NH₃ is oxidized from -3 to 0 (in N₂). In reaction I, NH₃ reduces CuO to Cu. In reaction II, NH₃ reduces Cl₂ (Cl goes from 0 to -1 in HCl). In reaction III, NH₃ is oxidized by O₂. In every case, NH₃ is the reducing agent — demonstrating the reducing properties of ammonia.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

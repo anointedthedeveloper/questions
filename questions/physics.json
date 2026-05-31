@@ -5086,5 +5086,53 @@
     "solution": "A mixture of blue and red pigment when illuminated by white light will appear magenta (purple), as both red and blue wavelengths are reflected while other colors are absorbed.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 454,
+    "question": "The lowest note emitted by a stretched string has a frequency of 40Hz. How many overtones are there between 40Hz and 180Hz?",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "There are 3 overtones between 40Hz and 180Hz (specifically at 80Hz, 120Hz, and 160Hz).",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 61,
+    "question": "The product PV where P is pressure and V is a volume has the same unit as ",
+    "option": {
+      "a": "force ",
+      "b": "power ",
+      "c": "energy ",
+      "d": "acceleration "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 537,
+    "question": "A beam of light travelling in water is incident on a glass which is immersed in the water. The incident beam makes an angle of 40° with the normal. Calculate the angle of refraction in the glass. [Refractive index of water = 1.33, Refractive index of glass = 1.5]",
+    "option": {
+      "a": "29.36°",
+      "b": "25.37°",
+      "c": "37.21°",
+      "d": "34.75°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nIncident angle in water, θ₁ = 40°\nRefractive index of water, n₁ = 1.33\nRefractive index of glass, n₂ = 1.5\nAngle of refraction in glass, θ₂ = ?\n\nSolution:\nStep 1: Apply Snell's Law\nWhen light travels from one medium to another:\nn₁ sin θ₁ = n₂ sin θ₂\nStep 2: Substitute the known values\n1.33 × sin 40° = 1.5 × sin θ₂\n1.33 × 0.6428 = 1.5 × sin θ₂\n0.8549 = 1.5 × sin θ₂\nStep 3: Solve for sin θ₂\nsin θ₂ = 0.8549/1.5\nsin θ₂ = 0.5699\nStep 4: Calculate angle of refraction\nθ₂ = sin⁻¹(0.5699)\nθ₂ = 34.75°",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

@@ -10574,5 +10574,149 @@
     "solution": "log<sub>7</sub>17\n\n= [log 17 ÷ log7]\n\n= [1.2304 ÷ 0.8451]\n\n[10<sup>0.0899</sup> ÷ 10<sup>1.9270</sup>]\n\n= 1.455(antilog)",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 1092,
+    "question": "Factorize completely 81a<sup>4</sup> - 16b<sup>4</sup>",
+    "option": {
+      "a": " (3a + 2b)(2a - 3b)(9a<sup>2</sup> + 4b<sup>2</sup>)",
+      "b": "(3a - 2b)(2a - 3b)(4a<sup>2</sup> - 9b<sup>2</sup>)",
+      "c": "(3a - 2b)(3a + 2b)(9a<sup>2</sup> + 4b<sup>2</sup>)",
+      "d": " (6a - 2b)(8a - 3b)(4a<sup>3</sup> - 9b<sup>2</sup>)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "81a<sup>4</sup> - 16b<sup>4</sup> = (9a<sup>2</sup>)<sup>2</sup> - (4b<sup>2</sup>)<sup>2</sup>\n\n\n= (9a<sup>2</sup> + 4b<sup>2</sup>)(9a<sup>2</sup> - 4b<sup>2</sup>)\n\nN:B 9a<sup>2</sup> - 4b<sup>2</sup> = (3a - 2b)(3a+ 2b)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 313,
+    "question": "The shadow of a pole 5√3m high is 5m. Find the angle of elevation of the sun.",
+    "option": {
+      "a": " 45°",
+      "b": "75°",
+      "c": "30°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Tan θ = 5√3/5\nTan θ = √3\nθ = 60°",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 826,
+    "question": "In the diagram above, l<sub>1</sub> is parallel to l<sub>2</sub>, Find the value of < PMT",
+    "option": {
+      "a": "82°",
+      "b": "36°",
+      "c": "72°",
+      "d": "118°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724002943/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q8_r1aiyw.jpg",
+    "answer": "a",
+    "solution": "< MPT = 180° - 118° = 62°\n\n< PML = 62° ( Alternative angle)\n\ny + 2y + 10° + 62° = 180° (Angles on a straight line)\n\n3y = 180 - 72\n3y/3 = 108/3\n\ny = 36°\n\n< PMT = 2y + 10 = 2(36) + 10 = 82°",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 56,
+    "question": "If P varies inversely as V and V varies directly as R2, find the relationship between P and R given that R = 7 when P = 2 ",
+    "option": {
+      "a": "P = 98R2 ",
+      "b": "PR2 = 98 ",
+      "c": "P2R = 89 ",
+      "d": "P = 1/98R "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 464,
+    "question": "Find the size of each exterior angle of a regular octagon",
+    "option": {
+      "a": " 51°",
+      "b": " 45°",
+      "c": "40°",
+      "d": " 36°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Each Exterior ∠ = 360/n\n= 360/8\n= 45°",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 319,
+    "question": "In the diagram above, PQ = 4cm and TS = 6cm. If the area of parallelogram PQTU is 32cm<sup>2</sup>, find the area of trapezium PQRU",
+    "option": {
+      "a": "24 cm<sup>2</sup>",
+      "b": "48 cm<sup>2</sup>",
+      "c": "60 cm<sup>2</sup>",
+      "d": "72 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710701126/ALOC-Questions/Mathematics/2004/math_2004_q48_pxbs9z.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 63,
+    "question": "Find the probability that a number selected at random 40 to 50 is a prime number   ",
+    "option": {
+      "a": "3/11",
+      "b": "5/11",
+      "c": "5/10",
+      "d": "4/10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1107,
+    "question": "A rectangular pyramid has an area 24cm<sup>2</sup>\n and height 7.5cm. Find its volume?",
+    "option": {
+      "a": "65.0cm<sup>3</sup>",
+      "b": "70.5cm<sup>3</sup>",
+      "c": "56.5cm<sup>3</sup>",
+      "d": "60.0cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Volume of a rectangular pyramid = length∗width∗height/3\n or area∗height/3\n= 24∗7.5/3\n → 180/3\nVolume of the rectangular pyramid = 60cm<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 123,
+    "question": "Simplify (3√(64a<sup>3</sup>))<−1\n",
+    "option": {
+      "a": "4a",
+      "b": " 1/8a",
+      "c": "8a",
+      "d": "1/4a"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <mroot>\n    <mrow>\n      <mn>64</mn>\n      <msup>\n        <mi>a</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n    </mrow>\n    <mn>3</mn>\n  </mroot>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n    </mrow>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

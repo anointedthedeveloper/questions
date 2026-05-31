@@ -7518,5 +7518,133 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 1,
+    "question": "25cm3 of a gas X contains Zmolecules at 150C and 75mmHg. How many molecules will 25cmm3 of another gas Y contain at the same temperature and pressure",
+    "option": {
+      "a": "2Y",
+      "b": "2Z",
+      "c": "Z",
+      "d": "Y"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 89,
+    "question": "The structural component that makes detergent dissolve more quickly in water than soap is",
+    "option": {
+      "a": "–SO3 –Na+",
+      "b": "–COO-Na+",
+      "c": "–SO4- Na+",
+      "d": "–COO-K+"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 136,
+    "question": "Pollution of underground water by metal ions is very likely in a soil that has high",
+    "option": {
+      "a": "Acidity",
+      "b": "Alkalinity",
+      "c": "Chloride content",
+      "d": "Nitrate content"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 92,
+    "question": "Farmlands affected by crude –oil spillage can be decontaminated by",
+    "option": {
+      "a": "Adding acidic solutions",
+      "b": "Using aerobic bacteria",
+      "c": "Pouring water on the affected area",
+      "d": "Burning off the oil from the area"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 568,
+    "question": "Four elements P, Q, R and S have atomic numbers of 4, 10, 12 and 14 respectively. Which of these elements is a noble gas?",
+    "option": {
+      "a": "P",
+      "b": "Q",
+      "c": "R",
+      "d": "S"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Atomic number 10 is neon (Ne), which belongs to Group 18 (noble gases). Its configuration is 1s² 2s² 2p⁶ — a completely filled outer shell. Atomic number 4 is beryllium, 12 is magnesium, and 14 is silicon — none of these are noble gases.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 687,
+    "question": "Which trace gas in the atmosphere plays a significant role in the greenhouse effect?",
+    "option": {
+      "a": "Oxygen",
+      "b": "Argon",
+      "c": "Carbon dioxide",
+      "d": "Nitrogen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Carbon dioxide (CO₂) is a trace gas (about 0.04% of the atmosphere) that plays a major role in the greenhouse effect. It absorbs infrared radiation emitted from the earth's surface and re-radiates it, trapping heat in the atmosphere. Nitrogen and oxygen make up most of the atmosphere but do not absorb infrared radiation significantly. Argon is chemically inert and does not contribute to the greenhouse effect.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 338,
+    "question": "The energy value of petrol can be determined by",
+    "option": {
+      "a": "Bomb calorimeter",
+      "b": "Catalytic cracker",
+      "c": "Fractionating column",
+      "d": "Thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A bomb calorimeter is used to measure the calorific (energy) value of fuels like petrol. The fuel is burned in a sealed oxygen-filled vessel surrounded by water, and the temperature rise is used to calculate the heat released.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 503,
+    "question": "The constituent common to duralumin and alnico is",
+    "option": {
+      "a": "Co",
+      "b": "Mn",
+      "c": "Al",
+      "d": "Mg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Duralumin is an alloy of Al, Cu, Mg, and Mn. Alnico is an alloy of Al, Ni, and Co. The only element common to both alloys is Aluminium (Al).",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

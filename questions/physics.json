@@ -8334,5 +8334,69 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
+  },
+  {
+    "id": 260,
+    "question": "Which of the following is correct about an electric cell?",
+    "option": {
+      "a": "Primary cell produces a large current for a long time",
+      "b": "Secondary cell has a very high internal resistance",
+      "c": " Primary cell has a very low internal resistance",
+      "d": " Secondary cell has a very low internal resistance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding cell types:\nPrimary cells:\n\nNon-rechargeable (disposable)\nExamples: dry cells, alkaline batteries\nRelatively high internal resistance\nCannot produce large currents for long periods\nChemical reactions are irreversible\n\nSecondary cells:\n\nRechargeable\nExamples: lead-acid batteries, lithium-ion batteries\nLow internal resistance\nCan deliver large currents for extended periods\nChemical reactions are reversible\n\nSecondary (rechargeable) cells have very low internal resistance, which allows them to deliver large currents efficiently.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 941,
+    "question": "The diagram above shows a balanced metre bridge, the value of x is",
+    "option": {
+      "a": " 75.0 cm",
+      "b": "66.7 cm",
+      "c": "33.3 cm",
+      "d": "25.0 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435612/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_42_qaxop9.png",
+    "answer": "c",
+    "solution": "1/R = 1/8 + 1/8 = 2/8\n∴ R = 4Ω\nl/l1 = R/R1\n(x)/(100-x) = 4/8\n4(100-x) = 8x\n400-4x = 8x\n400 = 8x + 4x = 12x\nx = 400/12 = 33.3cm",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 1149,
+    "question": "The figure shows a uniform metre rule of weight 100 N balanced by a knife edge at the 10 cm mark and a cord attached at the 85 cm mark. What is the tension in the string?",
+    "option": {
+      "a": "23.62 N",
+      "b": " 53.33 N",
+      "c": "35.74 N",
+      "d": " 78.68 N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774443729/ALOC-Questions/Physics/2025/PHYSICS_2025_Q_30_og6l5z.png",
+    "answer": "b",
+    "solution": "Solution:\nFrom the diagram:\n\nUniform metre rule (100 cm long)\nWeight of rule = 100 N\nPivot (fulcrum) at 10 cm mark\nTension T acts upward at 85 cm mark\nRule is in equilibrium\n\nKey information:\nFor a uniform metre rule:\n\nWeight acts at the center of gravity = 50 cm mark\n\nDistances from pivot (at 10 cm):\n\nDistance to center of gravity (where weight acts): 50 - 10 = 40 cm\nDistance to tension point: 85 - 10 = 75 cm\n\nStep 1: Apply principle of moments\nFor equilibrium, taking moments about the pivot:\nClockwise moments = Anticlockwise moments\nClockwise moment (due to weight):\nMoment = Weight × distance from pivot\nMoment = 100 × 40\nMoment = 4000 N·cm\nAnticlockwise moment (due to tension):\nMoment = T × 75 N·cm\nStep 2: Set up equation\nT × 75 = 100 × 40\nT × 75 = 4000\nStep 3: Solve for T\nT = 4000/75\nT = 53.33 N",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 882,
+    "question": "Thermionic emission is the process whereby?",
+    "option": {
+      "a": " β - rays are produced",
+      "b": "holes are produced",
+      "c": "x - rays are produced",
+      "d": "electrons leave a hot element"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Thermionic emission is ejection of electron from a metal surface as a result of heating.",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

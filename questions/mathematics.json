@@ -14702,5 +14702,37 @@
     "solution": "x/7 = 96/1  ==> 672/ + x/8 =112\n\n\nTherefore x = 224",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 393,
+    "question": "Compute 110011<sub>2</sub> + 11111<sub>2</sub>",
+    "option": {
+      "a": "1001010<sub>2</sub>",
+      "b": "1010010<sub>2</sub>",
+      "c": "1000110<sub>2</sub>",
+      "d": "1000100<sub>2</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "110011<sub>2</sub> + 11111<sub>2</sub> = 1010010<sub>2</sub>",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 498,
+    "question": "Find the capacity in liters of a cylindrical well of radius 1 meter and depth 14 meters\n[π = 22/7]",
+    "option": {
+      "a": "44,000 liters",
+      "b": "4,400 liters",
+      "c": " 440 liters",
+      "d": "44 liters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "V = πr2h\n1m = 100cm\n14cm = 1400cm\n∴V=22/7 × (100 x100 x 1400)/1000 = 44,000liters",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

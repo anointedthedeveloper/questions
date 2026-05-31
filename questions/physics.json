@@ -6366,5 +6366,53 @@
     "solution": "The small reverse current (typically microamperes) in a reverse-biased junction is due to the drift of minority carriers across the junction, not majority carriers. This current is also called leakage current or reverse saturation current.",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 870,
+    "question": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?",
+    "option": {
+      "a": "10 cm in front of the mirror.",
+      "b": "5 cm in front of the mirror",
+      "c": "10 cm behind the mirror",
+      "d": "5 cm behind the mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nObject distance u = 5 cm (positive, real object)\nFocal length f = 10 cm (positive for concave mirror in Cartesian sign convention)\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n\nStep 2: Substitute values\n1/10 = 1/5 + 1/v\n\nStep 3: Solve for 1/v\n1/v = 1/10 – 1/5 = 1/10 – 2/10 = –1/10\n\nStep 4: Find image distance v\nv = –10 cm\n\nThe negative sign indicates that the image is formed behind the mirror (virtual image).",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 496,
+    "question": "A semiconductor is formed by?",
+    "option": {
+      "a": "co-ordinate bonds",
+      "b": "electrovalent bonds",
+      "c": "a substance free of bonds",
+      "d": "covalent bonds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Semiconductors like silicon and germanium are formed by covalent bonds where atoms share electrons with neighboring atoms in a crystal lattice. This bonding arrangement allows for the controlled movement of electrons that gives semiconductors their unique electrical properties.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 881,
+    "question": "A piece of radioactive material contains 10²⁰ atoms. If the half‑life of the material is 20 seconds, the number of disintegrations in the first second is?",
+    "option": {
+      "a": "3.47 × 10¹⁸",
+      "b": "6.93 × 10²⁰",
+      "c": "3.47 × 10²⁰",
+      "d": "6.93 × 10¹⁸"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial number of atoms, N₀ = 10²⁰\nHalf‑life, T = 20 s\n\nSolution:\n\nStep 1: Calculate decay constant\nλ = ln 2 / T = 0.693 / 20 = 0.03465 s⁻¹\n\nStep 2: Initial activity\nActivity A₀ = λ N₀ = 0.03465 × 10²⁰ = 3.465 × 10¹⁸ s⁻¹\n\nStep 3: Number of disintegrations in first second\nSince the time interval (1 s) is much smaller than the half‑life, the activity remains nearly constant. Thus, the number of disintegrations ≈ A₀ × 1 s = 3.465 × 10¹⁸.",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

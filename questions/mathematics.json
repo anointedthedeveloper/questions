@@ -11598,5 +11598,37 @@
     "solution": "(x + 15)o + (2x - 45)o + (x + 10)o = (2n - 4)90o\n\nwhen n = 4\n\nx + 15o + 2x - 45o + x - 30o + x + 10o = (2 x 4 - 4) 90o\n\n5x - 50° = (8 - 4)90°\n\n5x - 50° = 4 x 90° = 360°\n\n5x = 360° + 50°\n\n5x = 410°\n\nx = 410°/5\n\n= 82°\n\nHence, the value of the least interior angle is (x - 30°)\n\n= (82 - 30)°\n\n= 52°",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 1172,
+    "question": "Let a binary operation '*' be defined on a set A. The operation will be commutative if",
+    "option": {
+      "a": "a*b = b*a",
+      "b": " (a*b)*c = a*(b*c)",
+      "c": "(b ο c)*a = (b*a) ο (c*a)",
+      "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A binary operation '*' defined on a set A is said to be commutative only if a*b=b*a, ∀a, b∈A.\n\nIf (a*b)*c=a*(b*c), then the operation is said to associative ∀ a, b∈ A.\n\nIf (b ο c)*a=(b*a) ο (c*a), then the operation is said to be distributive ∀ a, b, c ∈ A.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 900,
+    "question": "y is inversely proportional to x and y is 6 when x = 7. Find the constant of the variation",
+    "option": {
+      "a": "47",
+      "b": "42",
+      "c": "54",
+      "d": "46"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Y ∝ 1/2\n\n\nY = 6, X = 7\n\nY = k/x\n where k is constant\n\n6 = k/7\n\n\nk = 42",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

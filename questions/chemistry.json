@@ -8414,5 +8414,53 @@
     "solution": "Millon's reagent (a solution of mercury in concentrated nitric acid) is a test for proteins containing the amino acid tyrosine. When added to egg white (which contains tyrosine-containing proteins), the white precipitate first forms then turns brick red on gentle heating. This brick red colour is characteristic of the Millon test for proteins.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 468,
+    "question": "A basic postulate of the kinetic theory of gases is that the molecules of a gas move in straight lines between collisions. This implies that",
+    "option": {
+      "a": "collisions are perfectly elastic",
+      "b": "forces of repulsion exist",
+      "c": "forces of repulsion and attraction are in equilibrium",
+      "d": "collisions are inelastic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Gas molecules moving in straight lines between collisions implies there are no intermolecular forces acting on them during flight. The fact that they bounce off each other and the walls without loss of kinetic energy means the collisions are perfectly elastic. This is a key postulate of the kinetic theory of ideal gases.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 282,
+    "question": "Iron can be protected from corrosion by coating the surface with",
+    "option": {
+      "a": "Silver",
+      "b": "Copper",
+      "c": "Zinc",
+      "d": "Gold"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 5,
+    "question": "An oxide X02 has a vapour density of 32. What is the atomic mass of X [O = 16]",
+    "option": {
+      "a": "32",
+      "b": "20",
+      "c": "14",
+      "d": "12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

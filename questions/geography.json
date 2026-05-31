@@ -1710,5 +1710,53 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 378,
+    "question": "A radio message sent from a location on Longitude 15°W at 7.00 a.m is received at another location at 2.00 p.m on the same day. What is the longitudinal position of the other location?",
+    "option": {
+      "a": "90°W",
+      "b": "105°E",
+      "c": "75°W",
+      "d": "105°W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "e",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 118,
+    "question": "The most important cause of tides is the,",
+    "option": {
+      "a": "distribution of the prevailing winds ",
+      "b": "rotation of the earth on its own axis  ",
+      "c": "inclination of the earth’s axis  ",
+      "d": "gravity attraction of the moon "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 226,
+    "question": "Precipitation include all the following except ",
+    "option": {
+      "a": "Fog",
+      "b": "Snow ",
+      "c": "Dust   ",
+      "d": "Dew "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2014"
   }
 ]

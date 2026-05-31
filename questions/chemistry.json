@@ -12046,5 +12046,21 @@
     "solution": "An alkyl group is derived from an alkane by removing one hydrogen atom. Alkanes have the formula CₙH₂ₙ₊₂, so removing one H gives the alkyl group CₙH₂ₙ₊₁. Examples: methyl (CH₃, n=1), ethyl (C₂H₅, n=2), propyl (C₃H₇, n=3).",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 720,
+    "question": "When Calcium ethynide is decomposed by water, the gas produced is",
+    "option": {
+      "a": "CO",
+      "b": "H₂",
+      "c": "C₂H₂",
+      "d": "CH₄"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Calcium ethynide is calcium carbide (CaC₂). When it reacts with water, it produces ethyne (acetylene) gas and calcium hydroxide: CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂. The gas produced is ethyne (C₂H₂), also known as acetylene, which is used in oxyacetylene welding.",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

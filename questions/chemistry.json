@@ -10142,5 +10142,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 504,
+    "question": "The solubility of solids that dissolve in a given solvent with the liberation of heat will",
+    "option": {
+      "a": "increase with an increase in temperature",
+      "b": "decrease with an increase in temperature",
+      "c": "decrease with a decrease in temperature",
+      "d": "not be affected by changes in temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a solid dissolves with liberation of heat (exothermic dissolution, ΔH < 0), the dissolution process releases energy. By Le Chatelier's principle, increasing temperature shifts the equilibrium to oppose the heat, i.e., toward the undissolved solid. Therefore, the solubility decreases with increasing temperature for exothermic dissolution.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

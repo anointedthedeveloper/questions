@@ -13678,5 +13678,21 @@
     "solution": "Area of a square = x * x\n144 = x2\n√144 = x\n12 = x\nBut d2 = 122 + 122\n= 144 + 144\n= 288\nd = √288\n= √144 x 2\n= 12√2",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 462,
+    "question": "Find the locus of point equidistant from two straight lines y - 5 = 0 and y - 3 = 0",
+    "option": {
+      "a": "y - 2 = 0",
+      "b": " y - 4 = 0",
+      "c": "y - 1 = 0",
+      "d": "y - 3 = 0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545117/ALOC-Questions/Mathematics/2007/JAMB_2007_Q41_solution_r1aho2.jpg",
+    "answer": "b",
+    "solution": "Locus of point P equidistant from y - 5 = 0 and y - 3 = 0 is y = 4 i.e y - 4 = 0",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

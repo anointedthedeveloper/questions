@@ -4030,5 +4030,69 @@
     "solution": "Mass is a scalar quantity because it has magnitude only and no direction.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 765,
+    "question": "The phenomenon of light bending round an obstacle is?",
+    "option": {
+      "a": "diffraction",
+      "b": "refraction",
+      "c": "reflection",
+      "d": "polarization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The phenomenon of light bending around an obstacle is:  diffraction",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 43,
+    "question": "Which of these is not a fundamental S.I unit ",
+    "option": {
+      "a": "Ampere ",
+      "b": "Kelvin ",
+      "c": "Seconds ",
+      "d": "Radians"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 269,
+    "question": "Calculate the angle of minimum deviation of a 60° prism of refractive index 1.5 [sin⁻¹(0.75) = 49°]",
+    "option": {
+      "a": "38°",
+      "b": "19.47°",
+      "c": "16.25°",
+      "d": "49°\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nPrism angle (A) = 60°\nRefractive index (n) = 1.5\nsin⁻¹(0.75) = 49°\nMinimum deviation (δₘ) = ?\n\nFormula for minimum deviation:\nn = sin[(A + δₘ)/2] / sin(A/2)\nRearranging:\nsin[(A + δₘ)/2] = n × sin(A/2)\nSubstituting values:\nsin[(60° + δₘ)/2] = 1.5 × sin(60°/2)\nsin[(60° + δₘ)/2] = 1.5 × sin(30°)\nsin[(60° + δₘ)/2] = 1.5 × 0.5\nsin[(60° + δₘ)/2] = 0.75\nUsing the given information:\n(60° + δₘ)/2 = sin⁻¹(0.75) = 49°\nSolving for δₘ:\n60° + δₘ = 2 × 49°\n60° + δₘ = 98°\nδₘ = 98° - 60°\nδₘ = 38°",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 529,
+    "question": "The pinhole camera works on",
+    "option": {
+      "a": "the principle of the reversibility of light",
+      "b": "the principle of the rectilinear propagation of light",
+      "c": "Huygen’s principle",
+      "d": "the principle of total internal reflection of light"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A pinhole camera operates on the principle that light travels in straight lines (rectilinear propagation). Light from each point on the object passes through the small hole in a straight line to form an inverted image on the screen opposite the pinhole.",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

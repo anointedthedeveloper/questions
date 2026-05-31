@@ -16110,5 +16110,43 @@
     "questionNub": 36,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 270,
+    "question": "After the meeting, I read a <i>leer</i> on his face as he looked at the woman.   ",
+    "option": {
+      "a": "satisfying meaning ",
+      "b": "bad look ",
+      "c": "pleasant disposition ",
+      "d": "poor smile"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1646,
+    "question": "The nation is in a period of economic <i>flux</i>",
+    "option": {
+      "a": "modification",
+      "b": "change",
+      "c": "fluidity",
+      "d": "stability"
+    },
+    "section": "For this question, choose the option opposite in meaning to the word or phrase in italics ",
+    "image": "",
+    "answer": "d",
+    "solution": "<i>flux</i>; the action or process of flowing or flowing out.\n\nstability: the condition of being steady and not changing",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 34,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

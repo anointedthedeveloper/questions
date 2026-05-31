@@ -16014,5 +16014,37 @@
     "solution": "Range = Highest Number - Lowest Number\n\nRange = 11 - 2 = 9",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 326,
+    "question": "Three boys shared some oranges. The first received 1/3 of the oranges and the second received 2/3 of the remaining. If the third boy received the remaining 12 oranges, how many oranges did they share",
+    "option": {
+      "a": "60",
+      "b": "54",
+      "c": "48",
+      "d": "42"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let x = the number of oranges\nThe 1st received 1/3 of x = 1/3x\n∴Remainder = x - 1/3x = 2x/3\nThe 2nd received 2/3 of 2x/3 = 2/3 * 2x/3 = 4x/3\nThe 3rd received 12 oranges\n∴1/3x + 4x/9 + 12 = x\n(3x + 4x + 108)/9 = x\n3x + 4x + 108 = 9x\n7x + 108 = 9x\n9x - 7x = 108\n2x = 108\nx = 54 oranges",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 267,
+    "question": "On a pie chart, there are four sectors of which three angles \nare 45°, 90° and 135°. if the smallest sector represents\n#28.00, how much is the largest sector?",
+    "option": {
+      "a": "#48.00 ",
+      "b": "#56.00",
+      "c": "#42.00",
+      "d": "#84.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
   }
 ]

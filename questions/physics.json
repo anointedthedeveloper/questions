@@ -4670,5 +4670,37 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 1018,
+    "question": "The quantity of heat energy required to melt completely 1 kg of ice at –30 °C is\n[latent heat of fusion = 3.5 × 10⁵ J kg⁻¹, specific heat capacity of ice = 2.1 × 10³ J kg⁻¹ K⁻¹]",
+    "option": {
+      "a": "4.13 × 10⁶ J",
+      "b": " 4.13 × 10⁵ J",
+      "c": "3.56 × 10⁴ J",
+      "d": "3.56 × 10² J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nMass of ice, m = 1 kg\nInitial temperature of ice = –30 °C\nFinal temperature of ice = 0 °C (melting point)\nTemperature change, Δθ = 30 °C = 30 K (since a change of 1 °C = 1 K)\nSpecific heat capacity of ice, cᵢ = 2.1 × 10³ J kg⁻¹ K⁻¹\nLatent heat of fusion of ice, L = 3.5 × 10⁵ J kg⁻¹\n\nSolution:\n\nStep 1: Heat to raise temperature of ice from –30 °C to 0 °C\nQ₁ = m × cᵢ × Δθ\nQ₁ = 1 kg × (2.1 × 10³ J kg⁻¹ K⁻¹) × 30 K\nQ₁ = 2.1 × 10³ × 30 = 63 000 J = 6.3 × 10⁴ J\n\nStep 2: Heat to melt ice at 0 °C\nQ₂ = m × L\nQ₂ = 1 kg × (3.5 × 10⁵ J kg⁻¹) = 3.5 × 10⁵ J\n\nStep 3: Total heat required\nQ = Q₁ + Q₂ = 6.3 × 10⁴ J + 3.5 × 10⁵ J\n\nTo add, express both with the same power of 10:\n6.3 × 10⁴ = 0.63 × 10⁵\nQ = (0.63 + 3.5) × 10⁵ = 4.13 × 10⁵ J",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 886,
+    "question": "An aircraft attempts to fly due north at 100 km h⁻¹. If the wind blows against it from east to west at 60 km h⁻¹, its resultant velocity is?",
+    "option": {
+      "a": "117 km h⁻¹, N31°E",
+      "b": "127 km h⁻¹, N31°E",
+      "c": "117 km h⁻¹, N31°W",
+      "d": "127 km h⁻¹, N31°W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nVelocity of aircraft relative to air, vₐ = 100 km h⁻¹ due north\nVelocity of wind, v_w = 60 km h⁻¹ from east to west (i.e., towards west)\n\nSolution:\n\nStep 1: Represent velocities as vectors\nLet north be positive y‑direction and east be positive x‑direction.\nvₐ = (0, 100) km h⁻¹\nv_w = (−60, 0) km h⁻¹ (since it blows towards west)\n\nStep 2: Resultant velocity\nResultant v = vₐ + v_w = (−60, 100) km h⁻¹\n\nStep 3: Calculate magnitude\n|v| = √[(−60)² + (100)²] = √(3600 + 10000) = √13600 ≈ 116.62 km h⁻¹ ≈ 117 km h⁻¹\n\nStep 4: Calculate direction\nThe angle θ from north towards west is given by:\ntan θ = (west component) / (north component) = 60 / 100 = 0.6\nθ = tan⁻¹(0.6) ≈ 31°\n\nSince the westward component is negative x, the direction is N31°W.",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

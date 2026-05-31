@@ -13982,5 +13982,69 @@
     "solution": "(x<sup>3</sup> + x - 12) ≥ 0\n(x + 4)(x - 3) ≥ 0\nEither x + 4 ≥ 0 implies x ≥ -4\nOr x - 3 ≥ 0 implies x ≥ 3\n∴ x ≥ 3 or x ≥ -4",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 463,
+    "question": "What is the value of k if the mid-point of the line joining (1 - k, - 4) and (2, k + 1) is (-k , k)?",
+    "option": {
+      "a": "-3",
+      "b": "-1",
+      "c": "-4",
+      "d": "-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(1-k+2) / 2 = - k and -4 + k + 1 = k\n3-k = -2k and -3 + k = 2k\nK = -3 and k = -3",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 1153,
+    "question": "The ages of students in a small primary school were recorded in the table below.  Estimate the mean",
+    "option": {
+      "a": "7.7",
+      "b": "7.5",
+      "c": "7.8",
+      "d": " 7.6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007869/ALOC-Questions/Mathematics/2023/MATH_2023_Q32_qhpmgj.jpg",
+    "answer": "a",
+    "solution": "Mean = ∑fx/∑f=820.5/107\n = 7.7 (1 d.p)",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1083,
+    "question": "Musa borrows N10.00 at 2% per month simple interest and repays N8.00 after 4 months. How much does he still owe?",
+    "option": {
+      "a": "N10.80",
+      "b": "N10.67",
+      "c": "N2.80",
+      "d": "N2.67"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "I = (PRT)/100\n\n\n= (10 × 2 × 4)/100\n\n\n= 4/5\n\n\n= 0.8\n\nTotal amount = N10.80\n\nHe pays N8.00\n\nRemainder = 10.80 - 8.00\n\n= N2.80",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1259,
+    "question": "Simplify [1÷(x<sup>2</sup> + 3x + 2)]+[1 ÷ (x<sup>2</sup> + 5x + 6)]",
+    "option": {
+      "a": " 2/(x+1)<sup>2</sup>",
+      "b": "2/(x+1)(x+2)",
+      "c": "2(x+1)(x+2)",
+      "d": "2(x+1)(x+3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "[1÷(x<sup>2</sup> + 3x +2)] + [1 ÷ (x<sup>2</sup> + 5x + 6)]\n \n\n= 1 ÷ (x<sup>2</sup> + 3x + 2) + [1 ÷ (x<sup>2</sup> + 5x + 6)]\n\n\n= [1 ÷ ((x<sup>2</sup> + x) + (2x + 2))] + [1 ÷ ((x<sup>2</sup> + 3x) + (2x + 6))]\n\n\n= [1 ÷ (x(x + 2) + 2(x +1))] + [1 ÷ (x(x + 3) +2(x + 3) )]\n\n= [1 ÷ (x + 1)(x + 2)] + [1 ÷ ((x + 3) + (x + 2))]\n\n=((x + 3) + (x + 1)) ÷ (x + 1)(x + 2)(x + 3)\n\nUsing the L.C.M\n\n=((x + x + 3 + 1)) ÷ (x + 1)(x + 2)(x + 3)\n\n=(2x+4)/(x+1)(x+2)(x+3) =2(x+2)/(x+1)(x+2)(x+3)\n\n= 2/(x+1)(x+3)",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

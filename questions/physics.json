@@ -9566,5 +9566,37 @@
     "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁵ s⁻¹\nHalf-life (T₁/₂) = ?\n\nFormula relating half-life and decay constant:\nT₁/₂ = ln(2)/λ\nT₁/₂ = 0.693/λ\nSubstituting values:\nT₁/₂ = 0.693/(10⁻⁵)\nT₁/₂ = 0.693 × 10⁵\nT₁/₂ = 6.93 × 10⁴ s",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 123,
+    "question": "The process by which solid change directly to vapour is called ",
+    "option": {
+      "a": "Evaporation",
+      "b": "Fusion ",
+      "c": "Condensation ",
+      "d": "Sublimation "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 324,
+    "question": "A body of mass 100g moving with a velocity of 10ms⁻¹ collides with a wall. If after collision it moves with a velocity of 2.0ms⁻¹ in the opposite direction, calculate the change in momentum.",
+    "option": {
+      "a": "0.8 Ns",
+      "b": "1.2 Ns",
+      "c": "12.0 Ns",
+      "d": "80.0 Ns"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMass (m) = 100g = 0.1 kg\nInitial velocity (u) = +10 m/s (toward wall)\nFinal velocity (v) = -2.0 m/s (away from wall, opposite direction)\nChange in momentum = ?\n\nFormula:\nChange in momentum = m(v - u)\nCalculating:\nChange in momentum = 0.1 × (-2 - 10)\nChange in momentum = 0.1 × (-12)\nChange in momentum = -1.2 kgm/s\nMagnitude:\n|Change in momentum| = 1.2 kgm/s = 1.2 Ns\nNote: The negative sign indicates direction (opposite to initial motion). The magnitude is what's typically reported.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

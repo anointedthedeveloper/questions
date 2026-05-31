@@ -15950,5 +15950,21 @@
     "solution": "200 mangoes at 4 for N2.50\n\n⟹\n Total cost price = 200/4 × N2.50\n= N 125.00\n\nSince 30 mangoes got spoilt ⟹\n Left over = 200 - 30\n\n= 170 mangoes \n\n170 mangoes at 2 for N 2.40\n\n⟹\n Total selling point = 170/2×N2.40\n= N 204.00\n\nProfit : N (204.00 - 125.00) = N 79.00\n\n% profit = 79/125×100\n= 63.2% profit.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 740,
+    "question": "The binary operation on the set of real numbers is defined by m*n = mn/2\n for all m, n ∈ R. If the identity element is 2, find the inverse of -5",
+    "option": {
+      "a": "−4/5",
+      "b": "−2/5",
+      "c": "4",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "m * n = mn/2\n\n\nIdentify, e = 2\n\nLet a ∈ R, then\n\na * a<sub>-1</sub> = e\n\na * a<sub>-1</sub> = 2\n\n-5 * a<sub>-1</sub> = 2\n−5×a<sub>-1</sub> /2 = 2\n\n\na<sub>-1</sub> = 2 × 2/−5\n\n\na<sub>-1</sub> = −4/5",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

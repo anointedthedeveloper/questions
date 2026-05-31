@@ -11678,5 +11678,37 @@
     "solution": "Principal (P) = ₦15,700\n\nRate (R) = 8\n\nNumber of years (t) = 2\n\nA = P (1 + R/100)<sup>t</sup>\n⇒ A = 15700 (1 + 8/100)<sup>2</sup>\n⇒ A = 15700 (1 + 0.08)<sup>2</sup>\n⇒ A = 15700 (1.08)<sup>2</sup>\n⇒ A = 15700  x 1.1664\n\n⇒ A = ₦18,312.48\n\nTotal amount, A = ₦18,312.48\n\nA = P + CI\n\n⇒ CI = A - P\n\n⇒ CI = 18,312.48 - 15,700\n\n∴ CI = ₦2,612.48",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 905,
+    "question": "Make S the subject of the relation\np = s + (sm<sup>2</sup>)/nr",
+    "option": {
+      "a": "s = nrpn/r+m<sup>2</sup> ",
+      "b": "s = nr + m<sup>2</sup> /mrp",
+      "c": "s = nrp/mr\n + m<sup>2</sup> ",
+      "d": "s = nrp/nr\n + m<sup>2</sup> "
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mi>s</mi>\n      <msup>\n        <mi>m</mi>\n        <mn>2</mn>\n      </msup>\n    </mrow>\n    <mrow>\n      <mi>n</mi>\n      <mi>r</mi>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "p = s + sm<sup>2</sup> /nr\n\n\np = s + ( 1 + m<sup>2</sup> nr)\n\np = s (1 + nr+m<sup>2</sup>/ nr)\n\nnr × p = s (nr + m<sup>2</sup> )\n\ns = nrp/nr+m<sup>2</sup> ",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 891,
+    "question": "Divide 4x<sup>23</sup>  - 3x + 1 by 2x - 1",
+    "option": {
+      "a": "2x<sup>2</sup>  -x + 1",
+      "b": "2x<sup>2</sup>  - x -1",
+      "c": "2x<sup>2</sup>  + x + 1",
+      "d": " 2x<sup>2</sup>  + x -1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "by method of long division, we get the answer.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

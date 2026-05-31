@@ -13203,5 +13203,43 @@
     "questionNub": 65,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1774,
+    "question": "The lamp shades were <u>translucent</u>.",
+    "option": {
+      "a": "Transparent.",
+      "b": "Opaque.",
+      "c": "Intersected.",
+      "d": "Luminous."
+    },
+    "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "b",
+    "solution": "translucent; (of a substance) allowing light, but not detailed shapes, to pass through; semi-transparent.\n\nOpaque; not able to be seen through; not transparent.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 15,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1781,
+    "question": "Today's weather is <u>favourable</u> for a game of tennis.",
+    "option": {
+      "a": "Disapproving.",
+      "b": "Impartial.",
+      "c": "Abnormal.",
+      "d": "Encouraging."
+    },
+    "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "d",
+    "solution": "favourable; expressing approval.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 22,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

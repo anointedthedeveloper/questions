@@ -10638,5 +10638,37 @@
     "solution": "I. Melting: Solid to liquid transition; molecules gain energy to overcome fixed positions, showing molecular motion and interactions.\n\nII. Boiling: Liquid to gas transition; molecules gain enough energy to break intermolecular forces, demonstrating molecular kinetic energy and forces.\n\nIV. Conduction: Heat transfer via molecular collisions (or electron movement), directly showing molecular motion and energy transfer.                           Melting, boiling, and conduction are direct evidence of the molecular nature of matter.",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 302,
+    "question": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 15.00cm³ at 0°C, what is the volume at 100°C?",
+    "option": {
+      "a": " 16.03cm³",
+      "b": "15.09cm³",
+      "c": " 16.00cm³",
+      "d": "15.03cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\nInitial volume (V₀) = 15.00 cm³\nInitial temperature (T₀) = 0°C\nFinal temperature (T) = 100°C\nTemperature change (ΔT) = 100°C\nFinal volume (V) = ?\n\nRelationship between linear and volume expansivity:\nVolume expansivity (γ) ≈ 3α (for small expansions)\nγ = 3 × 2 × 10⁻⁵ = 6 × 10⁻⁵ °C⁻¹\nFormula for volume expansion:\nV = V₀(1 + γΔT)\nSubstituting values:\nV = 15.00(1 + 6 × 10⁻⁵ × 100)\nV = 15.00(1 + 0.006)\nV = 15.00(1.006)\nV = 15.09 cm³",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 254,
+    "question": "Determine the focal length of a thin converging lens if the power is 5.0 dioptres",
+    "option": {
+      "a": " 0.1 m",
+      "b": " 0.2 m",
+      "c": "2.0 m",
+      "d": " 2.5 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPower (P) = 5.0 dioptres (D)\nFocal length (f) = ?\n\nFormula:\nP = 1/f\nwhere:\n\nP is in dioptres (D)\nf is in meters (m)\n\nRearranging to find focal length:\nf = 1/P\nSubstituting values:\nf = 1/5.0\nf = 0.2 m",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

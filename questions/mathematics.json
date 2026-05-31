@@ -16478,5 +16478,53 @@
     "solution": "The sides have been given to the nearest meter, so\n\n51.5 m ≤ length < 52.5\n\n37.5 m ≤ width < 38.5\n\nMinimum area = 37.5 x 51.5 = 1931.25 m<sup>2</sup>\n\n\nMaximum area = 38.5 x 52.5 = 2021.25 m<sup>2</sup>\n\n\n∴ The range of the area = 1931.25 m<sup>2</sup> ≤ A < 2021.25 m<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 1038,
+    "question": " Calculate the standard deviation of the following data: 7, 8, 9, 10, 11, 12, 13 ",
+    "option": {
+      "a": "2",
+      "b": "4",
+      "c": "12",
+      "d": "17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "S.D = ∑√(x−x)<sup>2</sup>/N = ∑d<sup>2</sup>N = √28/7\n \n\n= √4\n \n\n= 2",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 169,
+    "question": "The bar chart shows different colours of cars passing a particular point of a certain street in two minutes. What fraction of the cars is yellow",
+    "option": {
+      "a": "1/5",
+      "b": "2/25",
+      "c": "4/15",
+      "d": "3/25"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696908/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_48_bsnyk3.jpg",
+    "answer": "d",
+    "solution": "yellow (Color of Cars) = 3 (Number (frequency). white (Color of Cars) = 4 (Number (frequency). Red (Color of Cars) = 8 (Number (frequency). Green (Color of Cars) = 2 (Number (frequency). Blue (Color of Cars) = 6 (Number (frequency). Black (Color of Cars) = 2 (Number (frequency). TOTAL  = 25                                                           Thus, the fraction of the total numbers that are yellow is 3/25",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1112,
+    "question": "Given that r = √(3v/πh), make v the subject of the formula",
+    "option": {
+      "a": " v = 3 πr<sup>2</sup>\n h",
+      "b": "v = πrh/3",
+      "c": "v =  πr<sup>2</sup>h/3",
+      "d": " v = 3πrh"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "square both sides to remove the big square root\n\n→ r<sup>2</sup>\n = 3v/πh\ncross multiply\n\n3v = r<sup>2</sup>\n * πh\n\nv = πr<sup>2</sup>h/3",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

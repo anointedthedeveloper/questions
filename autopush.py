@@ -76,12 +76,21 @@ observer = Observer()
 observer.schedule(handler, REPO_DIR, recursive=True)
 observer.start()
 
-print("Auto-push started — watching for file changes...\n")
+print("Auto-push started — watching for file changes + pulling every 60s...\n")
+
+last_pull = time.time()
 
 try:
     while True:
+        now = time.time()
+
+        # auto pull every 60 seconds to sync from other system
+        if now - last_pull >= PULL_INTERVAL:
+            pull()
+            last_pull = time.time()
+
         if handler.pending and handler.last_change:
-            elapsed = time.time() - handler.last_change
+            elapsed = now - handler.last_change
             if elapsed >= DEBOUNCE:
                 print(f"[{time.strftime('%H:%M:%S')}] change detected, pushing...")
                 push()

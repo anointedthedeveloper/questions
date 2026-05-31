@@ -3406,5 +3406,69 @@
     "solution": "Given information:\n\nWavelength (λ) = 10⁻¹³ m\nSpeed of light (c) = 3 × 10⁸ m/s\nFrequency (f) = ?\n\nFormula:\nc = fλ\nRearranging to find f:\nf = c/λ\nSubstituting values:\nf = (3 × 10⁸)/(10⁻¹³)\nf = 3 × 10⁸ × 10¹³\nf = 3 × 10²¹ Hz\nAnswer: C. 3 × 10²¹ Hz\nThe frequency of the X-rays is 3 × 10²¹ Hertz.",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 1109,
+    "question": "The maximum power transfer occur in a cell when the external resistance is",
+    "option": {
+      "a": "Twice the internal resistance of the cell",
+      "b": "The same as the internal resistance of the cell",
+      "c": "Greater than the internal resistance of the cell",
+      "d": " Less than the internal resistance of the cell"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "the maximum power transfer theorem states that the maximum power is transferred from a source e.g. cell or battery to its load (external resistance) when the resistance of the load is equal to the internal resistance of the source.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 298,
+    "question": "In the diagram given if the atmospheric pressure is 760mm, the pressure in the chamber G Is",
+    "option": {
+      "a": " 660mm",
+      "b": " 830mm",
+      "c": "690mm",
+      "d": " 860mm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611616/ALOC-Questions/Physics/2018/2018_Q_19_mwygwr.jpg",
+    "answer": "b",
+    "solution": "From the diagram:\n\nU-tube manometer connected to chamber G\nAtmospheric pressure = 760 mmHg\nHeight difference visible in the U-tube: 10 cm = 100 mm\nOne side (left) shows 10 cm scale\nRight side shows 3 cm = 30 mm height\n\nAnalyzing the manometer:\nThe liquid level difference = 10 cm - 3 cm = 7 cm = 70 mm\nDetermining pressure in chamber G:\nIf the liquid is higher on the atmospheric side (left), then:\n\nPressure in G is greater than atmospheric pressure\nP_G = P_atm + height difference\nP_G = 760 + 70 = 830 mmHg",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 39,
+    "question": "The electromagnetic waves that are sensitive to temperature changes are",
+    "option": {
+      "a": "ultra-violet rays ",
+      "b": "Gamma rays ",
+      "c": "infrared-rays ",
+      "d": "X-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 407,
+    "question": "The linear expansivity of brass is 2 × 10⁻⁵ °C⁻¹. If the volume of a piece of brass is 10cm³ at 0°C, what will be its volume at 100°C?",
+    "option": {
+      "a": "10.06 cm³",
+      "b": "10.04 cm³",
+      "c": "10.02 cm³",
+      "d": "10.20 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\nInitial volume (V₀) = 10 cm³\nInitial temperature (T₀) = 0°C\nFinal temperature (T) = 100°C\nTemperature change (ΔT) = 100°C\nFinal volume (V) = ?\n\nStep 1: Find volume expansivity\nVolume expansivity (γ) = 3α (for isotropic materials)\nγ = 3 × 2 × 10⁻⁵ = 6 × 10⁻⁵ °C⁻¹\nStep 2: Calculate final volume\nV = V₀(1 + γΔT)\nSubstituting values:\nV = 10(1 + 6 × 10⁻⁵ × 100)\nV = 10(1 + 0.006)\nV = 10(1.006)\nV = 10.06 cm³",
+    "examtype": "utme",
+    "examyear": "2020"
   }
 ]

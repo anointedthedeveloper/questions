@@ -13406,5 +13406,37 @@
     "solution": "Let D denote the distance between (1/2, -1/2) then using                                                         D = √((x<sub>2</sub>-x<sub>1</sub> )<sup>2</sup>+(y<sub>2</sub>-y<sub>1</sub> )<sup>2</sup> ) = √((-1/2-1/2 )<sup>2</sup> + (-1/2-1/2 )<sup>2</sup> ) = √((-1)<sup>2</sup>+(-1)<sup>2</sup> ) = √(1+1) = √2",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 563,
+    "question": "What is the mean deviation of x, 2x, x+1 and 3x. If their mean is 2",
+    "option": {
+      "a": "0.5",
+      "b": "1.0",
+      "c": "1.5",
+      "d": "2.0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547357/ALOC-Questions/Mathematics/2009/MATH_2009_Q42_SOLUTION_pzj4ej.jpg",
+    "answer": "a",
+    "solution": "\nMean =\tx+2x+x+1+3x/4\n \n2 =7x+1/4\n\n8 = 7x+1\n7x = 8-1\n7x = 7\nx = 1\n\n \n\nMean deviation =∑/x-X/n\n \n\n =2/4\n \n\n =1/2\n\n= 0.5",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 11,
+    "question": "Z is partly constant and partly varies inversely as the square of d. when d = 1, z = 11 and when d = 2, z = 5. Find the value of z when d = 4.  ",
+    "option": {
+      "a": "2",
+      "b": "3.5",
+      "c": "5",
+      "d": "5.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
   }
 ]

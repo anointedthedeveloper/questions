@@ -10286,5 +10286,21 @@
     "solution": "Number of half-lives in 40 years = 40 ÷ 20 = 2. Remaining particles = 100,000 × (½)² = 100,000 × ¼ = 25,000 particles. Answer: C.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 621,
+    "question": "The nucleus of an atom consists of?",
+    "option": {
+      "a": "Electrons and neutrons",
+      "b": "Electrons and protons",
+      "c": "Protons and neutrons",
+      "d": "None of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The nucleus of an atom is made up of protons (positively charged) and neutrons (no charge), collectively called nucleons. Electrons are negatively charged particles that orbit the nucleus in energy levels (shells) outside the nucleus. The number of protons equals the atomic number, and protons plus neutrons give the mass number.",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

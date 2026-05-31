@@ -3,6 +3,7 @@ import json
 import os
 import time
 import threading
+import socket
 from queue import Queue
 
 API_KEYS = [
@@ -11,6 +12,10 @@ API_KEYS = [
     "ALOC-3ac4f2f1f2f83eb6c0d7",
     "QB-d50f30a40f9b835a11ba",
 ]
+
+MACHINE_ID = socket.gethostname()  # unique ID per system
+LOCK_FILE = "subject_locks.json"
+LOCK_TIMEOUT = 30 * 60  # 30 min — if a machine crashes, lock expires
 BASE_URL = "https://questions.aloc.com.ng/api/v2/q/5"
 HEADERS_LIST = [
     {"Accept": "application/json", "AccessToken": k} for k in API_KEYS

@@ -13886,5 +13886,37 @@
     "solution": "Given Data: x<sub>1</sub> = -3,  x<sub>2</sub> = 2,y<sub>1</sub>  = 5,  y<sub>2</sub> = 10\n\ncoordinates of the mid-point of the line = (x<sub>1</sub>+x<sub>2</sub> /2, y<sub>1</sub>+y<sub>2</sub> /2)\n\n(−3+2/2, 5+10/2)\n\n=  −1/2) , 15/2)",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 1145,
+    "question": "Solve for x: 3(x – 1) ≤ 2 (x – 3)",
+    "option": {
+      "a": " x ≤ -3",
+      "b": " x ≥ -3",
+      "c": " x ≤ 3",
+      "d": "x ≥ 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "3(x – 1) ≤ 2 (x – 3)\n\n= 3x – 3 ≤ 2x – 6\n\nAdd 3 to both sides\n\n= 3x – 3+ 3 ≤ 2x – 6+ 3\n\n= 3x ≤ 2x – 3\n\nSubtract 2x from both the sides\n\n= 3x – 2x ≤ 2x – 3 – 2x\n\n∴ x ≤ -3",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1125,
+    "question": "Evaluate <sup>n</sup><sup>2 </sup> + <sup>1</sup>C<sub>(n+5)</sub> \n if n = 3 ",
+    "option": {
+      "a": "55",
+      "b": "45",
+      "c": "35",
+      "d": "25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": " <sup>3</sup><sup>2 </sup> + <sup>1</sup>C<sub>(3+5)</sub>\n\n<sup>9+1</sup>C<sub>3+5</sub>\n \n\n\n<sup>10</sup>C<sub>8</sub> = 10!/(8!2!)\n(10∗9∗8!)/(8!2!)= (10∗9)/2\n= 45",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

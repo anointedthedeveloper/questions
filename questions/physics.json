@@ -4494,5 +4494,69 @@
     "solution": "An intrinsic semiconductor, also called an undoped semiconductor, is a pure semiconductor. In intrinsic semiconductors the number of excited electrons and the number of holes are equal: n = p",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 486,
+    "question": "Which component of fiber-optic connector has a provision of entry for the fibre along with the fixation to connector housing?",
+    "option": {
+      "a": "coupling device",
+      "b": "cable",
+      "c": "ferrule",
+      "d": "connector housing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The ferrule is the critical component that holds the optical fiber in place and provides the entry point for it. It fits securely into the connector housing while keeping the fiber aligned for proper light transmission between connected fibers.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 979,
+    "question": "In measuring high frequency a.c, the instrument used is the",
+    "option": {
+      "a": " d.c ammeter",
+      "b": "moving coil ammeter",
+      "c": "moving iron ammeter",
+      "d": "hot wire ammeter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Hot wire ammeter is used because the heat affect of A C is same as that of DC",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 28,
+    "question": "A 5kg block is released from rest on a smooth plane inclined at an angle of 30o to the horizontal. What is the acceleration down the plane?  [ g = 10ms-2]",
+    "option": {
+      "a": "5.0 ms-2 ",
+      "b": " 8.7 ms-2 ",
+      "c": "25.0 ms-2 ",
+      "d": "5.8 ms-2   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 442,
+    "question": "A car of mass 800kg attains a speed of 25m/s in 20secs. The power developed in the engine is?",
+    "option": {
+      "a": "1.25 × 10⁴W",
+      "b": "2.50 × 10⁴W",
+      "c": "1.25 × 10⁶W",
+      "d": "2.50 × 10⁶W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass (m) = 800 kg\nFinal velocity (v) = 25 m/s\nInitial velocity (u) = 0 m/s (starts from rest)\nTime (t) = 20 seconds\nPower (P) = ?\n\nStep 1: Calculate kinetic energy gained\nChange in KE = ½mv² - ½mu²\nΔKE = ½mv² - 0  (since u = 0)\nΔKE = ½ × 800 × (25)²\nΔKE = 400 × 625\nΔKE = 250,000 J\nStep 2: Calculate power\nPower = Work done / Time\nPower = Energy / Time\nP = ΔKE / t\nP = 250,000 / 20\nP = 12,500 W\nP = 1.25 × 10⁴ W",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

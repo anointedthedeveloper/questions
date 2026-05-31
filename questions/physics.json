@@ -7342,5 +7342,85 @@
     "solution": "Relative Density (Specific Gravity) is defined as:\nRelative Density = Density of substance / Density of water\nKey point:\n\nIt's a ratio of two densities\nBoth have the same units (kg/m³)\nWhen you divide, the units cancel out\n\nExample:\nRelative Density = (1000 kg/m³) / (1000 kg/m³) = 1 (no units)\nTherefore, relative density is dimensionless - it's just a number with no units.\nAnswer: D. has no S.I unit",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 71,
+    "question": "  A long-jumper leaves the ground at an angle of 20o above the horizontal and at speed of 11m/s. How far does it jumps in the horizontal direction? ",
+    "option": {
+      "a": "0.384m ",
+      "b": "7.94m ",
+      "c": "8.45m ",
+      "d": "5m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 211,
+    "question": "A pool of water appears to be 1.00m deep when viewed vertically from above. What is the actual depth of the pool?\n[Refractive index of water = 1.33]",
+    "option": {
+      "a": "13.300m",
+      "b": "0.750m",
+      "c": "1.013m",
+      "d": "1.330m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nApparent depth = 1.00 m\nRefractive index of water (n) = 1.33\nReal depth = ?\n\nFormula for refraction (vertical viewing):\nRefractive index = Real depth / Apparent depth\nRearranging to find Real depth:\nReal depth = Refractive index × Apparent depth\nSubstituting values:\nReal depth = 1.33 × 1.00\nReal depth = 1.33 m\nExplanation:\nDue to refraction, water appears shallower than it actually is. The refractive index relates the actual depth to the apparent depth. When light travels from water (denser) to air (less dense), it bends away from the normal, making objects appear closer to the surface.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 1123,
+    "question": "The density of water is 1 g/cm³ while that of ice is 0.9 g/cm³. Calculate the change in volume when 90 g of ice is completely melted.",
+    "option": {
+      "a": "9 cm³",
+      "b": "90 cm³",
+      "c": "0 cm³",
+      "d": "10 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nMass of ice, m = 90 g\nDensity of ice, ρᵢ = 0.9 g/cm³\nDensity of water, ρ_w = 1.0 g/cm³\n\nSolution:\n\nStep 1: Calculate initial volume of ice\nVᵢ = m / ρᵢ = 90 / 0.9 = 100 cm³\n\nStep 2: Calculate final volume of water (after melting)\nV_w = m / ρ_w = 90 / 1.0 = 90 cm³\n\nStep 3: Calculate change in volume\nΔV = V_w – Vᵢ = 90 – 100 = –10 cm³\nThe negative sign indicates a decrease in volume. The magnitude of change is 10 cm³.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following instruments has a pure tone? ",
+    "option": {
+      "a": "guitar ",
+      "b": "Vibrating String ",
+      "c": "Turning forks ",
+      "d": "Screen "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 996,
+    "question": "In Homes, electrical appliances and lamps are connected in parallel because",
+    "option": {
+      "a": "Parallel connections do not heat up the wires",
+      "b": "independence switches can be used",
+      "c": " less current will be used",
+      "d": " less voltage will be used"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "if appliances are connected in series, the effective voltage is the sum of individual voltages which will be high.",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

@@ -15150,5 +15150,21 @@
     "solution": "y = 3x<sup>2</sup> - x<sup>3</sup>\ndy/dx = 6x - 3x<sup>2</sup>\nas dy/dx = 0\n6x - 3x<sup>2</sup> = 0\n3x (2 - x) = 0\nthis implies that 2 -x = 0 and 3x = 0\nx = 2 (or) 0\nBut = dy/dx = 6x - 3x<sup>2</sup>\nd<sup>2</sup>y/dx<sup>2</sup> = 6 - 6x at x = 2\n= 6 - 6(2)\n= -6\ny = 3x<sup>2</sup> - x<sup>3</sup>\n= 3(2)<sup>2</sup> - 2<sup>3</sup>\n= 12 - 8\n= 4",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 1256,
+    "question": "If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point",
+    "option": {
+      "a": "2, ½",
+      "b": "½ , 2",
+      "c": "1, ½",
+      "d": " 0, 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The coordinate of the midpoint is ((−3+4)/2 ,(5+(−1))/2)\n= (1/2,2)",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

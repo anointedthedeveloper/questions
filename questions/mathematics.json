@@ -14078,5 +14078,69 @@
     "solution": "Let x rep. numbers of boys that can work at 5/4 the rate at\n\nwhich the 10 girls work \n\nFor 1 hrs, x boys will work for ((1/5) × 10)/4\n \n\nx = 5/4 x 10 \n\n= 8 boys \n\n8 boys will do the work of ten girls at the same rate \n\n4 + 8 = 12 bous cut the field in 5 hrs for 3 hrs, \n\n(12×5)/3 boys will be needed = 20 boys.",
     "examtype": "2020",
     "examyear": "utme"
+  },
+  {
+    "id": 124,
+    "question": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p<sup>2</sup> - q<sup>2</sup> /2pq)",
+    "option": {
+      "a": "2(2+√2)",
+      "b": "-2(2+√2)",
+      "c": "2√2",
+      "d": " -2√2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>p</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mo>+</mo>\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mspace width=\"1mm\"></mspace>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mi>d</mi>\n  <mspace width=\"1mm\"></mspace>\n  <mi>q</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mo>&#x2212;</mo>\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>,</mo>\n  <mspace width=\"1mm\"></mspace>\n  <mi>e</mi>\n  <mi>v</mi>\n  <mi>a</mi>\n  <mi>l</mi>\n  <mi>u</mi>\n  <mi>a</mi>\n  <mi>t</mi>\n  <mi>e</mi>\n  <mspace width=\"1mm\"></mspace>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mi>p</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;</mo>\n      <msup>\n        <mi>q</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mi>p</mi>\n      <mi>q</mi>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 251,
+    "question": "In the diagram PQR is a straight line and PS is a tangent to the circle < QRS with |PS| = |SR| and < SPR = 40°. Find PSQ",
+    "option": {
+      "a": "20°",
+      "b": "40°",
+      "c": "10°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699473/ALOC-Questions/Mathematics/2003/math_2003_q30_fu5oyu.jpg",
+    "answer": "b",
+    "solution": "PS = SR\n\nPSR is an isosceles\n\n< P = < SPQ = 40°\n\n< R = < SRQ\n\n< PSQ = < SRQ (alternate segment)\n\n< PSQ = 40°",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 442,
+    "question": "A binary operation Δ is defined by aΔb = a + b + 1 for any numbers a and b. Find the inverse of the real number 7 under the operation Δ, if the identity element is -1",
+    "option": {
+      "a": "-7",
+      "b": "-9",
+      "c": "5",
+      "d": "9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "a*e = a + e + 1 = a\nimplies e+ 1 = 0\n∴ e = -1\n7 * e = -1\n∴ a + 7 + 1 = -1\na + 8 = -1\na+8 = -1\na = -1-8\na = -9",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 316,
+    "question": "The shaded region in the venn diagram above is",
+    "option": {
+      "a": "P° ∩ \n(Q ∩\n R)",
+      "b": "P ∩\n Q",
+      "c": "P° ∪ \n(Q ∩\n R)",
+      "d": "P° ∪ \n(Q  ∪ \n R)"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700918/ALOC-Questions/Mathematics/2004/math_2004_q45_ck0bbt.jpg",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

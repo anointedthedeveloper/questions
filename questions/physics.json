@@ -4846,5 +4846,133 @@
     "solution": "Given information:\n\nFrequency of first tuning fork (f₁) = 258 Hz\nFrequency of second tuning fork (f₂) = 270 Hz\nBeat frequency = ?\n\nFormula for beat frequency:\nBeat frequency = |f₂ - f₁|\nCalculation:\nBeat frequency = |270 - 258|\nBeat frequency = 12 Hz\nExplanation:\nWhen two sound waves of slightly different frequencies are sounded together, they interfere to produce beats. The beat frequency equals the difference between the two frequencies. You hear the sound getting louder and softer 12 times per second.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 489,
+    "question": "The gravitational pull on the moon is 1/6 that of the earth. If a body weighs 6.0 N on the moon, what will be the weight on the earth?",
+    "option": {
+      "a": "6.0 N",
+      "b": "5.0 N",
+      "c": "12.0 N",
+      "d": "36.0 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gravitational pull on moon = 1/6 × gravitational pull on Earth\nWeight on moon, Wₘ = 6.0 N\nWeight on Earth, Wₑ = ?\n\nSolution:\nUsing the relationship between weight and gravity:\nWeight = mass × gravitational acceleration\nStep 1: Establish the relationship\nSince gₘ = 1/6 gₑ\nFor the same mass:\nWₘ/Wₑ = gₘ/gₑ = 1/6\nStep 2: Rearrange the equation\nWₑ = 6 × Wₘ\nStep 3: Substitute the known values\nWₑ = 6 × 6.0\nWₑ = 36.0 N",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 706,
+    "question": "what is likely to happen if the glass of a thermometer expands more upon heating than the liquid inside?",
+    "option": {
+      "a": "the glass will break",
+      "b": "the glass will shrink",
+      "c": "the liquid will rise up in the stem",
+      "d": "the liquid will go down in the stem"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "when the glass of a thermometer expands more on heating than the liquid inside, the liquid level would fall compared with the tube wall",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 449,
+    "question": "I. A liquid boils when its saturated vapor pressure is equal to the external pressure\nII. Dissolved substances in pure water lead to an increase in the boiling point.\nIII. When the external pressure is increased, the boiling point increases.\nIV. Dissolved substances in pure water decreases the boiling point \n\nWhich of the above combinations are peculiarities of the boiling point of a liquid?",
+    "option": {
+      "a": "I, II and III only",
+      "b": "I, II, III, and IV",
+      "c": "I, II, and IV",
+      "d": "II, III, and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The boiling point of a liquid depends on temperature, atmospheric pressure, and the vapor pressure of the liquid.\nWhen the atmospheric pressure is equal to the vapor pressure of the liquid, boiling will begin",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1059,
+    "question": "A wave that travels through stretched strings is known as",
+    "option": {
+      "a": "electromagnetic wave",
+      "b": " micro wave",
+      "c": "mechanical wave",
+      "d": "seismic wave"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A wave that travels through stretched strings is known as a mechanical wave. Mechanical waves require a physical medium (in this case, the string) to propagate. When a string is plucked or disturbed, the vibrations travel along the string as transverse mechanical waves, with particles of the string moving perpendicular to the direction of wave propagation.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 48,
+    "question": "The resistance of a wire depends on ",
+    "option": {
+      "a": "the length of the wire ",
+      "b": "the diameter of the wire ",
+      "c": "the temperature of the wire ",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 984,
+    "question": "The bond between silicon and germanium is",
+    "option": {
+      "a": "covalent",
+      "b": "ionic",
+      "c": "dative",
+      "d": "electrovalent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The bond between silicon and germanium is covalent because both are metalloids from the same group with similar electronegativity values, leading to electron sharing rather than electron transfer.\nPractical application: Silicon-germanium (SiGe) alloys are used in high-speed semiconductor devices, and the covalent bonding between Si and Ge atoms is crucial for their electronic properties.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 215,
+    "question": "Which of the following statements about wave motion is correct?",
+    "option": {
+      "a": "Electromagnetic waves are transverse",
+      "b": "Transverse waves do not require a medium for propagation",
+      "c": "Longitudinal waves vibrate perpendicular to the direction of travel",
+      "d": "All mechanical waves are longitudinal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Electromagnetic waves are transverse waves with electric and magnetic fields oscillating perpendicular to the direction of propagation.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 31,
+    "question": "A 500kg car was initially at rest travelled with an acceleration of 5ms-2, what is its kinetic energy after 4s ",
+    "option": {
+      "a": "2.5 x 103J ",
+      "b": "105J ",
+      "c": "5 x 103J ",
+      "d": "5 x 105J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   }
 ]

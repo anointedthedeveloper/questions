@@ -16661,5 +16661,81 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1581,
+    "question": "Choose the most appropriate stress pattern from the options. The stressed are written in capital letters\n\nJudiciary",
+    "option": {
+      "a": "judiCIAry",
+      "b": "judiciaRY",
+      "c": "JUdiciary",
+      "d": "juDIciary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "|ju|DI|cia|ry|",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 18,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 17,
+    "question": "Ali plays ……….violin with remarkable skill",
+    "option": {
+      "a": "a    ",
+      "b": "the",
+      "c": "their ",
+      "d": "some "
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1411,
+    "question": "He started his career as an ........ Teacher",
+    "option": {
+      "a": "auxilary",
+      "b": "auxilliary",
+      "c": "auxiliary",
+      "d": "auxillary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Auxiliary being an adjective to the noun \"teacher\" indicates providing supplementary or extra help, support or assistance.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 38,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 87,
+    "question": "Ali goes to the stadium regularly, but he …………… to the church for months.",
+    "option": {
+      "a": "hasn’t been",
+      "b": "haven’t been",
+      "c": "didn’t go",
+      "d": "hadn’t been"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

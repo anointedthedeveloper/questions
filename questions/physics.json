@@ -6046,5 +6046,69 @@
     "solution": "Given information:\n\nWeight in air (W_air) = 250 N\nWeight in liquid (W_liquid) = 200 N\nDensity of liquid (ρ) = 1000 kg/m³\ng = 10 m/s² (assumed)\nVolume of iron (V) = ?\n\nStep 1: Calculate upthrust (buoyant force)\nUpthrust = Weight in air - Weight in liquid\nUpthrust = 250 - 200 = 50 N\nStep 2: Use Archimedes' Principle\nUpthrust = Weight of liquid displaced\nUpthrust = ρVg\nwhere:\n\nρ = density of liquid\nV = volume of object (iron)\ng = acceleration due to gravity\n\nStep 3: Solve for volume\n50 = 1000 × V × 10\n50 = 10,000 × V\nV = 50/10,000\nV = 0.005 m³\nV = 5.0 × 10⁻³ m³",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 1057,
+    "question": "The rise or fall of a liquid in a narrow tube is because of the",
+    "option": {
+      "a": " viscosity of the liquid",
+      "b": "surface tension of the liquid",
+      "c": "friction between the walls of the tube and the liquid",
+      "d": "osmotic pressure of the liquid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The rise or fall of a liquid in a narrow tube (capillary action) is because of the surface tension of the liquid. Surface tension, combined with adhesive and cohesive forces, creates a curved meniscus that generates a pressure difference, causing the liquid to rise (when it wets the tube) or fall (when it doesn't wet the tube).\nExamples in nature:\n\nWater in plants: Surface tension helps pull water up from roots to leaves\nWater in soil: Capillarity retains moisture in narrow pores\nPaper towels: Water rises through narrow spaces between fibers\nMercury barometer: Mercury depresses in narrow tubes\n\nRemember:\n\nSurface tension causes capillary action\nViscosity affects rate but doesn't cause it\nNarrower tubes → greater rise/fall",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 583,
+    "question": "Which of these gas laws is equivalent to workdone",
+    "option": {
+      "a": "Charle's law",
+      "b": "Pressure law",
+      "c": "Boyle's law",
+      "d": " Gay Lussac's law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Boyle's law (PV = constant) is equivalent to work done because work by a gas involves the product of pressure and change in volume (W = PΔV). During an isothermal process following Boyle's law, the work done can be calculated using the PV relationship, making it the gas law most directly connected to work.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 138,
+    "question": "A motor boy of a driver saw what seems to appear to be a pool of water a head of him, while his driver drives a new truck on a sunny day. Which of the following explains his observation?",
+    "option": {
+      "a": "He saw a flying objects",
+      "b": "He must be thinking of water and food",
+      "c": "He was seeing the shadow of the car",
+      "d": "The sun ray from the sky were passing from a hot air (layer) to cold layer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The appearance of pool of water on road surfaces is called MIRAGE\n\nHis observation show that light from the sun ray refracted through a layer of hot air(layer) which is closed to the ground, passes from a hot air layer to the cold layer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 924,
+    "question": "Dispersion occurs when white light passes through a glass prism because of the?",
+    "option": {
+      "a": "different hidden colours in the glass",
+      "b": "different speeds of the colour in the glass",
+      "c": "defects in the glass",
+      "d": "high density of the glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dispersion is the splitting of white light into its spectral component colors and is caused by different speed of the colors in the prism.",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

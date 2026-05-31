@@ -13566,5 +13566,53 @@
     "solution": "y ∝√n\n\n\ny = k√n\n\n\nwhen y = 4, n = 4\n4 = k√4\n\n\n4 = 2k\n\nk = 2\n\nTherefore,\n\ny = 2√n\n\ny = 2√(16/9)\n\n\ny = 2(4/3)\n\n\ny = 8/3",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 377,
+    "question": "The table above shows the distribution of recharge cards of four major GSM operators. What is the probability that a recharge card selected at random will be GTN or Qtel?",
+    "option": {
+      "a": " 3/20",
+      "b": " 1/4",
+      "c": "2/5",
+      "d": " 3/4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542580/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q6_t8tkjx.jpg",
+    "answer": "c",
+    "solution": "P(GTN) = 5/20\nP(Qtel) = 3/20\n∴P(GTN or Qtel) = (5/20) + (3/20)\n= 8/20\n= 2/5",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 1208,
+    "question": "Find the value of ∣∣∣∣010375284∣∣∣∣\n.",
+    "option": {
+      "a": "12",
+      "b": "10",
+      "c": "-1",
+      "d": "-2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206533/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q23_zwoj2v.jpg",
+    "answer": "d",
+    "solution": "= 0(28 - 40) - 3(4 - 0) + 2(5 - 0)\n\n= 0(-12) - 3(4) + 2(5)\n\n= 0 - 12 + 10\n\n= -2",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1195,
+    "question": "If P = {1,2,3,4,5} and P ∪\n Q = {1,2,3,4,5,6,7}, list the elements in Q",
+    "option": {
+      "a": "{6}",
+      "b": "{7}",
+      "c": " {6,7}",
+      "d": "{5,6}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Q = (P ∪ Q) - P\n{6,7}",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

@@ -3822,5 +3822,69 @@
     "solution": "Given information:\nRatio of linear expansivities, α₁ / α₂ = 2 / 3\nRatio of original lengths, L₁ / L₂ = 3 / 4\nTemperature change Δθ is the same for both.\n\nSolution:\n\nStep 1: Formula for increase in length\nΔL = α L Δθ\n\nStep 2: Ratio of increases\nΔL₁ / ΔL₂ = (α₁ L₁ Δθ) / (α₂ L₂ Δθ) = (α₁ / α₂) × (L₁ / L₂)\n\nStep 3: Substitute the given ratios\nΔL₁ / ΔL₂ = (2 / 3) × (3 / 4) = 6 / 12 = 1 / 2",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 863,
+    "question": "If the pressure of the vapor on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed?",
+    "option": {
+      "a": " room temperature",
+      "b": "boiling point",
+      "c": " freezing point",
+      "d": "standard temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Liquid boils when its saturated vapor pressure is equal to the (external) atmospheric pressure.\n\nI.e. Boiling point at 100°c ",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 30,
+    "question": "A temperature scale has a lower fixed point of 40mm and an upper fixed point of 200mm. What is the reading on this scale when the temperature reads 60oc? ",
+    "option": {
+      "a": "136.omm ",
+      "b": "33.3mm ",
+      "c": "96.0mm ",
+      "d": "36.0mm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 876,
+    "question": "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will?",
+    "option": {
+      "a": "close up",
+      "b": "become positively charged",
+      "c": "become negatively charged",
+      "d": "open further"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The leaves collapse as the positive charges on the rod neutralize the negative charges on the electroscope.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 168,
+    "question": "The optical instrument which is suitable for viewing a nearby objects is ………..?",
+    "option": {
+      "a": "Telescope",
+      "b": "sextant",
+      "c": "microscope",
+      "d": "periscope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Microscope is used for nearby object",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

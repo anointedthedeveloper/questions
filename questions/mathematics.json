@@ -13294,5 +13294,21 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
+  },
+  {
+    "id": 368,
+    "question": "In the diagram above calculate the value of x",
+    "option": {
+      "a": "60°",
+      "b": "100°",
+      "c": "120°",
+      "d": "140°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "p + 40° = 100° (exterior ∠ = sum of two interior opp ∠s)\np = 100° - 40°\nP = 60°\nBut q + p = 180° (∠s on a straight line)\nq + 60°\nq = 180° - 60°\nq = 120°\nx = q (corresponding ∠)\n∴x = 120°",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

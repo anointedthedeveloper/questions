@@ -3118,5 +3118,69 @@
     "solution": "Given information:\n\nFixed block: 3 pulleys\nMovable block: 2 pulleys\nEfficiency = 72% = 0.72\nMechanical Advantage (M.A) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings\nWith 3 pulleys in fixed block and 2 in movable block:\nTotal number of supporting strings = 5\nV.R = 5\nStep 2: Calculate Mechanical Advantage using efficiency\nEfficiency = M.A / V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.72 × 5\nM.A = 3.6",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 767,
+    "question": "A glass plate 0.9cm thick has a refractive index of 1.50. How long does it take for a pulse of light to pass through the plate? [c = 3.0 × 10⁸ ms⁻¹]",
+    "option": {
+      "a": "4.5 × 10⁻¹¹ s",
+      "b": "4.5 × 10⁻¹⁰ s",
+      "c": " 4.5 × 10⁻¹² s",
+      "d": "3.0 × 10⁻¹⁰ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nThickness of glass plate (d) = 0.9 cm = 0.009 m = 9 × 10⁻³ m\nRefractive index (n) = 1.50\nSpeed of light in vacuum (c) = 3.0 × 10⁸ m/s\nTime (t) = ?\n\nStep 1: Calculate speed of light in glass\nRefractive index = Speed of light in vacuum / Speed of light in medium\nn = c/v\nRearranging:\nv = c/n\nv = (3.0 × 10⁸)/1.50\nv = 2.0 × 10⁸ m/s\nStep 2: Calculate time taken\nTime = Distance / Speed\nt = d/v\nSubstituting values:\nt = (9 × 10⁻³)/(2.0 × 10⁸)\nt = 4.5 × 10⁻¹¹ s\nCalculation breakdown:\nt = 9 × 10⁻³ / 2.0 × 10⁸\nt = (9/2) × 10⁻³⁻⁸\nt = 4.5 × 10⁻¹¹ s",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 1035,
+    "question": "A conductor of length 1 m moves with a velocity of 50 m s⁻¹ at an angle of 30° to the direction of a uniform magnetic field of flux density 1.5 Wb m⁻². What is the e.m.f induced in the conductor?",
+    "option": {
+      "a": "37.5 V",
+      "b": "50.5 V",
+      "c": "75.0 V",
+      "d": "80.5 V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "iven information:\nLength of conductor, l = 1 m\nVelocity, v = 50 m s⁻¹\nAngle between velocity and magnetic field, θ = 30°\nMagnetic flux density, B = 1.5 Wb m⁻²\n\nSolution:\n\nStep 1: Formula for motional e.m.f\nThe induced e.m.f in a conductor moving in a magnetic field is given by:\nε = B l v sin θ\n\nStep 2: Substitute the values\nε = 1.5 × 1 × 50 × sin 30°\n\nStep 3: Calculate sin 30°\nsin 30° = 0.5\n\nStep 4: Complete the calculation\nε = 1.5 × 50 × 0.5 = 1.5 × 25 = 37.5 V",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 836,
+    "question": "The dimension of electromotive force are?",
+    "option": {
+      "a": "ML²T⁻³I⁻¹",
+      "b": "ML²T⁻³I⁻²",
+      "c": "M²LT⁻²I⁻¹",
+      "d": "M²L²T⁻¹I⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nElectromotive force (e.m.f.) has the same unit as voltage (potential difference).\nVoltage = Work done / Charge\n\nSolution:\n\nStep 1: Write the formula for voltage\nVoltage V = Work / Charge\n\nStep 2: Write dimensions of work\nWork = Force × Distance\nForce = Mass × Acceleration = M × LT⁻² = MLT⁻²\nWork = MLT⁻² × L = ML²T⁻²\n\nStep 3: Write dimensions of charge\nCharge = Current × Time = I × T = IT\n\nStep 4: Divide dimensions of work by dimensions of charge\nV = ML²T⁻² / IT = ML²T⁻² × I⁻¹T⁻¹ = ML²T⁻³I⁻¹",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 837,
+    "question": "The resultant of two forces 12 N and 5 N is 13 N. What is the angle between the two forces?",
+    "option": {
+      "a": " 0°",
+      "b": "45°",
+      "c": "90°",
+      "d": "180°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\nForce F₁ = 12 N\nForce F₂ = 5 N\nResultant R = 13 N\n\nSolution:\n\nStep 1: Formula for resultant of two forces\nR² = F₁² + F₂² + 2F₁F₂ cos θ\nwhere θ is the angle between the forces.\n\nStep 2: Substitute the given values\n13² = 12² + 5² + 2 × 12 × 5 × cos θ\n169 = 144 + 25 + 120 cos θ\n169 = 169 + 120 cos θ\n\nStep 3: Simplify and solve for cos θ\n169 – 169 = 120 cos θ\n0 = 120 cos θ\ncos θ = 0\n\nStep 4: Determine the angle\ncos θ = 0 ⇒ θ = 90°\n",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

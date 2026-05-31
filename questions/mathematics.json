@@ -17230,5 +17230,21 @@
     "solution": "Sample space = {HHH, HHT, HTH, THH, TTH, THT, HTT, TTT}\n\nTotal number of possible outcomes = 2 x 2 x 2 = 8\n\nfavourable number of outcomes = 7\n\n∴Pr(at least one head) = 7/8",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 435,
+    "question": "A binary operation ⊕ on real numbers is defined by x⊕y = xy + x + y for any two real numbers x and y. The value of (-3/4)⊕6 is",
+    "option": {
+      "a": "3/4",
+      "b": "-9/2",
+      "c": "45/4",
+      "d": " -3/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x⊕y = xy + x + y\n= -3/4 (6) + (-3/4) + 6\n= -9/2 - 3/4 + 6\n= (-18-3+3+24) / 4\n= 3/4",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

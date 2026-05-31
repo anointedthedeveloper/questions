@@ -9486,5 +9486,21 @@
     "solution": "In the stress - strain graph shown above, X represents the breaking point of the wire",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 893,
+    "question": "If a light wave has a wavelength of 500nm in air, what is the frequency of the wave? [c = 3 × 10⁸ ms⁻¹]",
+    "option": {
+      "a": " 3.0 × 10¹⁴ Hz",
+      "b": "6.0 × 10¹⁴ Hz",
+      "c": "6.0 × 10¹² Hz",
+      "d": "2.5 × 10¹⁴ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nWavelength (λ) = 500 nm = 500 × 10⁻⁹ m = 5 × 10⁻⁷ m\nSpeed of light (c) = 3 × 10⁸ m/s\nFrequency (f) = ?\n\nFormula for wave equation:\nc = fλ\nRearranging for frequency:\nf = c/λ\nSubstituting values:\nf = (3 × 10⁸)/(5 × 10⁻⁷)\nf = (3/5) × 10⁸⁺⁷\nf = 0.6 × 10¹⁵\nf = 6.0 × 10¹⁴ Hz",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

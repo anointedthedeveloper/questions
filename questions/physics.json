@@ -3886,5 +3886,85 @@
     "solution": "Microscope is used for nearby object",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 287,
+    "question": "Cathode rays are",
+    "option": {
+      "a": "High-energy electromagnetic waves",
+      "b": "protons",
+      "c": "neutrons",
+      "d": "streams of electrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cathode rays are streams of electrons observed in vacuum tubes.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 98,
+    "question": "When white light passes through a triangular prism, the emerging rays of light arranged in order of decreasing angle of deviation are ",
+    "option": {
+      "a": "red, orange, yellow, green  ",
+      "b": "blue, green,  orange, yellow ",
+      "c": "red, green, yellow, orange ",
+      "d": "blue, green, yellow, orange"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 440,
+    "question": "A lead bullet of mass 0.05kg is fired with a velocity of 200ms⁻¹ into a block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is?",
+    "option": {
+      "a": "50J",
+      "b": "100J",
+      "c": "150J",
+      "d": "200J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of bullet (m₁) = 0.05 kg\nInitial velocity of bullet (u₁) = 200 m/s\nMass of block (m₂) = 0.95 kg\nInitial velocity of block (u₂) = 0 m/s (at rest)\nFinal kinetic energy = ?\n\nThis is an inelastic collision (bullet embeds in block)\nStep 1: Find final velocity using conservation of momentum\nTotal momentum before = Total momentum after\nm₁u₁ + m₂u₂ = (m₁ + m₂)v\nSubstituting values:\n(0.05 × 200) + (0.95 × 0) = (0.05 + 0.95)v\n10 + 0 = 1.0v\nv = 10 m/s\nStep 2: Calculate final kinetic energy\nKE = ½(m₁ + m₂)v²\nKE = ½ × 1.0 × (10)²\nKE = ½ × 1.0 × 100\nKE = 50 J",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 690,
+    "question": "10⁶J of heat is required to boil off completely 2kg of a certain liquid. Neglecting heat lost to the surroundings, the latent heat of vaporization of the liquid is",
+    "option": {
+      "a": "2.0 × 10⁶J kg⁻¹",
+      "b": "5.0 × 10⁶J kg⁻¹",
+      "c": "2.0 × 10⁵J kg⁻¹",
+      "d": "5.0 × 10⁵J kg⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nHeat required, Q = 10⁶ J\nMass of liquid, m = 2 kg\nLatent heat of vaporization, L = ?\n\nSolution:\nStep 1: Formula for latent heat\nFormula: Q = mL\nWhere:\n\nQ = heat energy\nm = mass\nL = latent heat of vaporization\n\nStep 2: Rearrange for L\nL = Q/m\nStep 3: Substitute values\nL = 10⁶/2\nL = 0.5 × 10⁶\nL = 5.0 × 10⁵ J kg⁻¹",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1044,
+    "question": "A train with an initial velocity of 20 ms⁻¹ is subjected to a uniform deceleration of 2 ms⁻². The time required to bring the train to a complete halt is?",
+    "option": {
+      "a": "5 s",
+      "b": " 10 s",
+      "c": "20 s",
+      "d": "40 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial velocity (u) = 20 m/s\nFinal velocity (v) = 0 m/s (complete halt)\nDeceleration (a) = -2 m/s² (negative because it's slowing down)\nTime (t) = ?\n\nUsing equation of motion:\nv = u + at\nRearranging for time:\nt = (v - u)/a\nSubstituting values:\nt = (0 - 20)/(-2)\nt = -20/(-2)\nt = 10 s",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

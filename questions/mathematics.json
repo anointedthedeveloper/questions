@@ -13614,5 +13614,37 @@
     "solution": "Q = (P ∪ Q) - P\n{6,7}",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 163,
+    "question": "In the figure above, PQR is a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, ∠SQR is 75o and ∠QPT is 25o. Calculate the value of ∠RST.",
+    "option": {
+      "a": "45°",
+      "b": "55°",
+      "c": "25°",
+      "d": "55°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696651/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_42_dx7tih.jpg",
+    "answer": "b",
+    "solution": "n Δ PQT,\n∠PTQ = 25o(base ∠s of isosceles Δ)\nIn Δ QSR,\n∠RQS = ∠QPT + ∠QTP\n(Extr = sum of interior opposite ∠s)\n∠RQS = 25 + 25\n= 50°\nAlso in Δ QSR,\n75 + ∠RQS + ∠QSR = 180o\n(sum of ∠s of Δ)\n∴75 + 50 + ∠QSR = 180\n125 + ∠QSR = 180\n∠QSR = 180 - 125\n∠QSR = 55°\nBut ∠QSR and ∠RST are the same\n∠RST = 55°",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 224,
+    "question": "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat\nematics and Physics?",
+    "option": {
+      "a": "20",
+      "b": "16",
+      "c": "8",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using a venn diagram, let x = number who offer both Maths and Physics. So that (32-x) offer Maths and another (24-x) offer Physics.\n(32-x) + (24-x) + (x) + (4 who offer neither) = 40\n=> 60 - x = 40\n=> -x = -20\nTherefore x = 20.",
+    "examtype": "utme",
+    "examyear": "2003"
   }
 ]

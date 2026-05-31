@@ -13150,5 +13150,21 @@
     "solution": "∫(5x<sup>3</sup> + 7x<sup>2</sup> −2x + 5)dx\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − 2x<sup>2</sup>/2 + 5x + c\n= 5x<sup>4</sup>/4 + 7x<sup>3</sup>/3 − x<sup>2</sup> + 5x + c",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 1017,
+    "question": "A bricklayer charges ₦1,500 per day for himself and ₦500 per day for his assistant. If a two bedroom flat was built for ₦95,000 and the bricklayer worked 10 days more than his assistant, how much did the assistant receive?",
+    "option": {
+      "a": "N20,000",
+      "b": "N28,000",
+      "c": "N31,200",
+      "d": "N41,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Let the number of days worked by the assistant = t\n\n∴\n The bricklayer worked (t + 10) days.\n\n1500(t + 10) + 500(t) = N 95,000\n\n1500t + 15,000 + 500t = N 95,000\n\n2000t = N 95,000 - N 15,000\n\n2000t = N 80,000\n\nt = 40 days\n\n∴\n The assistant worked for 40 days and received N (500 x 40)\n\n= N 20,000",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

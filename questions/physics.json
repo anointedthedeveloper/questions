@@ -2430,5 +2430,85 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
+  },
+  {
+    "id": 570,
+    "question": "The moon's acceleration due to gravity is 1/6 of the earth's value. The weight of a bowling ball on the moon would be",
+    "option": {
+      "a": "6 times its weight on the earth",
+      "b": "1/6 of its weight on the earth",
+      "c": " 36 times its weight on the earth",
+      "d": " equal to its weight on the earth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMoon's gravity, gₘ = (1/6)gₑ\nMass of bowling ball remains constant\nWeight on moon = ?\n\nSolution:\nStep 1: Define weight\nWeight = mass × acceleration due to gravity\nW = mg\nStep 2: Calculate weight on Earth\nWₑ = mgₑ\nStep 3: Calculate weight on Moon\nWₘ = mgₘ\nWₘ = m × (gₑ/6)\nWₘ = (1/6)mgₑ\nWₘ = (1/6)Wₑ\nStep 4: Compare weights\nWeight on moon = (1/6) × Weight on Earth",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 752,
+    "question": "A car of mass 1500 kg goes round a circular curve of radius 50m at a speed of 40 ms⁻¹. The magnitude of the centripetal force on the car is?",
+    "option": {
+      "a": "4.8 × 10⁴ N",
+      "b": "4.8 × 10³ N",
+      "c": "1.2 × 10³ N",
+      "d": "1.2 × 10² N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass (m) = 1500 kg\nRadius (r) = 50 m\nSpeed (v) = 40 m/s\nCentripetal force (F) = ?\n\nFormula for centripetal force:\nF = mv²/r\nSubstituting values:\nF = (1500 × 40²)/50\nF = (1500 × 1600)/50\nF = 2,400,000/50\nF = 48,000 N\nF = 4.8 × 10⁴ N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 80,
+    "question": "What is the total power output of a source with intensity 0.050 W/m2 at a distance of 3.0m from the source? ",
+    "option": {
+      "a": "112W ",
+      "b": "5.6W ",
+      "c": "15W ",
+      "d": "30W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 782,
+    "question": "In the diagram above, if the magnetic field points into the paper and the force on a current-carrying conductor points upwards, what is the direction of the current?",
+    "option": {
+      "a": "Upwards",
+      "b": "Downwards",
+      "c": "Right",
+      "d": "Left"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431507/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_33_acsxrq.png",
+    "answer": "d",
+    "solution": "Solution:\n\nStep 1: Recall Fleming's Left-Hand Rule\nFor a current-carrying conductor in a magnetic field, Fleming's Left-Hand Rule states:\n\nThumb: direction of force (motion)\n\nFirst finger: direction of magnetic field\n\nSecond (middle) finger: direction of current\n\nAll three are mutually perpendicular.\n\nStep 2: Apply the rule\n\nMagnetic field (first finger): into the paper (away from you)\n\nForce (thumb): upwards\n\nTo have these two directions, the current (second finger) must point to the left.\n\nStep 3: Visualize\nIf the field is into the paper and force is up, the only perpendicular direction remaining for current is left.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 181,
+    "question": "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will",
+    "option": {
+      "a": "Be a straight line",
+      "b": "Curve inwards",
+      "c": "Be a parabola",
+      "d": "Curve outwards"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a charged particle moves parallel to a magnetic field, it experiences no magnetic force and continues in a straight line.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

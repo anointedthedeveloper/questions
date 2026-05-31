@@ -9742,5 +9742,37 @@
     "solution": "James Chadwick discovered the neutron in 1932 by bombarding beryllium with alpha particles and detecting the uncharged particle emitted. Rutherford discovered the proton and the nucleus, J.J. Thomson discovered the electron, and Dalton proposed the atomic theory but discovered no subatomic particles.",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 662,
+    "question": "The dehydration of CH₃CH₂CH₂CH₂OH will give?",
+    "option": {
+      "a": "HC≡CCH₂CH₃",
+      "b": "CH₂=CCH₂CH₃",
+      "c": "CH₃C≡CCH₃",
+      "d": "CH₃CH=CHCH₃"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Dehydration of an alcohol removes water (H₂O) to form an alkene. CH₃CH₂CH₂CH₂OH (butan-1-ol) loses -OH and an adjacent -H to form a C=C double bond. The major product by Zaitsev's rule is the more substituted alkene: CH₃CH=CHCH₃ (but-2-ene). The double bond forms between C2 and C3, giving the more stable internal alkene.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 142,
+    "question": "The oxidation state of chlorine in HClO4 is",
+    "option": {
+      "a": "-5",
+      "b": "-1",
+      "c": "1",
+      "d": "7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

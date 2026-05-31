@@ -12062,5 +12062,69 @@
     "solution": "ELATION\nSince there are 7 letters. The first letter can be arranged in 7 ways, , the second letter in 6 ways, the third letter in 5 ways, the 4th letter in four ways, the 3rd letter in three ways, the 2nd letter in 2 ways and the last in one way.\n\ntherefore, 7 x 6 x 5 x 4 x 3 x 2 x 1 = 7! ways",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 931,
+    "question": "An arc of a circle of radius 14cm subtends angle 300° at the centre. Find the perimeter of the sector formed by the arc (take π = 22/7)",
+    "option": {
+      "a": "14.67 cm",
+      "b": "73.33 cm",
+      "c": " 101.33 cm",
+      "d": "513.33 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Length of the arc = θ/360 × 2πr\n= 300/360 × 2 × 22/7 × 14\n= 220/3\n= 73.33 cm\n\nPerimeter of the sector = Length of the arc + 2r\n\n= 73.33 + 2(14)\n\n= 101.33 cm",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 996,
+    "question": "The nth term of a sequence is given by 2<sup>(2n−1)</sup>. Find the sum of the first four terms.",
+    "option": {
+      "a": "74",
+      "b": "32",
+      "c": "42",
+      "d": "170"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "T<sub>n</sub> = 2<sub>(2n−1)</sub>\n \nT<sub>1</sub> = 2<sup>(2(1)−1</sup>\n= 2\n\nT<sub>2</sub> = 2<sup>(2(2)−1)</sup>\n= 8\n\nT<sub>3</sub> = 2<sup>(2(3)−1)</sup>\n= 32\n\nT<sub>4</sub> = 2<sup>(2(4)−1)</sup>\n= 128\n\nT<sup>1</sup>+T<sup>2</sup>+T<sup>3</sup>+T<sup>4</sup> = 2 + 8 + 32 + 128\n= 170",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 455,
+    "question": "Calculate the length of an arc of a circle diameter 14 cm, which substends an angle of 90o at the center of the circle",
+    "option": {
+      "a": "7π/2 cm",
+      "b": "7π cm",
+      "c": "14π cm",
+      "d": " 7π/4 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Length of an arc = θ/360 x 2πr\n90/360 x 2 x π x 7\n= 7π/2",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 547,
+    "question": "A chord drawn 5 cm away from the center of a circle of radius 13 cm. Calculate the length of the chord?",
+    "option": {
+      "a": " 7cm",
+      "b": "9cm",
+      "c": "12cm",
+      "d": "24cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547172/ALOC-Questions/Mathematics/2009/MATH_2009_Q26_ixhtt4.jpg",
+    "answer": "d",
+    "solution": "x<sup>2</sup> + 5<sup>2</sup> = 13<sup>2</sup>\nx<sup>2</sup> + 25 = 169\nx<sup>2</sup> = 144\n\nx = √ 144 \n\n= 12\nLength of the chord AB = 2x\n2×12= 24cm",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

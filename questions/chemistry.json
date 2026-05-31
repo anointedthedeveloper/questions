@@ -8910,5 +8910,101 @@
     "solution": "pH = 3.80, so pOH = 14 - 3.80 = 10.20. [OH⁻] = 10⁻¹⁰·²⁰ = 6.3 × 10⁻¹¹ mol dm⁻³. Alternatively: [H⁺] = 10⁻³·⁸⁰ = 1.585 × 10⁻⁴; [OH⁻] = Kw/[H⁺] = 1 × 10⁻¹⁴ / 1.585 × 10⁻⁴ = 6.3 × 10⁻¹¹ mol dm⁻³.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 119,
+    "question": "A compound contains 40.0% carbon, 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula  [H = 1, C = 12, O = 16]",
+    "option": {
+      "a": "CH2O",
+      "b": "C3H6O3",
+      "c": "C6H12O6",
+      "d": "C6H6O3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 661,
+    "question": "The pollutant usually present in a city which generates its electricity from coal?",
+    "option": {
+      "a": "fog",
+      "b": "carbon(ii)oxide",
+      "c": "smog",
+      "d": "sulphur(iv)oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Coal contains significant amounts of sulphur. When coal is burned to generate electricity, sulphur is oxidised to sulphur(IV) oxide (SO₂). SO₂ is the primary pollutant associated with coal-burning power stations. It causes acid rain and respiratory problems. Smog results from photochemical reactions, and CO is produced from incomplete combustion rather than coal-burning power stations specifically.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 24,
+    "question": " 2SO2(g) + O2(g) ⇌  2SO3(g)  The equilibrium constant for the reaction above is increased by  [ΔH = -189kJ mol -1]",
+    "option": {
+      "a": "Increasing the temperature of the system",
+      "b": "Increasing the pressure of the system",
+      "c": "The addition of a catalyst to the system",
+      "d": "Increasing the surface area of the vessel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 499,
+    "question": "In the reaction between sodium hydroxide and sulphuric acid solutions, what volume of 0.5 mol dm⁻³ sodium hydroxide would exactly neutralise 10 cm³ of 1.25 mol dm⁻³ sulphuric acid?",
+    "option": {
+      "a": "5 cm³",
+      "b": "10 cm³",
+      "c": "20 cm³",
+      "d": "50 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reaction: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O. Moles of H₂SO₄ = 1.25 × 10/1000 = 0.0125 mol. Moles of NaOH needed = 2 × 0.0125 = 0.025 mol. Volume of NaOH = 0.025/0.5 = 0.05 dm³ = 50 cm³.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 480,
+    "question": "The number of electrons in the valence shell of an element of atomic number 14 is",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Element with atomic number 14 is Silicon (Si). Its electronic configuration is 1s²2s²2p⁶3s²3p². The valence shell is the third shell (n=3), which contains 3s²3p² = 2 + 2 = 4 electrons. Silicon therefore has 4 valence electrons.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 727,
+    "question": "A gas when mixed with oxygen, it produces a very hot and easily controllable flame. What is the name of the flame and where is it used?",
+    "option": {
+      "a": "Acetylene flame; miners' lamp",
+      "b": "Oxy-ethylene; hunters' torch",
+      "c": "Oxy-ethylene flame; miners' lamp",
+      "d": "Oxy-ethylene flame; cutting and welding metals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ethyne (acetylene, C₂H₂) mixed with oxygen produces the oxyacetylene (oxy-ethylene) flame, which burns at over 3000°C. This extremely hot flame is easily controllable and is used industrially for cutting and welding metals. It is not used in miners' lamps or hunters' torches.",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

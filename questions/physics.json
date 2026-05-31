@@ -7134,5 +7134,69 @@
     "solution": "The vector sum of the forces must be zero.",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 402,
+    "question": "Consider the three forces acting at O and in equilibrium as shown in the figure. Which of the following equations is/are CORRECT?\nI. P₁ cos θ₁ = P₂ cos θ₂\nII. P₃ = P₁ cos θ₁ + P₂ cos θ₂\nIII. P₁ sin θ₁ = P₂ sin θ₂",
+    "option": {
+      "a": "I only",
+      "b": " II only",
+      "c": "III only",
+      "d": " II and III"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612655/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_23_l9aleb.png",
+    "answer": "d",
+    "solution": "Understanding equilibrium of forces:\nFor three forces in equilibrium at point O, the sum of forces in any direction must equal zero.\nResolving forces:\nHorizontal direction (along P₃):\nP₃ = P₁ cos θ₁ + P₂ cos θ₂\nVertical direction (perpendicular to P₃):\nP₁ sin θ₁ = P₂ sin θ₂\n(upward component of P₁ balances downward component of P₂)\nAnalyzing each statement:\nI. P₁ cos θ₁ = P₂ cos θ₂:\n\nThis would mean horizontal components are equal\nFALSE ✗\nThis ignores P₃, which also has a horizontal component\nThe sum of P₁ cos θ₁ and P₂ cos θ₂ equals P₃, not each other\n\nII. P₃ = P₁ cos θ₁ + P₂ cos θ₂:\n\nTRUE ✓\nHorizontal equilibrium equation\nP₃ balances the horizontal components of P₁ and P₂\n\nIII. P₁ sin θ₁ = P₂ sin θ₂:\n\nTRUE ✓\nVertical equilibrium equation\nUpward and downward vertical components balance\n\nCorrect statements: II and III",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 788,
+    "question": "A string of length 4m is extended by 0.02 m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?",
+    "option": {
+      "a": "4.05 m",
+      "b": "4.08 m",
+      "c": "5.05 m",
+      "d": "6.08 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nOriginal length (L₀) = 4 m\nExtension₁ (e₁) = 0.02 m\nMass = 0.4 kg, so Force₁ (F₁) = 0.4 × 10 = 4 N (assuming g = 10 m/s²)\nApplied force₂ (F₂) = 15 N\nFinal length = ?\n\nUsing Hooke's Law:\nExtension is proportional to applied force (for elastic materials):\nF ∝ e\nSetting up proportion:\nF₁/e₁ = F₂/e₂\nSolving for e₂:\n4/0.02 = 15/e₂\ne₂ = (15 × 0.02)/4\ne₂ = 0.30/4\ne₂ = 0.075 m\nCalculate final length:\nFinal length = Original length + Extension\nFinal length = 4 + 0.075\nFinal length = 4.075 m ≈ 4.08 m",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 327,
+    "question": "An object is placed 20cm from a concave mirror of0 focal length 10cm. The linear magnification of the image produced is?",
+    "option": {
+      "a": "0",
+      "b": "2-Jan",
+      "c": "1",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nObject distance (u) = -20 cm (negative by sign convention)\nFocal length (f) = -10 cm (negative for concave mirror)\nMagnification (m) = ?\n\nStep 1: Find image distance using mirror formula\n1/f = 1/v + 1/u\n1/(-10) = 1/v + 1/(-20)\n-1/10 = 1/v - 1/20\n1/v = -1/10 + 1/20\n1/v = -2/20 + 1/20 = -1/20\nv = -20 cm\nStep 2: Calculate magnification\nm = -v/u\nm = -(-20)/(-20)\nm = 20/(-20)\nm = -1\nMagnitude of magnification:\n|m| = 1",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 498,
+    "question": "The mercury column in the barometer at notational  atmospheric pressure has a height of?",
+    "option": {
+      "a": " 0.76 cm at see level",
+      "b": "760 cm at sea level",
+      "c": " 7.6 cm at sea level",
+      "d": "76 cm at sea level"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Recall standard atmospheric pressure\nStandard atmospheric pressure at sea level:\n\n1 atmosphere (atm)\n101,325 Pa\n760 mmHg (millimeters of mercury)\n\nStep 2: Convert to appropriate units\n760 mmHg = 760 mm\nConvert to centimeters:\n760 mm = 760/10 cm = 76 cm",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

@@ -4,33 +4,52 @@ echo    ALOC Downloader Setup
 echo ================================
 echo.
 
-:: Check if Python is installed
+:: Detect python command (python or py)
 python --version >nul 2>&1
-if %errorlevel% neq 0 (
-    echo Python not found. Downloading installer...
-    curl -o python_installer.exe https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
-    echo Installing Python silently...
-    python_installer.exe /quiet InstallAllUsers=1 PrependPath=1 Include_pip=1
-    del python_installer.exe
-    echo Python installed. Refreshing PATH...
-    call refreshenv >nul 2>&1
-) else (
-    echo Python already installed.
-    python --version
+if %errorlevel% equ 0 (
+    set PYTHON=python
+    goto :found
 )
 
+py --version >nul 2>&1
+if %errorlevel% equ 0 (
+    set PYTHON=py
+    goto :found
+)
+
+echo Python not found. Downloading installer...
+curl -o python_installer.exe https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
+echo Installing Python...
+python_installer.exe /quiet InstallAllUsers=1 PrependPath=1 Include_pip=1
+del python_installer.exe
+echo Done. Please close and reopen this window, then run setup.bat again.
+pause
+exit
+
+:found
+echo Using: %PYTHON%
+%PYTHON% --version
 echo.
-echo Installing required packages...
-python -m pip install --upgrade pip -q
-python -m pip install requests python-dotenv watchdog -q
+
+echo Upgrading pip...
+%PYTHON% -m pip install --upgrade pip
 
 echo.
-echo All packages installed:
-python -m pip show requests python-dotenv watchdog | findstr "Name Version"
+echo Installing packages...
+%PYTHON% -m pip install requests
+%PYTHON% -m pip install python-dotenv
+%PYTHON% -m pip install watchdog
 
 echo.
-echo Setup complete! You can now run:
-echo   python download.py       ^(in one terminal^)
-echo   python autopush.py       ^(in another terminal^)
+echo Verifying installs...
+%PYTHON% -c "import requests; print('requests OK')"
+%PYTHON% -c "import dotenv; print('python-dotenv OK')"
+%PYTHON% -c "import watchdog; print('watchdog OK')"
+
 echo.
+echo ================================
+echo Setup complete!
+echo Run: %PYTHON% download.py
+echo Run: %PYTHON% autopush.py
+echo ================================
 pause

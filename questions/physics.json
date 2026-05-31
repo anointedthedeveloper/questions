@@ -8206,5 +8206,69 @@
     "solution": "Understanding electric potential:\nElectric potential (V) at a point is the work done per unit charge in bringing a test charge from infinity to that point.\nFormula for electric potential due to a point charge:\nV = kq/r = q/(4πε₀r)\nwhere:\n\nV = electric potential\nq = source charge\nr = distance from the charge\nk = Coulomb's constant = 1/(4πε₀)\nε₀ = permittivity of free space\n\nComparing with electric field:\nElectric field (E):\nE = kq/r² = q/(4πε₀r²)\n\nUnits: N/C or V/m\nVector quantity\nProportional to 1/r²\n\nElectric potential (V):\nV = kq/r = q/(4πε₀r)\n\nUnits: Volts (V) or J/C\nScalar quantity\nProportional to 1/r\n\nThe correct expression for electric potential at distance r from charge q is V = q/(4πε₀r).",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 67,
+    "question": "Which of the following phenomena cannot be explained by the molecular theory of matter? ",
+    "option": {
+      "a": "evaporation ",
+      "b": "expansion ",
+      "c": "conduction ",
+      "d": "radiation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 467,
+    "question": "The relationship between the coefficient of linear expansion α and volumetric expansion (γ) is-----------------",
+    "option": {
+      "a": "γ = α⁻³",
+      "b": "γ = α",
+      "c": "γ = 3α",
+      "d": "γ = α³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Consider expansion in three dimensions\nFor a solid with initial dimensions L₀ × L₀ × L₀:\n\nInitial volume, V₀ = L₀³\n\nStep 2: Apply linear expansion to each dimension\nAfter temperature change ΔT:\n\nNew length in each dimension = L₀(1 + αΔT)\n\nStep 3: Calculate new volume\nV = [L₀(1 + αΔT)]³\nV = L₀³(1 + αΔT)³\nStep 4: Expand binomially (neglecting higher order terms)\nV = L₀³(1 + 3αΔT + 3α²ΔT² + α³ΔT³)\nSince α is very small (typically 10⁻⁵ to 10⁻⁶), higher powers can be ignored:\nV ≈ L₀³(1 + 3αΔT)\nV = V₀(1 + 3αΔT)\nStep 5: Compare with volumetric expansion formula\nStandard volumetric expansion: V = V₀(1 + γΔT)\nComparing both equations:\nγ = 3α",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 885,
+    "question": "The value of x, y and z respectively in the expression M^x L^y T^z for the universal gravitational constant G are?",
+    "option": {
+      "a": "2, -3, -2",
+      "b": "-1, 3, -2",
+      "c": "-1, 2, -3",
+      "d": "-2, -1, 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nUniversal gravitational constant G appears in Newton's law of gravitation:\nF = G (m₁ m₂) / r²\n\nSolution:\n\nStep 1: Write dimensional formula for each quantity\nForce F has dimensions: M L T⁻²\nMass m has dimensions: M\nDistance r has dimensions: L\n\nStep 2: Rearrange equation for G\nG = (F × r²) / (m₁ × m₂)\n\nStep 3: Substitute dimensions\n[G] = (M L T⁻² × L²) / (M × M)\n[G] = (M L³ T⁻²) / M²\n\nStep 4: Simplify\n[G] = M⁻¹ L³ T⁻²\n\nStep 5: Compare with M^x L^y T^z\nx = -1, y = 3, z = -2",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 552,
+    "question": "The mechanical advantage of the machine shown above ",
+    "option": {
+      "a": "7.5",
+      "b": "15.5",
+      "c": "30",
+      "d": "60"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765615437/ALOC-Questions/Physics/2024/Physics_2024_Q3_qevjoo.png",
+    "answer": "c",
+    "solution": "Mechanical advantage of a machine = LOAD/EFFORT\n\nIn this case of a wedge, we can consider the dimensions given:\n\nLoad distance (height of the machine): 15 cm\nEffort distance (movement of the effort): 0.5 cm\n\nM.A = 15/0.5\n = 30.0",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

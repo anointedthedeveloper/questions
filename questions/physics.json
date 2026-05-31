@@ -5326,5 +5326,69 @@
     "solution": "When silicon is doped with phosphorus, an n-type semiconductor material is formed due to the extra free electrons provided by phosphorus atoms.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 493,
+    "question": "What quantity of heat is required to convert 20 g of ice at 0 ºC to water at the same temperature? (Specific latent heat of ice = 336 Jg⁻¹)",
+    "option": {
+      "a": "7.06 × 10³ J",
+      "b": " 5.38 × 10³ J",
+      "c": " 6.72 × 10³ J",
+      "d": "1.35 × 10³ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Since the phase change occurs at constant temperature (0°C), no energy goes into increasing temperature. All the heat energy is used to break the molecular bonds in ice, converting it from solid to liquid state at the melting point.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1021,
+    "question": "Which of the following factors will affect the velocity of sound?",
+    "option": {
+      "a": " An increase in the pitch of the sound",
+      "b": " An increase in the loudness of the sound",
+      "c": " Wind travelling in the same direction of the sound",
+      "d": " A change in the atmospheric pressure at constant temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Pitch, loudness, and atmospheric pressure do not affect sound velocity. Wind traveling in the same direction of sound affects its velocity. wind can slow down or accelerate the speed of sound, depending on whether it is blowing in the same direction or in the opposite direction to the sound signal.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 963,
+    "question": "Which of the following types of waves needs a medium for propagation?",
+    "option": {
+      "a": "sound waves",
+      "b": " light waves",
+      "c": " radio waves",
+      "d": "x - rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sound is the only mechanical wave among the rest which are electromagnetic waves.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 346,
+    "question": "A ray of light passes through the centre of curvature of a concave mirror and strikes the mirror. At what angle is the ray reflected?",
+    "option": {
+      "a": "180°",
+      "b": " 90°",
+      "c": " 0°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The ray is reflected at 0° because it retraces its path back through the centre of curvature along the same line with no angular deviation.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

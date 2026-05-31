@@ -14238,5 +14238,21 @@
     "solution": "x = (2+3t)(5t-4)\nLet u = 2+3t ∴du/dt = 3\nand v = 5t-4 ∴dv/dt = 5\ndx/dt = Vdu/dt + Udv/dt\n= (5t-4)3 + (2+3t)5\n= 15t - 12 + 10 + 15t\n= 30t - 2\n= 30x4/5 - 2\n= 24 - 2\n= 22",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 1120,
+    "question": "Find the equation of a straight line parallel to the line 2x - y = 5 and having intercept of 5",
+    "option": {
+      "a": "2x + y = 5",
+      "b": " 2x + y = -5",
+      "c": "2x - y = -5",
+      "d": " 2x - y = 5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Condition for Parallelism means that their gradient value is same\n\nline 2x - y = 5 is rearranged\n\nAs y = 2x - 5 from y = mx + c\n\n: line 2x - y = 5 has the gradient of 2\n\nA parallel line with gradient of 2 and intercept of 5\n\n→ 2x - y = -5\n\nRearranged as y = 2x + 5",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

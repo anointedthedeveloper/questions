@@ -17915,5 +17915,24 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1792,
+    "question": "You may have the pencil, but you can't have the ballpoint ________.",
+    "option": {
+      "a": "As well.",
+      "b": "Either.",
+      "c": "Futhermore.",
+      "d": "Also."
+    },
+    "section": "Choose the option that best complete the gap.",
+    "image": "",
+    "answer": "a",
+    "solution": "You may have the pencil, but you can't have the ballpoint  As well",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 33,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

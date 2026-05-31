@@ -14878,5 +14878,53 @@
     "solution": "Range = Highest value - Lowest value\n\n= (k + 6) - (k - 5)\n\n= 11",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 7,
+    "question": "In a class, 37 students take a least one of chemistry, Economics and Government, 8 students take Chemistry, 19 take Economics and 25 take Government, 12 students take Economics and Government but nobody takes Chemistry and Economics. How many students take both chemistry and Government? ",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 132,
+    "question": "Solve the equations\nm<sup>2</sup> + n<sup>2</sup> = 29\nm + n = 7",
+    "option": {
+      "a": "(2, 3) and ( 3, 5)",
+      "b": "(2, 5) and (5, 2)",
+      "c": "(5, 2) and ( 5, 3)",
+      "d": "(5, 3) and (3, 5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "m<sup>2</sup> + n<sup>2</sup> = 29 .......(1)\nm + n = 7 ............(2)\n\nFrom (2),\nm = 7 - n\nbut m<sup>2</sup> + n<sup>2</sup> = 29, substituting;\n(7-n)<sup>2</sup> + n<sup>2</sup> = 29\n49 - 14n + n<sup>2</sup> + n<sup>2</sup> = 29\n=> 2n<sup>2</sup> -14n + 20 = 0\nThus n<sup>2</sup> -7n + 10 = 0\n\nFactorizing;\n(n-5)(n-2) = 0\nn - 5 = 0, => n = 5\nn - 2 = 0, => n = 2.\n\nWhen n = 5,\nm + n = 7, => m = 2,\n\nWhen n = 2,\nm + n = 7, => m = 5.\n\nThus (m,n) = (5,2) and (2,5)",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 519,
+    "question": "Calculate the distance between points L(-1, -6) and M(-3, -5)",
+    "option": {
+      "a": "√5",
+      "b": "2√3",
+      "c": " √20",
+      "d": "√50"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "L ( x <sub>1</sub>  −1 y <sub>1</sub>  −6 )  m L ( x <sub>2</sub>  −3 y <sub>2</sub>  −5 )                                 D = √(x<sub>2</sub> −x<sub>1</sub> )<sup>2</sup> +(y<sub>2</sub> −y<sub>1</sub> )<sup>2</sup> \n\nD = √(−3−(−1)2+(−5−(−6)<sup>2</sup> \n\nD =√(−3+1)<sup>2</sup> +(−5+6)<sup>2</sup> \n\nD = √(−2)<sup>2</sup> +1<sup>2</sup> )\n\nD = √(4+1)\n\nD = √5",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

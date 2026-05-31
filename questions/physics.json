@@ -6846,5 +6846,37 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 396,
+    "question": "One of the following readings represents the measurement of the length of a metal rod using vernier callipers. Taking the reading accuracy into consideration, the most likely one is ",
+    "option": {
+      "a": "5.16cm",
+      "b": "5.165cm",
+      "c": " 5.0cm",
+      "d": "5.160cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Vernier Calipers Accuracy: Vernier calipers usually measure with an accuracy of 0.01 cm (0.1 mm), allowing for readings with two decimal places to ensure precision.\n\nHence, 5.16cm ",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 351,
+    "question": "Aluminium is sometimes used as the leaf of an electroscope because it",
+    "option": {
+      "a": "is a light material",
+      "b": "is a good conductor",
+      "c": " is a good insulator",
+      "d": "can be converted into thin sheets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Aluminium is used as an electroscope leaf because it can be converted into very thin sheets (foil), which makes it lightweight and able to diverge easily when charged.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

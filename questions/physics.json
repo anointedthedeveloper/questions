@@ -1774,5 +1774,85 @@
     "solution": "Step 1: Identify force law\nFor gravitational or electrostatic forces between two objects:\nF = k/r²\nWhere:\n\nF = force\nk = constant (depends on masses/charges)\nr = distance between objects\n\nStep 2: Initial force\nF₁ = k/r²\n200 = k/r²\nStep 3: New force when distance is halved\nF₂ = k/(r/2)²\nF₂ = k/(r²/4)\nF₂ = 4k/r²\nStep 4: Find ratio\nF₂/F₁ = [4k/r²] / [k/r²]\nF₂/F₁ = 4\nStep 5: Calculate new force\nF₂ = 4F₁\nF₂ = 4 × 200\nF₂ = 800 N",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 973,
+    "question": "When the human eye loses its power of accomodation, the defect is known as",
+    "option": {
+      "a": "short sightedness",
+      "b": "presbyopia",
+      "c": "astigmatism",
+      "d": " long sightedness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "presbyopia is loss of accommodation",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 372,
+    "question": "A siren having a ring of 200 hole makes 132 rev/min. A jet of air is directed on the set of holes. Calculate the frequency and wavelength in air of the note produced (take v = 350m/s)",
+    "option": {
+      "a": "0.795m",
+      "b": " 0.625m",
+      "c": "0.335m",
+      "d": "0.125m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nNumber of holes = 200\nRevolutions = 132 rev/min\nSpeed of sound (v) = 350 m/s\nWavelength (λ) = ?\n\nStep 1: Calculate frequency\nEach revolution produces 200 sound pulses (one per hole)\nFrequency = Number of holes × Revolutions per second\nFirst convert rev/min to rev/s:\n132 rev/min = 132/60 rev/s = 2.2 rev/s\nFrequency (f) = 200 × 2.2\nf = 440 Hz\nStep 2: Calculate wavelength\nUsing wave equation:\nv = fλ\nRearranging:\nλ = v/f\nλ = 350/440\nλ = 0.795 m",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1002,
+    "question": "Calculate the total distance covered by a train before coming to rest if its initial speed is 30ms⁻¹ with a constant retardation of 0.1ms⁻²",
+    "option": {
+      "a": "5500m",
+      "b": "4500m",
+      "c": "4200m",
+      "d": "3000m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nInitial velocity (u) = 30 m/s\nFinal velocity (v) = 0 m/s (comes to rest)\nRetardation (deceleration, a) = -0.1 m/s² (negative because it's slowing down)\nDistance (s) = ?\n\nUsing the equation of motion:\nv² = u² + 2as\nSubstituting values:\n0² = 30² + 2(-0.1)s\n0 = 900 - 0.2s\n0.2s = 900\ns = 900/0.2\ns = 4500 m",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 336,
+    "question": "A train has an initial velocity of 44 m/s and an acceleration of -4 m/s². Calculate its velocity after 10 seconds.",
+    "option": {
+      "a": "10 m/s",
+      "b": "6 m/s",
+      "c": "8 m/s",
+      "d": "4 m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Initial velocity, u = 44 m/s\nAcceleration, a = -4 m/s²\nTime, t = 10 s\n\nFormula:\nv = u + a * t\n\nCalculation:\nv = 44 + (-4) * 10\nv = 44 - 40\nv = 4 m/s",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 976,
+    "question": "A certain far - sighted person cannot see object that are closer to the eye than 50 cm clearly. Determine the power of the converging lens which will enable him to see at 25 cm",
+    "option": {
+      "a": ". 0.06 D",
+      "b": " 2.0 D",
+      "c": " 0.03 D",
+      "d": " 0.04 D"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nPerson's near point = 50 cm (cannot see closer than this)\nDesired near point = 25 cm (normal near point)\nPower of lens (P) = ?\n\nUnderstanding the correction:\nThe lens must take an object at 25 cm and form a virtual image at 50 cm (where the person can see clearly).\nUsing sign convention:\n\nObject distance (u) = -25 cm = -0.25 m (object on left, negative)\nImage distance (v) = -50 cm = -0.50 m (virtual image on same side, negative)\n\nStep 1: Use lens formula\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-0.50) - 1/(-0.25)\n1/f = -1/0.50 + 1/0.25\n1/f = -2 + 4\n1/f = 2 m⁻¹\nStep 2: Calculate power\nPower (P) = 1/f (in meters)\nP = 2 D",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

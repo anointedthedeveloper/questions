@@ -12878,5 +12878,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 1220,
+    "question": "The mean of 2 - t, 4 + t, 3 - 2t, 2 + t and t - 1 is",
+    "option": {
+      "a": "t",
+      "b": "-t",
+      "c": "2",
+      "d": "-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mean x = ∑x/n\n\n\n= [(2 - t) + (4 + t) + (3 - 2t) + (2 + t) + (t - 1)] ÷\n 5\n\n= [11 - 1 + 3t - 3t] ÷\n 5\n\n= 10 ÷ 5\n\n= 2",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 205,
+    "question": "Find the mean of the data: 7, -3, 4, -2, 5, -9, 4, 8, -6, 12",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "1",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Mean: [7+(−3)+4+(−2)+5+(−9)+4+8+(−6)+12]/(10) = 20/10\n \n= 2",
+    "examtype": "utme",
+    "examyear": "2002"
   }
 ]

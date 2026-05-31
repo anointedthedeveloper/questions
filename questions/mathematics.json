@@ -10926,5 +10926,101 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 1053,
+    "question": "In a class of 40 students, 32 offer mathematics, 24 offer physics and 4 offer neither mathematics nor physics. How many offer both mathematics and physics? ",
+    "option": {
+      "a": "4",
+      "b": "8",
+      "c": "16",
+      "d": "20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "40 = 32 - x + x + 24 + 4\n\n40 = 60 - x\n\nx = 60 - 40 \n\nx = 20",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1000,
+    "question": "The simple interest on ₦8550 for 3 years at x% per annum is ₦4890. Calculate the value of x to the nearest whole number.",
+    "option": {
+      "a": "19%",
+      "b": "20%",
+      "c": "25%",
+      "d": "16.3%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "S.I = PR/T100\n⟹ N 4890 = (8550 × 3 × x)/100\nx = (4890 × 100)/(8550×3)\nx=19.06\nx≊19",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 138,
+    "question": "A straight line makes an angle of 30° with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line.",
+    "option": {
+      "a": "y = (x/10) + 5",
+      "b": " y = x + 5",
+      "c": "√3y = - x + 5√3",
+      "d": "√3y = x + 5√3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cos 30 = 5/x\nx cos 30 = 5, => x = 5√3\n\nCoordinates of P = -5, 3, 0\nCoordinates of Q = 0, 5\nGradient of PQ = (y<sub>2</sub>  - y<sub>1</sub> ) (X<sub>2</sub>  - X<sub>1</sub> ) = (5 - 0)/(0 -5√3)\n= 5/5√3 = 1/√3\n\nEquation of PQ = y - y<sub>1</sub>  = m (x -x<sub>1</sub> )\ny - 0 = 1/√3 (x -(-5√3))\n\nThus: √3y = x + 5√3",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1072,
+    "question": "Three brothers in a business deal share the profit at the end of a contract. The first received 13\n of the profit and the second 23\n of the remainder. If the third received the remaining N12000.00 how much profit did they share?",
+    "option": {
+      "a": "N60 000.00",
+      "b": "N54 000.00",
+      "c": "N48 000.00",
+      "d": "N42 000.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "use \"T\" to represent the total profit. The first receives 1/3 T\n\nremaining, 1 - 1/3 = 2/3T\n\nThe seconds receives the remaining, which is 2/3  also\n\n2/3 x 2/3 x 4/9\n\nThe third receives the left over, which is 2/3T - 4/9T = ((6−4)/9)/T\n= 2/9T\n\nThe third receives 2/9T which is equivalent to N12000\n\nIf 2/9T = N12, 000\nT = 12000/(2/9)\n\n\n= N54, 000",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1261,
+    "question": "Given that A = {3, 4, 1, 10, ⅓ }\n\nB = {4, 3,⅓, ⅓, 7}.\n\nFind A∩B",
+    "option": {
+      "a": "{}",
+      "b": "{⅓, 1, 2}",
+      "c": "{3, 4, ⅓}",
+      "d": "{1, 3, ⅓}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A ∩ B = {3, 4, ⅓}",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 360,
+    "question": "Find the value of t if the standard deviation of 2t, 3t, 4t, 5t, and 6t is √2",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "SOLUTION : <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>m</mi>\n  <mi>e</mi>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mo stretchy=\"false\">(</mo>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>20</mn>\n      <mi>t</mi>\n    </mrow>\n    <mn>5</mn>\n  </mfrac>\n  <mo>=</mo>\n  <mn>4</mn>\n  <mi>t</mi>\n  <mspace linebreak=\"newline\" />\n  <mi>s</mi>\n  <mi>t</mi>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mi>d</mi>\n  <mi>a</mi>\n  <mi>r</mi>\n  <mi>d</mi>\n  <mspace width=\"1mm\" />\n  <mi>d</mi>\n  <mi>e</mi>\n  <mi>v</mi>\n  <mi>i</mi>\n  <mi>a</mi>\n  <mi>t</mi>\n  <mi>i</mi>\n  <mi>o</mi>\n  <mi>n</mi>\n  <mo>=</mo>\n  <msqrt>\n    <mfrac>\n      <mrow>\n        <mn>10</mn>\n        <msup>\n          <mi>t</mi>\n          <mn>2</mn>\n        </msup>\n      </mrow>\n      <mn>5</mn>\n    </mfrac>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>=</mo>\n  <msqrt>\n    <mfrac>\n      <mrow>\n        <mn>10</mn>\n        <msup>\n          <mi>t</mi>\n          <mn>2</mn>\n        </msup>\n      </mrow>\n      <mn>5</mn>\n    </mfrac>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>=</mo>\n  <msqrt>\n    <mn>2</mn>\n    <msup>\n      <mi>t</mi>\n      <mn>2</mn>\n    </msup>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>2</mn>\n  <mo>=</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>t</mi>\n    <mn>2</mn>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <msup>\n    <mi>t</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mspace linebreak=\"newline\" />\n  <mi>t</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "mean(x)=20t/5=4t. Standard deviation=√((10t<sup>2</sup> )/5) √2=√((10t<sup>2</sup> )/5) √2=√(2t<sup>2</sup>  ) 2=2t<sup>2</sup>  t<sup>2</sup> =1. t=1",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

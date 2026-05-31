@@ -7806,5 +7806,53 @@
     "solution": "Detergents with straight (unbranched) hydrocarbon chains are biodegradable because soil bacteria can break down straight chains enzymatically. Branched-chain detergents resist bacterial degradation and cause persistent foam pollution in water bodies.",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 681,
+    "question": "What is the name of the process by which ammonia is produced on an industrial scale?",
+    "option": {
+      "a": "Nitrogenation",
+      "b": "Ammoniation",
+      "c": "Nitrification",
+      "d": "Haber process"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Haber process is the industrial method for producing ammonia by reacting nitrogen gas with hydrogen gas: N₂ + 3H₂ ⇌ 2NH₃. The conditions used are approximately 450°C, 200 atmospheres pressure, and an iron catalyst. The ammonia produced is mainly used in the manufacture of fertilisers.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 58,
+    "question": "The solubility of a salt of molar mass 101g at 200C is 0.34mol dm-3. If 3.40g of the salt is dissolved completely in 250cm3 of water in a beaker, the resulting solution is",
+    "option": {
+      "a": "Unsaturated",
+      "b": "A suspension",
+      "c": "Saturated",
+      "d": "Supersaturated"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 565,
+    "question": "When water drops are added to calcium carbide in a container and the gas produced is passed through a jet and lighted, the resultant flame is called an?",
+    "option": {
+      "a": "Oxyethene",
+      "b": "Oxyhydrocarbon flame",
+      "c": "Oxyacetylene flame",
+      "d": "Oxymethane flame"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Calcium carbide (CaC₂) reacts with water to produce acetylene gas (ethyne, C₂H₂): CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂. When acetylene is burned in the presence of oxygen, it produces the oxyacetylene flame, which reaches temperatures above 3000°C and is used in welding and cutting metals.",
+    "examtype": "utme",
+    "examyear": "2020"
   }
 ]

@@ -11678,5 +11678,21 @@
     "solution": "Given information:\nInitial number of atoms, N₀ = 1000\nHalf‑life, T = 20 s\nRemaining atoms, N = 125\n\nSolution:\n\nStep 1: Radioactive decay formula\nN = N₀ × (½)^(t / T)\n\nStep 2: Substitute the values\n125 = 1000 × (½)^(t / 20)\n\nStep 3: Divide both sides by 1000\n125 / 1000 = (½)^(t / 20)\n0.125 = (½)^(t / 20)\n\nStep 4: Express 0.125 as a power of ½\n0.125 = ⅛ = (½)³\n\nStep 5: Equate exponents\n(½)^(t / 20) = (½)³\nt / 20 = 3\nt = 60 s",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 603,
+    "question": "For semi conductor to have negative temperature coefficient of resistance implies that",
+    "option": {
+      "a": "their resistance decrease with temperature",
+      "b": "The resistance increase with temperature",
+      "c": "their resistance is constantly changing with temperature",
+      "d": "they have electrons and holes at high temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nA negative temperature coefficient means α < 0\nThis occurs when ΔR < 0 for ΔT > 0\nTherefore: as temperature increases, resistance decreases\nPhysical basis:\nIn semiconductors, higher temperature increases the number of charge carriers (electrons and holes), which increases conductivity and decreases resistance.",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

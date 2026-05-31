@@ -3262,5 +3262,53 @@
     "solution": "An electric bell works using an electromagnet.",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 348,
+    "question": "A straight wire 15cm long, carrying a current of 6.0A is in a uniform field of 0.40T. What is the force on the wire when it is at right angle to the field",
+    "option": {
+      "a": "0.46N",
+      "b": " 0.35N",
+      "c": "0.36N",
+      "d": " 0,24N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nLength of wire (L) = 15 cm = 0.15 m\nCurrent (I) = 6.0 A\nMagnetic field (B) = 0.40 T\nAngle (θ) = 90° (at right angle)\nForce (F) = ?\n\nFormula for force on current-carrying conductor:\nF = BIL sin θ\nWhen wire is perpendicular to field (θ = 90°):\nsin 90° = 1\nF = BIL\nSubstituting values:\nF = 0.40 × 6.0 × 0.15\nF = 0.40 × 0.9\nF = 0.36 N",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 376,
+    "question": "The mass of a nucleus is the",
+    "option": {
+      "a": " total number of its proton & neutrons",
+      "b": "number of its protons",
+      "c": " mass of its electrons",
+      "d": "total number of its protons & electrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Nucleus = mass of proton + mass of neutron",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 902,
+    "question": "A car moves with an initial velocity of 25 ms⁻¹ and reaches a velocity of 45 ms⁻¹ in 10s. What is the acceleration of the car?",
+    "option": {
+      "a": "2 ms⁻²",
+      "b": "5 ms⁻²",
+      "c": "20 ms⁻²",
+      "d": "25 ms⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInitial velocity (u) = 25 m/s\nFinal velocity (v) = 45 m/s\nTime (t) = 10 s\nAcceleration (a) = ?\n\nFormula for acceleration:\na = (v - u)/t\nSubstituting values:\na = (45 - 25)/10\na = 20/10\na = 2 m/s²",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

@@ -13310,5 +13310,53 @@
     "solution": "p + 40° = 100° (exterior ∠ = sum of two interior opp ∠s)\np = 100° - 40°\nP = 60°\nBut q + p = 180° (∠s on a straight line)\nq + 60°\nq = 180° - 60°\nq = 120°\nx = q (corresponding ∠)\n∴x = 120°",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 299,
+    "question": "If the operation * on the set of integers is defined by P * Q = √PQ\n, find the value of 4 * ( 8 * 32).",
+    "option": {
+      "a": "8",
+      "b": "3",
+      "c": "16",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "P×Q=√PQ 4×(8×32)=4×√(8×32)=4×√256=4×16=√(4×16)=√64=8",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 414,
+    "question": "If T = 2 π √1/g, make g the subject of the formula",
+    "option": {
+      "a": "(4π l<sup>2</sup>) / T",
+      "b": "(4π<sup>2</sup>l) / T<sup>2</sup>",
+      "c": "(4π<sup>2</sup>l<sup>2</sup>) / T<sup>2</sup>",
+      "d": "(2π√l) / T"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "T = 2 π √1/g\nT/2π = √1/g\n(T/2π)2 = (√1/g)2\nT2/4π2 = 1/g\nT2 x g = 4π2 x l\nG = (4π2 x l) / T2",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 725,
+    "question": "If 27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>, find x.",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "27<sup>x+2</sup> ÷ 9<sup>x+1</sup> = 3<sup>2x</sup>,\n \n3<sup>3(x+2)</sup> ÷ 3<sup>2(x+1)</sup> =3<sup>2x</sup> \n3<sup>3x+6</sup> ÷ 3<sup>2x+2</sup> = 3<sup>2x</sup> \n∴ (3x + 6) − (2x + 2) = 2x\nx + 4 = 2x ⟹ x = 4",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

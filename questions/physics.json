@@ -5534,5 +5534,69 @@
     "solution": "All metals (at constant temperature) obey Ohm's law, acting as ohmic conductors with constant resistance.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 1139,
+    "question": "A boy uses a single string pulley system to lift a mass of 20 kg moving with a velocity of 5 m s⁻¹. What is the power developed by the boy if g = 10 m s⁻²?",
+    "option": {
+      "a": "100 W",
+      "b": "1000 W",
+      "c": "250 W",
+      "d": "40 W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nMass, m = 20 kg\nVelocity, v = 5 m s⁻¹\ng = 10 m s⁻²\n\nSolution:\n\nStep 1: Determine the force required\nTo lift the mass at constant speed, the boy must exert a force equal to the weight:\nF = mg = 20 × 10 = 200 N\n\nStep 2: Power formula\nPower = Force × velocity\nP = F × v = 200 × 5 = 1000 W",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 722,
+    "question": "The correct unit of energy density is?",
+    "option": {
+      "a": "kg m³ s⁻²",
+      "b": " kg m² s⁻²",
+      "c": "kg m⁻³ s⁻²",
+      "d": "kg m⁻¹ s⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Energy density is energy per unit volume.\nEnergy has dimensions: [E] = M L² T⁻² (mass × length² × time⁻²).\nVolume has dimensions: [V] = L³.\nThus, energy density dimensions: [E/V] = M L² T⁻² / L³ = M L⁻¹ T⁻².\nIn base units: kg m⁻¹ s⁻².",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 1027,
+    "question": "A glass block of thickness 10cm is placed on an object. If an observer views the object vertically, the displacement of the object is",
+    "option": {
+      "a": "3.33cm",
+      "b": "5.00 cm",
+      "c": " 6.67 cm",
+      "d": "8.50 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "iven information:\nThickness of glass block, t = 10 cm\nRefractive index of glass (not given explicitly, but typically taken as 1.5 for such problems)\nViewing is vertical (normal incidence)\n\nSolution:\n\nStep 1: Apparent depth formula\nWhen viewing an object through a transparent medium, the apparent depth is given by:\nApparent depth = Real depth / Refractive index\nAssuming refractive index of glass, n = 1.5\n\nStep 2: Calculate apparent depth\nApparent depth = 10 cm / 1.5 = 6.6667 cm ≈ 6.67 cm\n\nStep 3: Calculate displacement\nDisplacement = Real depth – Apparent depth = 10 cm – 6.67 cm = 3.33 cm",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 296,
+    "question": "In the diagram given the hanging mass m2 is adjusted until m1 is on the verge of sliding. The coefficient of static",
+    "option": {
+      "a": "m₁/m₂",
+      "b": "m₁g/m₂",
+      "c": " m₂/m₁",
+      "d": "m₂g/m₁"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611541/ALOC-Questions/Physics/2018/2018_Q_17_z9ue8y.jpg",
+    "answer": "c",
+    "solution": "From the diagram:\n\nMass m₁ is on a horizontal surface\nMass m₂ hangs vertically over a pulley\nString connects m₁ and m₂\nSystem is on verge of sliding (limiting friction)\n\nAt the verge of sliding:\nFor m₁ (horizontal forces):\n\nTension in string (T) = Friction force (F)\nF = μN (limiting friction)\nNormal force: N = m₁g\nTherefore: T = μm₁g ... (1)\n\nFor m₂ (vertical forces):\n\nWeight of m₂ = Tension\nm₂g = T ... (2)\n\nEquating equations (1) and (2):\nμm₁g = m₂g\nSolving for coefficient of static friction (μ):\nμ = m₂g/(m₁g)\nμ = m₂/m₁",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

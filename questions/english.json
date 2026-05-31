@@ -17136,5 +17136,62 @@
     "questionNub": 18,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1614,
+    "question": "Efua was not in the good books of teachers at Forcados High School because",
+    "option": {
+      "a": "the students of Forcados did not like her",
+      "b": "she was expelled from her previous school",
+      "c": "she bribed the principal before she was admitted",
+      "d": "her admission into senior class was unusual"
+    },
+    "section": "<b>These questions are based on A.H. Mohammed's The Last Days at Forcados High School.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 2,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1337,
+    "question": "It is you that __________ to write the letter",
+    "option": {
+      "a": "is suppose",
+      "b": "is supposed",
+      "c": "are suppose",
+      "d": "are supposed"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "d",
+    "solution": "The law of proximity states that any subject closest to the verb element controls the verb form.\n\nThe sentence has a singular subject 'it' and a plural subject 'you', hence a plural verb is needed because 'you' is closer.\n\nSimilarly, 'supposed' is most appropriate because of the relative clause 'that'. This implies that supposed functions as an 'adjective' in this context which means 'intended'\n\nOption D is the correct answer.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 24,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1124,
+    "question": "From the novel, David thought Ifenne \nshould be involved in politics because he \nwanted him to ………",
+    "option": {
+      "a": " make a ‘name’ for posterity",
+      "b": " rig the election for someone",
+      "c": "take part in the election process",
+      "d": "extort money from the people"
+    },
+    "section": "<b>Questions 31 - 35 are based on Jerry Agada’s \nThe Successors.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 32,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

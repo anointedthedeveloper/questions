@@ -14318,5 +14318,21 @@
     "solution": "sinA/a = sinB/b = sinC/c\n⟹sin82<sup>0</sup>/43.2 = sin56<sup>0</sup>/AB\n⟹AB × sin82<sup>0</sup> = 43.2 × sin56<sup>0</sup>\n∴ AB = (43.2 × sin56<sup>0</sup>)/sin82<sup>0</sup>  = 36.2cm (to 3 s.f)",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 232,
+    "question": "Given:\nU = {Even numbers between 0 and 30}\nP = {Multiples of 6 between 0 and 30}\nQ = {Multiples of 4 between 0 and 30}\nFind (P∪Q)<sup>c</sup>",
+    "option": {
+      "a": "{2, 10, 14, 22, 26}",
+      "b": "{0, 10, 14, 22, 26}",
+      "c": "{2,4, 14, 18, 26}",
+      "d": "{0, 2, 6, 22, 26}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "U = {2,4,6,8,10,12,14,16,18,20,22,24,26,28,30}\nP = {6,12,18,24,30}\nQ = {4,8,12,16,20,24,28}\nP∪Q = {4,6,8,12,16,18,20,24,28,30}\n(P∪Q)c = {2,10,14,22,26}",
+    "examtype": "utme",
+    "examyear": "2003"
   }
 ]

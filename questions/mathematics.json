@@ -16334,5 +16334,21 @@
     "solution": "Let the positive integers be 1, 2, ,3, 4, .....n\n∴ a = 1, d = 1 and n = n\nSn = n/2(2a + (n-1)d)\n= n/2 (2 + n – 1)\n= 1/2n(n + 1)",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 512,
+    "question": "Find the mean deviation of 2, 4, 5, and 9",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "5",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546297/ALOC-Questions/Mathematics/2008/MATH_2008_Q41_SOLUTION_hoqtce.jpg",
+    "answer": "b",
+    "solution": "X = 20/4\n= 5\nmean deviation = 8/4 = 2",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

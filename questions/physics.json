@@ -10254,5 +10254,53 @@
     "solution": "\nGiven information:\nDC voltage that produces the same brightness, V_dc = 12 V\n\nSolution:\n\nStep 1: Condition for equal brightness\nFor a resistive load like a lamp, brightness depends on the power dissipated.\nEqual brightness means equal power delivered to the lamp.\n\nStep 2: Power comparison\nFor DC: Power P_dc = V_dc² / R\nFor AC: Power P_ac = V_rms² / R\n\nStep 3: Equate powers\nV_rms² / R = V_dc² / R\nV_rms = V_dc\n\nStep 4: Substitute value\nV_rms = 12 V",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 595,
+    "question": "If the rate of evaporation is y, and the rate of condensation is x, then, a vapour is saturated when",
+    "option": {
+      "a": " x > y",
+      "b": "x < y",
+      "c": "x = y",
+      "d": "x ≤ y"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A vapour is saturated when the rate of condensation (x) equals the rate of evaporation (y), establishing a dynamic equilibrium where there is no net change in the amount of vapour present.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 72,
+    "question": "A mass of 0.5kg is attached to one end of a helical spring and produces an extension of 2.5cm. The mass now set into vertically oscillation of amplitude 10mm. The period of oscillation is: (g = 10m/s2) ",
+    "option": {
+      "a": "0.33s ",
+      "b": "100s ",
+      "c": "200s ",
+      "d": "280s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 1105,
+    "question": "In a compound microscope, the objective and the eye piece focal lengths are",
+    "option": {
+      "a": "At infinity",
+      "b": "Long",
+      "c": "Short",
+      "d": "The same"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A compound microscope uses two convex lenses: an objective lens (near the object) and an eyepiece lens (near the eye). To achieve high magnification, both lenses need to have short focal lengths.",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

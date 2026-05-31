@@ -8782,5 +8782,37 @@
     "solution": "Understanding neutral points in magnetism:\nA neutral point is a location where the magnetic field strength is zero because two opposing magnetic fields cancel each other out.\nFrom the diagram:\nThe diagram shows what appears to be magnetic field lines from two bar magnets placed with like poles facing each other (N-N or S-S arrangement based on the concentric circles pattern).\nCharacteristics of neutral point:\n\nLocated between two like poles\nMagnetic fields are equal in magnitude but opposite in direction\nNet magnetic field = zero\n\nAnalysis:\n\nPoint X appears to be positioned between the two magnetic sources where the fields would oppose and cancel each other\nPoints R, S, and P are at other locations where fields wouldn't completely cancel\n\n\nThe neutral point is at X, where the opposing magnetic fields from the two sources cancel each other out, resulting in zero net magnetic field.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 589,
+    "question": "In voltage measurement, the potentiometer is preferred to voltmeter because it",
+    "option": {
+      "a": "has a wider range",
+      "b": "consumes negligible current",
+      "c": "is bulky",
+      "d": " responds faster than voltmeter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A potentiometer is preferred over a voltmeter for voltage measurements because it does not draw significant current from the circuit being measured.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 101,
+    "question": "An object is said to be in simple harmonic motion (SHM) if  ",
+    "option": {
+      "a": "the acceleration is directly proportional to the displacement and is directed towards the equilibrium position of the object. ",
+      "b": "the acceleration is inversely proportional to the displacement and directed toward the equilibrium position  of the object  ",
+      "c": "the displacement is directly proportional  to the momentum  and directed toward the equilibrium position of  the object ",
+      "d": "the momentum is directly proportional to the displacement and directed toward the equilibrium position of the object."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
   }
 ]

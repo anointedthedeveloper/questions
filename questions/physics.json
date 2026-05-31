@@ -4158,5 +4158,69 @@
     "solution": "Given information:\nMass of object, m = 8 kg (interpreted from “weight 8 kg” as mass)\nGravity on planet, gₚ = (1/3) gₑ, where gₑ is gravity on earth.\nTake gₑ = 10 m s⁻² (commonly used for such calculations).\n\nSolution:\n\nStep 1: Weight on earth\nWₑ = m × gₑ = 8 kg × 10 m s⁻² = 80 N\n\nStep 2: Weight on planet\nWₚ = m × gₚ = m × (gₑ/3) = 80 N / 3 ≈ 26.67 N",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 470,
+    "question": "Which of the following liquid is a poor conductor of electricity?",
+    "option": {
+      "a": "Distilled water",
+      "b": "Tap water",
+      "c": "Sea water",
+      "d": "Drinking water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Distilled water is free of salts and is a poor conductor of electricity.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 316,
+    "question": "An object moves in a circular path of radius 0.5m with a speed of 1ms⁻¹. What is its angular velocity?",
+    "option": {
+      "a": "8 rads⁻¹",
+      "b": "4 rads⁻¹",
+      "c": "1 rads⁻¹",
+      "d": "2 rads⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nRadius (r) = 0.5 m\nLinear speed (v) = 1 m/s\nAngular velocity (ω) = ?\n\nFormula relating linear speed and angular velocity:\nv = rω\nRearranging to find ω:\nω = v/r\nSubstituting values:\nω = 1/0.5\nω = 2 rad/s",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 325,
+    "question": "A 20kg mass is to be pulled up a slope inclined at 30° to the horizontal. If efficiency of the plane is 75%, the force required to pull the load up the plane is [g = 10ms⁻²]",
+    "option": {
+      "a": "87N",
+      "b": "73.5N",
+      "c": "133.3N",
+      "d": "533.2N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass (m) = 20 kg\nAngle of inclination (θ) = 30°\nEfficiency = 75% = 0.75\ng = 10 m/s²\nEffort (Force) = ?\n\nStep 1: Calculate Load (Total weight)\nLoad = mg\nLoad = 20 × 10 = 200 N\nStep 2: Calculate Velocity Ratio (V.R)\nFor an inclined plane:\nV.R = 1/sin θ = 1/sin 30° = 1/0.5 = 2\nStep 3: Calculate Mechanical Advantage (M.A)\nEfficiency = (M.A / V.R) × 100%\n75 = (M.A / 2) × 100\n75/100 = M.A / 2\nM.A = (75 × 2) / 100\nM.A = 150 / 100 = 1.5\nStep 4: Calculate Force (Effort)\nM.A = Load / Force\n1.5 = 200 / Force\nForce = 200 / 1.5\nForce = 133.3 N",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 760,
+    "question": "I. Increase the melting point of the liquid.\nII. Increase the boiling point of the liquid.\nIII. Decrease the melting point of the liquid.\nIV. Decrease the boiling point of the liquid.\n\n\nwhich of the statement above about the effect on increase in pressure in a liquid are correct?",
+    "option": {
+      "a": " I and II only",
+      "b": "I and III only",
+      "c": " II and III only",
+      "d": "III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Increase in pressure generally raises the boiling point but but lowers the melting point. II and III",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

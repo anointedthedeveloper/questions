@@ -13694,5 +13694,37 @@
     "solution": "Locus of point P equidistant from y - 5 = 0 and y - 3 = 0 is y = 4 i.e y - 4 = 0",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 1046,
+    "question": "Find the value of x if √2/(x+√2)= 1/√(x−2)\n ",
+    "option": {
+      "a": "3√2 + 4",
+      "b": "3 - 2√2 ",
+      "c": "4 + 2√2 ",
+      "d": "3√2 + 7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "√2/(x + 2) = x - 1/√2\nx√2 (x - √2) = x + √2 (cross multiply)\n\nx√2 - 2 = x + √2 \n\n= x√2 - x \n\n= 2 + √2\nx (√2 - 1) = 2 + √2\n= (2+√2)/(√2 − 1) × (√2+1)/(√2 + 1)\nx = (2√2 + 2 + 2 + √2)/(2 − 1)\n \n\n= 3√2 + 4 ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 335,
+    "question": "Find the range of values of x for which 7x - 3 > 25 + 3x",
+    "option": {
+      "a": "x >7",
+      "b": "x<7",
+      "c": "x>-7",
+      "d": " x<-7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "7x - 3 > 25 + 3x\n7x - 3x > 25 + 3\n4x > 28\nx > 28/4\nx > 7",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

@@ -16286,5 +16286,21 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 445,
+    "question": "Find y, if √12-√147+y√3=0",
+    "option": {
+      "a": "5",
+      "b": "1",
+      "c": "7",
+      "d": "3"
+    },
+    "section": "SOLUTION <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msqrt>\n    <mn>12</mn>\n  </msqrt>\n  <mo>&#x2212;<!-- − --></mo>\n  <msqrt>\n    <mn>147</mn>\n  </msqrt>\n  <mo>+</mo>\n  <mi>y</mi>\n  <msqrt>\n    <mn>3</mn>\n  </msqrt>\n  <mo>=</mo>\n  <mn>0</mn>\n  <mspace linebreak=\"newline\" />\n  <msqrt>\n    <mn>4</mn>\n    <mo>&#x00D7;<!-- × --></mo>\n    <mn>3</mn>\n  </msqrt>\n  <mo>&#x2212;<!-- − --></mo>\n  <msqrt>\n    <mn>49</mn>\n    <mo>&#x00D7;<!-- × --></mo>\n    <mn>3</mn>\n  </msqrt>\n  <mo>+</mo>\n  <mi>y</mi>\n  <msqrt>\n    <mn>3</mn>\n  </msqrt>\n  <mo>=</mo>\n  <mn>0</mn>\n  <mspace linebreak=\"newline\" />\n  <mn>2</mn>\n  <msqrt>\n    <mn>3</mn>\n  </msqrt>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>7</mn>\n  <msqrt>\n    <mn>3</mn>\n  </msqrt>\n  <mo>+</mo>\n  <mi>y</mi>\n  <msqrt>\n    <mn>3</mn>\n  </msqrt>\n  <mo>=</mo>\n  <mn>0</mn>\n  <mspace linebreak=\"newline\" />\n  <mi>y</mi>\n  <msqrt>\n    <mn>3</mn>\n  </msqrt>\n  <mo>=</mo>\n  <mn>7</mn>\n  <msqrt>\n    <mn>3</mn>\n  </msqrt>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>2</mn>\n  <msqrt>\n    <mn>3</mn>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mi>y</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n    </mrow>\n    <msqrt>\n      <mn>3</mn>\n    </msqrt>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>y</mi>\n  <mo>=</mo>\n  <mn>5</mn>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "√12-√147+y√3=0√(4×3)-√(49×3)+y√3=02√3-7√3+y√3=0y√3=7√3-2√3 y=(5√3)/√3 y=5",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

@@ -10158,5 +10158,53 @@
     "solution": "Ripple in a power supply is fundamentally caused by using an alternating current source, which produces a pulsating DC output after rectification that retains some AC variation.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 104,
+    "question": " A particle is in equilibrium under the action of three forces. One force is 40N towards the west and another is 30N towards the south. What is the third force acting on the body?   ",
+    "option": {
+      "a": "40N, N530E  ",
+      "b": "50N, N370E   ",
+      "c": "50N, N530E     ",
+      "d": "40N, N370E"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 994,
+    "question": "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is",
+    "option": {
+      "a": " 14.4 A",
+      "b": "1.0 A",
+      "c": " 3.2 A",
+      "d": "9.6 A"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774439368/ALOC-Questions/Physics/2011/PHYSICS_2011_Q_45_x3idg8.png",
+    "answer": "b",
+    "solution": "\nFrom the circuit diagram:\n\nThree resistors in parallel: 2Ω, 4Ω, and 12Ω\nVoltage across combination = 12V\nCurrent through 12Ω resistor = ?\n\nKey principle for parallel circuits:\nIn a parallel circuit, the voltage across each resistor is the same (equal to the source voltage).\nVoltage across 12Ω resistor:\nV = 12V (same as battery voltage)\nUsing Ohm's Law for the 12Ω resistor:\nI = V/R\nCalculating current:\nI₁₂Ω = 12/12\nI₁₂Ω = 1.0 A",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 974,
+    "question": "When a red rose flower is observed in blue light, what colour does the observer see?",
+    "option": {
+      "a": "Red",
+      "b": "Blue",
+      "c": "Black (or very dark)",
+      "d": "Purple"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a red rose is observed in blue light, it appears black or very dark because:\n\nThe rose only reflects red light\nBlue light (the only light present) is absorbed by the red pigment\nWith no light being reflected, the rose appears black\n\nGeneral principle: An object appears the color(s) it reflects. In monochromatic light, if an object doesn't reflect that specific color, it appears black.",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

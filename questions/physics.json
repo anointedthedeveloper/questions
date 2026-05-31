@@ -158,5 +158,85 @@
     "solution": "Metals are good conductors due to the presence of free electrons.",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 245,
+    "question": "Calculate the height of the image formed by a pinhole camera of length 12cm used to photograph an object 60cm away from the hole and 70cm high",
+    "option": {
+      "a": "10 cm",
+      "b": "16 cm",
+      "c": "5 cm",
+      "d": "14 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nLength of pinhole camera (image distance, v) = 12 cm\nObject distance (u) = 60 cm\nHeight of object (hₒ) = 70 cm\nHeight of image (hᵢ) = ?\n\nPrinciple:\nIn a pinhole camera, similar triangles are formed, so:\nhᵢ/hₒ = v/u\nRearranging:\nhᵢ = (hₒ × v)/u\nSubstituting values:\nhᵢ = (70 × 12)/60\nhᵢ = 840/60\nhᵢ = 14 cm",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 1078,
+    "question": "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV",
+    "option": {
+      "a": " -9.20eV",
+      "b": " -8.20eV",
+      "c": " -2.75eV",
+      "d": " -1.75eV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nGround state energy, E₁ = -24.8 eV\nLevel number, n = 3\n\nSolution:\n\nStep 1: Energy level formula for hydrogen-like atoms\nFor an atom with a single electron, the energy of the nth level is given by:\nEₙ = E₁ / n²\n\nStep 2: Substitute values\nE₃ = -24.8 eV / 3² = -24.8 / 9 = -2.7556 eV ≈ -2.75 eV",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 206,
+    "question": "Calculate the temperature of 6 moles of an ideal gas at a pressure of 7.6 × 10⁶ Nm⁻² with a volume of 10⁻³ m³. [R = 8.3 J mol⁻¹ K⁻¹]",
+    "option": {
+      "a": " 201°C",
+      "b": "126°C",
+      "c": "153°C",
+      "d": "185°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nNumber of moles (n) = 6 moles\nPressure (P) = 7.6 × 10⁶ Nm⁻²\nVolume (V) = 10⁻³ m³\nGas constant (R) = 8.3 J mol⁻¹ K⁻¹\n\nUsing the Ideal Gas Equation:\nPV = nRT\nRearranging to find T:\nT = PV/(nR)\nSubstituting values:\nT = (7.6 × 10⁶ × 10⁻³)/(6 × 8.3)\nT = 7,600/49.8\nT = 152.6°C ≈ 153°C",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 292,
+    "question": "The electrochemical equivalent of silver is 0.0012g/C. If 36.0g of silver is to be deposited by electrolysis on a surface by passing a steady current for 5mins, the current must be?",
+    "option": {
+      "a": "6000A",
+      "b": "100A",
+      "c": "10A",
+      "d": "1A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nSolution:\nGiven information:\n\nElectrochemical equivalent (Z) = 0.0012 g/C\nMass of silver (m) = 36.0 g\nTime (t) = 5 minutes = 5 × 60 = 300 seconds\nCurrent (I) = ?\n\nUsing Faraday's Law of Electrolysis:\nm = ZIt\nRearranging to find current:\nI = m/(Zt)\nSubstituting values:\nI = 36.0/(0.0012 × 300)\nI = 36.0/0.36\nI = 100 A",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 555,
+    "question": "When a bus is accelerating, it must be ",
+    "option": {
+      "a": "changing its speed",
+      "b": "changing its velocity",
+      "c": " changing its position",
+      "d": "changing its direction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Acceleration is defined as the rate of change of velocity. This means a bus can accelerate by changing its speed, direction, or both. However, the most general definition of acceleration involves a change in velocity.",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

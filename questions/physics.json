@@ -12702,5 +12702,37 @@
     "solution": "Given information:\nHeater power P = 1000 W\nTime t = 300 s\nInitial temperature = 30 °C\nFinal temperature = 100 °C\nTemperature change Δθ = 70 K\nSpecific heat capacity c = 4200 J kg⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Calculate electrical energy supplied\nEnergy E = P × t = 1000 W × 300 s = 300 000 J\n\nStep 2: Relate energy to heat absorbed by water\nE = m × c × Δθ\n\nStep 3: Solve for mass m\nm = E / (c × Δθ) = 300 000 / (4200 × 70)\n\nStep 4: Compute denominator\n4200 × 70 = 294 000\n\nStep 5: Compute mass\nm = 300 000 / 294 000 ≈ 1.0204 kg",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 308,
+    "question": "A positively charged rod X is brought near an uncharged metal sphere Y and is then touched by a finger with X still in place. When the finger is removed, the result is that Y has",
+    "option": {
+      "a": " no charge and a zero potential",
+      "b": " no charge and a zero potential",
+      "c": " a negative charge and a positive potential",
+      "d": "a negative charge and a negative potential"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nSolution:\nStep-by-step process:\nStep 1: Positively charged rod X is brought near sphere Y\n\nRod X (positive) repels positive charges in Y\nPositive charges move away from X (to far side)\nNegative charges attracted toward X (near side)\nY is polarized but still neutral overall\n\nStep 2: Sphere Y is touched by finger (grounded) with X still in place\n\nFinger provides path to ground (infinite charge reservoir)\nPositive charges repelled by X escape through finger to ground\nNegative charges remain attracted to near side by rod X\nY now has excess negative charge\n\nStep 3: Finger is removed, then rod X is removed\n\nY retains the negative charge\nWhen X is finally removed, negative charges distribute uniformly over Y\nY has negative charge and therefore negative potential",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 208,
+    "question": "What will happen to the pressure of a gas if its temperature is reduced to -273°C?",
+    "option": {
+      "a": "It will decrease",
+      "b": "it will drop to zero",
+      "c": " It will increase",
+      "d": " It will remain constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "At -273°C (absolute zero), the pressure of an ideal gas becomes zero because all molecular motion ceases.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

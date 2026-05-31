@@ -15310,5 +15310,21 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 643,
+    "question": "Evaluate ∣∣∣∣42−1231−1−13∣∣∣∣",
+    "option": {
+      "a": "25",
+      "b": "45",
+      "c": "15",
+      "d": "55"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>|</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>4</mn>\n        </mtd>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mn>3</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mtd>\n        <mtd>\n          <mn>1</mn>\n        </mtd>\n        <mtd>\n          <mn>3</mn>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>|</mo>\n  </mrow>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129601/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q22_v62583.jpg",
+    "answer": "a",
+    "solution": "4[(3 x 3) - (-1 x 1)] -2 [(2x 3) - (-1 x -1)] -1 [(2 x 1) - (-1 x 3)]\n\n= 4[9 + 1] -2 [6 - 1] -1 [2 + 3]\n\n= 4(10) - 2(5) - 1(5)\n\n= 40 - 10 - 5\n\n= 25",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

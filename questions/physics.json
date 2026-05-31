@@ -7886,5 +7886,69 @@
     "solution": "Given information:\n\nMass, m = 2 kg\nRadius (rope length), r = 1.2 m\nFrequency, f = 120 rev/min\nTension, T = ?\n\nSolution:\nStep 1: Convert frequency to rev/s\nf = 120 rev/min = 120/60 rev/s\nf = 2 rev/s = 2 Hz\nStep 2: Calculate angular velocity\nω = 2πf\nω = 2 × π × 2\nω = 4π rad/s\nω = 12.566 rad/s\nStep 3: Calculate centripetal force (tension)\nFor horizontal circular motion, tension provides the centripetal force:\nT = mω²r\nT = 2 × (12.566)² × 1.2\nT = 2 × 157.914 × 1.2\nT = 2 × 189.497\nT = 378.99 N\nT ≈ 379 N",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 120,
+    "question": "A car accelerates at 5.0m/s2 for 6s, the travels at the speed attained for 20s, and comes to rest after another 4.0s. Calculate the average velocity of the car during the motion.",
+    "option": {
+      "a": "25.0m/s",
+      "b": "20.0m/s ",
+      "c": "1.25m/s ",
+      "d": "0.16m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 549,
+    "question": "Which of the following liquids has the highest surface tension?",
+    "option": {
+      "a": " Soapy water",
+      "b": "Water",
+      "c": "Mercury",
+      "d": "Oil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Surface tension is the force that acts on the surface of a liquid, tending to minimize the surface area. It is caused by the cohesive forces between the molecules of the liquid. The stronger the cohesive forces, the higher the surface tension.\n\nMercury has the highest surface tension of all the liquids listed. This is because the atoms of mercury are very close together, and they have a strong attraction for each other. This strong cohesive force results in a high surface tension.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 108,
+    "question": "Which of the following is not true about a chemical cell?   ",
+    "option": {
+      "a": "in primary cells the process through which current is generated is irreversible  ",
+      "b": "secondary cells can be recharged after they run down by passing a current into the cell in the  reverse direction ",
+      "c": "positive ions are attracted to the positive electrode where they become neutralized by acquiring electrons  ",
+      "d": "primary cells  can be recharged"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 315,
+    "question": "In homes, electrical appliances and lamps are connected in parallel because",
+    "option": {
+      "a": "Each appliance receives the full mains voltage and can be switched on/off independently",
+      "b": " less voltage will be used",
+      "c": "parallel connection does not heat up the wires",
+      "d": "series connection uses high voltage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The PRIMARY reasons electrical appliances are connected in parallel in homes are:\n1. Full voltage to each device\n\nEvery appliance gets the complete mains voltage (e.g., 240V or 120V)\nEnsures proper operation at rated specifications\n\n2. Independent operation\n\nEach device has its own separate path to the power source\nSwitching one device on/off doesn't affect others\nCan use different combinations of appliances simultaneously\n\n3. Reliability\n\nIf one device fails (breaks or burns out), others continue working\nOne broken bulb doesn't turn off all lights\n\n4. Flexibility\n\nCan add or remove appliances without affecting others\nDifferent power requirements easily accommodated",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

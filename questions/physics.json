@@ -6990,5 +6990,69 @@
     "solution": "The number of photo-electrons ejected per second depends on the intensity of the beam.",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 684,
+    "question": "In the figure above, the coefficient of static friction is 0.5. If the tension in the string is T, the acceleration of the system in motion is",
+    "option": {
+      "a": "5 ms⁻²",
+      "b": "15 ms⁻²",
+      "c": "3 ms⁻²",
+      "d": "9 ms⁻²"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296692/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_35_esiic3.png",
+    "answer": "a",
+    "solution": "Step 1: Identify forces on hanging mass (6 kg)\nWeight downward: W = 6g = 60 N\nTension upward: T\nEquation: 6g - T = 6a\nStep 2: Identify forces on block (3 kg)\nTension rightward: T\nFriction leftward: f = μN = μ(3g) = 0.5 × 30 = 15 N\nNormal force: N = 3g = 30 N\nEquation: T - f = 3a\nT - 15 = 3a\nStep 3: Solve the system of equations\nFrom equation 1: 60 - T = 6a\nFrom equation 2: T - 15 = 3a\nAdding both equations:\n60 - T + T - 15 = 6a + 3a\n45 = 9a\nStep 4: Calculate acceleration\na = 45/9\na = 5 ms⁻²",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 951,
+    "question": "Two balls X and Y weighing 5 g and 50 kg respectively were thrown up vertically at the same time with a velocity of 100 ms⁻¹. How will their positions be one second later?",
+    "option": {
+      "a": " X and Y will be 500 m from each other",
+      "b": "Y will be 500 m ahead of X",
+      "c": " X will be 500 m ahead of Y",
+      "d": " X and Y both be 500 m from the point of throw"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using v² = u² - 2gs at maximum height (v = 0):\n\n0 = 100² - 2(10)s\ns = 10,000/20 = 500 m",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 340,
+    "question": "Electrons were discovered by",
+    "option": {
+      "a": "Dalton",
+      "b": "James Charwick",
+      "c": "J.J. Thompson",
+      "d": "Niels Bohr"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Electron was discovered J.J Thompson in 1879",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 130,
+    "question": "If the volume of a gas is recorded as 76cm³ at a temperature of 27°C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P?",
+    "option": {
+      "a": " 36.2cm³",
+      "b": "25.7cm³",
+      "c": "72.8cm³",
+      "d": "24.3cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nInitial volume (V₁) = 76 cm³\nInitial temperature (T₁) = 27°C = 27 + 273 = 300 K\nInitial pressure (P₁) = 800 mmHg\nFinal conditions: S.T.P (Standard Temperature and Pressure)\n\nFinal temperature (T₂) = 0°C = 273 K\nFinal pressure (P₂) = 760 mmHg\n\n\nFinal volume (V₂) = ?\n\nUsing Combined Gas Law:\n(P₁V₁)/T₁ = (P₂V₂)/T₂\nRearranging to find V₂:\nV₂ = (P₁V₁T₂)/(T₁P₂)\nSubstituting values:\nV₂ = (800 × 76 × 273)/(300 × 760)\nV₂ = (16,588,800)/(228,000)\nV₂ = 72.76 cm³\nV₂ ≈ 72.8 cm³\nAnswer: C. 72.8 cm³",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

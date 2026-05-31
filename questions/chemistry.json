@@ -11822,5 +11822,21 @@
     "solution": "Using the general gas law: P₁V₁/T₁ = P₂V₂/T₂. T₁ = 27 + 273 = 300 K, V₁ = 200 cm³, P₂ = 2P₁, V₂ = 150 cm³. T₂ = T₁ × (P₂ × V₂)/(P₁ × V₁) = 300 × (2 × 150)/200 = 300 × 1.5 = 450 K. Increase in temperature = 450 - 300 = 150 K = 150°C.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 470,
+    "question": "Which of the following statements is correct about the periodic table?",
+    "option": {
+      "a": "Elements in the same period have the same number of valence electrons",
+      "b": "The valence electrons of the elements in the same period increase progressively across the period",
+      "c": "Elements in the same group have the same number of electron shells",
+      "d": "The non-metallic properties of the elements tend to decrease across each period"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Across a period, the number of valence electrons increases progressively from left to right (e.g., Period 3: Na=1, Mg=2, Al=3, Si=4, P=5, S=6, Cl=7, Ar=8). Elements in the same group have the same valence electrons (not shells); elements in the same period have the same number of electron shells. Non-metallic properties increase (not decrease) across a period.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

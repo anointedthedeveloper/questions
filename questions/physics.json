@@ -10446,5 +10446,37 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 783,
+    "question": "The instantaneous value of the induced e.m.f as a function of time is ε = ε₀ sin ωt where ε₀ is the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is",
+    "option": {
+      "a": "0.00",
+      "b": "ε₀/4",
+      "c": " ε₀/2",
+      "d": " ε₀"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nε = ε₀ sin(ωt)\nPeriod T = 2π/ω\nTime t = T/4\n\nSolution:\n\nStep 1: Find ωt at t = T/4\nωt = ω × (T/4) = ω × (2π/(4ω)) = π/2\n\nStep 2: Evaluate sin(π/2)\nsin(π/2) = 1\n\nStep 3: Substitute into equation\nε = ε₀ × 1 = ε₀",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 6,
+    "question": "The ice and steam point of a thermometer are 20mm and 100mm respectively: A temperature of 75oC correspond to Ymm on the thermometer. What is Y? ",
+    "option": {
+      "a": "100mm ",
+      "b": "70mm ",
+      "c": "80mm ",
+      "d": "60mm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
   }
 ]

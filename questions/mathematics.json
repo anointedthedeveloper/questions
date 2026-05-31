@@ -16398,5 +16398,21 @@
     "solution": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 154,
+    "question": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. Find the square of the mode.",
+    "option": {
+      "a": "49",
+      "b": "121",
+      "c": "25",
+      "d": "64"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Mode = score with highest frequency = 11.\nSquare of 11 = 121",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

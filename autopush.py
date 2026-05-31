@@ -15,12 +15,18 @@ def run(cmd):
     return result.stdout.strip(), result.stderr.strip()
 
 def pull():
+    # stash any local changes before pulling to avoid conflicts
+    run("git stash")
     out, err = run("git pull origin master --rebase")
-    if "error" in err.lower() or "conflict" in out.lower():
-        print(f"  pull issue: {err or out}")
-    elif "Already up to date" in out:
-        pass  # silent, no new changes
-    else:
+    # restore stashed changes after pull
+    run("git stash pop")
+    if "conflict" in out.lower() or "conflict" in err.lower():
+        print(f"  pull conflict, resetting to remote...")
+        run("git rebase --abort")
+        run("git reset --hard origin/master")
+    elif "error" in err.lower():
+        print(f"  pull error: {err}")
+    elif "Already up to date" not in out:
         print(f"  pulled: {out}")
 
 def push():

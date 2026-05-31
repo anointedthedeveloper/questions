@@ -15374,5 +15374,21 @@
     "solution": "Workers earning more than N700.00 = 4 + 6 + 2 = 12",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 1060,
+    "question": "What is the rate of change of the volume V of a hemisphere with respect to its radius r when r = 2?\n",
+    "option": {
+      "a": "8π",
+      "b": "16π",
+      "c": "2π",
+      "d": "4π"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "V=2/3 πr<sup>3</sup>\ndV/dr = 2πr<sup>2</sup>\ndV/dr(r = 2) = 2π(2)<sup>2</sup>\n= 8π",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

@@ -11278,5 +11278,21 @@
     "solution": "NH₃ has 3 bonding pairs and 1 lone pair of electrons around the nitrogen. The lone pair repels the bonding pairs more strongly, compressing the H-N-H bond angle to ~107°. This gives a trigonal pyramidal shape (not tetrahedral, which is the electron geometry).",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 456,
+    "question": "According to Charles' law, the volume of a gas becomes zero at",
+    "option": {
+      "a": "0°C",
+      "b": "-100°C",
+      "c": "-273°C",
+      "d": "-373°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Charles' Law states V ∝ T (in Kelvin). Extrapolating the V-T graph to V = 0 gives T = 0 K, which corresponds to -273°C (absolute zero). At this theoretical temperature, an ideal gas would have zero volume.",
+    "examtype": "utme",
+    "examyear": "2018"
   }
 ]

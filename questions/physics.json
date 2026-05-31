@@ -8062,5 +8062,69 @@
     "solution": "Given information:\nInitial velocity, u = 30 m/s\nDistance to traffic light, s = 50 m\nFinal velocity at light, v = 0 m/s\n\nStep 1: Use kinematic equation for constant acceleration\nv² = u² + 2 a s\n\nStep 2: Substitute known values\n0² = 30² + 2 × a × 50\n0 = 900 + 100 a\n\nStep 3: Solve for deceleration a\n100 a = –900\na = –9 m/s²\n\nThe magnitude of deceleration is 9 m/s².\n",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 861,
+    "question": "At 4°C, the volume of a fixed mass of water is?",
+    "option": {
+      "a": "constant",
+      "b": "minimum",
+      "c": "maximum",
+      "d": "zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Recall the property of water at 4°C\nWater has its maximum density at 4°C. For a fixed mass, density and volume are inversely related (ρ = m/V). Therefore, when density is maximum, volume is minimum.\n\nStep 2: At 4°C, density of water is maximum → volume is minimum.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1076,
+    "question": "Induced emfs are best explained using",
+    "option": {
+      "a": "Ohm's law",
+      "b": " Faraday's law",
+      "c": "Colomb's law",
+      "d": " Lenz's law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Induced emfs are best explained using Faraday's law.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 87,
+    "question": "A transformer is connected to a 240 V supply. The primary coil has 40 turns, and the secondary is found to be 960V. What is the ratio of the number of turns of the primary coil to the number of turns of the secondary coil? ",
+    "option": {
+      "a": "4:01",
+      "b": "1:04",
+      "c": "1:06",
+      "d": "6:01"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 683,
+    "question": "\nThe value of F in the figure above when in equilibrium is",
+    "option": {
+      "a": "10N",
+      "b": "12N",
+      "c": " 20N",
+      "d": "27N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296660/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_34_sfvkrd.png",
+    "answer": "a",
+    "solution": "For equilibrium, F must be equal in magnitude to the resultant of the 10 N and 17 N forces (but opposite in direction).\n\nUsing the cosine rule:\n\nR² = 10² + 17² + 2(10)(17)cos150°\n\ncos150° = −0.866\n\nR² = 100 + 289 − 294.4\nR² ≈ 94.6\nR ≈ 9.7 N ≈ 10 N",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

@@ -12030,5 +12030,21 @@
     "solution": "Compound V is an ester (RCOOR'). Esters are formed by acid-catalyzed esterification: RCOOH (carboxylic acid = IV) + ROH (alcohol = I) → RCOOR' + H₂O. Therefore compounds I and IV combine to produce compound V.",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 432,
+    "question": "The alkyl group is represented by the general formula",
+    "option": {
+      "a": "CₙH₂ₙ",
+      "b": "CₙH₂ₙ - 2",
+      "c": "CₙH₂ₙ + 1",
+      "d": "CₙH₂ₙ + 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An alkyl group is derived from an alkane by removing one hydrogen atom. Alkanes have the formula CₙH₂ₙ₊₂, so removing one H gives the alkyl group CₙH₂ₙ₊₁. Examples: methyl (CH₃, n=1), ethyl (C₂H₅, n=2), propyl (C₃H₇, n=3).",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

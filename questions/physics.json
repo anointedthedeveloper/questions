@@ -11758,5 +11758,85 @@
     "solution": "The lead-acid accumulator uses tetraoxosulphate (VI) acid (sulfuric acid, H₂SO₄) as the electrolyte.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 404,
+    "question": "A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms -1, how much closer is the ship to the cliff?",
+    "option": {
+      "a": "10m",
+      "b": "350m",
+      "c": "175m",
+      "d": "125m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Difference in time = 1 sec\n\necho time = 1 ÷ 2 = 0.5 sec\n\nDifference of cliff from ship = 0.5 x 250\n\n= 125m",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 644,
+    "question": "Metal rods of length 20m each are laid end to end to form a bridge at 25°C. What gap will be provided between consecutive rails for the bridge to withstand 75°C? [Linear expansivity of the material = 2.0 × 10⁻⁵K⁻¹]",
+    "option": {
+      "a": "0.20m",
+      "b": "0.22m",
+      "c": "0.25m",
+      "d": "0.02m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Original length, L₀ = 20 m\nInitial temperature, T₁ = 25°C\nFinal temperature, T₂ = 75°C\nLinear expansivity, α = 2.0 × 10⁻⁵ K⁻¹\nGap required = ?\n\nSolution:\nStep 1: Calculate temperature change\nΔT = T₂ - T₁\nΔT = 75 - 25\nΔT = 50°C = 50 K\nStep 2: Apply linear expansion formula\nFormula: ΔL = αL₀ΔT\nWhere:\n\nΔL = change in length (expansion)\nα = linear expansivity\nL₀ = original length\nΔT = temperature change\n\nStep 3: Substitute values\nΔL = 2.0 × 10⁻⁵ × 20 × 50\nΔL = 2.0 × 10⁻⁵ × 1000\nΔL = 2.0 × 10⁻²\nΔL = 0.02 m\nStep 4: Interpretation\nThe gap must accommodate the expansion of the metal rod when temperature increases from 25°C to 75°C.\nGap required = 0.02 m",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 74,
+    "question": "A 0.60kg rubber stopper is whirled in a horizontal circle of 0.80m radius at a rate of 3.0 revolutions per second. What is the tension in the string? ",
+    "option": {
+      "a": "14N ",
+      "b": "80N ",
+      "c": "170N ",
+      "d": "24N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 940,
+    "question": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow.",
+    "option": {
+      "a": " 5 A",
+      "b": " 4 A",
+      "c": "3 A",
+      "d": "2 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "I = E/(R+r)\n= 12/6 = 2A",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 116,
+    "question": "rectangular block measures 40cm x 25cm and made of material of density 7800kg/m3. Calculate the pressure the block exerts on the floor when it stands on the smallest of its surfaces ",
+    "option": {
+      "a": "3.12 x 103N/m2 ",
+      "b": "3.90 x 103N/m2 ",
+      "c": "1.9 x 104N/m2 ",
+      "d": "3.12 x 104N/m2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   }
 ]

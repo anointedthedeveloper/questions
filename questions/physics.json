@@ -1342,5 +1342,85 @@
     "solution": "Neutral Equilibrium: If the body neither returns to its original position nor increases its displacement further, it will simply adopt its new position.\n\nExamples of neutral equilibrium\n\nBall moving on the ground.\nMotion of sphere.\nA roller.\nA pencil lying horizontally.\nAn egg lying horizontally on a flat surface.",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 263,
+    "question": "It is known that a neutron exists in a light atomic nucleus\nWhich of the following also exists in the nucleus?",
+    "option": {
+      "a": "An electron",
+      "b": "A β - particle",
+      "c": " β - particle",
+      "d": "proton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Protons exist in the atomic nucleus along with neutrons. Together they form the nucleus, while electrons orbit outside.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 718,
+    "question": "The motion of smoke particles from a chimney is typical of?",
+    "option": {
+      "a": " random motion",
+      "b": " circular motion",
+      "c": "rotational motion",
+      "d": "oscillatory motion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Smoke particles move chaotically and unpredictablely due to their collisions with air molecules, which characterizes random motion.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 774,
+    "question": "The figure above shows 4 forces 3N, 10N, 3√3N and 6N acting on a particle P. The resultant of the four forces is",
+    "option": {
+      "a": "5N",
+      "b": "5√3N",
+      "c": " 10N",
+      "d": "10√3N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431395/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_25_vy4f8g.png",
+    "answer": "c",
+    "solution": "Horizontal components:\n\n3N (right): +3N\n10N at 30°: +10 cos(30°) = +5√3N\n3√3N (up): 0\n6N at 60° below left: -6 cos(60°) = -3N\n\nΣF_x = 3 + 5√3 + 0 - 3 = 5√3N\nVertical components (↑ positive):\n\n3N: 0\n10N at 30°: +10 sin(30°) = +5N\n3√3N (up): +3√3N\n6N at 60° below: -6 sin(60°) = -6 × (√3/2) = -3√3N\n\nΣF_y = 0 + 5 + 3√3 - 3√3 = 5N\nStep 2: Calculate resultant\nR = √[(ΣF_x)² + (ΣF_y)²]\nR = √[(5√3)² + (5)²]\nR = √[75 + 25]\nR = √100\nR = 10N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 681,
+    "question": "The resistance of a piece of wire of length 20 m and cross‑sectional area 8 × 10⁻⁶ m² is?\n[Resistivity of the wire = 4 × 10⁻⁷ Ω·m]",
+    "option": {
+      "a": "5.0 Ω",
+      "b": "0.5 Ω",
+      "c": "10.0 Ω",
+      "d": "1.0 Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nLength, L = 20 m\nCross‑sectional area, A = 8 × 10⁻⁶ m²\nResistivity, ρ = 4 × 10⁻⁷ Ω·m\n\nStep 1: Formula for resistance\nR = ρL / A\n\nStep 2: Substitute values\nR = (4 × 10⁻⁷ Ω·m × 20 m) / (8 × 10⁻⁶ m²)\n= (80 × 10⁻⁷ Ω·m) / (8 × 10⁻⁶ m²)\n\nStep 3: Simplify\n= (80 / 8) × 10⁻⁷⁻⁽⁻⁶⁾ Ω = 10 × 10⁻¹ Ω = 1.0 Ω",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 711,
+    "question": "An electric heater with a p.d of 240 V connected across its terminals has a total resistance of 960Ω. find the power rating of the heater.",
+    "option": {
+      "a": " 0.25 W",
+      "b": " 4.00 W",
+      "c": "38.40W",
+      "d": "60.00W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPotential difference, V = 240 V\nResistance, R = 960 Ω\nPower, P = ?\n\nSolution:\nStep 1: Formula for electrical power\nPower: P = V²/R\nAlternative formulas:\n\nP = VI\nP = I²R\n\nStep 2: Substitute values\nP = V²/R\nP = (240)²/960\nP = 57,600/960\nStep 3: Calculate\nP = 60 W",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

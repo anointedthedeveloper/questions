@@ -9534,5 +9534,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 379,
+    "question": "Which of the following statements is correct about the periodic table?",
+    "option": {
+      "a": "Elements in the same group have the same number of electron shells",
+      "b": "The non-metallic properties of the elements tend to decrease across each period",
+      "c": "Elements in the same period have the same number of valence electrons",
+      "d": "The valence electrons of the elements increase progressively across the period"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Across a period, the number of valence electrons increases progressively from left to right (e.g., Period 2: Li has 1, Be has 2, B has 3 … Ne has 8). Elements in the same group have the same number of valence electrons (not shells); elements in the same period have the same number of shells (not valence electrons); non-metallic properties increase across a period.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

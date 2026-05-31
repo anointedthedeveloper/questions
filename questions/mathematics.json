@@ -17022,5 +17022,21 @@
     "solution": "x( ∑x)/N\n15 = (∑x)/N\n∑x = 15N........(i)\n\ny = ∑y/Ny = (∑x+45)/(N + 1)\n18/1 = (15N + 45)/(N + 1)\n \n\n18(N + 1) = 15N + 45\n\n18N + 18 = 15N + 45\n\n18N - 15N = 45 - 18 \n\n3N = 27 \n\nN = 27/3\n \n\n= 9",
     "examtype": "2020",
     "examyear": "utme"
+  },
+  {
+    "id": 503,
+    "question": "Differentiate sin x - x cos x",
+    "option": {
+      "a": "x cos x",
+      "b": " x sin x",
+      "c": "-x cos x",
+      "d": " -x sin x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "sin x - x cos x\ndy/dx = cos x - [1.cos x + x -sin x]\n= co x - [cos x - x sin x]\n= cos x - cos x + x sin x\n= x sin x",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

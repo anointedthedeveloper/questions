@@ -6910,5 +6910,37 @@
     "solution": "Given information:\nPower P = 80 kW = 80 000 W\nVelocity v = 32 m s⁻¹\n\nSolution:\n\nStep 1: Relationship between power, force, and velocity\nAt constant velocity, the engine’s power equals the product of the driving force and velocity:\nP = F × v\n\nStep 2: Solve for the force\nF = P / v = 80 000 W / 32 m s⁻¹ = 2 500 N\n\nStep 3: Express in scientific notation\n2 500 N = 2.50 × 10³ N",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 632,
+    "question": "What happens to the rays in a parallel beam of light?",
+    "option": {
+      "a": "They diverge as they travel",
+      "b": "they intersect",
+      "c": "They converge as they travel",
+      "d": "They meet at infinity."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In Euclidean geometry, parallel lines are defined as lines that meet at a point at infinity. This is a theoretical concept - parallel rays maintain their separation in physical space but are considered to meet at an infinitely distant point.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 439,
+    "question": "A particle of mass 10⁻² kg is fixed to the tip of a fan blade which rotates with angular velocity of 100 rad s⁻¹. If the radius of the blade is 0.2m, the centripetal force is?",
+    "option": {
+      "a": "2N",
+      "b": "20N",
+      "c": "200N",
+      "d": "400N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMass (m) = 10⁻² kg = 0.01 kg\nAngular velocity (ω) = 100 rad/s\nRadius (r) = 0.2 m\nCentripetal force (F) = ?\n\nFormula for centripetal force:\nF = mω²r\nSubstituting values:\nF = 0.01 × (100)² × 0.2\nF = 0.01 × 10,000 × 0.2\nF = 0.01 × 2,000\nF = 20 N",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

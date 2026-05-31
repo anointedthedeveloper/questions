@@ -6878,5 +6878,37 @@
     "solution": "Aluminium is used as an electroscope leaf because it can be converted into very thin sheets (foil), which makes it lightweight and able to diverge easily when charged.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 1125,
+    "question": "According to the kinetic theory of gases, the pressure exerted by a gas on the walls equals. ",
+    "option": {
+      "a": "Momentum imparted to the walls per unit area.",
+      "b": "Change in momentum per unit volume.",
+      "c": " Change in momentum imparted to the walls per unit area.",
+      "d": "Rate of change of momentum imparted to the walls per second per unit area."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Rate of change of momentum imparted to the walls per second per unit area. (Pressure = force/area = (rate of momentum change)/area from molecular collisions.)",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 744,
+    "question": "An engine of a car of power 80 kW moves on a rough road with a velocity of 32 m/s. The force required to bring it to rest is?",
+    "option": {
+      "a": "2.56 × 10⁶ N",
+      "b": "2.50 × 10⁶ N",
+      "c": "2.80 × 10³ N",
+      "d": "2.50 × 10³ N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nPower P = 80 kW = 80 000 W\nVelocity v = 32 m s⁻¹\n\nSolution:\n\nStep 1: Relationship between power, force, and velocity\nAt constant velocity, the engine’s power equals the product of the driving force and velocity:\nP = F × v\n\nStep 2: Solve for the force\nF = P / v = 80 000 W / 32 m s⁻¹ = 2 500 N\n\nStep 3: Express in scientific notation\n2 500 N = 2.50 × 10³ N",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

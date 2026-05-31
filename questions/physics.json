@@ -10062,5 +10062,37 @@
     "solution": "At the Earth's north magnetic pole, the angle is 90° (needle vertical), and at the magnetic equator, the angle is 0° (needle horizontal).",
     "examtype": "utme",
     "examyear": "2020"
+  },
+  {
+    "id": 785,
+    "question": "from the diagram above, the inductive reactance and the resistance R are respectively",
+    "option": {
+      "a": " 50Ω and 45Ω",
+      "b": "25Ω and 51Ω",
+      "c": "20Ω and 50Ω",
+      "d": "10Ω and 50Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431541/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_36_mzam4o.png",
+    "answer": "d",
+    "solution": "The inductive reactance is given as\nXl = 2πfl\n= 2 x 50/π x 0.1\n= 10Ω\nAgain from ohms law,\nR = V/I = 75/1.5 = 50Ω\n∴ Thus the inductive reactance and the resistance are respectively 10Ω, and 50Ω",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 1068,
+    "question": "Calculate the force acting on an electron of charge 1.5 × 10⁻¹⁹ C placed in an electric field of intensity 10⁵ V m⁻¹",
+    "option": {
+      "a": "1.5 × 10⁻¹¹ N",
+      "b": "1.5 × 10⁻¹² N",
+      "c": " 1.5 × 10⁻¹³ N",
+      "d": "1.5 × 10⁻¹⁴ N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nCharge, q = 1.5 × 10⁻¹⁹ C\nElectric field intensity, E = 10⁵ V m⁻¹\n\nSolution:\n\nStep 1: Formula for force on a charge in an electric field\nF = q × E\n\nStep 2: Substitute values\nF = (1.5 × 10⁻¹⁹) × (10⁵)\n\nStep 3: Calculate\nF = 1.5 × 10⁻¹⁴ N",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

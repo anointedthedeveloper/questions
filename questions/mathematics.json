@@ -16270,5 +16270,21 @@
     "solution": "x<sup>2</sup> + y<sup>2</sup> = (√2)<sup>2</sup>\nx<sup>2</sup> + y</sup> = 2\nbut y = x\nThus; x<sup>2</sup> + x<sup>2</sup> = 2\n2x<sup>2</sup> = 2\nx<sup>2</sup> = + or - 1\nBut x<sup>2</sup> + y<sup>2</sup> = 2\n1<sup>2</sup>+ y<sup>2</sup> = 2\n1 + y<sup>2</sup> = 2\ny<sup>2</sup> = 2 - 1\ny<sup>2</sup> = 1\ny = + or - 1\nThus point (x,y) = (1,1) only.",
     "examtype": "utme",
     "examyear": "2000"
+  },
+  {
+    "id": 18,
+    "question": "All the vertices of an isosceles triangle lie on a circle and each of the base angles  of the triangle is 65o. The angle subtended at the centre of the circle by the base of the triangle is: ",
+    "option": {
+      "a": "130o  ",
+      "b": "115o  ",
+      "c": "50o  ",
+      "d": "65o"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   }
 ]

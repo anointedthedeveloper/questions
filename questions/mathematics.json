@@ -16302,5 +16302,21 @@
     "solution": "√12-√147+y√3=0√(4×3)-√(49×3)+y√3=02√3-7√3+y√3=0y√3=7√3-2√3 y=(5√3)/√3 y=5",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 510,
+    "question": "Find the median of 4, 1, 4, 1, 0, 4, 4, 2 and 0",
+    "option": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "4, 4, 1, 0, 4, 4, 2, 0\nArrange in ascending order:\n0, 0, 1, 1, 2, 4, 4, 4, 4\nPosition of median = N+1 / 2 = 9+1 / 2 = 5th\nMedian = 2",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

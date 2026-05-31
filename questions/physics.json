@@ -10206,5 +10206,53 @@
     "solution": "When a red rose is observed in blue light, it appears black or very dark because:\n\nThe rose only reflects red light\nBlue light (the only light present) is absorbed by the red pigment\nWith no light being reflected, the rose appears black\n\nGeneral principle: An object appears the color(s) it reflects. In monochromatic light, if an object doesn't reflect that specific color, it appears black.",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 1157,
+    "question": "The movement of particles in liquids and gases is referred to as",
+    "option": {
+      "a": "Translational motion",
+      "b": " Isobaric process",
+      "c": "Brownian motion",
+      "d": "Vibrational motion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Brownian motion is the random motion of particles in fluids.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 719,
+    "question": "In an experiment to determine terminal velocity, as the pressure increases, the viscosity off a liquid",
+    "option": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "increases then decreases",
+      "d": " remains constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Generally, the viscosity of liquids tends to increase with pressure, as the increased pressure can lead to a greater interaction between molecules",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 716,
+    "question": "When a certain a.c supply is connected to a lamp, it lights with the same brightness as it does with a 12 V d.c battery. Then r.m.s value of the a.c supply is?",
+    "option": {
+      "a": "12.0 V",
+      "b": "3.5 V",
+      "c": "17.0 V",
+      "d": " 8.5 V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\nDC voltage that produces the same brightness, V_dc = 12 V\n\nSolution:\n\nStep 1: Condition for equal brightness\nFor a resistive load like a lamp, brightness depends on the power dissipated.\nEqual brightness means equal power delivered to the lamp.\n\nStep 2: Power comparison\nFor DC: Power P_dc = V_dc² / R\nFor AC: Power P_ac = V_rms² / R\n\nStep 3: Equate powers\nV_rms² / R = V_dc² / R\nV_rms = V_dc\n\nStep 4: Substitute value\nV_rms = 12 V",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

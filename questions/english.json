@@ -20214,5 +20214,62 @@
     "questionNub": 93,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1688,
+    "question": "This question is from the novel 'The Last Days at Forcados High school'.\n                    ‘Sorry does anyone know you’re here? does daddy know?… who said this and to who?",
+    "option": {
+      "a": "Mr. Solade to Mrs.Solade",
+      "b": "Mrs. Solade to Mr. Solade",
+      "c": "Jimi to Wole",
+      "d": "Wole to Jimi"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In chapter one, page 1, Jimi asked Wole because he knew that his father was going to be mad seeing Wole after what he did (almost making his father) bankrupt.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 1,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1540,
+    "question": "<u>ch</u>ateau",
+    "option": {
+      "a": "chart",
+      "b": "church",
+      "c": "champagne",
+      "d": "chemical"
+    },
+    "section": "Choose the option that has the same consonant sound as the one represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "c",
+    "solution": "chateau; /ˈʃatəʊ/\n\nchampagne; /ʃamˈpeɪn/",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 57,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1810,
+    "question": "C<u>oo</u>l.",
+    "option": {
+      "a": "Should.",
+      "b": "Full.",
+      "c": "Luke.",
+      "d": "Look."
+    },
+    "section": "Choose the option that has the same vowel sound as the one represented by the letter underlined.\n",
+    "image": "",
+    "answer": "c",
+    "solution": "cool; /kuːl/\n\nLuke; /lu:k/",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 51,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

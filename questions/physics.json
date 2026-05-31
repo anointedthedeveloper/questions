@@ -2270,5 +2270,85 @@
     "solution": "Real depth and apparent dept is due to refraction",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 643,
+    "question": "A 50W electric heater is used to heat a metal block of mass 5kg. If in 10 minutes a temperature rise of 12°C is achieved, the specific heat capacity of the metal is",
+    "option": {
+      "a": " 400 J kg⁻¹K⁻¹",
+      "b": "500 J kg⁻¹K⁻¹",
+      "c": "390 J kg⁻¹K⁻¹",
+      "d": "130 J kg⁻¹K⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPower of heater, P = 50 W\nMass of metal block, m = 5 kg\nTime, t = 10 minutes = 10 × 60 = 600 s\nTemperature rise, ΔT = 12°C = 12 K\nSpecific heat capacity, c = ?\n\nSolution:\nStep 1: Calculate total energy supplied\nFormula: Energy = Power × Time\nE = P × t\nE = 50 × 600\nE = 30,000 J\nStep 2: Apply heat equation\nFormula: Q = mcΔT\nWhere:\n\nQ = heat energy absorbed\nm = mass\nc = specific heat capacity\nΔT = temperature change\n\nStep 3: Substitute values\n30,000 = 5 × c × 12\n30,000 = 60c\nStep 4: Solve for specific heat capacity\nc = 30,000/60\nc = 500 J kg⁻¹K⁻¹",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 950,
+    "question": "A man standing on a lift that is descending does not feel any weight because",
+    "option": {
+      "a": "the inside of the lift is air tight",
+      "b": " the lift is in vacuum",
+      "c": "the lift's acceleration is same as acceleration due to gravity",
+      "d": "there is no gravitational pull on the man in the lift"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nA man in a descending lift experiences apparent weightlessness.\nAcceleration due to gravity = g\nLift is descending with acceleration a.\n\nSolution:\n\nStep 1: Apparent weight in a descending lift\nThe apparent weight of a man in a lift is given by:\nApparent weight = m(g – a)\nwhere a is the acceleration of the lift (downward positive).\n\nStep 2: Condition for feeling no weight\nFeeling no weight means apparent weight = 0.\nTherefore: m(g – a) = 0\ng – a = 0\na = g\n\nStep 3: Interpretation\nWhen the lift descends with acceleration equal to g (free fall), the man and the lift fall together with the same acceleration. The normal reaction from the floor becomes zero, so he feels weightless.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 597,
+    "question": "According to kinetic theory of gases, the pressure exerted by the gas on the wall is equal",
+    "option": {
+      "a": "change in momentum per unit volume",
+      "b": "rate of change of momentum imparted by the walls per second per unit area",
+      "c": " momentum imparted to the walls per unit area",
+      "d": "change in momentum imparted to the walls per unit area"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Pressure is defined as force per unit area. In the context of gas molecules colliding with the walls of a container, the force exerted by the gas can be understood as the rate at which momentum is transferred to the walls.\nAs gas molecules collide with the walls, they change momentum, and this change occurs over time. Thus, the pressure can be described as the rate of change of momentum (change in momentum per collision multiplied by the number of collisions per second) divided by the area over which the collisions occur.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 229,
+    "question": "Calculate the inductance of a coil of resistance 30Ω connected to a 100V a.c source if the coil draws an r.m.s current of 2A",
+    "option": {
+      "a": " 0.13 H",
+      "b": "2.50H",
+      "c": "1.25H",
+      "d": "0.04H"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nResistance (R) = 30Ω\nVoltage (V) = 100V (r.m.s)\nCurrent (I) = 2A (r.m.s)\nInductance (L) = ?\n\nStep 1: Calculate impedance (Z)\nZ = V/I = 100/2 = 50Ω\nStep 2: Find inductive reactance (X_L)\nFor an R-L series circuit:\nZ² = R² + X_L²\n50² = 30² + X_L²\n2500 = 900 + X_L²\nX_L² = 1600\nX_L = 40Ω\nStep 3: Calculate inductance (L)\nX_L = 2πfL\nIf we assume standard mains frequency f = 50Hz:\nL = X_L/(2πf)\nL = 40/(2 × π × 50)\nL = 40/(314.16)\nL = 0.127 H\nAnswer: L ≈ 0.13 H (or 130 mH)",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 476,
+    "question": "A magnet relay is a device used for?",
+    "option": {
+      "a": "reading the magnitude of magnetic flux",
+      "b": "controlling another circuit carrying larger current",
+      "c": " turning in sports",
+      "d": "storing magnetic field"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Relays are electrically operated switches that open and close the circuits by receiving electrical signals from outside sources.",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

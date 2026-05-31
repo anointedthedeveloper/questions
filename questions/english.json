@@ -15084,5 +15084,81 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1294,
+    "question": "Choose the word that has a different stress pattern",
+    "option": {
+      "a": "Project(V)",
+      "b": "Basic",
+      "c": "Suspect(V)",
+      "d": "Neglect"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "All other options are stressed on the second syllable except basic that is stressed on the first syllable.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 41,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1782,
+    "question": "All the candidates looked <u>aghast</u> at the reading of the questions.",
+    "option": {
+      "a": "Relaxed.",
+      "b": "Fulfilled.",
+      "c": "Dismayed.",
+      "d": "Satisfied."
+    },
+    "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+    "image": "",
+    "answer": "c",
+    "solution": "ghast; filled with horror or shock.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 23,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 655,
+    "question": "<u>Ch</u>urch?",
+    "option": {
+      "a": "feature",
+      "b": "chauffeur",
+      "c": "ocean",
+      "d": "machine"
+    },
+    "section": "<b>In each of questions 59 to 62 choose from the option the word that has the same consonant sound as the represented by the letter(s) underlined.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 59,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 873,
+    "question": "His meteoric rise to fame surprise everyone?",
+    "option": {
+      "a": "His rise to fame was only temporary",
+      "b": "People were amazed at his rapid success",
+      "c": "He became successful very suddenly",
+      "d": "He rose to the top quite unexpectedly"
+    },
+    "section": "<b>In each of questions 76 to 80, select the option that best explains the information conveyed in the sentence.</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 77,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

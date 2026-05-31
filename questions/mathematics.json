@@ -14350,5 +14350,37 @@
     "solution": " ∫<sub>0</sub><sup>(π/2)</sup>(-2cosx)dx=[-2sinx+c]<sub>0</sub><sup>(π/2)</sup>=(-2sin π/2 + c + 2sin0 - c) = -2sin90 + c + 2sin0 - c.= -2(1) + 2(0) = -2",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 127,
+    "question": "Find the principal which amounts to N5,500 at a simple interest in 5 years at 2% per annum.",
+    "option": {
+      "a": "N4,900",
+      "b": "N5,000",
+      "c": "N4,700",
+      "d": "N4,800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Principal, P = Amount, A - Interest, I.\nA = P + I\n\nI = (P.T.R)/100 = (P x 5 x 2)/100 = 10P/100 = P/10\n\nBut A = P + I,\n=> 5500 = P + (P/10)\n=> 55000 = 10P + P\n=> 55000 = 11P\n\nThus P = 55000/11 = N5,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1279,
+    "question": "Find the area of the curved surface of a cone whose base radius is 3cm and whose height is 4cm (π = 3.14)",
+    "option": {
+      "a": "17.1 cm<sup>2</sup>",
+      "b": "27.2 cm<sup>2</sup>",
+      "c": "47.1 cm<sup>2</sup>",
+      "d": "37.3 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Find the slant height\n\nl<sup>2</sup> = h<sup>2</sup> + r<sup>2</sup>(h = 4 cm, r = 3 cm)\n\n\nl<sup>2</sup> = 4<sup>2</sup> + 3<sup>2</sup> = 16 + 9 =25\n\n\nl<sup>2</sup> = √25\n\n\nSquaring both sides\n\nl = 5cm\n\nThe area of curved surface (s) =π(3)(5)\n\n15π = 15 × 3.14\n\n= 47.1 cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

@@ -5662,5 +5662,53 @@
     "solution": "Given information:\n\nLight ray traveling from air into medium M\nAngle with normal in air = 30°\nAngle with normal in medium M = 60°\n\nSolution:\nStep 1: Identify the direction of light travel\nLight is traveling from air (top) into medium M (bottom).\nSince the ray bends away from the normal (30° → 60°), medium M is less dense than air.\nStep 2: Identify angles correctly\nLooking at the angles from the surface (interface):\n\nAngle from surface in air = 90° - 30° = 60°\nAngle from surface in medium = 90° - 60° = 30°\n\nConverting back to angles from normal:\n\nAngle of incidence (in air) = 60°\nAngle of refraction (in medium M) = 30°\n\nStep 3: Apply Snell's Law\nn₁ sin i = n₂ sin r\nWhere:\n\nn₁ = refractive index of air = 1\ni = 60°\nn₂ = refractive index of medium M = ?\nr = 30°\n\nStep 4: Substitute values\n1 × sin 60° = n₂ × sin 30°\n1 × (√3/2) = n₂ × (1/2)\nStep 5: Solve for n₂\nn₂ = (√3/2) ÷ (1/2)\nn₂ = (√3/2) × (2/1)\nn₂ = √3",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 909,
+    "question": "One special advantage of alcohol over mercury as a thermometric liquid is its?",
+    "option": {
+      "a": " low density",
+      "b": "low freezing point",
+      "c": " high specific",
+      "d": " low boiling point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The special advantage of alcohol over mercury as a thermometric liquid is its low freezing point (-115°C compared to -39°C for mercury), which allows it to measure much lower temperatures, making it suitable for use in very cold climates where mercury would freeze solid.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 103,
+    "question": "The  term “Viscosity” is used to describe  ",
+    "option": {
+      "a": "surface tension in fluids ",
+      "b": "friction in fluids  ",
+      "c": "surface tension in solids  ",
+      "d": "moment in solids"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 23,
+    "question": "A box of mass 40kg is being dragged  along by the rope inclined at 60o to the horizontal. The frictional force between the box and the floor is 100N and the tension on the rope is 300N. How much work is done in dragging the box through a distance of 4m? ",
+    "option": {
+      "a": "680J ",
+      "b": "200J ",
+      "c": "100J ",
+      "d": "400J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   }
 ]

@@ -11438,5 +11438,21 @@
     "solution": "The s-orbital is spherically symmetrical — it has equal electron density in all directions around the nucleus. This is a fundamental property of all s-orbitals (1s, 2s, 3s, etc.) regardless of the energy level.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 430,
+    "question": "The reaction of halogens with alkanes in the presence of sunlight is an example of",
+    "option": {
+      "a": "oxidation reaction",
+      "b": "addition reaction",
+      "c": "hydrogenation reaction",
+      "d": "substitution reaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When halogens react with alkanes in the presence of sunlight (UV light), a hydrogen atom in the alkane is replaced (substituted) by a halogen atom via a free radical mechanism. This is free radical substitution. For example: CH₄ + Cl₂ → CH₃Cl + HCl. Addition reactions occur with alkenes, not alkanes.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

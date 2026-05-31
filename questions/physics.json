@@ -9438,5 +9438,21 @@
     "solution": "The incorrect statement is C. X-rays are NOT used for detecting fingerprints. Fingerprints are surface impressions detected by other methods, while X-rays are penetrating radiation used for internal imaging.",
     "examtype": "utme",
     "examyear": "2020"
+  },
+  {
+    "id": 444,
+    "question": "If the stress on a wire is 10⁷ Nm⁻² and the wire is stretched from its original length of 10.00m to 10.05m. The Young's modulus of the wire is?",
+    "option": {
+      "a": "5.0 × 10⁻⁴ Nm⁻²",
+      "b": "5.0 × 10⁻⁵ Nm⁻²",
+      "c": "2.0 × 10⁻⁸ Nm⁻²",
+      "d": "2.0 × 10⁹ Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nStress = 10⁷ Nm⁻²\nOriginal length (L₀) = 10.00 m\nFinal length (L) = 10.05 m\nExtension (ΔL) = 10.05 - 10.00 = 0.05 m\nYoung's modulus (E) = ?\n\nFormula for Young's modulus:\nYoung's modulus (E) = Stress / Strain\nStep 1: Calculate strain\nStrain = Extension / Original length\nStrain = ΔL / L₀\nStrain = 0.05 / 10.00\nStrain = 0.005 = 5 × 10⁻³\nStep 2: Calculate Young's modulus\nE = Stress / Strain\nE = 10⁷ / (5 × 10⁻³)\nE = 10⁷ / 0.005\nE = 10⁷ × 200\nE = 2 × 10⁹ Nm⁻²",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

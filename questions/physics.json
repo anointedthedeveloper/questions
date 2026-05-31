@@ -10894,5 +10894,133 @@
     "solution": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 1072,
+    "question": "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?",
+    "option": {
+      "a": "N90",
+      "b": "N50",
+      "c": "N45",
+      "d": " N5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Calculate total power consumption\nPower from ten 40 W bulbs = 10 × 40 W = 400 W\nPower from five 100 W bulbs = 5 × 100 W = 500 W\nTotal power = 400 W + 500 W = 900 W = 0.9 kW\n\nStep 2: Calculate energy consumed\nEnergy = Power × Time = 0.9 kW × 10 h = 9 kWh\n\nStep 3: Calculate cost\nCost = Energy × cost per unit = 9 kWh × 5 N = 45 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 914,
+    "question": "A vapor is said to be saturated when?",
+    "option": {
+      "a": "a dynamic equilibrium exists between liquid molecules and the vapour molecules",
+      "b": "a dynamic equilibrium exists such that more molecules return to the liquid than are leaving it",
+      "c": "the temperature of the vapour varies",
+      "d": "the vapour pressure is atmospheric"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A saturated vapour is one which is in dynamic equilibrium with its own liquid; that is as many go from the liquid to the vapour state every second return back to liquid.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 640,
+    "question": "The change in volume when 450kg of ice is completely melted is [density of ice = 900 kgm⁻³, density of water = 1000 kgm⁻³]",
+    "option": {
+      "a": "0.50m³",
+      "b": "0.45m³",
+      "c": "0.05m³",
+      "d": "4.50m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Formula:\nDensity = Mass/Volume\nTherefore: Volume = Mass/Density\nStep 1: Calculate volume of ice\nVᵢ = m/ρᵢ\nVᵢ = 450/900\nVᵢ = 0.5 m³\nStep 2: Calculate volume of water\nVw = m/ρw\nVw = 450/1000\nVw = 0.45 m³\nStep 3: Calculate change in volume\nΔV = Vᵢ - Vw\nΔV = 0.5 - 0.45\nΔV = 0.05 m³\nStep 4: Interpretation\nThe positive value indicates that volume decreases when ice melts.\nIce occupies more volume than the same mass of water.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 505,
+    "question": "Calculate the absolute pressure at the bottom of a lake at a depth of 32.8 m. Assume the density of the water is 1 × 10³ kgm⁻³ and the air above is at a pressure of 101.3 kPa. [Take g = 9.8 ms⁻²]",
+    "option": {
+      "a": " 422.7 kPa",
+      "b": " 220.14 kPa",
+      "c": "464.53 kPa",
+      "d": "321.74 kPa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDepth, h = 32.8 m\nDensity of water, ρ = 1 × 10³ kg/m³ = 1000 kg/m³\nAtmospheric pressure, P₀ = 101.3 kPa = 101,300 Pa\nAcceleration due to gravity, g = 9.8 m/s²\nAbsolute pressure, P = ?\n\nSolution:\nUsing the absolute pressure formula:\nP = P₀ + ρgh\nWhere:\n\nP₀ = atmospheric pressure\nρgh = pressure due to water column\n\nStep 1: Calculate pressure due to water column\nP_water = ρgh\nP_water = 1000 × 9.8 × 32.8\nP_water = 321,440 Pa\nP_water = 321.44 kPa\nStep 2: Calculate absolute pressure\nP = P₀ + P_water\nP = 101.3 + 321.44\nP = 422.74 kPa\nP ≈ 422.7 kPa",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 606,
+    "question": "The particle and wave nature of matter are demonstrated in the equation",
+    "option": {
+      "a": "λ = hc/E",
+      "b": "λ = h/P",
+      "c": " λ = c/f",
+      "d": "λ = 2 d sin θ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The de Broglie equation λ = h/P demonstrates that:\n\nMatter has wavelength λ (wave nature)\nMatter has momentum P (particle nature)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 917,
+    "question": "The wavelength of a wave traveling with a velocity of 420 ms⁻¹ is 42 m. What is its period?",
+    "option": {
+      "a": "1.2 s",
+      "b": "1.0 s",
+      "c": "0.5 s",
+      "d": "0.1 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nWave velocity (v) = 420 m/s\nWavelength (λ) = 42 m\nPeriod (T) = ?\n\nStep 1: Calculate frequency using wave equation\nv = fλ\nRearranging for frequency:\nf = v/λ\nSubstituting values:\nf = 420/42\nf = 10 Hz\nStep 2: Calculate period\nPeriod is the reciprocal of frequency:\nT = 1/f\nSubstituting:\nT = 1/10\nT = 0.1 s\nAlternative direct method:\nT = λ/v\nT = 42/420\nT = 0.1 s",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 794,
+    "question": "The instrument that measures both ac and dc is called",
+    "option": {
+      "a": "A current balance",
+      "b": "a moving coil ammenter",
+      "c": "a moving iron ammeter",
+      "d": "an inverter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A moving iron ammeter can measure both alternating current (AC) and direct current (DC) due to its design, which allows it to respond to the magnetic field created by both types of current.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 68,
+    "question": "The most likely measurement of length of an object using a venier caliper is: ",
+    "option": {
+      "a": "3.0cm ",
+      "b": "3.3cm ",
+      "c": "3.33cm ",
+      "d": "3.333cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
   }
 ]

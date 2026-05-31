@@ -16622,5 +16622,21 @@
     "solution": "Expenditure on housing = x\nExpenditure on food = 2x\nExpenditure on school fees = 90o\nExpenditure on transport = 45o\nx + 2x + 90 + 45 = 360o\n3x + 135 = 360o\n3x = 360 - 135\n3x = 225\nx = 225/3 = 75o\n∴∠ for food = 2x = 2 * 75\n= 150\n360o = N30,000\n1o = ?\n1o = 30,000/360\n150o = (30000/360) * (150/1)\n= N12500",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 737,
+    "question": "The nth term of a sequence is n2 - 6n - 4. Find the sum of the 3rd and 4th terms",
+    "option": {
+      "a": "24",
+      "b": "23",
+      "c": "-24",
+      "d": "-25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "n<sup>2</sup> - 6n - 4\n\nFor the 3rd term,\n3<sup>2</sup> - 6(3) - 4\n\n9 - 18 -4 = -13\n\nFor the 4th term,\n4<sup>2</sup> - 6(4) - 4\n\n16 - 24 - 4 = -12\n\nSum of both terms\n\n-13 - 12 = -25",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

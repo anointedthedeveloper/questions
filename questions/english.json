@@ -13602,5 +13602,43 @@
     "questionNub": 95,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1260,
+    "question": "What is Ummi Matric Number?  ",
+    "option": {
+      "a": "UG0001",
+      "b": "UG00001",
+      "c": "UG001",
+      "d": "UG0011"
+    },
+    "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+    "image": "",
+    "answer": "a",
+    "solution": "See page 17",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 7,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1350,
+    "question": "Mr Cham will never tell you everything, he is very ________",
+    "option": {
+      "a": "secretive",
+      "b": "quiet",
+      "c": "reserved",
+      "d": "realistic"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "a",
+    "solution": "For one who never tells you everything, 'Secrecy' best completes the sentence above.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 37,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

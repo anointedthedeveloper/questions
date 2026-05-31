@@ -3182,5 +3182,85 @@
     "solution": "\nGiven information:\nForce F₁ = 12 N\nForce F₂ = 5 N\nResultant R = 13 N\n\nSolution:\n\nStep 1: Formula for resultant of two forces\nR² = F₁² + F₂² + 2F₁F₂ cos θ\nwhere θ is the angle between the forces.\n\nStep 2: Substitute the given values\n13² = 12² + 5² + 2 × 12 × 5 × cos θ\n169 = 144 + 25 + 120 cos θ\n169 = 169 + 120 cos θ\n\nStep 3: Simplify and solve for cos θ\n169 – 169 = 120 cos θ\n0 = 120 cos θ\ncos θ = 0\n\nStep 4: Determine the angle\ncos θ = 0 ⇒ θ = 90°\n",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 894,
+    "question": "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible",
+    "option": {
+      "a": "12 V",
+      "b": "8 V",
+      "c": " 2 V",
+      "d": "36 V"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433350/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_45_treskz.png",
+    "answer": "b",
+    "solution": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6\n= 3/6\n∴ R = 6/3 = 2\nE = I(R + r) = 4(2 + 0) = 8v",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 631,
+    "question": "What types of mirror are capable of producing parallel beams of light such as those arising from the headlamps of a car?",
+    "option": {
+      "a": " Parabolic mirrors",
+      "b": "Plane mirrors",
+      "c": "Cylindrical mirrors",
+      "d": "Spherical mirrors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Parabolic mirrors have a geometric property such that light rays originating at the focal point are reflected into a parallel beam. This principle is used in car headlamps, searchlights, and other devices that require a collimated beam.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 418,
+    "question": "A stone is thrown vertically upward with an initial velocity of 30 m/s from the top of a building. If the stone takes 8 seconds to reach the ground, what is the height of the building? [Take g = 10 m/s²]",
+    "option": {
+      "a": "80 m",
+      "b": "100 m",
+      "c": "120 m",
+      "d": " 160 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInitial velocity (u) = 30 m/s (upward, positive)\nTime to reach ground (t) = 8 seconds\nAcceleration due to gravity (g) = -10 m/s² (downward, negative)\nHeight of building (h) = ?\n\nUsing equation of motion:\ns = ut + ½at²\nwhere s is the displacement from starting point (negative when below starting point)\nStep 1: Calculate displacement\nSince the stone ends up below the starting point (at ground level):\ns = ut + ½gt²\ns = 30(8) + ½(-10)(8)²\ns = 240 + ½(-10)(64)\ns = 240 - 320\ns = -80 m\nStep 2: Interpret the result\nThe negative sign indicates the stone is 80 m below the starting point (top of building).\nTherefore, the height of the building = 80 m",
+    "examtype": "utme",
+    "examyear": ""
+  },
+  {
+    "id": 1122,
+    "question": "A man moves 6.0 m East and then 10.0 m N30°E. How far is he from his starting point?",
+    "option": {
+      "a": "15.0 m",
+      "b": " 17.0 m",
+      "c": "14.0 m",
+      "d": "12.0 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nFirst displacement: 6.0 m due East\nSecond displacement: 10.0 m in the direction N30°E (30° east of north)\n\nSolution:\n\nStep 1: Resolve the second displacement into components\nTake East as +x direction and North as +y direction.\n\nx-component = 10 sin 30° = 10 × 0.5 = 5.0 m (eastward)\n\ny-component = 10 cos 30° = 10 × 0.8660 = 8.66 m (northward)\n\nStep 2: Find total components\nTotal x = 6.0 + 5.0 = 11.0 m\nTotal y = 0 + 8.66 = 8.66 m\n\nStep 3: Calculate resultant displacement\nResultant R = √[(11.0)² + (8.66)²] = √(121 + 75) = √196 = 14.0 m",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1146,
+    "question": "The device that operates using the magnetic effect of electric current is",
+    "option": {
+      "a": "Rheostat",
+      "b": "Thermostat",
+      "c": " Electric bell",
+      "d": "Carbon microphone"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An electric bell works using an electromagnet.",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

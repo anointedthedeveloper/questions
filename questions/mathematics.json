@@ -15182,5 +15182,21 @@
     "solution": "Given that, a * b = a<sup>2</sup>b and a ^ b = 2a + b\n\n(-4 * 2) = (-4)<sup>2</sup> x 2 = 16 x 2 = 32\n\n(7 * -1) = 7<sup>2</sup> x (-1) = 49 x (-1) = -49\n\n∴ (-4 * 2) ^ (7 * -1) = 2(32) + (-49) = 64 - 49 = 15",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 1148,
+    "question": "Divide 1101001<sub>two</sub> by 101<sub>two</sub>",
+    "option": {
+      "a": "11101<sub>two</sub>",
+      "b": "111<sub>two</sub>",
+      "c": "10111<sub>two</sub>",
+      "d": "10101<sub>two</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

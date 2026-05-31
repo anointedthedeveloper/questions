@@ -7470,5 +7470,69 @@
     "solution": "The property that depends only on the source and is independent of the medium is frequency.",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 998,
+    "question": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is",
+    "option": {
+      "a": "1:3",
+      "b": "2:9",
+      "c": "3:1",
+      "d": "9:1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nR₁ = 5Ω\nR₂ = 10Ω\nVoltage (V) = 24V\n\nPower in Series Arrangement:\nTotal Resistance:\nR_series = R₁ + R₂ = 5 + 10 = 15Ω\nTotal Power:\nP_series = V²/R = (24)²/15 = 576/15 = 38.4 W\nPower in Parallel Arrangement:\nTotal Resistance:\nR_parallel = (R₁ × R₂)/(R₁ + R₂) = (5 × 10)/(5 + 10) = 50/15 = 10/3 ≈ 3.33Ω\nTotal Power:\nP_parallel = V²/R = (24)²/(10/3) = 576 × (3/10) = 1728/10 = 172.8 W\nRatio of Powers:\nP_series : P_parallel = 38.4 : 172.8\nSimplifying:\n= 38.4/172.8\n= 1/4.5\n= 2/9",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 288,
+    "question": "A narrow beam of white light can be split up into different Colours by a glass prism. The correct explanation is that",
+    "option": {
+      "a": "white light Is an electromagnetic wave",
+      "b": "the prism has all the colours of the white light",
+      "c": "different colours of white light travel with different speeds in glass",
+      "d": "white light has undergone total Internal reflection in the prism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Dispersion occurs because different colors (wavelengths) of light travel at different speeds in glass, causing them to refract by different amounts and separate into a spectrum.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 677,
+    "question": "The north pole of a magnet can never be separated from the south pole because of the property knowledge as?",
+    "option": {
+      "a": "magnetic octopole",
+      "b": "magnetic monopole",
+      "c": "magnetic dipole",
+      "d": "magnetic quadrupole"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The impossibility of separating a north pole from a south pole is a consequence of the non‑existence of magnetic monopoles. This is a fundamental property of magnetism.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 766,
+    "question": "The instrument used by designers to obtain different color pattern is called?",
+    "option": {
+      "a": "periscope",
+      "b": "sextant",
+      "c": "episcope",
+      "d": "kaleidoscope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Kaleidoscope is an optical instrument that creates patterns and designs by reflecting light through coloured materials.",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

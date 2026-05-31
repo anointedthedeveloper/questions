@@ -8894,5 +8894,37 @@
     "solution": "Given information:\n\nNumber of moles (n) = 1 mol\nVolume (V) = 10⁻² m³ = 0.01 m³\nTemperature (T) = 27°C = 27 + 273 = 300 K\nMolar gas constant (R) = 8.3 J mol⁻¹ K⁻¹\nPressure (P) = ?\n\nUsing ideal gas equation:\nPV = nRT\nRearranging for pressure:\nP = nRT/V\nSubstituting values:\nP = (1 × 8.3 × 300)/0.01\nP = 2490/0.01\nP = 249,000 N/m²\nP = 2.49 × 10⁵ Nm⁻²",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 714,
+    "question": "The electrolyte in the Nickei-iron (Nife) accumulator is",
+    "option": {
+      "a": " potassium hydroxide solution",
+      "b": "dilute tetraoxosulphate(VI)acid",
+      "c": "copper tetraoxosulphate(VI)solution",
+      "d": "ammonium chloride solution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The NiFe battery uses an alkaline electrolyte, specifically potassium hydroxide (KOH) solution, which:\n\nProvides ionic conductivity\nRemains chemically stable during charging/discharging\nAllows the battery to be robust and long-lasting",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 810,
+    "question": "When cold water is poured on a can containing hot water, the can collapses because the?",
+    "option": {
+      "a": " steam condeses and occupies the partial vacuum in the can",
+      "b": "external air pressure counter balances the pressure within the can",
+      "c": " steam expands to occupy the vacuum remaining in the can",
+      "d": "external pressure becomes greater than the pressure within the can."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cold water reduces the temperature of the hot water inside the can causing the contraction of the hot water. This reduces the pressure inside the can and the can collapses due to the external greater expression.",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

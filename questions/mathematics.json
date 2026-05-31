@@ -15710,5 +15710,21 @@
     "solution": "Y = x implies y ≤ x\nY + x = 4 implies y = 4 – x\n∴y = 4 – x\n∴y ≤ x, y + x ≤ 4 and y ≥ 0",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 96,
+    "question": " Find the value of ∫π0(cos<sup>2</sup>θ−1/sin<sup>2</sup>θ)*dθ",
+    "option": {
+      "a": " π",
+      "b": "π/2",
+      "c": "-π/2",
+      "d": "-π"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>0</mn>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mi>&#x03C0;<!-- π --></mi>\n    </mrow>\n  </msubsup>\n  <mfrac>\n    <mrow>\n      <mi>c</mi>\n      <mi>o</mi>\n      <msup>\n        <mi>s</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mi>&#x03B8;<!-- θ --></mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n    <mrow>\n      <mi>s</mi>\n      <mi>i</mi>\n      <msup>\n        <mi>n</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mi>&#x03B8;<!-- θ --></mi>\n    </mrow>\n  </mfrac>\n  <mi>d</mi>\n  <mi>&#x03B8;<!-- θ --></mi>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "∫π0(cos<sup>2</sup>θ−1)/(sin<sup>2</sup>θ)dθ=∫π0(−sin<sup>2</sup>θ)/sinsin<sup>2</sup>θ)=∫π0dθ=−π",
+    "examtype": "utme",
+    "examyear": "2000"
   }
 ]

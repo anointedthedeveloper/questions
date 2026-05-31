@@ -8942,5 +8942,53 @@
     "solution": "The spreading of salt throughout the water is due to diffusion - the random movement of particles from regions of high concentration to low concentration until evenly distributed.",
     "examtype": "utme",
     "examyear": "2020"
+  },
+  {
+    "id": 1116,
+    "question": "Which gas produces a red coloured light in a discharge tube?",
+    "option": {
+      "a": "Mercury",
+      "b": "Argon",
+      "c": "Air",
+      "d": "Neon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Different gases emit characteristic colours when an electric discharge passes through them at low pressure due to excitation and de‑excitation of their atoms.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 473,
+    "question": "A person standing waist-deep in a swimming pool appears to have short legs because of light?",
+    "option": {
+      "a": "diffraction",
+      "b": "refraction",
+      "c": "reflection",
+      "d": "interference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Light rays from the submerged legs bend (refract) as they pass from water to air due to the change in medium. This makes the legs appear shorter and closer to the surface than they actually are.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 654,
+    "question": "The pair of physical quantities consisting of vectors only are",
+    "option": {
+      "a": "momentum and power",
+      "b": "velocity and distance",
+      "c": "displacement and torque",
+      "d": "accelaration and speed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Displacement: Has magnitude and direction (e.g., 5m north)\nTorque: Has magnitude and direction (clockwise/counterclockwise, follows right-hand rule)\n\nBoth displacement and torque are vectors.",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

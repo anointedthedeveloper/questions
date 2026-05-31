@@ -12542,5 +12542,37 @@
     "solution": "△OEN = △OGN\n\nOE = OG = r(radii)\n\n(r - 8)<sup>2</sup> + 12<sup>2</sup> = r<sup>2</sup>\n\nr<sup>2</sup> - 16r + 64 + 144 = r<sup>2</sup>\n\n16r = 64 + 144 = r<sup>2</sup>\n\n16r = 64 + 144 = 208\n\n208/16 = 13cm\n\nFH = 2FO = 2OH = 2R\n\n= 2 x 13cm\n\n= 26cm",
     "examtype": "utme",
     "examyear": "2000"
+  },
+  {
+    "id": 844,
+    "question": "Find dy/dx, if y = 2/3 x<sup>3</sup> - 4/x",
+    "option": {
+      "a": "3x<sup>2</sup> - 4/x",
+      "b": "2x<sup>2</sup> +4/x2",
+      "c": "3x<sup>2</sup> + 4/x2",
+      "d": " 2x<sup>2</sup> - 4/x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "y = 2/3x<sup>3</sup>\n - 4/x\n\ndy/dx = 2x<sup>2</sup> - (-4)x<sup>−2<sup> = 2x<sup>2</sup> + 4/x<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 404,
+    "question": "If the locus of the points which are equidistant from point P and Q meets line PQ at point N, then PN equals",
+    "option": {
+      "a": "NQ",
+      "b": "1/4NQ",
+      "c": " 2NQ",
+      "d": "1/2NQ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Locus of point equidistant from points P and q is a perpendicular bisector of the straight joining P and Q\n∴PN = NQ",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

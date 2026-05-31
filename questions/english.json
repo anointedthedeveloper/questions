@@ -14438,5 +14438,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 491,
+    "question": "Amina lives…..  campus.",
+    "option": {
+      "a": "in the. ",
+      "b": " on",
+      "c": "at the ",
+      "d": "inside"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1508,
+    "question": "Nwankwo was on the <u>verge</u> of signing a two-year contract with the club",
+    "option": {
+      "a": "brink",
+      "b": "summit",
+      "c": "height",
+      "d": "shore"
+    },
+    "section": "Choose the option nearest in meaning to the underlined.",
+    "image": "",
+    "answer": "a",
+    "solution": "To be on the verge of something means to be very close to it.\n\nTo be on the brink also means to be on the edge or border of something.",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 25,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

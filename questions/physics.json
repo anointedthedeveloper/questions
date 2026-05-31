@@ -910,5 +910,85 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
+  },
+  {
+    "id": 1089,
+    "question": "An object of mass 20kg is released from a height of 10m above the ground level. The kinetic energy of the object just before it hits the ground is",
+    "option": {
+      "a": "200J",
+      "b": "4000J",
+      "c": " 2000J",
+      "d": "500J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass, m = 20 kg\nHeight, h = 10 m\nAcceleration due to gravity, g = 10 m s⁻² (assumed)\n\nSolution:\n\nStep 1: Energy conservation principle\nWhen the object falls from rest, its initial potential energy is converted entirely into kinetic energy just before hitting the ground (ignoring air resistance).\n\nStep 2: Calculate potential energy at the top\nPotential energy, PE = m × g × h = 20 kg × 10 m s⁻² × 10 m = 2000 J\n\nStep 3: Kinetic energy just before impact\nBy conservation of energy, KE just before impact = PE at top = 2000 J",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 758,
+    "question": "I. Use a liquid with a high melting point.\nII. use a liquid of high volume expansivity.\nIII. use a capillary tube of large diameter.\n\nwhich of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced?",
+    "option": {
+      "a": "I only",
+      "b": "II. Only",
+      "c": " I and II only",
+      "d": "II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "High volume expansivity means the liquid expands significantly for a small temperature increase, causing a larger movement of the liquid column. This directly enhances sensitivity",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 738,
+    "question": "A conductor has a diameter of 1.00 mm and length 2.00m. if the resistance of the material is 0.1Ω, its resistivity is?",
+    "option": {
+      "a": "2.55 × 10⁵ Ω m",
+      "b": "2.55 × 10² Ω m",
+      "c": "3.93 × 10⁻⁶ Ω m",
+      "d": "3.93 × 10⁻⁸ Ω m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Diameter, d = 1.00 mm = 1.00 × 10⁻³ m\nLength, L = 2.00 m\nResistance, R = 0.1 Ω\n\nSolution:\n\nStep 1: Compute cross‑sectional area\nA = πd²/4 = π × (1.00 × 10⁻³)² / 4 = π × 10⁻⁶ / 4 ≈ 7.854 × 10⁻⁷ m²\n\nStep 2: Resistivity formula\nρ = R × A / L\n\nStep 3: Substitute values\nρ = 0.1 Ω × 7.854 × 10⁻⁷ m² / 2.00 m\n= 0.1 × 3.927 × 10⁻⁷ Ω m\n= 3.927 × 10⁻⁸ Ω m ≈ 3.93 × 10⁻⁸ Ω m",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 305,
+    "question": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
+    "option": {
+      "a": "20 years",
+      "b": "10 years",
+      "c": "2 years",
+      "d": "24 years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nTime elapsed (t) = 120 years\nFraction remaining = 1/64\nHalf-life (T½) = ?\n\nUnderstanding radioactive decay:\nAfter each half-life, half of the material remains.\nStep 1: Determine number of half-lives\nFraction remaining = (1/2)ⁿ\nwhere n = number of half-lives\n1/64 = (1/2)ⁿ\nFinding n:\n64 = 2ⁿ\n2⁶ = 2ⁿ\nn = 6\nSo 6 half-lives have passed.\nStep 2: Calculate half-life\nn × T½ = total time\n6 × T½ = 120 years\nT½ = 120/6\nT½ = 20 years",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 1064,
+    "question": "A ray of light passing through the centre of curvature of a concave mirror is reflected by the mirror at?",
+    "option": {
+      "a": "0°",
+      "b": "45°",
+      "c": "90°",
+      "d": "180°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nRay passes through centre of curvature of concave mirror.\nCentre of curvature lies on the principal axis at distance equal to radius of curvature from the pole.\n\nSolution:\n\nStep 1: Understand the path of the ray\nA ray passing through the centre of curvature strikes the mirror normally (perpendicularly) because it is along the radius.\n\nStep 2: Law of reflection\nWhen a ray is incident normally on a mirror, the angle of incidence is 0°. Therefore, the angle of reflection is also 0°. The ray retraces its path back along the same line.",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

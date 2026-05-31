@@ -9550,5 +9550,21 @@
     "solution": "Given information:\n\nVoltage, V = 5 V\nCharge, Q = 30 C\nCapacitance, C = ?\n\nSolution:\nStep 1: Apply capacitance formula\nThe capacitance of a capacitor is defined as:\nC = Q/V\nStep 2: Substitute the known values\nC = 30/5\nStep 3: Calculate capacitance\nC = 6 F",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 985,
+    "question": "A radioactive isotope has a decay constant of 10⁻⁵ s⁻¹. Calculate half-life",
+    "option": {
+      "a": "6.93 × 10⁻⁵ s",
+      "b": " 6.93 × 10⁵ s",
+      "c": "6.93 × 10⁴ s",
+      "d": "6.93 × 10⁻⁴ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁵ s⁻¹\nHalf-life (T₁/₂) = ?\n\nFormula relating half-life and decay constant:\nT₁/₂ = ln(2)/λ\nT₁/₂ = 0.693/λ\nSubstituting values:\nT₁/₂ = 0.693/(10⁻⁵)\nT₁/₂ = 0.693 × 10⁵\nT₁/₂ = 6.93 × 10⁴ s",
+    "examtype": "utme",
+    "examyear": "2011"
   }
 ]

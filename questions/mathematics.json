@@ -12430,5 +12430,21 @@
     "solution": "V = πr<sup>2</sup>h\n\nV = ?, h = 4cm, r = 5cm\n\nV = 3.14(5)2 (4)\n\nV = 3.14(25)(4)\n\nV = 3.14 × 1200\n\n= 314 cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 197,
+    "question": "Find the equation of the set of points which are equidistant from the parallel lines x = 1 and x = 7",
+    "option": {
+      "a": " y = 3",
+      "b": "x = 3",
+      "c": " x = 4",
+      "d": "y = 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The line equidistant from x = 1 and x = 7 is\n\nx = (1+7)/2 ⟹ x = 4",
+    "examtype": "utme",
+    "examyear": "2002"
   }
 ]

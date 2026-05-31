@@ -718,5 +718,69 @@
     "solution": "Given information:\n\nResistance 1, R₁ = 35 kΩ\nResistance 2, R₂ = 40 kΩ\nEquivalent resistance, Req = 25 kΩ\nUnknown parallel resistance, R = ?\n\nSolution:\nStep 1: Calculate series resistance\nWhen R₁ and R₂ are connected in series:\nRseries = R₁ + R₂\nRseries = 35 + 40\nRseries = 75 kΩ\nStep 2: Apply parallel resistance formula\nResistance R is connected in parallel with Rseries to give Req:\n1/Req = 1/Rseries + 1/R\nStep 3: Substitute known values\n1/25 = 1/75 + 1/R\nStep 4: Solve for R\n1/R = 1/25 - 1/75\n1/R = 3/75 - 1/75\n1/R = 2/75\nR = 75/2\nR = 37.5 kΩ",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 100,
+    "question": "An airplane increases its speed 36 km/h to 360 km/h in 20.0 s. How far does it travel while accelerating.  ",
+    "option": {
+      "a": "4.4 km     ",
+      "b": "1.1 km  ",
+      "c": "2.3 km  ",
+      "d": "1.0 km"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 1102,
+    "question": "A boy receives the echo of his clap reflected by a nearby hill 0.8 s later. How far is he from the hill? [speed of sound in air = 340 m s⁻¹]",
+    "option": {
+      "a": "528 m",
+      "b": "66 m",
+      "c": "136 m",
+      "d": "136 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nTime for echo, t = 0.8 s\nSpeed of sound, v = 340 m s⁻¹\n\nSolution:\n\nStep 1: Understand the echo process\nThe sound travels from the boy to the hill and then back. The total distance covered is twice the distance to the hill (2d).\n\nStep 2: Use the formula\nDistance = speed × time\n2d = v × t\nd = (v × t) / 2\n\nStep 3: Substitute values\nd = (340 × 0.8) / 2 = 272 / 2 = 136 m",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 616,
+    "question": "Electrical appliances at home are normally earthed so that?",
+    "option": {
+      "a": "the appliances are maintained at a lower p.d than the earth",
+      "b": "both the a.c and d.c sources can be used",
+      "c": "a person touching the appliances is safe from electric shock",
+      "d": "the appliances are maintained at a higher p.d than the earth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Earthing is used to protect you from an electric shock. It does this by providing a path (a protective conductor) for a fault current to flow to earth. It also causes the protective device (either a circuit-breaker or fuse) to switch off the electric current to the circuit that has the fault.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 250,
+    "question": "The instrument used to measure the pressure of a gas is",
+    "option": {
+      "a": "barometer",
+      "b": "thermometer",
+      "c": "hydrometer",
+      "d": "manometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Barometer is used to measure atmosphere pressure\nThermometer is used to measure temperature\nHydrometer is used to measure relative density of a liquid\nManometer is used to measure the pressure of a gas",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

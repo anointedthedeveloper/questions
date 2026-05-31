@@ -8846,5 +8846,53 @@
     "solution": "The correct term is dew point.",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 109,
+    "question": "A cigarette lighter in a car is a resistor that, when activated, is connected across the 12 – V battery. If the lighter dissipates 33 W of power, find the current it delivers  to the lighter.  ",
+    "option": {
+      "a": "9.90 Ω  ",
+      "b": "6.60 Ω  ",
+      "c": "4.36",
+      "d": "17.50Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 274,
+    "question": "The velocity ratio of an inclined plane where angle of inclination in θ is",
+    "option": {
+      "a": " Sinθ",
+      "b": "Cosθ",
+      "c": "Tanθ",
+      "d": "1/sinθ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding velocity ratio of inclined plane:\nVelocity Ratio (V.R) = Distance moved by effort / Distance moved by load\nFor an inclined plane:\n\nWhen the load moves a vertical height h\nThe effort moves along the length of the plane L\n\nFrom geometry:\nsin θ = h/L\nTherefore: L = h/sin θ\nVelocity Ratio:\nV.R = L/h = (h/sin θ)/h = 1/sin θ\nAlternative expression:\nV.R = Length of plane / Height = 1/sin θ",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 915,
+    "question": "The pressure of one mole of an ideal gas of volume 10⁻² m³ at a temperature of 27°C is [molar gas constant = 8.3 J mol⁻¹ K⁻¹]",
+    "option": {
+      "a": " 2.49 × 10⁴ Nm⁻²",
+      "b": "2.24 × 10⁴ Nm⁻²",
+      "c": "2.49 × 10⁵ Nm⁻²",
+      "d": "2.24 × 10⁵ Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nNumber of moles (n) = 1 mol\nVolume (V) = 10⁻² m³ = 0.01 m³\nTemperature (T) = 27°C = 27 + 273 = 300 K\nMolar gas constant (R) = 8.3 J mol⁻¹ K⁻¹\nPressure (P) = ?\n\nUsing ideal gas equation:\nPV = nRT\nRearranging for pressure:\nP = nRT/V\nSubstituting values:\nP = (1 × 8.3 × 300)/0.01\nP = 2490/0.01\nP = 249,000 N/m²\nP = 2.49 × 10⁵ Nm⁻²",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

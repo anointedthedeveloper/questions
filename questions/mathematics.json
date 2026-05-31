@@ -15662,5 +15662,53 @@
     "solution": "0.21 x 0.34 = 0.0714\n= 7.14 x 10<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 217,
+    "question": "The triangle PQR above is",
+    "option": {
+      "a": "an obtuse-angled triangle",
+      "b": "a scalene triangle",
+      "c": "an isosceles triangle",
+      "d": "an equilateral triangle"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698158/ALOC-Questions/Mathematics/2002/math_2000_q46_z9epjm.jpg",
+    "answer": "c",
+    "solution": "∠PQR = 180 - 128 (∠s on a straight line)\n= 52°\n∠QPR + 76 + 52 = 180(extr ∠ = sum of intr. opp ∠s)\n∠QPR + 128 = 180\n∠QPR = 180 - 128\n= 52°\n∴ΔPQR is an isosceles triangle",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 759,
+    "question": "The probabilities that a man and his wife live for 80 years are 2/3 and 3/5 respectively. Find the probability that at least one of them will live up to 80 years",
+    "option": {
+      "a": "2/15",
+      "b": "3/15",
+      "c": "7/15",
+      "d": "13/15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Man lives = 2/3\n not live = 1/3\n\n\nWife lives = 3/5\n not live = 2/5\nP(at least one lives to 80 years) = P(man lives to 80 not woman) + P(woman lives to 80 and not man) + P(both live to 80)\n\nP=(2/3 × 2/5) + (2/5 × 1/3) + (2/3 × 3/5)\n\n= 4/15 + 3/15 + 6/15\n\n\n= 13/15",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 406,
+    "question": "The solution set of the shaded area above is",
+    "option": {
+      "a": "Y ≥ 0, y ≥ x and y + x ≤ 4",
+      "b": "Y ≤ x, y + x ≤ 4",
+      "c": "Y + x ≥ 4, y ≤ x",
+      "d": "Y ≤ x, y + x ≤ 4 and y ≥ 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Y = x implies y ≤ x\nY + x = 4 implies y = 4 – x\n∴y = 4 – x\n∴y ≤ x, y + x ≤ 4 and y ≥ 0",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

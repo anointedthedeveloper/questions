@@ -1,3 +1,20 @@
 {
-  "locks": {}
+  "locks": {
+    "biology": {
+      "machine": "PCTOP",
+      "time": 1780265174.1084538
+    },
+    "economics": {
+      "machine": "PCTOP",
+      "time": 1780265174.0958107
+    },
+    "government": {
+      "machine": "PCTOP",
+      "time": 1780265174.2846556
+    },
+    "literature-in-english": {
+      "machine": "PCTOP",
+      "time": 1780265174.2210782
+    }
+  }
 }

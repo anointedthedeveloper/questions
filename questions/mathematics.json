@@ -16190,5 +16190,21 @@
     "solution": "((0.5652<sup>2</sup>-(0.4375)<sup>2</sup>)/0.04  ((0.5625+0.4375)(0.5625-0.4375))/0.04  (1.000×0.125)/0.04=3.125=3.13",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 802,
+    "question": "In the diagram given, find the value of x.",
+    "option": {
+      "a": "30°",
+      "b": "40°",
+      "c": "45°",
+      "d": "15°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131352/ALOC-Questions/Mathematics/2013/2013_MATH_JAMB_Q33_un2psj.jpg",
+    "answer": "b",
+    "solution": "In the diagram above, < CDE = < CED = 15°\n\n(base < s of isos. △)\n\n< ECD = 180° - (15 + 15)°\n\n= 180° - 30° = 150°\n\nBut x + 110° = 150°\n\n(Sum of opp. interior < s of a△\n = opp. exterior < )\n\nx = 150° - 110° = 40°",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

@@ -9934,5 +9934,37 @@
     "solution": "Total internal reflection will not occur when light travels from water into glass.",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 649,
+    "question": "If a force of 50N stretches a wire from 20m to 20.01m, what is the amount of force required to stretch the same material from 20m to 20.05m?",
+    "option": {
+      "a": " 250N",
+      "b": "200N",
+      "c": "100N",
+      "d": ". 50N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nForce₁, F₁ = 50 N\nOriginal length, L₀ = 20 m\nExtension₁, e₁ = 20.01 - 20 = 0.01 m\nExtension₂, e₂ = 20.05 - 20 = 0.05 m\nForce₂, F₂ = ?\n\nSolution:\nStep 1: Apply Hooke's Law\nHooke's Law states: F = ke\nWhere:\n\nF = applied force\nk = spring constant (stiffness)\ne = extension\n\nThis can also be written as: F ∝ e (force is proportional to extension)\nStep 2: Set up proportion\nFor the same material (same spring constant):\nF₁/e₁ = F₂/e₂\nStep 3: Substitute values\n50/0.01 = F₂/0.05\nStep 4: Solve for F₂\nF₂ = (50 × 0.05)/0.01\nF₂ = 2.5/0.01\nF₂ = 250 N\nStep 5: Alternative approach\nSince e₂ = 5 × e₁ (0.05 = 5 × 0.01)\nAnd F ∝ e\nTherefore: F₂ = 5 × F₁ = 5 × 50 = 250 N",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 834,
+    "question": "When a pure semiconductor is heated, its resistance?",
+    "option": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remains the same",
+      "d": "increases and then decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Heating a pure semiconductor increases the mobility of electrons and holes and hence the conductivity. thus, the resistance decreases on heating",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

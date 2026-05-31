@@ -12238,5 +12238,53 @@
     "solution": "Let the angle for school fees = x°\n\nThen Housing = 2x°\n\n120° + 90° + x° + 2x° = 360°\n\n3x° = 150° ⟹ x° = 50°.\n\nAmount spent on housing = 100/360 × 7200\n= N2000.",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 866,
+    "question": "Determine the mean score of the student that took the mathematics test?",
+    "option": {
+      "a": "4.5",
+      "b": "4.3",
+      "c": "4.2",
+      "d": " 4.6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003306/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q48_cmhnqy.jpg",
+    "answer": "c",
+    "solution": "(3 x 0) + (1 x 2) + (5 x 2) + (5 x 3) + (5 x 4) +\n(10 x 5) + (4 x 6) + (3 x 7) + (1 x 8) + (2 x 9) ÷\n 40\n\n= 168/40 = 4.2",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 83,
+    "question": "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity\n",
+    "option": {
+      "a": "p",
+      "b": "p -1",
+      "c": "p/(p-1)",
+      "d": " p/(p+1)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "If P-1 is the inverse of P and O is the identity, Then P-1 * P = P * P-1 = 0\ni.e. P-1 + P - P-1.P = 0\nP-1 - P-1.P = -P\nP-1(1 - P) = -P\nP-1 = -P/(P-1)\n= P/(P-1)",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 52,
+    "question": "A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ",
+    "option": {
+      "a": "N180 ",
+      "b": "N 165 ",
+      "c": "N15   ",
+      "d": "N 200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   }
 ]

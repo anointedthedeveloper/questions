@@ -9118,5 +9118,53 @@
     "solution": "Permanent hardness in water is caused by dissolved calcium sulphate (CaSO₄) and magnesium sulphate (MgSO₄) — the sulphate salts of Ca²⁺ and Mg²⁺. Unlike temporary hardness caused by bicarbonates, permanent hardness cannot be removed by boiling. It requires treatment with washing soda (Na₂CO₃) or ion exchange to remove the Ca²⁺ and Mg²⁺ ions.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 714,
+    "question": "Which of the following is a common property of non-metals?",
+    "option": {
+      "a": "Exist as solids at room temperature",
+      "b": "Tend to gain electrons in chemical reactions",
+      "c": "High thermal conductivity",
+      "d": "Readily form cations in chemical reactions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Non-metals tend to gain electrons in chemical reactions, forming negatively charged anions. This is because non-metals have high electronegativities and need relatively few electrons to complete their outer shells. High thermal and electrical conductivity are properties of metals. Most non-metals are gases or have low melting points at room temperature, though some like carbon (graphite) are solid. Forming cations is a property of metals.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 427,
+    "question": "The mass of silver deposited when a current of 10 A is passed through a solution of silver salt for 4830 s is [Ag = 108, F = 96500 C mol⁻¹]",
+    "option": {
+      "a": "54.0 g",
+      "b": "27.0 g",
+      "c": "13.5 g",
+      "d": "108.0 g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Charge = I × t = 10 × 4830 = 48300 C. Moles of electrons = 48300/96500 = 0.5 mol. Ag⁺ + e⁻ → Ag, so moles of Ag = 0.5 mol. Mass of Ag = 0.5 × 108 = 54.0 g.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 272,
+    "question": "Substances employed as drying agents are usually",
+    "option": {
+      "a": "Hygroscopic",
+      "b": "Efflorescent",
+      "c": "Acidic",
+      "d": "Amphoteric"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
   }
 ]

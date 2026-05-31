@@ -238,5 +238,85 @@
     "solution": "Acceleration is defined as the rate of change of velocity. This means a bus can accelerate by changing its speed, direction, or both. However, the most general definition of acceleration involves a change in velocity.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 240,
+    "question": "A block and tackle pulley arrangement has 6 pulleys in which an effort of 50N supports a load of 200N, calculate the efficiency of the machine",
+    "option": {
+      "a": "80.00%",
+      "b": "76.60%",
+      "c": "66.70%",
+      "d": "60.70%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nNumber of pulleys = 6\nEffort (E) = 50N\nLoad (L) = 200N\nEfficiency = ?\n\nStep 1: Calculate Mechanical Advantage (M.A)\nM.A = Load/Effort = 200/50 = 4\nStep 2: Calculate Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings = 6\nStep 3: Calculate Efficiency\nEfficiency = (M.A/V.R) × 100%\nEfficiency = (4/6) × 100%\nEfficiency = 0.667 × 100%\nEfficiency = 66.7%",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 844,
+    "question": "If a convex lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?",
+    "option": {
+      "a": "10 cm",
+      "b": "15 cm",
+      "c": "20 cm",
+      "d": "25 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nFocal length (f) = +12 cm (positive for convex lens)\nMagnification (m) = -4 (negative because real images are inverted)\nObject distance (u) = ?\n\nStep 1: Use magnification formula\nm = v/u\n-4 = v/u\nv = -4u\n(Note: v is negative for real images in sign convention where object distance is negative)\nActually, using the proper sign convention where object is on left:\n\nu = -|u| (negative, object on left)\nv = +|v| (positive, real image on right)\nm = -v/u = -4\n\nSo: -v/u = -4\nv = 4u (in magnitude)\nStep 2: Use lens formula\n1/f = 1/v - 1/u\nUsing sign convention (u negative, v positive, f positive):\n1/12 = 1/v - 1/(-u)\n1/12 = 1/v + 1/u\nSince v = 4u:\n1/12 = 1/(4u) + 1/u\n1/12 = 1/(4u) + 4/(4u)\n1/12 = 5/(4u)\n4u = 60\nu = 15 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 426,
+    "question": "A given mass of gas has a pressure of 80 Nm⁻² at a temperature of 47°C. If the temperature is reduced to 27°C with volume remaining constant, the new pressure is?",
+    "option": {
+      "a": "46.0 Nm⁻²",
+      "b": "75.0 Nm⁻²",
+      "c": "80.0 Nm⁻²",
+      "d": "85.3 Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial pressure (P₁) = 80 Nm⁻²\nInitial temperature (T₁) = 47°C = 47 + 273 = 320 K\nFinal temperature (T₂) = 27°C = 27 + 273 = 300 K\nVolume constant\nFinal pressure (P₂) = ?\n\nUsing Gay-Lussac's Law (Pressure Law):\nAt constant volume: P₁/T₁ = P₂/T₂\nRearranging to find P₂:\nP₂ = P₁ × (T₂/T₁)\nSubstituting values:\nP₂ = 80 × (300/320)\nP₂ = 80 × 0.9375\nP₂ = 75 Nm⁻²\nExplanation:\nWhen temperature decreases at constant volume, pressure decreases proportionally because the average kinetic energy of gas molecules decreases, resulting in fewer and less forceful collisions with the container walls.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 416,
+    "question": "In which of the following diagrams is the length of the tube equal to one wavelength? ",
+    "option": {
+      "a": "a",
+      "b": "b",
+      "c": "c",
+      "d": "d"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612949/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_37_tzrwtk.jpg",
+    "answer": "c",
+    "solution": "Diagram C shows a tube length equal to one wavelength, displaying one complete wave cycle with a full crest and trough.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 835,
+    "question": "I. for current amplification.\n\nII. for voltage stabilization.\n\nIII. for power amplification.\n\nIV. as a switch.\n\nwhich of the above are the uses of transistor?",
+    "option": {
+      "a": "I, II, III and IV",
+      "b": " I, III and IV only",
+      "c": "I, II and III only",
+      "d": " I, II and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The uses of a transistor are current amplification, power amplification, and as a switch.\n",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

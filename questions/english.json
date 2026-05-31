@@ -14058,5 +14058,43 @@
     "questionNub": 79,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1380,
+    "question": "This type of response is [typical] of a lazy teacher",
+    "option": {
+      "a": "symptomatic",
+      "b": "characteristics",
+      "c": "universal",
+      "d": "incontestable"
+    },
+    "section": "Choose the one nearest in meaning to the word(s) in bracket",
+    "image": "",
+    "answer": "b",
+    "solution": "Characteristic is correct answer. A thing is described as 'typical' of something else when becomes an observable and noticeable quality or attribute of it.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 7,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1506,
+    "question": "The <u>exhibition</u> was an eye-opener to all",
+    "option": {
+      "a": "style",
+      "b": "examination",
+      "c": "dispatch",
+      "d": "display"
+    },
+    "section": "Choose the option nearest in meaning to the underlined.",
+    "image": "",
+    "answer": "d",
+    "solution": "Exhibition means a public display of woks of art or items of interest",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 23,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

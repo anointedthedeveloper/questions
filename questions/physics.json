@@ -3742,5 +3742,85 @@
     "solution": "When a sound wave goes from a cold air region to a hot air region, its wavelength will increase because sound travels faster in hot air while the frequency remains constant.",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 747,
+    "question": "Use the diagram above to answer the question below.\n\nWhich of the following diagrams represents the magnetic field of two isolated unlike poles",
+    "option": {
+      "a": "A",
+      "b": "B ",
+      "c": "C",
+      "d": "D"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430720/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_48_ixllq2.png",
+    "answer": "b",
+    "solution": "Diagram B correctly represents two isolated unlike poles, with clear, symmetric field lines joining N to S",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 778,
+    "question": "A blacksmith heated a metal whose cubic expansivity is 6.3 × 10⁻⁶ K⁻¹. The area expansivity is",
+    "option": {
+      "a": "2.0 × 10⁻⁶ K⁻¹",
+      "b": "2.1 × 10⁻⁶ K⁻¹",
+      "c": "4.2 × 10⁻⁶ K⁻¹",
+      "d": "6.3 × 10⁻⁶ K⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nCubic expansivity (γ) = 6.3 × 10⁻⁶ K⁻¹\n\nSolution:\n\nStep 1: Relationship between expansivities\nFor an isotropic solid:\nLinear expansivity α = γ / 3\nArea expansivity β = 2α\n\nStep 2: Express area expansivity in terms of cubic expansivity\nβ = 2 × (γ / 3) = (2/3)γ\n\nStep 3: Substitute the given value\nβ = (2/3) × 6.3 × 10⁻⁶ K⁻¹\nβ = (12.6 / 3) × 10⁻⁶ K⁻¹\nβ = 4.2 × 10⁻⁶ K⁻¹",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 355,
+    "question": "A thermocouple thermometer is connected to a millivoltmeter which can read up to 10mV. When one junction is in ice at 0°C and the other is in steam at 100°C, the millivoltmeter reads 4mV. What is the maximum temperature which this arrangement can measure?",
+    "option": {
+      "a": "100°C",
+      "b": "248°C",
+      "c": "250°C",
+      "d": "350°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMillivoltmeter maximum reading = 10 mV\nTemperature difference (0°C to 100°C) produces 4 mV\nReference junction at 0°C\nMaximum temperature = ?\n\nStep 1: Find the temperature-voltage relationship\nTemperature difference of 100°C produces 4 mV\nRate = 100°C / 4 mV = 25°C per mV\nStep 2: Calculate maximum temperature\nMaximum reading = 10 mV\nMaximum temperature difference from 0°C:\nΔT = 10 mV × 25°C/mV = 250°C\nMaximum temperature:\nT_max = 0°C + 250°C = 250°C",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 457,
+    "question": "The velocities of light in air and glass are 3.0 × 10⁸ ms⁻¹ and 2.0 × 10⁸ ms⁻¹ respectively. If the angle of refraction is 30°, the sine of the angle of incidence is?",
+    "option": {
+      "a": "0.33",
+      "b": "0.5",
+      "c": "0.67",
+      "d": "0.75"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nVelocity of light in air (v₁) = 3.0 × 10⁸ m/s\nVelocity of light in glass (v₂) = 2.0 × 10⁸ m/s\nAngle of refraction in glass (r) = 30°\nAngle of incidence in air (i) = ?\n\nStep 1: Calculate refractive index of glass relative to air\nn = v₁/v₂ = (3.0 × 10⁸)/(2.0 × 10⁸) = 3/2 = 1.5\nStep 2: Apply Snell's Law\nn₁ sin i = n₂ sin r\nTaking air as medium 1 (n₁ = 1) and glass as medium 2 (n₂ = n = 1.5):\n1 × sin i = 1.5 × sin 30°\nStep 3: Calculate sin i\nsin i = 1.5 × sin 30°\nsin i = 1.5 × 0.5\nsin i = 0.75",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1014,
+    "question": "Two metals P and Q are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their length is 3:4 respectively, the ratio of the increase in lengths of P to Q is",
+    "option": {
+      "a": "1:2",
+      "b": "2:1",
+      "c": "8:9",
+      "d": "9:8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nRatio of linear expansivities, α₁ / α₂ = 2 / 3\nRatio of original lengths, L₁ / L₂ = 3 / 4\nTemperature change Δθ is the same for both.\n\nSolution:\n\nStep 1: Formula for increase in length\nΔL = α L Δθ\n\nStep 2: Ratio of increases\nΔL₁ / ΔL₂ = (α₁ L₁ Δθ) / (α₂ L₂ Δθ) = (α₁ / α₂) × (L₁ / L₂)\n\nStep 3: Substitute the given ratios\nΔL₁ / ΔL₂ = (2 / 3) × (3 / 4) = 6 / 12 = 1 / 2",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

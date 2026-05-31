@@ -13534,5 +13534,37 @@
     "solution": "∑x=6x∑(x-¯x )<sup>2</sup> =2¯x=(∑x)/n=6x/3=2xVariance=(∑(x-¯x )<sup>2</sup> )/n=2/3",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 1041,
+    "question": "Express the product of 0.0014 and 0.011 in standard form ",
+    "option": {
+      "a": "1.54 x 10<sup>-2</sup>",
+      "b": "1.54 x 10<sup>-3</sup>",
+      "c": "1.54 x 10<sup>-2</sup>",
+      "d": "1.54 x 10<sup>--5</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 733,
+    "question": "If y varies directly as √n\n and y = 4 when n = 4, find y when n = 1(7/9)",
+    "option": {
+      "a": "√17",
+      "b": "4/3",
+      "c": "8/3",
+      "d": "2/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y ∝√n\n\n\ny = k√n\n\n\nwhen y = 4, n = 4\n4 = k√4\n\n\n4 = 2k\n\nk = 2\n\nTherefore,\n\ny = 2√n\n\ny = 2√(16/9)\n\n\ny = 2(4/3)\n\n\ny = 8/3",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

@@ -10462,5 +10462,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 349,
+    "question": "According to the kinetic theory, an absence in temperature causes the kinetic energy of particles to",
+    "option": {
+      "a": "decrease",
+      "b": "increase",
+      "c": "remain constant",
+      "d": "be zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "According to the kinetic theory, the kinetic energy of particles is directly proportional to absolute temperature. At absolute zero (0 K), temperature is absent and particle motion theoretically ceases completely, so kinetic energy becomes zero.",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

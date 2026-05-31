@@ -5054,5 +5054,37 @@
     "solution": "When the base current of a common-emitter transistor is zero, it operates in the cut-off region, meaning it does not conduct current. This region is essential for the transistor to act as an off switch in circuits.",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 527,
+    "question": "The near point of a patient's eye is 50.0 cm. What power (in diopters) must a corrective lens have to enable the eye to see clearly an object 25.0 cm away?",
+    "option": {
+      "a": "2 diopters",
+      "b": "2.5 diopters",
+      "c": "0.5 diopters",
+      "d": "3 diopters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nNear point (without correction) = 50.0 cm\nDesired object distance, u = 25.0 cm\nImage distance (where eye can see clearly), v = -50.0 cm (virtual image)\nPower, P = ?\n\nSolution:\nStep 1: Understand the requirement\nThe lens must form a virtual image at 50 cm (the eye's near point) when the object is at 25 cm. This allows the eye to see the object clearly.\nStep 2: Apply lens formula\n1/f = 1/v - 1/u\nSign convention:\n\nObject distance, u = -25.0 cm (object is on the left)\nImage distance, v = -50.0 cm (virtual image on the same side)\n\nStep 3: Calculate focal length\n1/f = 1/(-50) - 1/(-25)\n1/f = -1/50 + 1/25\n1/f = -1/50 + 2/50\n1/f = 1/50\nf = 50 cm = 0.50 m\nStep 4: Calculate power\nPower, P = 1/f (in meters)\nP = 1/0.50\nP = 2 diopters",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 371,
+    "question": "A mixture of blue and red pigment when illuminated by white light will appear",
+    "option": {
+      "a": "green",
+      "b": "orange",
+      "c": "yellow",
+      "d": "magenta"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A mixture of blue and red pigment when illuminated by white light will appear magenta (purple), as both red and blue wavelengths are reflected while other colors are absorbed.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

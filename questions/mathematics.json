@@ -16382,5 +16382,21 @@
     "solution": "The range of a set of numbers is the difference between the largest and the smallest values in the set.\n\nGiven the set: 4, 3, 11, 9, 6, 15, 19, 23, 27, 24, 21, 16\n\nThe smallest value is 3, and the largest value is 27.\n\nRange = Largest Value − Smallest Value\nRange=Largest Value−Smallest Value\nRange = 27 − 3\nRange = 27 − 3\nRange = 24\nRange = 24\n\nSo, the range of the given set is 24.\n\n\n\n\n",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 143,
+    "question": "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q.",
+    "option": {
+      "a": " 040°",
+      "b": " 070°",
+      "c": "280°",
+      "d": " 320°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Hint: Simply make a sketch of the question and find the bearing to be 070°",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

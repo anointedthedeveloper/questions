@@ -7294,5 +7294,53 @@
     "solution": "Given information:\n\nDistance (d) = 4.95 km = 4950 m\nVelocity of sound (v) = 330 m/s\nTime (t) = ?\n\nFormula:\nTime = Distance/Velocity\nt = d/v\nSubstituting values:\nt = 4950/330\nt = 15 s",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 840,
+    "question": "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by?",
+    "option": {
+      "a": "moving Q nearer to O",
+      "b": "moving P nearer to O",
+      "c": "addding a weight Q to O",
+      "d": " moving P further away from O"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432399/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_41_pq0eiq.png",
+    "answer": "b",
+    "solution": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 13,
+    "question": "Light wave and ripples of water are similar because both",
+    "option": {
+      "a": "are longitudinal waves ",
+      "b": "have the same velocity ",
+      "c": "can be diffracted and refracted ",
+      "d": "have the same frequency "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 177,
+    "question": "What is the S.I unit of relative density?",
+    "option": {
+      "a": " kg m-2",
+      "b": "kg m2",
+      "c": " kg cm³",
+      "d": "has no S.I unit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Relative Density (Specific Gravity) is defined as:\nRelative Density = Density of substance / Density of water\nKey point:\n\nIt's a ratio of two densities\nBoth have the same units (kg/m³)\nWhen you divide, the units cancel out\n\nExample:\nRelative Density = (1000 kg/m³) / (1000 kg/m³) = 1 (no units)\nTherefore, relative density is dimensionless - it's just a number with no units.\nAnswer: D. has no S.I unit",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

@@ -15086,5 +15086,69 @@
     "solution": "A = πr<sup>2</sup>, δA/δr\n = 2πr\n\nSo, using δAδt\n = δA/δr x δAδt\n\n\n= 2πr x 0.02\n\n= 2π x 7 x 0.02\n\n= 2 x 22/7 x 0.02\n\n=  0.88cm<sup>2</sup>S<sup>-1</sup>",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 930,
+    "question": "The probabilities that John and James pass an examination are 3/4 and 3/5 respectively. Find the probability of both boys failing the examination.",
+    "option": {
+      "a": " 1/10",
+      "b": "2/10",
+      "c": "9/20",
+      "d": "11/20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Pr(both John and James passed)\n\n= 3/4 x 3/5 = 9/20\nPr(john and james failed)= 1-Pr(john and james passed)\n= 1 – 920\n= 11/20",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 933,
+    "question": "p = [(Q(R - T)/(15))]<sup>1/3</sup>",
+    "option": {
+      "a": "T = (R+P3)/15Q",
+      "b": "T = (R-15P<sup>3</sup>)/Q",
+      "c": "T = R - (15P<sup>3</sup>)/Q",
+      "d": "T = (15R+Q)/P<sup>3</sup> "
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mi>Q</mi>\n      <mo stretchy=\"false\">(</mo>\n      <mi>R</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mi>T</mi>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>15</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mfrac>\n      <mn>1</mn>\n      <mn>3</mn>\n    </mfrac>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "P = (Q(R−T)/15)<sup>(1/3)</sup>\ntake cube of both sides\n\nP<sup>3</sup>=Q(R−T)/15\ncross multiply\n\n15P<sup>3</sup>=Q(R−T)\n15P<sup>3</sup>/Q = R - T \n\nT = R - 15P<sup>3</sup>/Q\n ",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 768,
+    "question": "Find dy/dx if y = cosx\n.",
+    "option": {
+      "a": " sinx",
+      "b": "−sinx",
+      "c": "tanx",
+      "d": "−tanx"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If y = cosx                            dy/dx =—sinx",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 247,
+    "question": "Determine the maximum value of y = 3x<sup>2</sup> - x<sup>3</sup>",
+    "option": {
+      "a": " zero",
+      "b": "2",
+      "c": " 4",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = 3x<sup>2</sup> - x<sup>3</sup>\ndy/dx = 6x - 3x<sup>2</sup>\nas dy/dx = 0\n6x - 3x<sup>2</sup> = 0\n3x (2 - x) = 0\nthis implies that 2 -x = 0 and 3x = 0\nx = 2 (or) 0\nBut = dy/dx = 6x - 3x<sup>2</sup>\nd<sup>2</sup>y/dx<sup>2</sup> = 6 - 6x at x = 2\n= 6 - 6(2)\n= -6\ny = 3x<sup>2</sup> - x<sup>3</sup>\n= 3(2)<sup>2</sup> - 2<sup>3</sup>\n= 12 - 8\n= 4",
+    "examtype": "utme",
+    "examyear": "2003"
   }
 ]

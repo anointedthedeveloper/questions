@@ -11086,5 +11086,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 443,
+    "question": "The gas that can be collected by downward displacement of air is",
+    "option": {
+      "a": "chlorine",
+      "b": "sulphur (IV) oxide",
+      "c": "carbon (IV) oxide",
+      "d": "ammonia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Ammonia (NH₃) is less dense than air (molar mass 17 g mol⁻¹ vs air ~29 g mol⁻¹), so it rises and can be collected by downward displacement of air (gas collected from the top of an inverted container). Chlorine, SO₂, and CO₂ are all denser than air and are collected by upward displacement of air.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 507,
+    "question": "The IUPAC name for CH₃CH₂COOCH₂CH₃ is",
+    "option": {
+      "a": "methylpropanoate",
+      "b": "ethylethanoate",
+      "c": "ethylpropanoate",
+      "d": "methylethanoate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "CH₃CH₂COOCH₂CH₃ is an ester. The acid part is CH₃CH₂COO- (propanoic acid, 3 carbons), and the alcohol part is -CH₂CH₃ (ethyl group, 2 carbons). IUPAC name: ethyl propanoate. The alcohol portion names the ester first (ethyl), followed by the acid portion (-anoate): ethylpropanoate.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

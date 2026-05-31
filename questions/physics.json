@@ -10670,5 +10670,85 @@
     "solution": "Given information:\n\nPower (P) = 5.0 dioptres (D)\nFocal length (f) = ?\n\nFormula:\nP = 1/f\nwhere:\n\nP is in dioptres (D)\nf is in meters (m)\n\nRearranging to find focal length:\nf = 1/P\nSubstituting values:\nf = 1/5.0\nf = 0.2 m",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 221,
+    "question": "If the magnification of a virtual image formed by an object 10cm from a convex less is 3, then the focal length of the lens is",
+    "option": {
+      "a": "10cm",
+      "b": "20cm",
+      "c": "25cm",
+      "d": "15cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nObject distance (u) = 10 cm\nMagnification (m) = 3 (virtual image, so positive)\nFocal length (f) = ?\n\nFormula for magnification:\nm = v/u\nwhere v = image distance\nFinding image distance:\n3 = v/10\nv = 30 cm\nFor virtual image from convex lens:\nv is negative (virtual image on same side as object)\nv = -30 cm\nUsing lens formula:\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-30) - 1/(-10)\n1/f = -1/30 + 1/10\n1/f = -1/30 + 3/30\n1/f = 2/30\n1/f = 1/15\nTherefore:\nf = 15 cm",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 1062,
+    "question": "If a sonometer has a fundamental frequency of 450HZ, what is the frequency of the fifth overtone?",
+    "option": {
+      "a": " 2700Hz",
+      "b": "456Hz",
+      "c": "444Hz",
+      "d": "75Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nFundamental frequency (first harmonic), f₁ = 450 Hz\nOvertone requested: fifth overtone\n\nSolution:\n\nStep 1: Understand harmonics and overtones\nFor a string fixed at both ends (sonometer wire), the natural frequencies are integer multiples of the fundamental:\nfₙ = n × f₁, where n = 1, 2, 3, ...\n\nFundamental (1st harmonic) = f₁\n\n1st overtone = 2nd harmonic = 2f₁\n\n2nd overtone = 3rd harmonic = 3f₁\n\n3rd overtone = 4th harmonic = 4f₁\n\n4th overtone = 5th harmonic = 5f₁\n\n5th overtone = 6th harmonic = 6f₁\n\nStep 2: Calculate the fifth overtone\nfifth overtone = 6 × f₁ = 6 × 450 Hz = 2700 Hz",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 273,
+    "question": "Which of the following is not a mechanical wave?",
+    "option": {
+      "a": " wave in closed pipe",
+      "b": "radio waves",
+      "c": "water waves",
+      "d": "sound waves"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Radio waves are not mechanical waves because they are electromagnetic waves that do not require a medium for propagation.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 143,
+    "question": "If an object is placed at a height of tem above the ground at a stationary point. It posses what types of energy?",
+    "option": {
+      "a": "Mechanical energy",
+      "b": "Stationary energy",
+      "c": " Potential energy",
+      "d": "Vibrational energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Energy due to position T is potential energy (P.E)\n\nEnergy due to motion is kinetic energy (K.E)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 821,
+    "question": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?",
+    "option": {
+      "a": " 3.0 cm",
+      "b": "8.0 cm",
+      "c": "12.0 cm",
+      "d": "16.0 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nObject height = 4 cm\nImage height = 2 cm\nImage distance (camera size) = 6 cm\n\nSolution:\n\nStep 1: Magnification formula for pinhole camera\nMagnification = Image height / Object height = Image distance / Object distance\n\nStep 2: Substitute known values\n2/4 = 6 / u\n1/2 = 6 / u\n\nStep 3: Solve for object distance u\nu = 6 × 2 = 12 cm",
+    "examtype": "utme",
+    "examyear": "2008"
   }
 ]

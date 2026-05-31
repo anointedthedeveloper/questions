@@ -16526,5 +16526,37 @@
     "solution": "square both sides to remove the big square root\n\n→ r<sup>2</sup>\n = 3v/πh\ncross multiply\n\n3v = r<sup>2</sup>\n * πh\n\nv = πr<sup>2</sup>h/3",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 152,
+    "question": "If y = x sinx, find dy/dx when x = π/2.",
+    "option": {
+      "a": "-π/2",
+      "b": "-1",
+      "c": " 1",
+      "d": "π/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = x sin x\ndy/dx = 1 x sinx + x cosx\n= sinx + x cosx\nAt x = π/2, = sin (π/2) + (π/2) cos (π/2)\n= 1 + (π/2) x (0) = 1",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 65,
+    "question": "A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared? ",
+    "option": {
+      "a": "15",
+      "b": "25",
+      "c": "30",
+      "d": "50"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   }
 ]

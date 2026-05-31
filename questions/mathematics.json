@@ -16990,5 +16990,37 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 321,
+    "question": "the graph above shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks?",
+    "option": {
+      "a": " 68%",
+      "b": "28%",
+      "c": "17%",
+      "d": "8%"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710701242/ALOC-Questions/Mathematics/2004/math_2004_q50_hjerct.jpg",
+    "answer": "b",
+    "solution": "% of students scoring more than 20 marks\n\n= \n \n 7/25 x 100% = 28%",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1055,
+    "question": "The mean age group of some students is 15years. When the age of a teacher, 45 years old, is added to the ages of the students, the mean of their ages become 18 years. Find the number of students in the group.",
+    "option": {
+      "a": "7",
+      "b": "9",
+      "c": "15",
+      "d": "42"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x( ∑x)/N\n15 = (∑x)/N\n∑x = 15N........(i)\n\ny = ∑y/Ny = (∑x+45)/(N + 1)\n18/1 = (15N + 45)/(N + 1)\n \n\n18(N + 1) = 15N + 45\n\n18N + 18 = 15N + 45\n\n18N - 15N = 45 - 18 \n\n3N = 27 \n\nN = 27/3\n \n\n= 9",
+    "examtype": "2020",
+    "examyear": "utme"
   }
 ]

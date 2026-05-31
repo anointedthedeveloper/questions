@@ -12046,5 +12046,69 @@
     "solution": "Given information:\n\nLength of each edge, L = 1.5 cm = 0.015 m\nDensity of aluminum, ρ = 2700 kg/m³\nMass, m = ?\n\nSolution:\nStep 1: Calculate volume of the cube\nVolume = L³\nV = (0.015)³\nV = 3.375 × 10⁻⁶ m³\nStep 2: Apply density formula\nDensity = Mass/Volume\nρ = m/V\nm = ρV\nStep 3: Substitute values\nm = 2700 × 3.375 × 10⁻⁶\nm = 9112.5 × 10⁻⁶ kg\nm = 9.1125 × 10⁻³ kg\nStep 4: Convert to grams\nm = 9.1125 g\nm ≈ 9.1 g",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 588,
+    "question": "A cell of internal resistance of 2Ω supplies current through a resistor, X. If the efficiency of the cell is 75%, find the value of X.",
+    "option": {
+      "a": "2Ω",
+      "b": "4Ω",
+      "c": "6Ω",
+      "d": "8Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Solution:\nGiven information:\n\nInternal resistance (r) = 2Ω\nExternal resistance (R) = X\nEfficiency = 75% = 0.75\nValue of X = ?\n\nUnderstanding cell efficiency:\nEfficiency of a cell = (Power delivered to external load) / (Total power from cell)\nFormula for efficiency:\nEfficiency = R / (R + r)\nwhere:\n\nR = external resistance\nr = internal resistance\n\nSetting up equation:\n0.75 = X / (X + 2)\nSolving for X:\n0.75(X + 2) = X\n0.75X + 1.5 = X\n1.5 = X - 0.75X\n1.5 = 0.25X\nX = 1.5 / 0.25\nX = 6Ω",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1090,
+    "question": "The energy in the nucleus of atoms produce heat which can be used to generate",
+    "option": {
+      "a": " Kinetic energy",
+      "b": "Mechanical energy",
+      "c": "Electrical energy",
+      "d": "Potential energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Electrical energy: This is primarily done in nuclear power plants, where the heat generated from nuclear reactions is used to produce steam that drives turbines, ultimately generating electricity.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 596,
+    "question": "The degree of precision of a vernier caliper is ",
+    "option": {
+      "a": "0.005 cm",
+      "b": "0.01 cm",
+      "c": "0.1 cm",
+      "d": "1.0 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A standard vernier caliper usually has the least count (its degree of accuracy) of 0.01 cm, meaning it can make measurements to the nearest hundredth of a centimeter. This level of precision allows for accurate readings in various applications.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1055,
+    "question": "Steam from boiling water causes more damage on the skin than does boiling water because",
+    "option": {
+      "a": " water has a high specific heat",
+      "b": "steam has latent heat of vaporization",
+      "c": "the steam is at a highter temperature than the water",
+      "d": " steam brings heat more easily by convection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Steam causes worse burns because when it condenses on skin, it releases the latent heat of vaporization (approximately 2260 kJ/kg at 100°C), which is a huge amount of energy in addition to the sensible heat released as it cools.",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

@@ -9134,5 +9134,37 @@
     "solution": "Capacitors are used to prevent electric sparks.",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 884,
+    "question": "When a pentavalent impurity is added to a pure semiconductor, it becomes?",
+    "option": {
+      "a": "a p-type semiconductor",
+      "b": "an n-type semiconductor",
+      "c": "an insulator",
+      "d": "an intrinsic semi-conductor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a pentavalent (5 outer electron)atom is added to a pure semiconductor, there is an extra electrons which does not take part in the covalent bonding resulting in an n-type semiconductor.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 37,
+    "question": "It is known that an atomic nucleus comprises of positive charged protons. Which of the following also exist in the nucleus? ",
+    "option": {
+      "a": "a beta particle ",
+      "b": "an Alpha particle ",
+      "c": "A neutron ",
+      "d": "An electron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   }
 ]

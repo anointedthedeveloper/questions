@@ -7198,5 +7198,37 @@
     "solution": "Step 1: Recall standard atmospheric pressure\nStandard atmospheric pressure at sea level:\n\n1 atmosphere (atm)\n101,325 Pa\n760 mmHg (millimeters of mercury)\n\nStep 2: Convert to appropriate units\n760 mmHg = 760 mm\nConvert to centimeters:\n760 mm = 760/10 cm = 76 cm",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 875,
+    "question": "Which of the following is a secondary colour",
+    "option": {
+      "a": "blue",
+      "b": "orange",
+      "c": "red",
+      "d": "green"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Primary colours are red, blue and green\n∴ orange is a secondary colour",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 21,
+    "question": "When a ball rolls on a  smooth level ground, the motion of its centre is ",
+    "option": {
+      "a": "translational ",
+      "b": "Random ",
+      "c": "Oscillatory ",
+      "d": "Rotational"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   }
 ]

@@ -15534,5 +15534,37 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 106,
+    "question": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5 ",
+    "option": {
+      "a": "16",
+      "b": "14",
+      "c": "12",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Range = Highest - lowest number => 10-4 = 6\nMode is the number with highest occurrence => Mode = 10\n\nSum = 6 + 10 = 16",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 465,
+    "question": "Find the value of (tan60°-tan30°)/(tan60°+tan 30° )",
+    "option": {
+      "a": "4/√3",
+      "b": "2/√3",
+      "c": " 1",
+      "d": "1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "(tan〖60〗°-tan〖30〗°)/(tan〖60〗°+tan〖30〗° )=(√3-1/√3)/(√3+1/√3)=((√3 √3-1)/√3)÷((√3 √3+1)/√3)=((3-1))/((3+1))=2/4=1/2",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

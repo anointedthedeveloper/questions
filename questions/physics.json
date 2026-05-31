@@ -8542,5 +8542,53 @@
     "solution": "The conductivity of gases at low pressure can be termed as cold cathode emission and field emission, both of which occur without heating and are characteristic of gas discharge phenomena.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 960,
+    "question": "A machine is used to lift a load of 20 N through a height of 10 m. if the efficiency of the machine is 40%, how much work is done?",
+    "option": {
+      "a": "80 J",
+      "b": "500 J",
+      "c": "300 J",
+      "d": "120 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLoad (L) = 20 N\nHeight (h) = 10 m\nEfficiency = 40% = 0.40\nWork done = ?\n\n\nStep 1: Calculate useful work output\nWork output = Load × Height\nW_output = 20 × 10\nW_output = 200 J\nStep 2: Calculate total work input\nEfficiency = (Work output)/(Work input)\nRearranging:\nWork input = Work output/Efficiency\nW_input = 200/0.40\nW_input = 500 J",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 573,
+    "question": "A sonometer's fundamental note is 50Hz, what is the new frequency when the tension is four times the original?",
+    "option": {
+      "a": "25Hz",
+      "b": "100Hz",
+      "c": "200Hz",
+      "d": "250Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial frequency, f₁ = 50 Hz\nNew tension, T₂ = 4T₁\nNew frequency, f₂ = ?\n\nSolution:\nStep 1: Recall frequency formula for a sonometer\nFor a vibrating string:\nf = (1/2L)√(T/μ)\nWhere:\n\nL = length of string\nT = tension\nμ = mass per unit length\n\nStep 2: Establish relationship between frequency and tension\nFrom the formula:\nf ∝ √T (when L and μ are constant)\nTherefore:\nf₁/f₂ = √(T₁/T₂)\nStep 3: Set up the ratio\nf₂/f₁ = √(T₂/T₁)\nf₂/50 = √(4T₁/T₁)\nf₂/50 = √4\nf₂/50 = 2\nStep 4: Calculate new frequency\nf₂ = 50 × 2\nf₂ = 100 Hz",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1017,
+    "question": "Which of the following is NOT a factor that can increase the rate of evaporation of water in a lake?",
+    "option": {
+      "a": " increase in the pressure of the atmosphere",
+      "b": "rise in temperature",
+      "c": " increase in the average speed of the molecules of water",
+      "d": "increase in the kinetic energy of the molecules of water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Increase in the pressure of the atmosphere does NOT increase evaporation.",
+    "examtype": "utme",
+    "examyear": "2012"
   }
 ]

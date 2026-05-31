@@ -14647,5 +14647,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1803,
+    "question": "My mother was _____ annoyed with me for coming late.",
+    "option": {
+      "a": "Just.",
+      "b": "Very.",
+      "c": "Neither.",
+      "d": "Hotly."
+    },
+    "section": "Choose the option that best complete the gap.",
+    "image": "",
+    "answer": "b",
+    "solution": "My mother was Very annoyed with me for coming late.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 44,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1532,
+    "question": "Knowledge of figures of speech as well as of idiom and lexical items ____________ in this section",
+    "option": {
+      "a": "is tested",
+      "b": "have been tested",
+      "c": "are tested",
+      "d": "were tested"
+    },
+    "section": "Choose the word(s) or phrase(s) which best fill(s) the gap. ",
+    "image": "",
+    "answer": "a",
+    "solution": "When either of these words is used; as well as, together with, alongside, no less than e.t.c, the subject of the clause would be the noun or pronoun that comes before the marker of accompaniment. \n\nKnowledge of figures of speech is a singular subject that should agree with a singular verb",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 49,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

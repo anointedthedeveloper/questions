@@ -1262,5 +1262,85 @@
     "solution": "\nStep 1: Understanding p‑n junction behavior\nA p‑n junction allows significant current to flow when the p‑side is connected to the positive terminal of a battery and the n‑side to the negative terminal. This connection reduces the depletion region and lowers the barrier for charge carriers.\n\nStep 2: Identifying the correct term\nThis configuration is known as forward bias. The opposite connection (reverse bias) blocks current flow under normal conditions.",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 297,
+    "question": "Which of the following may be used to explain a mirage?\nI. Layers of air near the road surface have varying refractive indices in hot weather\nII. Road surfaces sometimes becomes invisible in hot weather\nIII. Light from the sky can be refracted upwards after coming close to the road surface.",
+    "option": {
+      "a": "I and III only",
+      "b": " II and III only",
+      "c": " II only",
+      "d": "I, II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Statements I and III correctly explain mirages through the physics of refraction, while statement II merely describes an observation.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 390,
+    "question": "If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called?",
+    "option": {
+      "a": "doppler effect",
+      "b": "resonance",
+      "c": "ultra sound",
+      "d": "rarefaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Doppler effect or Doppler shift is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.\n\nThe drop in pitch of ambulance sirens as they pass by and the shift in red light are common examples of the Doppler Effect. ",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 188,
+    "question": "The instrument used to view stars is the",
+    "option": {
+      "a": "Prism binoculars",
+      "b": "Telescope",
+      "c": " Film projector",
+      "d": "Microscope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A telescope is the instrument used to view stars and other celestial objects.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 945,
+    "question": "In Faradays law of electrolysis, a graph of the mass deposited against the quantity of electricity is plotted. The slope of the graph gives?",
+    "option": {
+      "a": "the energy released",
+      "b": "the electrochemical equivalent",
+      "c": "the current flowing",
+      "d": " the charge released"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In Faradays law of electrolysis\nM = It = Q\nWhere M is the mass of substance deposit . Q is the quantity of charge. A graph of m against Q is a straight line passing through the origin with slope equal to the electrochemical equivalent.Z",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 897,
+    "question": "which of the diagrams above shows the position at which a small ball-bearing is in neutral equilibrium?",
+    "option": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433406/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_48_pdak2b.png",
+    "answer": "d",
+    "solution": "Neutral Equilibrium: If the body neither returns to its original position nor increases its displacement further, it will simply adopt its new position.\n\nExamples of neutral equilibrium\n\nBall moving on the ground.\nMotion of sphere.\nA roller.\nA pencil lying horizontally.\nAn egg lying horizontally on a flat surface.",
+    "examtype": "utme",
+    "examyear": "2009"
   }
 ]

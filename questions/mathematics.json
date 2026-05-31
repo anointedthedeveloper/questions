@@ -12734,5 +12734,21 @@
     "solution": "(√5(√147-√12)/√15           = (√5(√(49×3)-√(4×3))/√(5×3) = (√5(7√3-2√3)/(√5×√3) = (√3(7-2)/√3 = 5",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 297,
+    "question": "What is the integral value of x which satisfy the inequality -1 < 3 -2x \n  ≤ 5?",
+    "option": {
+      "a": "-1. 0, 1, 2",
+      "b": "-2, 1, 0 , -1",
+      "c": "0, 1, 2",
+      "d": "-1, 0, 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "-1 < 3 -2x and 3 - 2x ≤\n 5\n2x < 3 + 1 and -2x ≤\n 5 - 3\n2x < 4 and -2x ≤\n 2\nx < 2 and x ≥\n 2/-2 = x ≥\n -1\nIf -1 ≤\n x < 2\nit implies that x = -1, 0, 1",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

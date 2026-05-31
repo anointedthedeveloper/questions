@@ -3470,5 +3470,53 @@
     "solution": "Given information:\n\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\nInitial volume (V₀) = 10 cm³\nInitial temperature (T₀) = 0°C\nFinal temperature (T) = 100°C\nTemperature change (ΔT) = 100°C\nFinal volume (V) = ?\n\nStep 1: Find volume expansivity\nVolume expansivity (γ) = 3α (for isotropic materials)\nγ = 3 × 2 × 10⁻⁵ = 6 × 10⁻⁵ °C⁻¹\nStep 2: Calculate final volume\nV = V₀(1 + γΔT)\nSubstituting values:\nV = 10(1 + 6 × 10⁻⁵ × 100)\nV = 10(1 + 0.006)\nV = 10(1.006)\nV = 10.06 cm³",
     "examtype": "utme",
     "examyear": "2020"
+  },
+  {
+    "id": 520,
+    "question": "What is the amount of heat required to raise the temperature of a 0.02 kg of ice cube from −10°C to 10°C ? [specific latent heat of fusion of ice = 3.34 x 10⁵ Jkg⁻¹, Specific heat capacity of water = 4200 Jkg⁻¹ k⁻¹, Specific heat capacity of ice = 2100 Jkg⁻¹ k⁻¹]",
+    "option": {
+      "a": "6680 J",
+      "b": "1680 J",
+      "c": "7520 J",
+      "d": "7940 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 0.02 kg\nInitial temperature = −10°C\nFinal temperature = 10°C\nSpecific latent heat of fusion, Lf = 3.34 × 10⁵ J/kg\nSpecific heat capacity of water, cw = 4200 J/(kg·K)\nSpecific heat capacity of ice, ci = 2100 J/(kg·K)\n\nSolution:\nThe process involves three stages:\nStage 1: Heat ice from −10°C to 0°C\nQ₁ = mciΔT\nQ₁ = 0.02 × 2100 × [0 − (−10)]\nQ₁ = 0.02 × 2100 × 10\nQ₁ = 420 J\nStage 2: Melt ice at 0°C to water at 0°C\nQ₂ = mLf\nQ₂ = 0.02 × 3.34 × 10⁵\nQ₂ = 6680 J\nStage 3: Heat water from 0°C to 10°C\nQ₃ = mcwΔT\nQ₃ = 0.02 × 4200 × 10\nQ₃ = 840 J\nStep 4: Calculate total heat required\nQtotal = Q₁ + Q₂ + Q₃\nQtotal = 420 + 6680 + 840\nQtotal = 7940 J",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 787,
+    "question": "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?",
+    "option": {
+      "a": "50N",
+      "b": "100N",
+      "c": "175N",
+      "d": "210N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nWeight (W) = 120 N\nAngle of inclination (θ) = 30°\nEfficiency = 60% = 0.60\nEffort force (E) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor an inclined plane:\nV.R = 1/sin θ\nV.R = 1/sin 30°\nV.R = 1/0.5\nV.R = 2\nStep 2: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A/V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.60 × 2\nM.A = 1.2\nStep 3: Calculate Effort using M.A\nM.A = Load/Effort\nM.A = W/E\nRearranging:\nE = W/M.A\nE = 120/1.2\nE = 100 N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 484,
+    "question": "Which of these is a second-class lever?",
+    "option": {
+      "a": "sugar tongs",
+      "b": "claw hammer",
+      "c": "plier",
+      "d": "wheelbarrow"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Examples of first class levers are pliers, scissors, a crow bar, a claw hammer, a see-saw and a weighing balance.\n\nA wheelbarrow, a bottle opener, and an oar are examples of second class levers",
+    "examtype": "utme",
+    "examyear": "2022"
   }
 ]

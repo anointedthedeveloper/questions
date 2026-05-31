@@ -13438,5 +13438,37 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
+  },
+  {
+    "id": 506,
+    "question": "∫<sub>((-π)/2)</sub><sup>(π/2)</sup>cosxdx",
+    "option": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mrow>\n          <mo>&#x2212;<!-- − --></mo>\n          <mi>&#x03C0;<!-- π --></mi>\n        </mrow>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mi>&#x03C0;<!-- π --></mi>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msubsup>\n  <mi>c</mi>\n  <mi>o</mi>\n  <mi>s</mi>\n  <mi>x</mi>\n  <mi>d</mi>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "∫<sub>((-π)/2)</sub><sup>(π/2)</sup>cosxdx=[sinx<sub>((-π)/2)</sub><sup>(π/2)</sup> = sin π/2-sin (-π)/2.        = sin90 – sin-90\n= sin90 – sin270\n= 1 – (-1)\n= 1+1\n= 2",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1268,
+    "question": "If (159.75)10 = (x)6. Find x",
+    "option": {
+      "a": "x<sub>6</sub> = 123.34<sub>6</sub>",
+      "b": "x<sub>6</sub> = 424.5<sub>6</sub>",
+      "c": " x6<sub>6</sub> = 122.43<sub>6</sub>",
+      "d": "x<sub>6</sub> = 124.456<sub>6</sub>"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid none\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>159</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>26</mn>\n        <mtext>&#xA0;rem 3</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n        <mtext>&#xA0;rem 2</mtext>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mn>0</mn>\n        <mtext>&#xA0;rem 4</mtext>\n      </mtd>\n    </mtr>\n  </mtable>\n  <mo stretchy=\"false\">&#x2191;<!-- ↑ --></mo>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(159.75)10 = (y)6\n\n\n\n15910 = 4236\n\nThen Convert 0.75 to base 6\n\n0.75 x 6 =4.5 i.e 4.5 - 3.00 = 1.5\n0.5 x 6 = 3.00 423 + 1.5 =424.5\n\n159.75 = (424.5)6\n\n(159)10 = (424.5)6",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

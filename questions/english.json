@@ -19777,5 +19777,24 @@
     "questionNub": 38,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1233,
+    "question": "The incumbent president <u>conceded</u> defeat before the final result was announced.",
+    "option": {
+      "a": "accepted",
+      "b": "rejected",
+      "c": "opposed",
+      "d": "challenged"
+    },
+    "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+    "image": "",
+    "answer": "b",
+    "solution": "Concede: admit or agree that something is true after first denying or resisting it.\n\nReject: refuse to agree to (a request).",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 40,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

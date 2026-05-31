@@ -17246,5 +17246,21 @@
     "solution": "x⊕y = xy + x + y\n= -3/4 (6) + (-3/4) + 6\n= -9/2 - 3/4 + 6\n= (-18-3+3+24) / 4\n= 3/4",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 126,
+    "question": "If x = y/2, evaluate (x<sup>2</sup> / y<sup>2</sup> + 1/2) / (1/2 - x<sup>2</sup> / y<sup>2</sup>)",
+    "option": {
+      "a": "5/8",
+      "b": " 5/2",
+      "c": "5/4",
+      "d": "5/16"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow data-mjx-texclass=\"INNER\">\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\n    <mfrac>\n      <msup>\n        <mi>x</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n      <msup>\n        <mi>y</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n    </mfrac>\n    <mo>+</mo>\n    <mfrac>\n      <mn>1</mn>\n      <mn>2</mn>\n    </mfrac>\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\n  </mrow>\n  <mo>&#xF7;</mo>\n  <mrow data-mjx-texclass=\"INNER\">\n    <mo data-mjx-texclass=\"OPEN\">(</mo>\n    <mfrac>\n      <mn>1</mn>\n      <mn>2</mn>\n    </mfrac>\n    <mo>&#x2212;</mo>\n    <mfrac>\n      <msup>\n        <mi>x</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <msup>\n        <mi>y</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n    </mfrac>\n    <mo data-mjx-texclass=\"CLOSE\">)</mo>\n  </mrow>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
   }
 ]

@@ -2926,5 +2926,85 @@
     "solution": "I. Work done by load is always less than the work done by effort. This statement is generally true for all machines because some of the work done by the effort is used to overcome friction and other resistive forces in the machine.\n\nIII. A fishing rod is a machine. This statement is true as a fishing rod is a simple machine that uses a lever to catch fish.",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 971,
+    "question": "I. Change of state\nII. Diffusion\nIII. Radiation\nIV. Osmosis\nWhich of the processes above can be explained using the kinetic theory?",
+    "option": {
+      "a": "I, II, III and IV",
+      "b": " I, II and III",
+      "c": "I, III and IV",
+      "d": " I, II and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The processes that can be explained using kinetic theory are change of state (I), diffusion (II), and osmosis (IV). Radiation (III) involves electromagnetic waves and requires different theoretical frameworks beyond simple kinetic theory of particles.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 419,
+    "question": "A substance has half of 3 min. After 6 min, the count rate was observed to be 400. What was its count rate at zero time? ",
+    "option": {
+      "a": "1600",
+      "b": "1200",
+      "c": "200",
+      "d": "2400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHalf-life (T½) = 3 min\nTime elapsed (t) = 6 min\nCount rate at t = 6 min: N(6) = 400\nInitial count rate at t = 0: N₀ = ?\n\nStep 1: Determine number of half-lives\nNumber of half-lives (n) = t / T½\nn = 6 / 3 = 2\nSo 2 half-lives have passed.\nStep 2: Apply radioactive decay formula\nAfter n half-lives: N = N₀ × (1/2)ⁿ\nOr working backwards:\nN₀ = N × 2ⁿ\nStep 3: Calculate initial count rate\nN₀ = 400 × 2²\nN₀ = 400 × 4\nN₀ = 1600",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 391,
+    "question": "Which of the following can be described as high tension transmission? ",
+    "option": {
+      "a": " High resistance and low voltage",
+      "b": "Low current and high voltage",
+      "c": "High current and low voltage",
+      "d": "High current and low resistance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "High tension transmission is characterized by low current and high voltage, which minimizes power losses during long-distance electricity transmission.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 479,
+    "question": "For a pear-shaped conductor shown above, the concentration of charge on the outside is highest at?",
+    "option": {
+      "a": "X",
+      "b": "Z",
+      "c": "Y",
+      "d": "K"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614104/ALOC-Questions/Physics/2022/PHYSICS_2022_Q_20_u0ws7r.png",
+    "answer": "a",
+    "solution": "The electric field at the surface of the conductor is perpendicular to the surface.\n\nCharge accumulates, and the field is strongest, on pointy parts of the conductor.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 196,
+    "question": "Which of the following statements is NOT correct?",
+    "option": {
+      "a": " Brownian motion is an evidence of the particle nature of matter",
+      "b": "Atoms combine to form molecules",
+      "c": "The molecules of matter are not in constant motion",
+      "d": " matter is made up of molecules"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": " This statement is NOT correct because molecules are always in constant motion according to the kinetic theory of matter.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

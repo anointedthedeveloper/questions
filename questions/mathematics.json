@@ -13214,5 +13214,21 @@
     "solution": "1st statement: U<sub>6</sub> = 1/2(U<sub>12</sub>)\na + (n -1)d = 1/2[a + (n-1)d]\na + 5d = a + 11d\n2(a + 5d) = a + 11d\n2a + 10d = a + 11d\n\nSolving, => a = d\nHence the first term is equal to the common difference",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 296,
+    "question": "y = is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10.",
+    "option": {
+      "a": "2",
+      "b": "10",
+      "c": "1/5",
+      "d": "1/10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y ∝ 1/x\ny = K/x\nK = xy\nK = (1/2) * 4 ( when y = 4 and x = 1/2)\nK = 2\n∴y = 2/x\n10 = 2/x (when y = 10)\n10x = 2\nx = 2/10\nx = 1/5",
+    "examtype": "utme",
+    "examyear": "2004"
   }
 ]

@@ -9006,5 +9006,37 @@
     "solution": "Ethyne (acetylene, C₂H₂) mixed with oxygen produces the oxyacetylene (oxy-ethylene) flame, which burns at over 3000°C. This extremely hot flame is easily controllable and is used industrially for cutting and welding metals. It is not used in miners' lamps or hunters' torches.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 547,
+    "question": "Sulphur exists in six forms in the solid state. This property is known as",
+    "option": {
+      "a": "Isomerism",
+      "b": "Allotropy",
+      "c": "Isotopy",
+      "d": "Isomorphism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Allotropy is the existence of an element in two or more different physical forms in the same state. Sulphur exists in several allotropic forms including rhombic and monoclinic sulphur. Isomerism applies to compounds, isotopy refers to atoms of the same element with different mass numbers, and isomorphism refers to similar crystal structures in different substances.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 788,
+    "question": "From the graph, it can be inferred that",
+    "option": {
+      "a": "the solubility of X and Y is the same at all temperatures",
+      "b": "the solubility of X, Y and Z is temperature dependent",
+      "c": "solubility of Z increases as temperature increases",
+      "d": "solubility of Y increases steadily as temperature increases"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1777640735/ALOC-Questions/Chemistry/UTME/2025/Chemistry_2025_Q34_sawho2.png",
+    "answer": "d",
+    "solution": "From the graph, substance Z has a constant solubility of 40 g/100 cm³ regardless of temperature, eliminating options B and C. Substance X and Y have different solubility values at most temperatures and only intersect once, eliminating option A. Substance Y shows a consistent increase in solubility as temperature rises throughout the entire range, making D the correct inference.",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

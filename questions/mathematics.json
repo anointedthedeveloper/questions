@@ -12126,5 +12126,53 @@
     "solution": "x<sup>2</sup> + 5<sup>2</sup> = 13<sup>2</sup>\nx<sup>2</sup> + 25 = 169\nx<sup>2</sup> = 144\n\nx = √ 144 \n\n= 12\nLength of the chord AB = 2x\n2×12= 24cm",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 195,
+    "question": "A chord of a circle subtends an angle of 120° degrees at the centre of a circle of diameter 4√3 cm. Calculate the area of the major sector.",
+    "option": {
+      "a": "4π cm<sup>2</sup>",
+      "b": "32 π cm<sup>2</sup>",
+      "c": "16 π cm<sup>2</sup>",
+      "d": " 8 π cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Diameter = 4√3 cm\n\nradius = 2√3 cm\n\nArea of major sector = θ/360 × πr<sup>2</sup>\nθ = 360 − 120 = 240°\n= 240/360 × π × 12\n= 8πcm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 221,
+    "question": "The triangle POR is",
+    "option": {
+      "a": " an isosceles triange",
+      "b": " an obtuse angle",
+      "c": "a scalene triangle",
+      "d": "an equilateral triangle"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698750/ALOC-Questions/Mathematics/2002/math_2000_q50_xu26lb.jpg",
+    "answer": "a",
+    "solution": "< PRQ = 180° - 128° = 52° = < R\n\n< P + < R + < Q = 180°\n\n76° + 52° + < Q = 180°\n\n128° + < Q = 180°\n\n< Q = 180° - 128°\n\n= 52°\n\nPQR is an isosceles",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1201,
+    "question": "What is the solution of x−5/x+3 <−1?",
+    "option": {
+      "a": "=-3 < x < 1",
+      "b": "x < -3 or x > 1",
+      "c": "-3 < x < 5",
+      "d": "x < -3 or x > 5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Consider the range -3 < x < -1\n\n= { -2, -1, 0}, for instance\n\nWhen x = -2,\n\n(−2−5)/(−2 + 3) < −1\n\n\n−7/1 < −1\n\n\nWhen x = -1,\n\n(−1−5)/(−1+3) <−1\n\n\n−6/2 < −1\n\n\n= -3 < -1\n\nWhen x = 0,\n\n(0−5)/(0 + 3) < −1\n\n\n−5/3 < −1\n\n\nHence -3 < x < 1",
+    "examtype": "utme",
+    "examyear": "2014"
   }
 ]

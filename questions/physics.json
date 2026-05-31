@@ -7534,5 +7534,85 @@
     "solution": "Kaleidoscope is an optical instrument that creates patterns and designs by reflecting light through coloured materials.",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 370,
+    "question": "When water is boiling, it",
+    "option": {
+      "a": " gets hotter",
+      "b": " increase is mass",
+      "c": "decreases in mass",
+      "d": "changes to steam"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Boiling indicates changes from Liquid to gas.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 709,
+    "question": "The production and type of charge of a body can only be accounted for by the?",
+    "option": {
+      "a": " deficiency or surplus of electrons",
+      "b": "equibrium in protons and neutrons",
+      "c": "deficiency or surplus of protrons",
+      "d": "deficiency or surplus of neutrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nThe charge of a body is determined by the imbalance between the number of protons (positively charged) and electrons (negatively charged). A deficiency of electrons results in a positive charge, while a surplus of electrons results in a negative charge.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 222,
+    "question": "In the diagram above, which of the following velocity-time graphs shows uniform acceleration of a body from rest?",
+    "option": {
+      "a": "C",
+      "b": "D",
+      "c": "B",
+      "d": "A"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610227/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_43_d6dmau.jpg",
+    "answer": "c",
+    "solution": "Understanding uniform acceleration from rest:\n\n\"From rest\" means initial velocity = 0 (starts at origin)\n\"Uniform acceleration\" means constant acceleration (velocity increases at a steady rate)\nA velocity-time graph with uniform acceleration is a straight line starting from the origin\n\nAnalyzing the graphs:\nGraph A: Curved line - represents non-uniform (changing) acceleration ✗\nGraph B: Straight line starting from origin - represents uniform acceleration from rest ✓\nGraph C: Curved line (steep then flattening) - represents decreasing acceleration ✗\nGraph D: Curved line - represents non-uniform acceleration ✗\nKey point:\nFor uniform acceleration, the slope (acceleration) must be constant, which gives a straight line on a velocity-time graph.\n\nGraph B shows uniform acceleration from rest because it's a straight line starting from the origin, indicating constant acceleration.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 591,
+    "question": "A refrigerator uses 150W. If it is kept on for 336 hours non-stop, what is the energy consumed in KWh?",
+    "option": {
+      "a": "60.20KWh",
+      "b": "50.40KWh",
+      "c": "25.01KWh",
+      "d": "30.20KWh"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPower (P) = 150 W\nTime (t) = 336 hours\nEnergy consumed = ?\n\nFormula:\nEnergy = Power × Time\nStep 1: Convert power to kilowatts\nPower = 150 W = 0.15 kW\nStep 2: Calculate energy in kWh\nEnergy = 0.15 kW × 336 hours\nEnergy = 50.4 kWh",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 569,
+    "question": "The dimension of young's modulus, E is given by",
+    "option": {
+      "a": "MLT⁻¹",
+      "b": "MT⁻²",
+      "c": "ML⁻¹T⁻²",
+      "d": "M⁻¹T"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Define Young's modulus\nYoung's modulus (E) is defined as:\nE = Stress/Strain\nStep 2: Determine dimensions of stress\nStress = Force/Area\nForce = Mass × Acceleration = MLT⁻²\nArea = L²\nStress = MLT⁻²/L² = ML⁻¹T⁻²\nStep 3: Determine dimensions of strain\nStrain = Change in length/Original length = L/L\nStrain is dimensionless (no units)\nStep 4: Calculate dimensions of Young's modulus\nE = Stress/Strain\nE = ML⁻¹T⁻²/1\nE = ML⁻¹T⁻²",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

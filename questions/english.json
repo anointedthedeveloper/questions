@@ -18371,5 +18371,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1463,
+    "question": "Either Buntu or you ........ to go",
+    "option": {
+      "a": "was",
+      "b": "are",
+      "c": "has",
+      "d": "is"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The rule of concord states an exception, that is when either or neither joins to subjects (one singular and the other plural)  the verb should be chosen by considering the nearer of the two subjects.\n\nThis means that if the second subject is plural the verb should be plural\n\n'You' can take a plural form, therefore option B is the safest answer.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 90,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1057,
+    "question": "These policies have been <u>espoused</u> by the ruling party.",
+    "option": {
+      "a": "condemned",
+      "b": "rejected",
+      "c": "supported",
+      "d": "outlined"
+    },
+    "section": "In each of the questions 51 to 65 choose the option <b>nearest in meaning</b> to the underlined word or phrase.",
+    "image": "",
+    "answer": "c",
+    "solution": "Espoused;  to adopt or support (a cause, belief, or way of life).",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 63,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

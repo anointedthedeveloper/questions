@@ -14526,5 +14526,21 @@
     "solution": "dy/dx = 2x - 3\ny = ∫2x - 3 dx => y = xx<sup>2</sup> - 3x + c\n3 = (0)2 - 3(0) + c\n=> c = 3\n\nThus y = x2 - 3x + 3",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 995,
+    "question": "Solve the inequality: -7 ≤\n 9 - 8x < 16 - x",
+    "option": {
+      "a": "-1 ≤ x ≤ 2",
+      "b": " -1 ≤ x < 2",
+      "c": "-1 < x < 2",
+      "d": "-1 < x ≤ 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "-7 ≤\n 9 - 8x < 16 - x\n\n-7 ≤\n 9 - 8x and 9 - 8x < 16 - x\n\n-7 - 9 ≤ -8x and -8x + x < 16 - 9\n\n-16 ≤ -8x and -7x < 7\n\n∴ x ≤ 2 and -1 < x\n\n-1 < x ≤ 2.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

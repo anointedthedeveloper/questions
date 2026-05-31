@@ -12814,5 +12814,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 780,
+    "question": "The remainder when 6p3 - p<sup>2</sup> - 47p + 30 is divided by p - 3 is",
+    "option": {
+      "a": "21",
+      "b": "42",
+      "c": "63",
+      "d": "18"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let f(p) = 6p<sup>3</sup> - p<sup>2</sup> - 47p + 30\n\nThen by the remainder theorem,\n\n(p - 3): f(3) = remainder R,\n\ni.e. f(3) = 6(3)<sup>3</sup> - (3)2 - 47(3) + 30 = R\n\n162 - 9 - 141 + 30 = R\n\n192 - 150 = R\n\nR = 42",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

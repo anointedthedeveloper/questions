@@ -9550,5 +9550,37 @@
     "solution": "Across a period, the number of valence electrons increases progressively from left to right (e.g., Period 2: Li has 1, Be has 2, B has 3 … Ne has 8). Elements in the same group have the same number of valence electrons (not shells); elements in the same period have the same number of shells (not valence electrons); non-metallic properties increase across a period.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 535,
+    "question": "At 27°C, 58.5g of sodium chloride is present in 250cm³ of a solution. The solubility of sodium chloride at this temperature is? (molar mass of sodium chloride = 111.0gmol⁻¹)",
+    "option": {
+      "a": "2.0 moldm⁻³",
+      "b": "0.25 moldm⁻³",
+      "c": "1.0 moldm⁻³",
+      "d": "0.5 moldm⁻³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Moles of NaCl = 58.5 ÷ 111.0 = 0.527 mol. Volume = 250 cm³ = 0.25 dm³. Concentration = moles ÷ volume = 0.527 ÷ 0.25 = 2.11 moldm⁻³ ≈ 2.0 moldm⁻³. Answer: A.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 576,
+    "question": "Chromatography is used to separate components of a mixture which differ in their rates of?",
+    "option": {
+      "a": "diffusion",
+      "b": "migration",
+      "c": "reaction",
+      "d": "sedimentation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Chromatography separates components of a mixture based on differences in their rates of migration through a stationary phase when carried by a mobile phase. Components that interact more strongly with the stationary phase migrate more slowly, while those with weaker interactions migrate faster, achieving separation.",
+    "examtype": "utme",
+    "examyear": "2020"
   }
 ]

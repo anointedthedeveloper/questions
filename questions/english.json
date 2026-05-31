@@ -14742,5 +14742,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 281,
+    "question": "  bush<u>es</u>",
+    "option": {
+      "a": "shapes ",
+      "b": "shoes  ",
+      "c": "rapes   ",
+      "d": "rakes"
+    },
+    "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1740,
+    "question": "<u>Ch</u>alet",
+    "option": {
+      "a": "champion",
+      "b": "chair",
+      "c": "champagne",
+      "d": "cheapen"
+    },
+    "section": "From the words lettered A to D, choose the word that has the same consonant sounds as the one represented by the letters underlined.",
+    "image": "",
+    "answer": "c",
+    "solution": "The answer is ‘C’ because only’ champagne’ /ʃæmpeIn/ has the same constant sound as ‘chalet’ ʃæl.eI/.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 53,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

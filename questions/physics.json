@@ -9790,5 +9790,37 @@
     "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁷ s⁻¹\nAverage life (mean life) = ?\n\nUnderstanding average life:\nThe average (mean) life of a radioisotope is the average time a nucleus exists before decaying.\nFormula for average life:\nAverage life (τ) = 1/λ\nNote: This is different from half-life:\n\nHalf-life: T₁/₂ = 0.693/λ = ln(2)/λ\nAverage life: τ = 1/λ\n\nCalculating average life:\nτ = 1/λ\nτ = 1/(10⁻⁷)\nτ = 10⁷ s\nτ = 1.00 × 10⁷ s\nVerification:\nThe relationship between average life and half-life:\nτ = T₁/₂/0.693 = 1.44 × T₁/₂",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 328,
+    "question": "The energy needed to move a unit positive charge around a complete electric circuit is called the",
+    "option": {
+      "a": "electromotive force",
+      "b": "electric potential difference",
+      "c": " electric energy",
+      "d": "kinetic energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The energy needed to move a unit positive charge around a complete electric circuit is indeed referred to as Electromotive Force (EMF).",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 145,
+    "question": "Mr. F. Abioye observed his image through a plane mirror, kept at a distance 4.7m away from him in his room. At what distance is the image found from Abioye's eye?",
+    "option": {
+      "a": "9.4m",
+      "b": "7.5m",
+      "c": "5.7m",
+      "d": "6.9m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDistance between Mr. Abioye and the plane mirror = 4.7 m\n\nProperty of plane mirror:\nIn a plane mirror, the image is formed at the same distance behind the mirror as the object is in front of the mirror.\nStep 1: Find the distance of image from the mirror\nDistance of image from mirror = Distance of object from mirror = 4.7 m\nStep 2: Calculate total distance from Abioye's eye to the image\nTotal distance = Distance from Abioye to mirror + Distance from mirror to image\nTotal distance = 4.7 m + 4.7 m = 9.4 m\nDiagram:\nAbioye ← 4.7m → Mirror ← 4.7m → Image\n|←———— 9.4m ————→|",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

@@ -2878,5 +2878,53 @@
     "solution": "Given information:\nEfficiency η = 80% = 0.8\nInput work, W_in = 200 J\n\nSolution:\n\nStep 1: Efficiency formula\nEfficiency = (Output work) / (Input work)\n\nStep 2: Rearrange for output work\nOutput work = Efficiency × Input work\n\nStep 3: Substitute values\nOutput work = 0.8 × 200 J = 160 J",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 482,
+    "question": "A reservoir is filled with liquid of density 2000 kgm⁻³. Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm⁻² (g = 10 ms⁻²)",
+    "option": {
+      "a": "0.262 m",
+      "b": " 0.664 m",
+      "c": "0.819 m",
+      "d": "0.455 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nDensity, ρ = 2000 kg/m³\nPressure, P = 9100 N/m²\nAcceleration due to gravity, g = 10 m/s²\nDepth, h = ?\n\nSolution:\nUsing the pressure in a fluid formula:\nP = ρgh\nStep 1: Substitute the known values\n9100 = 2000 × 10 × h\n9100 = 20000h\nStep 2: Solve for depth\nh = 9100/20000\nh = 0.455 m",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 289,
+    "question": "The diagram shown represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40, then the value of W is?",
+    "option": {
+      "a": "28",
+      "b": "48.0N",
+      "c": " 233.0N",
+      "d": "50.0N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611497/ALOC-Questions/Physics/2018/2018_Q_10_ppy08m.jpg",
+    "answer": "d",
+    "solution": "From the diagram:\n\nLoad = 120.0 N\nEffort = W N\nEfficiency = 40% = 0.40\nCounting the supporting strings in the diagram: V.R = 6 (6 rope segments supporting the load)\n\nStep 1: Calculate Mechanical Advantage (M.A)\nEfficiency = (M.A/V.R) × 100%\n40 = (M.A/6) × 100\n0.40 = M.A/6\nM.A = 0.40 × 6 = 2.4\nStep 2: Calculate effort using M.A\nM.A = Load/Effort\n2.4 = 120/W\nW = 120/2.4\nW = 50.0 N",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 723,
+    "question": "Which of the statements about machines are true?\nI. Work done by load is always less than the work done by effort.\nII. All machines are made of levers, pulleys, screws and gear wheels.\nIII. A fishing rod is a machine.\nIV. Effort is always larger than load.",
+    "option": {
+      "a": "II and III",
+      "b": "III and IV",
+      "c": "I and III",
+      "d": "II and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "I. Work done by load is always less than the work done by effort. This statement is generally true for all machines because some of the work done by the effort is used to overcome friction and other resistive forces in the machine.\n\nIII. A fishing rod is a machine. This statement is true as a fishing rod is a simple machine that uses a lever to catch fish.",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

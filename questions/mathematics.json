@@ -15326,5 +15326,37 @@
     "solution": "4[(3 x 3) - (-1 x 1)] -2 [(2x 3) - (-1 x -1)] -1 [(2 x 1) - (-1 x 3)]\n\n= 4[9 + 1] -2 [6 - 1] -1 [2 + 3]\n\n= 4(10) - 2(5) - 1(5)\n\n= 40 - 10 - 5\n\n= 25",
     "examtype": "utme",
     "examyear": "2011"
+  },
+  {
+    "id": 305,
+    "question": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive?",
+    "option": {
+      "a": "8/15",
+      "b": "11/25",
+      "c": "12/25",
+      "d": " 13/25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "First teacher received 2/5\n ∴Remainder =1−2/5=3/5\n\n2nd teacher received; 2/15 of 3/5 = 2/15 × 3/5 = 2/25\n\n3rd teacher will receive; 1−2/5 – 2/25 = (25−10−2)/15 = 13/25",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1262,
+    "question": "Find x if 132<sub>x</sub>  = 70 <sub>eight</sub> .",
+    "option": {
+      "a": "5",
+      "b": "3",
+      "c": "6",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "132<sub>x</sub> = 70<sub>8</sub>\n\n1 × x<sup>2</sup> + 3 × x<sup>1</sup> + 2 × x<sup>0</sup> \n\n\n7 × 8<sup>1</sup> + 0 ×8<sup>0</sup> \n\n\nx<sup>2</sup> +3x + 2 −56 = 0\n\n\nx<sup>2</sup> + 3x −54 = 0\n\n\nx(x + 9) −6(x + 9) = 0\n\n(x + 9)(x − 6) = 0\n\nEither (x + 9) = 0 or (x − 6) = 0\n\nx = − 9 or +6\n\nThe positive values for x = 6\n\nThe base number for 132<sub>x</sub>  = 132<sub>6</sub> ",
+    "examtype": "utme",
+    "examyear": "2015"
   }
 ]

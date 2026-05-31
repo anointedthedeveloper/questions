@@ -11230,5 +11230,37 @@
     "solution": "Alkanoic acids (carboxylic acids) form dimers through two cooperative hydrogen bonds between the -COOH groups, creating stronger intermolecular attractions than the single hydrogen bonds formed by alkanols (-OH). Greater intermolecular forces require more energy to overcome, giving alkanoic acids higher boiling points.",
     "examtype": "utme",
     "examyear": "2025"
+  },
+  {
+    "id": 541,
+    "question": "Which of the following pollutants will lead to the depletion of ozone layer?",
+    "option": {
+      "a": "chlorofluorocarbon",
+      "b": "carbon (ii) oxide",
+      "c": "hydrogen sulphide",
+      "d": "sulphur (iv) oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Chlorofluorocarbons (CFCs) rise into the stratosphere where UV radiation breaks them apart, releasing chlorine radicals. These radicals catalytically destroy ozone molecules: Cl + O₃ → ClO + O₂. One chlorine atom can destroy thousands of ozone molecules. Answer: A.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 537,
+    "question": "The molecular shape and bond angle of water are respectively",
+    "option": {
+      "a": "linear, 180°",
+      "b": "bent, 109.5°",
+      "c": "tetrahedral, 109.5°",
+      "d": "bent, 105°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Water (H₂O) has 2 bonding pairs and 2 lone pairs on the central oxygen atom. Lone pair–lone pair repulsion compresses the bond angle from the ideal tetrahedral 109.5° to approximately 105°, giving water a bent/V-shape. Answer: D.",
+    "examtype": "utme",
+    "examyear": "2019"
   }
 ]

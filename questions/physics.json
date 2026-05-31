@@ -9822,5 +9822,53 @@
     "solution": "Given information:\n\nDistance between Mr. Abioye and the plane mirror = 4.7 m\n\nProperty of plane mirror:\nIn a plane mirror, the image is formed at the same distance behind the mirror as the object is in front of the mirror.\nStep 1: Find the distance of image from the mirror\nDistance of image from mirror = Distance of object from mirror = 4.7 m\nStep 2: Calculate total distance from Abioye's eye to the image\nTotal distance = Distance from Abioye to mirror + Distance from mirror to image\nTotal distance = 4.7 m + 4.7 m = 9.4 m\nDiagram:\nAbioye ← 4.7m → Mirror ← 4.7m → Image\n|←———— 9.4m ————→|",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 792,
+    "question": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1Ω, the resistivity is",
+    "option": {
+      "a": "2.55 × 10⁵ Ωm",
+      "b": "2.55 × 10³ Ωm",
+      "c": "3.93 × 10⁻⁶ Ωm",
+      "d": "3.93 × 10⁻⁸ Ωm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nDiameter (d) = 1.00 mm = 1.00 × 10⁻³ m\nLength (L) = 2.00 m\nResistance (R) = 0.1 Ω\nResistivity (ρ) = ?\n\nStep 1: Calculate cross-sectional area\nRadius (r) = d/2 = 0.5 × 10⁻³ m = 5 × 10⁻⁴ m\nArea (A) = πr²\nA = π × (5 × 10⁻⁴)²\nA = π × 25 × 10⁻⁸\nA = 3.14159 × 25 × 10⁻⁸\nA = 78.54 × 10⁻⁸\nA = 7.854 × 10⁻⁷ m²\nStep 2: Use resistance formula\nR = ρL/A\nRearranging for resistivity:\nρ = RA/L\nSubstituting values:\nρ = (0.1 × 7.854 × 10⁻⁷)/2.00\nρ = (0.7854 × 10⁻⁷)/2.00\nρ = 0.3927 × 10⁻⁷\nρ = 3.927 × 10⁻⁸ Ωm\nρ ≈ 3.93 × 10⁻⁸ Ωm",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 514,
+    "question": "How much net work is required to accelerate a 1200 kg car from 10ms⁻¹ to 15ms⁻¹",
+    "option": {
+      "a": "1.95×10⁵ J",
+      "b": " 1.35×10⁴ J",
+      "c": "7.5×10⁴ J",
+      "d": "6.0×10⁴ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass, m = 1200 kg\nInitial velocity, u = 10 m/s\nFinal velocity, v = 15 m/s\nNet work required, W = ?\n\nSolution:\nUsing the work-energy theorem:\nW = ΔKE = KE_final - KE_initial\nW = ½mv² - ½mu²\nStep 1: Calculate initial kinetic energy\nKE_initial = ½mu²\nKE_initial = ½ × 1200 × (10)²\nKE_initial = 600 × 100\nKE_initial = 60,000 J\nStep 2: Calculate final kinetic energy\nKE_final = ½mv²\nKE_final = ½ × 1200 × (15)²\nKE_final = 600 × 225\nKE_final = 135,000 J\nStep 3: Calculate net work done\nW = KE_final - KE_initial\nW = 135,000 - 60,000\nW = 75,000 J\nW = 7.5 × 10⁴ J",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 192,
+    "question": "The rate of cooling of a heated quantity of liquid in an enclosure depends on the",
+    "option": {
+      "a": "Pressure of the liquid",
+      "b": "Temperature in the enclosure",
+      "c": "Pressure of the enclosure",
+      "d": "Volume of the liquid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The rate of cooling depends on the temperature in the enclosure (the surrounding temperature).",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

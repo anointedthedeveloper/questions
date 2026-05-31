@@ -1934,5 +1934,85 @@
     "solution": "Since relative density = mass of substance\nmass of equal volume of water relative density bottle should be used to determine the mass of the substance, and mass of an equal volume of water by filling the bottle with the powder and water respectively and weighed with the beam balance.",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 805,
+    "question": "If a body of mass 5kg is thrown vertically upwards with velocity u, at what height will the potential energy equal to the kinetic energy?",
+    "option": {
+      "a": " h = u²/g",
+      "b": " h = u²/4g",
+      "c": " h = (2u)²/g",
+      "d": "h = u²/2g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMass (m) = 5 kg\nInitial velocity = u\nHeight where PE = KE → h = ?\n\nSetting up energy equations:\nTotal mechanical energy at launch:\nE_total = ½mu² (all kinetic, PE = 0 at ground)\nAt height h:\n\nKE = ½mv²\nPE = mgh\n\nUsing conservation of energy:\nKE + PE = ½mu²\n½mv² + mgh = ½mu²\nCondition: PE = KE\nLet PE = KE = X\nTherefore:\nX + X = ½mu²\n2X = ½mu²\nX = ¼mu²\nSince PE = X:\nmgh = ¼mu²\nDividing both sides by m:\ngh = u²/4\nSolving for h:\nh = u²/4g",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 472,
+    "question": "The secondary pigments consist of?",
+    "option": {
+      "a": "blue, green, and violet",
+      "b": "yellow, green, and magenta",
+      "c": "magenta, yellow, and cyan",
+      "d": "red, green, and blue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Magenta, yellow, and cyan are the primary colors in the subtractive color system (used for pigments, paints, and printing). They are sometimes called \"secondary\" because they are the secondary colors of the additive (light) system.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 566,
+    "question": "A wheelbarrow inclined at 60º to the horizontal is pushed with a force of 150N. What is the horizontal component of the applied force",
+    "option": {
+      "a": "130N",
+      "b": "75N",
+      "c": " 60N",
+      "d": "50N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nApplied force, F = 150 N\nAngle to the horizontal, θ = 60º\nHorizontal component, Fₓ = ?\n\nSolution:\nStep 1: Resolve force into horizontal component\nThe horizontal component of a force is given by:\nFₓ = F cos θ\nStep 2: Substitute the known values\nFₓ = 150 × cos 60º\nFₓ = 150 × 0.5\nStep 3: Calculate horizontal component\nFₓ = 75 N",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 367,
+    "question": "The momentum of a car moving at a constant speed in a circular track",
+    "option": {
+      "a": "can be both positive and negative",
+      "b": " can be zero depending on its position in the track",
+      "c": "can be zero depending on its inertia in the track",
+      "d": "a centrifugal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Movement of an object in a circle with an acceleration towards its center is provided by change in velocity & centripetal force a α V α Fc",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1135,
+    "question": "A hydraulic press consists of two cylinders of cross-sectional radius r₁ and r₂. If a force of 200 N applied to the smaller piston (r₁) causes a force of 3200 N to be transmitted onto the larger piston (r₂). The ratio r₁ : r₂ is?",
+    "option": {
+      "a": "1 : 4",
+      "b": " 1 : 2",
+      "c": "1 : 8",
+      "d": "1 : 16"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nForce on smaller piston, F₁ = 200 N\nForce on larger piston, F₂ = 3200 N\n\nSolution:\n\nStep 1: Pascal's principle for hydraulic press\nPressure is transmitted equally throughout the fluid:\nP₁ = P₂\nF₁ / A₁ = F₂ / A₂\n\nStep 2: Express area in terms of radius\nArea A = πr², so\nF₁ / πr₁² = F₂ / πr₂²\nF₁ / r₁² = F₂ / r₂²\n\nStep 3: Rearrange to find ratio r₁ / r₂\nr₁² / r₂² = F₁ / F₂\nr₁ / r₂ = √(F₁ / F₂)\n\nStep 4: Substitute values\nr₁ / r₂ = √(200 / 3200) = √(1/16) = 1/4",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

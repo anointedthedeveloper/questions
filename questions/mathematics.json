@@ -12958,5 +12958,69 @@
     "solution": "PN = NQ",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 110,
+    "question": "Evaluate 5<sup>-3log5</sup><sup>2</sup> x 2<sup>2log2</sup><sup>3</sup>",
+    "option": {
+      "a": "8",
+      "b": "1(1/8)",
+      "c": "2/5",
+      "d": "1/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "5<sup>-3log5</sup><sup>2</sup> x 2<sup>2log2</sup><sup>3</sup>\ni Let -3log5<sup>2</sup> = p => log5<sup>2</sup><sup>-3</sup> = p\n∴2<sup>-3</sup> = 5<sup>-p</sup>\n∴5<sup>-3log5</sup><sup>2</sup> = 5log5<sup>2</sup><sup>-3</sup> = 5<sup>-p</sup>\nii 2<sup>2</sup> 2<sup>2log2</sup><sup>3</sup> = q => log532 = q\n∴3<sup>2</sup> = 2<sup>q</sup>\n∴2<sup>2</sup> 2<sup>2log2</sup><sup>3</sup> = 2<sup>q</sup>\n= 3<sup>2</sup> = 9\ni x ii = 2<sup>-3</sup> x 9 = (1/2)<sup>3</sup> x 9\n= 1/8 x 9\n= 9/8 = 1(1/8)",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 325,
+    "question": "If the interest on N150.00 for 2(1/2) years is N4.50, find the interest on N250.00 for 6 months at the same rate",
+    "option": {
+      "a": "N1.50",
+      "b": "N7.50",
+      "c": "N15.00",
+      "d": "N18.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "I=N4.50,P=N150,T=2 1/2 years. I = (P×T×R)/100. 4.50= (150 × 2 (1/2) × R ) /100  4.50/1=(150 × 5 × R)/(100 × 2). 4.50× 4 = 15R. R = (4.50 × 5)/15. R =6/5 Again I = (P × T × R)/100=(250 × 1 × 6)/(100 × 2 ×5). = 3/2=N1.50",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 806,
+    "question": "If the angles of a quadrilateral are (3y + 10)°, (2y + 30)°, (y + 20)° and 4y°. Find the value of y.",
+    "option": {
+      "a": " 66°",
+      "b": "12°",
+      "c": "30°",
+      "d": " 42°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Sum of angles in a quadrilateral = 360°\n\n∴\n (3y + 10) + (2y + 30) + (y + 20) + 4y = 360\n\n10y + 60 = 360 ⟹\n 10y = 300\n\ny = 30° ",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 243,
+    "question": "The locus of a point P which moves on one side only of a straight line XY so that ∠XPY = 90° is",
+    "option": {
+      "a": "a circle",
+      "b": "a semicircle",
+      "c": "an arc of a circle through X, Y",
+      "d": " the perpendicular bisector of XY"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
   }
 ]

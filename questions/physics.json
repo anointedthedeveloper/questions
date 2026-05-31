@@ -11022,5 +11022,69 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
+  },
+  {
+    "id": 474,
+    "question": "A tuning fork having a frequency of 312 Hz emits a wave which has a wavelength of 1.10 m. Calculate the velocity of sound.",
+    "option": {
+      "a": "312.0 ms⁻¹",
+      "b": "110.0 ms⁻¹",
+      "c": "343.2 ms⁻¹",
+      "d": "686.4 ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nFrequency, f = 312 Hz\nWavelength, λ = 1.10 m\nVelocity, v = ?\n\nSolution:\nUsing the wave equation:\nv = fλ\nStep 1: Substitute the known values\nv = 312 × 1.10\nStep 2: Calculate the velocity\nv = 343.2 m/s",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 383,
+    "question": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of?",
+    "option": {
+      "a": "4",
+      "b": "π²",
+      "c": " 1/4",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Formula for period of simple pendulum:\nT = 2π√(L/g)\nwhere:\n\nT = period\nL = length of pendulum\ng = acceleration due to gravity\n\nRelationship between period and length:\nT ∝ √L\nInitial conditions:\nT₁ = 2π√(L/g)\nWhen length is increased by factor of 4:\nNew length = 4L\nT₂ = 2π√(4L/g)\nT₂ = 2π√4 × √(L/g)\nT₂ = 2π × 2 × √(L/g)\nT₂ = 2 × [2π√(L/g)]\nT₂ = 2T₁\nFactor of increase:\nT₂/T₁ = 2",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 1097,
+    "question": "The quantity of heat needed to raise the temperature of a body by 1K is the body's",
+    "option": {
+      "a": "Heat capacity",
+      "b": " Internal energy",
+      "c": " Specific heat capacity",
+      "d": "Latent heat of fusion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The quantity is the body's heat capacity.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1147,
+    "question": "Calculate the decay constant of a radioactive isotope of half‑life 138.5 s.",
+    "option": {
+      "a": "5.0 × 10⁻³ s⁻¹",
+      "b": "5.1 × 10⁻³ s⁻¹",
+      "c": "4.9 × 10⁻³ s⁻¹",
+      "d": "5.2 × 10⁻³ s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nHalf‑life, T₁/₂ = 138.5 s\n\nSolution:\n\nStep 1: Relationship between decay constant and half‑life\nλ = ln 2 / T₁/₂\n\nStep 2: Substitute ln 2 ≈ 0.693\nλ = 0.693 / 138.5\n\nStep 3: Calculate\n0.693 ÷ 138.5 = 0.0050036 ≈ 5.00 × 10⁻³ s⁻¹",
+    "examtype": "utme",
+    "examyear": "2025"
   }
 ]

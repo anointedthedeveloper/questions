@@ -12350,5 +12350,53 @@
     "solution": "L=4/3 M√PQ=3/4M×L=√PQ=〖(3L/4M)〗<sup>2</sup>=(√PQ )<sup>2</sup>=(9L<sup>2</sup>)/(16M<sup>2</sup> )=PQ=Q=(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 332,
+    "question": "A polynomial in x whose zeros are -2, -1 and 3 is",
+    "option": {
+      "a": "x<sup>3</sup> - 7x + 6",
+      "b": " x<sup>3</sup> + 7x - 6",
+      "c": " x<sup>3</sup> + 7x + 6",
+      "d": "x<sup>3</sup> - 7x - 6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x = -2, x = -1 and x = 3\n∴x+2 = 0, x+1 = 0 and x-3 = 0\nProduct of the factors\n(x+2)(x+1)(x-3) = 0\n(x<sup>2</sup> + 3x + 2)(x-3)\nx(x<sup>2</sup> + 3x + 2) -3(x<sup>2</sup> + 3x + 2) = 0\nx<sup>3</sup> + 3x<sup>2</sup> + 2x - 3x<sup>2</sup> - 9x - 6 = 0\nx<sup>3</sup> - 7x - 6 = 0",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 387,
+    "question": "If m:n = 13:111, find m<sup>2</sup> - n<sup>2</sup> : (m + n)<sup>2</sup>",
+    "option": {
+      "a": " 1:11",
+      "b": " 1:13",
+      "c": "1:10",
+      "d": "1:12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "m : n = 13 : 11\nm<sup>2</sup> - n<sup>2</sup> = (m - n)<sup>2</sup>\n= 13<sup>2</sup> - 11<sup>2</sup> : (13 + 11)<sup>2</sup>\n= 169 - 121 : 24<sup>2</sup>\n= 48 : 576\n= 1 : 12",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 1034,
+    "question": "In this fiqure, PQ = PR = PS and SRT = 68°. Find QPS ",
+    "option": {
+      "a": " 136°",
+      "b": "124°",
+      "c": "112°",
+      "d": "68°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007135/ALOC-Questions/Mathematics/2020/JAMB_MATH_2020_Q17_pderks.jpg",
+    "answer": "a",
+    "solution": "Since PQRS is quadrilateral\n\n2y + 2x + QPS = 360o\ni.e. (y + x) + QPS = 360o\n \n\nQPS = 360° - 2 (y + x)\n\nBut x + y + 68° = 180°\nThere; x + y = 180° - 68° = 112°\nQPS = 360 - 2(112°)\n\n= 360° - 224° = 136°",
+    "examtype": "2020",
+    "examyear": "utme"
   }
 ]

@@ -478,5 +478,165 @@
     "solution": "Given information:\n\nMaximum range (R) = 36 m\nAcceleration due to gravity (g) = 9.8 m/s²\nSpeed of projection (u) = ?\n\nKey concept:\nMaximum range occurs when the projectile is launched at 45° angle.\nFormula for maximum range:\nR_max = u²/g\nRearranging to find u:\nu² = R × g\nu = √(R × g)\nSubstituting values:\nu = √(36 × 9.8)\nu = √352.8\nu = 18.78 m/s\nu ≈ 19 m/s",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 545,
+    "question": "Which of the following is a type of incandescent light source?",
+    "option": {
+      "a": "Fluorescent lamp",
+      "b": "LED lamp",
+      "c": "Tungsten filament lamp",
+      "d": "Neon lamp"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A tungsten filament lamp is an incandescent light source because it produces light by heating a tungsten wire filament until it glows white-hot. The other options produce light through gas discharge (fluorescent, neon) or semiconductor emission (LED), not through heating a material to incandescence.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 800,
+    "question": "I. Force (N)\nII. Torque (Nm)\nIII. Current (A)\nIV. Power (W)\nWhich of the above are the correct S.I. units of the quantities indicated?",
+    "option": {
+      "a": "I and II only",
+      "b": " I and III only",
+      "c": " I, II and III only",
+      "d": " I, II, III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All four statements correctly identify the SI units:\n\nForce → Newton (N) ✓\nTorque → Newton-meter (Nm) ✓\nCurrent → Ampere (A) ✓\nPower → Watt (W) ✓",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 284,
+    "question": "Which of the following does NOT describe the Image formed by a plane minor?",
+    "option": {
+      "a": "Erect",
+      "b": " Laterally inverted",
+      "c": "Same distance from mirror as object",
+      "d": "Magnified"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A plane mirror does NOT produce a magnified image. The image is always the same size as the object with a magnification of 1.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 279,
+    "question": "A car accelerates uniformly from rest to a velocity of 30 m/s in 6 seconds. Calculate the acceleration of the car.",
+    "option": {
+      "a": " 3 m/s²",
+      "b": "5 m/s²",
+      "c": "6 m/s²",
+      "d": " 10 m/s²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial velocity (u) = 0 m/s (starts from rest)\nFinal velocity (v) = 30 m/s\nTime (t) = 6 seconds\nAcceleration (a) = ?\n\nUsing the equation of motion:\nv = u + at\nRearranging to find acceleration:\na = (v - u)/t\nSubstituting values:\na = (30 - 0)/6\na = 30/6\na = 5 m/s²",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 362,
+    "question": "Which of the following media allow the transmission of sound waves through them?\nI. air\nII. liquid\nIII. Solids",
+    "option": {
+      "a": "I & II only",
+      "b": "I & III only",
+      "c": "II & III only",
+      "d": " I, II & III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Sound travels through solids, liquids & gases\nSound travels faster in solid than in liquid & faster in liquid than in gases.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 411,
+    "question": "A 2kg block is pulled along a horizontal frictionless surface by a constant horizontal force of 10N. If the block starts from rest, what is its velocity after 5 seconds?\n",
+    "option": {
+      "a": "5 m/s",
+      "b": " 10 m/s",
+      "c": "15 m/s",
+      "d": "25 m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 2 kg\nApplied force (F) = 10 N\nInitial velocity (u) = 0 m/s (starts from rest)\nTime (t) = 5 seconds\nFinal velocity (v) = ?\n\nStep 1: Calculate acceleration using Newton's Second Law\nF = ma\na = F/m\nSubstituting values:\na = 10/2\na = 5 m/s²\nStep 2: Calculate final velocity using equation of motion\nv = u + at\nSubstituting values:\nv = 0 + (5 × 5)\nv = 0 + 25\nv = 25 m/s",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 78,
+    "question": "Highly polished silvery  surfaces are: ",
+    "option": {
+      "a": "poor absorbers but good emitter of radiation ",
+      "b": "good absorbers and good emitters of radiation ",
+      "c": "poor emitters but good reflectors of radiation ",
+      "d": "poor emitters and poor reflectors of radiation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 257,
+    "question": "From the diagram above, calculate the energy stored in the capacitor",
+    "option": {
+      "a": "4.0 × 10⁻²J",
+      "b": " 4.0 × 10⁻⁴J",
+      "c": " 8.0 × 10⁻⁴J",
+      "d": "8.0 × 10⁻²J"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611037/ALOC-Questions/Physics/2017/2017_Q_28_lvf0sz.jpg",
+    "answer": "b",
+    "solution": "Given information:\n\nCapacitance (C) = 8µF = 8 × 10⁻⁶ F\nVoltage (V) = 10V\nEnergy (E) = ?\n\nFormula for energy stored in a capacitor:\nE = ½CV²\nSubstituting values:\nE = ½ × 8 × 10⁻⁶ × (10)²\nE = ½ × 8 × 10⁻⁶ × 100\nE = ½ × 800 × 10⁻⁶\nE = 400 × 10⁻⁶\nE = 4.0 × 10⁻⁴ J",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 344,
+    "question": "When the temperature of a liquid is increased, its surface tension?",
+    "option": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remain constant",
+      "d": "increases then decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When the temperature of a liquid is increased, its surface tension decreases due to weakening of intermolecular cohesive forces.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 759,
+    "question": "2 kg of water is heated with a heating coil which draws 3.5 A from a 200 V mains for 2 minutes. What is the increase in temperature of the water? [specific heat capacity of water = 4200 Jkg⁻¹K⁻¹]",
+    "option": {
+      "a": "30°",
+      "b": "25°",
+      "c": "15°",
+      "d": "10°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nMass of water (m) = 2 kg\nCurrent (I) = 3.5 A\nVoltage (V) = 200 V\nTime (t) = 2 minutes = 2 × 60 = 120 seconds\nSpecific heat capacity of water (c) = 4200 J/(kg·K)\nTemperature increase (ΔT) = ?\n\nStep 1: Calculate electrical power\nP = VI\nP = 200 × 3.5\nP = 700 W\nStep 2: Calculate electrical energy supplied\nEnergy = Power × Time\nE = 700 × 120\nE = 84,000 J\nStep 3: Calculate temperature increase\nAssuming all electrical energy is converted to heat:\nHeat gained by water = Electrical energy\nmcΔT = E\nRearranging:\nΔT = E/(mc)\nSubstituting values:\nΔT = 84,000/(2 × 4200)\nΔT = 84,000/8,400\nΔT = 10°C",
+    "examtype": "utme",
+    "examyear": "2007"
   }
 ]

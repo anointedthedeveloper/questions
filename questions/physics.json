@@ -5824,6 +5824,22 @@
     "examyear": "2020"
   },
   {
+    "id": 408,
+    "question": "The lower and upper fixed points marked on a Mercury-in-glass thermometer are 210mm apart. The end of the mercury column in the tube is 49mm above the lower fixed point in a room. What is the temperature of the room in degrees Celsius? ",
+    "option": {
+      "a": "55.3°C",
+      "b": "23.3°C",
+      "c": "49.0°C",
+      "d": "16.43°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDistance between fixed points = 210 mm\nMercury column height above lower fixed point = 49 mm\nLower fixed point (ice point) = 0°C\nUpper fixed point (steam point) = 100°C\nRoom temperature = ?\n\nUnderstanding the thermometer scale:\nThe distance of 210 mm represents the temperature range from 0°C to 100°C.\nFormula:\nTemperature = (Height above lower fixed point / Total distance) × 100°C\nCalculating:\nTemperature = (49/210) × 100°C\nTemperature = 0.2333... × 100°C\nTemperature = 23.33°C\nTemperature ≈ 23.3°C",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 410,
     "question": "Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is P₁ while the pressure on H is P₂. If the atmospheric pressure is equivalent to 10m of water, then the value of P₂/P₁ is?",
     "option": {

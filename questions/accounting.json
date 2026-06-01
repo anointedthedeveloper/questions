@@ -64,6 +64,22 @@
     "examyear": "2011"
   },
   {
+    "id": 41,
+    "question": "Wilson Company owns land which cost 14100, 000. If a \"quick sate\" of the land was necessary to generate cash, the company feels it would receive only N80, 000.    The company continues to report the asset on the balance sheet at N100, 000   This is justified under which of the following concepts?  ",
+    "option": {
+      "a": "The historical-cost principle.",
+      "b": "The value is tied to objective and verifiable past transactions.",
+      "c": "Neither of the above.",
+      "d": " Both \"a\" and \"b\""
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 46,
     "question": "If the equipment account has a balance of N22.500 and its accumulated account has a balance of N14,000 the book value of the equipment is:  ",
     "option": {
@@ -1408,6 +1424,38 @@
     "examyear": "2017"
   },
   {
+    "id": 642,
+    "question": "An advantage of FIFO method of stock valuation is that",
+    "option": {
+      "a": "it serves-as a control during inflation",
+      "b": "it is calculated at the end of the year",
+      "c": " it is progressive in nature",
+      "d": "its flow of cost is in sequence with the flow of stock."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The major advantage of the first in first out(FIFO) method of stock valuation\n\n1. it is very easy to apply\n\n2. no manipulation of income is possible\n\n3. the balance sheet amount for inventory is likely to approximate the current market value\n\n4. its flow of cost is in sequence with the flow of stock. Since the first stock will be considered for sale before other stock. the cost is always in sequence with the flow of stock because it corresponds with the normal physical flow of goods",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 644,
+    "question": "Two departments A and B have the following information: Department A has Sales ₦250,000, Purchases ₦500,000, Discount received ₦24,000, and Discount allowed ₦15,000. Department B has Sales ₦150,000 and Purchases ₦250,000. Determine the discount allowed by Department A.",
+    "option": {
+      "a": " ₦5,000",
+      "b": "₦9,375",
+      "c": "₦5,625",
+      "d": "₦8,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate total sales\n\nDepartment A sales: ₦250,000\nDepartment B sales: ₦150,000\nTotal sales: ₦400,000\n\nStep 2: Calculate Department A's proportion of total sales\nDepartment A's proportion = ₦250,000 ÷ ₦400,000 = 62.5%\nStep 3: Allocate total discount allowed proportionally\nTotal discount allowed = ₦15,000 (given for the business)\nDepartment A's discount allowed = ₦15,000 × 62.5% = ₦9,375\nDepartment A's discount allowed is ₦9,375, representing their proportional share based on sales volume.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 662,
     "question": "A part of public company's profits belonging to the shareholders is",
     "option": {
@@ -2064,6 +2112,22 @@
     "examyear": "2024"
   },
   {
+    "id": 927,
+    "question": "An example of fictitious assets is",
+    "option": {
+      "a": "stock",
+      "b": "overdraft",
+      "c": "goodwill",
+      "d": "profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Fictitious assets are intangible assets that do not have a physical form and lack inherent value. They represent deferred expenses or prepaid costs that provide benefits over future periods. For example: Preliminary Expense: Discount on Issue of Shares, Goodwill etc.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 930,
     "question": "Tolu purchased a machine for ₦6,000 on credit. The effect is to debit.. supplier\nand credit the account of the",
     "option": {
@@ -2300,6 +2364,22 @@
     "image": "",
     "answer": "a",
     "solution": "Explanation: Rent received from subletting is other income and is added after gross profit when calculating net profit.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1029,
+    "question": "Goods withdraw from business for private use are credited to?",
+    "option": {
+      "a": "drawings",
+      "b": "purchases",
+      "c": "sales",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation: the journal entry is Debit Drawings (owner's use) and Credit Purchases (or Inventory) to remove the goods from business stock.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -2608,6 +2688,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1175,
+    "question": "The normal accounting entry to record the dishonor of a businessman is to?",
+    "option": {
+      "a": "debit cash book and credit suspense account",
+      "b": "debit cash book and credit drawer",
+      "c": " credit caah book and debit suspense account",
+      "d": " credit cash book and debit drawer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: When a bill or cheque is dishonoured, the amount is removed from the cash/bank (credit cash book) and reinstated as a receivable from the person who gave it (debit drawer).",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1182,
     "question": "<b>Use the information below to answer questions 18 and 19.</b>\n\nStock of raw materials (1st January) ₦3000\n\nDirect wages ₦2500\n\nDirect expenses ₦1000\n\nFactory overheads ₦2000\n\nCost of raw materials used ₦5500\n\nStock of finished goods (31st December) ₦2000\n\nDetermine the prime cost?",
     "option": {
@@ -2704,6 +2800,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1225,
+    "question": "When a bill is negotiated to a bank, it is said be?",
+    "option": {
+      "a": "surrendered",
+      "b": "cashed",
+      "c": "discounted",
+      "d": "accepted"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When you discount a bill with a bank:\n\nYou receive cash immediately instead of waiting for the maturity date\nThe bank pays you less than the face value of the bill\nThe difference between the face value and the amount paid is called the \"discount\"\nThis discount compensates the bank for the risk and the time value of money\nThe bank then collects the full amount from the debtor on the maturity date",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1228,
     "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\nPalaju Enterprises had fixed assets of ₦3,100,000 at the end of the year. \nFixed assets costing ₦900,000 with provision for depreciation of ₦150,000 were disposed of during the period. \nFixed assets of ₦100,000 were added during the year. Provision for depreciation was ₦350,000 at the beginning of the year and ₦300,000 at the end of the year.\n\nWhat was the value of fixed assets at the beginning of the year?",
     "option": {
@@ -2780,6 +2892,22 @@
     "image": "",
     "answer": "a",
     "solution": "Income = Received during year + Opening arrears − Advance for next year\nSubstituting the numbers:\n\n\nIncome = ₦30,000 + ₦4,000 − ₦6,000 = ₦28,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1245,
+    "question": "Given:\n\nClub trading profit ₦12,000\n\nMembers' subscription ₦15,000\n\nProfit on sale of fixed assets ₦2,500\n\nLoss on sale of investments ₦1,000\n\nWages ₦16,500\n\nOther expenses ₦10,000\n\n\n\nDetermine the club's excess of income over expenditure?",
+    "option": {
+      "a": "₦500",
+      "b": " ₦1,500",
+      "c": "₦2,000",
+      "d": "₦2,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To find the excess of income over expenditure, Prepare an Income and Expenditure Account:\nINCOME:\n\nClub trading profit: ₦12,000\nMembers' subscription: ₦15,000\nProfit on sale of fixed assets: ₦2,500\nTotal Income: ₦29,500\n\nEXPENDITURE:\n\nLoss on sale of investments: ₦1,000\nWages: ₦16,500\nOther expenses: ₦10,000\nTotal Expenditure: ₦27,500\n\nExcess of Income over Expenditure:\n= Total Income - Total Expenditure\n= ₦29,500 - ₦27,500 = ₦2,000\nTherefore, the club's excess of income over expenditure is ₦2,000.",
     "examtype": "utme",
     "examyear": "2001"
   },

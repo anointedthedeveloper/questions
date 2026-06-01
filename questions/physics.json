@@ -11504,6 +11504,22 @@
     "examyear": "2009"
   },
   {
+    "id": 862,
+    "question": "An electric heater rated 220 V, 1000 W is immersed into a bucket full of water. Calculate the mass of water if the temperature changes from 30 °C to 100 °C and the current flows for 300 seconds. [specific heat capacity of water = 4200 J kg⁻¹ K⁻¹]",
+    "option": {
+      "a": "4.28 kg",
+      "b": "42.86 kg",
+      "c": "1.02 kg",
+      "d": "7.14 kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nHeater power P = 1000 W\nTime t = 300 s\nInitial temperature = 30 °C\nFinal temperature = 100 °C\nTemperature change Δθ = 70 K\nSpecific heat capacity c = 4200 J kg⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Calculate electrical energy supplied\nEnergy E = P × t = 1000 W × 300 s = 300 000 J\n\nStep 2: Relate energy to heat absorbed by water\nE = m × c × Δθ\n\nStep 3: Solve for mass m\nm = E / (c × Δθ) = 300 000 / (4200 × 70)\n\nStep 4: Compute denominator\n4200 × 70 = 294 000\n\nStep 5: Compute mass\nm = 300 000 / 294 000 ≈ 1.0204 kg",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 863,
     "question": "If the pressure of the vapor on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed?",
     "option": {
@@ -12556,6 +12572,22 @@
     "image": "",
     "answer": "d",
     "solution": "Using v² = u² - 2gs at maximum height (v = 0):\n\n0 = 100² - 2(10)s\ns = 10,000/20 = 500 m",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 952,
+    "question": "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object?",
+    "option": {
+      "a": " 90 m",
+      "b": "30 m",
+      "c": "45 m",
+      "d": "60 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nTime of fall (t) = 3 s\nInitial velocity (u) = 0 m/s (falls from rest)\nAcceleration due to gravity (g) = 10 m/s²\nDistance covered (h) = ?\n\nUsing equation of motion for free fall:\ns = ut + ½gt²\nSince u = 0 (starts from rest):\nh = ½gt²\nSubstituting values:\nh = ½ × 10 × (3)²\nh = ½ × 10 × 9\nh = 5 × 9\nh = 45 m",
     "examtype": "utme",
     "examyear": "2011"
   },

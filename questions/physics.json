@@ -4048,6 +4048,22 @@
     "examyear": "2017"
   },
   {
+    "id": 276,
+    "question": "Which of the following representations is correct for an atom X with 28 electrons and 30 neutrons?",
+    "option": {
+      "a": "⁵⁸₂₈X",
+      "b": "³⁰₂₈X",
+      "c": "²⁸₃₀X",
+      "d": "⁵⁸₃₀X"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nNumber of electrons = 28\nNumber of neutrons = 30\n\nUnderstanding atomic notation:\nThe standard notation is: ᴬ_ZX\nwhere:\n\nA = mass number (top) = protons + neutrons\nZ = atomic number (bottom) = number of protons\nX = element symbol\n\nStep 1: Find number of protons\nFor a neutral atom: Number of protons = Number of electrons = 28\nTherefore: Z = 28\nStep 2: Calculate mass number\nMass number (A) = Protons + Neutrons\nA = 28 + 30 = 58\nStep 3: Write the notation\nᴬ_ZX = ⁵⁸₂₈X",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 277,
     "question": "Which of the following is true of an electrical charge?",
     "option": {
@@ -9712,6 +9728,22 @@
     "examyear": "2005"
   },
   {
+    "id": 688,
+    "question": "²³⁵₉₂U + ¹₀n → ¹⁴⁴₅₆Ba + ⁹⁰₃₆Kr + 2X\nIn the reaction above, X is",
+    "option": {
+      "a": "electron",
+      "b": "proton",
+      "c": "neutrino",
+      "d": "neutron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nuclear fission reaction\nUranium-235 absorbs a neutron\nProducts: Barium-144, Krypton-90, and 2X\n\nSolution:\nStep 1: Apply conservation of mass number (A)\nLeft side: 235 + 1 = 236\nRight side: 144 + 90 + 2A_X = 234 + 2A_X\nEquating: 236 = 234 + 2A_X\n2A_X = 2\nA_X = 1\nStep 2: Apply conservation of atomic number (Z)\nLeft side: 92 + 0 = 92\nRight side: 56 + 36 + 2Z_X = 92 + 2Z_X\nEquating: 92 = 92 + 2Z_X\n2Z_X = 0\nZ_X = 0\nStep 3: Identify particle with A = 1, Z = 0\nThe particle with:\n\nMass number = 1\nAtomic number = 0\n\nis a neutron (¹₀n)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 689,
     "question": "Two liquids L₁ and L₂ are contained in a U-tube. The height and the density of L₁ are 8 cm and 10³ kgm⁻³ respectively. If the density of L₂ is 800 kgm⁻³, its height measured from the same level is",
     "option": {
@@ -12988,6 +13020,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435612/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_42_qaxop9.png",
     "answer": "c",
     "solution": "1/R = 1/8 + 1/8 = 2/8\n∴ R = 4Ω\nl/l1 = R/R1\n(x)/(100-x) = 4/8\n4(100-x) = 8x\n400-4x = 8x\n400 = 8x + 4x = 12x\nx = 400/12 = 33.3cm",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 942,
+    "question": "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?",
+    "option": {
+      "a": "14 A",
+      "b": " 12 A",
+      "c": "10 A",
+      "d": "8 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nResistance of each resistor = 4 Ω\nNumber of resistors = 3\nConnection: parallel\nVoltage applied, V = 16 V\n\nSolution:\n\nStep 1: Calculate equivalent resistance for parallel connection\nFor three identical resistors in parallel:\n1/R = 1/4 + 1/4 + 1/4 = 3/4\nR = 4/3 Ω\n\nStep 2: Apply Ohm's law to find total current\nI = V / R = 16 / (4/3) = 16 × 3/4 = 12 A",
     "examtype": "utme",
     "examyear": "2010"
   },

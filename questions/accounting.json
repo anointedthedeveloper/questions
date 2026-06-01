@@ -2736,6 +2736,22 @@
     "examyear": "2017"
   },
   {
+    "id": 622,
+    "question": "Which fund is used to meet unforeseen or urgent expenditure",
+    "option": {
+      "a": "General reserve fund",
+      "b": "Consolidated Reserve Fund",
+      "c": "contingencies fund",
+      "d": "special fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "contingencies fund: if there is an urgent and unforeseen need for expenditure for which no other provision exist, such expenses shall be deducted from the contingencies fund",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 624,
     "question": "Which of these is the subsidiary book for return inwards?",
     "option": {
@@ -3596,6 +3612,22 @@
     "image": "",
     "answer": "c",
     "solution": "One of the core purposes of bookkeeping is to systematically record and maintain an ongoing, permanent record of every financial transaction of the business. This ensures accuracy, auditability, and continuity in the accounting process.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 782,
+    "question": "Using the information provided: total current assets ₦2,000, total fixed assets ₦4,000, current liabilities ₦1,200, drawings ₦200, and long term loan ₦2,000, What is the net working capital?",
+    "option": {
+      "a": " ₦1,800",
+      "b": "₦800",
+      "c": " ₦2,600",
+      "d": " ₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Current Assets−Current Liabilities=₦2,000−₦1,200=₦800",
     "examtype": "utme",
     "examyear": "2020"
   },

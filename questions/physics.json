@@ -11776,6 +11776,22 @@
     "examyear": "2007"
   },
   {
+    "id": 770,
+    "question": "A charge 50 µC has electric field strength of 360 NC⁻¹ at a certain point. The electric field strength due to another charge 120 µC kept at the same distance apart and in the same medium is?",
+    "option": {
+      "a": "864 NC⁻¹",
+      "b": " 150 NC⁻¹",
+      "c": "144 NC⁻¹",
+      "d": "18 NC⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCharge 1 (Q₁) = 50 µC\nElectric field at point (E₁) = 360 NC⁻¹\nCharge 2 (Q₂) = 120 µC\nDistance and medium remain same\nElectric field due to Q₂ (E₂) = ?\n\nUnderstanding electric field:\nElectric field strength (E) is directly proportional to the charge (Q):\nE ∝ Q (at constant distance and medium)\nFormula:\nE = kQ/r²\nSince k (constant), r (distance), and medium are the same:\nE₁/E₂ = Q₁/Q₂\nSetting up proportion:\n360/E₂ = 50/120\nSolving for E₂:\nE₂ = (360 × 120)/50\nE₂ = 43,200/50\nE₂ = 864 NC⁻¹\nAlternative approach:\nRatio of charges = 120/50 = 2.4\nE₂ = E₁ × 2.4\nE₂ = 360 × 2.4\nE₂ = 864 NC⁻¹",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 771,
     "question": "The energy E of a photon and its wavelength are related by Eλ = X. The numerical value of X is? [h = 6.63 × 10⁻³⁴ Js, c = 3 × 10⁸ ms⁻¹]",
     "option": {

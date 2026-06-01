@@ -192,6 +192,22 @@
     "examyear": "2010"
   },
   {
+    "id": 16,
+    "question": "Prepaid expenses  is an  item  in ",
+    "option": {
+      "a": "Fixed Asset  ",
+      "b": "  Current    Asset   ",
+      "c": "Liabilities ",
+      "d": "Long term liabilities "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 17,
     "question": "Final accounts of (i) Cash book (ii) trading account  (iii) Profit and  loss account  (iv)Balance sheet  ",
     "option": {
@@ -352,6 +368,22 @@
     "examyear": "2011"
   },
   {
+    "id": 29,
+    "question": "Accounting equation is given by  ",
+    "option": {
+      "a": "Assets - Liabilities + Owner's Equity ",
+      "b": "Assets = Liabilities - Owner's Equity ",
+      "c": "Assets + Owner's Equity = Liabilities ",
+      "d": "Assets = Liabilities + Owner's Equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 30,
     "question": "Which of the following is not a current asset?  ",
     "option": {
@@ -411,6 +443,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 34,
+    "question": "Where a correct amount is entered, but in the wrong person's account, is an error of  ",
+    "option": {
+      "a": "Principle  ",
+      "b": " Omission",
+      "c": "Commission",
+      "d": "Compensation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -683,6 +731,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 54,
+    "question": "The receipt of cash from customers in a payment of their account would recorded by a",
+    "option": {
+      "a": "Debit to account receivable; credit to cash ",
+      "b": "b  Debit to cash credit to accounts receivable  ",
+      "c": "Debit to cash, credit to accounts payable  ",
+      "d": "Debit to account payable credit to cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1323,6 +1387,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 100,
+    "question": "Cash receipts and payments involving discounts are entered in",
+    "option": {
+      "a": "three-column cash book.",
+      "b": "two-column cash book.",
+      "c": "analytical cash book.",
+      "d": "petty cash book."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -3888,6 +3968,22 @@
     "examyear": "2012"
   },
   {
+    "id": 276,
+    "question": "The concept which establishes the rule for the periodic recognition of revenue as soon as it is capable of objective measurement is",
+    "option": {
+      "a": "going concern.",
+      "b": "entity.",
+      "c": "consistency.",
+      "d": "realization."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 277,
     "question": "Rent accrued in 2009 was D140. In 2010, D900 was paid while D160 was outstanding. Rent for 2010 was",
     "option": {
@@ -4736,6 +4832,22 @@
     "examyear": "2015"
   },
   {
+    "id": 335,
+    "question": "The document which sets out the internal arrangement for the proper management of a company is the",
+    "option": {
+      "a": "prospectus",
+      "b": "article of association",
+      "c": "memorandum of association",
+      "d": "certificate of incorporation"
+    },
+    "section": "Use the following information to answer questions: Mr. White acquired Mr. Black’s business for GHc/ 410,000. The total assets were GHc/ 670,000 and liabilities amounted to GHc/ 320,000",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 336,
     "question": "A person who has applied to purchase shares in a company is referred to as",
     "option": {
@@ -4827,6 +4939,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 342,
+    "question": "Which of the following is found on the credit side of a partnership’s appropriation of profit account?",
+    "option": {
+      "a": "Interest on capital",
+      "b": "Interest on drawings",
+      "c": "share of profit",
+      "d": "Drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -4939,6 +5067,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 350,
+    "question": "The accounting treatment for a dishonoured cheque is; debit",
+    "option": {
+      "a": "Customer’s Account; Credit Bank Account",
+      "b": "Bank Account; Credit Customer’s Account",
+      "c": "Customer’s Account; Credit Sales Account",
+      "d": "Sales Account; Credit Customer’s Account\\"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -5227,6 +5371,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 369,
+    "question": "A petty cash account has an imprest of D28,000. The account has a debit balance of D5.000. How much cash is needed to restore the imprest?",
+    "option": {
+      "a": "D33,000",
+      "b": "D28,000",
+      "c": "D23,000",
+      "d": "D5,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -5851,6 +6011,22 @@
     "section": "Beginning inventory [ ? ]; Purchases [? ]; Ending inventory [ N4,800 ]; Sales [ N12,800 ]; Wages [ N1,040 ]; Gross profit [N 5,900]. The beginning inventory was estimated at 80% of sales.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 412,
+    "question": "Cost classification in relation to charges is determined by the level of",
+    "option": {
+      "a": "raw materials",
+      "b": "labour",
+      "c": "activity",
+      "d": "profitability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -6832,6 +7008,22 @@
     "examyear": "2009"
   },
   {
+    "id": 478,
+    "question": "The process of bookkeeping includes records produced from",
+    "option": {
+      "a": "ledgers",
+      "b": "source documents",
+      "c": "minutes of meeting",
+      "d": "intuitive reasoning"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 479,
     "question": "Musa, a prepaid customer of XYZ and KLM, bought  N1500 recharge card from XYZ and  N2000 recharge card from KLM for business calls. The entry to record these transaction is debit",
     "option": {
@@ -7083,6 +7275,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 498,
+    "question": "Determine the gross profit",
+    "option": {
+      "a": "N 49,000",
+      "b": "N 48,000",
+      "c": "N 31,000",
+      "d": "N30,000"
+    },
+    "section": "Use the information to answer questions: Work-in-progress 1/1[N 1,000 ];\tWork-in-progress 31/12 \t[N 2,000 ]; Production cost of goods manufactured \t[N 20,000 ] Sales [N 50,000]; Stock of finished goods 1/1 [N 4,000 ]; Stock of finished goods 31/12 [N 5,000 ]; Selling and distribution expenses[  N 2,000 ]; Administrative expenses [ 1,000 ]",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -7488,6 +7696,22 @@
     "examyear": "2015"
   },
   {
+    "id": 530,
+    "question": "The ledger entries to be made if cash sales is banked is debit",
+    "option": {
+      "a": "cash, credit sales",
+      "b": "sales, credit cash",
+      "c": " bank, credit cash",
+      "d": "bank, credit sales"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When you make a cash sale and lodge the proceeds directly into the bank, you:\n\nDebit Bank (to increase your bank balance)\n\nCredit Sales (to record the revenue earned)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 531,
     "question": "In a bank reconciliation statement, Dishonoured cheques is added to",
     "option": {
@@ -7516,6 +7740,22 @@
     "image": "",
     "answer": "c",
     "solution": "In the Debtors Control Account, increases in what customers owe you are recorded on the debit side. Of the choices:\n\nCredit sales increase debtors (they owe you more), so they’re debited.\n\nDiscount allowed, returns inwards, and cash received from debtors all reduce debtors and are therefore credited.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 533,
+    "question": "Which of the following is not a proper form of the accounting equation",
+    "option": {
+      "a": "fixed assets + current assets - liabilities = capital",
+      "b": "fixed assests + current assests + liabilities = capital",
+      "c": "ixed assets – liabilities + current assets = capital",
+      "d": "fixed asset + current asset – capital = liabilities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The simplest presentation of capital employed is total assets minus current liabilities. Sometimes, it is equal to all current equity plus interest-generating loans (non-current liabilities).",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -8252,6 +8492,22 @@
     "image": "",
     "answer": "d",
     "solution": "A cash discount is a deduction allowed by some sellers of goods or by some providers of services in order to motivate customers to pay within a specified time. The cash discount is also referred to as an early payment discount.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 590,
+    "question": "Impersonal account is subdivided into",
+    "option": {
+      "a": "real and nominal accounts",
+      "b": "nominal and personal accounts",
+      "c": " real and current accounts",
+      "d": "personal and real accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In traditional accounting classification, accounts are first split into personal accounts (which relate to individuals and organizations) and impersonal accounts. The impersonal accounts are then further subdivided into:\n\nReal accounts (assets—both tangible and intangible)\n\nNominal accounts (income, expenses, gains and losses)",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -9120,6 +9376,22 @@
     "examyear": "2017"
   },
   {
+    "id": 650,
+    "question": "Given:\nI. Settlement of debts\nII. Cessation of business\nIII. Introduction of assets\nIV. Disposal of assets\nWhich of these constitutes dissolution of partnership?",
+    "option": {
+      "a": "II and IV only",
+      "b": " I, II and IV only",
+      "c": " I, II and III only",
+      "d": " II, III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dissolution of partnership business simply means the break up of partnership business and which are caused by many factors\nII,III and IV: disposal of asset does not constitute dissolution",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 651,
     "question": "The use of a three column cash book is determined by",
     "option": {
@@ -9548,6 +9820,22 @@
     "image": "",
     "answer": "c",
     "solution": "is charged in the profit and loss account as finance expenses",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 684,
+    "question": "A business has the following balance sheet: Capital ₦40,000, Furnishing ₦10,000, Ceiling Fan ₦1,500, and Cash in Hand ₦28,500, with total assets and liabilities both equaling ₦40,000.\nIf at 31/1/95 the following information was ascertained:\n\nRent for shop ₦12,000 paid for the year\nTotal purchases ₦15,000\nTotal sales ₦8,200\nStock of goods left ₦10,000\nPaid sales boy ₦500\n\nWhat is the balance on its cash account as at 31/1/95?",
+    "option": {
+      "a": "₦22,800",
+      "b": "₦9,200",
+      "c": "₦800",
+      "d": " ₦21,200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Starting with opening cash balance of ₦28,500, we calculate the cash movements:\nCash Outflows:\n\nRent paid: ₦12,000\nPurchases: ₦15,000\nSales boy wages: ₦500\nTotal cash outflows: ₦27,500\n\nCash Inflows:\n\nSales (assuming cash sales): ₦8,200\n\nCash Balance Calculation:\nOpening Cash + Cash Inflows - Cash Outflows\n= ₦28,500 + ₦8,200 - ₦27,500\n= ₦36,700 - ₦27,500\n= ₦9,200\nThe cash account balance as at 31/1/95 is ₦9,200.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -12000,6 +12288,22 @@
     "examyear": "2022"
   },
   {
+    "id": 850,
+    "question": "\nWhich of these is not method of stock valuation?",
+    "option": {
+      "a": "FIFO method",
+      "b": "Base method",
+      "c": "Standard method",
+      "d": "LIFO method"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Standard method is not a method of stock valuation. ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 851,
     "question": "In a bank reconciliation statement, Dishonoured cheques is added to",
     "option": {
@@ -12300,6 +12604,22 @@
     "image": "",
     "answer": "d",
     "solution": "The concept that recognizes the principle of double entry is the dual aspect concept.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 874,
+    "question": "Bola, UTC's regular customer, owed N1,00 on account of a radio bought. If he sent in a cheque for N1,500, UTC would send him a",
+    "option": {
+      "a": "credit note",
+      "b": "debit note",
+      "c": "journal voucher",
+      "d": "way bill"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If Bola sends in a cheque for more than the owed amount, UTC would send him a credit note for the excess amount paid.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -14076,6 +14396,22 @@
     "image": "",
     "answer": "b",
     "solution": "Calculation:\nInterest on drawings for G = Drawings × Interest rate\nInterest on drawings for G = ₦2,000 × 5%\nInterest on drawings for G = ₦2,000 × 0.05\nInterest on drawings for G = ₦100",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 998,
+    "question": "The entry in the partnership books of accounts for interest on drawings is to?",
+    "option": {
+      "a": "credit partners capital account",
+      "b": "debit partners capital account",
+      "c": "credit drawings account",
+      "d": "debit drawings account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Interest on drawings is a charge against the partner for withdrawing money from the business for personal use",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -16908,6 +17244,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665518/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q28-29_mt0snk.png",
     "answer": "a",
     "solution": "Given Information from the Account:\n\nTotal for both sides: ₦35,000\nOther expenses = ₦5,000 (25% of ₦20,000 subscriptions as calculated in the previous question)\n\nIncome Side:\n\nSubscriptions received: ₦20,000\nDonations received: ₦10,000\nProfits on sale of investment: ₦5,000\nTotal Income = ₦35,000\n\nExpenditure Side:\n\nWaged: ₦12,000\nElectricity: ₦5,000\nDepreciation - Furniture: ₦1,000\nOther expenses: ₦5,000 (calculated as 25% of subscriptions)\nExcess of income over expenditure: ?\n\nCalculation:\nTotal Expenditure (excluding excess) = ₦12,000 + ₦5,000 + ₦1,000 + ₦5,000 = ₦23,000\nSince both sides must balance at ₦35,000:\nExcess of income over expenditure = ₦35,000 - ₦23,000 = ₦12,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1194,
+    "question": "The gross profit on manufactured goods is the difference between the cost of goods manufactured and the?",
+    "option": {
+      "a": "market value of goods produced",
+      "b": "prime cost of production",
+      "c": "indirect cost of production",
+      "d": "goods produced"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reason: Gross profit on manufactured goods = Selling price (market value) of goods produced − Cost of goods manufactured.",
     "examtype": "utme",
     "examyear": "2002"
   },

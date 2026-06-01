@@ -1328,6 +1328,22 @@
     "examyear": "3"
   },
   {
+    "id": 156,
+    "question": "A temporary certificate to show that a cover is in existence is called",
+    "option": {
+      "a": "Policy",
+      "b": "Certificate",
+      "c": "Cover note",
+      "d": "Claim slip"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 157,
     "question": "------------ is used to bring amendment in a policy that is either to add in a new thing or removal of an existing thing in the policy",
     "option": {
@@ -2039,6 +2055,22 @@
       "b": "two or more parties are promisor",
       "c": "two or more policies of indemnity exist",
       "d": "one policy of indemnity exist"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 232,
+    "question": "When the proposer fails to fill the proposal form truthfully, the contract will become",
+    "option": {
+      "a": "voidable",
+      "b": "illegal",
+      "c": "void",
+      "d": "enforceable"
     },
     "section": "",
     "image": "",

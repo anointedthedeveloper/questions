@@ -19,6 +19,14 @@ def prevent_sleep():
 def allow_sleep():
     ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS)
 
+def prevent_shutdown():
+    hwnd = ctypes.windll.kernel32.GetConsoleWindow()
+    ctypes.windll.user32.ShutdownBlockReasonCreate(hwnd, "Download in progress")
+
+def allow_shutdown():
+    hwnd = ctypes.windll.kernel32.GetConsoleWindow()
+    ctypes.windll.user32.ShutdownBlockReasonDestroy(hwnd)
+
 API_KEYS = [
     "QB-f8fd0811d3a19d9bc3ac",
     "ALOC-eb5ef0a13fdb416ad27a",
@@ -300,11 +308,13 @@ def worker():
         queue.task_done()
 
 prevent_sleep()
+prevent_shutdown()
 threads = [threading.Thread(target=worker) for _ in range(WORKERS)]
 for t in threads:
     t.start()
 for t in threads:
     t.join()
 allow_sleep()
+allow_shutdown()
 
 print("\nAll done!")

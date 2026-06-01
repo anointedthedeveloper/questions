@@ -3232,6 +3232,22 @@
     "examyear": "2003"
   },
   {
+    "id": 225,
+    "question": "Find (1/0.06 ÷ 1/0.042\n)<sup>=1</sup> , correct to two decimal \nplaces",
+    "option": {
+      "a": "1.43",
+      "b": "1.53",
+      "c": "3.14",
+      "d": "4.42"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mn>1</mn>\n    <mn>0.06</mn>\n  </mfrac>\n  <mo>&#x00F7;<!-- ÷ --></mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>0.042</mn>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(1/0.06 ÷ 1/0.042)<sup>-1</sup>\n= (100/6 ÷ 1000/42) <sup>-1</sup>\n= (1006×421000)<sup>-1</sup>\n= (7/10)<sup>-1</sup>\n= 10/7\n= 1.4285 ≊ 1.43.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 226,
     "question": "A woman buys 270 oranges for N1800.00 and sells at 5 for N40.00. What is her profit?",
     "option": {

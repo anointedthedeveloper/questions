@@ -1264,6 +1264,22 @@
     "examyear": "2010"
   },
   {
+    "id": 90,
+    "question": "Which of the following statements is not true about a body performing simple harmonic motion? ",
+    "option": {
+      "a": "the linear speed is the product of the angular speed and the radius or amplitude ",
+      "b": "the linear acceleration is the product of the square of the angular speed and the displacement ",
+      "c": "frequency is the number of complete revolution per second made by a vibrating body ",
+      "d": "the S.I unit of amplitude is Hertz (Hz)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 92,
     "question": " A body of mass m slides down an inclined plane with a constant velocity. If the angle of the incline is Ø, the coefficient of kinetic friction between the body and the plane is  ",
     "option": {
@@ -1659,6 +1675,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 118,
+    "question": "Three knives made of steel, plastic and flat wood respectively are placed on the table for an equal amount of time. The steel knife feels coldest to touched because",
+    "option": {
+      "a": "The steel knife has the lowest temperature ",
+      "b": "The plastic and wooden knives have absorbed more heat from the environment than the steel knife. ",
+      "c": "Both wooden and plastic knives have lower densities than the steel ",
+      "d": "The steel knife conducts heat faster from the finger than the wooden and plastic knives "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -4236,6 +4268,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nMass of bullet (m₁) = 0.05 kg\nInitial velocity of bullet (u₁) = 200 m/s\nMass of block (m₂) = 0.95 kg\nInitial velocity of block (u₂) = 0 m/s (at rest)\nFinal kinetic energy = ?\n\nThis is an inelastic collision (bullet embeds in block)\nStep 1: Find final velocity using conservation of momentum\nm₁u₁ + m₂u₂ = (m₁ + m₂)v\n0.05 × 200 + 0.95 × 0 = (0.05 + 0.95)v\n10 + 0 = 1.0v\nv = 10 m/s\nStep 2: Calculate final kinetic energy\nKE_final = ½(m₁ + m₂)v²\nKE_final = ½ × 1.0 × (10)²\nKE_final = ½ × 1.0 × 100\nKE_final = 50 J",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 304,
+    "question": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 30V and 40V respectively. What is the voltage across the capacitor?",
+    "option": {
+      "a": "30V",
+      "b": "70V",
+      "c": "50V",
+      "d": "40V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "At resonance in a series R-L-C circuit, the voltage across the capacitor equals that across the inductor. Given VL\n = 40V, the voltage across the capacitor (VC\n​) is also 40V.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -9420,6 +9468,22 @@
     "image": "",
     "answer": "b",
     "solution": "\nStep 1: Understanding p‑n junction behavior\nA p‑n junction allows significant current to flow when the p‑side is connected to the positive terminal of a battery and the n‑side to the negative terminal. This connection reduces the depletion region and lowers the barrier for charge carriers.\n\nStep 2: Identifying the correct term\nThis configuration is known as forward bias. The opposite connection (reverse bias) blocks current flow under normal conditions.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 730,
+    "question": "I. The number of neutrons released exceeds the number that caused the fission.\nII. There is loss of mass.\nIII. Energy is produced.\nIV. Smaller nuclei merge to form larger nuclei.\nWhich of the statements above are correct about nuclear fission?",
+    "option": {
+      "a": "II, III and IV only",
+      "b": "I, II and IV only",
+      "c": "I, II and III only",
+      "d": "I, III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nuclear fission involves the splitting of a heavy nucleus into two or more lighter nuclei, accompanied by the release of neutrons and energy.",
     "examtype": "utme",
     "examyear": "2006"
   },

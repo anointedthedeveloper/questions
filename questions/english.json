@@ -2527,6 +2527,25 @@
     "category": "others"
   },
   {
+    "id": 164,
+    "question": "Idris gives me a <i>sour</i> look every time I pass by him",
+    "option": {
+      "a": "bad",
+      "b": "satisfactory",
+      "c": "friendly",
+      "d": "sinister"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 165,
     "question": "The officer was given an <i>invidious</i> task",
     "option": {
@@ -11320,6 +11339,25 @@
     "examtype": "utme",
     "examyear": "2002",
     "questionNub": 27,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 824,
+    "question": "Musa has lived here for five years but he does not seem able to get over the enormously........ and elaborate rules that govern the society?",
+    "option": {
+      "a": "adsurd",
+      "b": "bizarre",
+      "c": "fantastic",
+      "d": "inticate"
+    },
+    "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.</b>\n",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002",
+    "questionNub": 28,
     "hasPassage": 0,
     "category": "others"
   },
@@ -20630,6 +20668,25 @@
     "examtype": "utme",
     "examyear": "2018",
     "questionNub": 68,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1553,
+    "question": "choose the option opposite in meaning to the word(s) in italics.\n\n  Father Francis thanked God for the <i>abundance</i> of blessings his family received",
+    "option": {
+      "a": "Nature",
+      "b": "Quantity",
+      "c": "Quality",
+      "d": "Paucity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Abundance means an excessive availability of something.\n\nPaucity means fewness in number",
+    "examtype": "utme",
+    "examyear": "2018",
+    "questionNub": 70,
     "hasPassage": 0,
     "category": "others"
   },

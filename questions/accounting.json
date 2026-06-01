@@ -1744,6 +1744,22 @@
     "examyear": "2015"
   },
   {
+    "id": 560,
+    "question": "Accounting information is used by investors and creditors of a company to predict",
+    "option": {
+      "a": "potential merger candidates for the company",
+      "b": "appropriate remunerations for the company’s staff",
+      "c": "future cash flows of the company",
+      "d": "future tax payments of the company"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The average lender or investor does not have ongoing inside access to the day-to-day operations of a company. Instead, it relies on financial accounting to provide accurate and readily comparable information. Financial accounting allows outside actors to observe the profitability and value of a business.\n\nCreditors are interested in accounting information, because it enables them to determine the credit worthiness of the business.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 564,
     "question": "If rent account is debited instead of rate account, the error committed is that of;",
     "option": {
@@ -1900,6 +1916,22 @@
     "image": "",
     "answer": "d",
     "solution": "Capital expenditure; money spent by a business or organization on acquiring or maintaining fixed assets, such as land, buildings, and equipment.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 590,
+    "question": "Impersonal account is subdivided into",
+    "option": {
+      "a": "real and nominal accounts",
+      "b": "nominal and personal accounts",
+      "c": " real and current accounts",
+      "d": "personal and real accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In traditional accounting classification, accounts are first split into personal accounts (which relate to individuals and organizations) and impersonal accounts. The impersonal accounts are then further subdivided into:\n\nReal accounts (assets—both tangible and intangible)\n\nNominal accounts (income, expenses, gains and losses)",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3760,6 +3792,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1138,
+    "question": "During the year ended 31st December 2001,\n₦uju Enterprises paid rent as follows:\nJan. 20, ₦24 000 for a period of 4 months.\nMay. 16, ₦30 000 for a period of 5 months.\nOct. 15, ₦36 000 for a period of 6 months.\n\nWhat is the overpaid portion of the rent?",
+    "option": {
+      "a": "₦36 000",
+      "b": "₦21,000",
+      "c": "₦12 000",
+      "d": "₦6 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Payment 1:\nJan 20 — ₦24,000 for 4 months → Jan 20 to May 19, 2001\n\nAll months are within 2001, so no overpayment.\n\nPayment 2:\nMay 16 — ₦30,000 for 5 months → May 16 to Oct 15, 2001\n\nAll months are within 2001, so no overpayment.\n\nPayment 3:\nOct 15 — ₦36,000 for 6 months → Oct 15, 2001 to Apr 14, 2002\n\nFrom Oct 15 to Dec 31, 2001 → 2.5 months belong to 2001 (paid expense).\n\nFrom Jan 1 to Apr 14, 2002 → 3.5 months belong to 2002 (prepaid).\n\nStep 2 – Calculate prepaid portion from Payment 3\nCost per month = ₦36,000 ÷ 6 = ₦6,000/month\n\nPrepaid = 3.5 months × ₦6,000 = ₦21,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1144,
     "question": "Income and expenditure account is more informative than receipts and payments account because it discloses?",
     "option": {
@@ -4320,6 +4368,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1332,
+    "question": "The main features of the single system are that?",
+    "option": {
+      "a": "books of accounts are not maintained and business relies only on bank statement",
+      "b": "the journal records are absent and only the main ledger is kept 7",
+      "c": "there are incomplete classifications and recording procedures",
+      "d": "only credit sales transactions and credit purchase are recorded"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The hallmark of the single-entry (or “incomplete”) system is that it lacks full double‐entry records—there are incomplete classifications and recording procedures, with many transactions only partially recorded (e.g., cash receipts and payments, with limited or no subsidiary ledgers).",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1334,
     "question": "In dealing with incomplete records, fixed assets are posted to?",
     "option": {
@@ -4364,6 +4428,22 @@
     "image": "",
     "answer": "b",
     "solution": "The prime cost refers to all direct costs involved in the production of goods. This includes:\n\nDirect materials (e.g., cement, sand, water)\n\nDirect labor (e.g., workers making the blocks)\n\nDirect expenses (e.g., carriage inwards, which brings materials to the factory)",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1342,
+    "question": "Given:\nClub ₦150\nCash sales ₦4,850\nClub debtors at close ₦900\nCash received from debtors ₦550\n\nWhat is the amount of club sales?",
+    "option": {
+      "a": "₦6,150",
+      "b": "₦4,850",
+      "c": "₦4,650",
+      "d": "₦1,300"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the total club sales, Calculate both cash sales and credit sales.\nGiven information:\n\nClub debtors at opening: ₦150\nCash sales: ₦4,850\nClub debtors at close: ₦900\nCash received from debtors: ₦550\n\nStep 1: Calculate credit sales using debtors control account\nOpening debtors + Credit sales - Cash received = Closing debtors\n₦150 + Credit sales - ₦550 = ₦900\nCredit sales = ₦900 - ₦150 + ₦550\nCredit sales = ₦1,300\nStep 2: Calculate total club sales\nTotal club sales = Cash sales + Credit sales\nTotal club sales = ₦4,850 + ₦1,300 = ₦6,150",
     "examtype": "utme",
     "examyear": "1999"
   },

@@ -112,6 +112,22 @@
     "examyear": "2013"
   },
   {
+    "id": 98,
+    "question": "Which of the following is recorded on the debit side of the Trial Balance?",
+    "option": {
+      "a": "Bank overdraft",
+      "b": "Returns outwards",
+      "c": "Purchases",
+      "d": "Capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 124,
     "question": "Which of the following is not part of prime costof production?",
     "option": {
@@ -400,6 +416,22 @@
     "examyear": "2004"
   },
   {
+    "id": 410,
+    "question": "Determine the amount for the beginning inventory",
+    "option": {
+      "a": "N 20,140",
+      "b": "N10,240",
+      "c": "N 8,140",
+      "d": "N 7,240"
+    },
+    "section": "Beginning inventory [ ? ]; Purchases [? ]; Ending inventory [ N4,800 ]; Sales [ N12,800 ]; Wages [ N1,040 ]; Gross profit [N 5,900]. The beginning inventory was estimated at 80% of sales.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 419,
     "question": "A rapidly growing business organization with multiple units that is interested in comparing the performances and weaknesses of each unit should adopt.",
     "option": {
@@ -430,6 +462,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 433,
+    "question": "The statement of assets and liabilities in the public sector can be described as the",
+    "option": {
+      "a": "income and expenditure account of government",
+      "b": "appropriation account of government",
+      "c": "balance sheet of government",
+      "d": "funds flow statement of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 480,
+    "question": "What is the total debit for the trial balance?",
+    "option": {
+      "a": "N  4 690 000",
+      "b": "N 2 620 000",
+      "c": "N  2 520 000",
+      "d": "N 1 565 000"
+    },
+    "section": "Given: Capital [N 2, 375, 000 ]; Debtors [N 495, 000 ]; Motor vehicles [N 870, 000 ]; Creditors [N 245,000 ]; Prepayments [N 500, 000 ]; Bills receivable [N 505, 000 ]; Furniture [N 150, 000 ]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
   },
   {
     "id": 512,
@@ -508,6 +572,22 @@
     "image": "",
     "answer": "b",
     "solution": "The simplest presentation of capital employed is total assets minus current liabilities. Sometimes, it is equal to all current equity plus interest-generating loans (non-current liabilities).",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 535,
+    "question": "What does liquidity ratio measure?",
+    "option": {
+      "a": "measures operating efficiency of a company",
+      "b": " measures the ability of a company to meet its current obligations.",
+      "c": " measures the value of investments of a company",
+      "d": "measures the financial leverage of a company"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "liquidity ratio attempt to measure the ability to meet up with current obligations e.g. current ratio which measures the current asset to current liabilities.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -620,6 +700,22 @@
     "image": "",
     "answer": "d",
     "solution": "Realization account: the cash realized from sales of asset is credited to it",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 620,
+    "question": "You add the following when starting with the balance as per cash book when preparing the bank reconciliation statement except",
+    "option": {
+      "a": "Unpresented",
+      "b": "Dividend",
+      "c": "Uncredited cheque",
+      "d": "credit transfer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Uncredited cheque: This have to be deducted when starting balance as per cash book",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -864,6 +960,22 @@
     "examyear": "2021"
   },
   {
+    "id": 817,
+    "question": "Given the following ledger balances, what is the total amount on the credit side of the trial balance?\n\nBank overdraft: ₦2,000\n\nCash: ₦2,000\n\nFurniture: ₦4,000",
+    "option": {
+      "a": "₦4000",
+      "b": "₦6000",
+      "c": "₦2000",
+      "d": "₦8000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Only the bank overdraft is a credit balance, so the total on the credit side of the trial balance is ₦2,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 852,
     "question": "One of the items listed below will not be found in a company’s memorandum and article of association. Which is it?",
     "option": {
@@ -1068,6 +1180,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Calculate the average cost after each receipt\n\nAug. 1\n\nReceived 20 units @ ₦60\n\nAverage cost = ₦60 (only one purchase so far)\n\nAug. 6\n\nReceived 20 units @ ₦68\n\nSimple average = (60 + 68)/2 = 128/2 = ₦64 per unit\n\nStep 2: Issue stock (Aug. 10)\n\nIssued 16 units at ₦64 each (no change in average price — simple average method keeps cost until next purchase)\n\nBalance after issue = 20 + 20 − 16 = 24 units @ ₦64\n\n\nStep 3: Aug. 20 purchase\n\nReceived 40 units @ ₦80\n\n₦ew average = (64 + 80)/2 = 144/2 = 72 per unit\n\n\nStep 4: Aug. 31 issue\n\nIssued 48 units @ ₦72 (still same average after last purchase)\n\nClosing stock units = 24 + 40 − 48 = 16 units @ ₦72\n\nCost per unit of closing stock = ₦72",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 989,
+    "question": "The floor space occupied by manufacturing and administration departments in a company is 200 sqm and 300 sqm respectively. ₦20 000 rent incurred is shared using floor space occupied. How much is the rent chargeable to manufacturing?",
+    "option": {
+      "a": "₦8 000",
+      "b": "₦10 000",
+      "c": "₦12 000",
+      "d": " ₦18 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: Calculate total floor space\nTotal floor space = 200 sqm + 300 sqm = 500 sqm\nStep 2: Calculate manufacturing department's proportion\nManufacturing proportion = 200 sqm ÷ 500 sqm = 2/5 = 0.4 or 40%\nStep 3: Calculate rent chargeable to manufacturing\nRent for manufacturing = ₦20,000 × (200/500)\nRent for manufacturing = ₦20,000 × 0.4 = ₦8,000",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -1392,6 +1520,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1245,
+    "question": "Given:\n\nClub trading profit ₦12,000\n\nMembers' subscription ₦15,000\n\nProfit on sale of fixed assets ₦2,500\n\nLoss on sale of investments ₦1,000\n\nWages ₦16,500\n\nOther expenses ₦10,000\n\n\n\nDetermine the club's excess of income over expenditure?",
+    "option": {
+      "a": "₦500",
+      "b": " ₦1,500",
+      "c": "₦2,000",
+      "d": "₦2,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To find the excess of income over expenditure, Prepare an Income and Expenditure Account:\nINCOME:\n\nClub trading profit: ₦12,000\nMembers' subscription: ₦15,000\nProfit on sale of fixed assets: ₦2,500\nTotal Income: ₦29,500\n\nEXPENDITURE:\n\nLoss on sale of investments: ₦1,000\nWages: ₦16,500\nOther expenses: ₦10,000\nTotal Expenditure: ₦27,500\n\nExcess of Income over Expenditure:\n= Total Income - Total Expenditure\n= ₦29,500 - ₦27,500 = ₦2,000\nTherefore, the club's excess of income over expenditure is ₦2,000.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1251,
     "question": "Bala Ltd acquired the business of Bello Ltd and caused the separate existence of the latter company to terminate. This situation is best described as?",
     "option": {
@@ -1420,6 +1564,22 @@
     "image": "",
     "answer": "d",
     "solution": "The company is issuing 500,000 shares. Applications were received for 1,550,000 shares, but only applications totaling 1,250,000 shares are considered for pro rata allotment. The remaining applications for 300,000 shares are dishonored and fully refunded.\n\nThe allotment ratio is calculated as follows:\n\nTotal shares to be issued: 500,000\n\nTotal shares considered for allotment: 1,250,000\n\nAllotment ratio = 500,000 / 1,250,000 = 0.4 (or 2/5)\n\nShares allotted = Allotment ratio × Shares applied for\n\nShares allotted = 0.4 × 30,000 = 12,000\n\nThus, the number of shares to be issued to the subscriber is 12,000.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1295,
+    "question": "An outright sale of a partnership amounts to the?",
+    "option": {
+      "a": "compensation of vendors by the purchase",
+      "b": "admission of a new partner",
+      "c": "purchase of rights of a dead partner",
+      "d": "change of sharing ratio of vendors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An outright sale of the partnership business effectively involves the compensation of the outgoing partners (vendors) by the purchaser of the business.",
     "examtype": "utme",
     "examyear": "2000"
   },

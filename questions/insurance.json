@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "Which of the following policies will prevent loss of home if the wage earner dies?",
+    "option": {
+      "a": "Term assurance",
+      "b": "Endowment assurance",
+      "c": "Mortgage insurance",
+      "d": "Whole life assurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 3,
     "question": "An assurance policy taken by experts to cover possible negligence arising from their duties is",
     "option": {
@@ -1392,6 +1408,22 @@
     "examyear": "2"
   },
   {
+    "id": 134,
+    "question": "A house worth N=60,000 insured against fire for N=40,000.  Fire destroyed and cause damage worth N=30,000. On the house under which insurance principle will the owner be entitled to compensation of N=30,000.",
+    "option": {
+      "a": "Contribution",
+      "b": "Subrogation",
+      "c": "indemnity",
+      "d": "Uberrimae fidei"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 135,
     "question": "The person who calculate the amount given to the insured if he does not want to continue with the contract of insurance is called",
     "option": {
@@ -2107,6 +2139,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 188,
+    "question": "Method of providing indemnity whereby subject matter is being restored to its former position is",
+    "option": {
+      "a": "Repairs",
+      "b": "Cash",
+      "c": "Reinstatement",
+      "d": "Replacement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "3"

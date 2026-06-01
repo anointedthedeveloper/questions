@@ -752,6 +752,22 @@
     "examyear": "2012"
   },
   {
+    "id": 52,
+    "question": "A petty cash fund is:",
+    "option": {
+      "a": "Used to pay relatively small amount",
+      "b": "reimbursed when the amount of money in the fund is reduced to a predetermined minimum amount",
+      "c": "Established by estimating the amount of cash needed for disbursement of  relatively small amount during a specified period  ",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 53,
     "question": "A debit may signify: ",
     "option": {
@@ -1280,6 +1296,22 @@
     "examyear": "2013"
   },
   {
+    "id": 87,
+    "question": "A petty cashier received a float of GHc 120 and spent GHc 84. The imprest is",
+    "option": {
+      "a": "GHc 204.",
+      "b": "GHc 120.",
+      "c": "GHc 84.",
+      "d": "GHc 36."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 88,
     "question": "Which of the following is not a book of original entry?",
     "option": {
@@ -1499,6 +1531,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 102,
+    "question": "Which of the following accounts has a credit balance?",
+    "option": {
+      "a": "Returns Inwards Account",
+      "b": "Machinery Account",
+      "c": "Sales Account",
+      "d": "Cash Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -2907,6 +2955,22 @@
     "section": "A company charges out goods to a branch at cost plus 25 percent.  It invoiced  N 12,000 worth of goods",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 192,
+    "question": "A ledger is a",
+    "option": {
+      "a": "book of accounts",
+      "b": "summary of entries",
+      "c": "book of original entry",
+      "d": "double entry posting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -5019,6 +5083,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 329,
+    "question": "The accounting concept that states that a firm’s financial affairs must be separated from that of the owner’s private transactions is",
+    "option": {
+      "a": "business entity",
+      "b": "going concern",
+      "c": "consistency",
+      "d": "duality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -7376,6 +7456,22 @@
     "examyear": "2009"
   },
   {
+    "id": 480,
+    "question": "What is the total debit for the trial balance?",
+    "option": {
+      "a": "N  4 690 000",
+      "b": "N 2 620 000",
+      "c": "N  2 520 000",
+      "d": "N 1 565 000"
+    },
+    "section": "Given: Capital [N 2, 375, 000 ]; Debtors [N 495, 000 ]; Motor vehicles [N 870, 000 ]; Creditors [N 245,000 ]; Prepayments [N 500, 000 ]; Bills receivable [N 505, 000 ]; Furniture [N 150, 000 ]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 481,
     "question": "If Odukoya takes money out of the business bank account for his own private use, the effect of the transaction is",
     "option": {
@@ -8400,6 +8496,22 @@
     "examyear": "2015"
   },
   {
+    "id": 549,
+    "question": "Which of the following accounts is debited when a delivery van is sold for cash?",
+    "option": {
+      "a": "sales account",
+      "b": "delivery van account",
+      "c": " cash account",
+      "d": "profit and loss accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "if there was a Loss on sale, we Debit cash for the amount received, debit all accumulated depreciation, debit the loss on sale of asset account, and credit the fixed asset.\nif there was a Gain on sale. Debit cash for the amount received, debit all accumulated depreciation, credit the fixed asset, and credit the gain on sale of asset account.\n\nCash is received and expected to be debited going by the principles of double entry.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 550,
     "question": "When shares are sold at more than the par value, they are said to have been issued at",
     "option": {
@@ -8668,6 +8780,22 @@
     "image": "",
     "answer": "c",
     "solution": "Sales - Cost of Goods Sold = Gross Profit\n\nCOGS = Beginning Inventory + Purchases During the Period – Ending Inventory.\n\nCOGS = 2,500, +  120,000 - 3,000 = 119,500\n\ngross profit for K = 180,000 - 119,500 = 60,500",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 569,
+    "question": "One of the objectives of accounting is that it can be used for",
+    "option": {
+      "a": " business decision making",
+      "b": "due process in business",
+      "c": " motivating employees",
+      "d": "determining the work force"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Objectives of accounting in any business are; systematically record transactions, sort and analyzing them, prepare financial statements, assessing the financial position, and aid in decision making with financial data and information about the business.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -9196,6 +9324,22 @@
     "image": "",
     "answer": "b",
     "solution": "The main objectives of departmental accountingare: To check out an interdepartmental performance. To evaluate the performance of the department with the previous period result. The gross profit of each department can be ascertained.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 605,
+    "question": "Which of the following expenses relate to the profit and loss account of a manufacturing firm?",
+    "option": {
+      "a": "Administrative overhead",
+      "b": "Direct labour",
+      "c": "Direct materials",
+      "d": "Work-in-progress"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Administrative overhead is those costs not involved in the development or production of goods or services. This is essentially all overhead that is not included in manufacturing overhead. Examples of administrative overhead costs are the costs of: Front office and sales salaries, wages, and commissions. Office supplies.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -13296,6 +13440,22 @@
     "examyear": "2022"
   },
   {
+    "id": 877,
+    "question": "Which of these is the main source document for recording cash paid into bank?",
+    "option": {
+      "a": "invoice",
+      "b": "credit note",
+      "c": "cheque book",
+      "d": "pay-in-slip"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The main source document for recording cash paid into the bank is a pay-in-slip.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 878,
     "question": "The major distinguishing element between the final account of a partnership and that of a sole trader is the",
     "option": {
@@ -14672,6 +14832,22 @@
     "examyear": "2008"
   },
   {
+    "id": 966,
+    "question": "Which of the following accounting conventions suggests that accountants should use a method of valuation that understates rather than over-states results?",
+    "option": {
+      "a": "Conservatism",
+      "b": "Historical",
+      "c": "Monetary",
+      "d": "Cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The conservatism (or prudence) convention in accounting states that when there is uncertainty, accountants should choose the method that is least likely to overstate assets or income and more likely to recognize potential losses early.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 967,
     "question": "A financial analyst needs accounting information to?",
     "option": {
@@ -14844,6 +15020,22 @@
     "image": "",
     "answer": "c",
     "solution": "The magnetic strip on your ATM card is what enables the machine to read your account details and process transactions.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 978,
+    "question": "<b>Use the information below to answer questions 14-15.</b>\n\nGiven information:\n\nCapital = ₦12,700\nPurchases = ₦7,100\nDebtors = ₦4,000\nStationery = ₦1,900\nSales = ₦2,400\nWages = ₦1,230\n\n\nThe owner wishes to maintain an account equal to 75% of capital as drawings. what is the amount withdrawn?",
+    "option": {
+      "a": "₦9525",
+      "b": "₦9000",
+      "c": "₦7100",
+      "d": "₦6400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Amount withdrawn = 75% of Capital\nAmount withdrawn = 75% × ₦12,700\nAmount withdrawn = 0.75 × ₦12,700 = ₦9,525",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -17104,6 +17296,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1126,
+    "question": "<b>Use the information below to answer questions 12 and 13.</b>\n\nMotor Vehicle Account as at 31st December 2001.\nDebit:\nJan. 1, cost ................₦1950 000\nDec.31, Addition ............ ₦400 000\nCredit:\nJan. 1, Depreciation ........₦1360 000\nJune 30, Sales proceeds...... ₦700 000\n\nThe vehicle sold was purchase on January 1, 1998 at a cost of ₦1,000 000 and had depreciation at 25% on cost.\n\nAssuming that depreciation is charged on the addition of the year at the rate of 15% on reducing balance, what should be the net book value of the vehicle as at 31st December 2003?",
+    "option": {
+      "a": "₦280,000",
+      "b": "₦289,000",
+      "c": "₦250,000",
+      "d": "₦340,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Analyze the vehicle sold\nVehicle sold was purchased Jan 1, 1998 for ₦1,000,000\nDepreciation at 25% on cost = ₦250,000 per year\nBy June 30, 2001 (3.5 years): ₦250,000 × 3.5 = ₦875,000\nNet book value at sale = ₦1,000,000 - ₦875,000 = ₦125,000\nStep 2: Calculate remaining vehicles at Dec 31, 2001\nOriginal fleet cost: ₦1,950,000\nLess: Vehicle sold: ₦1,000,000\nRemaining original vehicles: ₦950,000\nOriginal accumulated depreciation: ₦1,360,000\nLess: Depreciation on sold vehicle: ₦875,000\nRemaining accumulated depreciation: ₦485,000\nNet book value of remaining original vehicles: ₦950,000 - ₦485,000 = ₦465,000\nStep 3: Calculate depreciation on addition (₦400,000)\nAddition made Dec 31, 2001 at ₦400,000\nDepreciation at 15% reducing balance:\nYear 2002: ₦400,000 × 15% = ₦60,000\nRemaining: ₦400,000 - ₦60,000 = ₦340,000\nYear 2003: ₦340,000 × 15% = ₦51,000\nRemaining: ₦340,000 - ₦51,000 = ₦289,000\nStep 4: Calculate total net book value at Dec 31, 2003\nRemaining original vehicles (assuming no further depreciation given): ₦465,000\nAddition after 2 years depreciation: ₦289,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1128,
     "question": "Given:\n(i) Order of performance\n(ii) Order of liquidity\n(iii)Vertical order\n(iv) Horizontal order\n\n\nThe order in which a balance assets is arranged are?",
     "option": {
@@ -17948,6 +18156,22 @@
     "image": "",
     "answer": "c",
     "solution": "Prime cost = Direct materials used + Direct wages + Direct expenses\n\nWe’re told:\n\nCost of raw materials used = ₦5,500\n\nDirect wages = ₦2,500\n\nDirect expenses = ₦1,000\n\nPrime cost = ₦5,500 + ₦2,500 + ₦1,000\n= ₦9,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1183,
+    "question": "<b>Use the information below to answer questions 18 and 19.</b>\n\nStock of raw materials (1st January) ₦3000\n\nDirect wages ₦2500\n\nDirect expenses ₦1000\n\nFactory overheads ₦2000\n\nCost of raw materials used ₦5500\n\nStock of finished goods (31st December) ₦2000\n\nThe cost of goods manufactured is?",
+    "option": {
+      "a": "₦11000",
+      "b": "₦12000",
+      "c": "₦14000",
+      "d": "₦9000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Formula for Cost of Goods Manufactured:\nCost of Goods Manufactured = Direct Materials Used + Direct Labor + Direct Expenses + Factory Overheads\nCalculation:\n\nDirect materials used: ₦5,500 (given)\nDirect labor (wages): ₦2,500\nDirect expenses: ₦1,000\nFactory overheads: ₦2,000\n\nCost of Goods Manufactured = ₦5,500 + ₦2,500 + ₦1,000 + ₦2,000\nCost of Goods Manufactured = ₦11,000",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -21376,6 +21600,22 @@
     "examyear": "199"
   },
   {
+    "id": 1411,
+    "question": "The term fiscal compliance means?",
+    "option": {
+      "a": "all financial and related laws and regulations are adhered to",
+      "b": "only the budget fir the current period is complied with and no deficits allowed",
+      "c": "all physical assets requirements have been met",
+      "d": "fiscal planning is necessary for proper accountabilit in the public sector"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Fiscal compliance refers to the requirement that government entities (or any public-sector body) follow all applicable financial statutes, regulations, and procedural rules in their budgeting, spending, and reporting.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1412,
     "question": "In a public corporation, the capital expenditure incurred in a financial period is?",
     "option": {
@@ -21660,6 +21900,22 @@
     "image": "",
     "answer": "b",
     "solution": "The full ₦50,000 was originally charged to Rent Expense.\n\nAt 31 Dec 1993, ₦35,417 of that relates to future periods (prepaid).\n\nTo move that unexpired portion off the expense and onto the balance sheet, you debit Prepaid Rent and credit Rent Expense.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1430,
+    "question": "The receipt of cash from a customer who bought goods with ₦800 list price, 25% trade discount and 2/10, n/30 terms would, if paid within the discount period, amount to",
+    "option": {
+      "a": "₦576",
+      "b": "₦588",
+      "c": "₦600",
+      "d": "₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Net after trade discount:\n\n₦800 × (1−0.25) = ₦600\n\nThen 2% cash discount on ₦600:\n\n₦600 × 0.02 = ₦12\nAmount paid = ₦600 − ₦12 = ₦588",
     "examtype": "utme",
     "examyear": "1997"
   },

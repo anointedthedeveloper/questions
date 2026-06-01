@@ -158,5 +158,85 @@
     "solution": "I. Melting: Solid to liquid transition; molecules gain energy to overcome fixed positions, showing molecular motion and interactions.\n\nII. Boiling: Liquid to gas transition; molecules gain enough energy to break intermolecular forces, demonstrating molecular kinetic energy and forces.\n\nIV. Conduction: Heat transfer via molecular collisions (or electron movement), directly showing molecular motion and energy transfer.                           Melting, boiling, and conduction are direct evidence of the molecular nature of matter.",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 507,
+    "question": "A lorry accelerates uniformly in a straight line with acceleration of 4ms⁻² and covers a distance of 250 m in a time interval of 10 s. How far will it travel in the next 10 s?",
+    "option": {
+      "a": " 650 m",
+      "b": "900 m",
+      "c": "800 m",
+      "d": "250 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nAcceleration, a = 4 m/s²\nDistance in first 10 s, s₁ = 250 m\nTime for first interval, t₁ = 10 s\nTime for second interval, t₂ = 10 s\nDistance in next 10 s = ?\n\nSolution:\nStep 1: Find initial velocity using first 10 seconds data\nUsing: s = ut + ½at²\n250 = u(10) + ½(4)(10)²\n250 = 10u + ½(4)(100)\n250 = 10u + 200\n10u = 50\nu = 5 m/s\nStep 2: Find velocity at the end of first 10 seconds\nUsing: v = u + at\nv = 5 + 4(10)\nv = 5 + 40\nv = 45 m/s\nStep 3: Calculate distance in next 10 seconds\nFor the next 10 seconds:\n\nInitial velocity = 45 m/s (final velocity from first interval)\nTime = 10 s\nAcceleration = 4 m/s²\n\nUsing: s = ut + ½at²\ns₂ = 45(10) + ½(4)(10)²\ns₂ = 450 + ½(4)(100)\ns₂ = 450 + 200\ns₂ = 650 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 181,
+    "question": "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will",
+    "option": {
+      "a": "Be a straight line",
+      "b": "Curve inwards",
+      "c": "Be a parabola",
+      "d": "Curve outwards"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a charged particle moves parallel to a magnetic field, it experiences no magnetic force and continues in a straight line.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 639,
+    "question": "The phase difference between waves P and q in the diagram above is",
+    "option": {
+      "a": "2π",
+      "b": "π",
+      "c": " π/4",
+      "d": "π/2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296136/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_40_e7g2is.png",
+    "answer": "d",
+    "solution": "\nStep 1: Identify wave characteristics\nBoth waves are sinusoidal with:\n\nSame wavelength (period)\nSame amplitude\nDifferent starting positions (phase shift)\n\nStep 2: Determine the shift\nObserving the waves:\n\nWave P starts at zero and increases\nWave Q reaches its maximum when P is at zero\nThis represents a quarter-cycle shift\n\nStep 3: Express shift in terms of wavelength\nOne complete cycle = 2π radians = 360°\nQuarter cycle shift = 2π/4 = π/2 radians = 90°\nStep 4: Verify the phase difference\nWhen wave P is at:\n\nZero displacement (going up) → Wave Q is at maximum\nMaximum → Wave Q is at zero (going down)\nZero (going down) → Wave Q is at minimum\nMinimum → Wave Q is at zero (going up)\n\nThis confirms a 90° or π/2 phase difference.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 422,
+    "question": "Which of the units of the following physical quantities are derived?\n\nI. Area\nII. Thrust\nIII. Pressure\nIV. Mass",
+    "option": {
+      "a": " I, II, III and IV",
+      "b": "I, II, and III only",
+      "c": " I, II, and IV only",
+      "d": " I and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Only 'mass' is a fundamental quantity ",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1078,
+    "question": "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV",
+    "option": {
+      "a": " -9.20eV",
+      "b": " -8.20eV",
+      "c": " -2.75eV",
+      "d": " -1.75eV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nGround state energy, E₁ = -24.8 eV\nLevel number, n = 3\n\nSolution:\n\nStep 1: Energy level formula for hydrogen-like atoms\nFor an atom with a single electron, the energy of the nth level is given by:\nEₙ = E₁ / n²\n\nStep 2: Substitute values\nE₃ = -24.8 eV / 3² = -24.8 / 9 = -2.7556 eV ≈ -2.75 eV",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

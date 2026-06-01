@@ -368,6 +368,22 @@
     "examyear": "3"
   },
   {
+    "id": 157,
+    "question": "------------ is used to bring amendment in a policy that is either to add in a new thing or removal of an existing thing in the policy",
+    "option": {
+      "a": "Excess",
+      "b": "Endorsement",
+      "c": "Claim form",
+      "d": "Policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 161,
     "question": "------------- is a policy designed to place the insured in the same financial position as he was immediately before the happening of the event insured against",
     "option": {
@@ -720,6 +736,22 @@
     "examyear": "4"
   },
   {
+    "id": 234,
+    "question": "The following classes of insurance apply the use of proposal form except",
+    "option": {
+      "a": "public liability",
+      "b": "large risk of marine insurance",
+      "c": "small risk of marine insurance",
+      "d": "theft"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 238,
     "question": "Situation that are not included in the policy are usually referred to as",
     "option": {
@@ -1067,6 +1099,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 328,
+    "question": "The cover that is taken at the option of the motor vehicle owner is",
+    "option": {
+      "a": "a comprehensive cover",
+      "b": "an act only cover",
+      "c": "a third party only cover",
+      "d": "a special type cover"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 334,
+    "question": "The process of  assessing  risks  in  insurance  and classifying them according to their degree of insurability so  that  the  appropriate  rate  may  be  assigned  is",
+    "option": {
+      "a": "inspecting",
+      "b": "underwriting",
+      "c": "surveying",
+      "d": "evaluating"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

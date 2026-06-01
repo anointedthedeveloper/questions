@@ -160,6 +160,22 @@
     "examyear": "1997"
   },
   {
+    "id": 195,
+    "question": "Which of the following is not a personal account?",
+    "option": {
+      "a": "Bolaji Account",
+      "b": "Drawings Account",
+      "c": "P.Z. Plc Account",
+      "d": "Cash Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 198,
     "question": "The amount of capital expenditure for 1995 was",
     "option": {
@@ -174,6 +190,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
+  },
+  {
+    "id": 215,
+    "question": "A system where a separate cash book is maintained for small payments is",
+    "option": {
+      "a": "single entry",
+      "b": "imprest",
+      "c": "float",
+      "d": "reimbursement."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
   },
   {
     "id": 233,
@@ -443,6 +475,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 383,
+    "question": "Calculate the stock figure to be included in the balance sheet at the year end.",
+    "option": {
+      "a": "D408,000",
+      "b": "D346,000",
+      "c": "D284,000",
+      "d": "D62,000"
+    },
+    "section": " Use the following information to answer question: Branch stock account (at selling price)  D346,000 - debit Branch mark-up account D62,000 - debit",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"

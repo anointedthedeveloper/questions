@@ -256,6 +256,22 @@
     "examyear": "2014"
   },
   {
+    "id": 36,
+    "question": "From this dialogue, it is very likely that Wanja will be exhibiting the following characters except",
+    "option": {
+      "a": "disobedience to constituted authority",
+      "b": "truancy and perpetual lateness to school",
+      "c": "hospitable attitude towards people",
+      "d": "arrogance and unruly behaviour."
+    },
+    "section": "Ada:      Wanja, where are you going to in this ungodly hour of the night? <br> \tWanja:   I am heading towards my usual joint to enjoy myself <br>\t \tAda:       Which joint?<br> \tWanja:   XYZ. Night Club, where I take marijuana and alcoholic beverages. I really want to be high \t\t\t      tonight so that when people see me tomorrow, they will fear and respect me.<br> \tAda:     Remember, people who work under the influence of hard drugs and alcoholic beverages are prone to either psychiatric problems or premature death. Softly young man, imbibe good - natured character, you have the world at your feet and a destiny to fulfil. Pray you will not be the architect of your own misfortune.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 38,
     "question": "From Ada’s admonition, it could be deduced that taking hard drugs could",
     "option": {
@@ -384,6 +400,22 @@
     "examyear": "2014"
   },
   {
+    "id": 53,
+    "question": "The responsibilities of government to   its citizens include the following, except",
+    "option": {
+      "a": "creating employment opportunity",
+      "b": "maintenance of law and order",
+      "c": "payment of property tax to its citizens",
+      "d": "protection of lives and property"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 54,
     "question": "Most African countries owed their creation to",
     "option": {
@@ -407,6 +439,22 @@
       "b": "confederal",
       "c": "federal",
       "d": "unicameral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 56,
+    "question": "The most effective approach towards the elimination of sexually transmitted diseases is by",
+    "option": {
+      "a": "abstinence.",
+      "b": "Casual sex.",
+      "c": "use of condom.",
+      "d": "use of drugs"
     },
     "section": "",
     "image": "",
@@ -555,6 +603,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
+    "id": 83,
+    "question": "One of the civic responsibilities of a citizen is to obey",
+    "option": {
+      "a": "bye-laws.",
+      "b": "constituted authority.",
+      "c": "court judgments.",
+      "d": "edicts."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2014"
@@ -992,6 +1056,22 @@
     "examyear": "2012"
   },
   {
+    "id": 135,
+    "question": "The president belongs to ............... arm of the government",
+    "option": {
+      "a": "Executive",
+      "b": "Judiciary",
+      "c": "Military",
+      "d": "Legislature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 137,
     "question": "When a group of people believe in and keep to certain norms, values and ways of life of their community since its creation, we call this .................",
     "option": {
@@ -1120,6 +1200,22 @@
     "examyear": "2012"
   },
   {
+    "id": 153,
+    "question": "The National Assembly in Nigeria is primarily responsible for",
+    "option": {
+      "a": "executing laws",
+      "b": "Interpreting laws",
+      "c": "ratifying appointment",
+      "d": "making laws"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
     "id": 154,
     "question": "The major factor militating against efficient operation \tof electoral commission in Nigeria is .......................",
     "option": {
@@ -1131,6 +1227,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
+    "id": 156,
+    "question": "Workers in the Public Corporations are known as",
+    "option": {
+      "a": "Civil servants",
+      "b": "Private employees",
+      "c": "Public servants",
+      "d": "Professional employees"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "neco",
     "examyear": "2012"
@@ -1248,6 +1360,7 @@
     "examyear": "2012"
   },
   {
+<<<<<<< Updated upstream
     "id": 174,
     "question": "One judicial function performed by the executive is",
     "option": {
@@ -1259,6 +1372,19 @@
     "section": "",
     "image": "",
     "answer": "a",
+=======
+    "id": 173,
+    "question": "In a democratic government, political sovereignty is vested in the",
+    "option": {
+      "a": "legislature",
+      "b": "elite",
+      "c": "executive",
+      "d": "electorate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "neco",
     "examyear": "2012"
@@ -1616,6 +1742,7 @@
     "examyear": "2013"
   },
   {
+<<<<<<< Updated upstream
     "id": 232,
     "question": "Public corporation are owned by the",
     "option": {
@@ -1623,6 +1750,15 @@
       "b": "banks",
       "c": "private individuals",
       "d": "foreigners"
+=======
+    "id": 231,
+    "question": "Which of these characteristics of the civil service ensure continuity of government?",
+    "option": {
+      "a": "Neutrality",
+      "b": "Permanence",
+      "c": "Bureaucracy",
+      "d": "Loyalty"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -2267,6 +2403,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 313,
+    "question": "In Lagos state, the BRT lane is reserved for ....... only",
+    "option": {
+      "a": "The governor",
+      "b": "Soldiers",
+      "c": "Commercial buses",
+      "d": "BRT buses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -2992,6 +3144,7 @@
     "examyear": "2015"
   },
   {
+<<<<<<< Updated upstream
     "id": 412,
     "question": "From the above write-up what category of Kantoguan youth deserves to be effectively empowered?",
     "option": {
@@ -3019,6 +3172,19 @@
     "section": "",
     "image": "",
     "answer": "c",
+=======
+    "id": 419,
+    "question": "The above quotation summarizes the",
+    "option": {
+      "a": "Universal Declaration of Human Rights.",
+      "b": "African Charter on Human Rights.",
+      "c": "Geneva Conventions and Protocols.",
+      "d": "United Nations Organization Charter."
+    },
+    "section": "“All human beings are born free and equal in dignity and rights. They are endowed with reason and \t\tconscience and should act towards one another in a spirit of brotherhood”.",
+    "image": "",
+    "answer": "a",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

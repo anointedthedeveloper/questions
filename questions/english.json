@@ -20273,6 +20273,25 @@
     "category": "others"
   },
   {
+    "id": 1352,
+    "question": "__________ packages should always be handled with care",
+    "option": {
+      "a": "Insecure",
+      "b": "Fragile",
+      "c": "Weak",
+      "d": "Boxed"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "b",
+    "solution": "From the incomplete sentence, 'Fragile' as an adjective is the best option to qualify a package to be handled with care.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 39,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1353,
     "question": "Because of the hard times, workers live in ___________ poverty\n",
     "option": {

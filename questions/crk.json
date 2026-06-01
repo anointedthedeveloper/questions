@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 8,
+    "question": "What did God create on the fifth day? ",
+    "option": {
+      "a": "the firmament  ",
+      "b": "the two great light ",
+      "c": "water under the heaven ",
+      "d": "living Creature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 15,
     "question": "The renowned interpreters of the Mosaic Law in the time of Jesus were the ",
     "option": {
@@ -62,6 +78,38 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
+  },
+  {
+    "id": 18,
+    "question": "“I am to be gathered to my fathers; bury me with my fathers” (Gen 49:29)  When did he say this? ",
+    "option": {
+      "a": "When he was about to die ",
+      "b": "When he was seriously sick ",
+      "c": "When he offended God ",
+      "d": "When his brother cheated him"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 27,
+    "question": "In Peter’s teaching,” God…………..the proud and gives grace to the humble",
+    "option": {
+      "a": "receives ",
+      "b": "relegates ",
+      "c": "resists ",
+      "d": "restores."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
   },
   {
     "id": 29,
@@ -112,6 +160,7 @@
     "examyear": "2007"
   },
   {
+<<<<<<< Updated upstream
     "id": 39,
     "question": "One of the following said: “the lion has roared who will not fear? The Lord has spoken, who can  but prophesy?” ",
     "option": {
@@ -123,6 +172,19 @@
     "section": "",
     "image": "",
     "answer": "c",
+=======
+    "id": 32,
+    "question": "Daniel was delivered from the den of lions for all the following reason except ",
+    "option": {
+      "a": "his holiness and faith ",
+      "b": "his kindness ",
+      "c": "God’s love for him ",
+      "d": "God’s mighty power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
@@ -144,6 +206,7 @@
     "examyear": "2007"
   },
   {
+<<<<<<< Updated upstream
     "id": 55,
     "question": "The lesson, who Jesus teaches in the parable of the Good Samaritan is that your neighbor is ",
     "option": {
@@ -151,12 +214,22 @@
       "b": "your next of king ",
       "c": "a distant friend ",
       "d": "anyone who needs your help"
+=======
+    "id": 42,
+    "question": "Josiah’s reign was popular because of his ",
+    "option": {
+      "a": "allies ",
+      "b": "victory ",
+      "c": "violence ",
+      "d": "reforms"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "d",
     "solution": "",
     "examtype": "post-utme",
+<<<<<<< Updated upstream
     "examyear": "2008"
   },
   {
@@ -171,6 +244,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+=======
+    "examyear": "2007"
+  },
+  {
+    "id": 62,
+    "question": "Who was the priest that confronted Uzziah in the temple ",
+    "option": {
+      "a": "Zadokaul ",
+      "b": "Phineas ",
+      "c": "Azariah ",
+      "d": "Aaron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -576,6 +665,7 @@
     "examyear": "2005"
   },
   {
+<<<<<<< Updated upstream
     "id": 203,
     "question": "Saul’s death on Mount Gilboa was in consequence of his",
     "option": {
@@ -603,6 +693,19 @@
     "section": "",
     "image": "",
     "answer": "b",
+=======
+    "id": 207,
+    "question": "The remote cause of the fall of Jerusalem was",
+    "option": {
+      "a": "Josiah’s death at the battle of Megiddo",
+      "b": "the military might of Israel’s enemies",
+      "c": "the sins of Manasseh, the king",
+      "d": "Judah’s with holding of tribute to Nebuchadnezzar"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -640,6 +743,7 @@
     "examyear": "2005"
   },
   {
+<<<<<<< Updated upstream
     "id": 213,
     "question": "The message of Amos was mainly about",
     "option": {
@@ -647,6 +751,31 @@
       "b": "man’s response to God’s love.",
       "c": "the holiness of God",
       "d": "social justice"
+=======
+    "id": 222,
+    "question": "Abiding in Christ’s love demands that we",
+    "option": {
+      "a": "have hope for the future",
+      "b": "keep His commandments",
+      "c": "imitate one another",
+      "d": "manifest the peace of God"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 226,
+    "question": "Before his ascension, Jesus commissioned his disciples to go to all nations and",
+    "option": {
+      "a": "cast out demons",
+      "b": "heal the sick",
+      "c": "raise the dead",
+      "d": "make disciples of them"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -816,6 +945,7 @@
     "examyear": "2011"
   },
   {
+<<<<<<< Updated upstream
     "id": 311,
     "question": "Baal did not answer his worshippers at the contest on Mount Carmel because he",
     "option": {
@@ -827,6 +957,19 @@
     "section": "",
     "image": "",
     "answer": "b",
+=======
+    "id": 320,
+    "question": "The prophet who was ordained from the womb for God’s service was",
+    "option": {
+      "a": "Jeremiah",
+      "b": "Isaiah",
+      "c": "Ezekiel",
+      "d": "Hosea."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -843,6 +986,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 325,
+    "question": "The Jews sought to kill Jesus after He healed the man at the pool of Bethzatha because they thought that He",
+    "option": {
+      "a": "claimed to have authority to forgive sins",
+      "b": "made Himself equal with God",
+      "c": "did not agree with the law of Moses",
+      "d": "said that He was born before Abraham."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 326,
+    "question": "In the parable of the sower, the seed that fell among the thorns symbolized the one who hears the word but",
+    "option": {
+      "a": "does not understand it",
+      "b": "loses it to the enemy",
+      "c": "does not immediately receive it",
+      "d": "the cares of the world choke it."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -912,6 +1087,22 @@
     "examyear": "2011"
   },
   {
+    "id": 343,
+    "question": "‘Pay all of  them their dues, taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honour to whom honour is due’. Paul made the statement above to the Church at",
+    "option": {
+      "a": "Thessalonica",
+      "b": "Rome",
+      "c": "Corinth",
+      "d": "Ephesus."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 344,
     "question": "At the second coming of Christ, those who are alive shall be",
     "option": {
@@ -944,6 +1135,7 @@
     "examyear": "2011"
   },
   {
+<<<<<<< Updated upstream
     "id": 349,
     "question": "Which of the following was not part of the honour done to Joseph when Pharaoh made him a ruler in Egypt?",
     "option": {
@@ -951,6 +1143,15 @@
       "b": "The land of Goshen was given to Joseph",
       "c": "Joseph was dressed in garments of fine linen",
       "d": "A gold chain was put around Joseph’s neck."
+=======
+    "id": 355,
+    "question": "When David spared the life of Saul the second time he took away his",
+    "option": {
+      "a": "bow and arrow",
+      "b": "spear and jar of water",
+      "c": "royal crown and armour",
+      "d": "spear and iron shield."
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -992,6 +1193,7 @@
     "examyear": "2008"
   },
   {
+<<<<<<< Updated upstream
     "id": 360,
     "question": "The universal nature of God was demonstrated in the salvation of the people of",
     "option": {
@@ -1003,6 +1205,19 @@
     "section": "",
     "image": "",
     "answer": "d",
+=======
+    "id": 363,
+    "question": "At Ezekiel’s call he beheld",
+    "option": {
+      "a": "the love of God",
+      "b": "God’s glory",
+      "c": "power of God",
+      "d": "God’s mercy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "wassce",
     "examyear": "2008"
@@ -1015,6 +1230,22 @@
       "b": "they shall be called sons of God”",
       "c": "they shall inherit the earth”",
       "d": "they shall be comforted”."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
+    "id": 379,
+    "question": "The miracles of Jesus recorded in John’s gospel are called",
+    "option": {
+      "a": "works",
+      "b": "signs",
+      "c": "powers",
+      "d": "wonders."
     },
     "section": "",
     "image": "",
@@ -1104,6 +1335,7 @@
     "examyear": "2013"
   },
   {
+<<<<<<< Updated upstream
     "id": 417,
     "question": "Amos’ prophecies which were considered as a conspiracy against the northern kingdom were reported to the king by",
     "option": {
@@ -1115,6 +1347,35 @@
     "section": "",
     "image": "",
     "answer": "a",
+=======
+    "id": 412,
+    "question": "King Josiah was killed by Pharaoh Neco in a battle at",
+    "option": {
+      "a": "Syria",
+      "b": "Meggiddo",
+      "c": "Megiddo",
+      "d": "Egypt."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 414,
+    "question": "When the three Hebrew men refused to worship the King’s image, he commanded that they be",
+    "option": {
+      "a": "thrown into a furnace",
+      "b": "stoned",
+      "c": "beheaded",
+      "d": "thrown into the lion’s den."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -1344,6 +1605,22 @@
     "examyear": "2015"
   },
   {
+    "id": 499,
+    "question": "According to Amos, true religion entails",
+    "option": {
+      "a": "engaging in sacrifices and burnt offerings",
+      "b": "being just and righteous",
+      "c": "fasting and praying always",
+      "d": "engaging in holy feasts and assemblies"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 501,
     "question": "“I tell you, if these were silent, the very stones would cry out.” Jesus’ statement above was made when",
     "option": {
@@ -1451,6 +1728,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 534,
+    "question": "For obeying His word, God rewarded Shiphrah and Puah with",
+    "option": {
+      "a": "families",
+      "b": "positions",
+      "c": "servants",
+      "d": "wealth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2015"
@@ -1808,6 +2101,7 @@
     "examyear": "2010"
   },
   {
+<<<<<<< Updated upstream
     "id": 642,
     "question": "Busy bodies and those living in idleness in the church at Thessalonica were admonished to",
     "option": {
@@ -1819,6 +2113,19 @@
     "section": "",
     "image": "",
     "answer": "b",
+=======
+    "id": 644,
+    "question": "James stated in his epistle that when believers meet various trials, their faith produces",
+    "option": {
+      "a": "weakness",
+      "b": "strength",
+      "c": "steadfastness",
+      "d": "righteousness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1872,6 +2179,7 @@
     "examyear": "2011"
   },
   {
+<<<<<<< Updated upstream
     "id": 670,
     "question": "Peter called for the construction of three booths for Jesus, Moses and Elijah, respectively during",
     "option": {
@@ -1883,6 +2191,19 @@
     "section": "",
     "image": "",
     "answer": "a",
+=======
+    "id": 669,
+    "question": "“My son your sins are forgiven”. These were the words of Jesus to the",
+    "option": {
+      "a": "demoniac.",
+      "b": "paralytic.",
+      "c": "man born blind",
+      "d": "centurion’s servant."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -2176,6 +2497,38 @@
     "examyear": "2019"
   },
   {
+    "id": 785,
+    "question": "At about the ... hour, Jesus cried with a loud voice \"Eli Eli lama sabach - thani\".",
+    "option": {
+      "a": "Ninth",
+      "b": "Eleventh",
+      "c": "Seventh",
+      "d": "Sixth"
+    },
+    "section": "",
+    "image": "",
+    "answer": " a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 789,
+    "question": "St. Paul on 'Civic Responsibility' advised Christians not only to be law-abiding but also_________",
+    "option": {
+      "a": "to provide moral advice to those in authority",
+      "b": "do what is expected of them",
+      "c": "shun membership of unlawful societies",
+      "d": "resist any illegitimate government"
+    },
+    "section": "",
+    "image": "",
+    "answer": " b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 796,
     "question": "Why was Saul asked to destroy the Amalekites? ",
     "option": {
@@ -2183,6 +2536,22 @@
       "b": "They opposed the Israelites when they left Egypt ",
       "c": "They did not assist the Israelites ",
       "d": "God did not like the Amalekites"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 806,
+    "question": "Which of  the following prophets taught that Yahweh was merciful",
+    "option": {
+      "a": " Isaiah          ",
+      "b": " Hosea             ",
+      "c": "Amos        ",
+      "d": "Ezekiel"
     },
     "section": "",
     "image": "",
@@ -2576,6 +2945,54 @@
     "examyear": "2013"
   },
   {
+    "id": 903,
+    "question": "The Israelites under Barak defeated the Canaanite troops led by ",
+    "option": {
+      "a": "Jael",
+      "b": "  Siser         ",
+      "c": " Abinoam",
+      "d": "Heber"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 916,
+    "question": "According to the Sermon on the Mount, God’s kingdom would be filled with those who were ",
+    "option": {
+      "a": "mournful. .  ",
+      "b": "meek",
+      "c": "pure in spirit.",
+      "d": "hungry and thirsty."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 918,
+    "question": "“He saved others, he cannot save himself. This was said by the",
+    "option": {
+      "a": "Scribes and elders.",
+      "b": "        Roman authority.",
+      "c": "Crowd of people.",
+      "d": "        Crucified thieves."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 919,
     "question": "The last words of Jesus on the cross was",
     "option": {
@@ -2603,6 +3020,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 948,
+    "question": "God rejected Eli’s line of priesthood because ",
+    "option": {
+      "a": "his children were idolators. ",
+      "b": "they did not obey the prophets. ",
+      "c": "Eli and his children took bribes.",
+      "d": ""
+    },
+    "section": "his children lust after women at worship",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -2640,6 +3073,54 @@
     "examyear": "2011"
   },
   {
+    "id": 960,
+    "question": "The incident in the fiery furnace concerning Shadrach, Meshach and Abednego convinced Nebuchadnezzar that",
+    "option": {
+      "a": " they had many gods to save them. ",
+      "b": "the Jews were very powerful people. ",
+      "c": "the three Jews were angelic beings",
+      "d": "Yahweh is the only true God."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 961,
+    "question": "The opposition to the rebuilding of the temple was resolved by ",
+    "option": {
+      "a": "constant prayer. ",
+      "b": "edict issued by Darius",
+      "c": "fighting the opponents",
+      "d": "Ezra’s dialogue with opponents"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 964,
+    "question": "According to Luke, Jesus’ birth in a manger was due to ",
+    "option": {
+      "a": "the choice of the parents. ",
+      "b": "lack of room in Joseph’s family house. ",
+      "c": "lack of place for them in the inn",
+      "d": "Mary’s labour being sudden."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 984,
     "question": "Paul believes that the resurrection of the dead would only occur on the",
     "option": {
@@ -2656,6 +3137,7 @@
     "examyear": "2011"
   },
   {
+<<<<<<< Updated upstream
     "id": 989,
     "question": "Which of Paul’s epistle was written to an individual?",
     "option": {
@@ -2663,6 +3145,15 @@
       "b": "Corinthians   ",
       "c": "Colossians    ",
       "d": "Philemon"
+=======
+    "id": 995,
+    "question": "After the departure of the Israelites God made Pharaoh pursue them in order to ",
+    "option": {
+      "a": "force Israel to return to Egypt",
+      "b": "hasten Israel’s journey through the wilderness. ",
+      "c": "make Israel obey Moses. ",
+      "d": "get glory over Pharaoh and his host."
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -2720,6 +3211,7 @@
     "examyear": "2011"
   },
   {
+<<<<<<< Updated upstream
     "id": 1017,
     "question": "“How is it that you a Jew ask a drink of me...” This statement was made by the ",
     "option": {
@@ -2731,6 +3223,19 @@
     "section": "",
     "image": "",
     "answer": "b",
+=======
+    "id": 1015,
+    "question": "Peter called for the construction of three booths for Jesus, Moses and Elijah, respectively during ",
+    "option": {
+      "a": "the transfiguration. ",
+      "b": "the Ascension. ",
+      "c": "Jesus’arrest. ",
+      "d": "the passover feast."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -2747,6 +3252,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1025,
+    "question": "Paul was stoned and dragged out of the city by ",
+    "option": {
+      "a": "the Lyconians and the Ephesians. ",
+      "b": "enemies of the healed lame man. ",
+      "c": "Jews from Antioch and Iconium. ",
+      "d": "Jews in the Synagogue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"

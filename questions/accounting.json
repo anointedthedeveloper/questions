@@ -1,5 +1,21 @@
 [
   {
+    "id": 10,
+    "question": "A company's profit and loss account for a period  is  prepared by ",
+    "option": {
+      "a": "deducting total expenses from total revenues ",
+      "b": "deducting total cash payments from total revenue ",
+      "c": "deducting  all  outflows  of funds  from  all inwards of funds ",
+      "d": "balancing its receipts and payments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 14,
     "question": "Money set aside for the saving of business overheads    is    referred    to   ",
     "option": {
@@ -141,6 +157,22 @@
     "answer": "d",
     "solution": "",
     "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 88,
+    "question": "Which of the following is not a book of original entry?",
+    "option": {
+      "a": "Cash Book",
+      "b": "Purchases Ledger",
+      "c": "Returns Outwards Journal",
+      "d": "General Journal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
     "examyear": "2013"
   },
   {
@@ -334,6 +366,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
+  },
+  {
+    "id": 129,
+    "question": "The records of Superstores shows a loan of  N14,000 from Bala, creditor N8, 000 and assets N190, 500. What is the firm’s capital?",
+    "option": {
+      "a": "184, 000",
+      "b": "1 96, 500",
+      "c": "212 000",
+      "d": "168, 500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
   },
   {
     "id": 130,
@@ -2512,6 +2560,22 @@
     "examyear": "2021"
   },
   {
+    "id": 853,
+    "question": "Which of the following is a debit item in the sales ledger control account",
+    "option": {
+      "a": "Cheque reciepts\n",
+      "b": "Dishonoured cheques\n",
+      "c": "Discount allowed\n",
+      "d": "Bills recievable\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Sales Ledger Control Account is a summary account that records transactions with debtors (customers).\n\nDishonoured cheques increase the amount owed by a debtor (because the payment failed), so it is a debit item.\n\nCheque receipts, discount allowed, and bills receivable all reduce what debtors owe, so they are credit items.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 854,
     "question": "The major point of agreement carried by the partnership deed is?",
     "option": {
@@ -3996,6 +4060,22 @@
     "image": "",
     "answer": "c",
     "solution": "The earnings yield is calculated as:\n\nEarnings Yield = Earnings per Share/Market Price per Share × 100%\n\nGiven:\n\nEarnings per share (EPS) = ₦0.47\n\nMarket price per share = ₦1.50\n\nEarnings Yield = 0.47/1.50 × 100% ≈ 31.33%",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1301,
+    "question": "When a purchase business is revalued, the effect is that?",
+    "option": {
+      "a": "a decrease in the value of asset has no effect on value of goodwill",
+      "b": "an increase in the value of asset is treated as an increase in the value of goodwill",
+      "c": "a decrease in the value of asset is treated as an decrease in the value of goodwil",
+      "d": " an increase in the value of asset is treated as an decrease in the value of goodwill"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When you revalue the acquired business’s assets upward, the net asset base increases, and since Goodwill is calculated as:\n\nGoodwill = Purchase Consideration − Fair Value of Net Assets\n\nan increase in asset values will reduce the calculated Goodwill.",
     "examtype": "utme",
     "examyear": "2000"
   },

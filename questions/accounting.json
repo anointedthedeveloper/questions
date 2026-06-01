@@ -352,6 +352,22 @@
     "examyear": "2013"
   },
   {
+    "id": 126,
+    "question": "A statement showing a trader’s financial position as at a particular date is a/an",
+    "option": {
+      "a": "trading account.",
+      "b": "profit and loss account.",
+      "c": "balance sheet.",
+      "d": "appropriation account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 135,
     "question": "The documents that provide instant information to firms on their transactions with banks are",
     "option": {
@@ -603,6 +619,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 212,
+    "question": "Which of the following is not a revenue receipt?",
+    "option": {
+      "a": "Receipt from sales of goods",
+      "b": "Rent from premises sublet",
+      "c": "Interest on savings account",
+      "d": "cash on sale of fixed asset"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -1323,6 +1355,22 @@
     "section": "Use the information below to answer questions: Stock (1/1/02) at selling price [N2, 000 ]; Goods sent to branch (selling price)    [  ?  ]; Sales by branch (selling price)   [4, 500 ]; Stock (31/12/02)   [  \t?    ] Opening stock is 1/4 of goods sent to branch.",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 441,
+    "question": "Expenses paid during the conversion of a partnership to a \tcompany are",
+    "option": {
+      "a": "debited to the partners’ capital account",
+      "b": "debited to the realization account",
+      "c": "debited to the cash account.",
+      "d": "credited to the realization account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -2768,6 +2816,22 @@
     "examyear": "2021"
   },
   {
+    "id": 832,
+    "question": "Recurrent expenditures are expenses for the period not exceeding",
+    "option": {
+      "a": " 10 years",
+      "b": "2 years",
+      "c": "5 years",
+      "d": "1 year"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Recurrent expenditures are those routine expenses incurred in the day‑to‑day running of an organization and typically cover a period not exceeding one year. They contrast with capital expenditures, which relate to assets with benefits over multiple years.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 834,
     "question": "If goods are sent to branch at 25% on cost, what will be the cost of goods sent to the branch at a selling price of ₦100,000?\n",
     "option": {
@@ -4092,6 +4156,22 @@
     "image": "",
     "answer": "a",
     "solution": "To find: Opening balance\nFormula for Consolidated Revenue Fund Account:\nClosing Balance = Opening Balance + Revenue + Treasury Bills Issued - Expenditure\nRearranging to find Opening Balance:\nOpening Balance = Closing Balance - Revenue - Treasury Bills Issued + Expenditure\nCalculation:\nOpening Balance = ₦14,744m - ₦6,387m - ₦7,124m + ₦8,767m\nOpening Balance = ₦14,744m + ₦8,767m - ₦6,387m - ₦7,124m\nOpening Balance = ₦23,511m - ₦13,511m\nOpening Balance = ₦10,000m",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1213,
+    "question": "Upon the dissolution of a partnership, the Partnership Act provides that the amount realized should be?",
+    "option": {
+      "a": "used to pay all taxes due to government",
+      "b": " used to start a new partnership business by members who are willing",
+      "c": "shared equally by the existing partners",
+      "d": "used in paying the debts and liabilities of the firm to persons who are not partners"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: Under the Partnership Act, upon dissolution, assets are first used to pay debts to outside creditors (non-partners) before settling partners’ loans and capital, and finally distributing any surplus to partners.",
     "examtype": "utme",
     "examyear": "2002"
   },

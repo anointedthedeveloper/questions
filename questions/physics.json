@@ -7072,6 +7072,22 @@
     "examyear": "2022"
   },
   {
+    "id": 495,
+    "question": "The main factor which affects the speed of sound wave is the?",
+    "option": {
+      "a": "properties of the medium",
+      "b": " amplitude of the sound wave",
+      "c": " intensity of the sound wave",
+      "d": "loudness of the sound wave"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sound speed depends entirely on the physical properties of the medium through which it travels (elasticity, density, temperature). Amplitude, intensity, and loudness only affect the energy and perceived volume of the sound, not its propagation speed.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 496,
     "question": "A semiconductor is formed by?",
     "option": {

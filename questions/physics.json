@@ -10848,6 +10848,22 @@
     "examyear": "2006"
   },
   {
+    "id": 712,
+    "question": "If the capacitance of a capacitor is C = (εA)/d, which of the following parameters is varied when a variable capacitor is used for tuning radio sets?",
+    "option": {
+      "a": "constant (ε) and area",
+      "b": "area and distance",
+      "c": "constant (ε) only",
+      "d": "distance only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Most radio tuning capacitors vary area only, but some precision capacitors can vary both area and distance for finer control.\nHowever, the most common method in radio tuning is varying the area and distance together for better tuning range and control.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 713,
     "question": "When an a.c. voltage is applied to a capacitor, no power is consumed because the current",
     "option": {

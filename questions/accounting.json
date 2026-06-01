@@ -448,6 +448,22 @@
     "examyear": "2013"
   },
   {
+    "id": 118,
+    "question": "The prime cost is",
+    "option": {
+      "a": "GHc 64,500.",
+      "b": "GHc 64,000.",
+      "c": "GHc 58,500.",
+      "d": "GHc 52,500."
+    },
+    "section": "Use the following information to answer question:  Stock of raw materials 1/1/09  [ 5,000 ], Stock of raw materials 31/12/09   [ 5,500], Purchase of raw materials [ 50,000], Carriage inwards [3,000], Direct labour [ 12,000], Factory overhead [17,500]",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 126,
     "question": "A statement showing a trader’s financial position as at a particular date is a/an",
     "option": {
@@ -1408,6 +1424,22 @@
     "examyear": "2015"
   },
   {
+    "id": 325,
+    "question": "Which of the following is not revealed by a firm’s accounting records?",
+    "option": {
+      "a": "Profit of a period",
+      "b": "Quality of labour force",
+      "c": "Credit worthiness",
+      "d": "Value of assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 331,
     "question": "In which of the following accounts is interest on partners capital found?",
     "option": {
@@ -1623,6 +1655,22 @@
       "b": "Salaries and allowances",
       "c": "Carriage inwards",
       "d": "Discounts allowed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 388,
+    "question": "A manufacturing account is drawn up by",
+    "option": {
+      "a": "firms providing personal services",
+      "b": "firms engaged solely in buying and selling of goods",
+      "c": "firms which make and sell articles",
+      "d": "non - trading organization."
     },
     "section": "",
     "image": "",
@@ -5452,6 +5500,22 @@
     "image": "",
     "answer": "c",
     "solution": "Production Cost = Raw Materials Consumed + Direct Labor + Factory Overheads\nStep 1: Raw Materials Consumed\n= ₦300,600\nStep 2: Direct Labor (Manufacturing Wages)\n= ₦27,000\nStep 3: Factory Overheads\nCalculate the factory portions of each overhead:\n\nLighting: 1/3 × ₦30,000 = ₦10,000\nPower: 2/5 × ₦75,000 = ₦30,000\nInsurance: 1/6 × ₦36,000 = ₦6,000\nRent: 1/7 × ₦56,000 = ₦8,000\n\nTotal Factory Overheads = ₦10,000 + ₦30,000 + ₦6,000 + ₦8,000 = ₦54,000\nStep 4: Calculate Total Production Cost\nProduction Cost = ₦300,600 + ₦27,000 + ₦54,000 = ₦381,600",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1290,
+    "question": "When a customer's cheque is returned unpaid in a debtor's control accounting system, the treatment will be?",
+    "option": {
+      "a": " debit bank, credit custmer and credit conyrol account",
+      "b": "credit bank, debit customer, and credit control account",
+      "c": "debit customer, debit control accountand credit bank",
+      "d": " credit control account, debit bank and debit customer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a customer's cheque is returned unpaid (dishonored), Reverse the original entry that was made when the cheque was first received.\nOriginally when the cheque was received:\n\nDebit: Bank\nCredit: Customer's account\nCredit: Sales Ledger Control Account\n\nNow that the cheque is returned unpaid, reverse this entry:\n\nDebit: Customer's account (restore the debt)\nDebit: Sales Ledger Control Account (restore the control balance)\nCredit: Bank (remove the cash that was never actually received)",
     "examtype": "utme",
     "examyear": "2000"
   },

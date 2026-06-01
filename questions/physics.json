@@ -2704,6 +2704,22 @@
     "examyear": "2016"
   },
   {
+    "id": 191,
+    "question": "When an athlete perspires after running, he loses heat through",
+    "option": {
+      "a": "Evaporation",
+      "b": "Conduction",
+      "c": "Radiation",
+      "d": "Convection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Athletes lose heat through evaporation when perspiring.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 192,
     "question": "The rate of cooling of a heated quantity of liquid in an enclosure depends on the",
     "option": {
@@ -10512,6 +10528,22 @@
     "examyear": "2007"
   },
   {
+    "id": 790,
+    "question": "The difference observed in solids, liquids and gases can be accounted for by",
+    "option": {
+      "a": "The different molecules in each of them",
+      "b": "The spaces and forces acting between the molecules",
+      "c": "Thier melting points",
+      "d": "Their relative massess"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Spaces and Forces: The differences observed in solids, liquids, and gases can primarily be attributed to the arrangement, spacing, and intermolecular forces acting between the molecules.\n\nSolids: Tightly packed molecules with strong intermolecular forces, giving a definite shape and volume.\nLiquids: Close molecules that can move past each other, resulting in a definite volume but no definite shape.\nGases: Widely spaced molecules with weak intermolecular forces, filling the entire container.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 791,
     "question": "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600µc across the field is",
     "option": {
@@ -13852,6 +13884,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Calculate total power consumption\nPower from ten 40 W bulbs = 10 × 40 W = 400 W\nPower from five 100 W bulbs = 5 × 100 W = 500 W\nTotal power = 400 W + 500 W = 900 W = 0.9 kW\n\nStep 2: Calculate energy consumed\nEnergy = Power × Time = 0.9 kW × 10 h = 9 kWh\n\nStep 3: Calculate cost\nCost = Energy × cost per unit = 9 kWh × 5 N = 45 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1073,
+    "question": "An electric device is rated 2000W, 250V. Calculate the maximum current it can take",
+    "option": {
+      "a": "9A",
+      "b": "8A",
+      "c": "7A",
+      "d": "6A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nPower, P = 2000 W\nVoltage, V = 250 V\n\nSolution:\n\nStep 1: Relationship between power, voltage, and current\nThe electrical power is given by P = I × V, where I is the current.\n\nStep 2: Rearrange to find current\nI = P / V\n\nStep 3: Substitute the given values\nI = 2000 W / 250 V = 8 A",
     "examtype": "utme",
     "examyear": "2013"
   },

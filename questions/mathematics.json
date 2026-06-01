@@ -1984,6 +1984,22 @@
     "examyear": "2005"
   },
   {
+    "id": 357,
+    "question": "The grades of 36 students in a test are shown in the pie chart above. How many students had excellent?",
+    "option": {
+      "a": "7",
+      "b": "8",
+      "c": "9",
+      "d": "12"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702357/ALOC-Questions/Mathematics/2005/math_2005_q36_jdk6q5.jpg",
+    "answer": "a",
+    "solution": "Angle of Excellent\n= 360 - (120+80+90)\n= 360 - 290\n= 70o\nIf 360o represents 36 students\n1o will represent 36/360\n50o will represent 36/360 * 70/1\n= 7",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 361,
     "question": "In how many ways can 6 coloured chalks be arranged if 2 are same colour?",
     "option": {
@@ -3328,6 +3344,22 @@
     "examyear": "2010"
   },
   {
+    "id": 586,
+    "question": "If the area of ΔPQR above is 12√3 cm2, find the value of q?",
+    "option": {
+      "a": "6 cm",
+      "b": "7 cm",
+      "c": "8 cm",
+      "d": " 5 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128351/ALOC-Questions/Mathematics/2010/MATH_2010_Q15_ofvhf9.jpg",
+    "answer": "a",
+    "solution": "Area of a triangle = 1/2 ab Sinθ\n12√3 = 1/2 x 8 x q sin 60\n12√3 = 4 x q x √3/2\n12√3 = 2q√3\n\nq =12√3/2√3\n\nq = 6",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 588,
     "question": "Find ∫(sin x + 2)dx",
     "option": {
@@ -4668,6 +4700,22 @@
     "image": "",
     "answer": "b",
     "solution": "1 - (1/7 x 3(1/2) ÷ 3/4\n\n\n1 - (1/7 x 7/2) x 4/3\n\n\n1 - 1/2 x 4/3\n\n\n1 - 2/3 = 1/3",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 855,
+    "question": "Find dy/dx. If y = 3x<sup>3</sup> + 2x<sup>2</sup> + 3x + 1",
+    "option": {
+      "a": "9x<sup>2</sup>  + 4x + 3",
+      "b": "9x<sup>2</sup>  - 4x - 3",
+      "c": "9x<sup>2</sup>  + 4x - 3",
+      "d": " 9x<sup>2</sup>  - 4x + 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "y = 3x<sup>3</sup>  + 2x<sup>2</sup>  + 3x + 1\ndy/dx = 9x<sup>2</sup>  + 4x + 3",
     "examtype": "utme",
     "examyear": "2016"
   },

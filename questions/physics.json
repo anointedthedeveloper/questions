@@ -4624,6 +4624,22 @@
     "examyear": "2018"
   },
   {
+    "id": 308,
+    "question": "A positively charged rod X is brought near an uncharged metal sphere Y and is then touched by a finger with X still in place. When the finger is removed, the result is that Y has",
+    "option": {
+      "a": " no charge and a zero potential",
+      "b": " no charge and a zero potential",
+      "c": " a negative charge and a positive potential",
+      "d": "a negative charge and a negative potential"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nSolution:\nStep-by-step process:\nStep 1: Positively charged rod X is brought near sphere Y\n\nRod X (positive) repels positive charges in Y\nPositive charges move away from X (to far side)\nNegative charges attracted toward X (near side)\nY is polarized but still neutral overall\n\nStep 2: Sphere Y is touched by finger (grounded) with X still in place\n\nFinger provides path to ground (infinite charge reservoir)\nPositive charges repelled by X escape through finger to ground\nNegative charges remain attracted to near side by rod X\nY now has excess negative charge\n\nStep 3: Finger is removed, then rod X is removed\n\nY retains the negative charge\nWhen X is finally removed, negative charges distribute uniformly over Y\nY has negative charge and therefore negative potential",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 310,
     "question": "The process whereby a liquid turns spontaneously into vapour is called",
     "option": {

@@ -96,6 +96,22 @@
     "examyear": "2012"
   },
   {
+    "id": 64,
+    "question": "Where no partnership agreements exist, a partner who puts a sum of money into a firm in excess of the capital he has agreed to subscribe is entitled to interest rate per annum on such money ",
+    "option": {
+      "a": "15%",
+      "b": "10%",
+      "c": "5%",
+      "d": "2%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 86,
     "question": "A dishonoured cheque is",
     "option": {
@@ -158,6 +174,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
+  },
+  {
+    "id": 136,
+    "question": "Which of the following is the capital reserve of a company?",
+    "option": {
+      "a": "Accumulated depreciation.",
+      "b": "Retained profit.",
+      "c": "Share premium",
+      "d": "Loss on forfeited shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
   },
   {
     "id": 140,
@@ -1152,6 +1184,22 @@
     "examyear": "2018"
   },
   {
+    "id": 711,
+    "question": "To account for expenses paid by head office on behalf of the branch, the branch should___________",
+    "option": {
+      "a": "Debit profit and loss account and credit head office account",
+      "b": "Debit head office account and credit cash",
+      "c": "Credit cash and debit profit and loss account",
+      "d": " Credit profit and loss account and debit head office account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The head office maintains a book, (branch account) more or less like other personal accounts, so that any expenses incurred on behalf of the branch will also be debited to the branch account. Similarly, in the branch books, there will be head office accounts",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 714,
     "question": "The major source of document which enables employer to calculate  the employee wages  is the?",
     "option": {
@@ -1726,6 +1774,22 @@
     "solution": "An accountant reviews and analyses financial records, keeping track of a company's or individual's income, expenditures, and tax liabilities. An accountant may also be involved in project planning, cost analysis, auditing, and financial decision-making.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 966,
+    "question": "Which of the following accounting conventions suggests that accountants should use a method of valuation that understates rather than over-states results?",
+    "option": {
+      "a": "Conservatism",
+      "b": "Historical",
+      "c": "Monetary",
+      "d": "Cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The conservatism (or prudence) convention in accounting states that when there is uncertainty, accountants should choose the method that is least likely to overstate assets or income and more likely to recognize potential losses early.",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 975,
@@ -2316,6 +2380,22 @@
     "image": "",
     "answer": "b",
     "solution": "At par acquisition means the price paid for the business exactly equals the fair value of its net assets (i.e., assets minus liabilities).\n\nIn this case, no goodwill is recognized because there is neither a premium paid nor a discount received on the net assets.\n\nHence, the business is acquired “at par” when the purchase consideration equals the net asset value.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1306,
+    "question": "The most appropriate basis for apportioning inventory holding cost among departments is to use the value of?",
+    "option": {
+      "a": "purchases",
+      "b": "opening stock",
+      "c": "closing stock",
+      "d": "average stock"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Inventory holding costs (e.g., storage, insurance, obsolescence) are incurred throughout the period on whatever level of stock is held at each point.\n\nUsing average stock (typically \n(opening + closing)/2) smooths out fluctuations and fairly allocates those carrying costs to each department in proportion to the stock they actually held over time.\n\nOther bases (purchases, opening or closing stock) either ignore timing or give a distorted view of the stock levels during the period.",
     "examtype": "utme",
     "examyear": "2000"
   },

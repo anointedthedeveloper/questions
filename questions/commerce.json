@@ -128,6 +128,22 @@
     "examyear": "2004"
   },
   {
+    "id": 36,
+    "question": "The most important function of commerce is",
+    "option": {
+      "a": "helping people to improve their profits",
+      "b": "facilitating exchanges among individuals and firms ",
+      "c": "assisting trade through banking and insurance   ",
+      "d": "enhancing business relationships"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 39,
     "question": "Factors of production can be described as the",
     "option": {
@@ -183,6 +199,22 @@
       "b": "sales  bonanza    ",
       "c": "cash discounts ",
       "d": "seasonal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 50,
+    "question": "Goods are  of merchantable  quality if they",
+    "option": {
+      "a": "conform to description  ",
+      "b": "are of equal weight",
+      "c": "are of the same quality ",
+      "d": "conform to buyers' purpose"
     },
     "section": "",
     "image": "",
@@ -512,6 +544,22 @@
     "examyear": "2005"
   },
   {
+    "id": 99,
+    "question": "One advantage of a crossed cheque is that it can",
+    "option": {
+      "a": "only be paid into a savings account",
+      "b": "be cashed over the bank's counter",
+      "c": "only be paid into the owner's account",
+      "d": " be cashed by anyone"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 100,
     "question": "Given\n    N\n Sales    15 000\n Opening stock  5 600\n Purchases   9 700\n Closing stock  4 400\n Gross profit  4 500\n Net profit   2 000\nFrom the data above, calculate the rate of turnover \n",
     "option": {
@@ -667,6 +715,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 127,
+    "question": "Materials used for further production of goods and  services are known as ",
+    "option": {
+      "a": "export goods",
+      "b": "intermediate goods ",
+      "c": "capital goods",
+      "d": "  consumer goods."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -1163,6 +1227,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 232,
+    "question": "The fear of many communities concerning tourism development is the ",
+    "option": {
+      "a": "influence of foreign culture ",
+      "b": "fear of disease transmission ",
+      "c": "fear of pollution ",
+      "d": "religious intolerance "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2008"
@@ -1680,6 +1760,22 @@
     "examyear": "2010"
   },
   {
+    "id": 325,
+    "question": "The instrument used in the capital market is ",
+    "option": {
+      "a": "treasury bill ",
+      "b": "bill of exchange ",
+      "c": "stock ",
+      "d": "debenture "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 326,
     "question": "A pre-requisite for admission into the second-tier securities Market is for a company to ",
     "option": {
@@ -1776,6 +1872,22 @@
     "examyear": "2010"
   },
   {
+    "id": 336,
+    "question": "The difference between trademark and patent right is that the latter ",
+    "option": {
+      "a": "gives exclusive right to import a particular good ",
+      "b": "is conferred by the government ",
+      "c": "confers monopoly  on a product ",
+      "d": "confers exclusive right to publish literary works."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 337,
     "question": "Which of the following is a function of consumerism? ",
     "option": {
@@ -1803,6 +1915,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 350,
+    "question": "Resources obtained from the extractive sector that are transformed into finished products are examples of ",
+    "option": {
+      "a": "primary production ",
+      "b": "tertiary production ",
+      "c": "direct production ",
+      "d": "secondary production."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -2640,6 +2768,38 @@
     "examyear": "2000"
   },
   {
+    "id": 496,
+    "question": "What is G in the above equation?",
+    "option": {
+      "a": "Sales returns",
+      "b": "Carriage inwards",
+      "c": "Purchases",
+      "d": "Sales"
+    },
+    "section": "Use the following equation to answer question  Gross Profit=(Closing stock + P) less (Opening stock + G)",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 497,
+    "question": "Which of the following is true about cumulative preference shares?",
+    "option": {
+      "a": "Unpaid dividends are carried forward",
+      "b": "Shareholders can secure capital refund on demand",
+      "c": "Shareholders are entitled to further share of profit",
+      "d": "Dividends are paid into a special account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 504,
     "question": "Which of the following is not a function of a retailer?",
     "option": {
@@ -2928,6 +3088,22 @@
     "examyear": "2013"
   },
   {
+    "id": 570,
+    "question": "Double coincidence of wants is a disadvantage of",
+    "option": {
+      "a": "business",
+      "b": "buying and selling",
+      "c": "credit sales",
+      "d": "trade by barter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 571,
     "question": "Price quotation which excludes all delivery charges is called",
     "option": {
@@ -3200,6 +3376,22 @@
     "examyear": "1990"
   },
   {
+    "id": 604,
+    "question": "The average stock is",
+    "option": {
+      "a": "N=2000",
+      "b": "N=3000",
+      "c": "N=5000",
+      "d": "N=6000"
+    },
+    "section": "Use the information given  to answer question: Opening stock  [ N=1,000], Closing stock  [ N=9,000 ], Purchases  [N=14,000]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
     "id": 614,
     "question": "Efforts geared towards establishing and maintaining good image for a company is termed",
     "option": {
@@ -3243,6 +3435,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 622,
+    "question": "Which of the following is the most suitable means of \ttransporting bulky goods from Lagos to Kaduna? By",
+    "option": {
+      "a": "Train",
+      "b": "Airplane",
+      "c": "Ship",
+      "d": "Lorry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1990"
@@ -3387,6 +3595,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 656,
+    "question": "The transformation of cotton into clothing is an example of",
+    "option": {
+      "a": "secondary production",
+      "b": "tertiary production",
+      "c": "primary production",
+      "d": "direct production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -3920,6 +4144,22 @@
     "examyear": "2000"
   },
   {
+    "id": 739,
+    "question": "In an organization, civic consideration arises from",
+    "option": {
+      "a": "the profit derived from the environment",
+      "b": "its operations within the environment",
+      "c": "its social negative impacts on the community",
+      "d": "the fact that it is registered in that locality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 750,
     "question": "Entrusting the management of a company to the courts to enable the settlement of the company’s obligations is an indication of",
     "option": {
@@ -3979,6 +4219,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 767,
+    "question": "A documentary bill will normally be accompanied by",
+    "option": {
+      "a": "sales invoice, bill of lading and insurance certificate",
+      "b": "clean bill, bill of lading and insurance certificate",
+      "c": "bill of lading, consular invoice and insurance certificate",
+      "d": "consular invoice, FOB certificate and bill of  lading."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
@@ -4059,6 +4315,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 783,
+    "question": "One of the major functions of a chamber of commerce is to",
+    "option": {
+      "a": "promote and protect trade, industry and agriculture",
+      "b": "advise members on regulations of other countries",
+      "c": "settle disputes that arise out of trade",
+      "d": "publish books and periodicals desired by members."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"

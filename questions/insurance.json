@@ -160,6 +160,22 @@
     "examyear": "2014"
   },
   {
+    "id": 22,
+    "question": "One of the information contained in a motor insurance cover note is the",
+    "option": {
+      "a": "behaviour of the insured",
+      "b": "occupation of the insured",
+      "c": "commencement date",
+      "d": "previous and present insurance history"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 23,
     "question": "In property insurance, which of the following is not a direct loss?",
     "option": {
@@ -240,6 +256,22 @@
     "examyear": "2014"
   },
   {
+    "id": 34,
+    "question": "Renewal notice is  used by  insurers  to  remind the insured of the",
+    "option": {
+      "a": "reduction of cover",
+      "b": "continuation of cover",
+      "c": "expiration of cover",
+      "d": "increase of cover"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 36,
     "question": "The professional service required for effective claims administration by insurers would be provided by",
     "option": {
@@ -251,6 +283,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 37,
+    "question": "Which  of the following activities is  not a  function of the  Chartered  Insurance  Institute  of  Nigeria?",
+    "option": {
+      "a": "Setting a standard for members",
+      "b": "Promoting Professional growth",
+      "c": "Promoting the interest of insurers",
+      "d": "Specifying professional qualification"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -1792,6 +1840,22 @@
     "examyear": "3"
   },
   {
+    "id": 170,
+    "question": "The type of questionnaire drawn up by   insurers, requesting certain information to assess risk is --------- form",
+    "option": {
+      "a": "Acceptance",
+      "b": "Compensation",
+      "c": "Credit",
+      "d": "Proposal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 171,
     "question": "The shifting of responsibility of one’s own losses to another is known as ---------- transfer",
     "option": {
@@ -2043,6 +2107,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 194,
+    "question": "A particular risk which is transferred to another re-insurance under a re-insurance treaty is",
+    "option": {
+      "a": "Cedant",
+      "b": "Cession",
+      "c": "Facultative",
+      "d": "Cede"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -2379,6 +2459,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 229,
+    "question": "One of the following is a condition for contribution",
+    "option": {
+      "a": "bilateral interest",
+      "b": "multilatual interest",
+      "c": "two subject matter",
+      "d": "common subject matter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -3083,6 +3179,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 293,
+    "question": "The form of risk that can easily be calculated and estimated is known as",
+    "option": {
+      "a": "non insurable risk",
+      "b": "non-financial risk",
+      "c": "speculative risk",
+      "d": "insurable risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "5"

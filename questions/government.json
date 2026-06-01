@@ -400,6 +400,7 @@
     "examyear": "2009"
   },
   {
+<<<<<<< Updated upstream
     "id": 98,
     "question": "A bill that applies to the whole population and is intended to promote the general welfare is called ",
     "option": {
@@ -414,6 +415,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+=======
+    "id": 103,
+    "question": "During the period 1960-1966, Nigerian was governed under the ",
+    "option": {
+      "a": "presidential system of government ",
+      "b": "Westminster system of government ",
+      "c": "confederal system of government ",
+      "d": "Unitary system of government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+>>>>>>> Stashed changes
   },
   {
     "id": 108,
@@ -535,6 +552,22 @@
       "b": "a presidential proclamation ",
       "c": "a decree   ",
       "d": "a legislative order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 135,
+    "question": "The principle of checks and balances empowers the judiciary to: ",
+    "option": {
+      "a": "invalidate the actions of the other arms ",
+      "b": "administer the criminal justice system ",
+      "c": "abrogate the law",
+      "d": "apply the law"
     },
     "section": "",
     "image": "",
@@ -4816,6 +4849,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1186,
+    "question": "The greatest criticism of the Security Council of the UNO is that it",
+    "option": {
+      "a": "has no standing army",
+      "b": "is not representative enough",
+      "c": "undermines the General Assembly",
+      "d": "has exclusive veto power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "One of the most significant criticisms of the UN Security Council is that its structure gives the five permanent members (the United States, the United Kingdom, France, Russia, and China) the power to veto any substantive resolution. This \"exclusive veto power\" can block action even when there is broad international support for a measure, which many argue hampers the Council's ability to respond effectively to international crises and conflicts. Critics contend that this arrangement often leads to inaction and prevents the Security Council from reflecting the current global political landscape.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1188,
     "question": "Professor Ibrahim Gambari is the Special Assistant to the United Nations Secretary General on",
     "option": {
@@ -4892,6 +4941,22 @@
     "image": "",
     "answer": "d",
     "solution": "One of the key responsibilities of the legislature in any democratic system is to exercise oversight over the executive branch and government agencies. This oversight function includes scrutinizing policies, monitoring the implementation of laws, and ensuring accountability in government operations. The legislature does not implement laws (that is the role of the executive), adjudicate disputes (that is the role of the judiciary), or promulgate decrees (also typically an executive function).",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1201,
+    "question": "A common feature of government is",
+    "option": {
+      "a": "the separation of powers",
+      "b": "the making of public policy",
+      "c": "the independence of the judiciary",
+      "d": " a written constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A common feature of government is the making of public policy.\n\nGovernment is made up of three arms the legislature, the executive and judiciary. The main function of the legislature is law making while that of the executive is formulation and implementation of policies",
     "examtype": "utme",
     "examyear": "2003"
   },

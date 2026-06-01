@@ -992,6 +992,7 @@
     "examyear": "2006"
   },
   {
+<<<<<<< Updated upstream
     "id": 114,
     "question": "A public company has 2 000 000 ordinary shares of 50k each and offers 50% for subscription at N2 per share. If the shares were fully subscribed, calculate the issued capital.",
     "option": {
@@ -1003,6 +1004,19 @@
     "section": "",
     "image": "",
     "answer": "b",
+=======
+    "id": 112,
+    "question": "A seller attracts and retains patronage by",
+    "option": {
+      "a": " enhancing public relations ",
+      "b": " enhancing sales promotion  ",
+      "c": "  rendering pre-sales service",
+      "d": " rendering customer service."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -5184,6 +5198,22 @@
     "examyear": "2013"
   },
   {
+    "id": 566,
+    "question": "The assertion ‘consumers are always right’ refers to marketing",
+    "option": {
+      "a": "board.",
+      "b": "concept",
+      "c": "function",
+      "d": "mix"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 570,
     "question": "Double coincidence of wants is a disadvantage of",
     "option": {
@@ -6075,6 +6105,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 670,
+    "question": "In the transportation industry, dead freight is used to describe the",
+    "option": {
+      "a": "cost paid for an empty space left in the ship",
+      "b": "charge for each day a performance was delayed",
+      "c": "persons that hire a ship for a specific purpose.",
+      "d": "cost of shipping a particular cargo for a specific voyage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"

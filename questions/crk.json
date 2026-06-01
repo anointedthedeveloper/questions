@@ -304,6 +304,7 @@
     "examyear": "2009"
   },
   {
+<<<<<<< Updated upstream
     "id": 82,
     "question": "Who is reputed for pulling down the altar of Baal at the risk of annoying his father? ",
     "option": {
@@ -315,6 +316,19 @@
     "section": "",
     "image": "",
     "answer": "c",
+=======
+    "id": 81,
+    "question": "The sun stood still when ",
+    "option": {
+      "a": "Moses led Israel across the Red sea ",
+      "b": "Jericho fell to the army of Joshua ",
+      "c": "Noah came out of the ark ",
+      "d": "Joshua defeated the Amorite at Gideon "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -1024,6 +1038,7 @@
     "examyear": "2011"
   },
   {
+<<<<<<< Updated upstream
     "id": 320,
     "question": "The prophet who was ordained from the womb for God’s service was",
     "option": {
@@ -1035,6 +1050,19 @@
     "section": "",
     "image": "",
     "answer": "a",
+=======
+    "id": 311,
+    "question": "Baal did not answer his worshippers at the contest on Mount Carmel because he",
+    "option": {
+      "a": "was annoyed with their sacrifice",
+      "b": "did not hear",
+      "c": "wanted to disgrace his worshippers",
+      "d": "was asleep."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -1547,6 +1575,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 516,
+    "question": "Paul admonished the Romans to live a new life in Christ by yielding themselves to God as men who",
+    "option": {
+      "a": "have been brought from death to life",
+      "b": "will meet Christ in God’s Kingdom",
+      "c": "will receive judgment on the last day",
+      "d": "have suffered for the sake of the gospel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2015"
@@ -2208,6 +2252,7 @@
     "examyear": "2019"
   },
   {
+<<<<<<< Updated upstream
     "id": 729,
     "question": "St. Peter's teaching on Civic Responsibility centers upon_____",
     "option": {
@@ -2247,6 +2292,15 @@
       "b": "Victory upon the enemies of Israel",
       "c": "The Punishment to come unto the royal house",
       "d": "The broken covenant between God and Israel"
+=======
+    "id": 746,
+    "question": "The model example in St. Paul teaching on humility is _______",
+    "option": {
+      "a": "Abraham",
+      "b": "Prophet Elijah",
+      "c": "None of the Above",
+      "d": "Noah"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -2896,6 +2950,7 @@
     "examyear": "2011"
   },
   {
+<<<<<<< Updated upstream
     "id": 1017,
     "question": "“How is it that you a Jew ask a drink of me...” This statement was made by the ",
     "option": {
@@ -2903,6 +2958,15 @@
       "b": "            woman of  Samari",
       "c": "possessed woman. ",
       "d": "            woman of  Galilee"
+=======
+    "id": 1013,
+    "question": "The presentation of Myrrh to Jesus signifies Jesus’ ",
+    "option": {
+      "a": "humility and servanthoo",
+      "b": "suffering and impending death. ",
+      "c": "lordship on earth. ",
+      "d": "kingship and messiahship"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",

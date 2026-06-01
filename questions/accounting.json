@@ -144,6 +144,22 @@
     "examyear": "2012"
   },
   {
+    "id": 46,
+    "question": "If the equipment account has a balance of N22.500 and its accumulated account has a balance of N14,000 the book value of the equipment is:  ",
+    "option": {
+      "a": "N22.500   ",
+      "b": "N8.500 ",
+      "c": "N 14,000  ",
+      "d": "N36.500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 50,
     "question": "At the end the fiscal year, account receivable has a balance of 100,000 and allowance for doubtful account has a balance of 7,000. The expected that realized value of the  receivable is: account",
     "option": {
@@ -560,6 +576,7 @@
     "examyear": "2016"
   },
   {
+<<<<<<< Updated upstream
     "id": 159,
     "question": "When stock is withdrawn, for personal use, the accounting entries is to debit",
     "option": {
@@ -587,6 +604,19 @@
     "section": "",
     "image": "",
     "answer": "c",
+=======
+    "id": 158,
+    "question": "Purchases can be ascertained through the preparation of a",
+    "option": {
+      "a": "stock account",
+      "b": "sales account",
+      "c": "total debtors’ control account",
+      "d": "total creditors, control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -699,6 +729,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 204,
+    "question": "Which of the following best describes the path of a transaction?",
+    "option": {
+      "a": "Source documents to Journal to Ledger",
+      "b": "Source documents to Ledger to Journal",
+      "c": "Journal to Ledger to source documents",
+      "d": "Journal to source documents to Ledger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -2043,6 +2089,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 489,
+    "question": "What is the net working capital?",
+    "option": {
+      "a": "N 2,600",
+      "b": "N1,800",
+      "c": "N 800",
+      "d": "N 600"
+    },
+    "section": "Use the information to answer question: Total current assets [N2,000 ]; Total fixed assets [N 4,000 ]; Current liabilities [N 1,200 ]; Drawings [N 200 ]; Long-term loan \t[N 2,000 ]",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"

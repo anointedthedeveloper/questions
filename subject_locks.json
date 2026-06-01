@@ -2,11 +2,19 @@
   "locks": {
     "english": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780313134.580412
     },
     "civiledu": {
       "machine": "A-Server",
       "time": 1780313135.0175626
+=======
+      "time": 1780312904.5436172
+    },
+    "civiledu": {
+      "machine": "A-Server",
+      "time": 1780312906.2274187
+>>>>>>> Stashed changes
     },
     "physics": {
       "machine": "A-Server",
@@ -14,11 +22,19 @@
     },
     "government": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780313135.8204792
     },
     "englishlit": {
       "machine": "A-Server",
       "time": 1780313139.0576832
+=======
+      "time": 1780312908.1653073
+    },
+    "englishlit": {
+      "machine": "A-Server",
+      "time": 1780312906.2088246
+>>>>>>> Stashed changes
     },
     "geography": {
       "machine": "A-Server",
@@ -26,6 +42,7 @@
     },
     "commerce": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780313134.4062822
     },
     "accounting": {
@@ -35,6 +52,17 @@
     "crk": {
       "machine": "A-Server",
       "time": 1780313134.5673275
+=======
+      "time": 1780312908.004705
+    },
+    "accounting": {
+      "machine": "A-Server",
+      "time": 1780312904.3106446
+    },
+    "crk": {
+      "machine": "A-Server",
+      "time": 1780312904.2247734
+>>>>>>> Stashed changes
     },
     "insurance": {
       "machine": "A-Server",

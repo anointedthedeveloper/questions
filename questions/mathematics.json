@@ -12032,6 +12032,22 @@
     "examyear": "2017"
   },
   {
+    "id": 890,
+    "question": "In the figure, find x",
+    "option": {
+      "a": "40°",
+      "b": "55°",
+      "c": "50°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005818/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q22_hjbo4i.jpg",
+    "answer": "a",
+    "solution": "Sum of angle at a point = 360°\n\n2x + 3x + 4x = 360\n\n9x = 360\n\nx = 360/9\n\n\nx = 40°",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 891,
     "question": "Divide 4x<sup>23</sup>  - 3x + 1 by 2x - 1",
     "option": {

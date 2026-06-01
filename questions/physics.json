@@ -5216,6 +5216,22 @@
     "examyear": "2020"
   },
   {
+    "id": 392,
+    "question": "What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 Kobo per KWh?",
+    "option": {
+      "a": "N0.65",
+      "b": " N0.39",
+      "c": "N3.90",
+      "d": "N0.13"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nFive 50W lamps\nFour 100W lamps\nTime = 10 hours\nCost per kWh = 2 Kobo = N0.02\nTotal cost = ?\n\nStep 1: Calculate total power\nPower from 50W lamps = 5 × 50 = 250W\nPower from 100W lamps = 4 × 100 = 400W\nTotal power = 250 + 400 = 650W = 0.65kW\nStep 2: Calculate energy consumed\nEnergy = Power × Time\nEnergy = 0.65kW × 10 hours\nEnergy = 6.5 kWh\nStep 3: Calculate total cost\nCost = Energy × Rate\nCost = 6.5 × N0.02\nCost = N0.13",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 393,
     "question": "Tha mass of a proton is approximately equal to that of ",
     "option": {
@@ -10796,6 +10812,22 @@
     "image": "",
     "answer": "d",
     "solution": "Due to anomalous expansion of water at temperature range (0 - 4)°c, when a given mass of water turns into ice, its volume will increase, while the mass remains constant. Thus, when a given volum of ice melts, the volume of water formed will be less than the volume of ice. Hence, the level of water in the container will drop.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 913,
+    "question": "The small droplet of water that forms on the grass in the early hours of the morning is",
+    "option": {
+      "a": "hail",
+      "b": "dew",
+      "c": "fog",
+      "d": "mist"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dew point is the temperature at which the water vapour present in air is just sufficient to saturate it. Dew is formed when air is cooled below its dew point",
     "examtype": "utme",
     "examyear": "2010"
   },

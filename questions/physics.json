@@ -8032,6 +8032,22 @@
     "examyear": "2023"
   },
   {
+    "id": 523,
+    "question": "\nLight of wavelength 589 nm in vacuum passes through a piece of fused quartz of index of refraction n = 1.458. What is the frequency of the light in fused quartz? [Speed of light c = 3.00×10⁸ms⁻¹]",
+    "option": {
+      "a": "5.09×10¹⁵Hz",
+      "b": "5.09×10¹⁴ Hz",
+      "c": "1.77×10¹⁵ Hz",
+      "d": "1.77×10¹⁴ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nWavelength in vacuum, λ₀ = 589 nm = 589 × 10⁻⁹ m\nRefractive index of fused quartz, n = 1.458\nSpeed of light in vacuum, c = 3.00 × 10⁸ m/s\nFrequency in fused quartz, f = ?\n\nSolution:\nStep 1: Key principle\nWhen light passes from one medium to another:\n\nFrequency remains constant\nWavelength and speed change\n\nStep 2: Calculate frequency using vacuum values\nUsing the wave equation:\nc = fλ₀\nf = c/λ₀\nStep 3: Substitute values\nf = (3.00 × 10⁸)/(589 × 10⁻⁹)\nf = (3.00 × 10⁸)/(5.89 × 10⁻⁷)\nf = 5.093 × 10¹⁴ Hz\nf ≈ 5.09 × 10¹⁴ Hz",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 524,
     "question": "A simple pendulum, has a period of 5.77 seconds. When the pendulum is shortened by 3 m, the period is 4.60 seconds. Calculate the new length of the pendulum",
     "option": {
@@ -17020,6 +17036,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nInitial nuclide: ²¹⁰₈₂Pb (mass number 210, atomic number 82)\nFinal nuclide: ²⁰⁶₈₀Pb (mass number 206, atomic number 80)\n\nSolution:\n\nStep 1: Determine changes in mass and atomic numbers\nChange in mass number = 210 – 206 = 4\nChange in atomic number = 82 – 80 = 2\n\nStep 2: Identify particle(s) that produce these changes\n\nAn alpha particle (⁴₂He) decreases mass number by 4 and atomic number by 2.\n\nA beta particle (⁰₋₁e) increases atomic number by 1 with no mass change.\n\nStep 3: Match the changes\nA single alpha emission exactly accounts for:\nΔA = –4, ΔZ = –2\nThis matches the observed changes. No beta particle is involved.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1119,
+    "question": "What type of reaction is represented by the equation\n²₁X + ²₁X → ³₂Y + ¹₀n + Energy",
+    "option": {
+      "a": "Ionization",
+      "b": "Fusion",
+      "c": "Fission",
+      "d": "Chain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The given reaction is the fusion of two deuterium nuclei (²₁H) to form helium‑3 and a neutron.",
     "examtype": "utme",
     "examyear": "2014"
   },

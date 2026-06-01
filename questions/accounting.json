@@ -688,6 +688,22 @@
     "examyear": "2016"
   },
   {
+    "id": 154,
+    "question": "Which of the followings is a credit item in creditors ledger control account?",
+    "option": {
+      "a": "Returns outwards.",
+      "b": "Discount Received.",
+      "c": "Bad debts.",
+      "d": "Purchases."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 155,
     "question": "The trader’s capital in a single entry system is ascertained by preparing",
     "option": {
@@ -2503,6 +2519,22 @@
       "b": "disposal",
       "c": "dissolution",
       "d": "revaluation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 514,
+    "question": "One of the reasons for the existence of the public sector is to",
+    "option": {
+      "a": "take adequate care of the needy",
+      "b": "supplement the commercial sector",
+      "c": "provide cheap services to all citizens",
+      "d": "correct perceived inequalities."
     },
     "section": "",
     "image": "",
@@ -7036,6 +7068,22 @@
     "image": "",
     "answer": "b",
     "solution": "This question refers to the accounting equation:\n\nAssets = Liabilities + Owner’s Equity\nWhen an asset increases, something else must also increase or decrease to keep the equation balanced.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1372,
+    "question": "The purchase of two generators by Hassan Electronics Enterprises should be recorded as?",
+    "option": {
+      "a": "an acquistion of fixed assets",
+      "b": "an expenses in its general office expenses account",
+      "c": "an acquistion of stock",
+      "d": "a part of capital in the capital account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Generators are not items meant for resale (stock), nor are they everyday operational costs (expenses).\n\nThey are long-term assets used in the running of the business, typically for providing power to the premises.\n\nTherefore, the purchase of generators is considered an acquisition of fixed assets, such as equipment or machinery.",
     "examtype": "utme",
     "examyear": "1998"
   },

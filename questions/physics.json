@@ -14048,6 +14048,22 @@
     "examyear": "2010"
   },
   {
+    "id": 928,
+    "question": "Two inductors of inductance 5 mll and 15 mll are connected in series and a current of 5A flows through them. the total energy stored in the inductor is?",
+    "option": {
+      "a": " 500.0J",
+      "b": "250.0J",
+      "c": "62.5J",
+      "d": "50.0J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nL₁ = 5 mll (likely meaning henries, as millihenries would give a very small energy not matching options)\nL₂ = 15 mll\nCurrent I = 5 A\nSeries connection.\n\nSolution:\n\nStep 1: Total inductance in series\nL = L₁ + L₂ = 5 + 15 = 20 H\n\nStep 2: Energy stored in an inductor\nEnergy E = ½ L I²\n\nStep 3: Substitute values\nE = ½ × 20 × (5)² = ½ × 20 × 25 = 10 × 25 = 250 J",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 929,
     "question": "In alternating current circuit at resonance, the angle of lead or lag is?",
     "option": {

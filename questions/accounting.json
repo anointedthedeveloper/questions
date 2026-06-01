@@ -848,6 +848,22 @@
     "examyear": "1997"
   },
   {
+    "id": 213,
+    "question": "The art of collecting, recording, presenting and interpreting accounting data is",
+    "option": {
+      "a": "cost accounting",
+      "b": "management accounting",
+      "c": "financial accounting",
+      "d": "data processing."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 215,
     "question": "A system where a separate cash book is maintained for small payments is",
     "option": {
@@ -4972,6 +4988,22 @@
     "image": "",
     "answer": "a",
     "solution": "Step 1 – Identify assets:\n\nCash = ₦100,000\n\nSubscription in arrears = ₦5,000 (this is money owed to the club, so it’s an asset)\n\nTotal Assets = ₦100,000 + ₦5,000 = ₦105,000\n\nStep 2 – Identify liabilities:\n\nLoan = ₦30,000\n\nSubscription in advance = ₦15,000 (this is money the club owes in service, so liability)\n\nTotal Liabilities = ₦30,000 + ₦15,000 = ₦45,000\n\nStep 3 – Calculate Accumulated Fund:\nAccumulated Fund = Assets − Liabilities\nAccumulated Fund = ₦105,000 − ₦45,000 = ₦60,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1153,
+    "question": "Given:\n\nTotal debtors b/d 31/12/99...............₦25 000\nCheques received from debtors ...........₦255 000\nTotal debtors c/d 31/12/00...............₦15 000\n\nDetermine the sales figure?",
+    "option": {
+      "a": " ₦295 000",
+      "b": "₦265 000",
+      "c": " ₦245 000",
+      "d": " ₦215 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Debtors A/c: Opening + Credit Sales − Receipts = Closing\n=> Credit Sales = Closing + Receipts − Opening\n=> Credit Sales = 15,000 + 255,000 − 25,000\n=> Credit Sales = 270,000 − 25,000 = ₦245,000",
     "examtype": "utme",
     "examyear": "2003"
   },

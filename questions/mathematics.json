@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 18,
+    "question": "All the vertices of an isosceles triangle lie on a circle and each of the base angles  of the triangle is 65o. The angle subtended at the centre of the circle by the base of the triangle is: ",
+    "option": {
+      "a": "130o  ",
+      "b": "115o  ",
+      "c": "50o  ",
+      "d": "65o"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 21,
     "question": "A bearing of 310o, expressed as a compass bearing is: ",
     "option": {
@@ -364,6 +380,22 @@
     "image": "",
     "answer": "d",
     "solution": "Amount A = P(1+r)n;\nA = N150,000, r = 25%, n = 3.\n150,000 = P(1+0.25)3 = P(1.25)3\nP = 150,000/1.253 =N76,800.00\n",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 84,
+    "question": "Evaluate (1/2 - 1/4 - 1/8 - 1/16 + ...) - 1",
+    "option": {
+      "a": "2/3",
+      "b": "zero",
+      "c": "-2/3",
+      "d": "-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "S = a/(1+r), where a = 1/2, r = 1/2.\nS = 1/2 3/2 = 1/2 x 3/2 = 1/3.\n1/3 - 1 = -2/3",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -940,6 +972,22 @@
     "image": "",
     "answer": "b",
     "solution": "The locus of a point which is 5cn from the line LM is a pair of lines on opposite sides of LM and parallel to it, each distance 5cm from LM",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 289,
+    "question": "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested",
+    "option": {
+      "a": "6000 tonnes",
+      "b": "1500 tonnes",
+      "c": " 1200 tonnes",
+      "d": "9000 tonnes"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700755/ALOC-Questions/Mathematics/2004/math_2004_q18_cn4gpi.jpg",
+    "answer": "c",
+    "solution": "Sectorial angle of beans = 360 - (150 + 90 + 60)\n= 360 -300\n= 60°\nif 150° represents 3000 tonnes\n1o 3000/150\n60° will represents (3000/150) * (60/1)\n= 1200 tonnes",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -1744,6 +1792,22 @@
     "examyear": "2008"
   },
   {
+    "id": 507,
+    "question": "On a pie chart there are six sectors of which four angles are 30°, 45°, 60°, 90° and the remaining two angles are in the ratio 2:1. Find the smallest angles of the remaining two angles.",
+    "option": {
+      "a": "15°",
+      "b": "30°",
+      "c": "45°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "30 + 45 + 60 + 90 + 2x + x = 360°\n225 + 3x = 360\n3x = 360 - 225\n3x = 135\nx = 45°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 508,
     "question": "The bar chart above shows the number of times the word a, and , in, it, the , to appear in a paragraph in a book. What is the ratio of the least frequent word?",
     "option": {
@@ -1820,6 +1884,22 @@
     "image": "",
     "answer": "a",
     "solution": "p=√((rs<sup>3</sup>)/t) = p<sup>2</sup> = (rs<sup>3</sup>)/t tp<sup>2</sup> = rs<sup>3</sup> r=(p<sup>2</sup> t)/s<sup>3</sup> ",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 536,
+    "question": "Find the range of values of x for which 3x - 7 ≤ 0 and x + 5 > 0?",
+    "option": {
+      "a": "-5 < x < 7/3",
+      "b": "-5 ≤ x ≤ 7/3",
+      "c": "-5 < x ≤ 7/3",
+      "d": "-5 ≤ x < 7/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "3x - 7 ≤ 0 and x + 5 > 0\n3x ≤ 7 and x > -5\nx ≤ 7/3\n∴ Range -5 < x ≤ 7/3",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -2000,6 +2080,22 @@
     "examyear": "2010"
   },
   {
+    "id": 607,
+    "question": "Evaluate []",
+    "option": {
+      "a": "5y - 2x -18 = 0",
+      "b": "102",
+      "c": "-102",
+      "d": "-42"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128564/ALOC-Questions/Mathematics/2010/MATH_2010_Q36_wecmvb.jpg",
+    "answer": "c",
+    "solution": "= 2(6 - 27) - 0(4 - 24) + 5(36 - 48)\n\n= 2(-21) - 0 + 5(-12)\n\n= -42 + 5(-12)\n\n= -42 - 60\n\n= -102",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 610,
     "question": "A cylindrical pipe 50m long with radius 7m has one end open. What is the total surface area of the pipe?\n",
     "option": {
@@ -2108,6 +2204,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129601/ALOC-Questions/Mathematics/2011/MATH_JAMB_2011_Q22_v62583.jpg",
     "answer": "a",
     "solution": "4[(3 x 3) - (-1 x 1)] -2 [(2x 3) - (-1 x -1)] -1 [(2 x 1) - (-1 x 3)]\n\n= 4[9 + 1] -2 [6 - 1] -1 [2 + 3]\n\n= 4(10) - 2(5) - 1(5)\n\n= 40 - 10 - 5\n\n= 25",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 645,
+    "question": "What is the size of each interior angle of a 12-sided regular polygon?",
+    "option": {
+      "a": "120°",
+      "b": "150°",
+      "c": "30°",
+      "d": "180°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Interior angle = (n - 2)180\n\nbut, n = 12\n\n= (12 -2)180\n\n= 10 x 180\n\n= 1800\n\nlet each interior angle = x\n\nx = (n−2)180/n\n\n\nx = 1800/12\n\n\n= 150°",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -2256,6 +2368,22 @@
     "examyear": "2012"
   },
   {
+    "id": 739,
+    "question": "The binary operation * is defined on the set of integers such that p * q = pq + p - q. Find 2 * (3 * 4)",
+    "option": {
+      "a": "11",
+      "b": "13",
+      "c": "15",
+      "d": "22"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "p * q = pq + p - q\n\nFirst execute for 3 * 4\n\n==> 3(4) + 3 - 4 = 12 + 3 - 4 = 11\n\nNow we execute for 2 * 11\n\n==> 2(11) + 2 - 11 = 22 + 2 - 11 = 13",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 743,
     "question": "The angles of a polygon are given by x, 2x, 3x, 4x and 5x respectively. Find the value of x.",
     "option": {
@@ -2348,6 +2476,22 @@
     "image": "",
     "answer": "a",
     "solution": "S.D = √(x−ϰ)<sup>2</sup>/n\n\n\nS.D = √76/5\n\nS.D = 3.9",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 766,
+    "question": "A circular arc subtends angle 150° at the centre of a circle of radius 12cm. Calculate the area of the sector of the arc.",
+    "option": {
+      "a": "30π cm<sup>2</sup>",
+      "b": "60π cm<sup>2</sup>",
+      "c": "120π cm<sup>2</sup>",
+      "d": "150π cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Area of sector = θ/360° × πr<sup2</sup>\n= 150/360 × π × 12<sup>2</sup>\n= 60π cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2012"
   },

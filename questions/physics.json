@@ -448,6 +448,22 @@
     "examyear": "2010"
   },
   {
+    "id": 88,
+    "question": "Which of the following is not true about an object that is projected upwards at angle θ? ",
+    "option": {
+      "a": "the velocity is maximum at the maximum height ",
+      "b": "the acceleration along the horizontal direction is zero ",
+      "c": "the maximum range (Rmax) for an object moving with speed u is given by u2/g ",
+      "d": "the time it takes to get the maximum height is equal to the time it takes to come back to the point of projection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 96,
     "question": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)  ",
     "option": {
@@ -1072,6 +1088,22 @@
     "examyear": "2017"
   },
   {
+    "id": 264,
+    "question": "The instrument to measure the relative density of liquid is",
+    "option": {
+      "a": "thermometer",
+      "b": "hydrometer",
+      "c": "spring balance",
+      "d": "beaker"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A hydrometer is the instrument used to measure the relative density of liquids.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 265,
     "question": "What is the speed of a body vibrating at 50 cyclic per second",
     "option": {
@@ -1212,6 +1244,38 @@
     "image": "",
     "answer": "c",
     "solution": "Dispersion occurs because different colors (wavelengths) of light travel at different speeds in glass, causing them to refract by different amounts and separate into a spectrum.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 291,
+    "question": "The amount of heat needed to raise the temperature of 10kg of Copper by 1K is its",
+    "option": {
+      "a": "specific heat capacity",
+      "b": "latent heat",
+      "c": "heat capacity",
+      "d": "internal energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The amount of heat needed to raise the temperature of 10kg of copper (a specific object) by 1K is its heat capacity.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 294,
+    "question": "Which of the following obeys Ohm's law?",
+    "option": {
+      "a": " all metals",
+      "b": "diode only",
+      "c": "all electrolytes",
+      "d": "glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "All metals (at constant temperature) obey Ohm's law, acting as ohmic conductors with constant resistance.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1484,6 +1548,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nDistance traveled = 50 cm\nTime = 2 s\nDistance between successive crests (wavelength, λ) = 5 cm = 0.05 m\nFrequency (f) = ?\n\nStep 1: Calculate wave speed\nSpeed (v) = Distance/Time\nv = 50/2 = 25 cm/s = 0.25 m/s\nStep 2: Use wave equation\nv = fλ\nRearranging to find frequency:\nf = v/λ\nSubstituting values:\nf = 25/5 = 5 Hz",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 361,
+    "question": "The conductivity of gases at low pressure can be termed as\nI. hot cathode emission\nII. thermo ionic emission\nIII. cold cathode emission\nIV. Field emission",
+    "option": {
+      "a": "I & II",
+      "b": "II & III",
+      "c": " III & IV",
+      "d": " IV & V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The conductivity of gases at low pressure can be termed as cold cathode emission and field emission, both of which occur without heating and are characteristic of gas discharge phenomena.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1888,6 +1968,22 @@
     "examyear": "2022"
   },
   {
+    "id": 470,
+    "question": "Which of the following liquid is a poor conductor of electricity?",
+    "option": {
+      "a": "Distilled water",
+      "b": "Tap water",
+      "c": "Sea water",
+      "d": "Drinking water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Distilled water is free of salts and is a poor conductor of electricity.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 472,
     "question": "The secondary pigments consist of?",
     "option": {
@@ -2240,6 +2336,22 @@
     "examyear": "2023"
   },
   {
+    "id": 548,
+    "question": "Which of the following is NOT a limitation of experimental measurements?",
+    "option": {
+      "a": "Systematic error",
+      "b": "Instrument resolution",
+      "c": "Random errors",
+      "d": "Human error"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Instrument resolution is not a limitation of experimental measurements. It is the smallest change in a measured quantity that can be detected by an instrument. While instrument resolution limits the accuracy of a measurement, it is not a limitation of experimental measurements itself.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 550,
     "question": "The stress experienced by a wire of diameter yπm loaded by a weight y²N is",
     "option": {
@@ -2430,6 +2542,22 @@
     "solution": "A vapour is saturated when the rate of condensation (x) equals the rate of evaporation (y), establishing a dynamic equilibrium where there is no net change in the amount of vapour present.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 603,
+    "question": "For semi conductor to have negative temperature coefficient of resistance implies that",
+    "option": {
+      "a": "their resistance decrease with temperature",
+      "b": "The resistance increase with temperature",
+      "c": "their resistance is constantly changing with temperature",
+      "d": "they have electrons and holes at high temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nA negative temperature coefficient means α < 0\nThis occurs when ΔR < 0 for ΔT > 0\nTherefore: as temperature increases, resistance decreases\nPhysical basis:\nIn semiconductors, higher temperature increases the number of charge carriers (electrons and holes), which increases conductivity and decreases resistance.",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 605,
@@ -3520,6 +3648,22 @@
     "examyear": "2010"
   },
   {
+    "id": 938,
+    "question": "The velocity of sound in air at 16°C is 340 m s⁻¹. What will it be when the pressure is doubled and its temperature raised to 127°C?",
+    "option": {
+      "a": "400 m s⁻¹",
+      "b": "4,000 m s⁻¹",
+      "c": "8,000 m s⁻¹",
+      "d": "160,000 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial temperature, T₁ = 16°C = 16 + 273 = 289 K\nInitial velocity, v₁ = 340 m s⁻¹\nFinal temperature, T₂ = 127°C = 127 + 273 = 400 K\nPressure is doubled (does not affect velocity of sound in air for an ideal gas)\n\nSolution:\n\nStep 1: Formula for velocity of sound in an ideal gas\nVelocity v is proportional to the square root of absolute temperature: v ∝ √T\nTherefore, v₂ / v₁ = √(T₂ / T₁)\n\nStep 2: Substitute values\nv₂ / 340 = √(400 / 289) = 20 / 17\n\nStep 3: Solve for v₂\nv₂ = 340 × (20 / 17) = 20 × 20 = 400 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 940,
     "question": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow.",
     "option": {
@@ -4016,6 +4160,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1071,
+    "question": "Which of the following obeys ohms laws?",
+    "option": {
+      "a": "electroytes",
+      "b": "metals",
+      "c": "diode",
+      "d": "glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Metals obey Ohm's law because they maintain a constant resistance (at constant temperature), resulting in a linear relationship between voltage and current (V = IR). This makes metals ideal for wires, resistors, and other electrical components where predictable, linear behavior is required.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1078,
     "question": "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV",
     "option": {
@@ -4272,6 +4432,22 @@
     "examyear": "2025"
   },
   {
+    "id": 1152,
+    "question": "A machine has an efficiency of 80%. If the input work is 200J, the output work is?",
+    "option": {
+      "a": " 250J",
+      "b": "160J",
+      "c": "120J",
+      "d": "100J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nEfficiency η = 80% = 0.8\nInput work, W_in = 200 J\n\nSolution:\n\nStep 1: Efficiency formula\nEfficiency = (Output work) / (Input work)\n\nStep 2: Rearrange for output work\nOutput work = Efficiency × Input work\n\nStep 3: Substitute values\nOutput work = 0.8 × 200 J = 160 J",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 1156,
     "question": "A well-lagged thin metal rod of length 0.2 m has a temperature gradient of 416 K m⁻¹. If one end is at 233 °C, what is the temperature at the other end?",
     "option": {
@@ -4284,6 +4460,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nLength of rod, L = 0.2 m\nTemperature gradient = 416 K m⁻¹\nTemperature at one end, T₁ = 233 °C\n\nSolution:\n\nStep 1: Interpret temperature gradient\nTemperature gradient = (T₂ – T₁) / L, where T₂ is the temperature at the other end.\n\nStep 2: Rearrange to find T₂\nT₂ – T₁ = temperature gradient × L\nT₂ = T₁ + (temperature gradient × L)\n\nStep 3: Substitute values\nT₂ = 233 °C + (416 K m⁻¹ × 0.2 m)\nNote: A change of 1 K is the same as a change of 1 °C, so we can work in °C directly.\nT₂ = 233 + 83.2 = 316.2 °C",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1159,
+    "question": "The thermal capacity of a body depends on one of the following ",
+    "option": {
+      "a": "Quantity of heat",
+      "b": "Temperature and mass",
+      "c": "Nature and mass",
+      "d": "Mass, volume, and temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The thermal capacity of a body depends on its nature (type of material, which determines specific heat capacity) and mass (amount of material). The relationship is C = mc, where m is mass and c is the specific heat capacity characteristic of the material's nature.",
     "examtype": "utme",
     "examyear": "2025"
   }

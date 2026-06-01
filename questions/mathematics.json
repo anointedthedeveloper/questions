@@ -9600,6 +9600,22 @@
     "examyear": "2011"
   },
   {
+    "id": 639,
+    "question": "Find the sum of the first 18 terms of the series 3, 6, 9,..., 36.",
+    "option": {
+      "a": "505",
+      "b": "513",
+      "c": "433",
+      "d": "635"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "3, 6, 9,..., 36.\n\na = 3, d = 3, i = 36, n = 18\n\nS<sub>n</sub> = n/2\n [2a + (n - 1)d\n\nSS<sub>18</sub> = 18/2\n [2 x 3 + (18 - 1)3]\n\n= 9[6 + (17 x 3)]\n\n= 9 [6 + 51] = 9(57)\n\n= 513",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 640,
     "question": "The seconds term of a geometric series is 4 while the fourth term is 16. Find the sum of the first five terms",
     "option": {

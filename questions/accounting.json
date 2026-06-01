@@ -4928,6 +4928,22 @@
     "examyear": "2020"
   },
   {
+    "id": 786,
+    "question": "Use the information below to answer this question\n\nA machine bought for ₦35,000 was estimated to have a life span of 5 years with a scrap value of ₦9000.\n \n\nThe yearly depreciation using the straight-line method would be\n",
+    "option": {
+      "a": "₦5200",
+      "b": "₦800",
+      "c": "₦6500",
+      "d": "₦4400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "COGS = Cost – Scrap Value = 35,000 – 9,000 = ₦26,000\nAnnual Depreciation = COGS ÷ Useful Life = 26,000 ÷ 5 = ₦5,200",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 787,
     "question": "Use the information below to answer this question\n\nA machine bought for ₦35,000 was estimated to have a life span of 5 years with a scrap value of ₦9000.\n\nIf the scrap value is presently ₦15,000 what will be the yearly depreciation using straight-line method?",
     "option": {
@@ -8432,6 +8448,22 @@
     "examyear": "1998"
   },
   {
+    "id": 1376,
+    "question": "<b>Use the information below to answer questions 11 and 12.   The initial imprest as at July 1st was ₦500. Petty cash voucers with the custodian by July 15th added up to ₦394. An IOU slip received from a co-worker was ₦65 and there was a shorage of ₦5 cash. The co-worker made refund on July 18th just before the imprest was replenished.</b>\n\n\n\nThe amount required to replenish the payments made from the imprest was?",
+    "option": {
+      "a": "₦399",
+      "b": "₦394",
+      "c": "₦358",
+      "d": "₦101"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the amount required to replenish the imprest, determine what actual payments were made from the fund.\nGiven information:\n\nInitial imprest: ₦500\nPetty cash vouchers: ₦394\nIOU from co-worker: ₦65\nCash shortage: ₦5\nCo-worker made refund on July 18th (before replenishment)\n\nAnalysis:\nThe amount needed to replenish the imprest equals the actual payments made from the fund.\nActual payments made:\n\nPetty cash vouchers represent legitimate business expenses: ₦394\nCash shortage represents money that's missing/lost: ₦5\nIOU is NOT a payment - it's money lent to co-worker (and was refunded before replenishment)\n\nTotal amount to replenish:\n₦394 + ₦5 = ₦399\nSince the co-worker refunded the ₦65 before replenishment, this doesn't need to be included in the replenishment amount.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
     "id": 1378,
     "question": "Mayana Corporation uses special journals to record its transactions. If one of Mayana's customers returns merchandize purchased with cash (for a refund), it makes an entry in the?",
     "option": {
@@ -8732,6 +8764,22 @@
     "image": "",
     "answer": "d",
     "solution": "When you pay off a liability (e.g., cash is paid to settle a creditor), your cash (an asset) goes down and your liability is extinguished (goes down) by the same amount.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1422,
+    "question": "The term 'posting' in Accounting refers to",
+    "option": {
+      "a": "recording entries in the journal",
+      "b": "transferring the balance in the ledger to the trial balance",
+      "c": "tracing amounts from the journal to the ledger to find errors",
+      "d": " transferring entries to the ledger from the journal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "“Posting” is the process of taking each transaction that’s been initially recorded in the journal and entering it into the appropriate accounts in the general ledger. This ensures that each ledger account reflects all related transactions for accurate account balances.",
     "examtype": "utme",
     "examyear": "1997"
   },

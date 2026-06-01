@@ -7536,6 +7536,22 @@
     "examyear": "2022"
   },
   {
+    "id": 488,
+    "question": "The eclipse of the moon occurs when?",
+    "option": {
+      "a": "the moon reflects the rays from the sun to the earth",
+      "b": "the moon comes exactly between the earth and the sun",
+      "c": " the earth comes exactly between the moon and the sun",
+      "d": "the sun comes exactly between the earth and the moon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A lunar eclipse (eclipse of the moon) occurs when Earth passes directly between the sun and moon, casting Earth's shadow onto the moon's surface. This can only happen during a full moon when the three celestial bodies are aligned.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 489,
     "question": "The gravitational pull on the moon is 1/6 that of the earth. If a body weighs 6.0 N on the moon, what will be the weight on the earth?",
     "option": {

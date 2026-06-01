@@ -464,6 +464,22 @@
     "examyear": "3"
   },
   {
+    "id": 173,
+    "question": "The following are types of life assurances,  except",
+    "option": {
+      "a": "annuity",
+      "b": "Endowment",
+      "c": "Hire purchase",
+      "d": "Whole life"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 177,
     "question": "Any circumstance that promotes the probability of a loss is called",
     "option": {
@@ -663,6 +679,22 @@
       "b": "single contract",
       "c": "multilateral contract",
       "d": "unilateral contract"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 214,
+    "question": "Assurance is a contract that is based on",
+    "option": {
+      "a": "negativity",
+      "b": "possibility",
+      "c": "positivity",
+      "d": "probability"
     },
     "section": "",
     "image": "",
@@ -971,6 +1003,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 274,
+    "question": "A reinsurance contract in which the reassured agrees to offer and the reinsurer agrees to accept all risks of certain size within a defined class is",
+    "option": {
+      "a": "underwriting",
+      "b": "treaty",
+      "c": "tort",
+      "d": "syndicate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "5"

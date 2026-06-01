@@ -144,6 +144,22 @@
     "examyear": "2016"
   },
   {
+    "id": 168,
+    "question": "Alaka who owed Saka N15, 000, settled his deb  after- deducting cash discount of 10%. To record the discount in the book of Saka, debit",
+    "option": {
+      "a": "Saka’s account and credit discount received account",
+      "b": "Alaka’s account and credit discount received account",
+      "c": "discount received account andcredit Alaka’s account",
+      "d": "discount allowed account and credit Alaka’s account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 173,
     "question": "A suspense account is used to",
     "option": {
@@ -489,6 +505,22 @@
       "d": "D62,000"
     },
     "section": " Use the following information to answer question: Branch stock account (at selling price)  D346,000 - debit Branch mark-up account D62,000 - debit",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 391,
+    "question": "The principle of double entry book - keeping states that",
+    "option": {
+      "a": "every debtor must have a creditor",
+      "b": "every account debited must be immediately credited",
+      "c": "for every debit entry, there must be a corresponding credit entry",
+      "d": "for every double debit, there must be a double credit."
+    },
+    "section": "",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -1452,6 +1484,22 @@
     "image": "",
     "answer": "a",
     "solution": "Debit Cash: Increases the head office’s cash balance when it receives the remittance.\n\nCredit Branch Current Account: Reduces the receivable (or clears the liability) from the branch’s current account, since the branch has now funded that amount.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1263,
+    "question": "<b>Use the information below to answer questions 49 and 50</b>\n\nGiven PTF Trial balance (Extract) as at 31 December 1999 showing: Cash ₦2,000 (Dr), Investments ₦3,000 (Dr), Accounts receivable ₦6,000 (Dr), and Fund balance ₦11,000 (Cr). Assuming all the investments realized ₦4m, what will be the ending fund balance?",
+    "option": {
+      "a": "₦8m",
+      "b": "₦12,000",
+      "c": "₦13m",
+      "d": "₦16m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate gain/loss on investments\n\nCost of investments (from trial balance): ₦3,000\nRealization value: ₦4,000\nGain on disposal = ₦4,000 - ₦3,000 = ₦1,000\n\nStep 2: Calculate ending fund balance\n\nOpening fund balance: ₦11,000\nAdd: Gain on disposal of investments: ₦1,000\nEnding fund balance = ₦11,000 + ₦1,000 = ₦12,000",
     "examtype": "utme",
     "examyear": "2001"
   },

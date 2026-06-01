@@ -1200,6 +1200,22 @@
     "examyear": "2018"
   },
   {
+    "id": 288,
+    "question": "A narrow beam of white light can be split up into different Colours by a glass prism. The correct explanation is that",
+    "option": {
+      "a": "white light Is an electromagnetic wave",
+      "b": "the prism has all the colours of the white light",
+      "c": "different colours of white light travel with different speeds in glass",
+      "d": "white light has undergone total Internal reflection in the prism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Dispersion occurs because different colors (wavelengths) of light travel at different speeds in glass, causing them to refract by different amounts and separate into a spectrum.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 300,
     "question": "The pitch of an acoustic device can be increased by",
     "option": {
@@ -1916,6 +1932,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nFrequency, f = 312 Hz\nWavelength, λ = 1.10 m\nVelocity, v = ?\n\nSolution:\nUsing the wave equation:\nv = fλ\nStep 1: Substitute the known values\nv = 312 × 1.10\nStep 2: Calculate the velocity\nv = 343.2 m/s",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 477,
+    "question": "According to kinetic molecular model in gases,",
+    "option": {
+      "a": "the particles are closely packed together; they occupy minimum space are usually arranged in a regular pattern",
+      "b": "the particles vibrate about fixed positions and are held together by the strong intermolecular bonds between them",
+      "c": "the molecules are very far apart and occupy all the spaces made available to them",
+      "d": "the particles occur in clusters with molecules slightly further apart"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The model, called the kinetic theory of gases, assumes that the molecules are very small relative to the distance between molecules.\n\nThe molecules are in constant, random motion and frequently collide with each other and with the walls of any container.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -2976,6 +3008,22 @@
     "examyear": "2007"
   },
   {
+    "id": 770,
+    "question": "A charge 50 µC has electric field strength of 360 NC⁻¹ at a certain point. The electric field strength due to another charge 120 µC kept at the same distance apart and in the same medium is?",
+    "option": {
+      "a": "864 NC⁻¹",
+      "b": " 150 NC⁻¹",
+      "c": "144 NC⁻¹",
+      "d": "18 NC⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCharge 1 (Q₁) = 50 µC\nElectric field at point (E₁) = 360 NC⁻¹\nCharge 2 (Q₂) = 120 µC\nDistance and medium remain same\nElectric field due to Q₂ (E₂) = ?\n\nUnderstanding electric field:\nElectric field strength (E) is directly proportional to the charge (Q):\nE ∝ Q (at constant distance and medium)\nFormula:\nE = kQ/r²\nSince k (constant), r (distance), and medium are the same:\nE₁/E₂ = Q₁/Q₂\nSetting up proportion:\n360/E₂ = 50/120\nSolving for E₂:\nE₂ = (360 × 120)/50\nE₂ = 43,200/50\nE₂ = 864 NC⁻¹\nAlternative approach:\nRatio of charges = 120/50 = 2.4\nE₂ = E₁ × 2.4\nE₂ = 360 × 2.4\nE₂ = 864 NC⁻¹",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 785,
     "question": "from the diagram above, the inductive reactance and the resistance R are respectively",
     "option": {
@@ -3436,6 +3484,22 @@
     "image": "",
     "answer": "d",
     "solution": "High voltage and low current are used to prevent overheating of the transmission lines.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 931,
+    "question": "The ground state energy for the hydrogen atom is 5.44 × 10⁻¹⁹ J. If an electron drops from zero energy to the ground state, calculate the frequency of the emitted radiation. [h = 6.6 × 10⁻³⁴ Js]",
+    "option": {
+      "a": " 8.24 × 10¹⁴ Hz",
+      "b": "3.59 × 10⁻⁵³ Hz",
+      "c": " 8.24 × 10¹⁵ Hz",
+      "d": "1.21 × 10⁻⁵³ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nGround state energy = -5.44 × 10⁻¹⁹ J (negative, bound state)\nInitial energy (zero energy level) = 0 J\nPlanck's constant (h) = 6.6 × 10⁻³⁴ Js\nFrequency of emitted radiation (f) = ?\n\nUnderstanding the process:\nWhen an electron drops from zero energy (ionization level) to the ground state, it emits a photon.\nStep 1: Calculate energy of emitted photon\nEnergy of photon = Initial energy - Final energy\nE = 0 - (-5.44 × 10⁻¹⁹)\nE = 5.44 × 10⁻¹⁹ J\nStep 2: Calculate frequency using Planck's equation\nE = hf\nRearranging for frequency:\nf = E/h\nSubstituting values:\nf = (5.44 × 10⁻¹⁹)/(6.6 × 10⁻³⁴)\nf = 0.824 × 10⁻¹⁹⁺³⁴\nf = 0.824 × 10¹⁵\nf = 8.24 × 10¹⁴ Hz",
     "examtype": "utme",
     "examyear": "2010"
   },

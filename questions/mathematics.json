@@ -176,6 +176,22 @@
     "examyear": "2008"
   },
   {
+    "id": 44,
+    "question": "With replacement ",
+    "option": {
+      "a": "0.9,",
+      "b": "1, ",
+      "c": "0.4,",
+      "d": "0.49"
+    },
+    "section": "A bag contains 10 balls of which 3 are red 7 are white. Two balls are drawn at random. Find the probability   of none of the balls is red if the draw is",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 49,
     "question": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?. ",
     "option": {
@@ -1500,6 +1516,22 @@
     "image": "",
     "answer": "b",
     "solution": "3/5÷(2/7×4/3÷4/9)=3/5÷(2/7×4/3×9/4)=3/5÷6/7=3/5×7/6=7/10",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 458,
+    "question": "The volume of a hemispherical bowl is 718(2/3)\n. Find its radius .",
+    "option": {
+      "a": " 4.0 cm",
+      "b": " 5.6 cm",
+      "c": "7.0 cm",
+      "d": "3.8 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Volume of bow   2/3 πr<sup>2</sup> 718 2/3=2/3 πr<sup>2</sup>  2156/3=2/3×22/7×r<sup>3</sup> ∴ r<sup>3</sup>=(2156×3×7)/(3×2×22) r<sup>3</sup>=343 r=∛343.  r=7.0cm",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -3264,6 +3296,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1025,
+    "question": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room ",
+    "option": {
+      "a": "15/17",
+      "b": "8/17",
+      "c": "8/15",
+      "d": "12/17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "ABCD is the floor. By pathagoras \n\nAC<sup>2</sup> = 144 + 81 =√225\n \n\nAC = 15cm\n\nHeight of room 8m, diagonal of floor is 15m\n\nTherefore, the cosine of the angle which a diagonal of the room makes with the floor is \n\nEC<sup>2</sup> = 15<sup>2</sup> + 8<sup>2</sup>\n cosine\n\nadj/Hyp = 15/17\n \n\nEC<sup>2</sup> = √(225+64)\nEC = √289\n= 17 ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1027,
     "question": "In a class of 150 students, the sector in a pie chart representing the students offering physics has angle 12°. How many students are offering physics? ",
     "option": {
@@ -3788,6 +3836,22 @@
     "image": "",
     "answer": "d",
     "solution": "The height of the second building H = h + 24\n\ntan θ = opp/adj\ntan 30° = h/x\n⟹3√3 = h/x\n⟹x = √3 = 3h\n⟹x = 3h/√3 ....(i)\n\ntan 60° = 24/x\n⟹√3 = 24x\n⟹x√3 = 24\n⟹x = 24/√3 ....(ii)\n\nEquate equation (i) and (ii)\n\n⟹3h/√3 = 24/√3\n⟹ 3h = 24\n\n⟹h = 24/3 = 8m\n\n∴The height of the second building = 8 + 24 = 32m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1178,
+    "question": "Calculate, correct to three significant figures, the length AB in the diagram above.",
+    "option": {
+      "a": "36.4 cm",
+      "b": "36.1 cm",
+      "c": "36.2 cm",
+      "d": " 36.3 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008055/ALOC-Questions/Mathematics/2023/MATH_2023_Q42_msoqr6.jpg",
+    "answer": "c",
+    "solution": "sinA/a = sinB/b = sinC/c\n⟹sin82<sup>0</sup>/43.2 = sin56<sup>0</sup>/AB\n⟹AB × sin82<sup>0</sup> = 43.2 × sin56<sup>0</sup>\n∴ AB = (43.2 × sin56<sup>0</sup>)/sin82<sup>0</sup>  = 36.2cm (to 3 s.f)",
     "examtype": "utme",
     "examyear": "2023"
   },

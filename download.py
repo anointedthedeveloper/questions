@@ -120,10 +120,10 @@ def pick_key():
 def single_request(subject):
     """One HTTP request for subject, returns valid questions list."""
     idx, headers = pick_key()
-    for attempt in range(3):
+    for attempt in range(6):
         try:
             r = requests.get(BASE_URL, headers=headers,
-                             params={"subject": subject}, timeout=20)
+                             params={"subject": subject}, timeout=30)
             if r.status_code == 429:
                 with key_lock:
                     key_counts[idx] = RATE_LIMIT
@@ -133,10 +133,14 @@ def single_request(subject):
                 if isinstance(data, dict):
                     data = [data]
                 return [q for q in data if q.get("id") and q.get("question")]
+            # transient server error — back off and retry
+            if r.status_code >= 500:
+                time.sleep(min(2 ** attempt, 60))
+                continue
         except Exception as e:
-            if attempt == 2:
-                print(f"  [{subject}] request failed: {e}")
-            time.sleep(2)
+            wait = min(2 ** attempt, 60)
+            print(f"  [{subject}] request error (attempt {attempt+1}/6): {e} — retrying in {wait}s")
+            time.sleep(wait)
     return []
 
 
@@ -218,8 +222,13 @@ def load_progress():
 
 def save_progress(progress):
     with progress_lock:
-        with open(PROGRESS_FILE, "w") as f:
-            json.dump(progress, f, indent=2)
+        try:
+            tmp = PROGRESS_FILE + ".tmp"
+            with open(tmp, "w") as f:
+                json.dump(progress, f, indent=2)
+            os.replace(tmp, PROGRESS_FILE)
+        except Exception as e:
+            print(f"  [progress] save failed: {e}")
 
 
 def verify_and_load(subject):
@@ -258,9 +267,12 @@ def append_questions(subject, new_questions):
     with get_file_lock(subject):
         seen = {}
         if os.path.exists(filepath):
-            with open(filepath, "r", encoding="utf-8") as f:
-                for q in json.load(f):
-                    seen[q["id"]] = q
+            try:
+                with open(filepath, "r", encoding="utf-8") as f:
+                    for q in json.load(f):
+                        seen[q["id"]] = q
+            except Exception as e:
+                print(f"  [{subject}] file read error during append: {e} — using in-memory data only")
         for q in new_questions:
             seen[q["id"]] = q
         merged = sorted(seen.values(), key=lambda q: int(q.get("id", 0)))
@@ -270,6 +282,14 @@ def append_questions(subject, new_questions):
 
 
 def process_subject(subject, progress):
+    try:
+        _process_subject_inner(subject, progress)
+    except Exception as e:
+        print(f"[{subject}] FATAL unhandled error: {e} — thread exiting")
+        release_subject(subject)
+
+
+def _process_subject_inner(subject, progress):
     if not claim_subject(subject):
         return
 

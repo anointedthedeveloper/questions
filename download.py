@@ -211,6 +211,7 @@ def append_questions(subject, new_questions):
             with open(filepath, "r", encoding="utf-8") as f:
                 existing = json.load(f)
         existing.extend(new_questions)
+        existing.sort(key=lambda q: q.get("id", 0))
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(existing, f, ensure_ascii=False, indent=2)
 

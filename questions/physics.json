@@ -7968,6 +7968,22 @@
     "examyear": "2023"
   },
   {
+    "id": 518,
+    "question": "An air bubble of radius 4.5 cm initially at a depth of 12 m below the water surface rises to the surface. If the atmospheric pressure is equal to 10.34 m of water, the radius of the bubble just before it reaches the water surface is",
+    "option": {
+      "a": "6.43 cm",
+      "b": "8.24 cm",
+      "c": "4.26 cm",
+      "d": "5.82 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial radius, r₁ = 4.5 cm\nInitial depth, h₁ = 12 m\nFinal depth, h₂ = 0 m (at surface)\nAtmospheric pressure = 10.34 m of water\nFinal radius, r₂ = ?\n\nSolution:\nStep 1: Calculate initial pressure\nAt depth h₁:\nP₁ = atmospheric pressure + pressure due to water depth\nP₁ = 10.34 + 12 = 22.34 m of water\nStep 2: Calculate final pressure\nAt the surface:\nP₂ = atmospheric pressure = 10.34 m of water\nStep 3: Calculate initial and final volumes\nV₁ = (4/3)πr₁³ = (4/3)π(4.5)³\nV₂ = (4/3)πr₂³\nStep 4: Apply Boyle's Law (assuming constant temperature)\nP₁V₁ = P₂V₂\n22.34 × (4/3)π(4.5)³ = 10.34 × (4/3)πr₂³\nStep 5: Simplify and solve for r₂\n22.34 × (4.5)³ = 10.34 × r₂³\n22.34 × 91.125 = 10.34 × r₂³\n2035.97 = 10.34 × r₂³\nr₂³ = 2035.97/10.34\nr₂³ = 196.90\nr₂ = ³√196.90\nr₂ = 5.82 cm",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 519,
     "question": "A parallel plate capacitor separated by an air gap is made of 0.8m² tin plates and 20 mm apart. It is connected to 120 V battery. What is the charge on each plate? Take εo = 8.85×10⁻¹²Fm⁻¹",
     "option": {
@@ -10300,6 +10316,22 @@
     "image": "",
     "answer": "a",
     "solution": "I. Reproducibility: A good thermometer should give consistent readings under the same conditions \n\nII. Sensibility (sensitivity): A good thermometer should detect small temperature changes\n\nIV. High accuracy: A good thermometer should give readings close to the true value.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 672,
+    "question": "The process whereby a liquid turns spontaneously into vapour is called?",
+    "option": {
+      "a": "regelation",
+      "b": "sublimation",
+      "c": "boiling",
+      "d": "evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Evaporation is a process by which molecules undergo a spontaneous transition from the liquid phase to the gaseous phase",
     "examtype": "utme",
     "examyear": "2005"
   },

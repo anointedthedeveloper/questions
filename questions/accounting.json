@@ -2080,6 +2080,22 @@
     "examyear": "2014"
   },
   {
+    "id": 374,
+    "question": "When shares are issued above their nominal value, the \texcess above the nominal value is",
+    "option": {
+      "a": "credited to Profit and Loss Account",
+      "b": "debited to Share Premium Account",
+      "c": "credited to Share Capital Account",
+      "d": "credited to share Premium Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 376,
     "question": "The accounting ratio used to measure the average number of days for which suppliers remain unpaid is",
     "option": {
@@ -2816,6 +2832,22 @@
     "examyear": "2015"
   },
   {
+    "id": 539,
+    "question": "The act of making necessary adjustment after comparing the actual cost with targeted cost is cost ----------------------------",
+    "option": {
+      "a": "conversion",
+      "b": "control",
+      "c": "allocation",
+      "d": "analysis"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The process of reviewing actual costs against targeted (or budgeted) costs and then making the necessary corrective adjustments is known as cost control.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 540,
     "question": "Sales ledger control account contains the total amount in respect of",
     "option": {
@@ -3296,6 +3328,22 @@
     "examyear": "2017"
   },
   {
+    "id": 627,
+    "question": "Processed data is only useful to user if it is",
+    "option": {
+      "a": "complex",
+      "b": "quantitative",
+      "c": "relevant",
+      "d": "qualitative"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "first thing to be considered when gathering data is the relevant and usefulness of the data or information before considering the qualitative aspect and other things\nRelevant : even if the information of data is not processed, if the processed data is relevant, it will be useful to the user",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 628,
     "question": "Changes can occur in partnership when:\ni. partnership is dissolved\nii. There is amalgamation of partnership\niii.There is a change in the profit or loss sharing ratio\nIv. Intangible asset increase",
     "option": {
@@ -3436,6 +3484,22 @@
     "image": "",
     "answer": "d",
     "solution": "Using the debtors account to find sales:\nDebtors Account Movement:\nOpening Balance + Sales - Cash Received - Bad Debts - Discount Allowed = Closing Balance\nSubstituting the values:\n₦4,000 + Sales - ₦8,500 - ₦350 - ₦500 = ₦1,500\nSolving for Sales:\n₦4,000 + Sales - ₦9,350 = ₦1,500\nSales = ₦1,500 + ₦9,350 - ₦4,000\nSales = ₦10,850 - ₦4,000\nSales = ₦6,850\nNote: Discount received (₦1,000) is not relevant to the debtors account as it relates to creditors/suppliers, not customers.\nThe sales for the year is ₦6,850.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 652,
+    "question": "The discount column on the left-hand side of cashbook represents a discount",
+    "option": {
+      "a": "received from a creditor",
+      "b": "allowed to a debtor",
+      "c": "received from a debtor",
+      "d": "allowed to a creditor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Allowed to a debtor: the debit side of the cashbook is where all proceeds from sales are recorded and have to be matched with the discount allowed to the debtor /creditor",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3996,6 +4060,22 @@
     "image": "",
     "answer": "a",
     "solution": "To calculate the cost of raw materials consumed, use the formula:\nCost of Raw Materials Consumed = Opening Stock of Raw Materials + Purchases + Carriage Inwards - Closing Stock of Raw Materials\nCalculation:\nCost of Raw Materials Consumed = ₦32,160 + ₦145,000 + ₦7,000 - ₦29,640\nCost of Raw Materials Consumed = ₦184,160 - ₦29,640 = ₦154,520\nTherefore, the cost of raw materials consumed is ₦154,520.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 736,
+    "question": "Given the following manufacturing information: stock of finished goods on January 1st was ₦50,640 and on December 31st was ₦71,380; stock of raw materials on January 1st was ₦32,160 and on December 31st was ₦29,640; purchase of raw materials was ₦145,000; manufacturing wages were ₦52,000; depreciation on factory equipment was ₦16,500; direct expenses were ₦12,500; factory fuel cost ₦7,000; and carriage inwards on raw materials was ₦7,000, What is the Total Prime Cost?",
+    "option": {
+      "a": "₦220,480",
+      "b": "₦219,020",
+      "c": "₦200,480",
+      "d": "₦190,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Total Prime Cost:\nPrime Cost = Cost of Raw Materials Consumed + Manufacturing Wages + Direct Expenses\nPrime Cost = ₦154,520 + ₦52,000 + ₦12,500 = ₦219,020",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -5456,6 +5536,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1001,
+    "question": "Cash received from the subscribed shares is recorded by debting?",
+    "option": {
+      "a": "application, allotment and crediting cash",
+      "b": "allotment and crediting cash",
+      "c": "cash and crediting subscribed shares",
+      "d": "cash, crediting application and allotment account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When cash is received from subscribed shares, the journal entry is:\nDebit: Cash Account (cash is coming into the company)\nCredit: Application and Allotment Account (to record the liability to issue shares)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1003,
     "question": "A source of revenue that is compulsory payment without any derived benefit is?",
     "option": {
@@ -6108,6 +6204,22 @@
     "image": "",
     "answer": "c",
     "solution": "In a balance sheet, assets can be arranged:\n\nOrder of liquidity → listing assets based on how quickly they can be converted into cash.\n\nVertical order → presenting the items in a top-to-bottom format.\n\nSo, the order in which assets are arranged is order of liquidity and vertical order.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1129,
+    "question": "<b>Use the information below to answer questions 15 and 16</b>\n\nWhat is the capital employed?",
+    "option": {
+      "a": "₦25,690",
+      "b": "₦43052",
+      "c": "₦43 044",
+      "d": "₦38600"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663151/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q15-16_s3clfz.png",
+    "answer": "a",
+    "solution": "Capital Employed = Fixed Assets + Working Capital\nor alternatively:\nCapital Employed = Total Assets - Current Liabilities\nFrom the given information:\nFixed Assets:\n\nLand and building: ₦8,470\nFurniture and fittings: ₦5,120\nMotor Vehicles: ₦3,462\nTotal Fixed Assets = ₦17,052\n\nCurrent Assets:\n\nClosing Stock: ₦3,000\nDebtors: ₦11,474\nCash: ₦1,518\nTotal Current Assets = ₦15,992\n\nCurrent Liabilities:\n\nCreditors: ₦7,354\n\nCalculation:\nMethod 1: Capital Employed = Total Assets - Current Liabilities\nTotal Assets = Fixed Assets + Current Assets = ₦17,052 + ₦15,992 = ₦33,044\nCapital Employed = ₦33,044 - ₦7,354 = ₦25,690\nMethod 2: Capital Employed = Fixed Assets + Working Capital\nWorking Capital = Current Assets - Current Liabilities = ₦15,992 - ₦7,354 = ₦8,638\nCapital Employed = ₦17,052 + ₦8,638 = ₦25,690",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -7152,6 +7264,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1313,
+    "question": "A major benefit derived from the reconciliation of branch and head office books is to?",
+    "option": {
+      "a": "determine accurate returns by the branch",
+      "b": " ascertian the correct profit or loss on branch activities",
+      "c": "enable the branch to keep control over stock",
+      "d": "enable the branch to ascertain debtor's balance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The primary benefit of reconciling branch and head office records is to ensure that all inter‐company transfers, stock movements, and adjustments have been correctly recorded, allowing the head office to determine the true profit or loss generated by the branch.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1315,
     "question": "Accrual concept stipulates that?",
     "option": {
@@ -7340,6 +7468,22 @@
     "image": "",
     "answer": "a",
     "solution": "To find the net profit of the partnership, Add up all the appropriations from the Appropriation Account.\nGiven information from Appropriation Account:\n\nKudu's interest on capital: ₦750\nWale's interest on capital: ₦550\nKudu's salary: ₦800\nWale's salary: ₦600\nKudu's share of profits: ₦3,300\nWale's share of profits: ₦3,300\n\nCalculation:\nThe net profit equals the total of all appropriations:\nInterest on capital: ₦750 + ₦550 = ₦1,300\nSalaries: ₦800 + ₦600 = ₦1,400\nShare of profits: ₦3,300 + ₦3,300 = ₦6,600\nTotal net profit = ₦1,300 + ₦1,400 + ₦6,600 = ₦9,300",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1355,
+    "question": "If a promoter pays a lawyer ₦5,000 for services rendered in preparing a Memorandum of Incorporation, the journal entry is to debit?",
+    "option": {
+      "a": "preliminary expenses, credit cash accounts",
+      "b": "promoter, credit creditors' accounts",
+      "c": " lawyer's credit cash accounts",
+      "d": "cash , credit incorporation accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Dr. Preliminary Expenses ₦5,000\n  Cr. Cash ₦5,000\n\nSo you debit Preliminary Expenses and credit Cash",
     "examtype": "utme",
     "examyear": "1999"
   },

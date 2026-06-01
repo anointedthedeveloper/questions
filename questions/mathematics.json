@@ -18288,6 +18288,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1255,
+    "question": "Factorize x<sup>2</sup> −2x−15",
+    "option": {
+      "a": "(x + 3)<sup>2</sup> ",
+      "b": " (x + 5)(x − 3)",
+      "c": " (x − 5)<sup>2</sup> ",
+      "d": " (x − 5)(x + 3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x2<sup>2</sup>  − 2x − 15\n\n(x<sup>2</sup>  − 5x) + (3x − 15)\n\nx(x − 5)+ 3(x − 5)\n\n(x − 5)(x + 3)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1256,
     "question": "If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point",
     "option": {

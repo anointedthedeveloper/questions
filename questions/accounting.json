@@ -3760,6 +3760,22 @@
     "examyear": "2019"
   },
   {
+    "id": 756,
+    "question": "The difference between double entry and single entry is",
+    "option": {
+      "a": " double entry is based on the dual concept while single entry is not based on dual concept",
+      "b": "double entry is an account while single entry is not an account",
+      "c": "double entry keeps personal account while single does not",
+      "d": "double entry is useful for business enterprise while single entry is not"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Double entry is based on dual concept, i.e two-fold aspect of transaction whereby single entry ignored the principle of double entry.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 763,
     "question": "Shares that are offered to existing shareholders at a price is called",
     "option": {
@@ -4060,6 +4076,22 @@
     "image": "",
     "answer": "b",
     "solution": "When a personal account (e.g. a customer’s account) appears on the debit side of the cashbook (showing cash received), the corresponding entry is a credit in that customer’s ledger account. This follows the rule for personal accounts: debit the giver, credit the receiver. Here, the business (receiver of cash) is debited, so the customer (giver of cash) is credited in the ledger.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 831,
+    "question": "The prime cost is the total of the",
+    "option": {
+      "a": " direct materials+direct labour+direct wages",
+      "b": " production cost+selling expenses",
+      "c": "administrative expenses+selling expenses+distribution expenses",
+      "d": "direct materials+work overhead expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Prime cost is the sum of all direct production costs—namely the cost of materials that go into the product, the labour directly involved in making it, and any direct wages or direct expenses tied to production.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -4912,6 +4944,22 @@
     "examyear": "2008"
   },
   {
+    "id": 988,
+    "question": "<b>Use the information below to answer questions 23 to 24.</b>\n\n\t\t\t   31 Dec. 05........31 Dec. 06\nTotal fixed assets.........₦7,800............₦6,600\nTotal current assets.......₦12,100............₦17,800\nTotal current liabilities..₦4,700............₦3,800\nDrawings for 2006 is ₦5,200.\n\nWhat is the net profit for 2006?",
+    "option": {
+      "a": "₦19 000",
+      "b": "₦16 000",
+      "c": "₦12 600",
+      "d": "₦10 600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Opening Capital + ₦et Profit - Drawings = Closing Capital\nStep 1: Calculate Opening Capital (Dec. 31, 2005)\n\nTotal Assets = ₦7,800 + ₦12,100 = ₦19,900\nTotal Liabilities = ₦4,700\nOpening Capital = ₦19,900 - ₦4,700 = ₦15,200\n\nStep 2: Calculate Closing Capital (Dec. 31, 2006)\n\nTotal Assets = ₦6,600 + ₦17,800 = ₦24,400\nTotal Liabilities = ₦3,800\nClosing Capital = ₦24,400 - ₦3,800 = ₦20,600\n\nStep 3: Calculate ₦et Profit for 2006\nUsing the formula: ₦et Profit = Closing Capital - Opening Capital + Drawings\n₦et Profit = ₦20,600 - ₦15,200 + ₦5,200\n₦et Profit = ₦5,400 + ₦5,200 = ₦10,600",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 989,
     "question": "The floor space occupied by manufacturing and administration departments in a company is 200 sqm and 300 sqm respectively. ₦20 000 rent incurred is shared using floor space occupied. How much is the rent chargeable to manufacturing?",
     "option": {
@@ -5292,6 +5340,22 @@
     "image": "",
     "answer": "c",
     "solution": "The imprest (petty cash) account records small day-to-day payments and is controlled by the main cash book (or bank book) — the cash book is the controlling account and the imprest/petty cash is a subsidiary petty-cash ledger that gets replenished from the cash book.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1074,
+    "question": "The three-column cash book differs from the two-column cash book in",
+    "option": {
+      "a": "Cash column,",
+      "b": "Discount column",
+      "c": "Bank column,",
+      "d": "Folio column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The three-column cash book differs from the two-column cash book by having an additional discount column.",
     "examtype": "utme",
     "examyear": "2004"
   },

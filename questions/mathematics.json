@@ -4928,6 +4928,22 @@
     "examyear": "2005"
   },
   {
+    "id": 327,
+    "question": "Evaluate ((〖81〗<sup>(3/4)</sup> -〖27〗<sup>(1/3)</sup>)))/(3×2^3 )",
+    "option": {
+      "a": "3",
+      "b": "1",
+      "c": " 1/3",
+      "d": " 1/8"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mn>81</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>3</mn>\n            <mn>4</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <msup>\n        <mn>27</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mn>1</mn>\n            <mn>3</mn>\n          </mfrac>\n        </mrow>\n      </msup>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <msup>\n        <mn>2</mn>\n        <mn>3</mn>\n      </msup>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(81<sup>(3/4)</sup> - 27<sup>(1/3)</sup>)/(3×2<sup>3</sup> )=((3<sup>(3-3/4)</sup>-33<sup>(3-3/4)</sup>))/(3×2<sup>3</sup> )=(3<sup>3</sup> -3)/(3 ×8) = (27 - 3 ) / 24 = 24/24 = 1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 328,
     "question": "If Log<sub>10</sub> 2 = 0.3010 and Log<sub>10</sub>3 = 0.4771, evaluate Log<sub>10</sub>4.5",
     "option": {

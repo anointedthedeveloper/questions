@@ -64,6 +64,22 @@
     "examyear": "2014"
   },
   {
+    "id": 12,
+    "question": "A prospective insured in an engineering insurance may be advised to purchase one of the following classes of insurance",
+    "option": {
+      "a": "fire cover",
+      "b": "boiler cover",
+      "c": "tempest cover",
+      "d": "equipment cover"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 13,
     "question": "The class of non-life insurance policy where cover note is issued is",
     "option": {
@@ -1824,6 +1840,22 @@
     "examyear": "3"
   },
   {
+    "id": 198,
+    "question": "A payment made by insurer as a form of sympathy to maintain goodwill is",
+    "option": {
+      "a": "Compensation payment",
+      "b": "Contract payment",
+      "c": "Charity payment",
+      "d": "Ex - gratia payment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 199,
     "question": "The policy that provides protection for goods or cargoes and ships against the perils of the sea is",
     "option": {
@@ -2203,6 +2235,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 240,
+    "question": "One of these shows the introduction to the details of the insurance policy, parties as well as the premium for the contract",
+    "option": {
+      "a": "preamble",
+      "b": "heading",
+      "c": "exception",
+      "d": "condition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -2752,6 +2800,22 @@
     "examyear": "5"
   },
   {
+    "id": 295,
+    "question": "Business interruption insurance can also be called",
+    "option": {
+      "a": "consequential loss",
+      "b": "constructive loss",
+      "c": "partial  loss",
+      "d": "general loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 297,
     "question": "The  factor  that has  the  tendency  to  increase  the occurrence of a risk is called",
     "option": {
@@ -2859,6 +2923,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 311,
+    "question": "Which  of  the  following  statements  is  true  about property insurance?",
+    "option": {
+      "a": "The probability that the event may occur",
+      "b": "The probability that the event will not occur",
+      "c": "The probability that the event may or may not occur",
+      "d": "The probability that the event must occur"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

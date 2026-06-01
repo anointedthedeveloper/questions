@@ -2048,6 +2048,22 @@
     "examyear": "2015"
   },
   {
+    "id": 131,
+    "question": "Boyle’s law may be Written as",
+    "option": {
+      "a": "P1V1= P2V2",
+      "b": "V1 = V2 ÷ T1T2",
+      "c": "P1T1 = P2T2",
+      "d": "P1V1 ÷ T1 = P1V1 ÷ T2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Boyle‘s law stats that the volume of a given mass of a gas, at a constant temperature is inversely proportional to us pressure.\n\nMathematically\n\nV ∝ l/p, v = k/p (where k is constant)\n\nK = VP\n\nLet k = k1\n\nThen, if k = k, V and P = V1P1\n\nV1P1 = V2P2",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 132,
     "question": "The direction of the path taken by light is called",
     "option": {
@@ -14380,6 +14396,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435489/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_35_zmxbxg.png",
     "answer": "a",
     "solution": "Above are the V-t graphs for\nI Uniform acceleration\nII uniform retardation\nIII Uniform velocity\nThus the car has no acceleration between point F and G since that portion of the graph represents uniform velocity",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 935,
+    "question": "The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium?",
+    "option": {
+      "a": " III, IV and VIII",
+      "b": " II, V and VIII",
+      "c": "III, VI and IX",
+      "d": "I, IV and VII"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435552/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_36_ublq2w.png",
+    "answer": "c",
+    "solution": "A bod y is said to be in stable equilibrium if after a slight displacement, the body returns to its former position. Thus, position III, VI and XI represents position of stable equilibrium",
     "examtype": "utme",
     "examyear": "2010"
   },

@@ -12432,6 +12432,22 @@
     "examyear": "2016"
   },
   {
+    "id": 846,
+    "question": "An arc subtends an angle of 30o at the centre of a circle radius 12cm. Calculate the length of the arc.",
+    "option": {
+      "a": "6π cm",
+      "b": " 2π cm",
+      "c": "3π cm",
+      "d": "9π cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Length or arc = θ/360 x 2πr\n\n= 30/360 x 2 x 22/7 x 12\n\n= 1/12 x 2 x π x 2 = 2π cm",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 847,
     "question": "Evaluate ∫<sub>0</sub><sup>π/2</sup> sin xdx",
     "option": {
@@ -12572,6 +12588,22 @@
     "image": "",
     "answer": "a",
     "solution": "y = 3x<sup>3</sup>  + 2x<sup>2</sup>  + 3x + 1\ndy/dx = 9x<sup>2</sup>  + 4x + 3",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 856,
+    "question": "Evaluate ∫\n(sinx - 5x<sup>2</sup>)dx",
+    "option": {
+      "a": " -cosx - 10x + k",
+      "b": "cosx - 5x<sup>3</sup>/3\n + k",
+      "c": "-cosx - 5x<sup>3</sup>/3 + k",
+      "d": "cosx - 10x + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫ (sin x - 5x<sup>2</sup>) = -cosx - 5x<sup>3</sup>/3 + k",
     "examtype": "utme",
     "examyear": "2016"
   },

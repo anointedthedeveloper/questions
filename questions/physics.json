@@ -78,5 +78,85 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 1028,
+    "question": "I. Rays of light travel from a less dense medium to a denser medium.\nII. The angle of incidence is greater than critical angle.\nIII. Rays of light travel from a denser medium to a less dense medium.\n\nWhich of the statements above are conditions for total internal reflection to occur?",
+    "option": {
+      "a": " I and II only",
+      "b": "I and III only",
+      "c": "II and III only",
+      "d": "II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The conditions for total internal reflection are II and III only.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 510,
+    "question": "Name the type of equilibrium for each position of the ball",
+    "option": {
+      "a": "A - unstable, B - neutral, C - stable",
+      "b": "A - stable, B - neutral, C - unstable",
+      "c": "A - stable, B - unstable, C - neutral",
+      "d": "A - unstable, B - stable, C - neutral"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614783/ALOC-Questions/Physics/2023/physics_2023-Q11_nw4jov.jpg",
+    "answer": "d",
+    "solution": "Object A will undergo unstable equilibrium as it can move farther from its original position\n\nObject B will undergo stable equilibrium as it can return to its original position\n\nObject C will undergo neutral equilibrium as it can remain in a new position",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1026,
+    "question": "After reflection from the concave mirror, rays of light from the sun converges",
+    "option": {
+      "a": "at the radius of curvature",
+      "b": " at the focus",
+      "c": "beyond the radius of curvature",
+      "d": " between the focus and radius of curvature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "After reflection from a concave mirror, rays of light from the sun (which are parallel rays) converge at the focus. This is the fundamental property that defines the focal point of a concave mirror.\nPractical example: If you hold a concave mirror in sunlight and place paper at the focal point, the concentrated solar energy can ignite the paper, demonstrating how all the parallel sun rays converge at this single point.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 397,
+    "question": "When a sound wave passes from air into water its ",
+    "option": {
+      "a": "speed and frequency increases but its wavelength remains the same",
+      "b": "speed and wavelength increases but its frequency remains the same",
+      "c": "speed decreases",
+      "d": " speed increases but its frequency and wavelength decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When sound passes from air into water, its speed and wavelength both increase while its frequency remains constant.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 673,
+    "question": "Which combination of the above is evident of the molecular nature of matter?\nI. Melting\nII. Boiling\nIII. Refraction\nIV. Conduction",
+    "option": {
+      "a": "II, III and IV only",
+      "b": "I, II and IV only",
+      "c": "I, III and IV only",
+      "d": "I, II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "I. Melting: Solid to liquid transition; molecules gain energy to overcome fixed positions, showing molecular motion and interactions.\n\nII. Boiling: Liquid to gas transition; molecules gain enough energy to break intermolecular forces, demonstrating molecular kinetic energy and forces.\n\nIV. Conduction: Heat transfer via molecular collisions (or electron movement), directly showing molecular motion and energy transfer.                           Melting, boiling, and conduction are direct evidence of the molecular nature of matter.",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

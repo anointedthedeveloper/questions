@@ -7824,6 +7824,22 @@
     "examyear": "2024"
   },
   {
+    "id": 562,
+    "question": "The value of R required to make the galvanometer measure voltage up to 40V in the diagram above is?",
+    "option": {
+      "a": "1885Ω",
+      "b": "1990Ω",
+      "c": "1995Ω",
+      "d": "1100Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765615477/ALOC-Questions/Physics/2024/Physics_2024_Q13_p2yj5a.png",
+    "answer": "b",
+    "solution": "Given information:\n\nMaximum current through galvanometer, I = 20 mA = 0.020 A\nInternal resistance of galvanometer, r = 10 Ω\nMaximum voltage to be measured, V = 40 V\nMultiplier resistance, R = ?\n\nSolution:\nStep 1: Understand the circuit\nThe multiplier resistance R is connected in series with the galvanometer to extend its voltage range. The same current flows through both R and the galvanometer.\nStep 2: Apply voltage division\nTotal voltage = Voltage across R + Voltage across galvanometer\nV = IR + Ir\nStep 3: Substitute the known values\n40 = 0.020 × R + 0.020 × 10\n40 = 0.020R + 0.2\nStep 4: Solve for R\n40 - 0.2 = 0.020R\n39.8 = 0.020R\nR = 39.8/0.020\nR = 1990 Ω",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 566,
     "question": "A wheelbarrow inclined at 60º to the horizontal is pushed with a force of 150N. What is the horizontal component of the applied force",
     "option": {
@@ -13676,6 +13692,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nCharge (q) = 1.0 × 10⁻⁸ C\nVelocity (v) = 3.0 × 10⁻² m/s\nAngle (θ) = 90° (right angles to field)\nForce (F) = 1.8 × 10⁻⁸ N\nMagnetic field strength (B) = ?\n\nFormula for magnetic force on a moving charge:\nF = qvB sin θ\nSince θ = 90°, sin 90° = 1:\nF = qvB\nRearranging for B:\nB = F/(qv)\nSubstituting values:\nB = (1.8 × 10⁻⁸)/(1.0 × 10⁻⁸ × 3.0 × 10⁻²)\nB = (1.8 × 10⁻⁸)/(3.0 × 10⁻¹⁰)\nB = 1.8/3.0 × 10⁻⁸⁺¹⁰\nB = 0.6 × 10²\nB = 6.0 × 10¹ T\nB = 60 T",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1034,
+    "question": "The current output from of an a.c. source is given as I = 10 sin to t. The d.c equivalent of the current is",
+    "option": {
+      "a": "5.0A",
+      "b": "7.1A",
+      "c": "10.0A",
+      "d": "14.1A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nInstantaneous current, I = 10 sin ωt\nPeak current, I₀ = 10 A\n\nSolution:\n\nStep 1: d.c equivalent of a.c current\nThe d.c equivalent (or r.m.s value) of a sinusoidal a.c current is given by:\nI_rms = I₀ / √2\n\nStep 2: Substitute the value\nI_rms = 10 / √2 ≈ 10 / 1.4142 ≈ 7.07 A ≈ 7.1 A",
     "examtype": "utme",
     "examyear": "2012"
   },

@@ -400,6 +400,22 @@
     "examyear": "2007"
   },
   {
+    "id": 29,
+    "question": "A rectangular metal block of volume 10-6m3 at 273K is heated to 573K, if the coefficient of linear expansion is 1.2 x 10-5K-1, the percentage change of its volume is ",
+    "option": {
+      "a": "1.50%",
+      "b": "1.10%",
+      "c": "0.10%",
+      "d": "0.40%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 30,
     "question": "A temperature scale has a lower fixed point of 40mm and an upper fixed point of 200mm. What is the reading on this scale when the temperature reads 60oc? ",
     "option": {
@@ -3980,6 +3996,22 @@
     "image": "",
     "answer": "d",
     "solution": "All of the statements are true about electrical charge.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 278,
+    "question": "Which of the following is not true of an electrical charge?",
+    "option": {
+      "a": "Negative charge means deficit electrons",
+      "b": "Negative charge means excess of electrons",
+      "c": "electric current means movement of electrons",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This statement is NOT true. Negative charge means excess of electrons, not deficit. A deficit of electrons would result in a positive charge.",
     "examtype": "utme",
     "examyear": "2017"
   },

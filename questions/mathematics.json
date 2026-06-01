@@ -464,6 +464,22 @@
     "examyear": "2013"
   },
   {
+    "id": 72,
+    "question": "Solve the equation 3x+1 = 271-x  ",
+    "option": {
+      "a": "1/2",
+      "b": "-1/2",
+      "c": "3/4",
+      "d": "-3/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 76,
     "question": "Evaluate (2.813×10<sup>−3</sup>×1.063)/(5.637×10<sup>−2</sup>) reducing each number to two significant figures and leaving your answer in two significant figures.\u000b\n",
     "option": {
@@ -1232,6 +1248,22 @@
     "examyear": "2003"
   },
   {
+    "id": 252,
+    "question": "The histogram above shows the ages of victims of a pollution. How many people were involved in the pollution?",
+    "option": {
+      "a": "20",
+      "b": "21",
+      "c": "15",
+      "d": "18"
+    },
+    "section": "solution: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" columnspacing=\"1em\" rowspacing=\"4pt\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mtext>Age in years</mtext>\n      </mtd>\n      <mtd>\n        <mn>10</mn>\n      </mtd>\n      <mtd>\n        <mn>20</mn>\n      </mtd>\n      <mtd>\n        <mn>30</mn>\n      </mtd>\n      <mtd>\n        <mn>40</mn>\n      </mtd>\n      <mtd>\n        <mn>50</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mi>h</mi>\n        <mi>l</mi>\n        <mi>i</mi>\n        <mi>n</mi>\n        <mi>e</mi>\n        <mtext>frequency</mtext>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>6</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699522/ALOC-Questions/Mathematics/2003/math_2003_q31_vishxn.jpg",
+    "answer": "a",
+    "solution": " Ef = number of people involved in the pollution\n\n Ef = 3 + 4 + 5 + 6 + 2 = 20",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 255,
     "question": "Find the number of committees of three that can be formed consisting of two men and one woman from four men and three women",
     "option": {
@@ -1952,6 +1984,22 @@
     "examyear": "2006"
   },
   {
+    "id": 379,
+    "question": "For what of n is <sup>n+1</sup> C<sub>3</sub> = 4(<sup> n</sup>C<sub>3</sub>)?",
+    "option": {
+      "a": "6",
+      "b": "5",
+      "c": "4",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": " <sup>n+1</sup>C<sub>3</sub = 4 (<sup> n</sup> C<sub>3</sub>)frac(n+1)!(n+1-3)!3!=4(n!/((n-3)!3!))frac(n+1)n!(n-2)(n-3)!=4(n!/(n-3!))\"\\=\"  (n+1)/(n-2)=4/1 \"\\n\"+1=4(n-2)\"\\n\"+1=4n-8\"\\-\" 3n=-9frac-9-3\"\\n\"=3",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 380,
     "question": "The gradient of a curve is 2x + 7 and the curve passes through point (2, 0). find the equation of the curve.",
     "option": {
@@ -2332,6 +2380,22 @@
     "image": "",
     "answer": "b",
     "solution": "3/5÷(2/7×4/3÷4/9)=3/5÷(2/7×4/3×9/4)=3/5÷6/7=3/5×7/6=7/10",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 453,
+    "question": "Evaluate 1011<sup>2</sup><sub>2</sub>  - 101<sup>2</sup><sub>2</sub> ",
+    "option": {
+      "a": " 110000<sub>2</sub> ",
+      "b": "110<sub>2</sub> ",
+      "c": "1100000<sub>2</sub> ",
+      "d": "11000<sub>2</sub> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "1011<sup>2</sup><sub>2</sub> - 101<sup>2</sup><sub>2</sub> = (1x2<sup>3</sup> + 0x2<sup>2</sup> + 1x2<sup>1</sup> + 1x2<sup>0</sup>)<sup>2</sup> - (1x2<sup>2</sup> + 0x2<sup>1</sup> + 1x2<sup>2</sup>)2\n(1x8 + 0x4 + 1x2 + 1x1)<sup>2</sup> - (1x4 + 0x2 + 1x1)<sup>2</sup>)\n= (8 + 0 + 2 + 1) <sup>2</sup> - (4 + 0 + 1) <sup>2</sup>\n= 11<sup>2</sup>- 5<sup>2</sup>\n= 16 x 6 = 96\n9610 to base 2\n2/96 = 48 R 0\n2/48 = 24 R 0\n2/24 = 12 R 0\n2/12 = 6 R 0\n2/6 = 3 R 0\n2/3 = 1 R 1\n2/1 = 0 R 1\n1100000<sub>2</sub>",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -3596,6 +3660,22 @@
     "image": "",
     "answer": "b",
     "solution": "Amount spent on children = 15/100 × 3500 = N525\n\n\nAmount spent = Amount on children + Additional amount on food\n\nAmount Spent = N525 + N1950 = N2475\n\nTherefore amount left = N3,500 - N2,475 = N1,025",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 726,
+    "question": "If log<sub>3</sub> x<sup>2</sup> = -8, what is x?",
+    "option": {
+      "a": "1/3",
+      "b": "1/9",
+      "c": "1/27",
+      "d": "1/81"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "log<sub>3</sub> x<sup>2</sup> = -8\nx<sup>2</sup>  = 3<sup>-8</sup> \n\nx = 3<sup>−8×(1/2)</sup> \n\n\nx = 3<sup>-4</sup> \n\nx = 1/3<sup>4</sup> \n\n\nx = 1/81",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -5280,6 +5360,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1007,
+    "question": "If 2<sup>(x+y)</sup>\n = 16 and 4<sup>(x-y)</sup>=1/32\n, find the values of x and y.",
+    "option": {
+      "a": "x = 3/4, y = 11/4",
+      "b": "x = 3/4, y = 13/4",
+      "c": " x = 2/3, y = 4/5",
+      "d": "x = 2/3, y = 13/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2<sup>(x+y)</sup>\n = 16 ; 4<sup>(x-y)</sup> = 1/32.\n\n⟹2<sup>(x+y)</sup>=2<sup>4</sup>\nx + y = 4...(1)\n2<sup>(2(x−y))</sup> = 2<sup>(−5)</sup>\n2<sup>(2(x−2y))</sup> = <sup>(−5)</sup>\n⟹2x − 2y = −5...(2)\nSolving the equations (1) and (2) simultaneously, we have\n\nx = 3/4 and y = 13/4",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 1009,
     "question": "Find the value of x and y in the simultaneous equation: 3x + y = 21; xy = 30",
     "option": {
@@ -5612,6 +5708,22 @@
     "image": "",
     "answer": "c",
     "solution": "Mean of 10 numbers = 16\n\nThe total sum of numbers = 16 x 10 = 160\n\nMean of 11 numbers = 18\n\nTotal sum of numbers = 11 x 18\n\n= 198\n\nThe 11th no. = 198 - 160\n\n= 38",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1083,
+    "question": "Musa borrows N10.00 at 2% per month simple interest and repays N8.00 after 4 months. How much does he still owe?",
+    "option": {
+      "a": "N10.80",
+      "b": "N10.67",
+      "c": "N2.80",
+      "d": "N2.67"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "I = (PRT)/100\n\n\n= (10 × 2 × 4)/100\n\n\n= 4/5\n\n\n= 0.8\n\nTotal amount = N10.80\n\nHe pays N8.00\n\nRemainder = 10.80 - 8.00\n\n= N2.80",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -6812,6 +6924,22 @@
     "image": "",
     "answer": "b",
     "solution": "Prob.(A outcome) = 1/6\n, Prob.(B outcome) = ¼\n\nP(A ∪ B) = 1/12, Prob.(A ∩ B)\n\nProb.(A ∩ B) = Prob.(A) + Prob.(B) − Prob.(A ∪ B)\n\n1/6 + 1/4 − 1/12\n\n= (2 + 3 − 1) ÷ 12\n\n= 4/12\n\n= 1/3\n\nProb.(A ∩ B) = 1/3",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1285,
+    "question": "Given that Z = {1,2,4,5} what is the power of set Z?",
+    "option": {
+      "a": "16",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Z has 4 elements, power = number of subset = 2p\n\nZ = 2<sub>n</sub>  = 2<sub>4</sub> \n\n= 16",
     "examtype": "utme",
     "examyear": "2015"
   }

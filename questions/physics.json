@@ -720,6 +720,22 @@
     "examyear": "2011"
   },
   {
+    "id": 100,
+    "question": "An airplane increases its speed 36 km/h to 360 km/h in 20.0 s. How far does it travel while accelerating.  ",
+    "option": {
+      "a": "4.4 km     ",
+      "b": "1.1 km  ",
+      "c": "2.3 km  ",
+      "d": "1.0 km"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 106,
     "question": "Which of the following is not a thermometer?  ",
     "option": {
@@ -1276,6 +1292,22 @@
     "image": "",
     "answer": "c",
     "solution": "Mercury and alcohol are often used in THERMOMETER\n\nNote:Water is never allowed to be used in thermometer because, it doesn’t expand uniformly",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 178,
+    "question": "For a best result using temperature to achieve an accurate measurement, it is best to use",
+    "option": {
+      "a": " Mercury thermometer",
+      "b": " gas thermometer",
+      "c": " clinical thermometer",
+      "d": "alcohol thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Gas thermometers are considered best for use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1916,6 +1948,22 @@
     "image": "",
     "answer": "c",
     "solution": "The pitch of an acoustic device can be increased by increasing the frequency of the sound waves it produces.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 305,
+    "question": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
+    "option": {
+      "a": "20 years",
+      "b": "10 years",
+      "c": "2 years",
+      "d": "24 years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nTime elapsed (t) = 120 years\nFraction remaining = 1/64\nHalf-life (T½) = ?\n\nUnderstanding radioactive decay:\nAfter each half-life, half of the material remains.\nStep 1: Determine number of half-lives\nFraction remaining = (1/2)ⁿ\nwhere n = number of half-lives\n1/64 = (1/2)ⁿ\nFinding n:\n64 = 2ⁿ\n2⁶ = 2ⁿ\nn = 6\nSo 6 half-lives have passed.\nStep 2: Calculate half-life\nn × T½ = total time\n6 × T½ = 120 years\nT½ = 120/6\nT½ = 20 years",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3536,6 +3584,22 @@
     "examyear": "2024"
   },
   {
+    "id": 578,
+    "question": "A mass of gas at 40mmHg is heated from 298k to 348k at constant volume. Cal the pressure exerted by the gas.",
+    "option": {
+      "a": " 50.21mmHg",
+      "b": "46.71mmHg",
+      "c": "42.35mmHg",
+      "d": "35.12mmHg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial pressure, P₁ = 40 mmHg\nInitial temperature, T₁ = 298 K\nFinal temperature, T₂ = 348 K\nVolume is constant\nFinal pressure, P₂ = ?\n\nSolution:\nStep 1: Apply Gay-Lussac's Law\nAt constant volume:\nP₁/T₁ = P₂/T₂\nStep 2: Rearrange to find final pressure\nP₂ = P₁ × (T₂/T₁)\nStep 3: Substitute the known values\nP₂ = 40 × (348/298)\nStep 4: Calculate the final pressure\nP₂ = 40 × 1.1678\nP₂ = 46.71 mmHg",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 585,
     "question": "A load of 300N is to be lifted by a machine with a velocity ratio of 2 and an efficiency of 60%. What effort will be applied to lift the load?\n",
     "option": {
@@ -4960,6 +5024,22 @@
     "examyear": "2008"
   },
   {
+    "id": 835,
+    "question": "I. for current amplification.\n\nII. for voltage stabilization.\n\nIII. for power amplification.\n\nIV. as a switch.\n\nwhich of the above are the uses of transistor?",
+    "option": {
+      "a": "I, II, III and IV",
+      "b": " I, III and IV only",
+      "c": "I, II and III only",
+      "d": " I, II and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The uses of a transistor are current amplification, power amplification, and as a switch.\n",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 837,
     "question": "The resultant of two forces 12 N and 5 N is 13 N. What is the angle between the two forces?",
     "option": {
@@ -5452,6 +5532,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nInitial density (ρ₁) = 0.8 kg/m³\nFinal density (ρ₂) = 0.4 kg/m³\nFinal volume (V₂) = 20 m³\nInitial volume (V₁) = ?\nNo loss of oil (mass conserved)\n\nKey principle:\nMass remains constant (no spillage)\nm₁ = m₂\nUsing density formula:\nm = ρV\nStep 1: Set up equation\nρ₁V₁ = ρ₂V₂\nStep 2: Solve for initial volume\nV₁ = (ρ₂V₂)/ρ₁\nSubstituting values:\nV₁ = (0.4 × 20)/0.8\nV₁ = 8/0.8\nV₁ = 10 m³",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 915,
+    "question": "The pressure of one mole of an ideal gas of volume 10⁻² m³ at a temperature of 27°C is [molar gas constant = 8.3 J mol⁻¹ K⁻¹]",
+    "option": {
+      "a": " 2.49 × 10⁴ Nm⁻²",
+      "b": "2.24 × 10⁴ Nm⁻²",
+      "c": "2.49 × 10⁵ Nm⁻²",
+      "d": "2.24 × 10⁵ Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nNumber of moles (n) = 1 mol\nVolume (V) = 10⁻² m³ = 0.01 m³\nTemperature (T) = 27°C = 27 + 273 = 300 K\nMolar gas constant (R) = 8.3 J mol⁻¹ K⁻¹\nPressure (P) = ?\n\nUsing ideal gas equation:\nPV = nRT\nRearranging for pressure:\nP = nRT/V\nSubstituting values:\nP = (1 × 8.3 × 300)/0.01\nP = 2490/0.01\nP = 249,000 N/m²\nP = 2.49 × 10⁵ Nm⁻²",
     "examtype": "utme",
     "examyear": "2010"
   },

@@ -6192,6 +6192,22 @@
     "examyear": "2021"
   },
   {
+    "id": 424,
+    "question": "The motion of a body is simple harmonic if the?",
+    "option": {
+      "a": "acceleration is always directed towards a fixed point",
+      "b": "path of motion is a straight line",
+      "c": "acceleration is proportional to the square of the distance from a fixed point",
+      "d": "acceleration is constant and directed towards a fixed point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In simple harmonic motion, the acceleration of the particle is directed towards its mean position and directly proportional to its displacement.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 425,
     "question": "Which of the following is not correct about the molecules of a substance in a gaseous state. They?",
     "option": {

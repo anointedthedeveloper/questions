@@ -11376,6 +11376,22 @@
     "examyear": "2007"
   },
   {
+    "id": 751,
+    "question": "A gramophone record takes 5s to reach its constant angular velocity of 4π rads⁻¹ from rest. Find its constant angular acceleration.",
+    "option": {
+      "a": " 0.4π rads⁻²",
+      "b": " 0.8π rads⁻²",
+      "c": "1.3π rads⁻²",
+      "d": " 20.0π rads⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial angular velocity (ω₀) = 0 rad/s (starts from rest)\nFinal angular velocity (ω) = 4π rad/s\nTime (t) = 5 s\nAngular acceleration (α) = ?\n\nUsing angular motion equation:\nω = ω₀ + αt\nSince ω₀ = 0:\nω = αt\nRearranging to find α:\nα = ω/t\nSubstituting values:\nα = 4π/5\nα = 0.8π rad/s²",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 752,
     "question": "A car of mass 1500 kg goes round a circular curve of radius 50m at a speed of 40 ms⁻¹. The magnitude of the centripetal force on the car is?",
     "option": {
@@ -15676,6 +15692,22 @@
     "image": "",
     "answer": "c",
     "solution": "\nGiven information:\n\nMass of water (m) = 5000 kg\nHeight (h) = 60 m\nTime (t) = 15 min = 15 × 60 = 900 s\ng = 10 m/s² (assumed)\nPower (P) = ?\n\nUnderstanding power:\nPower = Work done / Time taken\nStep 1: Calculate work done\nWork = Potential energy gained\nW = mgh\nSubstituting values:\nW = 5000 × 10 × 60\nW = 3,000,000 J\nW = 3.0 × 10⁶ J\nStep 2: Calculate power\nP = W/t\nP = (3.0 × 10⁶)/900\nP = 3333.33 W\nP = 3.3 × 10³ W\nP = 3.3 × 10³ Js⁻¹",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1049,
+    "question": "Calculate the work done when a force of 20N stretches a spring by 50mm.",
+    "option": {
+      "a": "0.5J",
+      "b": "1.5J",
+      "c": " 2.0J",
+      "d": "2.5J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nForce (F) = 20 N\nExtension (x) = 50 mm = 0.05 m\nWork done (W) = ?\n\nUnderstanding work done on a spring:\nWhen stretching a spring, the force varies from 0 to maximum F.\nThe work done is NOT simply F × x, but rather the average force times distance.\nFormula for work done in stretching a spring:\nW = ½Fx\nor equivalently:\nW = ½kx²  (where F = kx from Hooke's Law)\nWhy ½Fx?\n\nInitial force = 0 (unstretched)\nFinal force = F\nAverage force = (0 + F)/2 = F/2\nWork = Average force × distance = (F/2) × x = ½Fx\n\nCalculating work done:\nW = ½Fx\nW = ½ × 20 × 0.05\nW = ½ × 1.0\nW = 0.5 J",
     "examtype": "utme",
     "examyear": "2013"
   },

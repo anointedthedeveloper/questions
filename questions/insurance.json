@@ -48,6 +48,38 @@
     "examyear": "2014"
   },
   {
+    "id": 18,
+    "question": "How  much  premium  will  the  insurer  return  to  the insured?",
+    "option": {
+      "a": "N= 3,750",
+      "b": "N= 13,750",
+      "c": "N= 17,500",
+      "d": "N= 31,250"
+    },
+    "section": "XYC Industries Limited proposed a fire risk to Adequate Insurance Plc. on a total sum insured of N= 5,000,000.00. The risk was accepted on a premium rate of 0.35%. After survey, the insurer charged a rate of 0.275%.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 21,
+    "question": "The document that sets out the list of items covered in insurance is a",
+    "option": {
+      "a": "manifest",
+      "b": "bill of lading",
+      "c": "policy list",
+      "d": "policy specification or form"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 23,
     "question": "In property insurance, which of the following is not a direct loss?",
     "option": {
@@ -304,6 +336,54 @@
     "examyear": "1"
   },
   {
+    "id": 67,
+    "question": "Insurance contract is between",
+    "option": {
+      "a": "Broker and Agent",
+      "b": "Insured and Insurer",
+      "c": "Insurer  and Agent",
+      "d": "Insured and Agent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 68,
+    "question": "The buyer of insurance product is",
+    "option": {
+      "a": "Agent",
+      "b": "Broker",
+      "c": "Insured",
+      "d": "Insurer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 69,
+    "question": "The seller of insurance product is",
+    "option": {
+      "a": "Insurer",
+      "b": "Insured",
+      "c": "Broker",
+      "d": "Agent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 70,
     "question": "Which of this is an odd one out?",
     "option": {
@@ -480,6 +560,22 @@
     "examyear": "1"
   },
   {
+    "id": 93,
+    "question": "Subrogation principle can be applied in the following insurance policies except in",
+    "option": {
+      "a": "aviation policy",
+      "b": "engineering policy",
+      "c": "life policy",
+      "d": "marine policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 94,
     "question": "Payment of claims  in  liability  insurance are usually made in favour of",
     "option": {
@@ -535,6 +631,22 @@
       "b": "Consideration",
       "c": "Contribution",
       "d": "Indemnity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 102,
+    "question": "Insurable interest means",
+    "option": {
+      "a": "Interest gained on money in a bank",
+      "b": "Interest payable on a loan",
+      "c": "Financial interest a person has in something he expects to inherit",
+      "d": "The financial interest a person has in something of value"
     },
     "section": "",
     "image": "",
@@ -800,6 +912,38 @@
     "examyear": "2"
   },
   {
+    "id": 149,
+    "question": "The wrongful act willfully committed by either the master or the prejudice of either the owner or crew to the chatterer of the ship is",
+    "option": {
+      "a": "Barratry",
+      "b": "Caveat emptor",
+      "c": "Bailee",
+      "d": "Jettison"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 151,
+    "question": "--------- shows what the insured should do or not do to maintain the existence of the policy",
+    "option": {
+      "a": "Cover note",
+      "b": "Policy",
+      "c": "Warranty",
+      "d": "Certificate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 152,
     "question": "The uncertainty of an event occurring is known as",
     "option": {
@@ -875,6 +1019,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 163,
+    "question": "A  Statement signed by the insured, certifying the Statement",
+    "option": {
+      "a": "Certificate",
+      "b": "Declaration",
+      "c": "Confirmation slip",
+      "d": "Accuracy statement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -971,6 +1131,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 174,
+    "question": "A marine policy that provider cover for the construction of sea vessels is called --------- policy",
+    "option": {
+      "a": "Building",
+      "b": "Mixed",
+      "c": "Port",
+      "d": "Valued"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -1115,6 +1291,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 199,
+    "question": "The policy that provides protection for goods or cargoes and ships against the perils of the sea is",
+    "option": {
+      "a": "Fire",
+      "b": "Marine",
+      "c": "Aviation",
+      "d": "Credit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -1664,6 +1856,22 @@
     "examyear": "5"
   },
   {
+    "id": 264,
+    "question": "A reminder to the insured who may have forgotten to seek for continuation after his policy expiry date is",
+    "option": {
+      "a": "notification message",
+      "b": "renewal notice",
+      "c": "registration notice",
+      "d": "agreement notice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 265,
     "question": "Which of the following risks is covered by insurance policy?",
     "option": {
@@ -1755,6 +1963,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 278,
+    "question": "Physical loss of limbs or total blindness injury is an example of",
+    "option": {
+      "a": "permanent disablement",
+      "b": "temporary disablement",
+      "c": "mid-term disablement",
+      "d": "total disablement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "5"
@@ -1872,6 +2096,22 @@
     "examyear": "5"
   },
   {
+    "id": 299,
+    "question": "The party who proposes to the insurance company to insure his properly is called",
+    "option": {
+      "a": "offeree",
+      "b": "offeror",
+      "c": "acceptance party",
+      "d": "offer client"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 300,
     "question": "One of these is a full time professional",
     "option": {
@@ -1886,6 +2126,22 @@
     "solution": "",
     "examtype": "model",
     "examyear": "5"
+  },
+  {
+    "id": 303,
+    "question": "Which of the following is a component of premium in insurance?",
+    "option": {
+      "a": "Margin",
+      "b": "Reserve",
+      "c": "Funds",
+      "d": "Capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
   },
   {
     "id": 307,
@@ -1915,6 +2171,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 314,
+    "question": "In which of the following policies is <em>certificate of insurance</em>  used?",
+    "option": {
+      "a": "Burglary insurance",
+      "b": "Product liability insurance",
+      "c": "Employer’s liability insurance",
+      "d": "Money insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -2027,6 +2299,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 329,
+    "question": "The  sum  insured  for  a  risk  is  N= 150,000  and  was accepted  for  fire  insurance at a rate of  0.25%. How much will the insured pay as a premium?",
+    "option": {
+      "a": "N= 125",
+      "b": "N= 375",
+      "c": "N= 500",
+      "d": "N= 875"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

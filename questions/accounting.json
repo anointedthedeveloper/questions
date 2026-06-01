@@ -336,6 +336,22 @@
     "examyear": "2013"
   },
   {
+    "id": 103,
+    "question": "The accounting principle that states that, in the preparation of accounting statement, revenue are recognized as        soon as goods are passed on to the customer is the",
+    "option": {
+      "a": "materiality concept.",
+      "b": "matching concept.",
+      "c": "consistency concept.",
+      "d": "realization concept."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 107,
     "question": "In departmental accounts, administrative expenses are recorded in the",
     "option": {
@@ -935,6 +951,22 @@
       "b": "value stock",
       "c": "make decisions",
       "d": "prepare budgets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 264,
+    "question": "A Balance Sheet shows only",
+    "option": {
+      "a": "fixed assets and current assets",
+      "b": "assets and long term liabilities.",
+      "c": "assets and liabilities",
+      "d": "assets and capital"
     },
     "section": "",
     "image": "",
@@ -2000,6 +2032,22 @@
     "examyear": "2016"
   },
   {
+    "id": 609,
+    "question": "Use the information below to answer the question that follows,\n\nA machine bought for N35,000 was estimated to have a life span of 5years with a scrap value of N9,000.\nThe yearly depreciation using the straight line method would be?",
+    "option": {
+      "a": "₦5,200",
+      "b": " ₦6,500",
+      "c": " ₦8,800",
+      "d": "₦4,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "You take the cost (₦35,000), subtract the scrap value (₦9,000) to get ₦26,000, then divide by the useful life of 5 years: So the annual depreciation is ₦5,200.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 611,
     "question": "A business has the following information for a particular period:\nCreditors had an opening balance of ₦3,000 and a closing balance of ₦4,000. Debtors had a closing balance of ₦6,000 but the opening balance is not given. During the period, cash received from debtors was ₦35,000, cash paid to suppliers was ₦25,000, discount allowed to customers was ₦4,000, and discount received from suppliers was ₦4,200.\nWhat is the total sales for the period?",
     "option": {
@@ -2348,6 +2396,22 @@
     "image": "",
     "answer": "c",
     "solution": "is charged in the profit and loss account as finance expenses",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 687,
+    "question": "Which of the following methods of invoicing goods to branches facilitate easy checks on the activities of branches?",
+    "option": {
+      "a": "Selling price",
+      "b": "Fixed percentage on cost",
+      "c": "Cost price",
+      "d": "Invoice price"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Goods are transferred from head office to branch at cost price, selling price and cost price plus mark up",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3148,6 +3212,22 @@
     "image": "",
     "answer": "b",
     "solution": "Net assets = ₦190,000 + ₦170,000 + ₦60,000 – ₦50,000 = ₦370,000\n\nGoodwill = ₦400,000 – ₦370,000 = ₦30,000",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 914,
+    "question": "When starting with the cash book balance in preparing the bank reconciliation statement, the followings are added except",
+    "option": {
+      "a": "uncredited cheque",
+      "b": "credit transfer",
+      "c": " dividend",
+      "d": "unpresented cheque"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When starting with balanace as per cash book, unpresented cheques, dividend, credit transfers are added while uncredited cheques, bank charges, dishonoured cheuqes, standing order are substracted.",
     "examtype": "utme",
     "examyear": "2023"
   },

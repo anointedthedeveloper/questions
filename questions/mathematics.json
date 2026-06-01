@@ -11632,6 +11632,22 @@
     "examyear": "2013"
   },
   {
+    "id": 794,
+    "question": "Calculate the median age of the frequency distribution in the table above",
+    "option": {
+      "a": " 25",
+      "b": "30",
+      "c": "35",
+      "d": " 20"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131268/ALOC-Questions/Mathematics/2013/JAMB_MATH_2013_Q25_lpvli2.jpg",
+    "answer": "a",
+    "solution": "N = ∑f = 15\n\nHence the median age is the (N+1/2)th age,i.e.\n\n(15+1)/2)th = 8th\n\nFrom the table, the age that falls on the 8th position when arranged in ascending order is 25years",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 795,
     "question": "If the variance of 3+x, 6, 4, x and 7-x is 4 and the mean is 5, find the standard deviation",
     "option": {
@@ -11884,6 +11900,22 @@
     "image": "",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 811,
+    "question": "If the midpoint of the line PQ is (2,3) and the point P is (-2, 1), find the coordinate of the point Q.",
+    "option": {
+      "a": " (8,6)",
+      "b": "(5,6)",
+      "c": "(0,4)",
+      "d": "(6,5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Midpoint of a line PQ where P has coordinates (x<sub>1</sub>, y<sub>1</sub>) and Q has coordinates (x<sub>2</sub>,y<sub>2</sub>) is given as \n\n(x1<sub>1</sub> + x<sub>2</sub>/2, y<sub>1</sub> + y<sub>2</sub>/2).\n\n∴ If Q has coordinates (r, s), then\n\n−2+r/2 = 2 and 1+s/2 = 3\n−2 + r = 4 ⟹ r = 6\n1 + s = 6 ⟹ s = 5\nQ = (6, 5)",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -18428,6 +18460,22 @@
     "image": "",
     "answer": "b",
     "solution": "First arrange the numbers in order of magnitude;\n1,2,3,3,4,5,5,5,5,6,7,8,9,9,10\n\nHence the median = 5",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1224,
+    "question": "Find the standard deviation of 5, 4, 3, 2, 1",
+    "option": {
+      "a": "√2",
+      "b": "√3",
+      "c": "√6",
+      "d": "√10"
+    },
+    "section": "SOLUTION:                                                             <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid none none none none solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mi>x</mi>\n      </mtd>\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <mi>x</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <msup>\n          <mi>d</mi>\n          <mn>2</mn>\n        </msup>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>5</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>0</mn>\n      </mtd>\n      <mtd>\n        <mn>0</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd />\n      <mtd>\n        <mo>&#x2211;<!-- ∑ --></mo>\n        <msup>\n          <mi>d</mi>\n          <mn>2</mn>\n        </msup>\n        <mo>+</mo>\n        <mn>10</mn>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "Mean x = ∑x/n\n\n\n= (5+4+3+2+1)/5\n\n\n=15/5\n\n\n= 3\n\n",
     "examtype": "utme",
     "examyear": "2014"
   },

@@ -752,6 +752,22 @@
     "examyear": "2016"
   },
   {
+    "id": 145,
+    "question": "The income and expenditure account differs from receipts and payments account because it",
+    "option": {
+      "a": "accounts for notional charges",
+      "b": "records transactions that relate to the period on cash basis",
+      "c": "records transactions that relate to the period  on accrual basis",
+      "d": "accounts for balance of cash at bank."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 149,
     "question": "A discount that is allowed to encourage a debtor to pay off his debt within a period is the",
     "option": {
@@ -2507,6 +2523,22 @@
     "section": "Materials consumed \t[N 16,600 ]; Direct cost  [N 5,400 ]; Factory rent  [N 2,300 ]; Factory lighting \t[N 1,200]. Cost of production to be transferred at cost plus 20% mark-up.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 415,
+    "question": "The accumulated fund is",
+    "option": {
+      "a": "N 9,400",
+      "b": "N 9,300",
+      "c": "N 9,200",
+      "d": "N 9,100"
+    },
+    "section": "On January 1, 2000, a club’s assets and liabilities were as follows: Club house [ N8,000 ]; Subscription in arrears [ N300]; Cash [N1,000]; Wages owed [N100]. The club has 50 members and annual subscription is N 100 per member. Subscription received is N 4,000 and this includes 1999 arrears of  N 200.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -5692,6 +5724,22 @@
     "image": "",
     "answer": "c",
     "solution": "The primary purpose of departmental accounting is to assess and compare the financial performance of different departments within an organization.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 997,
+    "question": "Given:\nCapital:\nG...........₦5,000\nT...........₦8,000\nDrawings:\nG...........₦2,000\nT...........₦1,000\nInterest on capital..10%\nInterest on Drawings..5%\nFind the interest on drawings of G?",
+    "option": {
+      "a": "₦50",
+      "b": "₦100",
+      "c": "₦200",
+      "d": "₦250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Calculation:\nInterest on drawings for G = Drawings × Interest rate\nInterest on drawings for G = ₦2,000 × 5%\nInterest on drawings for G = ₦2,000 × 0.05\nInterest on drawings for G = ₦100",
     "examtype": "utme",
     "examyear": "2008"
   },

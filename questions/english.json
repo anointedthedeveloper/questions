@@ -20670,5 +20670,43 @@
     "questionNub": null,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 1421,
+    "question": "I abhor a <u>traitor</u>",
+    "option": {
+      "a": "fallacious person",
+      "b": "reveler of secrets",
+      "c": "progressive element",
+      "d": "keeper of secrets"
+    },
+    "section": "Choose the one opposite in meaning to the word(s) underlined.",
+    "image": "",
+    "answer": "d",
+    "solution": "A traitor is a person who betrays someone or something, such as a friend, cause, or principle. \nThe option that is most nearly opposite in meaning to the underlined word is optic 'c' (keeper of secret). A traitor is no keeper of secrets, but rather a revealer of one.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 48,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1084,
+    "question": "<u>H</u>air",
+    "option": {
+      "a": "heir",
+      "b": "hour",
+      "c": "honest",
+      "d": "house"
+    },
+    "section": "<b>In each of questions 89 to 91, choose the \noption that has the same consonant \nsound as the one represented by the \nletter(s) underlined.</b>",
+    "image": "",
+    "answer": "d",
+    "solution": "hair; /hɛː/\n\nhouse; /haʊs/",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 90,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

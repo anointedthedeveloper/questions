@@ -318,5 +318,85 @@
     "solution": "Amount A = P(1+r)n;\nA = N150,000, r = 25%, n = 3.\n150,000 = P(1+0.25)3 = P(1.25)3\nP = 150,000/1.253 =N76,800.00\n",
     "examtype": "utme",
     "examyear": "2000"
+  },
+  {
+    "id": 264,
+    "question": "In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and ∠SPR = 40o. Find ∠PSQ",
+    "option": {
+      "a": "40°",
+      "b": "30°",
+      "c": "20°",
+      "d": "10°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699712/ALOC-Questions/Mathematics/2003/math_2003_q43_vwszv6.jpg",
+    "answer": "a",
+    "solution": "R = P (base ∠s of isc Δ, ps = RS)\n∴R = 40o\n∠PSQ = R (∠s in alternate segment)\n∴∠PSQ = 40°",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 186,
+    "question": "Find the range of values of x for which (x+2)/4−2x−3/3 < 4",
+    "option": {
+      "a": " x > -6",
+      "b": "x > -3",
+      "c": " x < 8",
+      "d": " x < 4"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>x</mi>\n      <mo>+</mo>\n      <mn>2</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>4</mn>\n  </mfrac>\n  <mo>&#x2212;<!-- − --></mo>\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <mi>x</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n    </mrow>\n    <mn>3</mn>\n  </mfrac>\n  <mo>&lt;</mo>\n  <mn>4</mn>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "x+2/4 − 2x−3/3 < 4\n3(x+2)−4(2x−3)/12 < 4\n3x + 6 − 8x + 12 < 48\n18 − 5 x< 48 ⟹ −5 x < 48 − 18\n−5x < 30 ⟹ x > −6",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1169,
+    "question": "Find the matrix A",
+    "option": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>[</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>0</mn>\n        </mtd>\n        <mtd>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>]</mo>\n  </mrow>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007996/ALOC-Questions/Mathematics/2023/Screenshot_2024-08-18_at_8.06.28_PM_nw7cet.png",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1188,
+    "question": "A woman bought a grinder for N60,000. She sold it at a loss of 15%. How much did she sell it?",
+    "option": {
+      "a": " N53,000",
+      "b": "N52,000",
+      "c": "N51,000",
+      "d": "N50,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "SP = Nx\nCP = N60,000\nPercentage loss = 15%\nUsing percentage loss...\n\n(CP−SP)/CP = 100%\n\n\n15% = (60000− x)/ 60000 × 100%\n\n\n15% × 60000=(60000−x)100%\n\n\n60000 − x = (15% × 60000)100%\n\n\n60000 - x = 3 x 3000\n\n60000 -x = 9000\n\nx = 60000 - 9000\n\nx = N51,000",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 334,
+    "question": "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 4(2/3) and L = 54, find d in terms of W and L.",
+    "option": {
+      "a": "√(42W/5L)",
+      "b": "√(6L/42W)",
+      "c": "42W/5L",
+      "d": "5L/42W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "W∞LD<sup>2</sup> W=KLd<sup>2</sup> K=W/(Ld^2 )=140/54×〖(4 2/3)〗<sup>2</sup>=140/54×〖(14/3)〗<sup>2</sup> = (140×9)/(54×14×14)=5/42∴W=5/(42Ld<sup>2</sup> ) 42W=5Ld<sup>2</sup>  42W/5L=d<sup>2</sup> d=√(42W/5L)",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

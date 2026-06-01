@@ -318,5 +318,69 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 743,
+    "question": "A shooter wants to fire a bullet in such a way that its horizontal range is equal to three times its maximum height. At the what angle should he fire the bullet to achieve this?",
+    "option": {
+      "a": "68°",
+      "b": "53°",
+      "c": "30°",
+      "d": "45°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nWe use projectile motion formulas on level ground:\nRange R = (u² sin 2θ) / g\nMaximum height H = (u² sin² θ) / (2g)\nCondition: R = 3H\n\nSolution:\n\nStep 1: Write the condition equation\n(u² sin 2θ) / g = 3 × (u² sin² θ) / (2g)\n\nStep 2: Cancel common factors\nCancel u² and g (assuming u ≠ 0):\nsin 2θ = (3 sin² θ) / 2\n\nStep 3: Use double-angle identity\nsin 2θ = 2 sin θ cos θ:\n2 sin θ cos θ = (3 sin² θ) / 2\n\nStep 4: Simplify assuming sin θ ≠ 0\nDivide both sides by sin θ:\n2 cos θ = (3 sin θ) / 2\n\nMultiply both sides by 2:\n4 cos θ = 3 sin θ\n\nStep 5: Solve for tan θ\ntan θ = sin θ / cos θ = 4/3\n\nStep 6: Find the angle\nθ = arctan(4/3) ≈ 53.13°",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 473,
+    "question": "A person standing waist-deep in a swimming pool appears to have short legs because of light?",
+    "option": {
+      "a": "diffraction",
+      "b": "refraction",
+      "c": "reflection",
+      "d": "interference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Light rays from the submerged legs bend (refract) as they pass from water to air due to the change in medium. This makes the legs appear shorter and closer to the surface than they actually are.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 553,
+    "question": "Rainbow is formed when sunlight undergoes ",
+    "option": {
+      "a": "reflection",
+      "b": "refraction",
+      "c": "dispersion",
+      "d": "diffraction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A rainbow is formed by the DISPERSION of sunlight by spherical raindrops floating in the air.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 275,
+    "question": "The volume of a fixed mass of gas is 10cm3 when its pressure is 400cmHg. Determine the volume of the gas when its pressure is 200cmHg.",
+    "option": {
+      "a": "30cm³",
+      "b": "40cm³",
+      "c": " 50cm³",
+      "d": "20cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial volume (V₁) = 10 cm³\nInitial pressure (P₁) = 400 cmHg\nFinal pressure (P₂) = 200 cmHg\nFinal volume (V₂) = ?\nTemperature constant (fixed mass)\n\nUsing Boyle's Law:\nAt constant temperature: P₁V₁ = P₂V₂\nRearranging:\nV₂ = (P₁V₁)/P₂\nSubstituting values:\nV₂ = (400 × 10)/200\nV₂ = 4000/200\nV₂ = 20 cm³\nExplanation:\nWhen pressure is halved (from 400 to 200 cmHg), the volume doubles (from 10 to 20 cm³), following the inverse relationship in Boyle's Law.",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

@@ -32,6 +32,22 @@
     "examyear": "2006"
   },
   {
+    "id": 3,
+    "question": "Which of these best describes setting in a novel? ",
+    "option": {
+      "a": "the place where an event takes place ",
+      "b": "the time when an event takes place ",
+      "c": "the place and time of an event ",
+      "d": "the back ground of an event "
+    },
+    "section": "question is on William Shakespeare's hamlet",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 4,
     "question": "The farm Flincomb-Ash is symbolic of: ",
     "option": {
@@ -1019,6 +1035,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 83,
+    "question": "The literary device which uses ridicule to correct social ills is known as ",
+    "option": {
+      "a": "anecdote  ",
+      "b": "saturation  ",
+      "c": "hyperbole  ",
+      "d": "satire."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -7355,6 +7387,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 538,
+    "question": "Where is the narrator asked to give his high school graduation speech?",
+    "option": {
+      "a": "Town hall",
+      "b": "Leading men's fraternity",
+      "c": "Town's most expensive restaurant",
+      "d": "Ballroom of the leading hotel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"

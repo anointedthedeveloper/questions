@@ -848,6 +848,22 @@
     "examyear": "2014"
   },
   {
+    "id": 355,
+    "question": "The annual depreciation is",
+    "option": {
+      "a": "N9,000",
+      "b": "N8,500",
+      "c": "N8,000",
+      "d": "N6,500"
+    },
+    "section": "Use the following information to answer question:\tCost of motor vehicle-1/1/12 [ 85,000 ];  Residual value [ 5,000 ]; Estimated useful lifespan 10 years . The business makes use of the straight line method for \tproviding depreciation.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 368,
     "question": "When an asset is sold, the entries for the accumulated depreciation are: debit",
     "option": {
@@ -1424,6 +1440,22 @@
     "examyear": "2015"
   },
   {
+    "id": 564,
+    "question": "If rent account is debited instead of rate account, the error committed is that of;",
+    "option": {
+      "a": "omission",
+      "b": "commission",
+      "c": "principle",
+      "d": " original entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "error of omission: An error that occurs when action has not been taken or when something has been left out.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 571,
     "question": "The instrument used in analysis and interpretation of financial statement is the",
     "option": {
@@ -1500,6 +1532,22 @@
     "image": "",
     "answer": "b",
     "solution": "Cost-plus pricing is a pricing strategy in which the selling price is determined by adding a specific amount markup to a product's unit cost.\n\nCost plus pricing involves adding a markup to the cost of goods and services to arrive at a selling price. Under this approach, you add together the direct materialcost, direct labor cost, and overhead costs for a product, and add to it a markuppercentage in order to derive the price of the product.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 584,
+    "question": "The income and expenditure account differs from receipts and payments account because it",
+    "option": {
+      "a": "accounts for notional charges",
+      "b": "records transactions that relate to the period on cash basis",
+      "c": "records transactions that relate to the period on accrual basis",
+      "d": "accounts for balance of cash at bank"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1724,6 +1772,22 @@
     "image": "",
     "answer": "c",
     "solution": "Appropriation is the amount that government reserves for a particular purpose. Public expenditure is the spending made by government of a country on collective needs",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 681,
+    "question": "Which of the following is not a type of branch?",
+    "option": {
+      "a": "Dependent branch",
+      "b": "foreign branch",
+      "c": "independent branch",
+      "d": "single branch"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Branches are typically classified as:\n\nDependent branches, which rely on the head office for purchases and policies\n\nIndependent branches, which operate like standalone entities with their own accounting systems\n\nForeign branches, which are located in another country and may involve additional currency and regulatory considerations\n\nThe term “single branch” isn’t used as a formal classification.",
     "examtype": "utme",
     "examyear": "2018"
   },

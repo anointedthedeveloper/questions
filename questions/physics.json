@@ -176,6 +176,22 @@
     "examyear": "2009"
   },
   {
+    "id": 47,
+    "question": "If the force on a charge of 0.2 Coulomb in an electric field is 4N, then electric intensity of the field is ",
+    "option": {
+      "a": "0.8",
+      "b": "0.8N/C  ",
+      "c": "20.0 N/C ",
+      "d": "4.2 N/C "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 56,
     "question": "Which of the following  is common to evaporation and boiling, they ",
     "option": {
@@ -1792,6 +1808,22 @@
     "examyear": "2023"
   },
   {
+    "id": 543,
+    "question": "The branch of physics that deals with the motion of objects and the forces acting on them is called:",
+    "option": {
+      "a": "Electromagnetism",
+      "b": "Thermodynamics",
+      "c": "Mechanics",
+      "d": "Quantum mechanics"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mechanics is the branch of physics that deals with the motion of objects and the forces acting on them. It is the foundation of all other branches of physics, and it is used to study everything from the motion of planets to the motion of electrons.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 546,
     "question": "From the diagram above, if the potential differences across the resistor, capacitor, and inductor are 30V, 120V, and 60V, respectively, the effective potential difference is",
     "option": {
@@ -2464,6 +2496,22 @@
     "examyear": "2006"
   },
   {
+    "id": 758,
+    "question": "I. Use a liquid with a high melting point.\nII. use a liquid of high volume expansivity.\nIII. use a capillary tube of large diameter.\n\nwhich of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced?",
+    "option": {
+      "a": "I only",
+      "b": "II. Only",
+      "c": " I and II only",
+      "d": "II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "High volume expansivity means the liquid expands significantly for a small temperature increase, causing a larger movement of the liquid column. This directly enhances sensitivity",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 760,
     "question": "I. Increase the melting point of the liquid.\nII. Increase the boiling point of the liquid.\nIII. Decrease the melting point of the liquid.\nIV. Decrease the boiling point of the liquid.\n\n\nwhich of the statement above about the effect on increase in pressure in a liquid are correct?",
     "option": {
@@ -2620,6 +2668,22 @@
     "image": "",
     "answer": "d",
     "solution": "The friction between the tanker and air creates charges which the chain conducts to the ground.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 833,
+    "question": "zener diode is used for?",
+    "option": {
+      "a": "current amplification",
+      "b": "power amplification",
+      "c": "voltage regulation",
+      "d": "energy conversion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Zener diode is useful in stabilized power supply i.e to keep steady the voltage of a power supply.",
     "examtype": "utme",
     "examyear": "2008"
   },

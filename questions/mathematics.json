@@ -560,6 +560,22 @@
     "examyear": "2002"
   },
   {
+    "id": 200,
+    "question": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8",
+    "option": {
+      "a": "(2, 0)",
+      "b": "(1, -2)",
+      "c": " (-1, -2)",
+      "d": " (1, 2)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2y = 4x - 8 ⟹\n y = 2x - 4.\n\nWhen x = 0, y = -4.\n\nWhen y = 0, x = 2.\n\nThe midpoint between (0, -4) and (2, 0) = ((0+2)/2,(−4+0)/2)\n= (1,−2)",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 203,
     "question": "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0",
     "option": {
@@ -732,6 +748,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699712/ALOC-Questions/Mathematics/2003/math_2003_q43_vwszv6.jpg",
     "answer": "a",
     "solution": "R = P (base ∠s of isc Δ, ps = RS)\n∴R = 40o\n∠PSQ = R (∠s in alternate segment)\n∴∠PSQ = 40°",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 270,
+    "question": "If π/≤ 2π, find the maximum value of f(θ) = 4/6 + 2 \ncos θ",
+    "option": {
+      "a": "1",
+      "b": "1/2",
+      "c": "4",
+      "d": "2/3"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699755/ALOC-Questions/Mathematics/2003/math_2003_q49_t4ucuu.jpg",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -2700,6 +2732,22 @@
     "image": "",
     "answer": "c",
     "solution": "3x + y = 21 ... (i);\n\nxy = 30 ... (ii)\n\nFrom (ii), y = 30/x\n. Putting the value of y in (i), we have\n\n3x + 30/x = 21\n\n⟹ 3x<sup>2</sup> + 30 = 21x\n\n3x<sup>2</sup>  - 21x + 30 = 0\n\n3x<sup>2</sup>  - 15x -6x + 30 = 0\n\n3x(x - 5) - 6(x - 5) = 0\n\n(3x - 6)(x - 5) = 0\n\n3x - 6 = 0 ⟹ x = 2.\n\nx - 5 = 0 ⟹ x = 5.\n\nIf x = 2, y = 30/2 = 15;\n\nIf x = 5, y = 30/5 = 6.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1015,
+    "question": "If the volume of a frustrum is given as V=πh/3(R<sup>2</sup + Rr + r<sup>2</sup), find dV/dR\n.",
+    "option": {
+      "a": "πh/3(2R + r)",
+      "b": "2R + r + πh/3",
+      "c": "πh/3(2R<sup>2</sup + r + 2r)",
+      "d": "2R<sup>2</sup/3πh"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "V=πh/3(R<sup>2</sup + Rr + r<sup>2</sup)\nV = πR<sup>2</suph/3 + πRrh/3 + πr<sup>2</suph/3\ndV/dR = 2πRh/3 + πrh3\n= π/3(2R + r)",
     "examtype": "utme",
     "examyear": "2019"
   },

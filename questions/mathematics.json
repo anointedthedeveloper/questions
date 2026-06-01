@@ -9424,6 +9424,22 @@
     "examyear": "2010"
   },
   {
+    "id": 622,
+    "question": "If 2q3<sub>5</sub>  = 77<sub>8</sub> , find q",
+    "option": {
+      "a": "2",
+      "b": "1",
+      "c": "4",
+      "d": "0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": " 2q3<sub>5</sub>  = 77<sub>8</sub>\n\n2 x 5<sup>2</sup> + q x 5<sup>1</sup> + 3 x 5<sup>0</sup> = 7 x 8<sup>21</sup> + 7 x 8<sup>0</sup>\n\n2 x 25 + q x 5 + 3 x 1 = 7 x 8 + 7 x 1\n\n50 + 5q + 3 = 56 + 7\n\n5q = 63 - 53\n\nq = 10/5\n\n\nq = 2",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 623,
     "question": "simolify (3 (2/3) × 5/6 ×2/3)/(11/15 × 3/4 × 2/27)",
     "option": {

@@ -2784,6 +2784,22 @@
     "examyear": "2016"
   },
   {
+    "id": 205,
+    "question": "Which of the following waves is both transverse and mechanical?",
+    "option": {
+      "a": "Water waves",
+      "b": "Radio waves",
+      "c": "Sound waves",
+      "d": "X-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Water waves are both transverse (particles move up and down) and mechanical (require water as a medium).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 206,
     "question": "Calculate the temperature of 6 moles of an ideal gas at a pressure of 7.6 × 10⁶ Nm⁻² with a volume of 10⁻³ m³. [R = 8.3 J mol⁻¹ K⁻¹]",
     "option": {
@@ -5644,6 +5660,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612949/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_37_tzrwtk.jpg",
     "answer": "c",
     "solution": "Diagram C shows a tube length equal to one wavelength, displaying one complete wave cycle with a full crest and trough.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 417,
+    "question": "Which of the following pairs is part of the electromagnetic spectrum? \n\nI. Radio waves\n\nII. sound waves\n\nIII. Gamma rays\n\nIV. water waves",
+    "option": {
+      "a": " I and II",
+      "b": "III and IV",
+      "c": " I and III",
+      "d": "II and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Examples of electromagnetic waves are radio waves, X-rays, gamma rays, light rays, etc",
     "examtype": "utme",
     "examyear": "2020"
   },

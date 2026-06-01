@@ -7248,6 +7248,22 @@
     "examyear": "2008"
   },
   {
+    "id": 494,
+    "question": "Find the exterior angle of a 12 sided regular polygon",
+    "option": {
+      "a": "12°",
+      "b": "24°",
+      "c": "25°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Exterior angle = 360 / n\n= 360 / 12\n= 30°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 495,
     "question": "In the diagram above ∠ OPQ is",
     "option": {
@@ -14956,6 +14972,22 @@
     "image": "",
     "answer": "b",
     "solution": "Average speed = totalDistance/TotalTime\n\n\nfrom Calabar to Enugu in time t1, hence\n\nt1 = P/U\nAlso from Enugu to Benin\n\nt2 = q/w\n\n\nAv. speed = (p + q)/(t1 + t2)\n\n\n= (p + q)/((p/u) + (q/w))\n\n\n= p + q x (uw)/(pw + qu)\n\n\n= (uw(p+q))/(pw + qu)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1086,
+    "question": "If w varies inversely as (uv)/(u + v) and w = 8 when\n\nu = 2 and v = 6, find a relationship between u, v, w.",
+    "option": {
+      "a": "uvw = 16(u + v)",
+      "b": "16uv = 3w(u + v)",
+      "c": "uvw = 12(u + v)",
+      "d": "12uvw = u + v"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "W α (1/uv)/(u + v)\n\n\n∴ w = (k/uv)/(u + v)\n\n\n= k(u+v)/(uv)\n\n\nw = k(u+v)/uv\n\n\nw = 8, u = 2 and v = 6\n\n8 = k(2+6)/2(6)\n\n\n= k(8)/12\n\n\nk = 12\n\ni.e 12 ( u + v) = uwv",
     "examtype": "utme",
     "examyear": "2021"
   },

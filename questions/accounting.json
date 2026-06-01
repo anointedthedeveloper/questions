@@ -144,6 +144,22 @@
     "examyear": "2006"
   },
   {
+    "id": 247,
+    "question": "Using the reducing balance method, the depreciation charged for year 2003 was",
+    "option": {
+      "a": "N  160,000",
+      "b": "N  150,000",
+      "c": "N   130,000",
+      "d": "N  120,000"
+    },
+    "section": "Motor vehicles (at cost) 1/1/2002   [N1,000,000],  Addition to motor vehicles 1/7/2003  [N  600,000] \tDepreciation rate 10%",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 250,
     "question": "Which of the following is a Journal as well as an account?",
     "option": {
@@ -238,6 +254,38 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
+  },
+  {
+    "id": 332,
+    "question": "Which of the following is not stated in the partnership agreement?",
+    "option": {
+      "a": "Profit sharing ratio",
+      "b": "Interest on capital",
+      "c": "Interest on fixed asset",
+      "d": "Purpose of partnership"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 358,
+    "question": "Which of the following is entered in the general journal?",
+    "option": {
+      "a": "Purchase of goods",
+      "b": "Sale of goods on credit",
+      "c": "Returns inwards",
+      "d": "Acquisition of fixed assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
   },
   {
     "id": 359,
@@ -656,6 +704,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1242,
+    "question": "<b>Use the information below to answer questions 28 and\n29</b>\n\nSubscription received during the year ₦30,000\nSubscription owed last year ₦4,000\nSubscription received for next year ₦6,000\n\nThe ₦6,000 subscription received is?",
+    "option": {
+      "a": "current asset",
+      "b": "current liability",
+      "c": " fixed asset",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The ₦6,000 subscription received for next year is a current liability.\n\n\nWhen an organization receives money for subscriptions that relate to the following year, it creates an obligation to provide services in the future. This is known as \"unearned revenue\" or \"deferred income.\"\n\nThe organization has received cash (₦6,000)\nBut it has not yet provided the service/benefit for next year\nTherefore, it owes a service to the subscribers\nThis creates a liability that must be settled by providing the service next year\nSince it will be settled within one year, it's a current liability\n\nThis amount would typically be shown on the balance sheet as \"Subscriptions Received in Advance\" or \"Unearned Subscription Income\" under current liabilities.\nNext year, when the service period begins, this liability will be transferred to subscription income in the profit and loss account.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1243,
     "question": "<b>Use the information below to answer questions 28 and\n29</b>\n\nSubscription received during the year ₦30,000\nSubscription owed last year ₦4,000\nSubscription received for next year ₦6,000\n\nWhat is the subscription to be charged to income and expenditure account?",
     "option": {
@@ -830,6 +894,22 @@
     "solution": "Opening inventory + (Purchases − Returns) \nFrom the previous calculation, Purchases = ₦449 500 and Returns = ₦9 200, so net purchases = ₦449 500 − ₦9 200 = ₦440 300.\n\nMaterials available = ₦46,800 + ₦440,300 = ₦487,100",
     "examtype": "utme",
     "examyear": "199"
+  },
+  {
+    "id": 1426,
+    "question": "When the sum of money appears on the credit side of the cash book, but not on the debit side of the bank statement, the sum is regarded as",
+    "option": {
+      "a": "uncredited cheques",
+      "b": " dishonoured cheques",
+      "c": " direct remittance to the bank",
+      "d": " unpresented cheques"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When you record a payment by cheque in your cash book, it appears on the credit side. If that cheque hasn’t yet been presented (i.e. cashed) at the bank, it won’t show up on the bank statement’s debit side. Such outstanding items are called unpresented cheques.",
+    "examtype": "utme",
+    "examyear": "1997"
   },
   {
     "id": 1451,

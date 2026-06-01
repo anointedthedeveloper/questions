@@ -4288,6 +4288,22 @@
     "examyear": "2004"
   },
   {
+    "id": 284,
+    "question": "Find the derivatives of the function y = 2x2(2x - 1) at the point x = -1",
+    "option": {
+      "a": "18",
+      "b": "16",
+      "c": "-4",
+      "d": "-6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "y = 2x<sup>2</sup>(2x - 1)\ny = 4x<sup>3</sup> - 2x<sup>2</sup>\ndy/dx = 12x<sup>2</sup> - 4x\nat x = -1\ndy/dx = 12(-1)<sup>2</sup> - 4(-1)\n= 12 + 4\n= 16",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 285,
     "question": "Evaluate ∫_<sub>1</sub><sup>3</sup>(X<sup>2</sup>-1)dx",
     "option": {

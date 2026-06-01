@@ -65,8 +65,8 @@ RATE_LIMIT = 58   # per key per minute
 DELAY = 0.05      # minimal delay
 
 # Auto-scale parallel requests based on how many keys we have.
-# Each subject gets an equal share of keys, floored to at least 1, capped at 50.
-REQUESTS_PER_ROUND = max(1, min(50, len(API_KEYS) // len(SUBJECTS)))
+# Cap at 30 per subject — too many concurrent connections overwhelms the server.
+REQUESTS_PER_ROUND = max(1, min(30, len(API_KEYS) // len(SUBJECTS)))
 print(f"[config] {REQUESTS_PER_ROUND} parallel requests/round per subject "
       f"({REQUESTS_PER_ROUND * len(SUBJECTS)} total concurrent | "
       f"{len(API_KEYS) * RATE_LIMIT} req/min capacity)")

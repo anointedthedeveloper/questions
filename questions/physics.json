@@ -13632,6 +13632,22 @@
     "examyear": "2011"
   },
   {
+    "id": 970,
+    "question": "Steam burn is more severe than that of boiling water because",
+    "option": {
+      "a": "steam burn is independent of relative humidity",
+      "b": "steam possesses greater heat energy per unit mass",
+      "c": "water boils at a higher temperature",
+      "d": " steam burn is dependent on relative humidity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Steam burns are more severe than boiling water burns because steam possesses greater heat energy per unit mass. When steam condenses on the skin, it releases approximately 2260 kJ/kg of latent heat (in addition to the sensible heat from cooling), whereas boiling water only releases sensible heat as it cools.\nNumerical example:\n\n1 kg of steam at 100°C releases ~2260 kJ when condensing + heat from cooling\n1 kg of water at 100°C releases only ~420 kJ cooling from 100°C to body temperature\nSteam delivers more than 5 times the energy!",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 971,
     "question": "I. Change of state\nII. Diffusion\nIII. Radiation\nIV. Osmosis\nWhich of the processes above can be explained using the kinetic theory?",
     "option": {

@@ -336,6 +336,22 @@
     "examyear": "2009"
   },
   {
+    "id": 49,
+    "question": "Which of these is not contained in a dry cell? ",
+    "option": {
+      "a": "carbon rod ",
+      "b": "paste of magnesium dioxide ",
+      "c": "paste of ammonium chloride ",
+      "d": "zinc case "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 51,
     "question": "A devise that converts sound energy into electrical energy is ",
     "option": {
@@ -1264,6 +1280,22 @@
     "examyear": "2016"
   },
   {
+    "id": 192,
+    "question": "The rate of cooling of a heated quantity of liquid in an enclosure depends on the",
+    "option": {
+      "a": "Pressure of the liquid",
+      "b": "Temperature in the enclosure",
+      "c": "Pressure of the enclosure",
+      "d": "Volume of the liquid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The rate of cooling depends on the temperature in the enclosure (the surrounding temperature).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 202,
     "question": "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is",
     "option": {
@@ -1710,6 +1742,22 @@
     "solution": "All of the statements are true about electrical charge.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 284,
+    "question": "Which of the following does NOT describe the Image formed by a plane minor?",
+    "option": {
+      "a": "Erect",
+      "b": " Laterally inverted",
+      "c": "Same distance from mirror as object",
+      "d": "Magnified"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A plane mirror does NOT produce a magnified image. The image is always the same size as the object with a magnification of 1.",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 285,
@@ -5728,6 +5776,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1006,
+    "question": "An object moves in a circular path of radius 0.5m with a speed of 1ms⁻¹. What is its angular velocity?",
+    "option": {
+      "a": " 8 rads⁻¹",
+      "b": "4 rads⁻¹",
+      "c": "2 rads⁻¹",
+      "d": "1 rads⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\n\nRadius (r) = 0.5 m\nLinear speed (v) = 1 m/s\nAngular velocity (ω) = ?\n\nRelationship between linear and angular velocity:\nv = ωr\nRearranging for angular velocity:\nω = v/r\nSubstituting values:\nω = 1/0.5\nω = 2 rad/s",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1008,
     "question": "A block and tackle is used to raise a load of 250N through a vertical distance of 30m. What is the efficiency of the system if the work done against friction is 1500J?",
     "option": {
@@ -6064,6 +6128,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1066,
+    "question": "If the linear magnification of the objective and eyepiece convex lenses of a compound microscope are 4 and 7 respectively. Calculate the angular magnification of the microscope",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "11",
+      "d": "28"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nLinear magnification of objective = 4\nLinear magnification of eyepiece = 7\n\nSolution:\n\nStep 1: Total magnification of a compound microscope\nThe overall angular magnification (or total magnification) is the product of the magnification of the objective and the magnification of the eyepiece.\n\nStep 2: Multiply the magnifications\nTotal magnification = 4 × 7 = 28",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1069,
     "question": "Capacitors are used in the induction coil to",
     "option": {
@@ -6188,6 +6268,22 @@
     "image": "",
     "answer": "d",
     "solution": "The tyre in motion makes a rotation and it translates in a straight line alongside. if the wheels is turned it continued further in a translational straight line through rotational motion.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1091,
+    "question": "A machine whose efficiency is 75% is used to lift a load of 1000N. Calculate the effort put in to the machine if it has a Velocity ratio of 4.",
+    "option": {
+      "a": " 343.32N",
+      "b": "233.33N",
+      "c": " 333.33N",
+      "d": "334.33N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nEfficiency η = 75% = 0.75\nLoad L = 1000 N\nVelocity ratio VR = 4\n\nSolution:\n\nStep 1: Relationship between efficiency, mechanical advantage, and velocity ratio\nEfficiency η = (Mechanical Advantage) / (Velocity Ratio)\n\nStep 2: Express mechanical advantage\nMechanical Advantage MA = η × VR = 0.75 × 4 = 3\n\nStep 3: Relate mechanical advantage to load and effort\nMA = Load / Effort\nEffort = Load / MA = 1000 N / 3 = 333.333… N\n\nStep 4: Match with options\n333.333 N ≈ 333.33 N",
     "examtype": "utme",
     "examyear": "2014"
   },

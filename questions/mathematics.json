@@ -880,6 +880,22 @@
     "examyear": "2002"
   },
   {
+    "id": 181,
+    "question": "Evaluate ∫sin3xdx",
+    "option": {
+      "a": " (2/3) cos 3x + c",
+      "b": "(1/3) cos 3x + c",
+      "c": "(-1/3) cos 3x + c",
+      "d": "(-2/3) cos 3x + c"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>&#x222B;<!-- ∫ --></mo>\n  <mi>sin</mi>\n  <mo>&#x2061;<!-- ⁡ --></mo>\n  <mn>3</mn>\n  <mi>x</mi>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">d</mi>\n  </mrow>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "∫sin3xdx=−cos3x/3 + c\n= −1/3 (cos 3x) + c",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 186,
     "question": "Find the range of values of x for which (x+2)/4−2x−3/3 < 4",
     "option": {
@@ -4736,6 +4752,22 @@
     "examyear": "2018"
   },
   {
+    "id": 958,
+    "question": "Tanθ is positive and Sinθ is negative. In which quadrant does θ lies",
+    "option": {
+      "a": "Second only",
+      "b": "Third only",
+      "c": "Fourth only",
+      "d": "First and third only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "  First quadrant: Sin, Cos and Tan are all positive\n\n  Second quadrant: Sin is positive, Cos is negative and Tan is negative\n\n  Third quadrant: Tan is positive, Sin is negative and Cos is negative\n\n  Fourth quadrant: Cos is positive, Sin is negative and Tan is negative\n\n  The correct option is the third quadrant only where Tanθ is positive and Sinθ is negative",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 960,
     "question": "The figure above is a Venn diagram showing the elements arranged within sets A,B,C,ε.\nUse the figure to answer this question\n\nWhat is n(A U B)1 ?",
     "option": {
@@ -5584,6 +5616,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1117,
+    "question": "A poultry farmer realized 200 eggs from his birds and sold 5(1/2) crates of eggs. What percentages of eggs are left?",
+    "option": {
+      "a": "82.5%",
+      "b": "15%",
+      "c": "17.5%",
+      "d": "85%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "5 crates = 30 eggs * 5 = 150eggs\n\n1/2 crate = 15 eggs\n\nTotal sold = 165\n\nremainder = 200 - 165 = 35\n\nAnd 35 is equivalent 17.5% of the realized eggs ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1120,
     "question": "Find the equation of a straight line parallel to the line 2x - y = 5 and having intercept of 5",
     "option": {
@@ -6272,6 +6320,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1232,
+    "question": "in the figure above, what is the equation of the line that passes the y-axis at (0,5) and passes the x-axis at (5,0)?",
+    "option": {
+      "a": " y = x + 5",
+      "b": "y = -x + 5",
+      "c": "y = x - 5",
+      "d": "y = -x - 5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206937/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q47_stzvpo.jpg",
+    "answer": "b",
+    "solution": "(x<sub>1</sub> , y<sub>1</sub> ) = (0,5)\n\n(x<sub>2</sub> , y<sub>2</sub> ) = (5, 0)\n\nUsing (y − y<sub>1</sub) /(y<sub>2</sub>  − y<sub>1</sub>)  = (x − x<sub>1</sub>)/(x<sub>2</sub>  − x<sub>1</sub>) \n\n\n(y−5)/(0−5) = (x−0)/(5−0)\n\n\n(y−5)/−5 = x/5\n\n\n5(y - 5) = -5x\n\ny - 5 = -x\n\nx + y = 5\n\ny = -x + 5",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1248,
     "question": "Find the equation of a line which is form origin and passes through the point (−3, −4)",
     "option": {
@@ -6332,6 +6396,22 @@
     "image": "",
     "answer": "d",
     "solution": "I = A − P\n\n= N588 − N525\n\n∴I = N63\n\nI = PRT ÷ 100\n\nR = [100I ÷PT]\n\nR = [(100 × 63 ) ÷ (525 × 3)]\n\n= (6300 ÷ 1575) = 4\n\n∴ The rate = 4 %",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1253,
+    "question": "Given that A = {1, 5, 7}\n\nB = {3, 9, 12, 15}\n\nC = {2, 4, 6, 8}\n\nFind (A ∪ B) ∪ C",
+    "option": {
+      "a": "{1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
+      "b": "{1, 2, 3, 5, 6, 8, 12, 15}",
+      "c": " {2, 4, 5, 9, 12, 15}",
+      "d": " {1, 5, 6, 7, 8, 9, 12, 15}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "{A ∪ B ∪ C}\n\n{A ∪ B} = {1, 3, 5, 7, 9, 12, 15}\n\n∪ C={2,4,6,8}\n\n{A ∪ B} ∪ C = {1, 3, 5, 7, 9, 12, 15} ∪ {2, 4, 6, 8}\n\n= {1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}\n\n{A ∪ B} ∪ C = {1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
     "examtype": "utme",
     "examyear": "2015"
   },

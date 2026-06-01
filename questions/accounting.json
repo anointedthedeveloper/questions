@@ -16,6 +16,22 @@
     "examyear": "2010"
   },
   {
+    "id": 12,
+    "question": "The receipts and payments of a club is the same  as ",
+    "option": {
+      "a": "  Profit and   loss  account  ",
+      "b": "Trading Account ",
+      "c": "Cash book ",
+      "d": "control Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 14,
     "question": "Money set aside for the saving of business overheads    is    referred    to   ",
     "option": {
@@ -315,6 +331,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 113,
+    "question": "A set of instructions or programs which controls the operation of a computer is",
+    "option": {
+      "a": "software.",
+      "b": "hardware.",
+      "c": "monitor.",
+      "d": "keyboard."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -960,6 +992,22 @@
     "examyear": "2012"
   },
   {
+    "id": 293,
+    "question": "Which of the following is not part of the Central Processing Unit of a computer?",
+    "option": {
+      "a": "Arithmetical and Logical unit",
+      "b": "Memory unit",
+      "c": "Input unit",
+      "d": "Control unit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 294,
     "question": "The double entry to record the proceeds on disposal of assets is debit",
     "option": {
@@ -1294,6 +1342,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
+  },
+  {
+    "id": 397,
+    "question": "The recipient whose name appears on a cheque is called a",
+    "option": {
+      "a": "payee",
+      "b": "drawer",
+      "c": "drawee",
+      "d": "payee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 399,
@@ -1744,6 +1808,22 @@
     "examyear": "2016"
   },
   {
+    "id": 584,
+    "question": "The income and expenditure account differs from receipts and payments account because it",
+    "option": {
+      "a": "accounts for notional charges",
+      "b": "records transactions that relate to the period on cash basis",
+      "c": "records transactions that relate to the period on accrual basis",
+      "d": "accounts for balance of cash at bank"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 593,
     "question": "Which of the foloowing is a credit item in creditors ledger control account?",
     "option": {
@@ -1852,6 +1932,22 @@
     "image": "",
     "answer": "b",
     "solution": "Appropriation account is the account into which the net profit found in the profit and loss account of the partner will be carried down to and will be shared according to their sharing ratio",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 618,
+    "question": "In manufacturing account, depreciation of office machine is charged to",
+    "option": {
+      "a": "trading account",
+      "b": "appropriation account",
+      "c": "balance street",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "profit and loss account: the depreciation of the office machine is considered as part of administrative expense which must be charged against the profit of the company",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3392,6 +3488,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1046,
+    "question": "Gamji Memorial Club carried out an activity which yield a profit of ₦10000. This amount is to be transferred to the?",
+    "option": {
+      "a": "debit side of its profit and loss account",
+      "b": "credit side of its profit and loss account",
+      "c": " debit side of its income and expenditure account",
+      "d": "credit side of its income and expenditure account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a not-for-profit organization, profits from activities are treated as surpluses and recorded on the credit side of the Income and Expenditure Account, since they increase the organization's funds.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1058,
     "question": "The tier of government that uses financial memorandum is the?",
     "option": {
@@ -3548,6 +3660,22 @@
     "image": "",
     "answer": "d",
     "solution": "When a branch gives a discount to its customers:\nWhat happens:\n\nThe branch is giving up some money (discount expense)\nThe customer owes less money to the branch\n\nAccounting treatment:\n\nDebit Branch Discount Account = record the expense/cost of giving the discount\nCredit Branch Debtors' Account = reduce what the customer owes\n\nThis follows the basic principle: when you give a discount, it's an expense to you and reduces what the customer owes.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1101,
+    "question": "Transfers from the head office to branches are best carried out at?",
+    "option": {
+      "a": "cost price",
+      "b": "selling price",
+      "c": "cost plus mark-up",
+      "d": "market price"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When the head office transfers goods to branches, the cost price is the best method because:\nAdvantages of cost price:\n\nNo artificial profits - prevents showing profit before actual sale to customers\nTrue performance measurement - branch profits reflect actual sales performance, not inflated transfer prices\nSimpler accounting - easier to track and reconcile\nAccurate stock valuation - inventory shows true cost, not inflated values",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3824,6 +3952,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1179,
+    "question": "<b>Use the information below to answer questions 15 and 16.</b>\n\nThe gross profit ratio for the company is 25%.\n\nIf the total expenses is ₦20,845, what will be the net profit for the company during the month?",
+    "option": {
+      "a": "₦19,149",
+      "b": "₦16,168",
+      "c": "₦21,655",
+      "d": "₦18,405"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665371/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q15-16_nkt1he.png",
+    "answer": "d",
+    "solution": "Step 1: Calculate Gross Profit\nGross profit ratio = (Gross Profit ÷ Net Sales) × 100%\n25% = (Gross Profit ÷ ₦157,000) × 100%\nGross Profit = 25% × ₦157,000\nGross Profit = 0.25 × ₦157,000 = ₦39,250\nStep 2: Calculate Net Profit\nNet Profit = Gross Profit - Total Expenses\nNet Profit = ₦39,250 - ₦20,845\nNet Profit = ₦18,405\nAnswer: ₦18,405",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1182,
     "question": "<b>Use the information below to answer questions 18 and 19.</b>\n\nStock of raw materials (1st January) ₦3000\n\nDirect wages ₦2500\n\nDirect expenses ₦1000\n\nFactory overheads ₦2000\n\nCost of raw materials used ₦5500\n\nStock of finished goods (31st December) ₦2000\n\nDetermine the prime cost?",
     "option": {
@@ -4012,6 +4156,22 @@
     "image": "",
     "answer": "a",
     "solution": "To find the total fixed assets from the opening balance sheet (31/12/98), I Identify which items are fixed assets.\nFixed Assets as at 31/12/98:\n\nPlant & Machinery: ₦1,500\nFixtures: ₦700\n\nTotal Fixed Assets = ₦1,500 + ₦700 = ₦2,200\nNote: Stock, Debtors, and Cash are current assets, not fixed assets. Creditors and Loan are liabilities.\nTherefore, the total fixed assets from the opening balance sheet is ₦2,200.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1240,
+    "question": "<b>Use the information below to answer question 25 and 26.</b>\nBar opening stock ₦10,000\nAmount owed to bar suppliers at\nthe end the beginning of the year ₦10,000\nBar sales ₦50,000\nBar credit purchases ₦40,000\nPayment to suppliers ₦30,000\nBar expenses ₦1,000\nBar closing stock ₦15,000\n\nHow much is owed to suppliers?",
+    "option": {
+      "a": "₦50,000",
+      "b": "₦40,000",
+      "c": "₦30,000",
+      "d": "₦20,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Creditors Account:\n\nOpening balance (amount owed at beginning): ₦10,000\nAdd: Credit purchases during the year: ₦40,000\nLess: Payments made to suppliers: (₦30,000)\nClosing balance (amount owed at end): ?\n\nCalculation:\nClosing balance = Opening balance + Credit purchases - Payments\nClosing balance = ₦10,000 + ₦40,000 - ₦30,000\nClosing balance = ₦50,000 - ₦30,000 = ₦20,000\nTherefore, the amount owed to suppliers at the end of the year is ₦20,000.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -4300,6 +4460,22 @@
     "image": "",
     "answer": "b",
     "solution": "Bank service charges should not be added to or subtracted from the bank statement balance; they are already reflected on the statement and instead are used to adjust the book balance.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1327,
+    "question": "Asa Company bought a vehicle worth ₦20,000 and the vehicle is to be depreciated at 5%. Using the reducing balance method of depreciation, what would be the value of the asset after 3 years?",
+    "option": {
+      "a": "₦19,000.00",
+      "b": "₦18,050.50",
+      "c": "₦17,147.50",
+      "d": "16,290.13"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To find the value of the asset after 3 years using the reducing balance method, Apply the 5% depreciation rate to the remaining balance each year.\nGiven information:\n\nOriginal cost: ₦20,000\nDepreciation rate: 5% per annum\nMethod: Reducing balance\nPeriod: 3 years\n\nYear-by-year calculation:\nYear 1:\n\nDepreciation = ₦20,000 × 5% = ₦1,000\nBook value = ₦20,000 - ₦1,000 = ₦19,000\n\nYear 2:\n\nDepreciation = ₦19,000 × 5% = ₦950\nBook value = ₦19,000 - ₦950 = ₦18,050\n\nYear 3:\n\nDepreciation = ₦18,050 × 5% = ₦902.50\nBook value = ₦18,050 - ₦902.50 = ₦17,147.50\n\nAlternative formula method:\nBook value = Original cost × (1 - depreciation rate)^number of years\nBook value = ₦20,000 × (1 - 0.05)³\nBook value = ₦20,000 × (0.95)³\nBook value = ₦20,000 × 0.857375\nBook value = ₦17,147.50",
     "examtype": "utme",
     "examyear": "1999"
   },

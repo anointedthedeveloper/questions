@@ -1,12 +1,15 @@
 import re, json
 
 def resolve_conflicts(text):
-    # Keep applying until no more conflict markers remain
     pattern = re.compile(r'<<<<<<< [^\n]*\n(.*?)=======.*?>>>>>>> [^\n]*\n', re.DOTALL)
     prev = None
     while prev != text:
         prev = text
         text = pattern.sub(lambda m: m.group(1), text)
+    # Remove any remaining orphaned conflict marker lines
+    text = re.sub(r'^<<<<<<< [^\n]*\n', '', text, flags=re.MULTILINE)
+    text = re.sub(r'^>>>>>>> [^\n]*\n', '', text, flags=re.MULTILINE)
+    text = re.sub(r'^=======\n', '', text, flags=re.MULTILINE)
     return text
 
 for subject in ['economics', 'mathematics', 'physics']:
@@ -18,24 +21,20 @@ for subject in ['economics', 'mathematics', 'physics']:
 
     cleaned = resolve_conflicts(raw)
 
-    remaining = cleaned.count('<<<<<<<') + cleaned.count('>>>>>>>') 
+    remaining = cleaned.count('<<<<<<<') + cleaned.count('>>>>>>>')
     if remaining:
-        print(f'{subject}: WARNING - {remaining} conflict markers still remain')
-        # Show first remaining
-        idx = cleaned.find('<<<<<<<')
-        if idx == -1:
-            idx = cleaned.find('>>>>>>>')
-        print(repr(cleaned[max(0,idx-50):idx+200]))
+        print(f'{subject}: WARNING - {remaining} conflict markers still remain after cleanup')
         continue
 
     try:
         new_data = json.loads(cleaned)
     except json.JSONDecodeError as e:
         print(f'{subject}: JSON error after cleaning: {e}')
-        print(repr(cleaned[max(0,e.pos-100):e.pos+200]))
+        # Write cleaned to temp file for inspection
+        with open(f'debug_{subject}_cleaned.json', 'w', encoding='utf-8') as f:
+            f.write(cleaned)
         continue
 
-    # Load existing main file
     with open(main_path, encoding='utf-8') as f:
         main_data = json.load(f)
 
@@ -48,6 +47,6 @@ for subject in ['economics', 'mathematics', 'physics']:
         merged = main_data + new_questions
         with open(main_path, 'w', encoding='utf-8') as f:
             json.dump(merged, f, ensure_ascii=False, indent=2)
-        print(f'{subject}: merged {len(new_questions)} new questions -> {len(merged)} total')
+        print(f'{subject}: merged -> {len(merged)} total questions')
     else:
         print(f'{subject}: no new questions to add')

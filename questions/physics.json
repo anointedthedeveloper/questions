@@ -272,6 +272,22 @@
     "examyear": "2009"
   },
   {
+    "id": 53,
+    "question": "The mode of heat transfer which does not require material medium is",
+    "option": {
+      "a": "conduction ",
+      "b": "radiation ",
+      "c": "convection ",
+      "d": "propagation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 56,
     "question": "Which of the following  is common to evaporation and boiling, they ",
     "option": {
@@ -327,6 +343,22 @@
       "b": "mass ",
       "c": "gravity ",
       "d": "weight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 66,
+    "question": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of ",
+    "option": {
+      "a": "2:01",
+      "b": "1:02",
+      "c": "1:04",
+      "d": "1:16"
     },
     "section": "",
     "image": "",
@@ -407,6 +439,22 @@
       "b": "80N ",
       "c": "170N ",
       "d": "24N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 77,
+    "question": "  A gas at constant pressure of 4.0 x 105 Pa is cooled so that its volume decreases from 1.6m3 to 1.2m3. What work is performed by the gas? ",
+    "option": {
+      "a": "6.4 x 105 J ",
+      "b": "3.2 x 105 J  ",
+      "c": "1.6 x 105 J ",
+      "d": "0.4 x 105 J  "
     },
     "section": "",
     "image": "",
@@ -908,6 +956,22 @@
     "image": "",
     "answer": "c",
     "solution": "Microscope is used for nearby object",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 169,
+    "question": "The symbol  ₋₁⁰X used to represent which of the particles?",
+    "option": {
+      "a": "Proton",
+      "b": "Neutron",
+      "c": "Electrons",
+      "d": "Atoms"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The symbol ₋₁⁰X shows:\n\n0 (top) = mass number (electrons have negligible mass)\n-1 (bottom) = charge (electrons are negatively charged)\n\nAnswer: C. Electrons\nElectrons have zero mass and a charge of -1, which matches the symbol ₋₁⁰X.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1422,6 +1486,22 @@
     "solution": "All of the statements are true about electrical charge.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 285,
+    "question": "What is the resultant resistance of the circuit in the image shown?",
+    "option": {
+      "a": "8Ω",
+      "b": "11Ω",
+      "c": "4Ω",
+      "d": "3.6Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611440/ALOC-Questions/Physics/2018/2018_Q_6_lgs4bl.jpg",
+    "answer": "a",
+    "solution": "From the circuit diagram:\n\n3Ω resistor in series with parallel combination\nTwo 2Ω resistors in parallel with each other\n4Ω resistor in series with the parallel combination\n\nStep 1: Calculate equivalent resistance of the two 2Ω resistors in parallel\nFor parallel resistors:\n1/R_parallel = 1/2 + 1/2 = 2/2 = 1\nR_parallel = 1Ω\nStep 2: Add all series resistances\nTotal resistance = 3Ω + 1Ω + 4Ω\nTotal resistance = 8Ω",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 286,
@@ -3440,6 +3520,22 @@
     "examyear": "2005"
   },
   {
+    "id": 687,
+    "question": "\nIn the circuit diagram of a transistor above, the terminal P, Q and R represent",
+    "option": {
+      "a": "EMITTER, BASE and COLLECTOR",
+      "b": "COLLECTOR, EMITTER and BASE",
+      "c": "BASE, COLLECTOR and EMITTER",
+      "d": " BASE, EMITTER and COLLECTOR"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296766/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_38_snlarm.png",
+    "answer": "a",
+    "solution": "Recognize transistor type\nThe arrow points FROM the center line TOWARD terminal P, indicating an NPN transistor.\nStep 3: Identify terminals\nIn a transistor symbol:\n\nBASE (B): The line that connects to the central vertical bar (terminal Q)\nCOLLECTOR (C): The line without an arrow (terminal R)\nEMITTER (E): The line with the arrow (terminal P)\nThe arrow always points from emitter, indicating current flow direction.\n\nP = EMITTER (has arrow)\nQ = BASE (center connection)\nR = COLLECTOR (top terminal without arrow)\n\nP, Q, R represent: EMITTER, BASE and COLLECTOR",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 688,
     "question": "²³⁵₉₂U + ¹₀n → ¹⁴⁴₅₆Ba + ⁹⁰₃₆Kr + 2X\nIn the reaction above, X is",
     "option": {
@@ -3532,6 +3628,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nHeater current, I = 2.0 A\n\nHeater voltage, V = 240 V\n\nMass of water, m = 2.5 kg\n\nInitial temperature, T₁ = 52 °C\n\nFinal temperature, T₂ = 100 °C\n\nSpecific heat capacity of water, c = 4.2 × 10³ J kg⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Compute the power of the heater\nPower, P = I × V = 2.0 A × 240 V = 480 W\n\nStep 2: Compute the heat energy required to raise the water temperature\nTemperature change, ΔT = T₂ − T₁ = 100 °C − 52 °C = 48 K\nHeat required, Q = m × c × ΔT = 2.5 kg × 4.2 × 10³ J kg⁻¹ K⁻¹ × 48 K\n\nStep 3: Calculate Q\nFirst, 2.5 × 4.2 × 10³ = 10.5 × 10³ = 1.05 × 10⁴\nThen, 1.05 × 10⁴ × 48 = 1.05 × 10⁴ × 4.8 × 10¹ = (1.05 × 4.8) × 10⁵ = 5.04 × 10⁵ J\nStep 4: Equate heat energy to electrical energy supplied\nElectrical energy supplied in time t: E = P × t\nAssuming no losses, Q = E ⇒ t = Q / P\n\nStep 5: Calculate time t\nt = 504000 J / 480 W = 1050 s\n\nStep 6: Express in scientific notation\n1050 s = 1.05 × 10³ s",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 710,
+    "question": "The main purpose of the transformer in an a.c radio set is to?",
+    "option": {
+      "a": "increase power to the radio",
+      "b": "step up the voltage",
+      "c": " convert energy from a.c to d.c",
+      "d": "step down the voltage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nIn many AC radio circuits, transformers are used primarily to reduce the voltage to levels suitable for safe and effective operation of the components.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -4224,6 +4336,22 @@
     "examyear": "2009"
   },
   {
+    "id": 858,
+    "question": "If a load of mass 10 N stretched a cord by 1.2 cm, what is the total work done?",
+    "option": {
+      "a": "6.0 × 10⁻² J",
+      "b": "7.6 × 10⁻² J",
+      "c": " 1.8 × 10⁻² J",
+      "d": " 6.6 × 10⁻² J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nForce (weight of load) = 10 N\nExtension = 1.2 cm = 0.012 m\n\n\nStep 1: Interpret the situation\nThe cord behaves like a spring; the force is proportional to extension (Hooke’s law). The work done in stretching the cord is the area under the force‑extension graph, which is a triangle:\nWork = ½ × force × extension\n\nStep 2: Calculate work\nWork = ½ × 10 N × 0.012 m = 5 × 0.012 = 0.06 J = 6.0 × 10⁻² J",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 859,
     "question": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is?",
     "option": {
@@ -4398,6 +4526,22 @@
     "solution": "Neutral Equilibrium: If the body neither returns to its original position nor increases its displacement further, it will simply adopt its new position.\n\nExamples of neutral equilibrium\n\nBall moving on the ground.\nMotion of sphere.\nA roller.\nA pencil lying horizontally.\nAn egg lying horizontally on a flat surface.",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 905,
+    "question": "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire",
+    "option": {
+      "a": "0.75 J",
+      "b": " 7.50 J",
+      "c": "75.00 J",
+      "d": "750.00 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Energy stored in a stretched wire (strain energy)\n= average force x extension\n= (1)/2 Fe\n= (1)/2 x 300 N (30.5 - 30.0) x 10-2 m\n= (300)/2 x 0.5 x 10-2 = 0.75J",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 909,

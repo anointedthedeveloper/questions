@@ -1264,6 +1264,22 @@
     "examyear": "2004"
   },
   {
+    "id": 307,
+    "question": "Find P, if 451<sub>6</sub> - P<sub>7</sub> = 305<sub>6</sub>",
+    "option": {
+      "a": "62<sub>7</sub>",
+      "b": "116<sub>7</sub>",
+      "c": "611<sub>7</sub>",
+      "d": "142<sub>7</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\n451 <sub>6</sub> - P <sub>7</sub> = 305 <sub>6</sub>\nP <sub>7</sub> = 451 <sub>6</sub> - 305 <sub>6</sub>\nP <sub>7</sub = 142<sub>6</sub>\nconvert 142<sub>6</sub>\n= 1 * 6<sup>2</sup> + 4 * 6<sup>1</sup> + 2 * 6<sup>0</sup>\n= 36 + 24 + 2\n= 62\nConvert 62<sub>10</sub>  to base 7\n62/7 = 8 R 6\n8/7 = 1 R 1\n1/7 = 0 R 1\n∴ P <sub>7</sub = 116<sub>7</sub",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 308,
     "question": "Given that 3√4<sup>2x</sup>  = 16, find the value of x",
     "option": {
@@ -2096,6 +2112,22 @@
     "examyear": "2008"
   },
   {
+    "id": 480,
+    "question": "If (1+√2)/(1-√2)\n is expressed in the form of x+y√2 find the values of x and y",
+    "option": {
+      "a": "(-3, -2)",
+      "b": ". (-2, 3)",
+      "c": "(3,2)",
+      "d": "(2,-3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(1+√2)/(1-√2) × (1+√2)/(1+√2) = (1+(1+√2)+√2(1+√2))/(1<sup>2</sup>-(√2 )<sup>2</sup> )=((1+√2+√2+2))/(1-2)=(3+2√2)/(-1)=-3-2√2∴XandY=-3and-2",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 483,
     "question": "Make Q the subject of formula when L = 4/3 M√PQ",
     "option": {
@@ -2108,6 +2140,22 @@
     "image": "",
     "answer": "a",
     "solution": "L=4/3 M√PQ=3/4M×L=√PQ=〖(3L/4M)〗<sup>2</sup>=(√PQ )<sup>2</sup>=(9L<sup>2</sup>)/(16M<sup>2</sup> )=PQ=Q=(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 485,
+    "question": "Factorize completely; (4x+3y)<sup>2</sup>\n - (3x-2y)<sup>2</sup>\n ",
+    "option": {
+      "a": " (x+5y)(7x+y)",
+      "b": " (x+5y)(7x-y)",
+      "c": " (x-5y)(7x+y)",
+      "d": " (x-5y)(7x-y)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(4x+3y)<sup>2</sup>\n - (3x-2y)<sup>2</sup>\n \n\nUsing the differences of two squares:\n\n(4x+3y+3x-2y)(4x+3y-(3x-2y))\n\n(4x+3y+3x-2y)(4x+3y-3x+2y)\n\n(x+5y)(7x+y)",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -2720,6 +2768,22 @@
     "examyear": "2010"
   },
   {
+    "id": 618,
+    "question": "Find the standard deviation of 2, 3, 5 and 6",
+    "option": {
+      "a": "√6",
+      "b": "√10",
+      "c": "√2/5",
+      "d": "√5/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 619,
     "question": "W is directly proportional to U. If W = 5 when U = 3, find U when W = 2/7",
     "option": {
@@ -2734,6 +2798,22 @@
     "solution": "W α U\n\nW = ku\n\nu = w/k; 2/7 x 3/5\n\n= 6/35",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 625,
+    "question": "If the numbers M, N, Q are in the ratio 5:4:3, find the value of 2N−Q/M",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "1",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "M:N:Q == 5:4:3\n\ni.e M = 5, N = 4, Q = 3\n\nSubstituting values into equation, we have...\n\n2N−Q/M\n\n\n= 2(4)−3/5\n\n\n= 8−3/5\n\n\n= 5/5\n\n\n= 1",
+    "examtype": "utme",
+    "examyear": "2011"
   },
   {
     "id": 627,
@@ -2764,6 +2844,22 @@
     "image": "",
     "answer": "b",
     "solution": "√2+1/√3)(√2-1/√3.    √4-√2/√3+√2/√3-1/√9 = 2 - 1/3\n\n\n= (16−1)/3\n\n\n= 5/3",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 631,
+    "question": "Make R the subject of the formula if T = KR<sup>2</sup>+M/3",
+    "option": {
+      "a": "√((3T-K)/M)",
+      "b": "√((3T-M)/K)",
+      "c": "√((3T+K)/M)",
+      "d": "√((3T-K)/M)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "T = KR<sup>2</sup>+M/3\n\n\n3T = KR<sup>2</sup> + M\n\nKR2<sup>2</sup> = 3T - M\n\nR<sup>2</sup> = 3T−M/K\n\n\nR = √3T−M/K",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -3628,6 +3724,22 @@
     "image": "",
     "answer": "d",
     "solution": "by method of long division, we get the answer.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 892,
+    "question": "A car dealer bought a second-hand car for 250,000 and spent N 70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
+    "option": {
+      "a": " 60%",
+      "b": "32%",
+      "c": "25%",
+      "d": "20%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Total Cost Price = N(250,000 + 70,000)\n\n= N 320,000\n\nSelling Price = N 400,000(Given)\n\nGain = Selling Price - Cost Price\n\n= 400,000 - 320,000\n\n= 80,000\n\n% gain = Gain/Cost Price\n × 100\n\n= (80,000/320,000) × 100\n\nGain % = 25%",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4672,6 +4784,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1110,
+    "question": "In how many ways can the letter of ZOOLOGY be arranged?",
+    "option": {
+      "a": "720",
+      "b": " 360",
+      "c": "840",
+      "d": "120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Zoology has 7 letters in total, with O repeated thrice\n\n7!/3!\n → 7∗6∗5∗4∗3∗2∗1/3∗2∗1\n= 840ways",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1114,
     "question": "Evaluate Log<sub>2</sub> 8√2",
     "option": {
@@ -5276,6 +5404,22 @@
     "image": "",
     "answer": "b",
     "solution": "The slope of the line from (0, 0) passing through (-3, -4) = (−4−0)/(−3−0) = 4/3\nEquation of a line is given as y=mx+b, where m = slope and b = intercept.\n\nTo get the value of b, we use a point on the line, say (0, 0).\n\ny=4/3x+b\n0=4/3(0)+b\nb = 0\nThe equation of the line is y = 4/3x",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1250,
+    "question": "Make x the subject of the equation\ns = 2 + t/5(x + ⅗y)",
+    "option": {
+      "a": " x = 5[(s − 2) ÷ t] - 3/5y",
+      "b": "x = 25[(s − 2) ÷ t] − 3ty",
+      "c": "x = [1 ÷ (s − 2)3ty]",
+      "d": "x = [5(s − 2) 2 ÷ 3ty] × t"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2015"
   },

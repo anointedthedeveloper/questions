@@ -2816,6 +2816,22 @@
     "examyear": "2019"
   },
   {
+    "id": 736,
+    "question": "Given the following manufacturing information: stock of finished goods on January 1st was ₦50,640 and on December 31st was ₦71,380; stock of raw materials on January 1st was ₦32,160 and on December 31st was ₦29,640; purchase of raw materials was ₦145,000; manufacturing wages were ₦52,000; depreciation on factory equipment was ₦16,500; direct expenses were ₦12,500; factory fuel cost ₦7,000; and carriage inwards on raw materials was ₦7,000, What is the Total Prime Cost?",
+    "option": {
+      "a": "₦220,480",
+      "b": "₦219,020",
+      "c": "₦200,480",
+      "d": "₦190,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Total Prime Cost:\nPrime Cost = Cost of Raw Materials Consumed + Manufacturing Wages + Direct Expenses\nPrime Cost = ₦154,520 + ₦52,000 + ₦12,500 = ₦219,020",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 741,
     "question": "Goods can be charged to branches using any of these pricing methods except",
     "option": {
@@ -3148,6 +3164,22 @@
     "image": "",
     "answer": "c",
     "solution": "Only the bank overdraft is a credit balance, so the total on the credit side of the trial balance is ₦2,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 819,
+    "question": "Use the information below to answer this question:\ni. cash at bank  ii. cash in hand  iii. premises  iv. land  v. creditors  vi. loan from friends/bank\n\nWhat are the current assets?",
+    "option": {
+      "a": "i and v",
+      "b": "i and ii",
+      "c": " ii and iv",
+      "d": "iii and v"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Current assets are short‑term assets expected to be converted into cash within one year. From the list, cash at bank and cash in hand are the current assets.",
     "examtype": "utme",
     "examyear": "2021"
   },

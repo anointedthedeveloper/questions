@@ -240,6 +240,22 @@
     "examyear": "2007"
   },
   {
+    "id": 39,
+    "question": "One of the following said: “the lion has roared who will not fear? The Lord has spoken, who can  but prophesy?” ",
+    "option": {
+      "a": "Nathan ",
+      "b": "Jeremiah ",
+      "c": "Amos ",
+      "d": "Hosea"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 41,
     "question": "Joshua’s first victory was over the people of ",
     "option": {
@@ -391,6 +407,22 @@
       "b": "Isaiah ",
       "c": "Ezekiel ",
       "d": "Amos"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 69,
+    "question": "One of the following said: “the lion has roared who will not fear? ",
+    "option": {
+      "a": "Nathan ",
+      "b": "Jeremiah ",
+      "c": "Amos ",
+      "d": "Hosea"
     },
     "section": "",
     "image": "",
@@ -1179,6 +1211,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 225,
+    "question": "The final trial of Jesus was presided over by",
+    "option": {
+      "a": "Herod",
+      "b": "Caiaphas",
+      "c": "the High Priest",
+      "d": "Pilate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -3584,6 +3632,22 @@
     "examyear": "2011"
   },
   {
+    "id": 686,
+    "question": "The New Life in Christ operates through",
+    "option": {
+      "a": "humility.",
+      "b": "the name of Jesus.",
+      "c": "one body.",
+      "d": "wisdom."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 690,
     "question": "With respect to the date of the Parosia, Paul advised Thessalonians to",
     "option": {
@@ -3899,6 +3963,22 @@
     "section": "",
     "image": "",
     "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 755,
+    "question": "St James teaching on impartiality centers on_________",
+    "option": {
+      "a": "A Giving the place of the rich to the poor and in the church",
+      "b": "Loving our neighbours as ourselves in all situation",
+      "c": "The rich spending their wealth on the poor for social equity",
+      "d": "Christians not being partial to idle people"
+    },
+    "section": "",
+    "image": "",
+    "answer": " b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -4784,6 +4864,22 @@
     "examyear": "2013"
   },
   {
+    "id": 892,
+    "question": "In the first creation story, the major difference between man and all other living things was that ",
+    "option": {
+      "a": "every other thing was created after man. ",
+      "b": "only man was given the power to be fruitful. ",
+      "c": "all other things were not created male and female. ",
+      "d": "man was created in the image of the creator"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 893,
     "question": "How old was Abram when God appeared to him the second time? ",
     "option": {
@@ -5054,6 +5150,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
+  },
+  {
+    "id": 941,
+    "question": "Eve was to have pains at childbirth because she ",
+    "option": {
+      "a": "seduced Adam. ",
+      "b": "conversed with the serpent. ",
+      "c": "ate of the tree of life.   ",
+      "d": "ate of the tree of good and evil."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
   },
   {
     "id": 944,
@@ -5451,6 +5563,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1021,
+    "question": "On Ascension day two men in white robes inform the disciples that Jesus would ",
+    "option": {
+      "a": "send for them.   ",
+      "b": "be seen in heaven. ",
+      "c": "prepare a place for them.    ",
+      "d": "come again"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"

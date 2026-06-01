@@ -11152,6 +11152,22 @@
     "examyear": "2006"
   },
   {
+    "id": 731,
+    "question": "A certain manufacturer wishes to make an n-type semiconductor. Which materials would he select for doping?",
+    "option": {
+      "a": "boron and antimony",
+      "b": "boron and sodium",
+      "c": "aluminium and indium",
+      "d": "arsenic and antimony"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An n- type semi conductor is usually formed by dopping the semi conductor(a four valent element)with a five valent\nelement.(arsenic and antimony)",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 732,
     "question": "A p-n junction diode is used as?",
     "option": {

@@ -1120,6 +1120,22 @@
     "examyear": "2006"
   },
   {
+    "id": 252,
+    "question": "The adjusted cash book balance is",
+    "option": {
+      "a": "D11,200",
+      "b": "D8,400",
+      "c": "D6,200",
+      "d": "D5,600"
+    },
+    "section": "Balance as per cash book [8,400], Bank charges [300], Standing order paid [2,500 ], Unpresented cheques [2,800]",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 253,
     "question": "The balance as per bank statement is",
     "option": {
@@ -1147,6 +1163,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 256,
+    "question": "Rent expenses for the year 2005 is",
+    "option": {
+      "a": "N 11,400",
+      "b": "N  11,300",
+      "c": "N  11,200",
+      "d": "N  10,200."
+    },
+    "section": "Rent accrued 1st January, 2005 [600], Rent paid in 2005 [11,300], Rent prepaid 31st December, 2005 [500]",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -1575,6 +1607,22 @@
       "b": "Rent and rates",
       "c": "Canteen expenses",
       "d": "Discount allowed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 342,
+    "question": "Which of the following is found on the credit side of a partnership’s appropriation of profit account?",
+    "option": {
+      "a": "Interest on capital",
+      "b": "Interest on drawings",
+      "c": "share of profit",
+      "d": "Drawings"
     },
     "section": "",
     "image": "",
@@ -3920,6 +3968,22 @@
     "examyear": "2023"
   },
   {
+    "id": 897,
+    "question": "From the following bank reconciliation information: Balance as per cash book is ₦5,467, Uncredited cheques amount to ₦4,410, and Unpresented cheques total ₦19,404. What is the balance as per bank statement?",
+    "option": {
+      "a": "₦20,461",
+      "b": "₦21,091",
+      "c": "₦21,109",
+      "d": " ₦19,021"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Balance per bank statement = Balance per cash book + Unpresented cheques − Uncredited cheques\n= ₦5,467 + ₦19,404 − ₦4,410\n= ₦20,461",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 900,
     "question": "Given:\nI. Cash refunds\nII. Debit note issued\nIII. Dishnoured cheque\nIV. Purchases\n\nThe item on the credit side of purchase ledger control account includes",
     "option": {
@@ -6176,6 +6240,22 @@
     "examyear": "1998"
   },
   {
+    "id": 1383,
+    "question": "On Ist January, 1993, lobo Company purchased equipment for ₦18,000. it uses straight-line depreciation with an estimates eight-year useful life and a ₦2,000 salvage value. On 31st December, 1996, it sells the equipment for ₦8000. In recording this sales, it should reflect?",
+    "option": {
+      "a": "₦10,000 loss",
+      "b": "₦2,000 loss",
+      "c": "₦4,000 loss",
+      "d": "₦8,000 gain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find the gain or loss on sale of equipment, calculate the book value at the time of sale and compare it to the selling price.\nGiven information:\n\nPurchase date: January 1, 1993\nCost: ₦18,000\nUseful life: 8 years\nSalvage value: ₦2,000\nSale date: December 31, 1996\nSelling price: ₦8,000\n\nStep 1: Calculate annual depreciation\nAnnual depreciation = (Cost - Salvage value) ÷ Useful life\nAnnual depreciation = (₦18,000 - ₦2,000) ÷ 8 years = ₦2,000 per year\nStep 2: Calculate accumulated depreciation by December 31, 1996\nPeriod of use: January 1, 1993 to December 31, 1996 = 4 years\nAccumulated depreciation = ₦2,000 × 4 years = ₦8,000\nStep 3: Calculate book value at time of sale\nBook value = Cost - Accumulated depreciation\nBook value = ₦18,000 - ₦8,000 = ₦10,000\nStep 4: Calculate gain/loss on sale\nLoss on sale = Book value - Selling price\nLoss on sale = ₦10,000 - ₦8,000 = ₦2,000 loss",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1384,
     "question": "The balance on a purchase ledger control account represents the?",
     "option": {
@@ -6380,6 +6460,22 @@
     "image": "",
     "answer": "a",
     "solution": "Discount allowed is a reduction granted to customers for early payment. It:\n\nReduces the amount receivable from debtors (hence reduces the balance of the sales ledger control account).\n\nIt does not increase net profit (it actually reduces it),\n\nIt does not affect the value of sales,\n\nIt has nothing to do with purchases",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1440,
+    "question": "Given:\nCapital at the beginning...............₦20 000\nDrawings...............................₦3 000\nCapital................................₦30 000\n₦ew capital introduced.................₦8 000\n\nWhat is the profit for the period?",
+    "option": {
+      "a": "₦4 000",
+      "b": "₦5 000",
+      "c": "₦6 000",
+      "d": "₦8 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Using the capital comparison method:\n\nProfit = Closing capital − Opening capital − New capital introduced + Drawings\nGiven:\nOpening capital = ₦20,000\n\nClosing capital = ₦30,000\n\nNew capital introduced = ₦8,000\n\nDrawings = ₦3,000\n\nCalculation:\nProfit = ₦30,000 − ₦20,000 − ₦8,000 + ₦3,000\nProfit = ₦5,000",
     "examtype": "utme",
     "examyear": "1997"
   },

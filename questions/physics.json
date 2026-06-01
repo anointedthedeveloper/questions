@@ -848,6 +848,22 @@
     "examyear": "2015"
   },
   {
+    "id": 141,
+    "question": "A vector quantity can only be completely described when ……… and …………are mentioned.",
+    "option": {
+      "a": "Magnitude and motion",
+      "b": " Magnitude and direction",
+      "c": "Distance and specified displacement",
+      "d": "Moment and momentum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A vector quantity has both magnitude and direction",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 142,
     "question": "In which of the following device is the expansion of solid not required?\n\nI. Simple pendulum\nII. Fire alarms\nIII. Thermostat\nIV. Bimetallic thermometer",
     "option": {
@@ -4400,6 +4416,22 @@
     "examyear": "2008"
   },
   {
+    "id": 847,
+    "question": "If electrons are accelerated from rest through a potential difference of 10kV, what is the wavelength of the associated electron? [m = 9.1 × 10⁻³¹ kg, e = 1.6 × 10⁻¹⁹ C, h = 6.6 × 10⁻³⁴ Js]",
+    "option": {
+      "a": "1.22 × 10⁻¹¹ m",
+      "b": "3.87 × 10⁻¹⁰ m",
+      "c": "2.27 × 10¹¹ m",
+      "d": " 2.27 × 10¹⁴ m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nPotential difference (V) = 10 kV = 10,000 V\nMass of electron (m) = 9.1 × 10⁻³¹ kg\nCharge of electron (e) = 1.6 × 10⁻¹⁹ C\nPlanck's constant (h) = 6.6 × 10⁻³⁴ Js\nWavelength (λ) = ?\n\nStep 1: Calculate kinetic energy gained\nKE = eV\nKE = 1.6 × 10⁻¹⁹ × 10,000\nKE = 1.6 × 10⁻¹⁵ J\nStep 2: Calculate velocity\nKE = ½mv²\nv² = 2KE/m\nv² = (2 × 1.6 × 10⁻¹⁵)/(9.1 × 10⁻³¹)\nv² = (3.2 × 10⁻¹⁵)/(9.1 × 10⁻³¹)\nv² = 3.516 × 10¹⁵\nv = 5.93 × 10⁷ m/s\nStep 3: Calculate momentum\np = mv\np = 9.1 × 10⁻³¹ × 5.93 × 10⁷\np = 5.40 × 10⁻²³ kg·m/s\nStep 4: Calculate de Broglie wavelength\nλ = h/p\nλ = (6.6 × 10⁻³⁴)/(5.40 × 10⁻²³)\nλ = 1.22 × 10⁻¹¹ m",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 849,
     "question": "A ray of light traveling from air into glass is incident at an angle of 60° to the normal. If the refractive index of the glass is 1.5, calculate the angle of refraction in the glass.",
     "option": {
@@ -5436,6 +5468,22 @@
     "image": "",
     "answer": "d",
     "solution": "\nGiven information:\n\nMass (m) = 70 kg\nAcceleration of elevator (a) = 1.5 m/s² (downward)\ng = 10 m/s²\nApparent weight loss = ?\n\nUnderstanding apparent weight:\nWhen elevator accelerates downward:\n\nMan experiences reduced normal force from floor\nFeels lighter than usual\nApparent weight < Actual weight\n\nStep 1: Calculate actual weight\nActual weight (W) = mg\nW = 70 × 10\nW = 700 N\nStep 2: Calculate apparent weight\nWhen elevator accelerates downward with acceleration a:\nApparent weight = m(g - a)\nApparent weight = 70(10 - 1.5)\nApparent weight = 70 × 8.5\nApparent weight = 595 N\nStep 3: Calculate apparent weight loss\nWeight loss = Actual weight - Apparent weight\nWeight loss = 700 - 595\nWeight loss = 105 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1050,
+    "question": "What volume of alcohol will have same mass as 4.2 m³ of petrol? Density of alcohol = 8.4 × 10² kgm⁻³, density of petrol = 7.2 × 10² kgm⁻³",
+    "option": {
+      "a": " 0.8 m³",
+      "b": "1.4 m³",
+      "c": "3.6 m³",
+      "d": " 4.9 m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nVolume of petrol (V_petrol) = 4.2 m³\nDensity of alcohol (ρ_alcohol) = 8.4 × 10² kg/m³ = 840 kg/m³\nDensity of petrol (ρ_petrol) = 7.2 × 10² kg/m³ = 720 kg/m³\nVolume of alcohol (V_alcohol) = ?\n\nCondition: Same mass\nStep 1: Calculate mass of petrol\nMass = Density × Volume\nm_petrol = ρ_petrol × V_petrol\nm_petrol = 720 × 4.2\nm_petrol = 3024 kg\nStep 2: Calculate volume of alcohol with same mass\nm_alcohol = m_petrol = 3024 kg\nm_alcohol = ρ_alcohol × V_alcohol\nRearranging:\nV_alcohol = m_alcohol / ρ_alcohol\nV_alcohol = 3024 / 840\nV_alcohol = 3.6 m³",
     "examtype": "utme",
     "examyear": "2013"
   },

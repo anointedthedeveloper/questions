@@ -592,6 +592,22 @@
     "examyear": "2000"
   },
   {
+    "id": 117,
+    "question": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places ",
+    "option": {
+      "a": "20.980",
+      "b": " 20.351",
+      "c": "20.981",
+      "d": "20.352"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Hint: Use BODMAS, in other words, do multiplication of the second and the last first before subtracting value obtained from the first.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 133,
     "question": "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity elements is -1, find the inverse of the element 2 under *.",
     "option": {
@@ -3552,6 +3568,22 @@
     "examyear": "2013"
   },
   {
+    "id": 792,
+    "question": "Find the mean of t + 2, 2t - 4, 3t + 2 and 2t.",
+    "option": {
+      "a": "t + 1",
+      "b": "2t",
+      "c": " 2t + 1",
+      "d": "t"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "∑x\n  = (t + 2) + (2t + 4) + (3t + 2) + 2t = 8t\n\nN = 4\n\n∴ Mean, x = ∑xN=8t4=2t\n\n\n= 2t",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 793,
     "question": "The mean of seven numbers is 10. If six of the numbers are 2, 4, 8, 14, 16 and 18, find the mode.",
     "option": {
@@ -4172,6 +4204,22 @@
     "image": "",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 941,
+    "question": "In the diagram, GI is a tangent to the circle at H. If EF||GI, calculate the size of ∠EHF",
+    "option": {
+      "a": "126°",
+      "b": "72°",
+      "c": "54°",
+      "d": "28°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006406/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q23_lnsqew.jpg",
+    "answer": "b",
+    "solution": "<IHF = < EFH = 54° ( alternate angles)\n\n< EHG = < EFH = 54° ( alternate segment)\n\n54° + 54° + < EHF = 180° ( sum of angles in a triangle)\n\n< EHF = 180° - 108° = 72°",
     "examtype": "utme",
     "examyear": "2018"
   },

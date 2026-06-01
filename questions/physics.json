@@ -7472,6 +7472,22 @@
     "examyear": "2024"
   },
   {
+    "id": 592,
+    "question": "What is the inductive reactance of a coil of 7H when connected to a 50Hz a.c circuit?",
+    "option": {
+      "a": "2200Ω",
+      "b": "2000Ω",
+      "c": "1200Ω",
+      "d": "1100Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInductance (L) = 7 H\nFrequency (f) = 50 Hz\nInductive reactance (X_L) = ?\n\nFormula for inductive reactance:\nX_L = 2πfL\nSubstituting values:\nX_L = 2 × π × 50 × 7\nX_L = 2 × 3.14159 × 50 × 7\nX_L = 6.28318 × 350\nX_L = 2199.1 Ω\nX_L ≈ 2200 Ω",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 593,
     "question": "If a charge ion goes through a combined electric field E and magnetic field B, the resultant emergent velocity of the ion is ",
     "option": {

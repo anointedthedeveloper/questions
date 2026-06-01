@@ -3056,6 +3056,22 @@
     "examyear": "2016"
   },
   {
+    "id": 241,
+    "question": "What is the approximate height of the location marked x?",
+    "option": {
+      "a": "375 meters",
+      "b": "395 meters",
+      "c": "360 meters",
+      "d": "380 meters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 242,
     "question": "What is the average gradient of the slope marked G-H?",
     "option": {
@@ -4091,6 +4107,22 @@
     "section": "",
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_01_and_02_v2sqab.jpg",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 318,
+    "question": "An alternative graphic method that can be used to depict that same information is the",
+    "option": {
+      "a": "Divided rectangle",
+      "b": "Chloropath",
+      "c": "Dotman",
+      "d": "Proportinal circle"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1632582574/ALOC-Questions/Geography/UTME/JAMB%20GEOGRAPHY%202016_2020/Geography_2018_01_and_02_v2sqab.jpg",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"

@@ -1872,6 +1872,22 @@
     "examyear": "2004"
   },
   {
+    "id": 402,
+    "question": "Given: Rates paid during the year amounted to N 2,250 at N125 per month and N 1,035 was paid for electricity in the same period at N 115 per month. Determine the amount of prepaid rates",
+    "option": {
+      "a": "N 345",
+      "b": "N 750",
+      "c": "N 1,380",
+      "d": "N 1,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 403,
     "question": "Where closing stock is undervalued, the effect is",
     "option": {
@@ -2396,6 +2412,22 @@
     "image": "",
     "answer": "a",
     "solution": "A single entry system records a transaction with a single entry and only maintains one side of every transaction.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 581,
+    "question": "A proprietor started business with ₦13,000. Assets and liabilities at the end of the year; fixed assets ₦8,800, stock ₦, 600, debtors ₦1,000, cash ₦3, 000 and creditors ₦1,000. Determine the profit for the year?",
+    "option": {
+      "a": " ₦2,400",
+      "b": "₦3,000",
+      "c": "₦9,800",
+      "d": "-₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate the closing capital\nClosing Capital = Assets - Liabilities\n\nTotal Assets = Fixed assets + Stock + Debtors + Cash\nTotal Assets = ₦8,800 + ₦600 + ₦1,000 + ₦3,000 = ₦13,400\nTotal Liabilities = Creditors = ₦1,000\nClosing Capital = ₦13,400 - ₦1,000 = ₦12,400\n\nStep 2: Calculate the profit\nProfit = Closing Capital - Opening Capital\nProfit = ₦12,400 - ₦13,000 = -₦600",
     "examtype": "utme",
     "examyear": "2016"
   },

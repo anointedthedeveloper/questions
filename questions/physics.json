@@ -3504,6 +3504,22 @@
     "examyear": "2017"
   },
   {
+    "id": 255,
+    "question": "A string of length 5cm is extended by 0.04m when a load of 0.8kg is suspended at the end. How far will it extend if a force of 16N is applied? [g = 10ms⁻²]",
+    "option": {
+      "a": "0.04m",
+      "b": "0.12m",
+      "c": " 0.01m",
+      "d": " 0.08m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nOriginal length = 5 cm (not needed for calculation)\nExtension₁ (e₁) = 0.04 m\nMass = 0.8 kg\nForce₂ (F₂) = 16 N\ng = 10 m/s²\nExtension₂ (e₂) = ?\n\nStep 1: Calculate initial force\nF₁ = mg = 0.8 × 10 = 8 N\nStep 2: Apply Hooke's Law\nFor elastic materials: F ∝ e (Force is proportional to extension)\nF₁/e₁ = F₂/e₂\nStep 3: Calculate new extension\n8/0.04 = 16/e₂\ne₂ = (16 × 0.04)/8\ne₂ = 0.64/8\ne₂ = 0.08 m",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 256,
     "question": "How can energy loss be minimized through Eddy-current?",
     "option": {
@@ -8512,6 +8528,22 @@
     "examyear": "2005"
   },
   {
+    "id": 660,
+    "question": "When impurities are added to semi-conductors, the conductivity of the semi-conductor",
+    "option": {
+      "a": "increases then decreases",
+      "b": "increases",
+      "c": "decreases",
+      "d": " remains constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When impurities are added to semi conductor , the semi conductor is said to be doped, and increases the conductivity of the semi-conductor.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 661,
     "question": "A silicon material is dopped with an element of a certain group and an n-type semi-conductor is formed. the most likely group of the element is",
     "option": {
@@ -9788,6 +9820,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431437/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_26_kpwqqs.png",
     "answer": "a",
     "solution": "\nEnergy considerations:\nAt the extremes (W and Z):\n\nMaximum potential energy\nMinimum kinetic energy (velocity = 0)\nBob momentarily stops before reversing direction\n\nAt the lowest point (X):\n\nMinimum potential energy\nMaximum kinetic energy\nAll potential energy converted to kinetic energy\nFastest speed\n\nAt intermediate positions (Y):\n\nMixed potential and kinetic energy\nSpeed between zero and maximum\n\nConservation of energy:\nTotal Energy = PE + KE = constant\nAt extremes: E = PE_max + 0\nAt lowest point: E = PE_min + KE_max\nTherefore: KE_max occurs at lowest point (X)",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 776,
+    "question": "In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod?",
+    "option": {
+      "a": "",
+      "b": "40N",
+      "c": " 80N",
+      "d": "120N"
+    },
+    "section": "200N",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431459/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_27_sooxrd.png",
+    "answer": "b",
+    "solution": "\nStep 1: Identify distances from fulcrum (at 15 cm)\nLeft side (anticlockwise):\n\n200N at 5 cm: Distance from fulcrum = 15 - 5 = 10 cm\n\nRight side (clockwise):\n\nRod weight W at 25 cm: Distance from fulcrum = 25 - 15 = 10 cm\n40N at 45 cm: Distance from fulcrum = 45 - 15 = 30 cm\n\nStep 2: Apply principle of moments\nFor equilibrium (rod balanced horizontally):\nSum of anticlockwise moments = Sum of clockwise moments\nAnticlockwise moments:\n200 × 10 = 2000 N·cm\nClockwise moments:\nW × 10 + 40 × 30 = 10W + 1200 N·cm\nStep 3: Solve for W\n2000 = 10W + 1200\n10W = 2000 - 1200\n10W = 800\nW = 80N",
     "examtype": "utme",
     "examyear": "2007"
   },

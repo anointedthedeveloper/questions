@@ -6384,6 +6384,22 @@
     "examyear": "2022"
   },
   {
+    "id": 481,
+    "question": "The potential energy in an elastic string of force constant k, which has an extension X is?",
+    "option": {
+      "a": "kX",
+      "b": " KX²",
+      "c": "½KX²",
+      "d": ". ½K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Recall Hooke's Law\nFor an elastic material:\nF = kX\nWhere:\n\nF = restoring force\nk = force constant (spring constant)\nX = extension\n\nStep 2: Derive potential energy\nPotential energy stored in an elastic string is the work done in stretching it:\nE = ∫F dx\nE = ∫kx dx (from 0 to X)\nStep 3: Integrate\nE = k∫x dx (from 0 to X)\nE = k[x²/2]₀ˣ\nE = k(X²/2 - 0)\nE = ½kX²",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 482,
     "question": "A reservoir is filled with liquid of density 2000 kgm⁻³. Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm⁻² (g = 10 ms⁻²)",
     "option": {

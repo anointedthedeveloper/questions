@@ -6448,6 +6448,22 @@
     "examyear": "2007"
   },
   {
+    "id": 439,
+    "question": "Factorize 2t<sup>2</sup> + t - 15",
+    "option": {
+      "a": " (2t - 3)(t + 5)",
+      "b": "(t + 3)(2t - 5)",
+      "c": " (t + 3)(t - 5)",
+      "d": "(2t + 3)(t - 5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2t<sup>2</sup> + t - 15 = (2t-5)(t+3)",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 440,
     "question": "Solve the inequalities -3(x - 2) < -2(x + 3)",
     "option": {

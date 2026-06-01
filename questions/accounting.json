@@ -1696,6 +1696,38 @@
     "examyear": "2024"
   },
   {
+    "id": 935,
+    "question": "The following are causes of discrepancies between the cash book and the bank statement balances except",
+    "option": {
+      "a": "errors",
+      "b": "bank charges",
+      "c": "standing order",
+      "d": "bank deposit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A bank deposit typically wouldn't cause a discrepancy; rather, it would lead to an increase in both the cash book and bank statement balances. Therefore, it is not a cause of discrepancies between the two balances.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 959,
+    "question": "Which of the following is a subsidiary book as well as a ledger?",
+    "option": {
+      "a": "purchases day book",
+      "b": " returns outward book",
+      "c": " general journal",
+      "d": " cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The cash book is unique because it eliminates the need for a separate cash account in the ledger, as it functions as both the book of original entry for cash transactions and as the actual cash ledger account itself.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 969,
     "question": "Given:\n\nSales.....................₦4,000\nLight expenses............₦900\nRent......................₦1,500\nPurchases.................₦7,500\nDebtors...................₦6,000\nCreditors.................₦9,000\nDrawings..................₦2,500\nBank......................₦400\nGeneral expenses..........₦1,500\nCapital...................₦10,300\n\nCalculate the total of trial balance?",
     "option": {
@@ -1886,6 +1918,22 @@
     "solution": "Current Assets:\n\nStock = ₦10,000\nDebtors = ₦15,000\nCash = ₦5,000\nTotal Current Assets = ₦30,000\n\nCurrent Liabilities:\n\nCreditors = ₦8,000\nWages owed = ₦4,000\nRent owed = ₦3,000\nTotal Current Liabilities = ₦15,000\n\nCurrent Ratio:\nCurrent Ratio = Current Assets ÷ Current Liabilities\nCurrent Ratio = ₦30,000 ÷ ₦15,000 = 2:1\nTherefore, the current ratio is 2:1",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 1067,
+    "question": "A source document is used for verifying the?",
+    "option": {
+      "a": "amount due to creditors",
+      "b": "actual cost of an asset",
+      "c": "selling price of goods",
+      "d": " amount due from debtors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Reason: A source document (e.g., supplier’s invoice) provides the original evidence of a transaction and is used to verify the cost at which an asset was acquired before it’s recorded in the books.",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 1082,
@@ -2110,6 +2158,22 @@
     "solution": "Reason: a memorandum entry is just for information in a subsidiary book and does not affect the ledger (so it’s not part of the double-entry system).\nContra and journal entries are part of double-entry; “single entry” describes an accounting system, not a subsidiary-book entry.",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 1219,
+    "question": "<b>Use the information below to answer questions 5 and 6.\nGiven:</b>\n\nFixed assets ₦85,600\nSales ₦197,000\nStock ₦34,300\nSalaries ₦37,000\nPurchases ₦127,700\nShare capital ₦120,000\nCreditors ₦16, 050\nMotor expenses ₦10,500\nDebtors ₦25,000\n\nWhat is the cash balance?",
+    "option": {
+      "a": "₦12,095",
+      "b": "₦12,590",
+      "c": " ₦12,905",
+      "d": " ₦12,950"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using the accounting equation: Assets = Liabilities + Equity\nStep 1: Identify Balance Sheet items\nAssets:\n\nFixed assets: ₦85,600\nStock: ₦34,300\nDebtors: ₦25,000\nCash: ? (to be found)\n\nLiabilities:\n\nCreditors: ₦16,050\n\nEquity:\n\nShare capital: ₦120,000\nRetained earnings: Sales - Purchases - Salaries - Motor expenses\nRetained earnings: ₦197,000 - ₦127,700 - ₦37,000 - ₦10,500 = ₦21,800\n\nStep 2: Apply the accounting equation\nTotal Assets = Liabilities + Equity\n₦85,600 + ₦34,300 + ₦25,000 + Cash = ₦16,050 + ₦120,000 + ₦21,800\n₦144,900 + Cash = ₦157,850\nCash = ₦157,850 - ₦144,900 = ₦12,950",
+    "examtype": "utme",
+    "examyear": "2001"
   },
   {
     "id": 1243,

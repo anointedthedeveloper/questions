@@ -304,6 +304,22 @@
     "examyear": "2014"
   },
   {
+    "id": 33,
+    "question": "George effected two personal accident policies. The first policy provides N= 25,000.00 cover for loss of limb. The second policy provides N= 30,000.00 cover for loss of limb. What is the total amount that  George  will receive in the event of a valid loss of limb claim?",
+    "option": {
+      "a": "N= 5,000.00",
+      "b": "N= 25,000.00",
+      "c": "N= 30,000.00",
+      "d": "N= 55,000.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 34,
     "question": "Renewal notice is  used by  insurers  to  remind the insured of the",
     "option": {
@@ -955,6 +971,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 87,
+    "question": "The principle of insurance which states that the insure should be truthful and disclose all material fact is",
+    "option": {
+      "a": "subrogation",
+      "b": "utmost good faith",
+      "c": "indemnity",
+      "d": "insurable interest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "1"
@@ -3579,6 +3611,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 296,
+    "question": "The maximum number of days allowed for a policy holder to pay his renewal premium after it has become due is called",
+    "option": {
+      "a": "surrender value",
+      "b": "conditions",
+      "c": "days of grace",
+      "d": "days of liberty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "5"

@@ -9504,6 +9504,22 @@
     "examyear": "2004"
   },
   {
+    "id": 613,
+    "question": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is",
+    "option": {
+      "a": "9.6J",
+      "b": "2.4J",
+      "c": "12.0J",
+      "d": "7.2J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Energy stored = Ivt = current x back e.m.f x time\n= 2 x 3 x 0.4\n= 2.4J",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 614,
     "question": "The instrument used for securing a large number of similar charges by induction is called",
     "option": {

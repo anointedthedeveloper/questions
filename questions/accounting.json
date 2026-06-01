@@ -80,6 +80,22 @@
     "examyear": "2017"
   },
   {
+    "id": 785,
+    "question": "In the head office ledger, the value of goods sent to the branch are",
+    "option": {
+      "a": "debited to the branch current account",
+      "b": "debited to the head office current account",
+      "c": " credited to the head office current account",
+      "d": "credited to the branch current account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In the head office’s ledger, each branch has its own current (or “branch”) account. When goods are sent from head office to a branch, the head office debited the Branch Current Account (reflecting an asset transfer to the branch) and credited the Head Office’s Inventory or Stock Account. This debit entry increases the branch’s account balance, showing the value of goods supplied.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 813,
     "question": "Given the following departmental information: Department A has a gross profit of ₦6,000 and Department B has a gross profit of ₦4,000, making a total gross profit of ₦10,000. The total expenses are as follows: Salaries and wages ₦3,000, Electricity ₦2,000, and Depreciation ₦1,000, totaling ₦6,000 in expenses. Department A shows salaries and wages of ₦1,800 and depreciation of ₦600, while Department B shows salaries and wages of ₦1,200 and net profit of ₦1,600. The organization apportions expenses in the proportion 60:40 for departments A and B respectively. What is the net profit made by department A?",
     "option": {
@@ -156,6 +172,22 @@
     "image": "",
     "answer": "b",
     "solution": "This question refers to the accounting equation:\n\nAssets = Liabilities + Owner’s Equity\nWhen an asset increases, something else must also increase or decrease to keep the equation balanced.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1378,
+    "question": "Mayana Corporation uses special journals to record its transactions. If one of Mayana's customers returns merchandize purchased with cash (for a refund), it makes an entry in the?",
+    "option": {
+      "a": " cash receipts journal",
+      "b": "sales journal",
+      "c": "general journal",
+      "d": "cash disbursement journal."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The refund of cash for a customer’s return is recorded as an outflow of cash, so it would be entered in the cash disbursements journal.",
     "examtype": "utme",
     "examyear": "1998"
   }

@@ -9264,6 +9264,22 @@
     "examyear": "2005"
   },
   {
+    "id": 669,
+    "question": "A body of mass 36 kg falls through a viscous liquid which offers a drag force of 260 N on the body. The upthrust on the body at terminal velocity is?\n[g = 10 m s⁻²]",
+    "option": {
+      "a": "100 N",
+      "b": "620 N",
+      "c": "50 N",
+      "d": "310 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Mass of body, m = 36 kg\nDrag force at terminal velocity, F_d = 260 N\nAcceleration due to gravity, g = 10 m s⁻²\n\nStep 1: Compute weight of the body\nW = m × g = 36 kg × 10 m s⁻² = 360 N\n\nStep 2: Apply equilibrium condition at terminal velocity\nAt terminal velocity, the net force is zero:\nWeight = Upthrust + Drag force\nW = U + F_d\n\nStep 3: Solve for upthrust\nU = W − F_d = 360 N − 260 N = 100 N",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 670,
     "question": "The process whereby the molecules of different substances move randomly is called?",
     "option": {

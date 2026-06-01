@@ -1776,6 +1776,22 @@
     "examyear": "2010"
   },
   {
+    "id": 119,
+    "question": "The ancient Greeks practiced: ",
+    "option": {
+      "a": "direct democracy ",
+      "b": "representative democracy ",
+      "c": "liberal democracy ",
+      "d": "benevolent dictatorships"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 120,
     "question": "Fascism originated from ",
     "option": {
@@ -1899,6 +1915,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 128,
+    "question": "Between 1960 and 1966, Nigeria was governed under the  ",
+    "option": {
+      "a": "presidential system of government ",
+      "b": "Westminster system of government ",
+      "c": "confederal system of government ",
+      "d": "unitary system of government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -2711,6 +2743,22 @@
       "b": "political dependence  ",
       "c": "legal equality of states  ",
       "d": "non-alignment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 184,
+    "question": "The independence  of the judiciary can be enhanced by the following except  ",
+    "option": {
+      "a": "when judges hold office for a fixed term",
+      "b": "when judges cannot be removed from office even when they commit crimes",
+      "c": "Appointment of judges by an independent body",
+      "d": "political neutrality of judges"
     },
     "section": "",
     "image": "",
@@ -5200,6 +5248,22 @@
     "examyear": "1999"
   },
   {
+    "id": 352,
+    "question": "Nigeria’s was suspended from the Commonwealth because of her",
+    "option": {
+      "a": "tacit approval of military dictatorship",
+      "b": "negative position towards other nations",
+      "c": "complete negligence of freedom of the press",
+      "d": "violation of fundamental human rights"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 353,
     "question": "Nigeria’s non-aligned policy means that she will",
     "option": {
@@ -5963,6 +6027,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 412,
+    "question": "A true democracy in the modern sense exists where the",
+    "option": {
+      "a": "majority of the people vote",
+      "b": "majority of the people rule",
+      "c": "elite rules",
+      "d": "elected representatives rule."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -8704,6 +8784,22 @@
     "examyear": "2014"
   },
   {
+    "id": 594,
+    "question": "Which of the following is a guiding principle of Nigeria’s foreign policy?",
+    "option": {
+      "a": "Total opposition to the Cold War",
+      "b": "Posting of only carrier diplomats as envoys",
+      "c": "Interference in the affairs of African countries",
+      "d": "Decolonization of all African states"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 595,
     "question": "The Technical Aids Corps was established during the regime of",
     "option": {
@@ -9159,6 +9255,22 @@
       "b": "Tory party",
       "c": "Liberal party",
       "d": "Labour party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 626,
+    "question": "Which of the following is not an accepted way of resolving international conflict",
+    "option": {
+      "a": "Diplomacy.",
+      "b": "Non-military use of force.",
+      "c": "Propaganda",
+      "d": "Nuclear war."
     },
     "section": "",
     "image": "",
@@ -11824,6 +11936,22 @@
     "examyear": "2018"
   },
   {
+    "id": 807,
+    "question": "Which of the following cannot be found in a constitution?",
+    "option": {
+      "a": "Fundamental Human Rights",
+      "b": "Manifestos of political parties",
+      "c": "Organs of government",
+      "d": "Duties and obligations of citizens"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A constitution does not contain party manifestos, which are political documents.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 808,
     "question": "A rigid constitution is a feature of",
     "option": {
@@ -12814,6 +12942,22 @@
     "solution": "Pressure groups often adopt lobbying as a negotiation mechanism with critical governement stakeholders and or legislators so that significant policies and laws giving effect to their interests are implemented.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 874,
+    "question": "A constitution is a legal document _________",
+    "option": {
+      "a": "drawn up by lawyers",
+      "b": "enacted by military decrees",
+      "c": "forming the basis upon which a government rules the country",
+      "d": "only likely to succeed in countries where there is union government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A constitution is defined as a body of agreed rules and principles stating how the powers of governing a country are given and how these powers are to be exercised.",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 875,
@@ -15152,6 +15296,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1034,
+    "question": "Which African country experienced a violent resistance movement against British colonial rule known as the Mau Mau rebellion?",
+    "option": {
+      "a": "Sudan",
+      "b": "Kenya",
+      "c": "Ghana",
+      "d": "Nigeria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Mau Mau rebellion was a military conflict that took place in British Kenya between 1952 and 1960. It was a violent resistance movement against British colonial rule. The Mau Mau, a secret society that was predominantly Kikuyu, initiated the conflict with the goal of removing British rule and European settlers from the country.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1035,
     "question": "Public corporations and parastatals are typically established by",
     "option": {
@@ -16876,6 +17036,22 @@
     "image": "",
     "answer": "c",
     "solution": "A common feature of a multi-party system is that government is formed by a coalition of political parties.\n\nWhen there are several political parties in a country, it then become difficult for one party to win a clear majority in parliament. The part that has won the scanty majority will be forced to form a coalition government with another part. e.g. NPN and NNP during the second Republic.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1151,
+    "question": "To qualify for absorption into the administration cadre of the civil service in Nigeria, an applicant must be",
+    "option": {
+      "a": " knowledgable in civil services rule",
+      "b": "a holder of a first university degree",
+      "c": "specifically trained in public administration",
+      "d": "a senior civil servant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To qualify for absorption into the administrative cadre in Nigeria, an applicant must be a holder of a university degree.\n\nAs Indicated earlier, The administrative class is the highest grade of civil servants in the civil service. Members of this class of civil servant include the Director General or the Permanent Secretary,Deputy Director, Assistance Directors, General Principal Officers, Etc. These officers are responsible for advising the Ministers, helping in the formulation of major policies and then carrying out general administrative work of their various ministries.\n\nTheir recruitment is the therefore based on university education or equivalent educational qualification and long service as it was in the past",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -19232,6 +19408,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1314,
+    "question": "In the First Republic,the official opposition party was the",
+    "option": {
+      "a": "Action Group",
+      "b": "Northern People's Congress",
+      "c": "Northern Elements Progressive Union",
+      "d": " National Council of Nigeria and the Cameroons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The official opposition party in the First Republic was the Action Group.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1315,
     "question": "Under the 1999 Constitution,the appointment of ministers and ambassadors must be ratified by the",
     "option": {
@@ -20544,6 +20736,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1401,
+    "question": "The immediate cause of the 1966 military coup de'etat in Nigeria was",
+    "option": {
+      "a": "nepotism",
+      "b": "political instability",
+      "c": "military ambition",
+      "d": "corruption"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The immediate cause of the 1966 military coup de'etat in Nigeria was political instability. It should be noted that the Action Group Crises of 1962 was one of the crisis that led to the military take-over of government in January 1966. The 1962 Action Group crisis continued to rear its ugly head, until Western Nigeria election crisis of 1965. The disagreement over the election result between UPGA and NNA in Western region resulted to a crisis which led to a breakdown of law and order. This situation attracted military intervention on 15th January, 1966.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1402,
     "question": "The exclusive list is reserved for legislation by the",
     "option": {
@@ -21628,6 +21836,22 @@
     "image": "",
     "answer": "d",
     "solution": "In a confederal system, the component units (such as states or regions) possess more authority than the central government. This arrangement allows the constituent entities to retain their sovereignty and delegate only specific, limited powers to the central authority, often related to common interests like defense or foreign affairs. Consequently, the central government operates at the behest of the component units and lacks independent authority. ",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1477,
+    "question": "The two leaders that played the most prominent roles in the formation of the ECOWAS were",
+    "option": {
+      "a": "Gowon and Eyadema",
+      "b": "Kountche and Senghor",
+      "c": "Kerekou and Tubman",
+      "d": "Acheampong and Jawara"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Both Leaders (Gen. Yakubu Gowon of Nigeria and Eyadema of Togo) used their military might to facilitate the organization.",
     "examtype": "utme",
     "examyear": "2015"
   },

@@ -880,6 +880,7 @@
     "examyear": "2005"
   },
   {
+<<<<<<< Updated upstream
     "id": 79,
     "question": "The availability of goods and services is brought to the notice of consumers through",
     "option": {
@@ -887,6 +888,15 @@
       "b": "public relations",
       "c": "the telephone  ",
       "d": "advertising."
+=======
+    "id": 82,
+    "question": "A type of credit offered by both commercial and merchant banks in Nigeria is ",
+    "option": {
+      "a": "trade credit",
+      "b": "line of credit ",
+      "c": "discounting facility ",
+      "d": "overdraft."
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -896,6 +906,7 @@
     "examyear": "2005"
   },
   {
+<<<<<<< Updated upstream
     "id": 80,
     "question": "The necessary documents used in foreign trade are ",
     "option": {
@@ -928,6 +939,8 @@
     "examyear": "2005"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 83,
     "question": "A major function of a chamber of commerce is",
     "option": {
@@ -1152,6 +1165,7 @@
     "examyear": "2005"
   },
   {
+<<<<<<< Updated upstream
     "id": 101,
     "question": "question",
     "option": {
@@ -1179,6 +1193,19 @@
     "section": "",
     "image": "",
     "answer": "d",
+=======
+    "id": 103,
+    "question": "The input, output and central processing units are the basic components of a computer's",
+    "option": {
+      "a": "memory ",
+      "b": " printer ",
+      "c": " hardware ",
+      "d": " software"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -1840,6 +1867,22 @@
     "examyear": "2007"
   },
   {
+    "id": 160,
+    "question": "A major function of an entrepreneur is",
+    "option": {
+      "a": "decision-making ",
+      "b": "encouraging competition",
+      "c": "human-resource training",
+      "d": "motivating employees."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 161,
     "question": "A Memorandum of Association is applicable to a",
     "option": {
@@ -1963,6 +2006,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 172,
+    "question": "An agreement by the insurer to compensate the insured for losses suffered is   ",
+    "option": {
+      "a": "policy",
+      "b": "surrender value   ",
+      "c": "caveat emptor ",
+      "d": "indemnity."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -2688,8 +2747,45 @@
     "examyear": "2008"
   },
   {
+<<<<<<< Updated upstream
     "id": 237,
     "question": "The coordinating section of the central processing unit that manages the flow of data is the ",
+=======
+    "id": 238,
+    "question": "An agreement between two parties which is enforceable by law is a ",
+    "option": {
+      "a": "promise ",
+      "b": "warranty ",
+      "c": "contract ",
+      "d": "condition "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 239,
+    "question": "The implied provisions in every sale of goods as contained in the ales of Goods Act of 1893 are conditions and ",
+    "option": {
+      "a": "consideration ",
+      "b": "sureties ",
+      "c": "warranties ",
+      "d": "guaranties "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 242,
+    "question": "The practice whereby government relinquishes its ownership interest in a public enterprises is ",
+>>>>>>> Stashed changes
     "option": {
       "a": "arithmetic logic unit",
       "b": "control unit",
@@ -3040,6 +3136,7 @@
     "examyear": "2009"
   },
   {
+<<<<<<< Updated upstream
     "id": 265,
     "question": "The transmission of telephone services from one country to another is facilitated by ",
     "option": {
@@ -3056,6 +3153,8 @@
     "examyear": "2009"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 266,
     "question": "The principle of insurance which entitles an insurance company to take any advantage due to the insured after full indemnity is ",
     "option": {
@@ -3344,6 +3443,7 @@
     "examyear": "2009"
   },
   {
+<<<<<<< Updated upstream
     "id": 289,
     "question": "Unresolved disputes between the employer and employees are usually referred to the ",
     "option": {
@@ -3367,6 +3467,15 @@
       "b": "debugging ",
       "c": "formatting ",
       "d": "looping"
+=======
+    "id": 288,
+    "question": "The most important attributes in a sale of goods contract are ",
+    "option": {
+      "a": "offer and consideration",
+      "b": "price and goods ",
+      "c": "offer and acceptance ",
+      "d": "demand and supply"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -3648,6 +3757,7 @@
     "examyear": "2010"
   },
   {
+<<<<<<< Updated upstream
     "id": 308,
     "question": "Entrepot trade usually occurs in ",
     "option": {
@@ -3659,6 +3769,19 @@
     "section": "",
     "image": "",
     "answer": "c",
+=======
+    "id": 309,
+    "question": "The document issued to a port authority when goods are deposited is a ",
+    "option": {
+      "a": "dock landing account ",
+      "b": "bill of sight ",
+      "c": "bill of lading ",
+      "d": "dock warrant "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -3968,8 +4091,29 @@
     "examyear": "2010"
   },
   {
+<<<<<<< Updated upstream
     "id": 345,
     "question": "The three main classifications of occupation are ",
+=======
+    "id": 339,
+    "question": "The central working system of a computer used for data processing is the ",
+    "option": {
+      "a": "memory unit ",
+      "b": "monitor ",
+      "c": "floppy disk drive ",
+      "d": "hard drive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 343,
+    "question": "One way by which a business can discharge its social responsibility to its community is to ",
+>>>>>>> Stashed changes
     "option": {
       "a": "construction, trade and services ",
       "b": "manufacturing, industry and services ",
@@ -4704,6 +4848,73 @@
     "examyear": "2012"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 418,
+    "question": "A business organization can obtain long-term financing through ",
+    "option": {
+      "a": "bank overdraft ",
+      "b": "the sale of shares ",
+      "c": "credit purchases ",
+      "d": "bureau de change "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 419,
+    "question": "The portion of the authorized share capital given out to the public for subscription is ",
+    "option": {
+      "a": "called-up capital ",
+      "b": "issued capital ",
+      "c": "paid up capital ",
+      "d": "reserved capital "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 420,
+    "question": "A company has an authorized capital of 40 million shares at N1 each, out of which 32 million are issued and fully paid-up. What happens to the remaining 8million shares?",
+    "option": {
+      "a": "it has been issued but not paid-up ",
+      "b": "it has been applied for but not issued ",
+      "c": "it is not paid up",
+      "d": "it is not yet been issued "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 422,
+    "question": "Given:  N\n Opening stock  1,800\n Purchases   2, 800\n Sales    8,000\n Closing stock    350\n Carriage on sales    500\n Calculate the value of the unused stock.\n",
+    "option": {
+      "a": "N 800",
+      "b": "N500",
+      "c": "N350",
+      "d": "N320"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 424,
     "question": "The promotion and protection of trade, industry and agriculture thorugh trade fairs is a function of ",
     "option": {
@@ -5470,6 +5681,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 490,
+    "question": "Which of the following is not a source of finance to a sole proprietor?",
+    "option": {
+      "a": "Trade Credit",
+      "b": "Overdrafts",
+      "c": "Debentures",
+      "d": "Leasing of equipment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
   },
   {
     "id": 490,
@@ -7008,6 +7235,22 @@
     "examyear": "1990"
   },
   {
+    "id": 616,
+    "question": "Which of the following statements best describes net profit? The excess of",
+    "option": {
+      "a": "total revenue over total expenditure",
+      "b": "total capital income over expenditure",
+      "c": "sales over purchases",
+      "d": "total capital formation over capital consumption"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
     "id": 618,
     "question": "A number of shops under one roof is the feature of a",
     "option": {
@@ -7760,6 +8003,7 @@
     "examyear": "2016"
   },
   {
+<<<<<<< Updated upstream
     "id": 682,
     "question": "Labour as an input in production can be motivated by",
     "option": {
@@ -7776,6 +8020,8 @@
     "examyear": "2016"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 683,
     "question": "Discharging certain duties by an organization to the public to gain high patronage is a concern of financial responsibility",
     "option": {
@@ -7808,6 +8054,41 @@
     "examyear": "2016"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 685,
+    "question": "Which of the following is NOT backed by gold but by government securities?",
+    "option": {
+      "a": "Fiduciary note.",
+      "b": "Fiat money.",
+      "c": "Token money.",
+      "d": "Commodity money."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 686,
+    "question": "Which of the following is a legal tender?",
+    "option": {
+      "a": "Cheque.",
+      "b": "Traveller’scheque.",
+      "c": "Bank note",
+      "d": "Goldsmith receipt."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 687,
     "question": "Where a manufacturer collects money from wholesalers in exchange for goods produced is referred to as",
     "option": {

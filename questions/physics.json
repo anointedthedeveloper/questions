@@ -272,6 +272,22 @@
     "examyear": "2010"
   },
   {
+    "id": 109,
+    "question": "A cigarette lighter in a car is a resistor that, when activated, is connected across the 12 – V battery. If the lighter dissipates 33 W of power, find the current it delivers  to the lighter.  ",
+    "option": {
+      "a": "9.90 Ω  ",
+      "b": "6.60 Ω  ",
+      "c": "4.36",
+      "d": "17.50Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 110,
     "question": "A p-n junction can act as  ",
     "option": {
@@ -492,6 +508,22 @@
     "image": "",
     "answer": "a",
     "solution": "The concept of centrifugal force can be applied in rotating devices, such as centrifuges, centrifugal pumps, centrifugal governors, and centrifugal clutches, and in centrifugal railways, planetary orbits and banked curves, when they are analyzed in a rotating coordinate system",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 221,
+    "question": "If the magnification of a virtual image formed by an object 10cm from a convex less is 3, then the focal length of the lens is",
+    "option": {
+      "a": "10cm",
+      "b": "20cm",
+      "c": "25cm",
+      "d": "15cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nObject distance (u) = 10 cm\nMagnification (m) = 3 (virtual image, so positive)\nFocal length (f) = ?\n\nFormula for magnification:\nm = v/u\nwhere v = image distance\nFinding image distance:\n3 = v/10\nv = 30 cm\nFor virtual image from convex lens:\nv is negative (virtual image on same side as object)\nv = -30 cm\nUsing lens formula:\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-30) - 1/(-10)\n1/f = -1/30 + 1/10\n1/f = -1/30 + 3/30\n1/f = 2/30\n1/f = 1/15\nTherefore:\nf = 15 cm",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -812,6 +844,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nLength of wire (L) = 15 cm = 0.15 m\nCurrent (I) = 6.0 A\nMagnetic field (B) = 0.40 T\nAngle (θ) = 90° (at right angle)\nForce (F) = ?\n\nFormula for force on current-carrying conductor:\nF = BIL sin θ\nWhen wire is perpendicular to field (θ = 90°):\nsin 90° = 1\nF = BIL\nSubstituting values:\nF = 0.40 × 6.0 × 0.15\nF = 0.40 × 0.9\nF = 0.36 N",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 349,
+    "question": "The pitch of a screw jack is 0.45cm and the arm is 60cm long. If the efficiency of the Jack is 75/π %, calculate the mechanical advantage.",
+    "option": {
+      "a": "400",
+      "b": "300",
+      "c": "200",
+      "d": "150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nPitch (p) = 0.45 cm\nLength of arm (L) = 60 cm\nEfficiency = 75/π %\nMechanical Advantage (M.A) = ?\n\nStep 1: Calculate Velocity Ratio (V.R)\nFor a screw jack:\nV.R = 2πL/p\nV.R = (2π × 60)/0.45\nV.R = 120π/0.45\nV.R = 120π × (100/45)\nV.R = 120π × (20/9)\nV.R = 2400π/9\nV.R = 800π/3\nStep 2: Use efficiency formula\nEfficiency = (M.A/V.R) × 100%\n75/π = (M.A/(800π/3)) × 100\n75/π = (M.A × 3 × 100)/(800π)\n75/π = (300 × M.A)/(800π)\nSolving for M.A:\n75/π × (800π/300) = M.A\n75 × 800/300 = M.A\n60,000/300 = M.A\nM.A = 200",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1360,6 +1408,22 @@
     "examyear": "2004"
   },
   {
+    "id": 628,
+    "question": "The diagram above shows forces 4N, 6N, 10N and 8N which act at a point O in the directions indicated. The net horizontal force is",
+    "option": {
+      "a": "13N",
+      "b": "17N",
+      "c": "3N",
+      "d": "7√3N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296034/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_29_hfrs8z.png",
+    "answer": "a",
+    "solution": "Given information:\n\nForce 1: 4N (horizontal, pointing left)\nForce 2: 10N (horizontal, pointing right)\nForce 3: 8N (at 60° above horizontal, pointing right-upward)\nForce 4: 6N (at 60° below horizontal, pointing right-downward)\n\nSolution:\nStep 1: Resolve forces into horizontal components\nTaking rightward as positive direction:\n4N force (horizontal left):\nHorizontal component = -4 N\n10N force (horizontal right):\nHorizontal component = +10 N\n8N force (at 60° above horizontal):\nHorizontal component = 8 cos(60°) = 8 × 0.5 = 4 N\n6N force (at 60° below horizontal):\nHorizontal component = 6 cos(60°) = 6 × 0.5 = 3 N\nStep 2: Calculate net horizontal force\nNet horizontal force = -4 + 10 + 4 + 3\nNet horizontal force = 13 N (rightward)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 639,
     "question": "The phase difference between waves P and q in the diagram above is",
     "option": {
@@ -1504,6 +1568,22 @@
     "examyear": "2005"
   },
   {
+    "id": 696,
+    "question": "An elastic material has a length of 36 cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is",
+    "option": {
+      "a": " 12 cm",
+      "b": "20 cm",
+      "c": "18 cm",
+      "d": "15 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nWhen F₁ = 40 N, total length L₁ = 36 cm\nWhen F₂ = 60 N, total length L₂ = 45 cm\nOriginal length, L₀ = ?\n\nSolution:\nStep 1: Apply Hooke's Law\nForce F = ke\nWhere:\n\nk = spring constant\ne = extension from original length\n\nFor any load: Total length = Original length + Extension\nStep 2: Set up equations\nFor first load:\n36 = L₀ + e₁\n40 = ke₁\nFor second load:\n45 = L₀ + e₂\n60 = ke₂\nStep 3: Find change in extension\nChange in length: 45 - 36 = 9 cm\nChange in force: 60 - 40 = 20 N\nStep 4: Calculate spring constant\nk = ΔF/Δe = 20/9 N/cm\nStep 5: Find extension for first load\nFrom equation: 40 = ke₁\ne₁ = 40/k = 40/(20/9) = 40 × 9/20 = 18 cm\nStep 6: Calculate original length\nL₀ = L₁ - e₁\nL₀ = 36 - 18\nL₀ = 18 cm",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 699,
     "question": "A motorcyclist traveling at 30 m/s starts to apply his brakes when he is 50 m from the traffic light that had just turned red. If he reached the traffic light, his deceleration is",
     "option": {
@@ -1612,6 +1692,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nWe use projectile motion formulas on level ground:\nRange R = (u² sin 2θ) / g\nMaximum height H = (u² sin² θ) / (2g)\nCondition: R = 3H\n\nSolution:\n\nStep 1: Write the condition equation\n(u² sin 2θ) / g = 3 × (u² sin² θ) / (2g)\n\nStep 2: Cancel common factors\nCancel u² and g (assuming u ≠ 0):\nsin 2θ = (3 sin² θ) / 2\n\nStep 3: Use double-angle identity\nsin 2θ = 2 sin θ cos θ:\n2 sin θ cos θ = (3 sin² θ) / 2\n\nStep 4: Simplify assuming sin θ ≠ 0\nDivide both sides by sin θ:\n2 cos θ = (3 sin θ) / 2\n\nMultiply both sides by 2:\n4 cos θ = 3 sin θ\n\nStep 5: Solve for tan θ\ntan θ = sin θ / cos θ = 4/3\n\nStep 6: Find the angle\nθ = arctan(4/3) ≈ 53.13°",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 748,
+    "question": "Use the figures above to answer the question below\n\nWhich of the following diagrams represents correctly an n-p-n transistor?",
+    "option": {
+      "a": "A",
+      "b": "B ",
+      "c": "C",
+      "d": "D"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430743/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_49_ofsda0.png",
+    "answer": "b",
+    "solution": "Arrow is on the emitter and points outward, with correct labeling of b, c, e.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -1756,6 +1852,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nIn water: fraction submerged = 50% = 0.5\nIn glycerine: fraction submerged = 40% = 0.4\nDensity of water, ρ_w = 1000 kg m⁻³\n\nSolution:\n\nStep 1: Density of the sphere from water data\nFor a floating object, the fraction submerged equals the ratio of the object's density to the fluid's density.\nρ_sphere / ρ_w = fraction submerged in water\nρ_sphere / 1000 = 0.5\nρ_sphere = 500 kg m⁻³\n\nStep 2: Use glycerine data to find its density\nρ_sphere / ρ_g = fraction submerged in glycerine\n500 / ρ_g = 0.4\nρ_g = 500 / 0.4 = 1250 kg m⁻³",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 861,
+    "question": "At 4°C, the volume of a fixed mass of water is?",
+    "option": {
+      "a": "constant",
+      "b": "minimum",
+      "c": "maximum",
+      "d": "zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Recall the property of water at 4°C\nWater has its maximum density at 4°C. For a fixed mass, density and volume are inversely related (ρ = m/V). Therefore, when density is maximum, volume is minimum.\n\nStep 2: At 4°C, density of water is maximum → volume is minimum.",
     "examtype": "utme",
     "examyear": "2009"
   },

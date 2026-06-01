@@ -3296,6 +3296,22 @@
     "examyear": "2020"
   },
   {
+    "id": 787,
+    "question": "Use the information below to answer this question\n\nA machine bought for ₦35,000 was estimated to have a life span of 5 years with a scrap value of ₦9000.\n\nIf the scrap value is presently ₦15,000 what will be the yearly depreciation using straight-line method?",
+    "option": {
+      "a": "₦7,000",
+      "b": "₦11,000",
+      "c": "₦4,000",
+      "d": "₦24,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The annual depreciation under the straight‐line method is calculated as:\n\n(Cost−Revised Scrap Value)/​Useful Life\n = (35000−15000)/5​\n = 20000/5\n​\n =₦4000\n\nSo the yearly depreciation is ₦4,000.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 793,
     "question": "Four broad classifications of overheads are",
     "option": {
@@ -3484,6 +3500,22 @@
     "image": "",
     "answer": "d",
     "solution": "The simplest form of single-entry procedure consists of keeping a 'day book' in which transactions are described in chronological order. ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 856,
+    "question": "A rent of ₦50,000 was paid by samson to his landlady by cheque. The double entry in Samson's book is",
+    "option": {
+      "a": "Debit rent account, Credit bank account\n",
+      "b": "Debit Rent account, Credit Samson's account\n",
+      "c": "Debit Bank account, Credit Rent account\n",
+      "d": "Debit Samson's account, Credit Rent account\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In double entry bookkeeping:\n\nRent is an expense, so it is debited.\n\nBank is an asset, and since money is going out of the bank, it is credited.\n\nSo, when Samson pays ₦50,000 rent by cheque:\n\nDebit Rent Account (to record the expense)\n\nCredit Bank Account (to show the payment made)",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -4076,6 +4108,22 @@
     "image": "",
     "answer": "a",
     "solution": "The conservatism (or prudence) convention in accounting states that when there is uncertainty, accountants should choose the method that is least likely to overstate assets or income and more likely to recognize potential losses early.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 972,
+    "question": "<b>Use the information below to answer questions 7 to 8.</b>\n\n(i) Cash at bank (ii) Cash in hand (iii) Premises\n(iv) Land (v) Creditors (vi)loan from friends/bank.\n\nWhat are the current assets?",
+    "option": {
+      "a": " i and ii",
+      "b": "i and v",
+      "c": "ii and iv",
+      "d": "iii and v"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Current assets are short-term assets convertible to cash within a year, cash at bank and cash in hand.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -5228,6 +5276,22 @@
     "image": "",
     "answer": "c",
     "solution": "Opening Balance + Additions - Disposals = Closing Balance\nRearranging to find Opening Balance:\nOpening Balance = Closing Balance + Disposals - Additions\nSubstituting the values:\nOpening Balance = ₦3,100,000 + ₦900,000 - ₦100,000\nOpening Balance = ₦4,000,000 - ₦100,000 = ₦3,900,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1232,
+    "question": "<b>Use the information below to answer questions 17 and 18.</b> \n\nThe value of x is",
+    "option": {
+      "a": "₦560.00",
+      "b": "₦5.00",
+      "c": "₦5.50",
+      "d": "₦6.00"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665949/ALOC-Questions/Accounting/UTME/2001/Accounting_JAMB_2001_Q17-18_tvdlto.png",
+    "answer": "a",
+    "solution": "To find x, Calculate the balance after Jan. 15:\nStock movements:\n\nJan. 1: 100 units (₦500.00)\nJan. 5: +50 units (₦300.00) = 150 units total\nJan. 7: -40 units (₦240.00) = 110 units remaining\nJan. 10: +50 units (₦200.00) = 160 units total\nJan. 15: -50 units (₦200.00) = 110 units remaining\n\nRemaining stock composition:\n\n100 units at ₦5.00 = ₦500.00\n10 units at ₦6.00 = ₦60.00\nTotal = 110 units worth ₦560.00\n\nTherefore, x = ₦560.00",
     "examtype": "utme",
     "examyear": "2001"
   },

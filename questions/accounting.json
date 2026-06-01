@@ -4160,6 +4160,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1094,
+    "question": "Where the debit side of the income and expenditure account is higher than the credit side, the difference is a?",
+    "option": {
+      "a": "deficit",
+      "b": "surplus",
+      "c": "gain",
+      "d": "loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In an Income and Expenditure Account:\n\nCredit side = Money coming in (Income)\nDebit side = Money going out (Expenses)\n\nWhen expenses are more than income, you have spent more than you earned.\nFor non-profit organizations, this is called a deficit.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1095,
     "question": "In the balance sheet of a not-for-profit-making organization, subscription paid in advance is regarded s a?",
     "option": {
@@ -5008,6 +5024,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1292,
+    "question": "<b>Use the information below to answer questions 28 and 29</b>\n\nMaro Merchant Bank Plc is to issue 500,000 ordinary\nshares of 50k each at ₦ 3,000 per share. Applications\nwere received for 1,550,000 shares fully paid, 1,250,000\nshares are to be issued on a pro rata basis and excess\nsubscriptions were dishonored and refunds made\n\nThe refund due to an application for 25,000 shares is",
+    "option": {
+      "a": "₦45,000",
+      "b": "₦30,000",
+      "c": "₦7,500",
+      "d": "₦5,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Applications were received for 1,550,000 shares, but only applications for 1,250,000 shares are considered for pro rata allotment. The applications for the remaining 300,000 shares are dishonored and fully refunded.\n\nThe 500,000 shares are issued on a pro rata basis to the considered applications (for 1,250,000 shares).\n\nThe allotment ratio is 500,000 / 1,250,000 = 0.4 (or 2/5), meaning each applicant receives 40% of the shares they applied for.\n\nFor an application of 25,000 shares (assumed to be part of the considered group):\n\nShares allotted = 0.4 × 25,000 = 10,000 shares.\n\nShares not allotted = 25,000 - 10,000 = 15,000 shares.\n\nThe issue price is ₦3.00 per share, so the amount paid for the application was 25,000 × ₦3.00 = ₦75,000.\n\nRefund for unallotted shares = 15,000 × ₦3.00 = ₦45,000.\n\nThus, the refund due is ₦45,000.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1299,
     "question": "The Partnership Deed normally specifies?",
     "option": {
@@ -5324,6 +5356,22 @@
     "image": "",
     "answer": "d",
     "solution": "In accounting, a business transaction is recorded in the books only when it has a financial impact on the business and involves the exchange of value (e.g., cash, goods, or services). This is in line with the dual aspect concept and business entity concept.",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1370,
+    "question": "When a transaction causes an assets account to increase, there is?",
+    "option": {
+      "a": "a decrease of equal amount inthe owner's equity account",
+      "b": "an increase in a liability account",
+      "c": "an increase of equal amonut in another assets account",
+      "d": "a decrease of equal amount in a liability account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "This question refers to the accounting equation:\n\nAssets = Liabilities + Owner’s Equity\nWhen an asset increases, something else must also increase or decrease to keep the equation balanced.",
     "examtype": "utme",
     "examyear": "1998"
   },

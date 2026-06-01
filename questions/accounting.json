@@ -4208,6 +4208,22 @@
     "examyear": "2014"
   },
   {
+    "id": 388,
+    "question": "A manufacturing account is drawn up by",
+    "option": {
+      "a": "firms providing personal services",
+      "b": "firms engaged solely in buying and selling of goods",
+      "c": "firms which make and sell articles",
+      "d": "non - trading organization."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 389,
     "question": "Which of the following is not a factory overhead cost?",
     "option": {
@@ -8928,6 +8944,22 @@
     "examyear": "2021"
   },
   {
+    "id": 812,
+    "question": "During the year, the business had an opening debtors balance of ₦25,000. Cheques totalling ₦255,000 were received from debtors, and the closing debtors balance was ₦15,000. What was the total credit sales for the year?",
+    "option": {
+      "a": " ₦245,000",
+      "b": "₦215,000",
+      "c": ". ₦295,000",
+      "d": " ₦265,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using the debtors control account formula:\nSales = Receipts from debtors + Closing debtors – Opening debtors\nSales = ₦255,000 + ₦15,000 – ₦25,000 = ₦245,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 814,
     "question": "Using the same departmental information where the organization apportions expenses in the proportion 60:40 for departments A and B respectively, and given that the total depreciation is ₦1,000 with Department A already allocated ₦600 for depreciation, what is the depreciation to be charged to Department B?",
     "option": {
@@ -12108,6 +12140,22 @@
     "image": "",
     "answer": "d",
     "solution": "The balancing figures from the income and expenses account represent the surplus or deficit for the period, which is transferred to the profit and loss account in the conversion process.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1087,
+    "question": "<b>Use the information below to answer questions 23 and 24</b>\n\nBeginning inventory............₦?\nPurchases......................₦?\nEnding inventory...............₦4,800\nSales..........................₦12,800\nWages..........................₦1,040\nGross profit...................₦5,900\n\n<b>The beginning inventory was estimated at 80% of sales.</b>\n\nDetermine the amount for the beginning inventory?",
+    "option": {
+      "a": "₦20,140",
+      "b": "₦10,240",
+      "c": "₦8,140",
+      "d": "₦7,240"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate Cost of Goods Sold\nGross Profit = Sales - Cost of Goods Sold\n₦5,900 = ₦12,800 - Cost of Goods Sold\nCost of Goods Sold = ₦12,800 - ₦5,900 = ₦6,900\nStep 2: Apply the inventory equation\nCost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory\n₦6,900 = Beginning Inventory + Purchases - ₦4,800\nBeginning Inventory + Purchases = ₦6,900 + ₦4,800 = ₦11,700\nStep 3: Calculate Beginning Inventory\nBeginning Inventory = 80% of Sales\nBeginning Inventory = 80% × ₦12,800\nBeginning Inventory = 0.8 × ₦12,800 = ₦10,240",
     "examtype": "utme",
     "examyear": "2004"
   },

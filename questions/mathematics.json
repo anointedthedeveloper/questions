@@ -8880,6 +8880,22 @@
     "examyear": "2010"
   },
   {
+    "id": 589,
+    "question": "from the table above, if the pass mark is 5, how many students failed the test?",
+    "option": {
+      "a": "6",
+      "b": "2",
+      "c": "7",
+      "d": "9"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128453/ALOC-Questions/Mathematics/2010/MATH_2010_Q18_xbacd9.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 590,
     "question": "The table above show the marks obtained in a given test.\nHow many student took the test?",
     "option": {

@@ -3328,6 +3328,22 @@
     "examyear": "2010"
   },
   {
+    "id": 235,
+    "question": "Find the median of the following set of scores: 8, 9, 6, 5, 10",
+    "option": {
+      "a": "9",
+      "b": "8",
+      "c": "6",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 236,
     "question": "Which of the following causes the demand curve to shift to the right?",
     "option": {
@@ -8923,6 +8939,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 618,
+    "question": "The lower the price of a commodity, the greater the quantity demanded. This is based on the assumption that consumers’",
+    "option": {
+      "a": "income is diminished",
+      "b": "income remains the same",
+      "c": "utility is diminished",
+      "d": "population is high"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2007"

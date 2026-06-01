@@ -2544,6 +2544,22 @@
     "examyear": "2016"
   },
   {
+    "id": 187,
+    "question": "Which of the following statements is correct about a machine?",
+    "option": {
+      "a": "Efficiency of a machine is always greater than I",
+      "b": "Efficiency decreases with an increase in friction",
+      "c": "Velocity ratio depends on friction",
+      "d": "Mechanical advantage increases with an increase in friction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Friction causes energy losses, which reduces the efficiency of any machine.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 188,
     "question": "The instrument used to view stars is the",
     "option": {
@@ -7984,6 +8000,22 @@
     "examyear": "2004"
   },
   {
+    "id": 627,
+    "question": "As the pressure of a fluid increases, its viscosity",
+    "option": {
+      "a": "decreases",
+      "b": "increases",
+      "c": "increases then decreases",
+      "d": "remains constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "With an increase in pressure, the viscosity of liquids except water increases while that of gases is practically independent of pressure.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 629,
     "question": "The earth is four times the size of the moon and the acceleration due to gravity on the earth is 80 times that on the moon. The ratio of the mass of the moon to that of the earth is",
     "option": {
@@ -11968,6 +12000,22 @@
     "examyear": "2011"
   },
   {
+    "id": 982,
+    "question": "Two inductors of inductance 4 II and 8 II are arrange in series and a current of 10 A is passed through them. What is the energy stored in them?",
+    "option": {
+      "a": " 600 J",
+      "b": " 50 J",
+      "c": "133 J",
+      "d": "250 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInductance 1 (L₁) = 4 H\nInductance 2 (L₂) = 8 H\nCurrent (I) = 10 A\nConnected in series\nTotal energy stored = ?\n\nStep 1: Calculate total inductance (series)\nFor inductors in series:\nL_total = L₁ + L₂\nL_total = 4 + 8\nL_total = 12 H\nStep 2: Calculate energy stored\nEnergy stored in an inductor:\nE = ½LI²\nSubstituting values:\nE = ½ × 12 × (10)²\nE = ½ × 12 × 100\nE = 6 × 100\nE = 600 J",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 983,
     "question": "Which of the following materials has an increase in resistance with temperature?",
     "option": {
@@ -12268,6 +12316,22 @@
     "image": "",
     "answer": "a",
     "solution": "The object oscillates because the acceleration (restoring force) is directly proportional to the displacement from equilibrium. This fundamental relationship defines Simple Harmonic Motion and is what causes the oscillatory behavior.\nKey relationships in pendulum SHM:\n\nAt extreme positions: Maximum displacement, zero velocity, maximum acceleration\nAt equilibrium: Zero displacement, maximum velocity, zero acceleration\nThe proportional relationship a ∝ -x ensures continuous oscillation",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1007,
+    "question": "An object of mass 20kg slides down an inclined plane at an angle of 30° to the horizontal. The coefficient of static friction is? [g = 10ms⁻²]",
+    "option": {
+      "a": "0.2",
+      "b": ". 0.3",
+      "c": "0.5",
+      "d": "0.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Condition for impending motion\nWhen an object is on the verge of sliding down an incline, the static friction force is maximum, and μ_s = tan θ.\n\nStep 2: Calculate tan 30°\ntan 30° = 1/√3 ≈ 0.577",
     "examtype": "utme",
     "examyear": "2012"
   },

@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 16,
+    "question": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is without replacement ",
+    "option": {
+      "a": "0.1",
+      "b": "0.47",
+      "c": "0.42",
+      "d": "0.21"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 25,
     "question": "When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ",
     "option": {
@@ -62,6 +78,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 31,
+    "question": "The expression a 3 + b 3 is equal  to ",
+    "option": {
+      "a": "(a2 +b)(a-ab+b2 )",
+      "b": "(a+b)(a2 –ab+b2 )  ",
+      "c": "(a-b2)(a2-  ab+b)",
+      "d": "(a­-b)(a2+ab+b2)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
   },
   {
     "id": 37,
@@ -492,6 +524,22 @@
     "image": "",
     "answer": "c",
     "solution": "Total: 2 + 5 + 3 + 11 + 9 = 30\n\nCassava: 330×360°=36°",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 211,
+    "question": "Calculate the mean deviation of the set of numbers 7, 3, 14, 9, 7, and 8.",
+    "option": {
+      "a": "13/6",
+      "b": "5/2",
+      "c": "7/6",
+      "d": "7/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Mean : (7+3+14+9+7+8)/6 = 48/6 = 8\nMean deviation : (∑|x−x¯)n = 14/6 = 7/3",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1040,6 +1088,22 @@
     "examyear": "2006"
   },
   {
+    "id": 421,
+    "question": "If E⊆G⊆U, where U is the universal set, then the shaded venn diagram representing U−E or E<sup>c</sup is",
+    "option": {
+      "a": "I",
+      "b": "II",
+      "c": "III",
+      "d": "IV"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542948/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q50_rwcry3.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 425,
     "question": "A senatorial candidate had planned to visit seven cities prior to a primary election. However, he could only visit four of the cities. How many different itineraries could be considered?",
     "option": {
@@ -1248,6 +1312,22 @@
     "examyear": "2009"
   },
   {
+    "id": 531,
+    "question": "If p=√((rs<sup>3</sup>)/t), express r in terms of p, s and t?",
+    "option": {
+      "a": " p<sup>2</sup> t/s<sup>3</sup>",
+      "b": "p3t/s<sup>3</sup>",
+      "c": "p<sup>3</sup>t/s<sup>2</sup> ",
+      "d": "p<sup>t</sup>/s<sup>3</sup> "
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>p</mi>\n  <mo>=</mo>\n  <msqrt>\n    <mfrac>\n      <mrow>\n        <mi>r</mi>\n        <msup>\n          <mi>s</mi>\n          <mn>3</mn>\n        </msup>\n      </mrow>\n      <mi>t</mi>\n    </mfrac>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <msup>\n    <mi>p</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mi>r</mi>\n      <msup>\n        <mi>s</mi>\n        <mn>3</mn>\n      </msup>\n    </mrow>\n    <mi>t</mi>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>t</mi>\n  <msup>\n    <mi>p</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>=</mo>\n  <mi>r</mi>\n  <msup>\n    <mi>s</mi>\n    <mn>3</mn>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <mi>r</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <msup>\n        <mi>p</mi>\n        <mn>2</mn>\n      </msup>\n      <mi>t</mi>\n    </mrow>\n    <msup>\n      <mi>s</mi>\n      <mn>3</mn>\n    </msup>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "p=√((rs<sup>3</sup>)/t) = p<sup>2</sup> = (rs<sup>3</sup>)/t tp<sup>2</sup> = rs<sup>3</sup> r=(p<sup>2</sup> t)/s<sup>3</sup> ",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 539,
     "question": "If m * n = n - (m+2) for any real number m and n find the value of 3*(-5)?",
     "option": {
@@ -1276,6 +1356,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547266/ALOC-Questions/Mathematics/2009/MATH_2009_Q38_ehu03j.jpg",
     "answer": "b",
     "solution": "20 + 2x + 60 + 40 + x + 50 = 260\n170 + 3x = 260\n3x = 260 - 170\n3x = 90\nx = 90/3 = 30\nAt least 4 days\n4 days = 40\n5 days = 30\n6 days = 50\nTotal = 120",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 560,
+    "question": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?\n",
+    "option": {
+      "a": "45",
+      "b": "50",
+      "c": "60",
+      "d": "75"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547296/ALOC-Questions/Mathematics/2009/MATH_2009_Q39_fyohkr.jpg",
+    "answer": "b",
+    "solution": "Sectorial angle of apple\n100 + 100 + 115 + x = 30°\n315 + x = 360\nx = 360 - 315\nx = 45°\n360° represents 400\n1° represents 400 / 360\n45o represents (400/360) x (45/1)\n= 50 apples",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -1340,6 +1436,22 @@
     "image": "",
     "answer": "d",
     "solution": "∫(sin χ + 2)dχ = (∫sin χ + ∫2)dx\n= -cos χ + 2χ + K",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 610,
+    "question": "A cylindrical pipe 50m long with radius 7m has one end open. What is the total surface area of the pipe?\n",
+    "option": {
+      "a": "749πm<sup>2</sup>",
+      "b": "700πm<sup>2</sup>",
+      "c": "350πm<sup>2</sup>",
+      "d": "98πm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Total surface area of the cylindrical pipe = area of circular base + curved surface area\n\n= πr<sup>2</sup> + 2πrh\n\n= π x 7<sup>2</sup> + 2π x 7 x 50\n\n= 49π + 700π\n= 749πm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -2288,6 +2400,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1032,
+    "question": "What is the product of 27/5,(3)<sup>(−3)</sup> and (1/5)<sup>(−1)</sup>?",
+    "option": {
+      "a": "5",
+      "b": "3",
+      "c": "1",
+      "d": "1/25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "27/5 × 3<sup>(−3)</sup> × (1)<sup>(−1)</sup>/5 = 27/5 × 1/3<sup>3</sup> × 1/(1/5)\n27/5 x 1/27 x 5/1 = 1",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1036,
     "question": "Find the equation of the line through the points (5, 7) parallel to the line 7x + 5y = 12.",
     "option": {
@@ -2764,6 +2892,38 @@
     "image": "",
     "answer": "c",
     "solution": "Mid point of S(-5, 4) and T(-3, -2) is\n\n[1/2(-5+-3),1/2(4+(-2))]\n\n\n[1/2(x_1+x_2),1/2(y<sub>1</sub> +y<sub>2</sub> )]\n\n\n[1/2(−8), 1/2(2)]\n\n\n[−4,1]",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1215,
+    "question": "If y = 4x<sup>3</sup> - 2x<sup>2</sup> + x, find δy/δx",
+    "option": {
+      "a": " 8x<sup>2</sup> - 2x + 1",
+      "b": "8x<sup>2</sup> - 4x + 1",
+      "c": " 12x<sup>2</sup> - 2x + 1",
+      "d": "12x<sup>2</sup> - 4x + 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "If y = 4x<sup>3</sup> - 2x<sup>2</sup> + x, then;\n\nδy/δx\n = 3(4x<sup>2</sup>) - 2(2x) + 1\n\n= 12x<sup>2</sup> - 4x + 1",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1216,
+    "question": "If y = cos 3x, find δy/δx",
+    "option": {
+      "a": "1/3sin3x",
+      "b": "−1/3sin3x",
+      "c": "3 sin 3x",
+      "d": "-3 sin 3x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = cos 3x\n\nLet u = 3x so that y = cos u\n\nNow, δy/δx = 3,\n\nδy/δx = −sinu\n\n\nBy the chain rule,\n\nδy/δx=δy/δu × δu/δx\n\n\nδy/δx = (−sinu)(3)\n\n\nδy/δx = −3sinu\n\n\nδy/δx= −3sin3x",
     "examtype": "utme",
     "examyear": "2014"
   },

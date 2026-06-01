@@ -80,6 +80,22 @@
     "examyear": "2006"
   },
   {
+    "id": 22,
+    "question": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v. ",
+    "option": {
+      "a": "mv2/p ",
+      "b": "mv2/2p ",
+      "c": "mv/p ",
+      "d": "mv/2p"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 33,
     "question": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four ",
     "option": {
@@ -496,6 +512,22 @@
     "examyear": "2015"
   },
   {
+    "id": 145,
+    "question": "Mr. F. Abioye observed his image through a plane mirror, kept at a distance 4.7m away from him in his room. At what distance is the image found from Abioye's eye?",
+    "option": {
+      "a": "9.4m",
+      "b": "7.5m",
+      "c": "5.7m",
+      "d": "6.9m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDistance between Mr. Abioye and the plane mirror = 4.7 m\n\nProperty of plane mirror:\nIn a plane mirror, the image is formed at the same distance behind the mirror as the object is in front of the mirror.\nStep 1: Find the distance of image from the mirror\nDistance of image from mirror = Distance of object from mirror = 4.7 m\nStep 2: Calculate total distance from Abioye's eye to the image\nTotal distance = Distance from Abioye to mirror + Distance from mirror to image\nTotal distance = 4.7 m + 4.7 m = 9.4 m\nDiagram:\nAbioye ← 4.7m → Mirror ← 4.7m → Image\n|←———— 9.4m ————→|",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 159,
     "question": "What type of electromagnetic radiation can be used to take photographs in the haze?",
     "option": {
@@ -636,6 +668,22 @@
     "image": "",
     "answer": "a",
     "solution": "The concept of centrifugal force can be applied in rotating devices, such as centrifuges, centrifugal pumps, centrifugal governors, and centrifugal clutches, and in centrifugal railways, planetary orbits and banked curves, when they are analyzed in a rotating coordinate system",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 217,
+    "question": "A manometer is an instrument used for measuring",
+    "option": {
+      "a": "Relative density of liquid",
+      "b": " Pressure in liquids and gases",
+      "c": "Humidity",
+      "d": "Atmospheric pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A manometer is used for measuring pressure in liquids and gases.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -800,6 +848,22 @@
     "examyear": "2017"
   },
   {
+    "id": 270,
+    "question": "What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh?",
+    "option": {
+      "a": "N80.00",
+      "b": "N45.36",
+      "c": "N65.00",
+      "d": "N57.12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nSeven 40W lamps\nFive 80W lamps\nTime = 12 hours\nCost per kWh = N7.00\nTotal cost = ?\n\nStep 1: Calculate total power\nPower from 40W lamps = 7 × 40 = 280W\nPower from 80W lamps = 5 × 80 = 400W\nTotal power = 280 + 400 = 680W = 0.68kW\nStep 2: Calculate energy consumed\nEnergy = Power × Time\nEnergy = 0.68kW × 12 hours\nEnergy = 8.16 kWh\nStep 3: Calculate total cost\nCost = Energy × Rate\nCost = 8.16 × N7.00\nCost = N57.12",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 275,
     "question": "The volume of a fixed mass of gas is 10cm3 when its pressure is 400cmHg. Determine the volume of the gas when its pressure is 200cmHg.",
     "option": {
@@ -830,6 +894,22 @@
     "solution": "All of the statements are true about electrical charge.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 300,
+    "question": "The pitch of an acoustic device can be increased by",
+    "option": {
+      "a": "decreasing the loudness",
+      "b": "increasing the intensity",
+      "c": "increasing the frequency",
+      "d": " decreasing the intensity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The pitch of an acoustic device can be increased by increasing the frequency of the sound waves it produces.",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 313,
@@ -1184,6 +1264,22 @@
     "examyear": "2020"
   },
   {
+    "id": 412,
+    "question": "The figure above represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40%, then the value of W is",
+    "option": {
+      "a": "28.0N",
+      "b": "48.0N",
+      "c": "288.0N",
+      "d": "50.0N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612693/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_33_eizvpw.jpg",
+    "answer": "d",
+    "solution": "Given information:\n\nLoad (L) = 120.0 N\nEfficiency = 40% = 0.40\nEffort (W) = ?\nFrom diagram: Counting the supporting strings, V.R = 6\n\nStep 1: Calculate Mechanical Advantage (M.A)\nEfficiency = M.A / V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.40 × 6\nM.A = 2.4\nStep 2: Calculate Effort using M.A\nM.A = Load / Effort\nRearranging:\nEffort = Load / M.A\nSubstituting values:\nW = 120.0 / 2.4\nW = 50.0 N",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 416,
     "question": "In which of the following diagrams is the length of the tube equal to one wavelength? ",
     "option": {
@@ -1244,6 +1340,22 @@
     "image": "",
     "answer": "d",
     "solution": "The collision between the gases is perfectly inelastic",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 430,
+    "question": "A boy standing some distance from the foot of a tall cliff claps his hands and hears an echo 0.5s later. If the speed of sound is 340ms⁻¹, how far is he from the cliff?",
+    "option": {
+      "a": "680m",
+      "b": "170m",
+      "c": "34m",
+      "d": "85m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nTime for echo = 0.5 s\nSpeed of sound (v) = 340 m/s\nDistance to cliff = ?\n\nUnderstanding echo:\n\nSound travels from boy to cliff and back to boy\nTotal distance = 2 × distance to cliff\nTime given is for the round trip\n\nStep 1: Calculate total distance traveled by sound\nTotal distance = Speed × Time\nTotal distance = 340 × 0.5\nTotal distance = 170 m\nStep 2: Calculate distance to cliff\nSince sound travels to the cliff and back:\nDistance to cliff = Total distance / 2\nDistance to cliff = 170 / 2\nDistance to cliff = 85 m",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -1484,6 +1596,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614857/ALOC-Questions/Physics/2023/physics_2023-Q23_ehlmzy.png",
     "answer": "a",
     "solution": "Given information:\n\nWeight of box, W = 400 N\nApplied force, P = 100 N\nAngle, θ = 30.0°\nConstant speed (equilibrium condition)\nCoefficient of kinetic friction, μk = ?\n\nSolution:\nStep 1: Resolve force P into components\nHorizontal component: Px = P cos θ = 100 cos 30°\nPx = 100 × 0.866 = 86.6 N\nVertical component: Py = P sin θ = 100 sin 30°\nPy = 100 × 0.5 = 50 N (directed downward)\nStep 2: Calculate normal force (vertical equilibrium)\nThe vertical forces acting on the box:\n\nNormal force R (upward)\nWeight W (downward)\nVertical component Py (downward)\n\nAt equilibrium:\nR - W - Py = 0\nR = W + Py\nR = 400 + 50\nR = 450 N\nStep 3: Apply horizontal equilibrium\nAt constant speed, horizontal forces are balanced:\nPx = Ffriction\nPx = μkR\nStep 4: Solve for coefficient of kinetic friction\n86.6 = μk × 450\nμk = 86.6/450\nμk = 0.192\nμk ≈ 0.19",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 527,
+    "question": "The near point of a patient's eye is 50.0 cm. What power (in diopters) must a corrective lens have to enable the eye to see clearly an object 25.0 cm away?",
+    "option": {
+      "a": "2 diopters",
+      "b": "2.5 diopters",
+      "c": "0.5 diopters",
+      "d": "3 diopters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nNear point (without correction) = 50.0 cm\nDesired object distance, u = 25.0 cm\nImage distance (where eye can see clearly), v = -50.0 cm (virtual image)\nPower, P = ?\n\nSolution:\nStep 1: Understand the requirement\nThe lens must form a virtual image at 50 cm (the eye's near point) when the object is at 25 cm. This allows the eye to see the object clearly.\nStep 2: Apply lens formula\n1/f = 1/v - 1/u\nSign convention:\n\nObject distance, u = -25.0 cm (object is on the left)\nImage distance, v = -50.0 cm (virtual image on the same side)\n\nStep 3: Calculate focal length\n1/f = 1/(-50) - 1/(-25)\n1/f = -1/50 + 1/25\n1/f = -1/50 + 2/50\n1/f = 1/50\nf = 50 cm = 0.50 m\nStep 4: Calculate power\nPower, P = 1/f (in meters)\nP = 1/0.50\nP = 2 diopters",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -2172,6 +2300,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nNumber of revolutions = 90\nTime (t) = 25 s\nFrequency (f) = ?\n\nFormula for frequency:\nFrequency = Number of revolutions / Time taken\nf = N/t\nSubstituting values:\nf = 90/25\nf = 3.6 Hz",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 810,
+    "question": "When cold water is poured on a can containing hot water, the can collapses because the?",
+    "option": {
+      "a": " steam condeses and occupies the partial vacuum in the can",
+      "b": "external air pressure counter balances the pressure within the can",
+      "c": " steam expands to occupy the vacuum remaining in the can",
+      "d": "external pressure becomes greater than the pressure within the can."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cold water reduces the temperature of the hot water inside the can causing the contraction of the hot water. This reduces the pressure inside the can and the can collapses due to the external greater expression.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -2892,6 +3036,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nCurrent, I = 4 A\nTime, t = 2 hours = 2 × 3600 = 7200 s\nElectrochemical equivalent, z = 3.3 × 10⁻⁷ kg C⁻¹\n\nSolution:\n\nStep 1: Calculate total charge passed\nQ = I × t = 4 A × 7200 s = 28 800 C\n\nStep 2: Calculate mass deposited\nm = z × Q = (3.3 × 10⁻⁷) × 28 800 = 3.3 × 10⁻⁷ × 2.88 × 10⁴ = 3.3 × 2.88 × 10⁻³ = 9.504 × 10⁻³ kg\n\nStep 3: Round to two significant figures\n9.504 × 10⁻³ kg ≈ 9.5 × 10⁻³ kg",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1118,
+    "question": "When ²¹⁰₈₂Pb decays to ²⁰⁶₈₀Pb, it emits",
+    "option": {
+      "a": "two alpha and two beta particles",
+      "b": "an alpha particle",
+      "c": "one beta particle",
+      "d": " one alpha and one beta particle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nInitial nuclide: ²¹⁰₈₂Pb (mass number 210, atomic number 82)\nFinal nuclide: ²⁰⁶₈₀Pb (mass number 206, atomic number 80)\n\nSolution:\n\nStep 1: Determine changes in mass and atomic numbers\nChange in mass number = 210 – 206 = 4\nChange in atomic number = 82 – 80 = 2\n\nStep 2: Identify particle(s) that produce these changes\n\nAn alpha particle (⁴₂He) decreases mass number by 4 and atomic number by 2.\n\nA beta particle (⁰₋₁e) increases atomic number by 1 with no mass change.\n\nStep 3: Match the changes\nA single alpha emission exactly accounts for:\nΔA = –4, ΔZ = –2\nThis matches the observed changes. No beta particle is involved.",
     "examtype": "utme",
     "examyear": "2014"
   },

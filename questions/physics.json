@@ -2592,6 +2592,22 @@
     "examyear": "2016"
   },
   {
+    "id": 189,
+    "question": "What is the angular magnification of a telescope having objective and eyepiece lenses of a focal lengths 30cm and 3cm respectively?",
+    "option": {
+      "a": "60",
+      "b": "10",
+      "c": "30",
+      "d": "90"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nFocal length of objective lens (f_o) = 30 cm\nFocal length of eyepiece lens (f_e) = 3 cm\nAngular magnification (M) = ?\n\nFormula for angular magnification of a telescope:\nM = f_o/f_e\nSubstituting values:\nM = 30/3\nM = 10",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 192,
     "question": "The rate of cooling of a heated quantity of liquid in an enclosure depends on the",
     "option": {
@@ -2940,6 +2956,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nWeight in air = 50 N\nMass of water displaced = 3.7 kg\nUpthrust = ?\n\nUsing Archimedes' Principle:\nUpthrust = Weight of fluid displaced\nCalculate weight of water displaced:\nWeight = Mass × g\nUpthrust = 3.7 kg × 10 m/s²\nUpthrust = 37 N\nExplanation:\nWhen a body is immersed in a fluid, it experiences an upward force (upthrust) equal to the weight of the fluid it displaces. Since the body displaces 3.7 kg of water, the upthrust equals the weight of this water.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 220,
+    "question": "Boiling occurs when the vapour pressure of a liquid is",
+    "option": {
+      "a": "At the evaporation point",
+      "b": "Less than the atmospheric pressure",
+      "c": "Greater than the atmospheric pressure",
+      "d": "Equal to the atmospheric pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Boiling occurs when bubbles of vapour form within the liquid and rise to the surface.\nCondition for boiling:\nFor bubbles to form and grow inside the liquid, the vapour pressure inside the bubbles must overcome the external pressure (atmospheric pressure) pushing down on the liquid surface.\nKey point:\nBoiling occurs when vapour pressure equals atmospheric pressure.",
     "examtype": "utme",
     "examyear": "2016"
   },

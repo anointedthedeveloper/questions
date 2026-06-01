@@ -238,5 +238,85 @@
     "solution": "Given information:\nGround state energy, E₁ = -24.8 eV\nLevel number, n = 3\n\nSolution:\n\nStep 1: Energy level formula for hydrogen-like atoms\nFor an atom with a single electron, the energy of the nth level is given by:\nEₙ = E₁ / n²\n\nStep 2: Substitute values\nE₃ = -24.8 eV / 3² = -24.8 / 9 = -2.7556 eV ≈ -2.75 eV",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 1040,
+    "question": "When a brick is taken from the earth's surface to the moon, its mass",
+    "option": {
+      "a": "remains constant",
+      "b": "reduces",
+      "c": "increases",
+      "d": " becomes zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a brick is taken from the earth's surface to the moon, its mass remains constant. Mass is an intrinsic property of matter that doesn't change with location, although the weight (gravitational force) decreases to about 1/6 of its Earth value due to the moon's weaker gravity.\nRemember:\n\nMass = amount of matter (constant everywhere)\nWeight = gravitational force (varies with location)",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 802,
+    "question": "If a wheel 1.2 m in diameter rotates at one revolution per second, calculate the velocity of the wheel.",
+    "option": {
+      "a": "3.6 ms⁻¹",
+      "b": "3.77 ms⁻¹",
+      "c": " 4.0 ms⁻¹",
+      "d": " 7.5 ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDiameter (d) = 1.2 m\nRadius (r) = d/2 = 0.6 m\nFrequency (f) = 1 revolution per second = 1 Hz\nVelocity (v) = ?\n\nStep 1: Calculate angular velocity\nω = 2πf\nω = 2π × 1\nω = 2π rad/s\nStep 2: Calculate linear velocity\nv = ωr\nv = 2π × 0.6\nv = 1.2π\nv = 1.2 × 3.14159\nv = 3.77 ms⁻¹",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 726,
+    "question": "The battery connection that permits current to flow across a p-n junction is called?",
+    "option": {
+      "a": "reverse baised",
+      "b": "forward baised",
+      "c": "amplification",
+      "d": "rectification"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nStep 1: Understanding p‑n junction behavior\nA p‑n junction allows significant current to flow when the p‑side is connected to the positive terminal of a battery and the n‑side to the negative terminal. This connection reduces the depletion region and lowers the barrier for charge carriers.\n\nStep 2: Identifying the correct term\nThis configuration is known as forward bias. The opposite connection (reverse bias) blocks current flow under normal conditions.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 926,
+    "question": "Power supply is transmitted at a very high voltage and low current in order to?",
+    "option": {
+      "a": ". make pass through the trasformers",
+      "b": "ncrease the power supply",
+      "c": "make it travel fast",
+      "d": "prevent overheating of the coil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "High voltage and low current are used to prevent overheating of the transmission lines.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 115,
+    "question": "A uniform meter rule AB has a mass 15g. A 30g mass is suspended at the 10.0cm mark, and another 5g mass is suspended at the 65.0cm mark. Calculate the position of the fulcrum that will keep the meter rule balanced horizontally ",
+    "option": {
+      "a": "50.0cm ",
+      "b": "32.0cm ",
+      "c": "27.5cm ",
+      "d": "17.9cm "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   }
 ]

@@ -192,6 +192,22 @@
     "examyear": "2007"
   },
   {
+    "id": 28,
+    "question": "A 5kg block is released from rest on a smooth plane inclined at an angle of 30o to the horizontal. What is the acceleration down the plane?  [ g = 10ms-2]",
+    "option": {
+      "a": "5.0 ms-2 ",
+      "b": " 8.7 ms-2 ",
+      "c": "25.0 ms-2 ",
+      "d": "5.8 ms-2   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 32,
     "question": "The temperature at which the water vapour in the air saturates the air and begins to condense is",
     "option": {
@@ -3216,6 +3232,22 @@
     "examyear": "2022"
   },
   {
+    "id": 482,
+    "question": "A reservoir is filled with liquid of density 2000 kgm⁻³. Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm⁻² (g = 10 ms⁻²)",
+    "option": {
+      "a": "0.262 m",
+      "b": " 0.664 m",
+      "c": "0.819 m",
+      "d": "0.455 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nDensity, ρ = 2000 kg/m³\nPressure, P = 9100 N/m²\nAcceleration due to gravity, g = 10 m/s²\nDepth, h = ?\n\nSolution:\nUsing the pressure in a fluid formula:\nP = ρgh\nStep 1: Substitute the known values\n9100 = 2000 × 10 × h\n9100 = 20000h\nStep 2: Solve for depth\nh = 9100/20000\nh = 0.455 m",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 487,
     "question": "In order to view the sun, the most suitable instrument to use is?",
     "option": {
@@ -3244,6 +3276,22 @@
     "image": "",
     "answer": "d",
     "solution": "Gravitational pull on moon = 1/6 × gravitational pull on Earth\nWeight on moon, Wₘ = 6.0 N\nWeight on Earth, Wₑ = ?\n\nSolution:\nUsing the relationship between weight and gravity:\nWeight = mass × gravitational acceleration\nStep 1: Establish the relationship\nSince gₘ = 1/6 gₑ\nFor the same mass:\nWₘ/Wₑ = gₘ/gₑ = 1/6\nStep 2: Rearrange the equation\nWₑ = 6 × Wₘ\nStep 3: Substitute the known values\nWₑ = 6 × 6.0\nWₑ = 36.0 N",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 494,
+    "question": "A train of mass 1600 kg attains a speed of 25 ms⁻¹ in 20 seconds. The power developed in the engine is?",
+    "option": {
+      "a": "2.5 KW",
+      "b": "80 KW",
+      "c": "25 KW",
+      "d": "50 KW"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 1600 kg\nFinal velocity, v = 25 m/s\nInitial velocity, u = 0 m/s\nTime, t = 20 s\nPower, P = ?\n\nSolution:\nStep 1: Calculate acceleration\na = (v - u)/t\na = (25 - 0)/20\na = 1.25 m/s²\nStep 2: Calculate force\nF = ma\nF = 1600 × 1.25\nF = 2000 N\nStep 3: Calculate power\nPower = Force × velocity\nP = F × v\nP = 2000 × 25\nP = 50,000 W\nP = 50 kW",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -3484,6 +3532,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nNear point (without correction) = 50.0 cm\nDesired object distance, u = 25.0 cm\nImage distance (where eye can see clearly), v = -50.0 cm (virtual image)\nPower, P = ?\n\nSolution:\nStep 1: Understand the requirement\nThe lens must form a virtual image at 50 cm (the eye's near point) when the object is at 25 cm. This allows the eye to see the object clearly.\nStep 2: Apply lens formula\n1/f = 1/v - 1/u\nSign convention:\n\nObject distance, u = -25.0 cm (object is on the left)\nImage distance, v = -50.0 cm (virtual image on the same side)\n\nStep 3: Calculate focal length\n1/f = 1/(-50) - 1/(-25)\n1/f = -1/50 + 1/25\n1/f = -1/50 + 2/50\n1/f = 1/50\nf = 50 cm = 0.50 m\nStep 4: Calculate power\nPower, P = 1/f (in meters)\nP = 1/0.50\nP = 2 diopters",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 532,
+    "question": "A 35 kΩ is connected in series with a resistance of 40 kΩ. What resistance R must be connected in parallel with the combination so that the equivalent resistance is equal to 25 kΩ?",
+    "option": {
+      "a": "40 kΩ",
+      "b": "37.5 kΩ",
+      "c": "45.5 kΩ",
+      "d": "30 kΩ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nResistance 1, R₁ = 35 kΩ\nResistance 2, R₂ = 40 kΩ\nEquivalent resistance, Req = 25 kΩ\nUnknown parallel resistance, R = ?\n\nSolution:\nStep 1: Calculate series resistance\nWhen R₁ and R₂ are connected in series:\nRseries = R₁ + R₂\nRseries = 35 + 40\nRseries = 75 kΩ\nStep 2: Apply parallel resistance formula\nResistance R is connected in parallel with Rseries to give Req:\n1/Req = 1/Rseries + 1/R\nStep 3: Substitute known values\n1/25 = 1/75 + 1/R\nStep 4: Solve for R\n1/R = 1/25 - 1/75\n1/R = 3/75 - 1/75\n1/R = 2/75\nR = 75/2\nR = 37.5 kΩ",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -5968,6 +6032,22 @@
     "examyear": "2010"
   },
   {
+    "id": 937,
+    "question": "Two metals P and Q of length l1 and l2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of lengths is 3:4. What is the ratio of increase in length of P to Q?",
+    "option": {
+      "a": "7:5",
+      "b": "5:7",
+      "c": "1:2",
+      "d": "2:1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nRatio of linear expansivities, α₁ / α₂ = 2 / 3\nRatio of original lengths, l₁ / l₂ = 3 / 4\nTemperature change Δθ is the same for both.\n\nSolution:\n\nStep 1: Formula for increase in length\nIncrease in length Δl = α l Δθ\n\nStep 2: Ratio of increases\nΔl₁ / Δl₂ = (α₁ l₁ Δθ) / (α₂ l₂ Δθ) = (α₁ / α₂) × (l₁ / l₂)\n\nStep 3: Substitute given ratios\nΔl₁ / Δl₂ = (2/3) × (3/4) = 6 / 12 = 1 / 2\n\nFinal Answer:\nThe ratio of increase in length of P to Q is 1:2.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 938,
     "question": "The velocity of sound in air at 16°C is 340 m s⁻¹. What will it be when the pressure is doubled and its temperature raised to 127°C?",
     "option": {
@@ -6108,6 +6188,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nLoad (L) = 20 N\nHeight (h) = 10 m\nEfficiency = 40% = 0.40\nWork done = ?\n\n\nStep 1: Calculate useful work output\nWork output = Load × Height\nW_output = 20 × 10\nW_output = 200 J\nStep 2: Calculate total work input\nEfficiency = (Work output)/(Work input)\nRearranging:\nWork input = Work output/Efficiency\nW_input = 200/0.40\nW_input = 500 J",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 961,
+    "question": "I. Density of the liquid.\nII. Depth below the surface of the liquid.\nIII. Surface area of the liquid.\nIn which of the statement above will pressure be dependent?",
+    "option": {
+      "a": " I and II only.",
+      "b": " II and III only.",
+      "c": " I, II and III only.",
+      "d": " I and III only."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Pressure in liquid is independent of cross sectional area of the container/ liquid\n∴ the correct options are I & II",
     "examtype": "utme",
     "examyear": "2011"
   },

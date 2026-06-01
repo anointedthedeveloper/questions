@@ -1,5 +1,21 @@
 [
   {
+    "id": 20,
+    "question": "The Multiplier is always the reciprocal of ",
+    "option": {
+      "a": "MPC ",
+      "b": "MPS ",
+      "c": "APC",
+      "d": "APS"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 33,
     "question": "The ‘term’ of trade’ means ",
     "option": {
@@ -96,6 +112,22 @@
     "examyear": "2011"
   },
   {
+    "id": 125,
+    "question": "When the government expenditure and income are the same in fiscal year, this is referred as;",
+    "option": {
+      "a": "Net balance  ",
+      "b": "Zero balanced budget  ",
+      "c": "Balanced budget  ",
+      "d": "Net income "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 160,
     "question": "When demand for a product is price inelastic, the following can happen  ",
     "option": {
@@ -126,6 +158,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
+  },
+  {
+    "id": 216,
+    "question": "One of the functions of money is",
+    "option": {
+      "a": "double coincidence of wants",
+      "b": "unit of account",
+      "c": "indivisibility",
+      "d": "making payments through banks only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
   },
   {
     "id": 218,
@@ -176,6 +224,22 @@
     "examyear": "2010"
   },
   {
+    "id": 318,
+    "question": "The privatization exercise in Nigeria is a move towards a",
+    "option": {
+      "a": "mixed economy",
+      "b": "subsistence economy",
+      "c": "market economy",
+      "d": "command economy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 323,
     "question": "The demand curve for a luxury good is",
     "option": {
@@ -192,6 +256,70 @@
     "examyear": "2009"
   },
   {
+    "id": 334,
+    "question": "Which of the following can be deduced from law of variable proportions when total output is rising?",
+    "option": {
+      "a": "MP is greater than AP",
+      "b": "MP is less than AP",
+      "c": "MP is equal to AP",
+      "d": "MP is equal to zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 348,
+    "question": "The Basic Needs Approach to development is directed a",
+    "option": {
+      "a": "poverty alleviation",
+      "b": "provision of educational infrastructure",
+      "c": "provision of health services",
+      "d": "improvement in worker’s income"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 369,
+    "question": "If  X = 6 and N = 6, determine the value of   Efx.",
+    "option": {
+      "a": "36",
+      "b": "12",
+      "c": "1",
+      "d": "72"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 371,
+    "question": "The mean is the best measure of central tendency because it",
+    "option": {
+      "a": "is not affected by extreme values in a data",
+      "b": "is a balancing point in an observation",
+      "c": "is a midpoint value in an array of data",
+      "d": "can be calculated from incomplete data"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 373,
     "question": "If  the demand for a good is more elastic than its supply, the tax burden is borne",
     "option": {
@@ -199,6 +327,22 @@
       "b": "more by consumers",
       "c": "more by producers",
       "d": "more by retailers and producers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 376,
+    "question": "Consumer surplus tends to be higher when demand is",
+    "option": {
+      "a": "perfectly elastic",
+      "b": "inelastic",
+      "c": "elastic",
+      "d": "unitary elastic"
     },
     "section": "",
     "image": "",
@@ -286,6 +430,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2004"
+  },
+  {
+    "id": 528,
+    "question": "One of the factors determining price elasticity of demand for a commodity is the",
+    "option": {
+      "a": "availability of close substitutes",
+      "b": "number of producers",
+      "c": "government policy",
+      "d": "price of other commodities."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
   },
   {
     "id": 560,

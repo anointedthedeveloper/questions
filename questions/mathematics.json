@@ -3200,6 +3200,22 @@
     "examyear": "2009"
   },
   {
+    "id": 546,
+    "question": "If the hypotenuse of a right-angled isosceles triangle is 2cm. What is the area of the triangle?",
+    "option": {
+      "a": " 1/√2 cm<sup>2</sup>",
+      "b": "1 cm<sup>2</sup>",
+      "c": "√2 cm<sup>2</sup>",
+      "d": "2√2 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547147/ALOC-Questions/Mathematics/2009/MATH_2009_Q25_jzxmbo.jpg",
+    "answer": "b",
+    "solution": "X<sup>2</sup> + x<sup>2</sup> = 2<sup>2</sup>\n2x<sup>2</sup> = 4\nx<sup>2</sup> = 4/2\nx<sup>2</sup> = 2\nx = +/-√2\nArea of Δ = 1/2bh\n= 1/2 x √2 x √2\n= 2/2\n= 1 cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 548,
     "question": "Find the radius of a sphere whose surface area is 154 cm<sup>2</sup>?",
     "option": {
@@ -4352,6 +4368,22 @@
     "examyear": "2013"
   },
   {
+    "id": 783,
+    "question": "Evaluate 3(x + 2) > 6(x + 3)",
+    "option": {
+      "a": " x < 4",
+      "b": "x > -4",
+      "c": "x < -4",
+      "d": "x > 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "3(x + 2) > 6(x + 3)\n\n3x + 6 > 6x + 18\n\n3x - 6x > 18 - 6\n\n-3x > 12\n\nx < -4",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 784,
     "question": "Solve for x: |x - 2| < 3",
     "option": {
@@ -4748,6 +4780,22 @@
     "image": "",
     "answer": "a",
     "solution": "Mean = (2−t+4+t+3−2t+2+t+t−1)/5\n\n\n= 10/5\n = 2",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 852,
+    "question": "The nth term of the sequence 3, 9, 27, 81.....is",
+    "option": {
+      "a": "3 x 3n-2",
+      "b": "3 x 3n-1",
+      "c": " 3 x 3n+2",
+      "d": "3 x 3n+1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "3,9,27,81,.....\nr = 9/8 = 3\nT<sup>n</sup> = ar<sup>n-1</sup>\n\nT<sup>n</sup> = 3(3<sup>n-1</sup> = 3(3<sup>2</sup>)/3",
     "examtype": "utme",
     "examyear": "2016"
   },

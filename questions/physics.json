@@ -1808,6 +1808,22 @@
     "examyear": "2019"
   },
   {
+    "id": 370,
+    "question": "When water is boiling, it",
+    "option": {
+      "a": " gets hotter",
+      "b": " increase is mass",
+      "c": "decreases in mass",
+      "d": "changes to steam"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Boiling indicates changes from Liquid to gas.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 371,
     "question": "A mixture of blue and red pigment when illuminated by white light will appear",
     "option": {
@@ -1838,6 +1854,22 @@
     "solution": "A man exerts the greatest pressure when standing on the toes of one foot because this position has the smallest contact area, and pressure is inversely proportional to area.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 383,
+    "question": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of?",
+    "option": {
+      "a": "4",
+      "b": "π²",
+      "c": " 1/4",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Formula for period of simple pendulum:\nT = 2π√(L/g)\nwhere:\n\nT = period\nL = length of pendulum\ng = acceleration due to gravity\n\nRelationship between period and length:\nT ∝ √L\nInitial conditions:\nT₁ = 2π√(L/g)\nWhen length is increased by factor of 4:\nNew length = 4L\nT₂ = 2π√(4L/g)\nT₂ = 2π√4 × √(L/g)\nT₂ = 2π × 2 × √(L/g)\nT₂ = 2 × [2π√(L/g)]\nT₂ = 2T₁\nFactor of increase:\nT₂/T₁ = 2",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 384,
@@ -2908,6 +2940,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nRLC series circuit at resonance\n\nSolution:\nKey formulas:\nInductive reactance: XL = ωL = 2πfL\nCapacitive reactance: XC = 1/(ωC) = 1/(2πfC)\nResonance condition:\nAt resonance in an RLC series circuit, the impedance is minimum and purely resistive.\nThis occurs when the inductive and capacitive reactances cancel each other:\nXL = XC\nStep 1: Mathematical proof\nAt resonance frequency f₀:\n2πf₀L = 1/(2πf₀C)\nThis confirms: XL = XC\nStep 2: Physical interpretation\nWhen XL = XC:\n\nInductive and capacitive effects cancel\nTotal impedance Z = R (minimum)\nCurrent is maximum\nCircuit is in resonance",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 617,
+    "question": "Given three capacitors 0.3μF, 0.5μF and 0.2μF, the joint capacitance when arranged to give minimum capacitance is",
+    "option": {
+      "a": " 0.1μF",
+      "b": "0.3μF",
+      "c": "1.0μF",
+      "d": "0.5μF"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nC₁ = 0.3 μF\nC₂ = 0.5 μF\nC₃ = 0.2 μF\n\nSolution:\nKey concept:\nMinimum capacitance is obtained when capacitors are connected in series.\nFormula for series capacitors:\n1/Cₜₒₜₐₗ = 1/C₁ + 1/C₂ + 1/C₃\nStep 1: Substitute values\n1/Cₜₒₜₐₗ = 1/0.3 + 1/0.5 + 1/0.2\nStep 2: Calculate each term\n1/Cₜₒₜₐₗ = 3.333 + 2.0 + 5.0\n1/Cₜₒₜₐₗ = 10.333 μF⁻¹\nStep 3: Find Cₜₒₜₐₗ\nCₜₒₜₐₗ = 1/10.333\nCₜₒₜₐₗ = 0.0968 μF ≈ 0.1 μF",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4460,6 +4508,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nPerson's near point = 50 cm (cannot see closer than this)\nDesired near point = 25 cm (normal near point)\nPower of lens (P) = ?\n\nUnderstanding the correction:\nThe lens must take an object at 25 cm and form a virtual image at 50 cm (where the person can see clearly).\nUsing sign convention:\n\nObject distance (u) = -25 cm = -0.25 m (object on left, negative)\nImage distance (v) = -50 cm = -0.50 m (virtual image on same side, negative)\n\nStep 1: Use lens formula\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-0.50) - 1/(-0.25)\n1/f = -1/0.50 + 1/0.25\n1/f = -2 + 4\n1/f = 2 m⁻¹\nStep 2: Calculate power\nPower (P) = 1/f (in meters)\nP = 2 D",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 981,
+    "question": "Under which of the following conditions do gases conduct electricity?",
+    "option": {
+      "a": "Low presssure and low p.d",
+      "b": "ow pressure and high p.d",
+      "c": "high pressure an low p.d",
+      "d": "high pressure and high p.d"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Under high potential difference and low pressure gases are good conductor of electricity",
     "examtype": "utme",
     "examyear": "2011"
   },

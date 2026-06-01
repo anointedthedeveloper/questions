@@ -1456,6 +1456,22 @@
     "examyear": "2005"
   },
   {
+    "id": 345,
+    "question": "Find the curved surface area of a cone with circular base diameter 10 cm and height 12 cm",
+    "option": {
+      "a": "25 πcm<sup>2</sup> ",
+      "b": "65 πcm<sup>2</sup> ",
+      "c": "120 πcm<sup>2</sup> ",
+      "d": "156 πcm<sup>2</sup> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "L<sup>2</sup>  = 12<sup>2</sup>  + 5<sup>2</sup> \n= 144 + 25\n= 169\nL = √169\n= 13\nCurved surface Area = πrL\n= 5/1 * 13/1 * π\n= 65πcm<sup>2</sup> ",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 347,
     "question": "Find the equation of the perpendicular at the point (4,3) to the line y + 2x = 5",
     "option": {
@@ -3424,6 +3440,22 @@
     "examyear": "2016"
   },
   {
+    "id": 863,
+    "question": "OGIVE is constructed using",
+    "option": {
+      "a": "Third quartile range",
+      "b": "Semi-quartile range",
+      "c": "Cummulative frequency table",
+      "d": "Inter-quartile table"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 864,
     "question": "Rationalize(√6−√4)/(√6 + √4)",
     "option": {
@@ -4656,6 +4688,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1143,
+    "question": "The area A of a circle is increasing at a constant rate of 1.5 cm <sup>2</sup>s<sup>−1</sup>\n. Find, to 3 significant figures, the rate at which the radius r of the circle is increasing when the area of the circle is 2 cm<sup>2</sup>\n.",
+    "option": {
+      "a": " 0.200 cms<sup>−1</sup>",
+      "b": "0.798 cms<sup>−1</sup>",
+      "c": " 0.300 cms<sup>−1</sup>",
+      "d": " 0.299 cms<sup>−1</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Area of a circle (A) = πr<sup>2</sup>\n\n\nGiven\n\ndA/dt=1.5 cm<sup>2</sup>s<sup>-1</sup>\n\n\ndr/dt = ?\n\nA = 2cm<sup>2</sup>\n\n\nNow\n\n2 = πr <sup>2</sup> \n\n\n= r<sup>2</sup> = 2/π\n\n\nr = √(2/π) cm = 0.798cm\n\ndr/dt = dA/dt × dr/dt\n\n\ndA/dr= 2πr (differentiating A = πr<sup>2</sup>)\n\n\ndr/dA=1/2πr\n\n\ndr/dt=1.5 × 1/(2 × π × 0.798) = 1.5 × 0.199\n\n\ndr/dt = 0.299cms<sup>−1</sup> (to 3 s.f)",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1157,
     "question": "A coin is thrown 3 times. What is the probability that atleast one head is obtained?",
     "option": {
@@ -4780,6 +4828,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given the sequence 3, 8, 13, 18, ... which is an arithmetic sequence\n\na = 3\n\nd = T<sub>2</sub>  - T<sub>1</sub>  = 8 - 3 = 5\n\nThe general term of an A.P is:\n\nT<sub>n</sub>  = a + (n - 1)d\n\n⇒ T<sub>n</sub> = 3 + (n - 1)5\n\n= T<sub>n</sub> = 3 + 5n - 5\n\n∴ T<sub>n</sub> = 5n - 2",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1175,
+    "question": "The locus of a point equidistant from two intersecting lines is",
+    "option": {
+      "a": "where the sum of the distances of two focal points is fixed",
+      "b": " the collection of points that are equally distant from a fixed point and a line",
+      "c": "the perpendicular bisector of the lines",
+      "d": "pair of bisectors of the angles between the two lines"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The locus of a point equidistant from two intersecting lines is pair of bisectors of the angles between the two lines.",
     "examtype": "utme",
     "examyear": "2023"
   },

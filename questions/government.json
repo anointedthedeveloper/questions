@@ -336,6 +336,22 @@
     "examyear": "2011"
   },
   {
+    "id": 143,
+    "question": "The first Nigeria leader to become chairman of the Organization of African Unity was:  ",
+    "option": {
+      "a": "Tafawa Balewa",
+      "b": "Murtala Mohammed",
+      "c": "Yakubu Gowon  ",
+      "d": "Aguiyi-Ironsi"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 148,
     "question": "Under military regimes in Nigeria, the branches of government that were fused are: ",
     "option": {
@@ -752,6 +768,22 @@
     "examyear": "2013"
   },
   {
+    "id": 311,
+    "question": "The principle of collectively responsibility implies that",
+    "option": {
+      "a": "individual views cannot be expressed",
+      "b": "decisions taken are defended in spite of individual opinions",
+      "c": "those who hold different views must acquiesce",
+      "d": "government cannot be personalized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 316,
     "question": "The separation of judicial, legislative and executive function is designed to",
     "option": {
@@ -1008,6 +1040,22 @@
     "examyear": "2010"
   },
   {
+    "id": 433,
+    "question": "Which of these rulers resisted colonial rule and was deported to Calabar?",
+    "option": {
+      "a": "Oba Ovoramwen.",
+      "b": "King Dosunmu",
+      "c": "King Jaja.",
+      "d": "King Kosoko"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 471,
     "question": "The bringing of a session of a parliament to an end through royal proclamation is known as",
     "option": {
@@ -1147,6 +1195,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 524,
+    "question": "One of the functions of pressure groups is to",
+    "option": {
+      "a": "contest elections to serve the people",
+      "b": "nominate the president",
+      "c": "prepare the budget",
+      "d": "articulate the opinion of their members."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -1344,6 +1408,22 @@
     "examyear": "1988"
   },
   {
+    "id": 618,
+    "question": "Which of the following is not relevant to communism",
+    "option": {
+      "a": "Democracy",
+      "b": "Violent revolution",
+      "c": "Friedrich Engels",
+      "d": "Private Enterprise."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 634,
     "question": "The creation of the office of the Prime Minister in Nigeria was accomplished in",
     "option": {
@@ -1536,6 +1616,22 @@
     "examyear": "1989"
   },
   {
+    "id": 706,
+    "question": "Which of the following is not a pressure group? The",
+    "option": {
+      "a": "Nigerian Farmers’ Council",
+      "b": "Nigerian Union of Teachers",
+      "c": "National Party of Nigeria",
+      "d": "Academic Staff Union of Universities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 719,
     "question": "Which of the following African countries has diplomatic relations with South Africa?",
     "option": {
@@ -1564,6 +1660,22 @@
     "image": "",
     "answer": "d",
     "solution": " Local governments often struggle with a lack of trained personnel.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 731,
+    "question": "The popularity of a political party in given democracy rests on its __",
+    "option": {
+      "a": "constitution",
+      "b": "manifesto",
+      "c": "ideology",
+      "d": " number of branches."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A political party's popularity depends largely on its manifesto, which outlines its vision and policies.",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -2000,6 +2112,22 @@
     "examyear": "2020"
   },
   {
+    "id": 914,
+    "question": "The Nigeria's head of government in 1963 was _____",
+    "option": {
+      "a": "Chief Nnamdi Azikiwe",
+      "b": "General Yakubu Gowon",
+      "c": "Alhaji Abubakar Tafawa",
+      "d": "Major Gen. Aguiyi Ironsi"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The head of government was also the prime minister in the person of Abubakar Tafawa Balewa.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 919,
     "question": "The main function of the Code of Conduct Bureau is to......",
     "option": {
@@ -2060,6 +2188,22 @@
     "image": "",
     "answer": "b",
     "solution": "Political parties aim at contesting and winning elections and controlling government while pressure groups aim at pursuing the interest of their members and influencing the decisions of the government.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 952,
+    "question": "The type of government operated in Nigeria between October 1st 1979 to December 3 1983 is called a __________",
+    "option": {
+      "a": "Collegial system of government",
+      "b": "Presidential system of government",
+      "c": "Unitary system of government",
+      "d": "Parliamentary system of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "During this period, Nigeria operated under the Second Republic, which was modelled after the United States' presidential system. In this system, the President is both the head of state and the head of government, separate from the legislature. This period marked a shift from the parliamentary system used during the First Republic.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2204,6 +2348,22 @@
     "image": "",
     "answer": "a",
     "solution": "The People's Redemption Party was known for its socialist ideology and populist policies in the 1980s. The party was founded by Mallam Aminu Kano and was known for its commitment to representing the interests of the common people.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1031,
+    "question": "The electoral system used in Nigeria is primarily based on __________",
+    "option": {
+      "a": "mixed-member proportional",
+      "b": " preferential voting",
+      "c": "first-past-the-post",
+      "d": "proportional representation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The electoral system used in Nigeria is primarily based on the first-past-the-post system. This means that the candidate with the most votes in an election wins, regardless of whether they have a majority of the total votes. This system is used in Nigeria's presidential, gubernatorial, and legislative elections.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -2896,6 +3056,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1280,
+    "question": "Unicameral legislature is a common feature of",
+    "option": {
+      "a": "unitarism",
+      "b": "federalism",
+      "c": "presidential",
+      "d": "parliamentarism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A unicameral legislature (single legislative chamber) is most commonly associated with unitary systems of government. In unitary states, power is centralized, and subnational units (if they exist) derive authority from the central government. A single legislative body aligns with this simplicity and centralized decision-making.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1284,
     "question": "One of the sources of a constitution is",
     "option": {
@@ -2958,6 +3134,22 @@
     "solution": "The 1976 Local Government Reforms in Nigeria transformed the relationship between states and local governments into one of partnership and co-operation",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1295,
+    "question": "Nigeria supports the South-South cooperation as a foreign policy objective for mutual understanding among",
+    "option": {
+      "a": "nations south of the equator",
+      "b": "sub-saharan African countries",
+      "c": "developing countries",
+      "d": "Asian and sub-saharan African countries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "South-South cooperation refers to collaboration among developing countries, particularly in Africa, Asia, and Latin America, to promote economic and political solidarity. Nigeria supports this as part of its foreign policy to foster economic growth, trade and mutual understanding among developing nations rather than just those south of the equator or limited to Sub-Saharan Africa.",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 1300,
@@ -3084,6 +3276,22 @@
     "image": "",
     "answer": "c",
     "solution": "A key characteristic of the civil service is Merit System.\n\nRecruitment into the Civil Service should be based on merit and not on quota or favouritism.\n\nThis is to enable the Civil Servants to perform their functions very well and then ensure the success of the government.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1358,
+    "question": "An example of a country that operates a bicameral legislature is",
+    "option": {
+      "a": "Nigeria",
+      "b": "Sierra Leone",
+      "c": "Kenya",
+      "d": "Libya"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Nigeria operates a bicameral legislature composed of two chambers:\n\nSenate (Upper House): 109 members representing the 36 states and the Federal Capital Territory.\n\nHouse of Representatives (Lower House): 360 members elected from constituencies nationwide.",
     "examtype": "utme",
     "examyear": "2008"
   },

@@ -416,6 +416,38 @@
     "examyear": "1997"
   },
   {
+    "id": 201,
+    "question": "The amount for which a business is sold is known as",
+    "option": {
+      "a": "goodwill",
+      "b": "capital reserve",
+      "c": "purchase consideration",
+      "d": "premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 203,
+    "question": "The amount of a company’s profit given to a shareholder is known as",
+    "option": {
+      "a": "premium",
+      "b": "dividend",
+      "c": "interest",
+      "d": "allotment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 208,
     "question": "The purchase consideration was",
     "option": {
@@ -699,6 +731,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 323,
+    "question": "The process of using sales ledger balance to cancel off purchases ledger balance is",
+    "option": {
+      "a": "balancing",
+      "b": "set off",
+      "c": "reconciliation",
+      "d": "cancelling"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -1038,6 +1086,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 440,
+    "question": "Determine the closing stock.",
+    "option": {
+      "a": "N 5 500",
+      "b": "N  6500",
+      "c": "N 2500",
+      "d": "N 4500"
+    },
+    "section": "Use the information below to answer questions: Stock (1/1/02) at selling price [N2, 000 ]; Goods sent to branch (selling price)    [  ?  ]; Sales by branch (selling price)   [4, 500 ]; Stock (31/12/02)   [  \t?    ] Opening stock is 1/4 of goods sent to branch.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
   },
   {
     "id": 455,
@@ -1532,6 +1596,22 @@
     "image": "",
     "answer": "c",
     "solution": "Uncredited cheque: This have to be deducted when starting balance as per cash book",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 625,
+    "question": "A double entry for a transaction that offsets one amount against another on both sides of the cashbook is a",
+    "option": {
+      "a": "original entry",
+      "b": " contra entry",
+      "c": " prime entry",
+      "d": " contract entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "contra entry is used to offset amount or same transaction against another on both side of the cashbook",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -2176,6 +2256,22 @@
     "examyear": "2022"
   },
   {
+    "id": 851,
+    "question": "In a bank reconciliation statement, Dishonoured cheques is added to",
+    "option": {
+      "a": "unpresented cheques",
+      "b": "uncredited cheques",
+      "c": "statement of account",
+      "d": "aggregate balanace as per cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a bank reconciliation statement, dishonoured cheques are added to the cash book balance because:\n\nWhen a cheque is dishonoured, the bank reverses the credit that was initially given\nHowever, the cash book still shows the receipt (credit) from when the cheque was first received\nTo reconcile, we need to add back the dishonoured cheque amount to the cash book balance to reflect that this money was not actually received\n\nThe dishonoured cheque represents money that was recorded as received in the cash book but was actually not collected by the bank, so it increases the cash book balance during reconciliation to match the bank's records.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 852,
     "question": "One of the items listed below will not be found in a company’s memorandum and article of association. Which is it?",
     "option": {
@@ -2556,6 +2652,38 @@
     "image": "",
     "answer": "d",
     "solution": "Trial Balance:\nDebit Side:\n\nPurchases = ₦7,500\nLight expenses = ₦900\nRent = ₦1,500\nDebtors = ₦6,000\nDrawings = ₦2,500\nBank = ₦400\nGeneral expenses = ₦1,500\nTotal Debit = ₦20,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300\n\nWait, let me adjust to make it balance properly:\nCorrected figures:\n\nCapital = ₦13,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 973,
+    "question": "Given information:\n\nCapital = ₦6,500\nSales = ₦30,000\nPurchases = ₦12,250\nRent = ₦9,100\nMotor vehicle = ₦2,400\n\nFind the bank balance?",
+    "option": {
+      "a": "₦12,750 credit",
+      "b": "₦71 250 debit",
+      "c": "₦95 000 credit",
+      "d": "₦95 000 debit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "",
+    "solution": "Cash Book Analysis:\nMoney coming in (Credits/Receipts):\n\nCapital = ₦6,500\nSales = ₦30,000\nTotal Receipts = ₦36,500\n\nMoney going out (Debits/Payments):\n\nPurchases = ₦12,250\nRent = ₦9,100\nMotor vehicle = ₦2,400\nTotal Payments = ₦23,750\n\nCalculate Bank Balance:\nBank Balance = Total Receipts - Total Payments\nBank Balance = ₦36,500 - ₦23,750 = ₦12,750 credit",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 974,
+    "question": "An entry made in bank column of cash book to record movement of cash between the office and the bank is the?",
+    "option": {
+      "a": "real entry",
+      "b": "special entry",
+      "c": "direct entry",
+      "d": "contra entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When cash is moved between the office and the bank (or vice versa), this creates a special type of entry in the cash book.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -2960,6 +3088,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1132,
+    "question": "<b>Use the information below to answer questions 18 and 19</b>\n\nCalculate the price per unit of closing stock using the periodic weighted average method.",
+    "option": {
+      "a": "₦3.20",
+      "b": "₦3.00",
+      "c": "₦2.20",
+      "d": "₦2.00"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663211/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q18-19_t9cj1m.png",
+    "answer": "d",
+    "solution": "Step 1: Calculate Total Purchases and Costs\nPurchases:\n\nFeb 1: 400 units × ₦1.00 = ₦400\nFeb 5: 200 units × ₦2.00 = ₦400\nFeb 10: 200 units × ₦3.00 = ₦600\nFeb 20: 100 units × ₦4.00 = ₦400\n\nTotal units purchased: 400 + 200 + 200 + 100 = 900 units\nTotal cost of purchases: ₦400 + ₦400 + ₦600 + ₦400 = ₦1,800\nStep 2: Calculate Weighted Average Cost per Unit\nWeighted Average Cost per Unit = Total Cost ÷ Total Units\n= ₦1,800 ÷ 900 units = ₦2.00 per unit\nStep 3: Calculate Closing Stock Quantity\nTotal units available = 900 units\nTotal units issued = 320 + 120 = 440 units\nClosing stock = 900 - 440 = 460 units\nStep 4: Calculate Closing Stock Value\nUnder periodic weighted average method, all units (whether sold or remaining) are valued at the same weighted average price.\nPrice per unit of closing stock = ₦2.00",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1133,
     "question": "<b>Use the information below to answer questions 18 and 19</b>\n\nUsing the periodic simple average method, the cost per unit is",
     "option": {
@@ -3292,6 +3436,22 @@
     "image": "",
     "answer": "d",
     "solution": "The company is issuing 500,000 shares. Applications were received for 1,550,000 shares, but only applications totaling 1,250,000 shares are considered for pro rata allotment. The remaining applications for 300,000 shares are dishonored and fully refunded.\n\nThe allotment ratio is calculated as follows:\n\nTotal shares to be issued: 500,000\n\nTotal shares considered for allotment: 1,250,000\n\nAllotment ratio = 500,000 / 1,250,000 = 0.4 (or 2/5)\n\nShares allotted = Allotment ratio × Shares applied for\n\nShares allotted = 0.4 × 30,000 = 12,000\n\nThus, the number of shares to be issued to the subscriber is 12,000.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1294,
+    "question": "Which of the following items does not feature in the balance sheet of a club?",
+    "option": {
+      "a": "Arrears of current year's subscription",
+      "b": "Salary arrears paid in the current year",
+      "c": "Rental income received in advance",
+      "d": "Advances subscription in respect of a coming year"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Arrears of current year’s subscription (amounts owed by members) appear as a receivable (asset).\n\nRental income received in advance is unearned income and appears as a liability.\n\nAdvance subscriptions for the coming year are also liabilities.\n\nSalary arrears paid during the year are simply expenses that have been settled and do not appear on the balance sheet at period-end.",
     "examtype": "utme",
     "examyear": "2000"
   },

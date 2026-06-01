@@ -3936,6 +3936,22 @@
     "examyear": "5"
   },
   {
+    "id": 298,
+    "question": "The cause of a loss is",
+    "option": {
+      "a": "peril",
+      "b": "hazard",
+      "c": "risk",
+      "d": "loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 299,
     "question": "The party who proposes to the insurance company to insure his properly is called",
     "option": {
@@ -3966,6 +3982,38 @@
     "solution": "",
     "examtype": "model",
     "examyear": "5"
+  },
+  {
+    "id": 301,
+    "question": "Insurance against risk is possible because of the law of",
+    "option": {
+      "a": "large numbers",
+      "b": "few numbers",
+      "c": "inverse proportion",
+      "d": "diminishing returns"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 302,
+    "question": "Which  of  the  following  is  not  a  component  of  an insurance policy?",
+    "option": {
+      "a": "Signature clause",
+      "b": "Particular clause",
+      "c": "Recital clause",
+      "d": "Operative clause"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
   },
   {
     "id": 303,
@@ -4491,6 +4539,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 345,
+    "question": "Which  of  the  following  functions  is  related  to  life assurance contract? Benefits are",
+    "option": {
+      "a": "determined  on  the  happening  of  insured  event",
+      "b": "determined by the indemnity doctrine",
+      "c": "determined at the inception of the policy",
+      "d": "assessed by the extent of the loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

@@ -14000,6 +14000,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1095,
+    "question": "What is the equivalent of 20 K in Celsius scale?",
+    "option": {
+      "a": " –253 °C",
+      "b": "–293 °C",
+      "c": "68 °C",
+      "d": "36 °C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nTemperature in Kelvin, T(K) = 20 K\n\nSolution:\n\nStep 1: Relation between Kelvin and Celsius\nThe Celsius temperature T(°C) is given by:\nT(°C) = T(K) – 273.15\nFor rough conversion, 273 is often used.\n\nStep 2: Substitute the value\nT(°C) = 20 – 273 = –253 °C",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1096,
     "question": "The equation PᵃVᵇTᶜ = constant reduces to Charles' Law if",
     "option": {

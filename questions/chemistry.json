@@ -11168,6 +11168,22 @@
     "examyear": "2023"
   },
   {
+    "id": 715,
+    "question": "At a given temperature and pressure, a gas X diffuses twice as fast as gas Y. It follows that",
+    "option": {
+      "a": "Gas Y is two times as heavy as Gas X",
+      "b": "Gas Y is four times as heavy as Gas X",
+      "c": "Gas Y is monoatomic",
+      "d": "Gas X is diatomic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "By Graham's Law of diffusion: rate of diffusion is inversely proportional to the square root of molar mass. Rate_X/Rate_Y = √(M_Y/M_X). Given Rate_X = 2 × Rate_Y: 2 = √(M_Y/M_X). Squaring both sides: 4 = M_Y/M_X. Therefore M_Y = 4 × M_X. Gas Y is four times as heavy as Gas X.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 716,
     "question": "The number of molecules of helium gas contained in 11.5g of the gas is",
     "option": {

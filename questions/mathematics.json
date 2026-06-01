@@ -6976,6 +6976,22 @@
     "examyear": "2007"
   },
   {
+    "id": 467,
+    "question": "If y = (1 + x)<sup>2</sup>, find dy/dx",
+    "option": {
+      "a": "x - 1",
+      "b": "2 + 2x",
+      "c": " 1 + 2x",
+      "d": "2x - 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If y = (1 + x)<sup>2</sup>, find dy/dx\n\n\ny = (1 + x)<sup>2</sup>\n\ndy/dx\n = 2(1 + x)\n\n= 2 + 2x",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 468,
     "question": "The sum of the ages of Musa and Lawal is 28 years. After sharing a certain sum of money in the ratio of their ages, Musa gets N600 and Lawal N800. How old is Lawal?",
     "option": {
@@ -12764,6 +12780,22 @@
     "image": "",
     "answer": "a",
     "solution": "There are 52 cards in a pack of cards. The probability of NOT picking red card is the probability of picking other cards. Which is Prob(R1)=1−13/52 = 1 − 1/4 = 3/4",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 915,
+    "question": "The time taken to a piece of work is inversely proportional to the number of men employed. If it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
+    "option": {
+      "a": "15 days",
+      "b": "12 days",
+      "c": " \n5days",
+      "d": "9days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let t be the time taken Let m the number of men  t ∝1/m t = k/m (k = proportionality constant) when m =45, t=5.    5=k/45.   k =225 When we have 25 men, the number of days will be  t = k/m =225/25  t = 9days",
     "examtype": "utme",
     "examyear": "2017"
   },

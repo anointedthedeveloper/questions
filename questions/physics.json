@@ -8624,6 +8624,22 @@
     "examyear": "2004"
   },
   {
+    "id": 609,
+    "question": "\nThe binding energy of helium ⁴₂He is\n[atomic mass of proton = 1.00783U, atomic mass of neutron = 1.00867U]",
+    "option": {
+      "a": "4.033U",
+      "b": "2.017U",
+      "c": " 0.033U",
+      "d": "0.330U"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nHelium-4 nucleus: ⁴₂He\nAtomic mass of proton, mₚ = 1.00783 U\nAtomic mass of neutron, mₙ = 1.00867 U\nAtomic mass of ⁴₂He = 4.00260 U (standard value)\n\nSolution:\nStep 1: Determine composition of ⁴₂He nucleus\n⁴₂He contains:\n\nNumber of protons, Z = 2\nNumber of neutrons, N = 4 - 2 = 2\n\nStep 2: Calculate total mass of separated nucleons\nTotal mass = (2 × mₚ) + (2 × mₙ)\nTotal mass = (2 × 1.00783) + (2 × 1.00867)\nTotal mass = 2.01566 + 2.01734\nTotal mass = 4.03300 U\nStep 3: Calculate mass defect (Δm)\nΔm = Total mass of nucleons - Actual mass of nucleus\nΔm = 4.03300 - 4.00260\nΔm = 0.03040 U ≈ 0.033 U\nStep 4: Binding energy\nBinding energy = Δm = 0.033 U",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 610,
     "question": "Flourescent tubes produces light by the",
     "option": {
@@ -12816,6 +12832,22 @@
     "examyear": "2010"
   },
   {
+    "id": 931,
+    "question": "The ground state energy for the hydrogen atom is 5.44 × 10⁻¹⁹ J. If an electron drops from zero energy to the ground state, calculate the frequency of the emitted radiation. [h = 6.6 × 10⁻³⁴ Js]",
+    "option": {
+      "a": " 8.24 × 10¹⁴ Hz",
+      "b": "3.59 × 10⁻⁵³ Hz",
+      "c": " 8.24 × 10¹⁵ Hz",
+      "d": "1.21 × 10⁻⁵³ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nGround state energy = -5.44 × 10⁻¹⁹ J (negative, bound state)\nInitial energy (zero energy level) = 0 J\nPlanck's constant (h) = 6.6 × 10⁻³⁴ Js\nFrequency of emitted radiation (f) = ?\n\nUnderstanding the process:\nWhen an electron drops from zero energy (ionization level) to the ground state, it emits a photon.\nStep 1: Calculate energy of emitted photon\nEnergy of photon = Initial energy - Final energy\nE = 0 - (-5.44 × 10⁻¹⁹)\nE = 5.44 × 10⁻¹⁹ J\nStep 2: Calculate frequency using Planck's equation\nE = hf\nRearranging for frequency:\nf = E/h\nSubstituting values:\nf = (5.44 × 10⁻¹⁹)/(6.6 × 10⁻³⁴)\nf = 0.824 × 10⁻¹⁹⁺³⁴\nf = 0.824 × 10¹⁵\nf = 8.24 × 10¹⁴ Hz",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 934,
     "question": "The diagram above shows a velocity - time graph. The statement that is true about this motion is that the car?",
     "option": {
@@ -14224,6 +14256,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1043,
+    "question": "A simple pendulum of length 0.4m has a period of 2s. What is the period of a similar pendulum of length 0.8m at the same place?",
+    "option": {
+      "a": " 8 s",
+      "b": "4 s",
+      "c": "2√2 s",
+      "d": " √2 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\n\nInitial length (L₁) = 0.4 m\nInitial period (T₁) = 2 s\nNew length (L₂) = 0.8 m\nNew period (T₂) = ?\nSame location (same g)\n\nFormula for period of simple pendulum:\nT = 2π√(L/g)\nKey relationship:\nT ∝ √L (period is proportional to square root of length)\nMethod 1: Using ratio\nT₁/T₂ = √(L₁/L₂)\nRearranging:\nT₂ = T₁ × √(L₂/L₁)\nSubstituting values:\nT₂ = 2 × √(0.8/0.4)\nT₂ = 2 × √2\nT₂ = 2√2 s",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1044,
     "question": "A train with an initial velocity of 20 ms⁻¹ is subjected to a uniform deceleration of 2 ms⁻². The time required to bring the train to a complete halt is?",
     "option": {
@@ -15468,6 +15516,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nMass, m = 20 kg\nVelocity, v = 5 m s⁻¹\ng = 10 m s⁻²\n\nSolution:\n\nStep 1: Determine the force required\nTo lift the mass at constant speed, the boy must exert a force equal to the weight:\nF = mg = 20 × 10 = 200 N\n\nStep 2: Power formula\nPower = Force × velocity\nP = F × v = 200 × 5 = 1000 W",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1140,
+    "question": "Without considering the containing vessel, what mass of boiled water can raise the temperature of 8 kg of water from 25 °C to 60 °C when mixed in a heat‑proof container?",
+    "option": {
+      "a": "10 kg",
+      "b": "7 kg",
+      "c": " 5 kg",
+      "d": " 6 kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nMass of cold water, m_c = 8 kg\nInitial temperature of cold water, T_c = 25 °C\nInitial temperature of boiled water (hot), T_h = 100 °C (boiled water)\nFinal temperature of mixture, T_f = 60 °C\nSpecific heat capacity of water, c (same for both, cancels out)\n\nSolution:\n\nStep 1: Heat lost by hot water = Heat gained by cold water\nLet m_h be the mass of hot water.\nHeat lost = m_h × c × (T_h – T_f)\nHeat gained = m_c × c × (T_f – T_c)\n\nStep 2: Set up equation\nm_h × (100 – 60) = 8 × (60 – 25)\nm_h × 40 = 8 × 35\n\nStep 3: Solve for m_h\nm_h = (8 × 35) / 40 = 280 / 40 = 7 kg",
     "examtype": "utme",
     "examyear": "2025"
   },

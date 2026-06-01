@@ -5184,6 +5184,22 @@
     "examyear": "2015"
   },
   {
+    "id": 333,
+    "question": "How much was paid for goodwill?",
+    "option": {
+      "a": "GHc/ 350,000",
+      "b": "GHc/ 260,000",
+      "c": "GHc/  90,000",
+      "d": "GHc/ 60,000"
+    },
+    "section": "Use the following information to answer questions: Mr. White acquired Mr. Black’s business for GHc/ 410,000. The total assets were GHc/ 670,000 and liabilities amounted to GHc/ 320,000",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 334,
     "question": "The double entry to record the goodwill in the books is debit",
     "option": {
@@ -6928,6 +6944,22 @@
     "examyear": "2007"
   },
   {
+    "id": 444,
+    "question": "An accounting ratio that considers only quick assets to determine the short-term safety margin of a firm is the",
+    "option": {
+      "a": "fixed assets ratio",
+      "b": "capital gearing ratio",
+      "c": "current assets ratio",
+      "d": "acid test ratio."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 445,
     "question": "What would be the total amount received on second call?",
     "option": {
@@ -7515,6 +7547,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 482,
+    "question": "What are the current liabilities?",
+    "option": {
+      "a": "I and II",
+      "b": "IV and V",
+      "c": "Ill and V",
+      "d": "II and IV"
+    },
+    "section": "Use the information to answer questions: I.Operating machine II. Furniture  III .Fixtures and fittings IV.  Loan from friends V. Creditors",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -8208,6 +8256,22 @@
     "examyear": "2015"
   },
   {
+    "id": 526,
+    "question": "Prime cost is one of the following",
+    "option": {
+      "a": "expenses which can be identified with an allocated to cost centers",
+      "b": "aggregate direct material cost, direct labour cost and variable direct expenses",
+      "c": "the cost taken into account in the production process whether direct or indirect",
+      "d": "the cost of commodities supply to an undertaking"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "prime cost is the direct cost of a commodity in terms of the materials and labour involved in its production, excluding fixed costs.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 527,
     "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it can be used for more than one year is",
     "option": {
@@ -8444,6 +8508,22 @@
     "image": "",
     "answer": "d",
     "solution": "This is the basis for recording in government accounting where revenue are recorded when cash is received.\n ",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 543,
+    "question": "If the partnership agreement does not specify how net profit is to be divided, the profit should be divided",
+    "option": {
+      "a": "equally",
+      "b": "n accordance with an established",
+      "c": "in proportion of current account balances",
+      "d": "in proportion of weighted average of capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "profit or loss are expected to be share equally in the absence of any agreement",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -12960,6 +13040,22 @@
     "examyear": "2021"
   },
   {
+    "id": 839,
+    "question": "The interest on partner's loan is",
+    "option": {
+      "a": " credited in current account",
+      "b": " debited in profit and loss account",
+      "c": " credited in profit and loss account",
+      "d": "debited in current account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Interest on a partner’s loan is an expense to the business and is therefore charged to the Profit and Loss Account (debited), with the corresponding credit going to the partner’s current account.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 840,
     "question": "Which of the following is a debit item in the purchase ledger control account?",
     "option": {
@@ -13292,6 +13388,22 @@
     "image": "",
     "answer": "c",
     "solution": "Whenever a transaction occurs—such as a sale, purchase, payment, or receipt—a source document (e.g., invoice, receipt, purchase order) is generated as the primary evidence of that transaction. These documents then serve as the basis for recording in the accounting system.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 861,
+    "question": "In the not-for-profit-making organization, the excess of income over expenditure is?",
+    "option": {
+      "a": "deducted from the capital",
+      "b": "added to the accumulated fund",
+      "c": "added to the capital",
+      "d": "deducted from the the accumulated fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a not‑for‑profit organization, any surplus (excess of income over expenditure) is credited to the Accumulated Fund, thereby increasing the fund available for future activities.",
     "examtype": "utme",
     "examyear": "2022"
   },

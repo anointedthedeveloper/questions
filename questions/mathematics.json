@@ -336,6 +336,22 @@
     "examyear": "2000"
   },
   {
+    "id": 102,
+    "question": "Given that the various faces of a fair dice 1, 2, 3, 4, 5, 6 appeared 30, 43, 54, 40, 41, 32 times respectively in a single toss. Picture the figures as being represented in a simple table with number (X) against frequency (f).\nIf a pie chart is used to depict the data, the angle corresponding to 4 is?",
+    "option": {
+      "a": "10°",
+      "b": "16°",
+      "c": "40°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Angle corresponding to 4 is 40/240 x 360/1 = 60°\nNote that total angle in a circle is 360°.\nNote also that sum of the frequencies given is 240.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 107,
     "question": "In how many ways can a delegation of 3 be chosen from among 5 men and 3 women, if at least one man and at least one woman must be included?",
     "option": {
@@ -1968,6 +1984,22 @@
     "examyear": "2013"
   },
   {
+    "id": 827,
+    "question": "From the diagram above, Find the value of < ROP",
+    "option": {
+      "a": "110°",
+      "b": "70°",
+      "c": "95°",
+      "d": "85°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724002970/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q9_blukmd.jpg",
+    "answer": "c",
+    "solution": "< ROP = 95° (Exterior angle of cyclic quadrilateral)",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 835,
     "question": "Factorize k<sup>2</sup> - 2kp + p<sup>2</sup>",
     "option": {
@@ -1980,6 +2012,22 @@
     "image": "",
     "answer": "b",
     "solution": "k<sup>2</sup> - 2kp + p<sup>2</sup> = (k - p)<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 842,
+    "question": "Evaluate (〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2)",
+    "option": {
+      "a": "23/5",
+      "b": "-(23/5)",
+      "c": "=B27-(1/8)",
+      "d": "21/7"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msup>\n        <mn>27</mn>\n        <mfrac>\n          <mn>1</mn>\n          <mn>3</mn>\n        </mfrac>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <msup>\n        <mn>8</mn>\n        <mfrac>\n          <mn>2</mn>\n          <mn>3</mn>\n        </mfrac>\n      </msup>\n    </mrow>\n    <mrow>\n      <msup>\n        <mn>16</mn>\n        <mfrac>\n          <mn>2</mn>\n          <mn>4</mn>\n        </mfrac>\n      </msup>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗^<sup>(2/4)</sup> × 2)\n\n\n(〖27〗<sup>(1/3)</sup> -8<sup>(2/3)</sup>)/(〖16〗<sup>(2/4)</sup>×2)\n = 3√(27) −3√8<sup>2</sup>/√16 × 2\n\n\n(3−4)/(4×2)\n\n= −1/8",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -2172,6 +2220,22 @@
     "image": "",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 942,
+    "question": "How many times, correct to the nearest whole number, will a man run round a circular track of diameter 100m to cover a distance of 1000m?",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In terms of distance, a circle has a total distance or perimeter of 2πr or πd\n\n  Where r is radius and d is the diameter\n\n  So perimeter = 22/7 x 100\n\n  = 314.2857m\n\n  To cover a distance of 1000m, he is going to round the circular track for 1000/314.2857\n = 3.18\n\n≊ 3 (to the nearest whole number)",
     "examtype": "utme",
     "examyear": "2018"
   },

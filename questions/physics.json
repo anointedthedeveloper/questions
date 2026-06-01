@@ -624,6 +624,22 @@
     "examyear": "2015"
   },
   {
+    "id": 173,
+    "question": "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through which of these process?\n\nI. Using a soft iron ore\nII. Laminating the iron core to reduce energy loses due to eddy current\nIII. Designing an efficient iron core",
+    "option": {
+      "a": " I & II only",
+      "b": "II only",
+      "c": "I, II, & III only",
+      "d": "III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "All three processes (using soft iron, laminating the core, and designing an efficient core) help reduce energy losses in transformers.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 181,
     "question": "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will",
     "option": {
@@ -2032,6 +2048,22 @@
     "examyear": "2005"
   },
   {
+    "id": 659,
+    "question": "A proton moving with a speed of 1.0 × 10⁶ ms⁻¹ through a magnetic field of 1.0T experiences a magnetic force of magnitude 8.0 × 10⁻¹⁴ N. The angle between the proton's velocity and the field is [1.6 × 10⁻¹⁹ C]",
+    "option": {
+      "a": "60°",
+      "b": "90°",
+      "c": " 30°",
+      "d": "45°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nSpeed of proton, v = 1.0 × 10⁶ ms⁻¹\nMagnetic field, B = 1.0 T\nMagnetic force, F = 8.0 × 10⁻¹⁴ N\nCharge of proton, q = 1.6 × 10⁻¹⁹ C\nAngle between velocity and field, θ = ?\n\nSolution:\nStep 1: Formula for magnetic force\nFormula: F = qvB sin θ\nWhere:\n\nF = magnetic force\nq = charge\nv = velocity\nB = magnetic field\nθ = angle between velocity and field\n\nStep 2: Rearrange for sin θ\nsin θ = F/(qvB)\nStep 3: Substitute values\nsin θ = (8.0 × 10⁻¹⁴)/[(1.6 × 10⁻¹⁹) × (1.0 × 10⁶) × (1.0)]\nsin θ = (8.0 × 10⁻¹⁴)/(1.6 × 10⁻¹³)\nsin θ = 8.0/16\nsin θ = 0.5\nStep 4: Find angle\nθ = sin⁻¹(0.5)\nθ = 30°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 662,
     "question": "The charge carriers in gasses are",
     "option": {
@@ -2352,6 +2384,22 @@
     "examyear": "2006"
   },
   {
+    "id": 746,
+    "question": "The frequency of the wave in the diagram above is",
+    "option": {
+      "a": " 0.17 Hz",
+      "b": "0.25 Hz",
+      "c": "1.57 Hz",
+      "d": "1.05 Hz"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774430694/ALOC-Questions/Physics/2006/PHYSICS_2006_Q_47_pp0zer.png",
+    "answer": "b",
+    "solution": "Generally, period T = 1/f(reciprocal of frequency).\n=> f = 1/T\nAnd from the diagram, period T = 4s\n∴ frequency, f = 1/T = 1/4 = 0.25 Hz",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 748,
     "question": "Use the figures above to answer the question below\n\nWhich of the following diagrams represents correctly an n-p-n transistor?",
     "option": {
@@ -2640,6 +2688,22 @@
     "examyear": "2009"
   },
   {
+    "id": 909,
+    "question": "One special advantage of alcohol over mercury as a thermometric liquid is its?",
+    "option": {
+      "a": " low density",
+      "b": "low freezing point",
+      "c": " high specific",
+      "d": " low boiling point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The special advantage of alcohol over mercury as a thermometric liquid is its low freezing point (-115°C compared to -39°C for mercury), which allows it to measure much lower temperatures, making it suitable for use in very cold climates where mercury would freeze solid.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 910,
     "question": "The density of a certain oil on frying becomes 0.4 kgm⁻³ with the volume of 20m³. What will be its initial volume when its initial density is 0.8 kgm⁻³ assuming no loss of oil due to spillage?",
     "option": {
@@ -2844,6 +2908,22 @@
     "image": "",
     "answer": "c",
     "solution": "Dielectric constant = (c)/c° = (60)/20 = 3",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 976,
+    "question": "A certain far - sighted person cannot see object that are closer to the eye than 50 cm clearly. Determine the power of the converging lens which will enable him to see at 25 cm",
+    "option": {
+      "a": ". 0.06 D",
+      "b": " 2.0 D",
+      "c": " 0.03 D",
+      "d": " 0.04 D"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nPerson's near point = 50 cm (cannot see closer than this)\nDesired near point = 25 cm (normal near point)\nPower of lens (P) = ?\n\nUnderstanding the correction:\nThe lens must take an object at 25 cm and form a virtual image at 50 cm (where the person can see clearly).\nUsing sign convention:\n\nObject distance (u) = -25 cm = -0.25 m (object on left, negative)\nImage distance (v) = -50 cm = -0.50 m (virtual image on same side, negative)\n\nStep 1: Use lens formula\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-0.50) - 1/(-0.25)\n1/f = -1/0.50 + 1/0.25\n1/f = -2 + 4\n1/f = 2 m⁻¹\nStep 2: Calculate power\nPower (P) = 1/f (in meters)\nP = 2 D",
     "examtype": "utme",
     "examyear": "2011"
   },

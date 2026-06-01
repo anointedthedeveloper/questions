@@ -288,6 +288,22 @@
     "examyear": "1"
   },
   {
+    "id": 79,
+    "question": "Hazard that relates to the attitude of the insured is known as",
+    "option": {
+      "a": "Physical hazard",
+      "b": "Good physical hazard",
+      "c": "Moral hazard",
+      "d": "Good moral hazard"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 81,
     "question": "The following are examples of bad moral hazard except",
     "option": {
@@ -311,6 +327,22 @@
       "b": "Peril",
       "c": "Hazard",
       "d": "Moral"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 88,
+    "question": "A miss statement of fact that is made by the insured or his broker to an underwriter during negotiation is called",
+    "option": {
+      "a": "annuity",
+      "b": "misrepresentation",
+      "c": "endorsement",
+      "d": "disclosure"
     },
     "section": "",
     "image": "",
@@ -859,6 +891,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 204,
+    "question": "The insured is also known as",
+    "option": {
+      "a": "the client",
+      "b": "the consumer",
+      "c": "the policy holder",
+      "d": "agent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "4"

@@ -16976,6 +16976,22 @@
     "examyear": "2025"
   },
   {
+    "id": 1144,
+    "question": "If the critical angle for a glass–air boundary is 45°, what is the refractive index of the glass?",
+    "option": {
+      "a": "√2",
+      "b": "√5",
+      "c": "√3",
+      "d": "2√2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nCritical angle, C = 45°\nRefractive index of air = 1 (approximately)\n\nSolution:\n\nStep 1: Relationship between critical angle and refractive index\nWhen light travels from a denser medium (glass) to a less dense medium (air), the refractive index n of the denser medium is given by:\nn = 1 / sin C\n\nStep 2: Substitute the value\nsin 45° = √2 / 2 = 1/√2\nn = 1 / (1/√2) = √2",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 1145,
     "question": "The volume of a fixed mass of gas at 0 °C is 200 m³. What is its volume at 273 °C at constant pressure?",
     "option": {

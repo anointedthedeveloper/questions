@@ -464,6 +464,22 @@
     "examyear": "2006"
   },
   {
+    "id": 257,
+    "question": "Which of the following is not classified as an overhead?",
+    "option": {
+      "a": "Factory rates",
+      "b": "Factory power",
+      "c": "Factory building extension",
+      "d": "Factory depreciation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 274,
     "question": "A partner who only makes capital contribution but does not take part in the management of the partnership business is a/an",
     "option": {
@@ -800,6 +816,22 @@
     "examyear": "2004"
   },
   {
+    "id": 430,
+    "question": "Share premium is an example of",
+    "option": {
+      "a": "revenue reserves",
+      "b": "capital reserves",
+      "c": "general reserves",
+      "d": "loan capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 454,
     "question": "Partners’ share of profit is credited to",
     "option": {
@@ -1024,6 +1056,22 @@
     "examyear": "2017"
   },
   {
+    "id": 664,
+    "question": "Which type of cashbook entry involves recording the same amount on both the debit and credit sides to offset each other?",
+    "option": {
+      "a": "Contra entry",
+      "b": "Compound entry",
+      "c": "Transfer entry",
+      "d": "Journal entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A contra entry in the cashbook is used when the business moves money between its own cash and bank accounts—such as depositing cash into the bank or withdrawing cash from the bank",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 683,
     "question": "Profit or loss in a partnership is usually arrived at after deducting from gross profit all expenses including____________",
     "option": {
@@ -1182,6 +1230,22 @@
     "solution": "According to section 24 of the partnership Act 1890. If no specific agreement is made by the partners, the following takes place:\n1. No partners may introduce a new person without the consent of all other partners 2.5% interest a year on loans made by partner e.t.c",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 768,
+    "question": "Given the following list of balances: bank account ₦59,410, capital account ₦50,000, purchases account ₦20,000, rent ₦2,500, stationery ₦90, typewriter ₦6,500, and sales ₦38,500, in preparing a trial balance from this list of balances, what is the total in debit and credit columns?",
+    "option": {
+      "a": " ₦I38,500",
+      "b": " ₦147,910",
+      "c": "₦85,800",
+      "d": " ₦88,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Debits: Bank ₦59,410 + Purchases ₦20,000 + Rent ₦2,500 + Stationery ₦90 + Typewriter ₦6,500 = ₦88,500\n\nCredits: Capital ₦50,000 + Sales ₦38,500 = ₦88,500",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 773,
@@ -2284,6 +2348,22 @@
     "image": "",
     "answer": "d",
     "solution": "Prime Cost includes:\n\nDirect materials\n\nDirect labor\n\nDirect expenses\n\nFactory Cost of Production (also called Total Manufacturing Cost) =\nPrime Cost + Factory Overheads (i.e., indirect costs like factory rent, supervisor salary, depreciation of machines, etc.)",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1344,
+    "question": "Goodwill can be valued in partnership when?",
+    "option": {
+      "a": "a partners make profits",
+      "b": "large losses are made",
+      "c": "a partner retires",
+      "d": "a new branch is opened"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a partner retires, goodwill must be valued to determine the retiring partner's fair share of the business value, including intangible assets like goodwill.",
     "examtype": "utme",
     "examyear": "1999"
   },

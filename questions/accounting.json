@@ -4064,6 +4064,22 @@
     "examyear": "2012"
   },
   {
+    "id": 260,
+    "question": "When closing stock is overstated, it would reduce",
+    "option": {
+      "a": "cost of sales and increase gross profit.",
+      "b": "gross profit and increase cost of sales.",
+      "c": "purchases and increase sales.",
+      "d": "sales and increase purchases."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 261,
     "question": "Which of the following is not a source document?",
     "option": {
@@ -4491,6 +4507,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 289,
+    "question": "Which of the following errors affects the agreement of a Trial Balance?",
+    "option": {
+      "a": "Wrong addition in the sales account",
+      "b": "Crediting a purchase to A. Tambi’s account instead of F. Tambi’s account",
+      "c": "Failure to enter sales in the books",
+      "d": "Posting the purchase of a van to the debit side of the purchases account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -8812,6 +8844,22 @@
     "image": "",
     "answer": "c",
     "solution": "Accounting ratios helps management in taking decision the totality of the activities in an organization",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 562,
+    "question": "The document setting out the regulations regarding shares, meetings and internal organization of a company is known as",
+    "option": {
+      "a": "prospectus",
+      "b": "memorandum of association",
+      "c": "company law",
+      "d": "articles of association"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "the article of association center on the rules and regulation governing the internal working of the company. It’s totally in line with the question.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -17536,6 +17584,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1127,
+    "question": "<b>Use the information below to answer questions 12 and 13.</b>\n\nMotor Vehicle Account as at 31st December 2001.\nDebit:\nJan. 1, cost ................₦1950 000\nDec.31, Addition ............ ₦400 000\nCredit:\nJan. 1, Depreciation ........₦1360 000\nJune 30, Sales proceeds...... ₦700 000\n\nThe vehicle sold was purchase on January 1, 1998 at a cost of ₦1,000 000 and had depreciation at 25% on cost.\n\nWhat is the actual profit or loss arising from the vehicle disposed of?",
+    "option": {
+      "a": "₦250 000 loss",
+      "b": "₦50 000 loss",
+      "c": "₦450 000 profit",
+      "d": "₦575 000 profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Calculate total depreciation from purchase to sale date\nFrom January 1, 1998 to June 30, 2001 = 3.5 years\nAnnual depreciation = 25% × ₦1,000,000 = ₦250,000\nTotal depreciation = ₦250,000 × 3.5 years = ₦875,000\nStep 2: Calculate Net Book Value at disposal date\nNet Book Value = Cost - Accumulated Depreciation\nNet Book Value = ₦1,000,000 - ₦875,000 = ₦125,000\nStep 3: Calculate Profit/Loss on disposal\nProfit/Loss = Sale Proceeds - Net Book Value\nProfit/Loss = ₦700,000 - ₦125,000 = ₦575,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1128,
     "question": "Given:\n(i) Order of performance\n(ii) Order of liquidity\n(iii)Vertical order\n(iv) Horizontal order\n\n\nThe order in which a balance assets is arranged are?",
     "option": {
@@ -22252,6 +22316,22 @@
     "image": "",
     "answer": "d",
     "solution": "Amortization is the systematic allocation of the cost of an intangible asset (like patents, copyrights, or trademarks) over its useful life.\n\nDepreciation is used for tangible assets.\n\nDepletion is used for natural resources.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1436,
+    "question": "The principle use of control accounts is to",
+    "option": {
+      "a": " localize error within the ledger",
+      "b": " prevent fraud",
+      "c": "increase sales",
+      "d": "record assets and liabilities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Control accounts (like the sales ledger control account and purchases ledger control account) are used to check the accuracy of postings in the subsidiary ledgers. By comparing the totals, errors can be quickly identified and localized.",
     "examtype": "utme",
     "examyear": "1997"
   },

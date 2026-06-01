@@ -1312,6 +1312,22 @@
     "examyear": "2000"
   },
   {
+    "id": 212,
+    "question": "An order directing a detainee to be brought before the court is called",
+    "option": {
+      "a": "habeas corpus",
+      "b": "an appearance",
+      "c": "an injunction",
+      "d": "a referendum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 215,
     "question": "The system of voting on behalf of another person is known as",
     "option": {
@@ -4288,6 +4304,22 @@
     "examyear": "1988"
   },
   {
+    "id": 658,
+    "question": "To which of these countries did Nigeria send peacekeeping force?",
+    "option": {
+      "a": "South Africa",
+      "b": "Angola",
+      "c": "Chad",
+      "d": "Namibia"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 660,
     "question": "The ultimate aim of a communist system of government is \tthe distribution of goods and services according to",
     "option": {
@@ -5068,6 +5100,22 @@
     "image": "",
     "answer": "c",
     "solution": "Nigeria has never operated a confederal system of government, only federal, unitary (briefly during military rule), and parliamentary systems.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 777,
+    "question": "A country is most likely to have a good government only if it has",
+    "option": {
+      "a": "a good constitution but bad operators",
+      "b": " good operators but bad constitution",
+      "c": "a good constitution and good operators",
+      "d": "illegitimate government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A good government requires both a sound legal framework (constitution) and competent leaders (operators).",
     "examtype": "utme",
     "examyear": "2018"
   },

@@ -6,6 +6,7 @@ import threading
 import socket
 import ctypes
 from queue import Queue
+from dotenv import dotenv_values
 
 ES_CONTINUOUS        = 0x80000000
 ES_SYSTEM_REQUIRED   = 0x00000001
@@ -27,16 +28,22 @@ def allow_shutdown():
     hwnd = ctypes.windll.kernel32.GetConsoleWindow()
     ctypes.windll.user32.ShutdownBlockReasonDestroy(hwnd)
 
-API_KEYS = [
-    "QB-f8fd0811d3a19d9bc3ac",
-    "ALOC-eb5ef0a13fdb416ad27a",
-    "ALOC-3ac4f2f1f2f83eb6c0d7",
-    "QB-d50f30a40f9b835a11ba",
-]
+# Load all API_KEY_* from .env dynamically
+_env = dotenv_values(".env")
+API_KEYS = [v for k, v in sorted(_env.items()) if k.startswith("API_KEY_")]
+if not API_KEYS:
+    # fallback to hardcoded keys if .env has none
+    API_KEYS = [
+        "QB-f8fd0811d3a19d9bc3ac",
+        "ALOC-eb5ef0a13fdb416ad27a",
+        "ALOC-3ac4f2f1f2f83eb6c0d7",
+        "QB-d50f30a40f9b835a11ba",
+    ]
+print(f"[config] loaded {len(API_KEYS)} API keys")
 
-MACHINE_ID = socket.gethostname()  # unique ID per system
+MACHINE_ID = socket.gethostname()
 LOCK_FILE = "subject_locks.json"
-LOCK_TIMEOUT = 30 * 60  # 30 min — if a machine crashes, lock expires
+LOCK_TIMEOUT = 30 * 60
 BASE_URL = "https://questions.aloc.com.ng/api/v2/q/5"
 HEADERS_LIST = [
     {"Accept": "application/json", "AccessToken": k} for k in API_KEYS
@@ -55,13 +62,15 @@ OUTPUT_DIR = "questions"
 PROGRESS_FILE = "progress.json"
 MAX_ROUNDS = 200
 NO_NEW_LIMIT = 15
-RATE_LIMIT = 58  # safe threshold per key per minute
-DELAY = 60 / (RATE_LIMIT * len(API_KEYS))  # spread across both keys
+RATE_LIMIT = 58  # per key per minute
+# With 100 keys: 5800 req/min capacity vs 24 subjects — delay is negligible
+DELAY = max(60 / (RATE_LIMIT * len(API_KEYS)), 0.05)  # floor at 50ms to be polite
 
-WORKERS = 4  # number of subjects processed in parallel
+# One worker per subject — all subjects run in parallel
+WORKERS = len(SUBJECTS)
 
 key_lock = threading.Lock()
-file_lock_mutex = threading.Lock()  # protects subject_locks.json
+file_lock_mutex = threading.Lock()
 current_key = 0
 key_counts = [0] * len(API_KEYS)
 key_reset = [time.time()] * len(API_KEYS)

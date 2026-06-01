@@ -7712,6 +7712,22 @@
     "examyear": "2023"
   },
   {
+    "id": 517,
+    "question": "A 200 kg load is raised using a 110 m long lever as shown in the diagram above. The load is 10m from the pivot P. If the efficiency of the lever is 80%, find the effort E required to lift the load. [Take g = 10ms⁻²]",
+    "option": {
+      "a": " 250 N",
+      "b": "300 N",
+      "c": "450 N",
+      "d": "200 N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614819/ALOC-Questions/Physics/2023/physics_2023-Q18_fexzla.jpg",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of load, m = 200 kg\nTotal lever length = 110 m\nLoad distance from pivot, d_load = 10 m\nEffort distance from pivot, d_effort = 110 - 10 = 100 m\nEfficiency, η = 80% = 0.8\nAcceleration due to gravity, g = 10 m/s²\nEffort required, E = ?\n\nSolution:\nStep 1: Calculate the load force (weight)\nLoad = mg\nLoad = 200 × 10\nLoad = 2000 N\nStep 2: Apply the principle of moments for ideal lever\nFor an ideal lever (100% efficiency):\nLoad × d_load = Effort × d_effort\n2000 × 10 = E_ideal × 100\n20,000 = E_ideal × 100\nE_ideal = 200 N\nStep 3: Account for efficiency\nSince efficiency = 80%, more effort is needed:\nEfficiency = (Ideal Effort/Actual Effort) × 100%\n0.8 = 200/E_actual\nE_actual = 200/0.8\nE_actual = 250 N",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 519,
     "question": "A parallel plate capacitor separated by an air gap is made of 0.8m² tin plates and 20 mm apart. It is connected to 120 V battery. What is the charge on each plate? Take εo = 8.85×10⁻¹²Fm⁻¹",
     "option": {
@@ -14876,6 +14892,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nObject distance, u = 300 m\nImage distance, v = 5 cm = 0.05 m\nImage height, hᵢ = 2.5 cm = 0.025 m\n\nSolution:\n\nStep 1: Magnification formula for pinhole camera\nMagnification m = image height / object height = hᵢ / h₀\nAlso, for pinhole camera, m = v / u\n\nStep 2: Equate the two expressions\nv / u = hᵢ / h₀\n\nStep 3: Substitute values\n0.05 / 300 = 0.025 / h₀\n\nStep 4: Solve for h₀\nh₀ = (0.025 × 300) / 0.05 = (7.5) / 0.05 = 150 m",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1025,
+    "question": "The magnification of an object 2cm tall when placed 10cm in front of a plane mirror is",
+    "option": {
+      "a": "6.0",
+      "b": "1.0",
+      "c": " 0.7",
+      "d": " 0.6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nObject height = 2 cm\nObject distance = 10 cm\nMirror type: plane mirror\n\nSolution:\n\nStep 1: Magnification by a plane mirror\nFor a plane mirror, the image is always the same size as the object.\n\nStep 2: Formula for magnification\nMagnification = image height / object height = 1 (since image height = object height)\n\nStep 3: Value of magnification\nMagnification = 1.0",
     "examtype": "utme",
     "examyear": "2012"
   },

@@ -1936,6 +1936,22 @@
     "examyear": "2009"
   },
   {
+    "id": 544,
+    "question": "A regular polygon has 150º as the size of each interior angle. How many sides does it have?",
+    "option": {
+      "a": "12",
+      "b": "10",
+      "c": "9",
+      "d": "8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sum of interior angles of a polygon = each interior ∠ x n\n(n-2)180 = 150 x n\n180n - 360 = 150n\n180n-150n = 360\n30n = 360\nn = 360/30\nn = 12 sides\n",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 559,
     "question": "The distribution above shows the number of days a group of 260 students were absent from school in a particular term. How many students were absent for at least four days in the term?",
     "option": {
@@ -2000,6 +2016,22 @@
     "examyear": "2009"
   },
   {
+    "id": 564,
+    "question": "In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included?",
+    "option": {
+      "a": "15",
+      "b": "28",
+      "c": "30",
+      "d": "45"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "= (<sup>5</sup>C<sub>2</sub> × <sup>3</sup>C<sub>1</sub>) + (<sup>5</sup> C<sub>1</sub> × <sup>3</sup>C<sub>2</sub>)\n= (10×3) + G44(5×3)\n= 45.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 565,
     "question": "In how many ways can 9 people be seated if 3 chairs are available?",
     "option": {
@@ -2030,6 +2062,22 @@
     "solution": " the 36th percentile i.e. 36% of the total frequency of 50.\n\n36/100 × 50 = 18\n\n= From the graph, 18 on the vertical axis corresponds to28 on the horizontal axis.\n\n∴ P<sub>36</sub> = 28%",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 578,
+    "question": "If x * y = x + y<sup>2</sup>, find then value of (2*3)*5",
+    "option": {
+      "a": "36",
+      "b": "25",
+      "c": "11",
+      "d": "55"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "x * y = x + y2\n2 * 3 = 2 + 32\n= 2 + 9\n= 11\n(2 * 3) * 5 = 11 + 52\n= 11 + 25\n= 36",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 588,
@@ -2684,6 +2732,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given P(2, -3) and Q(-5, 1)\n\nMidpoint = (2+(−5)/2,−3+1/2)\n= (−3/2,−1)\nSlope of the line PQ = 1−(−3)/−5−2\n= −4/7\nThe slope of the perpendicular line to PQ = −1/(−4/7)\n= 7/4\nThe equation of the perpendicular line: y =7/4x + b\nUsing a point on the line (in this case, the midpoint) to find the value of b (the intercept).\n\n−1=(7/4)(−3/2) + b\n−1+21/8 = 13/8 = b\n∴\n The equation of the perpendicular bisector of the line PQ is y = 7/4x + 13/8\n≡ 8y = 14x + 13 ⟹ 8y − 14x − 13 = 0",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 813,
+    "question": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = 1/12 Calculate the value of",
+    "option": {
+      "a": "√108 cm",
+      "b": "9 cm",
+      "c": "√92 cm",
+      "d": " 10 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using the cosine rule, we have\n\np<sup>2</sup> = q<sup>2</sup> + r<sup>2</sup> − 2qrcosP\np<sup>2</sup> = 8<sup>2</sup> + 6<sup>2</sup> − 2(8)(6)(1/12)\n= 64 + 36 − 8\np<sup>2</sup> = 92∴ p = √9cm",
     "examtype": "utme",
     "examyear": "2013"
   },

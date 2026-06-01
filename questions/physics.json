@@ -1024,6 +1024,22 @@
     "examyear": "2017"
   },
   {
+    "id": 246,
+    "question": "When two objects P and Q are supplied with the same quantity of heat, the temperature change in P is observed to be twice that of Q. The mass of P is half that of Q. The ratio of the specific heat capacity pf P to Q is",
+    "option": {
+      "a": "1:04",
+      "b": "4:01",
+      "c": "1:01",
+      "d": "2:01"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nSame heat supplied: Qₚ = Q_Q = Q\nTemperature change: ΔTₚ = 2ΔT_Q\nMass: mₚ = ½m_Q\nRatio Cₚ:C_Q = ?\n\nFormula:\nQ = mcΔT\nFor object P:\nQ = mₚCₚΔTₚ\nQ = (½m_Q)Cₚ(2ΔT_Q)\nQ = m_QCₚΔT_Q\nFor object Q:\nQ = m_QC_QΔT_Q\nSince both receive the same heat:\nm_QCₚΔT_Q = m_QC_QΔT_Q\nCanceling m_Q and ΔT_Q:\nCₚ = C_Q\nTherefore:\nCₚ/C_Q = 1/1 = 1:1",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 249,
     "question": "The net capacitance in the circuit above is",
     "option": {
@@ -3024,6 +3040,22 @@
     "examyear": "2006"
   },
   {
+    "id": 733,
+    "question": "An object placed 10cm from a concave mirror of focal length 5cm would have its image",
+    "option": {
+      "a": "at the centre of convature",
+      "b": "at the radius of curvature",
+      "c": " at infinity",
+      "d": "10 cm from the focus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The image is formed 10 cm from the mirror, on the same side as the object (real image). For a concave mirror, the radius of curvature R = 2f = 10 cm. The centre of curvature is located at distance R from the mirror. Since u = 10 cm, the object is at the centre of curvature, and with v = 10 cm, the image is also formed at the centre of curvature.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 736,
     "question": "The wavelength of the first overtone of a note in a closed pipe of length 33 cm is?",
     "option": {
@@ -3500,6 +3532,22 @@
     "image": "",
     "answer": "d",
     "solution": "The sun and stars are self luminous object.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 872,
+    "question": "If the refractive index of crown glass is 1.51, its critical angle is?",
+    "option": {
+      "a": "48.6°",
+      "b": "22.5°",
+      "c": "41.5°",
+      "d": "45.0°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nRefractive index n = 1.51\n\nSolution:\n\nStep 1: Critical angle formula\nFor a ray traveling from the medium (glass) to air, the critical angle C is given by:\nsin C = 1 / n\n\nStep 2: Substitute value\nsin C = 1 / 1.51 ≈ 0.66225\n\nStep 3: Find C\nC = sin⁻¹(0.66225) ≈ 41.5°",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -4092,6 +4140,22 @@
     "image": "",
     "answer": "a",
     "solution": "X-rays are used in medicine for various purposes including imaging, treatment, and analysis.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1037,
+    "question": "Which of the following CANNOT be deflected by both electric and magnetic fields?",
+    "option": {
+      "a": " Gamma rays",
+      "b": "Alpha particles",
+      "c": "Wave particles",
+      "d": " Beta particles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Gamma rays cannot be deflected by both electric and magnetic fields.",
     "examtype": "utme",
     "examyear": "2012"
   },

@@ -8832,6 +8832,22 @@
     "examyear": "2005"
   },
   {
+    "id": 666,
+    "question": "which of the following materials is a conductor?",
+    "option": {
+      "a": "Glass",
+      "b": "Wax",
+      "c": "Sodium",
+      "d": "Plastic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Sodium is a soft, silvery-white metal that is a good conductor of electricity. It has free-moving electrons, which allows it to conduct electrical current efficiently",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 667,
     "question": "When the temperature difference between the wet and dry bulbs of a hygrometer is high, this indicates that",
     "option": {

@@ -160,6 +160,22 @@
     "examyear": "2012"
   },
   {
+    "id": 60,
+    "question": "A business shows total debtors' balances of N400,000 in its ledger at the end of its financial year. A customer owing N40,000 is bankrupt, and there is no possibility of getting the debt paid. A further 2% of the debt is considered doubtful. What debtor's total will be included as a current asset in the balance sheet?",
+    "option": {
+      "a": "N400,000,   ",
+      "b": "N352,800    ",
+      "c": "N352,000.  ",
+      "d": "N436,200 "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 63,
     "question": " An expenditure whose benefit is finished or enjoyed immediately is called: ",
     "option": {
@@ -555,6 +571,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 167,
+    "question": "The difference between book keeping and accounting is that while",
+    "option": {
+      "a": "book keeping interprets data accounting records it",
+      "b": "book keeping is regarded as  the language of the business, accounting ascertains its .strength and weakness",
+      "c": "book keeping records data accounting interprets it",
+      "d": "book keeping - summaries information, accounting communicates it."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -2320,6 +2352,22 @@
     "examyear": "2015"
   },
   {
+    "id": 554,
+    "question": "Goods stolen at the branch is debited to",
+    "option": {
+      "a": "branch stock account",
+      "b": "defalcations account",
+      "c": "branch debtors account",
+      "d": "branch adjustment account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When goods are stolen at a branch, this represents a loss due to dishonest activities or theft. In accounting, such losses are recorded in a defalcations account, which is specifically used to track losses arising from fraud, theft, or other dishonest acts.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 556,
     "question": "Which of the following cannot be realized?",
     "option": {
@@ -2380,6 +2428,22 @@
     "image": "",
     "answer": "d",
     "solution": "the article of association center on the rules and regulation governing the internal working of the company. It’s totally in line with the question.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 563,
+    "question": "The loss made by a non profit making organization is called",
+    "option": {
+      "a": "deficit",
+      "b": "surplus",
+      "c": "discount",
+      "d": "shortage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A deficit occurs for a nonprofit organization whenever its expenses exceed its revenue . deficit in a non for profit making organization stands for loss and it is the excess of expenses over bar profit and other income.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2716,6 +2780,22 @@
     "image": "",
     "answer": "c",
     "solution": "Uncredited cheque: This have to be deducted when starting balance as per cash book",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 623,
+    "question": "In the period of rising prices, which method of stock valuation is most appropriate?",
+    "option": {
+      "a": "Last in First Out",
+      "b": " weighted average",
+      "c": " First in First Out",
+      "d": "Simple average"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Last in first out:when price rise it results to lower bet income because the leftover inventory might be extremely old and perhaps obsolete",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3712,6 +3792,38 @@
     "examyear": "2021"
   },
   {
+    "id": 829,
+    "question": "From Zahki Plc's balance sheet as at 31st December 1997, the company has the following financial position: On the equity and liabilities side - Paid up capital of ₦200,000, Share premium of ₦15,000, Profit and loss account balance of ₦60,000, Long-term loan of ₦180,000, Creditors of ₦200,000, and Other current liabilities of ₦100,000, totaling ₦755,000. On the assets side - Fixed assets of ₦300,000, Investment of ₦180,000, Stock of ₦28,000, Debtors of ₦90,000 with a provision of ₦3,000 making net debtors ₦87,000, Cash of ₦60,000, and Bank of ₦100,000, also totaling ₦755,000. What is the quick ratio?",
+    "option": {
+      "a": " 0.82 : 1",
+      "b": "1:53:01",
+      "c": " 0.95:1",
+      "d": "0.91:1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Quick Ratio (Acid‐Test Ratio) is calculated as:\n\n(Current Assets − Stock)/Current Liabilities\n​\n \nCurrent Assets (excluding stock):\nNet Debtors ₦87,000 + Cash ₦60,000 + Bank ₦100,000 = ₦247,000\n\nCurrent Liabilities:\nCreditors ₦200,000 + Other Current Liabilities ₦100,000 = ₦300,000\n\nQuick Ratio: 247,000/300,000 ≈ 0.82:1\n\nSo the quick ratio is 0.82 : 1.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 830,
+    "question": "From Zahki Plc's balance sheet as at 31st December 1997, the company has the following financial position: On the equity and liabilities side - Paid up capital of ₦200,000, Share premium of ₦15,000, Profit and loss account balance of ₦60,000, Long-term loan of ₦180,000, Creditors of ₦200,000, and Other current liabilities of ₦100,000, totaling ₦755,000. On the assets side - Fixed assets of ₦300,000, Investment of ₦180,000, Stock of ₦28,000, Debtors of ₦90,000 with a provision of ₦3,000 making net debtors ₦87,000, Cash of ₦60,000, and Bank of ₦100,000, also totaling ₦755,000. Determine the owner's equity?",
+    "option": {
+      "a": "₦275,000",
+      "b": " ₦200,000",
+      "c": " ₦755,000",
+      "d": " ₦215,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Owner’s equity (total shareholders’ funds) is the sum of:\n\nPaid‑up capital: ₦200,000\n\nShare premium: ₦15,000\n\nRetained profit (Profit & Loss account): ₦60,000\n\nSo,\n\n\nOwner’s Equity = 200,000 + 15,000 + 60,000 = ₦275,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 832,
     "question": "Recurrent expenditures are expenses for the period not exceeding",
     "option": {
@@ -3756,6 +3868,22 @@
     "image": "",
     "answer": "d",
     "solution": "The double‐entry system mandates that every financial transaction is recorded with equal debits and credits. This built‑in check ensures that, when all ledger balances are extracted and totaled, the debit column equals the credit column—providing mathematical accuracy in the trial balance.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 840,
+    "question": "Which of the following is a debit item in the purchase ledger control account?",
+    "option": {
+      "a": "balance b/d",
+      "b": "cheque dishonoured",
+      "c": "balance c/d",
+      "d": "purchases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In the Purchases Ledger Control Account (i.e., the Creditors Control Account), a dishonoured cheque is recorded on the debit side because it reverses (cancels) a payment that had previously been debited there, thereby increasing the outstanding liability again. ",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -4412,6 +4540,22 @@
     "image": "",
     "answer": "d",
     "solution": "Trial Balance:\nDebit Side:\n\nPurchases = ₦7,500\nLight expenses = ₦900\nRent = ₦1,500\nDebtors = ₦6,000\nDrawings = ₦2,500\nBank = ₦400\nGeneral expenses = ₦1,500\nTotal Debit = ₦20,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300\n\nWait, let me adjust to make it balance properly:\nCorrected figures:\n\nCapital = ₦13,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 971,
+    "question": "<b>Use the information below to answer questions 7 to 8.</b>\n\n(i) Cash at bank (ii) Cash in hand (iii) Premises\n(iv) Land (v) Creditors (vi)loan from friends/bank.\n\nDetermine the fixed assets?",
+    "option": {
+      "a": "i and v",
+      "b": " ii and iv",
+      "c": " ii and vi",
+      "d": " iii and iv"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Explanation: fixed assets are long-term tangible assets used in the business, premises and land fit this definition.",
     "examtype": "utme",
     "examyear": "2008"
   },

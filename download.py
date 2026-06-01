@@ -59,11 +59,14 @@ SUBJECTS = [
 
 OUTPUT_DIR = "questions"
 PROGRESS_FILE = "progress.json"
-MAX_ROUNDS = 200
+MAX_ROUNDS = 500
 NO_NEW_LIMIT = 40  # needs 40 consecutive empty rounds before marking done — API is random
-RATE_LIMIT = 58  # per key per minute
-# With 100 keys: 5800 req/min capacity vs 24 subjects — delay is negligible
-DELAY = max(60 / (RATE_LIMIT * len(API_KEYS)), 0.05)  # floor at 50ms to be polite
+RATE_LIMIT = 58   # per key per minute
+DELAY = 0.05      # minimal delay — 100 keys gives 5800 req/min capacity
+
+# How many parallel requests to fire per round per subject
+# 100 keys / 24 subjects = ~4 keys per subject, use 8 to be safe
+REQUESTS_PER_ROUND = 8
 
 # One worker per subject — all subjects run in parallel
 WORKERS = len(SUBJECTS)
@@ -83,59 +86,73 @@ def get_file_lock(subject):
     return file_locks[subject]
 
 
-def smart_request(subject):
+def pick_key():
+    """Pick the next available API key, waiting if all are rate-limited."""
     global current_key
+    with key_lock:
+        now = time.time()
+        for i in range(len(API_KEYS)):
+            if now - key_reset[i] >= 60:
+                key_counts[i] = 0
+                key_reset[i] = now
 
+        for i in range(len(API_KEYS)):
+            idx = (current_key + i) % len(API_KEYS)
+            if key_counts[idx] < RATE_LIMIT:
+                key_counts[idx] += 1
+                current_key = (idx + 1) % len(API_KEYS)
+                return idx, HEADERS_LIST[idx]
+
+        # all keys exhausted — wait for the earliest reset
+        wait = 60 - (time.time() - min(key_reset))
+        print(f"  [all keys limited, waiting {wait:.0f}s]")
+        time.sleep(max(wait, 1))
+        for i in range(len(API_KEYS)):
+            key_counts[i] = 0
+            key_reset[i] = time.time()
+        key_counts[0] += 1
+        return 0, HEADERS_LIST[0]
+
+
+def single_request(subject):
+    """One HTTP request for subject, returns valid questions list."""
+    idx, headers = pick_key()
     for attempt in range(3):
-        with key_lock:
-            now = time.time()
-            # reset expired windows
-            for i in range(len(API_KEYS)):
-                if now - key_reset[i] >= 60:
-                    key_counts[i] = 0
-                    key_reset[i] = now
-
-            # pick key with lowest count under limit
-            chosen = None
-            for i in range(len(API_KEYS)):
-                idx = (current_key + i) % len(API_KEYS)
-                if key_counts[idx] < RATE_LIMIT:
-                    chosen = idx
-                    break
-
-            if chosen is None:
-                wait = 60 - (time.time() - min(key_reset))
-                print(f"  [all keys limited, waiting {wait:.0f}s]")
-                time.sleep(max(wait, 1))
-                for i in range(len(API_KEYS)):
-                    key_counts[i] = 0
-                    key_reset[i] = time.time()
-                chosen = 0
-
-            key_counts[chosen] += 1
-            current_key = (chosen + 1) % len(API_KEYS)
-            headers = HEADERS_LIST[chosen]
-
         try:
             r = requests.get(BASE_URL, headers=headers,
                              params={"subject": subject}, timeout=20)
-
             if r.status_code == 429:
                 with key_lock:
-                    key_counts[chosen] = RATE_LIMIT
-                continue
-
+                    key_counts[idx] = RATE_LIMIT
+                return []
             if r.status_code == 200:
                 data = r.json().get("data", [])
                 if isinstance(data, dict):
                     data = [data]
                 return [q for q in data if q.get("id") and q.get("question")]
-
         except Exception as e:
-            print(f"  [{subject}] attempt {attempt+1} failed: {e}")
-            time.sleep(3)
-
+            if attempt == 2:
+                print(f"  [{subject}] request failed: {e}")
+            time.sleep(2)
     return []
+
+
+def smart_request(subject):
+    """Fire REQUESTS_PER_ROUND parallel requests and merge results."""
+    results = [[] for _ in range(REQUESTS_PER_ROUND)]
+
+    def fetch(i):
+        results[i] = single_request(subject)
+
+    threads = [threading.Thread(target=fetch, args=(i,)) for i in range(REQUESTS_PER_ROUND)]
+    for t in threads: t.start()
+    for t in threads: t.join()
+
+    merged = {}
+    for batch in results:
+        for q in batch:
+            merged[q["id"]] = q
+    return list(merged.values())
 
 
 def load_locks():
@@ -235,14 +252,16 @@ def verify_and_load(subject):
 def append_questions(subject, new_questions):
     filepath = os.path.join(OUTPUT_DIR, f"{subject}.json")
     with get_file_lock(subject):
-        existing = []
+        seen = {}
         if os.path.exists(filepath):
             with open(filepath, "r", encoding="utf-8") as f:
-                existing = json.load(f)
-        existing.extend(new_questions)
-        existing.sort(key=lambda q: q.get("id", 0))
+                for q in json.load(f):
+                    seen[q["id"]] = q
+        for q in new_questions:
+            seen[q["id"]] = q
+        merged = sorted(seen.values(), key=lambda q: int(q.get("id", 0)))
         with open(filepath, "w", encoding="utf-8") as f:
-            json.dump(existing, f, ensure_ascii=False, indent=2)
+            json.dump(merged, f, ensure_ascii=False, indent=2)
 
 
 def process_subject(subject, progress):

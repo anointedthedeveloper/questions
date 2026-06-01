@@ -16701,6 +16701,25 @@
     "category": "others"
   },
   {
+    "id": 1306,
+    "question": "It was _____ who killed the goat.",
+    "option": {
+      "a": "his",
+      "b": "him",
+      "c": "he",
+      "d": "us"
+    },
+    "section": "Fill in the gap with the option that best completes the sentence.",
+    "image": "",
+    "answer": "c",
+    "solution": "He is used to replace the male subject(performer of action) of the sentence: it functions as a subject pronoun.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 53,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1307,
     "question": "Bankole is upset as his wife does not understand his <u>predicament</u> .",
     "option": {
@@ -18464,6 +18483,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 85,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1459,
+    "question": "The employer, not the sales boy and his partner ........ responsible for the loss",
+    "option": {
+      "a": "are",
+      "b": "are being",
+      "c": "are never",
+      "d": "is"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Going by the rule of concord, the phrase 'not his sales boy or his partner' is not part of the subject 'the employer'. Therefore, the singular verb should be used.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 86,
     "hasPassage": 0,
     "category": "others"
   },

@@ -304,6 +304,22 @@
     "examyear": "2016"
   },
   {
+    "id": 149,
+    "question": "A discount that is allowed to encourage a debtor to pay off his debt within a period is the",
+    "option": {
+      "a": "trade discount",
+      "b": "annual discount",
+      "c": "periodic discount",
+      "d": "cash discount."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 150,
     "question": "The costs of acquiring fixed assets and bringing them into the firm is a",
     "option": {
@@ -1744,6 +1760,22 @@
     "examyear": "2019"
   },
   {
+    "id": 744,
+    "question": "A company has two departments with the following information: opening stock for Department A is ₦100 and Department B is ₦800; purchases for Department A is ₦1,500 and Department B is ₦2,000; wages of workers is ₦50 and salaries is ₦100; sales for Department A is ₦3,000 and Department B is ₦5,000. Expenses are to be shared in the ratio of sales. The net profit for departmental A is?",
+    "option": {
+      "a": "₦1 343.75",
+      "b": "₦1,880",
+      "c": "₦1,600",
+      "d": "₦880"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Net profit for Department A = Sales – (Opening Stock + Purchases + Allocated Expenses)\n= ₦3 000 – (₦100 + ₦1 500 + [₦150×3 000/8 000])\n= ₦3 000 – (₦100 + ₦1 500 + ₦56.25)\n= ₦3 000 – ₦1 656.25\n= ₦1 343.75",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 763,
     "question": "Shares that are offered to existing shareholders at a price is called",
     "option": {
@@ -2368,6 +2400,22 @@
     "examyear": "2008"
   },
   {
+    "id": 989,
+    "question": "The floor space occupied by manufacturing and administration departments in a company is 200 sqm and 300 sqm respectively. ₦20 000 rent incurred is shared using floor space occupied. How much is the rent chargeable to manufacturing?",
+    "option": {
+      "a": "₦8 000",
+      "b": "₦10 000",
+      "c": "₦12 000",
+      "d": " ₦18 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: Calculate total floor space\nTotal floor space = 200 sqm + 300 sqm = 500 sqm\nStep 2: Calculate manufacturing department's proportion\nManufacturing proportion = 200 sqm ÷ 500 sqm = 2/5 = 0.4 or 40%\nStep 3: Calculate rent chargeable to manufacturing\nRent for manufacturing = ₦20,000 × (200/500)\nRent for manufacturing = ₦20,000 × 0.4 = ₦8,000",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 992,
     "question": "Receipt and payment account discloses?",
     "option": {
@@ -2892,6 +2940,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665518/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q28-29_mt0snk.png",
     "answer": "a",
     "solution": "Given Information from the Account:\n\nTotal for both sides: ₦35,000\nOther expenses = ₦5,000 (25% of ₦20,000 subscriptions as calculated in the previous question)\n\nIncome Side:\n\nSubscriptions received: ₦20,000\nDonations received: ₦10,000\nProfits on sale of investment: ₦5,000\nTotal Income = ₦35,000\n\nExpenditure Side:\n\nWaged: ₦12,000\nElectricity: ₦5,000\nDepreciation - Furniture: ₦1,000\nOther expenses: ₦5,000 (calculated as 25% of subscriptions)\nExcess of income over expenditure: ?\n\nCalculation:\nTotal Expenditure (excluding excess) = ₦12,000 + ₦5,000 + ₦1,000 + ₦5,000 = ₦23,000\nSince both sides must balance at ₦35,000:\nExcess of income over expenditure = ₦35,000 - ₦23,000 = ₦12,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1207,
+    "question": "Control accounts help to verify the arithmetic accuracy of the postings from the?",
+    "option": {
+      "a": "subsidiary books into the trial balance",
+      "b": "ledger into the trial balance",
+      "c": " journals into the ledgers",
+      "d": "subsidiary books into the ledgers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: control accounts summarise totals from subsidiary books (like sales/purchases ledgers) and are used to check that the individual postings into the ledger agree with those subsidiary totals.",
     "examtype": "utme",
     "examyear": "2002"
   },

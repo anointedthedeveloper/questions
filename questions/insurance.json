@@ -176,6 +176,22 @@
     "examyear": "2014"
   },
   {
+    "id": 50,
+    "question": "Which of the following is not a function of an insurance broker?",
+    "option": {
+      "a": "Assisting clients in paying premium",
+      "b": "Maintaining proper records of claims",
+      "c": "Assisting clients in connecting to insurers",
+      "d": "Assisting clients in effecting uninsured loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 53,
     "question": "An insurance principle that requires the insured to be honest and disclose all relevant facts is called",
     "option": {
@@ -343,6 +359,22 @@
       "b": "pure",
       "c": "static",
       "d": "dynamic risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 78,
+    "question": "Factors which may influence the occurrence of a loss is",
+    "option": {
+      "a": "Risk",
+      "b": "Loss",
+      "c": "Peril",
+      "d": "Hazard"
     },
     "section": "",
     "image": "",

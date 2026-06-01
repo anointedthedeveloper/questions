@@ -13808,6 +13808,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1018,
+    "question": "Evaluate (212)<sub>3</sub>  - (121)<sub>3</sub>  + (222)<sub>3</sub> ",
+    "option": {
+      "a": "(313)<sub>3</sub> ",
+      "b": " (1000)<sub>3</sub> ",
+      "c": " (1020)<sub>3</sub> ",
+      "d": "(1222)<sub>3</sub> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Evaluate (212)<sub>3</sub>  - (121)<sub>3</sub>  + (222)<sub>3</sub> \n(212)<sub>3</sub>   + (222)<sub>3</sub>  = 1211<sub>3</sub> \n→ 1211<sub>3</sub>  - 121<sub>3</sub>  = 1020<sub>3</sub> ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1019,
     "question": "Factorise (4a + 3)<sup>2</sup>  - (3a - 2)<sup>2</sup> ",
     "option": {

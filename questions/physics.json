@@ -11232,6 +11232,22 @@
     "examyear": "2010"
   },
   {
+    "id": 938,
+    "question": "The velocity of sound in air at 16°C is 340 m s⁻¹. What will it be when the pressure is doubled and its temperature raised to 127°C?",
+    "option": {
+      "a": "400 m s⁻¹",
+      "b": "4,000 m s⁻¹",
+      "c": "8,000 m s⁻¹",
+      "d": "160,000 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial temperature, T₁ = 16°C = 16 + 273 = 289 K\nInitial velocity, v₁ = 340 m s⁻¹\nFinal temperature, T₂ = 127°C = 127 + 273 = 400 K\nPressure is doubled (does not affect velocity of sound in air for an ideal gas)\n\nSolution:\n\nStep 1: Formula for velocity of sound in an ideal gas\nVelocity v is proportional to the square root of absolute temperature: v ∝ √T\nTherefore, v₂ / v₁ = √(T₂ / T₁)\n\nStep 2: Substitute values\nv₂ / 340 = √(400 / 289) = 20 / 17\n\nStep 3: Solve for v₂\nv₂ = 340 × (20 / 17) = 20 × 20 = 400 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 939,
     "question": "Three capacitors of capacitance 2 μF, 4 μF and 8 μF are connected in parallel and a P.D of 6 V is maintained across each capacitor. The total energy stored is?",
     "option": {

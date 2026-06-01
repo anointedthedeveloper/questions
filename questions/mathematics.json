@@ -16704,6 +16704,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1200,
+    "question": "P varies directly as Q and inversely as R. When Q = 36 and R = 16, P = 27. Find the relation between P, Q and R.",
+    "option": {
+      "a": "P = Q/12R",
+      "b": "P = 12Q/R",
+      "c": " P=12QR",
+      "d": "P = 12/QR"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "P ∝ Q/R\n \n\nP = K(Q/R)\n\n\nWhen Q = 36, R = 16, P = 27\n\nThen substitute into the equation\n\n27 = K(36/16)\n\n\n\nK = (27×16)/36\n\n\nK=12\n\n\nSo the equation connecting P, Q and R is\n\nP = 12Q/R",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1201,
     "question": "What is the solution of x−5/x+3 <−1?",
     "option": {

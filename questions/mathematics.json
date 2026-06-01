@@ -8096,6 +8096,22 @@
     "examyear": "2009"
   },
   {
+    "id": 525,
+    "question": "A man bought a second-hand photocopying machine for N34,000. He serviced it at a cost of N2,000 and then sold it at a profit of 15%. What was the selling price?",
+    "option": {
+      "a": " N37,550",
+      "b": " N40,400",
+      "c": "N41,400",
+      "d": "N42,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "C.P = N34000 + N2000 = N36000\nGain = 100 + 15 = 115%   S.P = 115/100×N3600/1\n= N41400",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 526,
     "question": "A student spent 1/5 of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept?",
     "option": {

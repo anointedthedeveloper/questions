@@ -32,6 +32,22 @@
     "examyear": "2006"
   },
   {
+    "id": 6,
+    "question": "The ice and steam point of a thermometer are 20mm and 100mm respectively: A temperature of 75oC correspond to Ymm on the thermometer. What is Y? ",
+    "option": {
+      "a": "100mm ",
+      "b": "70mm ",
+      "c": "80mm ",
+      "d": "60mm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 12,
     "question": "The most suitable type of mirror used for the construction of search light is the: ",
     "option": {
@@ -107,6 +123,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 62,
+    "question": "The force with which an object is attracted to the earth is called ",
+    "option": {
+      "a": "acceleration ",
+      "b": "mass ",
+      "c": "gravity ",
+      "d": "weight"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -384,6 +416,22 @@
     "examyear": "2017"
   },
   {
+    "id": 254,
+    "question": "Determine the focal length of a thin converging lens if the power is 5.0 dioptres",
+    "option": {
+      "a": " 0.1 m",
+      "b": " 0.2 m",
+      "c": "2.0 m",
+      "d": " 2.5 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPower (P) = 5.0 dioptres (D)\nFocal length (f) = ?\n\nFormula:\nP = 1/f\nwhere:\n\nP is in dioptres (D)\nf is in meters (m)\n\nRearranging to find focal length:\nf = 1/P\nSubstituting values:\nf = 1/5.0\nf = 0.2 m",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 260,
     "question": "Which of the following is correct about an electric cell?",
     "option": {
@@ -464,6 +512,54 @@
     "examyear": "2019"
   },
   {
+    "id": 334,
+    "question": "According to kinetic molecular model, in gases",
+    "option": {
+      "a": "The molecule are very fast apart & occupy all the space made available",
+      "b": "The particles occur in clusters with molecules slightly farther apart",
+      "c": "The particles vibrate about fixed positions and are held together by the strong intermolecular bond between them",
+      "d": "The particles are closely packed together, they occupy minimum space & are usually arranged in a regular pattern"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "According to the kinetic molecular model, gas molecules are very far apart relative to their size and occupy all available space in their container.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 339,
+    "question": "In a slide wire bridge, the balance is obtained at a point 25cm from one end of wire 1m long. The resistance to be tested is connected to that end and a standard resistance of 3.6Ω\n is connected to the other end of the wire. Determine the value of the unknown resistance",
+    "option": {
+      "a": "3.2Ω",
+      "b": "1.4Ω",
+      "c": " 3.21Ω",
+      "d": "1.2Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nTotal wire length = 1m = 100cm\nBalance point = 25cm from one end (where unknown resistance R is connected)\nStandard resistance (S) = 3.6Ω\nUnknown resistance (R) = ?\n\nUnderstanding slide wire bridge (meter bridge):\nAt balance:\nR/S = L₁/L₂\nwhere:\n\nL₁ = length on side of unknown resistance = 25cm\nL₂ = length on side of standard resistance = 100 - 25 = 75cm\n\nCalculating unknown resistance:\nR/3.6 = 25/75\nR/3.6 = 1/3\nR = 3.6 × (1/3)\nR = 3.6/3\nR = 1.2Ω",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 343,
+    "question": "Ripple in a power supply unit is caused by",
+    "option": {
+      "a": "using an alternating current source",
+      "b": "forward voltage drop",
+      "c": "heavy load",
+      "d": " using a zener diode"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Ripple in a power supply is fundamentally caused by using an alternating current source, which produces a pulsating DC output after rectification that retains some AC variation.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 346,
     "question": "A ray of light passes through the centre of curvature of a concave mirror and strikes the mirror. At what angle is the ray reflected?",
     "option": {
@@ -476,6 +572,22 @@
     "image": "",
     "answer": "c",
     "solution": "The ray is reflected at 0° because it retraces its path back through the centre of curvature along the same line with no angular deviation.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 373,
+    "question": "A man on a bench will exert the greatest pressure on the bench when he",
+    "option": {
+      "a": "lies flat on his back",
+      "b": " lies flat on his belly",
+      "c": "stands on both feet",
+      "d": "stands on the toes of one foot"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A man exerts the greatest pressure when standing on the toes of one foot because this position has the smallest contact area, and pressure is inversely proportional to area.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -880,6 +992,22 @@
     "examyear": "2024"
   },
   {
+    "id": 605,
+    "question": "A moving coil galvanometer has a full-scale deflection of 3A equivalent to 30° deflection. The sensitivity of the instrument is",
+    "option": {
+      "a": "33.00",
+      "b": "0.1",
+      "c": "90,0",
+      "d": "10.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nCurrent, I = 3 A\nDeflection angle, θ = 30°\n\nSolution:\nFormula:\nSensitivity of galvanometer = θ/I\nWhere:\n\nθ = deflection angle (in degrees)\nI = current (in amperes)\n\nStep 1: Substitute values\nSensitivity = 30°/3 A\nStep 2: Calculate\nSensitivity = 10 degrees per ampere (°/A)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 639,
     "question": "The phase difference between waves P and q in the diagram above is",
     "option": {
@@ -1134,6 +1262,22 @@
     "solution": "Given information:\nIn water: fraction submerged = 50% = 0.5\nIn glycerine: fraction submerged = 40% = 0.4\nDensity of water, ρ_w = 1000 kg m⁻³\n\nSolution:\n\nStep 1: Density of the sphere from water data\nFor a floating object, the fraction submerged equals the ratio of the object's density to the fluid's density.\nρ_sphere / ρ_w = fraction submerged in water\nρ_sphere / 1000 = 0.5\nρ_sphere = 500 kg m⁻³\n\nStep 2: Use glycerine data to find its density\nρ_sphere / ρ_g = fraction submerged in glycerine\n500 / ρ_g = 0.4\nρ_g = 500 / 0.4 = 1250 kg m⁻³",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 922,
+    "question": "An object is embedded in a block of ice, 10 cm below the plane surface. if the refractive index of the ice is 1.50, the apparent depth below the surface is?",
+    "option": {
+      "a": " 2.50 cm",
+      "b": " 6.67 cm",
+      "c": " 7.50 cm",
+      "d": "7.63 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Refraction index, n = (real depth)/apparent depth\n1.5 = (10)/X\nX = (10)/1.5 = 6.67 cm",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 926,

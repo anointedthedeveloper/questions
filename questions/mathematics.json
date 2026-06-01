@@ -560,6 +560,22 @@
     "examyear": "2004"
   },
   {
+    "id": 308,
+    "question": "Given that 3√4<sup>2x</sup>  = 16, find the value of x",
+    "option": {
+      "a": "4",
+      "b": "6",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "4<sup>2x</sup>  = 16\nthis implies that (3√4<sup>2x</sup>)<sup>3</sup>. 4<sup>2x</sup>  = 4<sup> 2*3</sup>\n4<sup>2x</sup>= 4<sup>6</sup>\n∴ 2x = 6\nx = 3",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 309,
     "question": "Evaluate  (1/10×2/3+1/4)/((1/2)/(3/5)-1/4)",
     "option": {
@@ -1072,6 +1088,22 @@
     "examyear": "2011"
   },
   {
+    "id": 656,
+    "question": "Evaluate ∫<sup>1</sup><sub>0</sub>(3 - 2x)dx",
+    "option": {
+      "a": "33m",
+      "b": "5",
+      "c": "2",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫<sup>1</sup><sub>0</sub>(3 - 2x)dx   [3x - x2]<sup>1</sup<sub>0</sub>\n\n\n[3(1) - (1)<sup>2</sup>] - [3(0) - (0)<sup>2</sup>]\n\n(3 - 1) - (0 - 0) = 2 - 0\n\n= 2",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 663,
     "question": "Find the probability that a number picked at random from the set(43, 44, 45, ..., 60) is a prime number.",
     "option": {
@@ -1100,6 +1132,22 @@
     "image": "",
     "answer": "a",
     "solution": "43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60\n\nThe prime numbers are 43, 47, 53, 59\n\nTotal number possible expected outcome =18\n\nNumber of Expected outcome is 4\n\nProbability of a prime number =4/18=2/9",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 670,
+    "question": "In a class of 60 students, 30 offers physics and 40 offers chemistry. If a students is picked at random from the class, what is the probability that the student offer both physics and Chemistry?",
+    "option": {
+      "a": "1/2",
+      "b": "1/6",
+      "c": "1/4",
+      "d": "1/3"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129944/ALOC-Questions/Mathematics/2011/JAMB_MATH_2011_Q49_SOLUTION_dbv0wq.png",
+    "answer": "b",
+    "solution": "60 = 30 – x + x + 40 – x\n\n60 = 70 – x\n\nx = 10\n\nn(P∩C)=10\nProb(P∩C)=10/60=1/6",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -1712,6 +1760,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1100,
+    "question": "The shaded portion in the venn diagram above represents?",
+    "option": {
+      "a": " F - (E n F) - (G n F)",
+      "b": " E' n F n G'",
+      "c": " E u F u G",
+      "d": " F"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007416/ALOC-Questions/Mathematics/2022/JAMB_MATH_2022_Q3_opy8kq.jpg",
+    "answer": "b",
+    "solution": "-The shaded/stripped portion in the diagram is set F only.\n-This implies that sets E and G though present in the Universal set, are not included in the expression.\n\n-Mathematically; we have E' n F n G'",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1105,
     "question": "Find the length of a chord 3cm from the centre of a circle of radius 5cm",
     "option": {
@@ -1964,6 +2028,22 @@
     "image": "",
     "answer": "a",
     "solution": "x/2 + 3/4 ≤ 5x/6 −7/12\n\n\n12(x/2) + 12(3/4) ≤ 12(5x/6) −12(7/12)\n\n\n6x + 9 ≤ 10x - 7\n\n6x - 10x ≤ - 7 - 9\n\n-4x ≤ -16\n\n-4x/-4 ≥ -16/-4\n\nx ≥ 4",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1211,
+    "question": "Find the mid point of S(-5, 4) and T(-3, -2)",
+    "option": {
+      "a": "-4, 2",
+      "b": "4, -2",
+      "c": " -4, 1",
+      "d": " 4, -1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mid point of S(-5, 4) and T(-3, -2) is\n\n[1/2(-5+-3),1/2(4+(-2))]\n\n\n[1/2(x_1+x_2),1/2(y<sub>1</sub> +y<sub>2</sub> )]\n\n\n[1/2(−8), 1/2(2)]\n\n\n[−4,1]",
     "examtype": "utme",
     "examyear": "2014"
   },

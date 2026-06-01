@@ -1072,6 +1072,22 @@
     "examyear": "2023"
   },
   {
+    "id": 522,
+    "question": "A 400 N box is being pushed across a level floor at a constant speed by a force P of 100 N at an angle of 30.0° to the horizontal, as shown in the the diagram below. What is the coefficient of kinetic friction between the box and the floor?",
+    "option": {
+      "a": "0.19",
+      "b": "0.24",
+      "c": "0.4",
+      "d": "0.22"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614857/ALOC-Questions/Physics/2023/physics_2023-Q23_ehlmzy.png",
+    "answer": "a",
+    "solution": "Given information:\n\nWeight of box, W = 400 N\nApplied force, P = 100 N\nAngle, θ = 30.0°\nConstant speed (equilibrium condition)\nCoefficient of kinetic friction, μk = ?\n\nSolution:\nStep 1: Resolve force P into components\nHorizontal component: Px = P cos θ = 100 cos 30°\nPx = 100 × 0.866 = 86.6 N\nVertical component: Py = P sin θ = 100 sin 30°\nPy = 100 × 0.5 = 50 N (directed downward)\nStep 2: Calculate normal force (vertical equilibrium)\nThe vertical forces acting on the box:\n\nNormal force R (upward)\nWeight W (downward)\nVertical component Py (downward)\n\nAt equilibrium:\nR - W - Py = 0\nR = W + Py\nR = 400 + 50\nR = 450 N\nStep 3: Apply horizontal equilibrium\nAt constant speed, horizontal forces are balanced:\nPx = Ffriction\nPx = μkR\nStep 4: Solve for coefficient of kinetic friction\n86.6 = μk × 450\nμk = 86.6/450\nμk = 0.192\nμk ≈ 0.19",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 535,
     "question": "A relative density bottle has a mass of 19 g when empty. When it is completely filled with water, its mass is 66 g. What will be its mass if completely filled with alcohol of relative density 0.8?",
     "option": {
@@ -1216,6 +1232,22 @@
     "examyear": "2024"
   },
   {
+    "id": 585,
+    "question": "A load of 300N is to be lifted by a machine with a velocity ratio of 2 and an efficiency of 60%. What effort will be applied to lift the load?\n",
+    "option": {
+      "a": "100N",
+      "b": "150N",
+      "c": "250N",
+      "d": "400N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nLoad (L) = 300 N\nVelocity Ratio (V.R) = 2\nEfficiency = 60% = 0.60\nEffort (E) = ?\n\nStep 1: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A / V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.60 × 2\nM.A = 1.2\nStep 2: Calculate Effort using M.A\nM.A = Load / Effort\nRearranging:\nEffort = Load / M.A\nEffort = 300 / 1.2\nEffort = 250 N",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 587,
     "question": "The fourth overtone of a closed pipes is 900Hz, its fundamental frequency is \n",
     "option": {
@@ -1292,6 +1324,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nPrimary voltage, Vₚ = 240 V\nPrimary turns, Nₚ = 4000 turns\nSecondary voltage, Vₛ = 12 V\nSecondary turns, Nₛ = ?\n\nSolution:\nStep 1: Apply transformer equation\nFormula: Vₚ/Vₛ = Nₚ/Nₛ\nStep 2: Rearrange for Nₛ\nNₛ = (Vₛ × Nₚ)/Vₚ\nStep 3: Substitute values\nNₛ = (12 × 4000)/240\nNₛ = 48000/240\nNₛ = 200 turns",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 665,
+    "question": "The current in a reverse-biased junction is due to?",
+    "option": {
+      "a": "minority carriers",
+      "b": "electrons",
+      "c": "majority carriers",
+      "d": "holes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The small reverse current (typically microamperes) in a reverse-biased junction is due to the drift of minority carriers across the junction, not majority carriers. This current is also called leakage current or reverse saturation current.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -1504,6 +1552,22 @@
     "examyear": "2008"
   },
   {
+    "id": 822,
+    "question": "An object of heights 5 cm is placed at 20 cm from a concave mirror of focal length 10 cm. the image height is?",
+    "option": {
+      "a": "20 cm",
+      "b": "15 cm",
+      "c": "10 cm",
+      "d": " 5 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nObject height, h₀ = 5 cm\nObject distance, u = 20 cm\nFocal length, f = 10 cm (positive for concave mirror in sign convention used here)\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n1/10 = 1/20 + 1/v\n\nStep 2: Solve for image distance v\n1/v = 1/10 - 1/20 = 1/20\nv = 20 cm\n\nStep 3: Magnification formula\nMagnification m = v/u = 20/20 = 1\nAlso, m = image height / object height = hᵢ / h₀\n\nStep 4: Find image height\n1 = hᵢ / 5 cm\nhᵢ = 5 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 837,
     "question": "The resultant of two forces 12 N and 5 N is 13 N. What is the angle between the two forces?",
     "option": {
@@ -1708,6 +1772,22 @@
     "image": "",
     "answer": "d",
     "solution": "The processes that can be explained using kinetic theory are change of state (I), diffusion (II), and osmosis (IV). Radiation (III) involves electromagnetic waves and requires different theoretical frameworks beyond simple kinetic theory of particles.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 991,
+    "question": "The correct expression for the potential at a point distance r from a charge q in an electric field is?",
+    "option": {
+      "a": "q²/(4πε₀r²)",
+      "b": " q²/(4πε₀r)",
+      "c": "q/(4πε₀r²)",
+      "d": "q/(4πε₀r)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding electric potential:\nElectric potential (V) at a point is the work done per unit charge in bringing a test charge from infinity to that point.\nFormula for electric potential due to a point charge:\nV = kq/r = q/(4πε₀r)\nwhere:\n\nV = electric potential\nq = source charge\nr = distance from the charge\nk = Coulomb's constant = 1/(4πε₀)\nε₀ = permittivity of free space\n\nComparing with electric field:\nElectric field (E):\nE = kq/r² = q/(4πε₀r²)\n\nUnits: N/C or V/m\nVector quantity\nProportional to 1/r²\n\nElectric potential (V):\nV = kq/r = q/(4πε₀r)\n\nUnits: Volts (V) or J/C\nScalar quantity\nProportional to 1/r\n\nThe correct expression for electric potential at distance r from charge q is V = q/(4πε₀r).",
     "examtype": "utme",
     "examyear": "2011"
   },

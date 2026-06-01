@@ -2720,6 +2720,22 @@
     "examyear": "2005"
   },
   {
+    "id": 179,
+    "question": "NH4CI(g) ⇌   NH3(g)  +  HCI(g)   The reaction above can only attain equilibrium if",
+    "option": {
+      "a": "It is in a closed system",
+      "b": "It is in an open system",
+      "c": "One of the products is removed",
+      "d": "A gaseous reactant is added"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 180,
     "question": "When pure aluminum metal is heated to red hot in the presence of nitrogen gas, the compound formed is",
     "option": {
@@ -5500,6 +5516,22 @@
     "image": "",
     "answer": "b",
     "solution": "Polarization in an electrochemical (voltaic) cell is caused by hydrogen gas. Hydrogen bubbles accumulate on the positive electrode (copper), forming an insulating layer that increases internal resistance and reduces the EMF of the cell. A depolarizer (e.g., MnO₂) is used to remove the hydrogen.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 356,
+    "question": "The condition required for corrosion to take place is the presence of",
+    "option": {
+      "a": "Oxygen and Carbon (IV) oxide",
+      "b": "Water and Oxygen",
+      "c": "Water and Carbon (IV) oxide and Oxygen",
+      "d": "Water and Carbon (IV) oxide"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Corrosion (rusting of iron) requires both water and oxygen. Water acts as the electrolyte enabling electron transfer, while oxygen acts as the oxidizing agent. CO₂ is not an essential requirement for basic corrosion to occur.",
     "examtype": "utme",
     "examyear": "2016"
   },

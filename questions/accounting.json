@@ -976,6 +976,22 @@
     "examyear": "2015"
   },
   {
+    "id": 308,
+    "question": "Goods returned to a supplier is",
+    "option": {
+      "a": "debited to Returns outwards account",
+      "b": "credited to Returns outwards account",
+      "c": "debited to Returns inwards account",
+      "d": "credited to Returns inwards account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 315,
     "question": "The accounting entry to correct sales day book overcast is",
     "option": {
@@ -3548,6 +3564,22 @@
     "image": "",
     "answer": "c",
     "solution": "In a balance sheet, assets can be arranged:\n\nOrder of liquidity → listing assets based on how quickly they can be converted into cash.\n\nVertical order → presenting the items in a top-to-bottom format.\n\nSo, the order in which assets are arranged is order of liquidity and vertical order.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1135,
+    "question": "<b>Use the information below to answer questions 20 and 21.</b>\n\nCredit purchases are always put at 150% of the total cash paid to suppliers\n\nDetermine the credit purchases",
+    "option": {
+      "a": "₦13 500",
+      "b": "₦15 500",
+      "c": "₦13 400",
+      "d": "₦12 000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663260/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q20-21_gg4bum.png",
+    "answer": "d",
+    "solution": "Calculation:\nCredit purchases = 150% × Cash paid to suppliers\nCredit purchases = 150% × ₦8,000\nCredit purchases = 1.5 × ₦8,000\nCredit purchases = ₦12,000",
     "examtype": "utme",
     "examyear": "2003"
   },

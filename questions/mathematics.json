@@ -9488,6 +9488,22 @@
     "examyear": "2010"
   },
   {
+    "id": 604,
+    "question": "For what range of values of x is 1/2x + 1/4 > 1/3x + 1/2?",
+    "option": {
+      "a": "x < 3/2",
+      "b": "x > 3/2",
+      "c": "x < -3/2",
+      "d": "x > -3/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "1/2x + 1/4 > 1/3x + 1/2\n\nMultiply through by through by the LCM of 2, 3 and 4\n\n12 x 1/2x + 12 x 1/4 > 12 x 1/3x + 12 x 1/2\n\n6x + 3 > 4x + 6\n\n6x - 4x > 6 - 3\n\n2x > 3\n\n2x/2 > 3/2\n\nx > 3/2",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 605,
     "question": "Solve the inequalities -6 ≤ 4 - 2x < 5 - x",
     "option": {

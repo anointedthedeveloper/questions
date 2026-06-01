@@ -8032,6 +8032,22 @@
     "examyear": "2023"
   },
   {
+    "id": 548,
+    "question": "Which of the following is NOT a limitation of experimental measurements?",
+    "option": {
+      "a": "Systematic error",
+      "b": "Instrument resolution",
+      "c": "Random errors",
+      "d": "Human error"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Instrument resolution is not a limitation of experimental measurements. It is the smallest change in a measured quantity that can be detected by an instrument. While instrument resolution limits the accuracy of a measurement, it is not a limitation of experimental measurements itself.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 549,
     "question": "Which of the following liquids has the highest surface tension?",
     "option": {
@@ -12480,6 +12496,22 @@
     "examyear": "2009"
   },
   {
+    "id": 868,
+    "question": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their?",
+    "option": {
+      "a": "quality",
+      "b": "pitch",
+      "c": "intensity",
+      "d": "loudness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The quality of a note is a characteristic that distinguishes it from note of the same frequency played by another musical instrument.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 870,
     "question": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?",
     "option": {
@@ -15088,6 +15120,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1060,
+    "question": "A transverse wave and a longitudinal wave travelling in the same direction in a medium differ essentially in their",
+    "option": {
+      "a": "frequency",
+      "b": "amplitude",
+      "c": "direction of vibration of the particles of the medium",
+      "d": "period of vibration of the particles of the medium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "They differ essentially in the direction of vibration of the particles of the medium.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1061,
     "question": "What is the velocity of sound at 100 °C if the velocity of sound at 0 °C is 340 m s⁻¹?",
     "option": {
@@ -16044,6 +16092,22 @@
     "image": "",
     "answer": "a",
     "solution": "cornea and lens (Main refractive structures.)",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1130,
+    "question": "When both the object and its image move together in the same direction relative to the observer, then there is",
+    "option": {
+      "a": " no parallax error",
+      "b": "blurred image",
+      "c": "mechanical error",
+      "d": "parallax error"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "no parallax error (No apparent shift if moving together.)",
     "examtype": "utme",
     "examyear": "2025"
   },

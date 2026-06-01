@@ -16,21 +16,17 @@ resp = s.post(BASE + '/secure/signup', data={
     'password_confirmation': 'password123'
 }, timeout=15, allow_redirects=True)
 
-print('url:', resp.url)
-print('status:', resp.status_code)
+print('signup url:', resp.url)
 
-# save dashboard
-with open('dashboard.html', 'wb') as f:
-    f.write(resp.content)
+# fetch access-token page
+r2 = s.get(BASE + '/admin/access-token', timeout=15)
+print('access-token page status:', r2.status_code)
+with open('access_token.html', 'wb') as f:
+    f.write(r2.content)
 
-# look for api key patterns
-apis = re.findall(r'(QB-[A-Za-z0-9]+|ALOC-[A-Za-z0-9]+)', resp.text)
+apis = re.findall(r'(QB-[A-Za-z0-9]+|ALOC-[A-Za-z0-9]+)', r2.text)
 print('api keys:', apis)
 
-# look for AccessToken
-toks = re.findall(r'AccessToken[^<]{0,100}', resp.text, re.IGNORECASE)
-print('AccessToken refs:', toks[:5])
-
-# look for any long alphanumeric token
-long_toks = re.findall(r'[A-Za-z0-9]{20,}', resp.text)
-print('long tokens sample:', long_toks[:10])
+# broader search
+toks = re.findall(r'[A-Z]{2,5}-[A-Za-z0-9]{10,}', r2.text)
+print('token patterns:', toks)

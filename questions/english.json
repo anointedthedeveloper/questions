@@ -20708,5 +20708,43 @@
     "questionNub": 90,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 85,
+    "question": "You may not have heard the last word on the matter……..",
+    "option": {
+      "a": "may you have",
+      "b": "haven’t you",
+      "c": "have you",
+      "d": "mayn’t have you?"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1704,
+    "question": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nD<u>o</u>ne",
+    "option": {
+      "a": "don",
+      "b": "sun",
+      "c": "clown",
+      "d": "dawn"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The correct answer is B (sun) /sun/because it possesses the same vowel sound as ‘done’ /dnn/. The possesses the long vowels form of /c/ in the word.",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 17,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

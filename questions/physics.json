@@ -382,5 +382,165 @@
     "solution": "Given information:\n\nInitial volume (V₁) = 10 cm³\nInitial pressure (P₁) = 400 cmHg\nFinal pressure (P₂) = 200 cmHg\nFinal volume (V₂) = ?\nTemperature constant (fixed mass)\n\nUsing Boyle's Law:\nAt constant temperature: P₁V₁ = P₂V₂\nRearranging:\nV₂ = (P₁V₁)/P₂\nSubstituting values:\nV₂ = (400 × 10)/200\nV₂ = 4000/200\nV₂ = 20 cm³\nExplanation:\nWhen pressure is halved (from 400 to 200 cmHg), the volume doubles (from 10 to 20 cm³), following the inverse relationship in Boyle's Law.",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 346,
+    "question": "A ray of light passes through the centre of curvature of a concave mirror and strikes the mirror. At what angle is the ray reflected?",
+    "option": {
+      "a": "180°",
+      "b": " 90°",
+      "c": " 0°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The ray is reflected at 0° because it retraces its path back through the centre of curvature along the same line with no angular deviation.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 555,
+    "question": "When a bus is accelerating, it must be ",
+    "option": {
+      "a": "changing its speed",
+      "b": "changing its velocity",
+      "c": " changing its position",
+      "d": "changing its direction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Acceleration is defined as the rate of change of velocity. This means a bus can accelerate by changing its speed, direction, or both. However, the most general definition of acceleration involves a change in velocity.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 704,
+    "question": "An immersion heater rated 2.0 A, 240 V is used to boil water from temperature 52 °C to 100 °C. The mass of the water is 2.5 kg. Determine the time taken to boil the water.\nSpecific heat capacity of water = 4.2 × 10³ J kg⁻¹ K⁻¹",
+    "option": {
+      "a": "1.05 × 10³ s",
+      "b": "1.05 × 10⁵ s",
+      "c": "1.05 × 10² s",
+      "d": "1.05 × 10⁴ s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHeater current, I = 2.0 A\n\nHeater voltage, V = 240 V\n\nMass of water, m = 2.5 kg\n\nInitial temperature, T₁ = 52 °C\n\nFinal temperature, T₂ = 100 °C\n\nSpecific heat capacity of water, c = 4.2 × 10³ J kg⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Compute the power of the heater\nPower, P = I × V = 2.0 A × 240 V = 480 W\n\nStep 2: Compute the heat energy required to raise the water temperature\nTemperature change, ΔT = T₂ − T₁ = 100 °C − 52 °C = 48 K\nHeat required, Q = m × c × ΔT = 2.5 kg × 4.2 × 10³ J kg⁻¹ K⁻¹ × 48 K\n\nStep 3: Calculate Q\nFirst, 2.5 × 4.2 × 10³ = 10.5 × 10³ = 1.05 × 10⁴\nThen, 1.05 × 10⁴ × 48 = 1.05 × 10⁴ × 4.8 × 10¹ = (1.05 × 4.8) × 10⁵ = 5.04 × 10⁵ J\nStep 4: Equate heat energy to electrical energy supplied\nElectrical energy supplied in time t: E = P × t\nAssuming no losses, Q = E ⇒ t = Q / P\n\nStep 5: Calculate time t\nt = 504000 J / 480 W = 1050 s\n\nStep 6: Express in scientific notation\n1050 s = 1.05 × 10³ s",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 817,
+    "question": "In a good thermos flask, heat loss is reduced through the following features EXCEPT?",
+    "option": {
+      "a": " the lens surface",
+      "b": " the insulating cork",
+      "c": " silvered walls",
+      "d": "the cork lid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The silver coating on the inner bottle of a thermos flask is used to prevent heat transfer by radiation",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 3,
+    "question": "A nail is pulled from a wall with a string tied to the nail. If the string is inclined at an angle of 30oC to the wall and the tension in the string is 50N, the effective force used in pulling the nail is: ",
+    "option": {
+      "a": "25N ",
+      "b": "25√3 N ",
+      "c": "50N ",
+      "d": "50√3N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 516,
+    "question": "A man swung an object of mass 2 kg in a circular path with a rope 1.2 m long. If the object was swung at 120 rev/min, find the tension in the rope.",
+    "option": {
+      "a": "400",
+      "b": "288",
+      "c": "240",
+      "d": "379"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 2 kg\nRadius (rope length), r = 1.2 m\nFrequency, f = 120 rev/min\nTension, T = ?\n\nSolution:\nStep 1: Convert frequency to rev/s\nf = 120 rev/min = 120/60 rev/s\nf = 2 rev/s = 2 Hz\nStep 2: Calculate angular velocity\nω = 2πf\nω = 2 × π × 2\nω = 4π rad/s\nω = 12.566 rad/s\nStep 3: Calculate centripetal force (tension)\nFor horizontal circular motion, tension provides the centripetal force:\nT = mω²r\nT = 2 × (12.566)² × 1.2\nT = 2 × 157.914 × 1.2\nT = 2 × 189.497\nT = 378.99 N\nT ≈ 379 N",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 35,
+    "question": "An electric cell has an internal resistance of 2Ω. A current of 0.5A was measured when a resistor of resistance 5Ω was connected across it. Determine the electromotive force of the cell",
+    "option": {
+      "a": "3.5V ",
+      "b": "2.5V ",
+      "c": "4.5V ",
+      "d": "2.35V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 1060,
+    "question": "A transverse wave and a longitudinal wave travelling in the same direction in a medium differ essentially in their",
+    "option": {
+      "a": "frequency",
+      "b": "amplitude",
+      "c": "direction of vibration of the particles of the medium",
+      "d": "period of vibration of the particles of the medium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "They differ essentially in the direction of vibration of the particles of the medium.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 249,
+    "question": "The net capacitance in the circuit above is",
+    "option": {
+      "a": "80µF",
+      "b": " 6.0µF",
+      "c": " 4.0µF",
+      "d": "2.0µF"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610999/ALOC-Questions/Physics/2017/2017_Q_20_jqc9yc.png",
+    "answer": "d",
+    "solution": "Series arrangement:\nIf the two 2µF are in parallel first: 2 + 2 = 4µF\nThen this 4µF is in series with the other 4µF:\n1/C_total = 1/4 + 1/4 = 2/4\nC_total = 2µF",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 550,
+    "question": "The stress experienced by a wire of diameter yπm loaded by a weight y²N is",
+    "option": {
+      "a": "πNm⁻²",
+      "b": "2πNm⁻²",
+      "c": "4πNm⁻²",
+      "d": " 8πNm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nDiameter of wire, d = yπ m\nLoad (weight), F = y² N\nStress, σ = ?\n\nSolution:\nIf d = y/π m, then r = y/(2π) m\nA = πr² = π[y/(2π)]² = π × y²/(4π²) = y²/(4π) m²\nσ = F/A = y²÷[y²/(4π)] = y² × 4π/y² = 4π Nm⁻129",
+    "examtype": "utme",
+    "examyear": "2024"
   }
 ]

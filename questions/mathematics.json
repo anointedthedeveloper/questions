@@ -398,5 +398,149 @@
     "solution": "W∞LD<sup>2</sup> W=KLd<sup>2</sup> K=W/(Ld^2 )=140/54×〖(4 2/3)〗<sup>2</sup>=140/54×〖(14/3)〗<sup>2</sup> = (140×9)/(54×14×14)=5/42∴W=5/(42Ld<sup>2</sup> ) 42W=5Ld<sup>2</sup>  42W/5L=d<sup>2</sup> d=√(42W/5L)",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 94,
+    "question": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon.",
+    "option": {
+      "a": "8",
+      "b": "6",
+      "c": "4",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "2x + x = 180Â°, => 3x = 180Â°, and thus x = 60Â°\nEach exterior angle = 60Â° but size of ext. angle = 360Â°/n\nTherefore 60Â° = 360Â°/n\nn = 360Â°/60Â° = 6 sides\n",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 98,
+    "question": "A bowl is designed by revolving completely the area enclosed by y = x<sup>2</sup> - 1, y = 3 and x ≥ 0 around the axis. What is the volume of this bowl?\n\n",
+    "option": {
+      "a": "7π cubic units",
+      "b": "15π/2 cubic units",
+      "c": "8π cubic units",
+      "d": "17π/2 cubic units"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "∫<sup>3</sup><sub>0</sub> π(y+1) dy = π[y<sup>2</sup> + y<sup>3</sup>0\n= π(9/2 + 3) = 15π/2\n",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 506,
+    "question": "∫<sub>((-π)/2)</sub><sup>(π/2)</sup>cosxdx",
+    "option": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mrow>\n          <mo>&#x2212;<!-- − --></mo>\n          <mi>&#x03C0;<!-- π --></mi>\n        </mrow>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mi>&#x03C0;<!-- π --></mi>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msubsup>\n  <mi>c</mi>\n  <mi>o</mi>\n  <mi>s</mi>\n  <mi>x</mi>\n  <mi>d</mi>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "∫<sub>((-π)/2)</sub><sup>(π/2)</sup>cosxdx=[sinx<sub>((-π)/2)</sub><sup>(π/2)</sup> = sin π/2-sin (-π)/2.        = sin90 – sin-90\n= sin90 – sin270\n= 1 – (-1)\n= 1+1\n= 2",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 663,
+    "question": "Find the probability that a number picked at random from the set(43, 44, 45, ..., 60) is a prime number.",
+    "option": {
+      "a": "2/3",
+      "b": "1/3",
+      "c": "2/9",
+      "d": "7/9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Prime numbers = (43,47,53,59)\n\nN = (43, 44, 45,..., 60)\n\nThe universal set contains 18 numbers.\n\nThe prime numbers between 43 and 60 are 4\n\nProbability of picking a prime number = 4/18\n\n= 2/9",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 25,
+    "question": "When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ",
+    "option": {
+      "a": "N 6. ",
+      "b": "N 7  ",
+      "c": "N 8",
+      "d": "N10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 163,
+    "question": "In the figure above, PQR is a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, ∠SQR is 75o and ∠QPT is 25o. Calculate the value of ∠RST.",
+    "option": {
+      "a": "45°",
+      "b": "55°",
+      "c": "25°",
+      "d": "55°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696651/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_42_dx7tih.jpg",
+    "answer": "b",
+    "solution": "n Δ PQT,\n∠PTQ = 25o(base ∠s of isosceles Δ)\nIn Δ QSR,\n∠RQS = ∠QPT + ∠QTP\n(Extr = sum of interior opposite ∠s)\n∠RQS = 25 + 25\n= 50°\nAlso in Δ QSR,\n75 + ∠RQS + ∠QSR = 180o\n(sum of ∠s of Δ)\n∴75 + 50 + ∠QSR = 180\n125 + ∠QSR = 180\n∠QSR = 180 - 125\n∠QSR = 55°\nBut ∠QSR and ∠RST are the same\n∠RST = 55°",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 933,
+    "question": "p = [(Q(R - T)/(15))]<sup>1/3</sup>",
+    "option": {
+      "a": "T = (R+P3)/15Q",
+      "b": "T = (R-15P<sup>3</sup>)/Q",
+      "c": "T = R - (15P<sup>3</sup>)/Q",
+      "d": "T = (15R+Q)/P<sup>3</sup> "
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mi>Q</mi>\n      <mo stretchy=\"false\">(</mo>\n      <mi>R</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mi>T</mi>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>15</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mfrac>\n      <mn>1</mn>\n      <mn>3</mn>\n    </mfrac>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "P = (Q(R−T)/15)<sup>(1/3)</sup>\ntake cube of both sides\n\nP<sup>3</sup>=Q(R−T)/15\ncross multiply\n\n15P<sup>3</sup>=Q(R−T)\n15P<sup>3</sup>/Q = R - T \n\nT = R - 15P<sup>3</sup>/Q\n ",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 37,
+    "question": "Dividing 2x3 – x2 – 5x + 1 by x  + 3 gives the remainder ",
+    "option": {
+      "a": ".-3",
+      "b": "47",
+      "c": "61",
+      "d": "-47"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 259,
+    "question": "An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc.",
+    "option": {
+      "a": "11cm",
+      "b": "22cm",
+      "c": "44cm",
+      "d": "66cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "θ = 30 x 2(∠ at center twice ∠ at θ)\n∴ θ = 60°\nLength of arc = θ/360 x 2πr = 60/360 x 2 x 22/7 x 21/1 = 22cm\n \n \n \n ",
+    "examtype": "utme",
+    "examyear": "2003"
   }
 ]

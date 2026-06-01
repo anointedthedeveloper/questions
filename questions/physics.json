@@ -7216,6 +7216,22 @@
     "examyear": "2022"
   },
   {
+    "id": 491,
+    "question": "Which expression gives magnetic flux?",
+    "option": {
+      "a": "qVB sinθ",
+      "b": "μ₀I/2πr",
+      "c": "BA cos θ",
+      "d": " -N dϕ/dt"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Magnetic flux is the product of magnetic field strength (B), area (A), and the cosine of the angle between the field and the perpendicular to the area. When the field is perpendicular to the surface (θ = 0°), flux is maximum (Φ = BA).",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 492,
     "question": "The graph of pressure (P) against the reciprocal of the volume (I/V) in Boyles's law is a?",
     "option": {
@@ -7452,6 +7468,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nAcceleration, a = 4 m/s²\nDistance in first 10 s, s₁ = 250 m\nTime for first interval, t₁ = 10 s\nTime for second interval, t₂ = 10 s\nDistance in next 10 s = ?\n\nSolution:\nStep 1: Find initial velocity using first 10 seconds data\nUsing: s = ut + ½at²\n250 = u(10) + ½(4)(10)²\n250 = 10u + ½(4)(100)\n250 = 10u + 200\n10u = 50\nu = 5 m/s\nStep 2: Find velocity at the end of first 10 seconds\nUsing: v = u + at\nv = 5 + 4(10)\nv = 5 + 40\nv = 45 m/s\nStep 3: Calculate distance in next 10 seconds\nFor the next 10 seconds:\n\nInitial velocity = 45 m/s (final velocity from first interval)\nTime = 10 s\nAcceleration = 4 m/s²\n\nUsing: s = ut + ½at²\ns₂ = 45(10) + ½(4)(10)²\ns₂ = 450 + ½(4)(100)\ns₂ = 450 + 200\ns₂ = 650 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 508,
+    "question": "The half life of a radioactive material is 12 days. Calculate the decay constant.",
+    "option": {
+      "a": "0.8663 day⁻¹",
+      "b": "0.04331 day⁻¹",
+      "c": " 0.17325 day⁻¹",
+      "d": "0.05775 day⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nHalf-life, t½ = 12 days\nDecay constant, λ = ?\n\nSolution:\nUsing the relationship between half-life and decay constant:\nλ = ln(2)/t½\nor\nλ = 0.693/t½\nStep 1: Substitute the known values\nλ = 0.693/12\nStep 2: Calculate the decay constant\nλ = 0.05775 day⁻¹",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -14268,6 +14300,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nLoad = 250 N\nDistance moved by load = 30 m\nWork against friction = 1500 J\n\nSolution:\n\nStep 1: Calculate useful work output\nWork output = Load × distance = 250 N × 30 m = 7500 J\n\nStep 2: Calculate total work input\nWork input = Work output + Work against friction = 7500 J + 1500 J = 9000 J\n\nStep 3: Calculate efficiency\nEfficiency = (Work output / Work input) × 100%\nEfficiency = (7500 / 9000) × 100% = 0.8333 × 100% = 83.33%",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1009,
+    "question": "If a load of 1 kg stretches a cord by 1.2 cm, what is the force constant of the cord? {g = 10 m s⁻²}",
+    "option": {
+      "a": "866 N m⁻¹",
+      "b": "833 N m⁻¹",
+      "c": "769 N m⁻¹",
+      "d": "667 N m⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "iven information:\nMass m = 1 kg\nExtension x = 1.2 cm = 0.012 m\nAcceleration due to gravity g = 10 m s⁻²\n\nSolution:\n\nStep 1: Calculate the force stretching the cord\nThe force is the weight of the load:\nF = m × g = 1 kg × 10 m s⁻² = 10 N\n\nStep 2: Apply Hooke's law\nHooke's law: F = k × x, where k is the force constant.\nTherefore, k = F / x\n\nStep 3: Substitute values\nk = 10 N / 0.012 m = 833.33 N m⁻¹",
     "examtype": "utme",
     "examyear": "2012"
   },

@@ -11488,6 +11488,22 @@
     "examyear": "2013"
   },
   {
+    "id": 810,
+    "question": "The locus of the points which is equidistant from the line PQ forms a",
+    "option": {
+      "a": "perpendicular line to PQ",
+      "b": "circle centre P",
+      "c": " circle centre Q",
+      "d": "pair of parallel lines to PQ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 812,
     "question": "Find the equation of the perpendicular bisector of the line joining P(2, -3) to Q(-5, 1)",
     "option": {
@@ -16316,6 +16332,22 @@
     "image": "",
     "answer": "a",
     "solution": "Check:\n(2a-3b) (2a+3b)\n\n4a<sub>2</sub> + 6ab - 6ab - 9b<sub>2</sub>\n                                                                                                                     4a<sub>2</sub> - 9b<sub>2</sub>",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1133,
+    "question": "If n(P) = 20 and n(Q) = 30 and n(PuQ) = 40, find the value n(PnQ)",
+    "option": {
+      "a": "10",
+      "b": " 30",
+      "c": " 15",
+      "d": "40"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "n(PuQ) = n(p) + n(q) -  n(PnQ)\n\n40 = 20 + 30 -  n(PnQ)\n\nn(PnQ) = 50 - 40 = 10",
     "examtype": "utme",
     "examyear": "2022"
   },

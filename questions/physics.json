@@ -368,6 +368,22 @@
     "examyear": "2007"
   },
   {
+    "id": 25,
+    "question": "A uniform rod PQ of mass 2kg and length of 1m is pivoted at the end P, if a load of 14N is placed at the centre, find the force that should be applied vertically upwards at Q to maintain the rod in equilibrium ",
+    "option": {
+      "a": "7N ",
+      "b": "28N ",
+      "c": "68N ",
+      "d": "17N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 26,
     "question": "The energy contained in wire when it is extended by 0.02m by a force 500N is ",
     "option": {
@@ -6556,6 +6572,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nMass of water (m) = 0.5 kg\nInitial temperature = 10°C\nFinal temperature = 0°C (ice)\nTotal heat extracted (Q_total) = 88,000 J\nSpecific heat capacity of water (c) = 4200 J/(kg·°C)\nSpecific latent heat of fusion (L_f) = ?\n\nProcess involves two stages:\nStage 1: Cooling water from 10°C to 0°C\nQ₁ = mcΔT\nQ₁ = 0.5 × 4200 × (10 - 0)\nQ₁ = 0.5 × 4200 × 10\nQ₁ = 21,000 J\nStage 2: Freezing water at 0°C to ice at 0°C\nQ₂ = mL_f\nTotal heat extracted:\nQ_total = Q₁ + Q₂\n88,000 = 21,000 + Q₂\nQ₂ = 88,000 - 21,000\nQ₂ = 67,000 J\nCalculate specific latent heat of fusion:\nQ₂ = mL_f\n67,000 = 0.5 × L_f\nL_f = 67,000 / 0.5\nL_f = 134,000 J/kg\nL_f = 134 kJ/kg",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 428,
+    "question": "Which of the following instruments may be used to measure relative humidity?",
+    "option": {
+      "a": "Hydrometer",
+      "b": "Manometer",
+      "c": "Hygrometer",
+      "d": "Hypsometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A hygrometer is an instrument that is used to measure water vapor in the atmosphere. This is also commonly referred to as relative humidity in the atmosphere.",
     "examtype": "utme",
     "examyear": "2021"
   },

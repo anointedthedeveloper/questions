@@ -672,6 +672,22 @@
     "examyear": "1997"
   },
   {
+    "id": 207,
+    "question": "Which of the following is a factory overhead?",
+    "option": {
+      "a": "carriage on raw materials",
+      "b": "Purchase of raw materials",
+      "c": "Production wages",
+      "d": "Depreciation of factory equipment."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 215,
     "question": "A system where a separate cash book is maintained for small payments is",
     "option": {
@@ -679,6 +695,22 @@
       "b": "imprest",
       "c": "float",
       "d": "reimbursement."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 217,
+    "question": "A book that contains the accounts for the financial transactions of an organization is the",
+    "option": {
+      "a": "journal",
+      "b": "ledger",
+      "c": "folio",
+      "d": "register"
     },
     "section": "",
     "image": "",
@@ -1696,6 +1728,22 @@
     "examyear": "2009"
   },
   {
+    "id": 501,
+    "question": "What is the accumulated fund?",
+    "option": {
+      "a": "23,700",
+      "b": "27,750",
+      "c": "29,650",
+      "d": "51,650"
+    },
+    "section": "Given: Furniture and fittings [N 20,000]  Equipment [N15,000] Bank overdrafts [ N6,500] Bar creditors [ N4,800 ] Subscription in arrears [ N4,700 ] Subscription in advance [ N650]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 521,
     "question": "Which method of pricing can be used satisfactorily in either rising or falling price situation?",
     "option": {
@@ -1852,6 +1900,22 @@
     "image": "",
     "answer": "b",
     "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 591,
+    "question": "Opening balance of Diks company was ₦12,202, closing balance ₦15,300, total cash received during the period ₦40,000. What was the amount of cash paid during the same period?",
+    "option": {
+      "a": "₦36,902",
+      "b": "₦27,502",
+      "c": "₦12,498",
+      "d": "₦43,098"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "opening balance = 12,202 + cash recieved = 40,000 = 52,202\nless closing balance\n= 52,202 - 15,300 = 36902 (Amount spent during the period) \n\n ",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -2128,6 +2192,22 @@
     "examyear": "2017"
   },
   {
+    "id": 656,
+    "question": "The principle of double entry developed from the axioms of accounting equation is given as",
+    "option": {
+      "a": " Assets + Liability = Equity",
+      "b": "Assets + Equity = Liabilities",
+      "c": "Liabilities + Equity = Asset",
+      "d": "Liabilities + Equity = Net assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Liabilities + Equity = Asset is given as the fundamental equation",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 662,
     "question": "A part of public company's profits belonging to the shareholders is",
     "option": {
@@ -2188,6 +2268,22 @@
     "image": "",
     "answer": "d",
     "solution": "Capital employed can be calculated in two ways:\nMethod 1 (Asset approach):\nCapital Employed = Total Assets - Current Liabilities\n= ₦22,000 - ₦7,000 = ₦15,000\nMethod 2 (Financing approach):\nCapital Employed = Shareholders' Capital + Long-term Liabilities\n= ₦15,000 + ₦0 = ₦15,000",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 666,
+    "question": "Advertising expenses incurred on a product in a business organization should be charged to",
+    "option": {
+      "a": "Sales department",
+      "b": "Production department",
+      "c": " Purchase department",
+      "d": "Administration department"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Advertising expenses are expenses incurred in order to enhance the sales of the company’s product/services",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2300,6 +2396,22 @@
     "image": "",
     "answer": "b",
     "solution": "Goods are transferred from head office to branch at cost price, selling price and cost price plus mark up",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 704,
+    "question": "Departmentalization of accounts is useful because it shows the____________",
+    "option": {
+      "a": "Over all performance of a division",
+      "b": "Cost per unit of a profit",
+      "c": "Price per unit of a product",
+      "d": " Over all performance of a firm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Departmental accounting is prepared to ensure that the results of each individual department is known",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2896,6 +3008,22 @@
     "examyear": "2022"
   },
   {
+    "id": 881,
+    "question": "The medium that enables the ATM to read the account details and process transaction directly with the account held in the bank is the?",
+    "option": {
+      "a": "smart card",
+      "b": "communication network",
+      "c": "magnetic strip",
+      "d": "computerized account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The magnetic strip on the ATM card contains the encoded account information (such as the account number and bank details). When you insert your card, the ATM reads this strip to identify your account and process transactions directly against it.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 885,
     "question": "The following are importance of branch account except",
     "option": {
@@ -2908,6 +3036,22 @@
     "image": "",
     "answer": "a",
     "solution": "Branch accounts are intended to improve control, oversight, and performance evaluation of individual branches—not to facilitate fraud or resource wastage. The other options correctly describe benefits of maintaining branch accounts.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 889,
+    "question": "From the following information: Debtors opening balance is ₦4,000, Debtors closing balance is ₦1,500, Cash received from debtors amounts to ₦8,500, Bad debts written off total ₦350, Discount allowed is ₦500, and Discount received is ₦1,000. What is the amount of sales for the year?",
+    "option": {
+      "a": "₦6,850",
+      "b": "₦6,650",
+      "c": "₦3,850",
+      "d": "₦1,550"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sales = Closing Debtors + Cash Received + Bad Debts Written Off + Discount Allowed - Opening Debtors\nCalculation:\n\nClosing Debtors: ₦1,500\nAdd: Cash received from debtors: ₦8,500\nAdd: Bad debts written off: ₦350\nAdd: Discount allowed: ₦500\nLess: Opening Debtors: ₦4,000\n\nSales = ₦1,500 + ₦8,500 + ₦350 + ₦500 - ₦4,000 = ₦6,850",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3132,6 +3276,22 @@
     "image": "",
     "answer": "a",
     "solution": "A paying-in slip, also sometimes called a deposit slip, is a crucial document used when making deposits into a current account, especially for cash and cheques.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 944,
+    "question": "The return on debenture holding is",
+    "option": {
+      "a": "share bonus",
+      "b": "interest",
+      "c": "net profit",
+      "d": "dividend"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Debentures are essentially loans that a company issues to investors. In return for investing in the debenture, the investor receives periodic interest payments at a predetermined rate. This interest is a fixed obligation of the company, regardless of its profitability.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -4144,6 +4304,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1214,
+    "question": "In the public sector, the method of accounting that reports revenues and expenditures in the period in which they are received and paid is called?",
+    "option": {
+      "a": "fund accounting",
+      "b": "commitment accounting",
+      "c": "cash accounting",
+      "d": "accrual accounting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Reason: In public sector cash accounting, revenue is recorded when received and expenditure when paid, without regard to the period the transactions actually relate to.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1219,
     "question": "<b>Use the information below to answer questions 5 and 6.\nGiven:</b>\n\nFixed assets ₦85,600\nSales ₦197,000\nStock ₦34,300\nSalaries ₦37,000\nPurchases ₦127,700\nShare capital ₦120,000\nCreditors ₦16, 050\nMotor expenses ₦10,500\nDebtors ₦25,000\n\nWhat is the cash balance?",
     "option": {
@@ -4396,6 +4572,38 @@
     "image": "",
     "answer": "b",
     "solution": "A cheque stub is the source document used to ascertain amounts paid out of the current (cash) account.\n\nWhen you write a cheque, you fill in the cheque itself (which goes to the payee and then to the bank).\n\nThe stub (or counterfoil) remains in your cheque book and records the cheque number, date, payee, and amount.\n\nThis stub provides a ready reference for all disbursements and is used to update the cash book.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1273,
+    "question": "Yahuza Enterpises\nTrial Balance (Extracts) as at Dec. 31, 1998.\nCapital\nPremises 90,000 21,000\nDebtors 35,000\nProvisions 1/1/98:\nDepreciation 9,000\nBad and doubtful 1,500\n\nIf premises is to be depreciated at 10% on cost and a 5% provision is to be allowed on debtors, the total asset in the balance sheet is",
+    "option": {
+      "a": " ₦ 125, 000",
+      "b": "₦114,500",
+      "c": " ₦105,500",
+      "d": " ₦105,250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "1. Premises (fixed asset)\n\nCost = ₦90,000\n\nAccumulated depreciation brought forward = ₦9,000\n\nDepreciation for the year @10% on cost = ₦90,000 × 10% = ₦9,000\n\nTotal accumulated depreciation = ₦9,000 + ₦9,000 = ₦18,000\n\nNet book value of premises = ₦90,000 − ₦18,000 = ₦72,000\n\n2. Debtors (receivables)\n\nGross debtors = ₦35,000\n\nProvision required @5% of ₦35,000 = ₦1,750\n\nNet debtors = ₦35,000 − ₦1,750 = ₦33,250\n\n3. Total assets\n\nNet premises + Net debtors = ₦72,000 + ₦33,250 = ₦105,250",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1280,
+    "question": "<b>Use the information below to answer questions 15 and 16</b>\nCost of raw materials consumed ₦300,600, carriage inwards ₦6,700, returns of raw materials ₦10,800, closing stock of raw materials ₦100,250, raw materials purchased during the year ₦350,000, manufacturing wages ₦27,000, and lighting, power, insurance and rent in relation to the factory are apportioned 1/3, 2/5, 1/6 and 1/7 with totals ₦30,000, ₦75,000, ₦36,000 and ₦56,000 respectively.\nThe production cost of finished goods is",
+    "option": {
+      "a": "₦ 524,600",
+      "b": "₦408,600",
+      "c": "₦381,600",
+      "d": "₦327,600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Production Cost = Raw Materials Consumed + Direct Labor + Factory Overheads\nStep 1: Raw Materials Consumed\n= ₦300,600\nStep 2: Direct Labor (Manufacturing Wages)\n= ₦27,000\nStep 3: Factory Overheads\nCalculate the factory portions of each overhead:\n\nLighting: 1/3 × ₦30,000 = ₦10,000\nPower: 2/5 × ₦75,000 = ₦30,000\nInsurance: 1/6 × ₦36,000 = ₦6,000\nRent: 1/7 × ₦56,000 = ₦8,000\n\nTotal Factory Overheads = ₦10,000 + ₦30,000 + ₦6,000 + ₦8,000 = ₦54,000\nStep 4: Calculate Total Production Cost\nProduction Cost = ₦300,600 + ₦27,000 + ₦54,000 = ₦381,600",
     "examtype": "utme",
     "examyear": "2000"
   },

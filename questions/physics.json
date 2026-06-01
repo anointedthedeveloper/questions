@@ -12736,6 +12736,22 @@
     "examyear": "2010"
   },
   {
+    "id": 916,
+    "question": "Which of the following has no effect on radiation?",
+    "option": {
+      "a": "nature of surface",
+      "b": "density",
+      "c": " surface area",
+      "d": "temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Radiation depends on nature of the surface area and temperature. It is independent of density.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 917,
     "question": "The wavelength of a wave traveling with a velocity of 420 ms⁻¹ is 42 m. What is its period?",
     "option": {

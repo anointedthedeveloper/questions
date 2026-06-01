@@ -686,5 +686,85 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 949,
+    "question": "A man stands on a tree 150cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree.",
+    "option": {
+      "a": "52 cm",
+      "b": "43 cm",
+      "c": "40 cm",
+      "d": "15 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Tan 74 = 150/x\n\n  x = 150/tan 74\n\n  = 43.01 cm",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 983,
+    "question": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the\n",
+    "option": {
+      "a": "bisector of the two lines",
+      "b": "line parallel to the two lines",
+      "c": " angle bisector of the two lines",
+      "d": " perpendicular bisector of the two lines"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The locus of a points equidistant from two intersecting straight lines is a pair of bisectors that bisect the angles formed by the two intersecting lines.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 956,
+    "question": "Use the quadratic equation curve to answer this questions\nWhat is the minimum value of the graph?",
+    "option": {
+      "a": "-5.3",
+      "b": "0.5",
+      "c": "3",
+      "d": "8"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006473/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q38_mx7r71.jpg",
+    "answer": "a",
+    "solution": "The minimum value is the lowest value of the curve on y axis which gives a value of -5.3",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 175,
+    "question": "Simplify (√0.7+√70)<sup>2</sup>",
+    "option": {
+      "a": "84.7",
+      "b": "70.7",
+      "c": "217.7",
+      "d": "168.7"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <msqrt>\n    <mn>0.7</mn>\n  </msqrt>\n  <mo>+</mo>\n  <msqrt>\n    <mn>70</mn>\n  </msqrt>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(√0.7 + √70)<sup>2</sup>\n \n= (√0.7 + √70)(√0.7 + √70)\n= 0.7+2√(0.7×70) + 70\n= 0.7 + 14 + 70\n= 84.7",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 915,
+    "question": "The time taken to a piece of work is inversely proportional to the number of men employed. If it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
+    "option": {
+      "a": "15 days",
+      "b": "12 days",
+      "c": " \n5days",
+      "d": "9days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let t be the time taken Let m the number of men  t ∝1/m t = k/m (k = proportionality constant) when m =45, t=5.    5=k/45.   k =225 When we have 25 men, the number of days will be  t = k/m =225/25  t = 9days",
+    "examtype": "utme",
+    "examyear": "2017"
   }
 ]

@@ -686,5 +686,85 @@
     "solution": "The collision between the gases is perfectly inelastic",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 966,
+    "question": "The ground is always cold at night because the",
+    "option": {
+      "a": " atmosphere absorbs the sun's energy at night",
+      "b": "earth radiates heat to the atmosphere at night",
+      "c": " sun no longer shine at night",
+      "d": "atmosphere reflects the sun's energy at night"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The earth radiate heat to the atmosphere at night thereby lowering the temperature of the ground",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 171,
+    "question": "The strength of an electromagnet increases with",
+    "option": {
+      "a": " Increases in the number of turn of the coil",
+      "b": "Decreases in current with the coil",
+      "c": "Increases in the distance between the pole",
+      "d": "Increases in current without the coil"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "More coil turns produce a stronger electromagnetic field.Retry",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1002,
+    "question": "Calculate the total distance covered by a train before coming to rest if its initial speed is 30ms⁻¹ with a constant retardation of 0.1ms⁻²",
+    "option": {
+      "a": "5500m",
+      "b": "4500m",
+      "c": "4200m",
+      "d": "3000m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nInitial velocity (u) = 30 m/s\nFinal velocity (v) = 0 m/s (comes to rest)\nRetardation (deceleration, a) = -0.1 m/s² (negative because it's slowing down)\nDistance (s) = ?\n\nUsing the equation of motion:\nv² = u² + 2as\nSubstituting values:\n0² = 30² + 2(-0.1)s\n0 = 900 - 0.2s\n0.2s = 900\ns = 900/0.2\ns = 4500 m",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1005,
+    "question": "If a freely suspended object is pulled to one side and released, it oscillates about the point of suspension because the",
+    "option": {
+      "a": " acceleration is directly proportional to the displacement",
+      "b": " motion is directed away from the equilibrium point",
+      "c": "acceleration is directly proportional to the square of the displacement",
+      "d": "velocity is minimum at the equilibrium ponit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The object oscillates because the acceleration (restoring force) is directly proportional to the displacement from equilibrium. This fundamental relationship defines Simple Harmonic Motion and is what causes the oscillatory behavior.\nKey relationships in pendulum SHM:\n\nAt extreme positions: Maximum displacement, zero velocity, maximum acceleration\nAt equilibrium: Zero displacement, maximum velocity, zero acceleration\nThe proportional relationship a ∝ -x ensures continuous oscillation",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 664,
+    "question": "A transformer is rated 240v. If the primary coil is 4000 turns and the secondary voltage 12v, determine the number of turns in the secondary coil.",
+    "option": {
+      "a": "200",
+      "b": "100",
+      "c": "250",
+      "d": "150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nPrimary voltage, Vₚ = 240 V\nPrimary turns, Nₚ = 4000 turns\nSecondary voltage, Vₛ = 12 V\nSecondary turns, Nₛ = ?\n\nSolution:\nStep 1: Apply transformer equation\nFormula: Vₚ/Vₛ = Nₚ/Nₛ\nStep 2: Rearrange for Nₛ\nNₛ = (Vₛ × Nₚ)/Vₚ\nStep 3: Substitute values\nNₛ = (12 × 4000)/240\nNₛ = 48000/240\nNₛ = 200 turns",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

@@ -8000,6 +8000,22 @@
     "examyear": "2023"
   },
   {
+    "id": 512,
+    "question": "\nThe surface temperature of a swimming pool on a warm day is 25ºC and the temperature at the bottom is 15ºC. If the swimming pool has a surface area of 620 m² and a depth of 1.5m. Find the rate at which energy is transferred by conduction from the surface to the bottom of the swimming pool. [Thermal conductivity of water (k) = 0.6071 Wm⁻¹K⁻¹]",
+    "option": {
+      "a": "2.5 kW",
+      "b": "250 kW",
+      "c": "300 kW",
+      "d": "3.0 kW"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nSurface temperature, T₁ = 25°C\nBottom temperature, T₂ = 15°C\nTemperature difference, ΔT = 25 - 15 = 10°C = 10 K\nSurface area, A = 620 m²\nDepth (thickness), d = 1.5 m\nThermal conductivity, k = 0.6071 W m⁻¹ K⁻¹\nRate of heat transfer, Q/t = ?\n\nSolution:\nUsing the thermal conduction formula:\nQ/t = kA(ΔT)/d\nStep 1: Substitute the known values\nQ/t = (0.6071 × 620 × 10)/1.5\nStep 2: Calculate the numerator\nQ/t = (0.6071 × 620 × 10)/1.5\nQ/t = (376.402 × 10)/1.5\nQ/t = 3764.02/1.5\nStep 3: Calculate the rate of heat transfer\nQ/t = 2509.35 W\nQ/t ≈ 2509 W\nStep 4: Convert to kilowatts\nQ/t = 2509/1000\nQ/t ≈ 2.5 kW",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 513,
     "question": "Which process is responsible for production of energy in stars?",
     "option": {
@@ -13180,6 +13196,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432563/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_43_kgsgv7.png",
     "answer": "a",
     "solution": "At melting point there is no change temperature",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 843,
+    "question": "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction?",
+    "option": {
+      "a": "parallel to OX",
+      "b": "parallel to OY",
+      "c": "60° to OX",
+      "d": "60v to OY"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432598/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_44_sije2w.png",
+    "answer": "b",
+    "solution": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave\n\nParticle motion of a string (transverse wave) is parallel to OY (or perpendicular to OX)",
     "examtype": "utme",
     "examyear": "2008"
   },

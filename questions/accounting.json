@@ -1568,6 +1568,22 @@
     "examyear": "2014"
   },
   {
+    "id": 378,
+    "question": "The primary classification of government expenditure is based on",
+    "option": {
+      "a": "Programs",
+      "b": "funds",
+      "c": "activity",
+      "d": "project"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 379,
     "question": "An example of input device of a computer is",
     "option": {
@@ -3392,6 +3408,22 @@
     "examyear": "2021"
   },
   {
+    "id": 845,
+    "question": "The correct posting in a double entry system of account when there is an increase in double assets, expenses, capital or liabilities is to debit",
+    "option": {
+      "a": "\ncapital and debit liabilities",
+      "b": "liabilities and credit assets",
+      "c": "\nassets and credit capital",
+      "d": "capital and credit assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In double entry bookkeeping, when there is an increase in assets and capital simultaneously:\n\nDebit assets (because asset increases are debited)\nCredit capital (because capital increases are credited)\n\nThis follows the fundamental accounting equation: Assets = Capital + Liabilities",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 846,
     "question": "The simplest form of single entry procedure consists of keeping a ___?",
     "option": {
@@ -3548,6 +3580,22 @@
     "image": "",
     "answer": "a",
     "solution": "Branch accounts are intended to improve control, oversight, and performance evaluation of individual branches—not to facilitate fraud or resource wastage. The other options correctly describe benefits of maintaining branch accounts.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 886,
+    "question": "The use of three column cash book is determined by",
+    "option": {
+      "a": "trade discount",
+      "b": "cash transaction",
+      "c": "bank transaction",
+      "d": "cash discount"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The cash discount is allowed for prompt payment of an account or for payment within a specified period of time. It is divided into discount allowed and discount received.",
     "examtype": "utme",
     "examyear": "2023"
   },

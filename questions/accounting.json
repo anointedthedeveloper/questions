@@ -528,6 +528,22 @@
     "examyear": "2013"
   },
   {
+    "id": 122,
+    "question": "Stock account is a type of",
+    "option": {
+      "a": "nominal account.",
+      "b": "personal account.",
+      "c": "real account.",
+      "d": "fixed assets account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 126,
     "question": "A statement showing a trader’s financial position as at a particular date is a/an",
     "option": {
@@ -555,6 +571,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 134,
+    "question": "An item in the balance sheet of a limited liability company is",
+    "option": {
+      "a": "accrued expenses",
+      "b": "lighting and heating",
+      "c": "salaries and wages",
+      "d": "general expenses."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -3424,6 +3456,22 @@
     "examyear": "2018"
   },
   {
+    "id": 686,
+    "question": "Adex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch: Stock at branch 1st January at cost ₦400, Goods sent to branch at cost ₦8000, Returns to head office ₦340, Cash sales ₦9160, Stock at branch 31st December at cost ₦720. Use the information to answer the question.  calculate the gross profit",
+    "option": {
+      "a": "₦1870",
+      "b": "₦1530",
+      "c": " ₦1640",
+      "d": "₦1820"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gross Profit = Sales - Cost of Goods Sold….. Cost of Goods Sold = Opening Stock + Goods Sent - Returns - Closing Stock\n= ₦400 + ₦8,000 - ₦340 - ₦720\n= ₦7,340…. Gross Profit = Sales - Cost of Goods Sold\n= ₦9,160 - ₦7,340 = ₦1,820\nThe branch made a gross profit of ₦1,820 for the period.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 687,
     "question": "Which of the following methods of invoicing goods to branches facilitate easy checks on the activities of branches?",
     "option": {
@@ -5148,6 +5196,22 @@
     "image": "",
     "answer": "a",
     "solution": "Step 1: Calculate total floor space\nTotal floor space = 200 sqm + 300 sqm = 500 sqm\nStep 2: Calculate manufacturing department's proportion\nManufacturing proportion = 200 sqm ÷ 500 sqm = 2/5 = 0.4 or 40%\nStep 3: Calculate rent chargeable to manufacturing\nRent for manufacturing = ₦20,000 × (200/500)\nRent for manufacturing = ₦20,000 × 0.4 = ₦8,000",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 990,
+    "question": "<b>Use the information below to answer questions 26 to 27.</b>\n\n\nStock of material 1/1..............₦10 000\nPurchase of raw material...........₦160 000\nManufacturing wages................₦420 000\nRoyalties..........................₦3 000\nStock of raw materials 31/12.......₦14 000\n\nWhat is the cost of raw materials consumed?",
+    "option": {
+      "a": " ₦173 000",
+      "b": "₦170 000",
+      "c": "₦160 000",
+      "d": " ₦156 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cost of Raw Materials Consumed = Opening Stock + Purchases - Closing Stock\nGiven information:\n\nOpening stock of raw materials (1/1): ₦10,000\nPurchase of raw materials: ₦160,000\nClosing stock of raw materials (31/12): ₦14,000\n\nCalculation:\nCost of raw materials consumed = ₦10,000 + ₦160,000 - ₦14,000\nCost of raw materials consumed = ₦170,000 - ₦14,000\nCost of raw materials consumed = ₦156,000\nTherefore, the cost of raw materials consumed is ₦156,000.",
     "examtype": "utme",
     "examyear": "2008"
   },

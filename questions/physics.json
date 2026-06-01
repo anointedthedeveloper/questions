@@ -846,5 +846,85 @@
     "solution": "Given information:\nInitial velocity, u = 30 m/s\nDistance to traffic light, s = 50 m\nFinal velocity at light, v = 0 m/s\n\nStep 1: Use kinematic equation for constant acceleration\nv² = u² + 2 a s\n\nStep 2: Substitute known values\n0² = 30² + 2 × a × 50\n0 = 900 + 100 a\n\nStep 3: Solve for deceleration a\n100 a = –900\na = –9 m/s²\n\nThe magnitude of deceleration is 9 m/s².\n",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 260,
+    "question": "Which of the following is correct about an electric cell?",
+    "option": {
+      "a": "Primary cell produces a large current for a long time",
+      "b": "Secondary cell has a very high internal resistance",
+      "c": " Primary cell has a very low internal resistance",
+      "d": " Secondary cell has a very low internal resistance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Understanding cell types:\nPrimary cells:\n\nNon-rechargeable (disposable)\nExamples: dry cells, alkaline batteries\nRelatively high internal resistance\nCannot produce large currents for long periods\nChemical reactions are irreversible\n\nSecondary cells:\n\nRechargeable\nExamples: lead-acid batteries, lithium-ion batteries\nLow internal resistance\nCan deliver large currents for extended periods\nChemical reactions are reversible\n\nSecondary (rechargeable) cells have very low internal resistance, which allows them to deliver large currents efficiently.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 215,
+    "question": "Which of the following statements about wave motion is correct?",
+    "option": {
+      "a": "Electromagnetic waves are transverse",
+      "b": "Transverse waves do not require a medium for propagation",
+      "c": "Longitudinal waves vibrate perpendicular to the direction of travel",
+      "d": "All mechanical waves are longitudinal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Electromagnetic waves are transverse waves with electric and magnetic fields oscillating perpendicular to the direction of propagation.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 446,
+    "question": "When the temperature of a liquid increases, its surface tension",
+    "option": {
+      "a": "decreases",
+      "b": "increases",
+      "c": "remains constant",
+      "d": "increases then decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When the temperature of a liquid increases, its surface tension decreases due to weakening of intermolecular cohesive forces as molecular kinetic energy increases.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1008,
+    "question": "A block and tackle is used to raise a load of 250N through a vertical distance of 30m. What is the efficiency of the system if the work done against friction is 1500J?",
+    "option": {
+      "a": "62.50%",
+      "b": "73.30%",
+      "c": "83.30%",
+      "d": "94.30%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nLoad = 250 N\nDistance moved by load = 30 m\nWork against friction = 1500 J\n\nSolution:\n\nStep 1: Calculate useful work output\nWork output = Load × distance = 250 N × 30 m = 7500 J\n\nStep 2: Calculate total work input\nWork input = Work output + Work against friction = 7500 J + 1500 J = 9000 J\n\nStep 3: Calculate efficiency\nEfficiency = (Work output / Work input) × 100%\nEfficiency = (7500 / 9000) × 100% = 0.8333 × 100% = 83.33%",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 512,
+    "question": "\nThe surface temperature of a swimming pool on a warm day is 25ºC and the temperature at the bottom is 15ºC. If the swimming pool has a surface area of 620 m² and a depth of 1.5m. Find the rate at which energy is transferred by conduction from the surface to the bottom of the swimming pool. [Thermal conductivity of water (k) = 0.6071 Wm⁻¹K⁻¹]",
+    "option": {
+      "a": "2.5 kW",
+      "b": "250 kW",
+      "c": "300 kW",
+      "d": "3.0 kW"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nSurface temperature, T₁ = 25°C\nBottom temperature, T₂ = 15°C\nTemperature difference, ΔT = 25 - 15 = 10°C = 10 K\nSurface area, A = 620 m²\nDepth (thickness), d = 1.5 m\nThermal conductivity, k = 0.6071 W m⁻¹ K⁻¹\nRate of heat transfer, Q/t = ?\n\nSolution:\nUsing the thermal conduction formula:\nQ/t = kA(ΔT)/d\nStep 1: Substitute the known values\nQ/t = (0.6071 × 620 × 10)/1.5\nStep 2: Calculate the numerator\nQ/t = (0.6071 × 620 × 10)/1.5\nQ/t = (376.402 × 10)/1.5\nQ/t = 3764.02/1.5\nStep 3: Calculate the rate of heat transfer\nQ/t = 2509.35 W\nQ/t ≈ 2509 W\nStep 4: Convert to kilowatts\nQ/t = 2509/1000\nQ/t ≈ 2.5 kW",
+    "examtype": "utme",
+    "examyear": "2023"
   }
 ]

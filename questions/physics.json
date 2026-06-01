@@ -7520,6 +7520,22 @@
     "examyear": "2023"
   },
   {
+    "id": 538,
+    "question": "An open-tube mercury manometer is used to measure the pressure in a gas tank. When the atmospheric pressure is 101,325 Pa, what is the absolute pressure in Pa in the tank if the height of the mercury in the open tube is 25 cm higher. density of mercury = 13600kg/m³, g=9.8m/s²",
+    "option": {
+      "a": "108,986 Pa",
+      "b": "165,238 Pa",
+      "c": "122,364 Pa",
+      "d": "134,645 Pa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nAtmospheric pressure, P₀ = 101,325 Pa\nHeight difference, h = 25 cm = 0.25 m\nDensity of mercury, ρ = 13,600 kg/m³\nAcceleration due to gravity, g = 9.8 m/s²\nAbsolute pressure in tank, P = ?\n\nSolution:\nStep 1: Understand manometer reading\nWhen the mercury in the open tube is higher than in the tank side, the gas pressure in the tank is greater than atmospheric pressure.\nStep 2: Calculate pressure difference\nPressure difference due to mercury column:\nΔP = ρgh\nΔP = 13,600 × 9.8 × 0.25\nΔP = 33,320 Pa\nStep 3: Calculate absolute pressure in tank\nAbsolute pressure = Atmospheric pressure + Pressure difference\nP = P₀ + ΔP\nP = 101,325 + 33,320\nP = 134,645 Pa",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 539,
     "question": "The sensitivity of a thermometer is",
     "option": {

@@ -2176,6 +2176,22 @@
     "examyear": "2015"
   },
   {
+    "id": 529,
+    "question": "When the invoice of a customer is overcast, the supplier will send to him a",
+    "option": {
+      "a": "debit note",
+      "b": "cheque",
+      "c": "credit note",
+      "d": "payment voucher"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A credit note is a letter sent by the supplier to the customer notifying the customer that he or she has been credited a certain amount due to an error in the original invoice or other reasons.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 530,
     "question": "The ledger entries to be made if cash sales is banked is debit",
     "option": {
@@ -3776,6 +3792,22 @@
     "examyear": "2022"
   },
   {
+    "id": 853,
+    "question": "Which of the following is a debit item in the sales ledger control account",
+    "option": {
+      "a": "Cheque reciepts\n",
+      "b": "Dishonoured cheques\n",
+      "c": "Discount allowed\n",
+      "d": "Bills recievable\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Sales Ledger Control Account is a summary account that records transactions with debtors (customers).\n\nDishonoured cheques increase the amount owed by a debtor (because the payment failed), so it is a debit item.\n\nCheque receipts, discount allowed, and bills receivable all reduce what debtors owe, so they are credit items.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 858,
     "question": "Given the following excerpt from incomplete records—Sales ₦10,600; Rent ₦200; Depreciation on a vehicle (cost ₦5,000) at 10%; and a uniform gross profit margin of 20%—what is the Cost of Goods Sold for the period?",
     "option": {
@@ -3948,6 +3980,22 @@
     "image": "",
     "answer": "d",
     "solution": "COGS = Opening Stock + Purchases + Carriage Inwards\n= ₦2,600 + ₦4,000 + ₦500\n= ₦7,100\n\nGross Profit = Sales – COGS\n= ₦9,000 – ₦7,100\n= ₦1,900\n\nNet Profit = Gross Profit – Carriage Outwards\n= ₦1,900 – ₦500\n= ₦1,400",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 899,
+    "question": "Changes in the profit sharing ratio may occur as a result of\n\nI. skill contributed by partners\nII. health status\nIII. old age\nIV. Intangible asset increase",
+    "option": {
+      "a": " I, III and IV",
+      "b": " I and III",
+      "c": "I, II and III",
+      "d": " I, II and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Changes in the profit‐sharing ratio typically arise from partners contributing additional resources or from partners leaving the firm.\n\nI. Skill contributed by partners can justify a larger share of profits if one partner brings specialized expertise.\n\nIII. Old age may lead a partner to retire or reduce involvement, prompting a reallocation of profit shares.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -6476,6 +6524,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672119/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q45_-46_as7g7i.png",
     "answer": "d",
     "solution": "To find the working capital, calculate Current Assets minus Current Liabilities.\nFrom the Balance Sheet:\nCurrent Assets:\n\nStock: ₦4,000\nCash: ₦8,000\nDebtors: ₦6,000\nTotal Current Assets: ₦18,000\n\nCurrent Liabilities:\n\nCreditors: ₦9,000\nAccrued wages: ₦5,000\nTotal Current Liabilities: ₦14,000\n\nWorking Capital:\nCurrent Assets - Current Liabilities = ₦18,000 - ₦14,000 = ₦4,000",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1464,
+    "question": "The end result of governmental accounting procedure is\nto",
+    "option": {
+      "a": "keep proper records of government\nexpenditures",
+      "b": "give financial information to the public and\ninvestors",
+      "c": "produce timely and accurate financial reportstimely and accurate financial reports for legislators and the public",
+      "d": "give information on the performance of\npublic enterprises"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The ultimate purpose of governmental accounting is accountability and transparency. It ensures that public funds are properly managed and that legislators and the public receive reliable information on how resources are utilized.",
     "examtype": "utme",
     "examyear": "1997"
   }

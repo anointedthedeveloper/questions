@@ -1104,6 +1104,22 @@
     "examyear": "2013"
   },
   {
+    "id": 73,
+    "question": "Given f(x) =3+x and g(x) =3-x, find g (f(x))",
+    "option": {
+      "a": "6",
+      "b": "x",
+      "c": "-x",
+      "d": "0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 74,
     "question": "Differentiate sin (2x-5) with respect to x. ",
     "option": {

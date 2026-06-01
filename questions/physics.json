@@ -3792,6 +3792,22 @@
     "examyear": "2017"
   },
   {
+    "id": 280,
+    "question": "A man walks 1km due east and then 1 km due north His displacement?",
+    "option": {
+      "a": " √2 km N 45°E",
+      "b": "1 km N 30°E",
+      "c": "1 km N 15°E",
+      "d": "√2 km N 60°E"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nDistance east = 1 km\nDistance north = 1 km\nDisplacement = ?\n\nStep 1: Calculate magnitude of displacement using Pythagoras theorem\nThe path forms a right-angled triangle.\nDisplacement² = (1)² + (1)²\nDisplacement² = 1 + 1 = 2\nDisplacement = √2 km\nStep 2: Calculate direction\ntan θ = opposite/adjacent = north/east\ntan θ = 1/1 = 1\nθ = tan⁻¹(1) = 45°\nStep 3: Express direction\nDirection: 45° from east toward north = N 45°E",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 281,
     "question": "The density of 400cm³ of palm oil was 0.9gcm⁻³ before frying. If the density of the oil was 0.6gcm⁻³ after frying, assuming no loss of oil due to spilling, its new volume was?",
     "option": {
@@ -13532,6 +13548,22 @@
     "image": "",
     "answer": "d",
     "solution": "Different gases emit characteristic colours when an electric discharge passes through them at low pressure due to excitation and de‑excitation of their atoms.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1118,
+    "question": "When ²¹⁰₈₂Pb decays to ²⁰⁶₈₀Pb, it emits",
+    "option": {
+      "a": "two alpha and two beta particles",
+      "b": "an alpha particle",
+      "c": "one beta particle",
+      "d": " one alpha and one beta particle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nInitial nuclide: ²¹⁰₈₂Pb (mass number 210, atomic number 82)\nFinal nuclide: ²⁰⁶₈₀Pb (mass number 206, atomic number 80)\n\nSolution:\n\nStep 1: Determine changes in mass and atomic numbers\nChange in mass number = 210 – 206 = 4\nChange in atomic number = 82 – 80 = 2\n\nStep 2: Identify particle(s) that produce these changes\n\nAn alpha particle (⁴₂He) decreases mass number by 4 and atomic number by 2.\n\nA beta particle (⁰₋₁e) increases atomic number by 1 with no mass change.\n\nStep 3: Match the changes\nA single alpha emission exactly accounts for:\nΔA = –4, ΔZ = –2\nThis matches the observed changes. No beta particle is involved.",
     "examtype": "utme",
     "examyear": "2014"
   },

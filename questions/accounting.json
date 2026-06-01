@@ -1696,6 +1696,22 @@
     "examyear": "2012"
   },
   {
+    "id": 283,
+    "question": "If creditors at 1/1/10 were Le 3,000; creditors at 31/12/10 Le 5,500 and payments to creditors Le 29,000. The purchases figure for 2010 is",
+    "option": {
+      "a": "Le 34,500",
+      "b": "Le 32,000",
+      "c": "Le 31,500",
+      "d": "Le 26,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 285,
     "question": "The Sales Ledger Control Account is also referred to as",
     "option": {
@@ -2155,6 +2171,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 353,
+    "question": "Purchases Account is overcast by N200, while Wages Account is under cast by N200. This is",
+    "option": {
+      "a": "an error of omission",
+      "b": "a compensating error",
+      "c": "an error of commission",
+      "d": "an error of principle"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -2731,6 +2763,22 @@
     "section": "A company’s authorized share capital was one million ordinary shares at N 1 each. It issued 80% of its shares at N 1.10 per share. 70k was payable on application, 25k on allotment, 10k due on first call and the balance on second call. ",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 448,
+    "question": "The receipts and payments account of a not-for-profit-making organization plays a similar role in a profit-making organization as",
+    "option": {
+      "a": "a cash account",
+      "b": "a balance sheet",
+      "c": "an income account",
+      "d": "an expenses account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -3564,6 +3612,22 @@
     "image": "",
     "answer": "c",
     "solution": "To find total sales, work with the debtors account movement:\nDebtors Account Analysis:\n\nCash received from debtors: ₦35,000\nDiscount allowed to customers: ₦4,000\nClosing balance: ₦6,000\n\nUsing the debtors account formula:\nOpening Balance + Sales - Cash Received - Discount Allowed = Closing Balance\nLet Opening Balance = X and Sales = S\nX + S - 35,000 - 4,000 = 6,000\nX + S = 45,000\nSince we need total sales and the opening balance of debtors would be zero or the sales figure itself represents the period's activity:\nTotal Sales = ₦45,000",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 613,
+    "question": "The ratio that gives the indication of the efficiency of a firm's sales with respect to cost of goods sold is a",
+    "option": {
+      "a": "return on capital employed ",
+      "b": "gross profit margin",
+      "c": "net profit margin",
+      "d": "return on equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Return on capital employed or ROCE is a profitability ratio that measures how efficiently a company can generate profits from its capital employed by comparing net operating profit to capital employed.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -6160,6 +6224,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1031,
+    "question": "A piece of equipment costing ₦120,000 was purchased on 1/1/1996. Depreciation was provided at 20% per annum on a straight-line basis. it was sold on 30/6/1999 for ₦31,500.\n\nThe net book value of the piece of equipment at the time of sale was?",
+    "option": {
+      "a": "₦96 000",
+      "b": " ₦48 000",
+      "c": "₦36 000",
+      "d": "₦24 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Cost                     120,000\nLess: Accumulated depr.   84,000\n-------------------------------\nNet book value            36,000",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1035,
     "question": "If the assets and liabilities of a firm were valued at ₦17,200 and ₦5,120 respectively, the capital of the firm would be?",
     "option": {
@@ -7262,6 +7342,22 @@
     "solution": "Reason: In public sector cash accounting, revenue is recorded when received and expenditure when paid, without regard to the period the transactions actually relate to.",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 1217,
+    "question": "The main objective of accounting report is to provide information about?",
+    "option": {
+      "a": "a company's shareholding",
+      "b": "an entity's management",
+      "c": "the efficacy of assets",
+      "d": "a company's economic resources"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The primary purpose of an accounting report is to convey information about an entity’s economic resources (its assets) and the claims against those resources, as well as changes in them over time.",
+    "examtype": "utme",
+    "examyear": "2001"
   },
   {
     "id": 1219,
@@ -8624,6 +8720,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1442,
+    "question": "The understatement of closing value of work-in-process would have the effect of?",
+    "option": {
+      "a": "understating cost of goods manufactured",
+      "b": "overstating prime cost of manufactured",
+      "c": " overstating cost of goods manufactured",
+      "d": " undersating prime cost of goods manufactured"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Closing work-in-process (WIP) is subtracted when calculating the cost of goods manufactured (COGM):\n\nCOGM = Opening WIP + Manufacturing costs − Closing WIP\nIf the closing WIP is understated, the amount subtracted is too small, making the COGM too high (overstated).",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1443,
     "question": "Emeka Manufacturing Company (Extract) Manufacturing Account.\nDirect material = ₦5,000\n\nDirect labour = ₦4,500\n\nDirect expenses = ₦3,000\n\nFactory overhead = ₦2,500\n\nSelling & distribution = ₦1,500 \n\nCalculating the production cost?",
     "option": {
@@ -8636,6 +8748,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given:\nDirect material = ₦5,000\n\nDirect labour = ₦4,500\n\nDirect expenses = ₦3,000\n\nFactory overhead = ₦2,500\n\nSelling & distribution = ₦1,500 (not included)\n\nCalculation:\nProduction cost = 5,000 + 4,500 + 3,000 + 2,500 = ₦15,000",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1444,
+    "question": "Adamu, Babaji and Chukwu are in partnership and they share profit and losses on ratio 3:2:1. Their respective capitals are ₦20 000, ₦15 000 and ₦5 000 on which on which they are entitle to interest at 5% per annum. The profit for the year before charging interest on capital amounted to ₦5 500.\n\nCalculate the profit for Adamu?",
+    "option": {
+      "a": "₦2,750",
+      "b": "₦1,000",
+      "c": "₦1,167",
+      "d": "₦1,750"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find Adamu's profit, calculate the interest on capital first, then distribute the remaining profit according to the profit-sharing ratio.\nGiven information:\n\nProfit-sharing ratio: Adamu:Babaji:Chukwu = 3:2:1\nCapitals: Adamu ₦20,000, Babaji ₦15,000, Chukwu ₦5,000\nInterest on capital: 5% per annum\nProfit before interest on capital: ₦5,500\n\nStep 1: Calculate interest on capital\n\nAdamu's interest: ₦20,000 × 5% = ₦1,000\nBabaji's interest: ₦15,000 × 5% = ₦750\nChukwu's interest: ₦5,000 × 5% = ₦250\nTotal interest on capital: ₦2,000\n\nStep 2: Calculate profit available for distribution\nProfit after charging interest = ₦5,500 - ₦2,000 = ₦3,500\nStep 3: Distribute remaining profit in ratio 3:2:1\nTotal ratio = 3 + 2 + 1 = 6\nAdamu's share = (3/6) × ₦3,500 = ₦1,750\nStep 4: Calculate Adamu's total profit\nAdamu's total profit = Interest on capital + Share of profit\n= ₦1,000 + ₦1,750 = ₦2,750",
     "examtype": "utme",
     "examyear": "1997"
   },

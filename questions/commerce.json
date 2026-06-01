@@ -1,5 +1,21 @@
 [
   {
+    "id": 2,
+    "question": "Non-insurable risks include ",
+    "option": {
+      "a": "gambling ",
+      "b": "damage to property",
+      "c": "death",
+      "d": "marine "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 4,
     "question": "When an organization studies a market that is underserved by others and creates a product or service for the segment, it is engaged in",
     "option": {
@@ -128,6 +144,22 @@
     "examyear": "2005"
   },
   {
+    "id": 68,
+    "question": "The development of a container and a graphic design for a product is called ",
+    "option": {
+      "a": "packaging ",
+      "b": "promotion",
+      "c": "processing  ",
+      "d": "production."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 77,
     "question": "The Nigerian Telecommunications Limited is a",
     "option": {
@@ -155,6 +187,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 85,
+    "question": "Which of the following confirms the accuracy of the duty charged on imported goods?",
+    "option": {
+      "a": " An indent ",
+      "b": "Consular invoice",
+      "c": " Consignment note  ",
+      "d": "Shipping note."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2005"
@@ -496,6 +544,22 @@
     "examyear": "2008"
   },
   {
+    "id": 211,
+    "question": "Maimani Plc, whose nominal capital is made up of 500 000 ordinary shares of 50k each, decided to offer 80% of it to the public and realized only 50% of the amount due. Determine the company’s reserve share capital ",
+    "option": {
+      "a": "N2500 000",
+      "b": "N1000 000",
+      "c": "N1500 000",
+      "d": "N2000 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 213,
     "question": "An account maintained with a commercial bank for the purpose of foreign exchange transaction is the ",
     "option": {
@@ -539,6 +603,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 252,
+    "question": "The major components of modern retailing include ",
+    "option": {
+      "a": "branding, doorstep  selling and customer stimulation ",
+      "b": "branding, sales promotion and mail order ",
+      "c": "chain stores, customer stimulation and doorstep selling ",
+      "d": "branding, supermarkets and after-sales service"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -720,6 +800,22 @@
     "examyear": "2010"
   },
   {
+    "id": 315,
+    "question": "A businessman who undertakes the hull insurance policy is aiming at ",
+    "option": {
+      "a": "covering losses on damages to the cargo ",
+      "b": "protecting injured crew in the ship ",
+      "c": "averting payment of the freight ",
+      "d": "covering damages to the body of the ship "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 316,
     "question": "An agent who brings a customer into business contact with his principal is known as ",
     "option": {
@@ -871,6 +967,22 @@
       "b": "payment must be made on delivery ",
       "c": "payment must be made on the spot.",
       "d": "cash must be paid on the spot "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 368,
+    "question": "The business organization that can effectively combine management with control is ",
+    "option": {
+      "a": "private limited liability company ",
+      "b": "sole proprietorship ",
+      "c": "public limited liability company ",
+      "d": "co-operative society "
     },
     "section": "",
     "image": "",
@@ -1280,6 +1392,38 @@
     "examyear": "2000"
   },
   {
+    "id": 495,
+    "question": "What is P in the above equation?",
+    "option": {
+      "a": "Purchases returns",
+      "b": "Net Profit",
+      "c": "Sales",
+      "d": "Carriage outwards"
+    },
+    "section": "Use the following equation to answer question   Gross Profit=(Closing stock + P) less (Opening stock + G)",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 504,
+    "question": "Which of the following is not a function of a retailer?",
+    "option": {
+      "a": "Supplying goods to final consumers",
+      "b": "Bulk breaking",
+      "c": "Giving information to the wholesaler",
+      "d": "Branding and packaging of goods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 524,
     "question": "Which of the following is used for moving only goods from one seaport to another?",
     "option": {
@@ -1472,6 +1616,22 @@
     "examyear": "2013"
   },
   {
+    "id": 586,
+    "question": "A law made by a country to prohibit importation of certain goods into the country is called _____ laws.",
+    "option": {
+      "a": "export",
+      "b": "import",
+      "c": "protectionist",
+      "d": "tariff"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 590,
     "question": "Which of the following is NOT a characteristic of labour? It is",
     "option": {
@@ -1655,6 +1815,22 @@
       "b": "a certificate of origin",
       "c": "a consular invoice",
       "d": "an advice note."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 667,
+    "question": "Funds used for paying wages, salaries and payments for raw materials are categorized under",
+    "option": {
+      "a": "liquid capital",
+      "b": "circulating capital",
+      "c": "fixed capital",
+      "d": "nominal capital."
     },
     "section": "",
     "image": "",
@@ -1911,6 +2087,22 @@
       "b": "agency by necessity",
       "c": "agency by ratification",
       "d": "agency by estoppel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 733,
+    "question": "The main difference between nationalization and indigenization is in terms of",
+    "option": {
+      "a": "shareholding",
+      "b": "profit",
+      "c": "technology",
+      "d": "efficiency."
     },
     "section": "",
     "image": "",

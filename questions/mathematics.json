@@ -5088,6 +5088,22 @@
     "examyear": "2005"
   },
   {
+    "id": 342,
+    "question": "The sum of the interior angle of a regular polygon is 1800o. Calculate the size of one exterior angle of the polygon",
+    "option": {
+      "a": "30°",
+      "b": "24°",
+      "c": "18°",
+      "d": "12°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sum of interior ∠s = 1800°\n∴(n - 2) 180° = 1800°\n180n -360° = 1800°\n180n = 1800° + 360°\n180n = 2160°\nn = 2160°/180°\nn = 12 sides\nEach exterior ∠ = 360°/n\n= 360°/12\n= 30°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 343,
     "question": "In the diagram above, O is the center of the circle,\n\n∠UOT = 70° and ∠RST = 100°. Calculate ∠RUO.",
     "option": {

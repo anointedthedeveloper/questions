@@ -5632,6 +5632,22 @@
     "examyear": "2006"
   },
   {
+    "id": 381,
+    "question": "Differentiate (x<sup>2</sup> - 1/x)<sup>2</sup> with respect to x",
+    "option": {
+      "a": " 4x<sup>2</sup> - 4x - 2/x",
+      "b": " 4x<sup>2</sup> - 2 + 2/x3",
+      "c": "4x<sup>2</sup> - 2 - 2/x3",
+      "d": "4x<sup>2</sup> - 3x + 2/x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = (x<sup>2</sup> - 1/x)<sup>2</sup>\ny = (x<sup>2</sup> - 1/x)(x<sup>2</sup> - 1/x)\ny = x<sup>4</sup> - x - x + 1/x<sup>2</sup>\ny = x<sup>4</sup> - 2x + 1/x<sup>2</sup>\ny= x<sup>4</sup> - 2x + x<sup>-2</sup>\ndy/dx = 4x<sup>2</sup> - 2 - 2x<sup>-3</sup>\n= 4x<sup>2</sup> - 2 - 2/x<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 382,
     "question": "Find the value of x for which the function 3x<sup>3</sup> - 9x is minimum",
     "option": {

@@ -6,6 +6,7 @@
     },
     "english": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780349878.7920787
     },
     "government": {
@@ -43,30 +44,81 @@
     "further-mathematics": {
       "machine": "A-Server",
       "time": 1780349761.3521261
+=======
+      "time": 1780349965.1940463
+    },
+    "government": {
+      "machine": "A-Server",
+      "time": 1780350033.3944566
+    },
+    "englishlit": {
+      "machine": "A-Server",
+      "time": 1780350011.3276954
+    },
+    "geography": {
+      "machine": "A-Server",
+      "time": 1780350040.5470455
+    },
+    "commerce": {
+      "machine": "A-Server",
+      "time": 1780350011.4448347
+    },
+    "accounting": {
+      "machine": "A-Server",
+      "time": 1780350011.5266666
+    },
+    "civiledu": {
+      "machine": "A-Server",
+      "time": 1780350099.1926596
+    },
+    "agricultural-science": {
+      "machine": "A-Server",
+      "time": 1780350012.4964483
+    },
+    "crk": {
+      "machine": "A-Server",
+      "time": 1780349997.161032
+    },
+    "further-mathematics": {
+      "machine": "A-Server",
+      "time": 1780350014.3178952
+>>>>>>> Stashed changes
     },
     "computer-studies": {
       "machine": "A-Server",
-      "time": 1780349629.1957333
+      "time": 1780350005.2824636
     },
     "home-economics": {
       "machine": "A-Server",
-      "time": 1780349268.729129
+      "time": 1780350018.8114588
     },
     "yoruba": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780349738.3594058
     },
     "igbo": {
       "machine": "A-Server",
       "time": 1780349756.9212246
+=======
+      "time": 1780350015.6128514
+    },
+    "igbo": {
+      "machine": "A-Server",
+      "time": 1780350027.4671588
+>>>>>>> Stashed changes
     },
     "hausa": {
       "machine": "A-Server",
-      "time": 1780349728.5548842
+      "time": 1780350029.9812791
     },
     "insurance": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780349806.1950026
+=======
+      "time": 1780350038.949312
+>>>>>>> Stashed changes
     }
   }
 }

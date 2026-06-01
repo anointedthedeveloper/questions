@@ -926,5 +926,149 @@
     "solution": "P(not passing exam) = 1−2/3 = 1/3\nP(not passing any of the three exams) = 1/3 × 1/3 × 1/3\n= 1/27",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 999,
+    "question": "Tade bought 200 mangoes at 4 for ₦2.50. 30 out of the mangoes got spoilt and the remaining were sold at 2 for ₦2.40. Find the percentage profit or loss.",
+    "option": {
+      "a": "43.6% loss",
+      "b": "35% profit",
+      "c": "63.2% profit",
+      "d": " 28% loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "200 mangoes at 4 for N2.50\n\n⟹\n Total cost price = 200/4 × N2.50\n= N 125.00\n\nSince 30 mangoes got spoilt ⟹\n Left over = 200 - 30\n\n= 170 mangoes \n\n170 mangoes at 2 for N 2.40\n\n⟹\n Total selling point = 170/2×N2.40\n= N 204.00\n\nProfit : N (204.00 - 125.00) = N 79.00\n\n% profit = 79/125×100\n= 63.2% profit.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1009,
+    "question": "Find the value of x and y in the simultaneous equation: 3x + y = 21; xy = 30",
+    "option": {
+      "a": "x = 3 or 7, y = 12 or 8",
+      "b": "x = 6 or 1, y = 11 or 5",
+      "c": " x = 2 or 5, y = 15 or 6",
+      "d": " x = 1 or 5, y = 10 or 7"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "3x + y = 21 ... (i);\n\nxy = 30 ... (ii)\n\nFrom (ii), y = 30/x\n. Putting the value of y in (i), we have\n\n3x + 30/x = 21\n\n⟹ 3x<sup>2</sup> + 30 = 21x\n\n3x<sup>2</sup>  - 21x + 30 = 0\n\n3x<sup>2</sup>  - 15x -6x + 30 = 0\n\n3x(x - 5) - 6(x - 5) = 0\n\n(3x - 6)(x - 5) = 0\n\n3x - 6 = 0 ⟹ x = 2.\n\nx - 5 = 0 ⟹ x = 5.\n\nIf x = 2, y = 30/2 = 15;\n\nIf x = 5, y = 30/5 = 6.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 449,
+    "question": "Simplify 3/5÷(2/7×4/3÷4/9)",
+    "option": {
+      "a": "4/5",
+      "b": "7/10",
+      "c": "6/6",
+      "d": "21/6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "3/5÷(2/7×4/3÷4/9)=3/5÷(2/7×4/3×9/4)=3/5÷6/7=3/5×7/6=7/10",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 1027,
+    "question": "In a class of 150 students, the sector in a pie chart representing the students offering physics has angle 12°. How many students are offering physics? ",
+    "option": {
+      "a": "18",
+      "b": "15",
+      "c": "10",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "No of students offering physics are \n\n12/360 x 150 = 5",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1191,
+    "question": "If log7.5 = 0.8751, evaluate 2 log75 + log750",
+    "option": {
+      "a": "6.6252",
+      "b": "6.6253",
+      "c": "66.252",
+      "d": "66.253"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If log 7.5 = 0.8751\nThen 2log75 + log750\n= 2(1.8751) + 2.8751\n= 3.7502 + 2.8751\n= 6.6253",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1171,
+    "question": "If −2x<sup></sup> +6x<sup>2</sup> +17x - 21 is divided by (x+1), then the remainder is",
+    "option": {
+      "a": "32",
+      "b": "30",
+      "c": " -30",
+      "d": "-32"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let p(x)=−2x<sup>3</sup> + 6x<sup>2</sup> + 17x − 21\n\n\nUsing the remainder theorem\n\nLet x + 1 = 0\n\n\n∴ x = −1\n\n\nSince, (x+1) divides p(x), then, remainder will be p(-1)\n\n⇒ p(-1) = -2(-1)<sup>3</sup> +6(−1)<sup>2</sup>  + 17(-1) - 21\n\n∴ p(-1) = -30",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 154,
+    "question": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. Find the square of the mode.",
+    "option": {
+      "a": "49",
+      "b": "121",
+      "c": "25",
+      "d": "64"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Mode = score with highest frequency = 11.\nSquare of 11 = 121",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 39,
+    "question": "The average age of x pupils in a class is 14 years 2 months. A pupils of 15years 2 months joins the class and  the average age is increased  by one month. Find x.      ",
+    "option": {
+      "a": "12, ",
+      "b": " 6, ",
+      "c": "11,",
+      "d": "14,"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 406,
+    "question": "The solution set of the shaded area above is",
+    "option": {
+      "a": "Y ≥ 0, y ≥ x and y + x ≤ 4",
+      "b": "Y ≤ x, y + x ≤ 4",
+      "c": "Y + x ≥ 4, y ≤ x",
+      "d": "Y ≤ x, y + x ≤ 4 and y ≥ 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Y = x implies y ≤ x\nY + x = 4 implies y = 4 – x\n∴y = 4 – x\n∴y ≤ x, y + x ≤ 4 and y ≥ 0",
+    "examtype": "utme",
+    "examyear": "2006"
   }
 ]

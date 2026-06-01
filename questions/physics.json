@@ -11936,6 +11936,22 @@
     "examyear": "2008"
   },
   {
+    "id": 811,
+    "question": "An empty density bottle weighs 2 N. if it weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is?",
+    "option": {
+      "a": "1/3",
+      "b": "2/3",
+      "c": "1/5",
+      "d": "2/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nWeight of empty bottle = 2 N\nWeight of bottle + water = 5 N\nWeight of bottle + olive oil = 4 N\n\nSolution:\n\nStep 1: Find weight of water and oil\nWeight of water = 5 N – 2 N = 3 N\nWeight of oil = 4 N – 2 N = 2 N\n\nStep 2: Relative density definition\nRelative density of oil = (mass of oil) / (mass of water) for the same volume. Since weight is proportional to mass (g constant),\nRelative density = (weight of oil) / (weight of water) = 2 N / 3 N = 2/3",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 812,
     "question": "The thermometric properties of a thermocouple is the change in?",
     "option": {
@@ -15932,6 +15948,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nEfficiency η = 75% = 0.75\nLoad L = 1000 N\nVelocity ratio VR = 4\n\nSolution:\n\nStep 1: Relationship between efficiency, mechanical advantage, and velocity ratio\nEfficiency η = (Mechanical Advantage) / (Velocity Ratio)\n\nStep 2: Express mechanical advantage\nMechanical Advantage MA = η × VR = 0.75 × 4 = 3\n\nStep 3: Relate mechanical advantage to load and effort\nMA = Load / Effort\nEffort = Load / MA = 1000 N / 3 = 333.333… N\n\nStep 4: Match with options\n333.333 N ≈ 333.33 N",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1092,
+    "question": "A wheel and an axle is used to raise a load whose weight is 800N when an effort of 250N is applied. If the radii of the wheel and axle are 800mm and 200mm respectively, the efficiency of the machine is",
+    "option": {
+      "a": "90%",
+      "b": "80%",
+      "c": "85%",
+      "d": "87%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nLoad, L = 800 N\nEffort, E = 250 N\nRadius of wheel, R = 800 mm = 0.8 m\nRadius of axle, r = 200 mm = 0.2 m\n\nSolution:\n\nStep 1: Calculate velocity ratio\nFor a wheel and axle, velocity ratio VR = R / r = 0.8 / 0.2 = 4\n\nStep 2: Calculate mechanical advantage\nMechanical advantage MA = L / E = 800 / 250 = 3.2\n\nStep 3: Calculate efficiency\nEfficiency η = MA / VR × 100% = 3.2 / 4 × 100% = 0.8 × 100% = 80%",
     "examtype": "utme",
     "examyear": "2014"
   },

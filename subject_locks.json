@@ -2,7 +2,23 @@
   "locks": {
     "government": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780300990.0809758
+=======
+      "time": 1780299020.8198571
+    },
+    "english": {
+      "machine": "A-Server",
+      "time": 1780299009.9346836
+    },
+    "chemistry": {
+      "machine": "A-Server",
+      "time": 1780299020.4396074
+    },
+    "physics": {
+      "machine": "A-Server",
+      "time": 1780299009.764371
+>>>>>>> Stashed changes
     }
   }
 }

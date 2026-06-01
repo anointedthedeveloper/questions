@@ -160,6 +160,22 @@
     "examyear": "2013"
   },
   {
+    "id": 138,
+    "question": "Which of the following conditions would attract credit and debit notes to be used?",
+    "option": {
+      "a": "When goods are received from supplier.",
+      "b": "When a trial balance is extracted",
+      "c": "When a buyer is under or over charged.",
+      "d": "When goods are sold to a buyer."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 141,
     "question": "An organization which has records of only personal accounts is said to be operating on the basis of",
     "option": {
@@ -1424,6 +1440,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1037,
+    "question": "<b>Use the information below to answer questions 22 to 23</b>\n\nZazzau Company:\n\nCash in hand................₦50\nCash in bank................₦1 250\nStock.......................₦4 880\nFurniture...................₦9 60\nBuilding....................₦5 500\nDebtor......................₦1 750\nCreditors...................₦2 150\n\nDrawings of ₦125 were made by the shareholders of the company.\n\nThey company's net current assets amount to?",
+    "option": {
+      "a": "₦5 780",
+      "b": "₦5 70",
+      "c": "₦6 580",
+      "d": "₦7 930"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Current Assets:\n\nCash in hand = ₦50\n\nCash at bank = ₦1,250 → running total = ₦1,300\n\nStock = ₦4,880 → running total = ₦6,180\n\nDebtors = ₦1,750 → Total current assets = ₦7,930\n\nCurrent Liabilities:\n\nCreditors = ₦2,150\n\nNet Current Assets = Current Assets − Current Liabilities\n= ₦7,930 − ₦2,150\n= ₦5,780",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1042,
     "question": "<b>Use the information below to answer questions 27 to 28</b>\n\nPurchase:..Raw materials.................₦15 000\nFinished goods...........................₦11 400\nStock:....(1/7/01)Raw materials..........₦2 250\nWork-in-progress.........................₦1 875\nWages:.....Direct........................₦17 100\nIndirect.................................₦5 400\nStock:.....(30/06/02)Raw materials.......₦3 000\nWork-in-progress.........................₦3 375\n\nWhat is the cost of manufactured goods?",
     "option": {
@@ -1808,6 +1840,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1320,
+    "question": "A basic unifying concept in accounting implies that?",
+    "option": {
+      "a": "where creditors'account is zero, the assets are equal to the owners' equity",
+      "b": "there should be a balance in the creditors' account in order to measure total assets",
+      "c": "revenues should be supported by invested and owners'capital",
+      "d": "total assets can be less than liabilities and equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fundamental accounting equation is:\n\nAssets = Liabilities (Creditors’ claims) + Owners’ Equity\nA direct implication of this “unifying concept” is that if there are no creditors (liabilities = 0), then assets must equal owners’ equity.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1324,
     "question": "Which of the following bank reconciliation items should not be added or subtracted from the bank statement balance to determine the adjusted cash balance?",
     "option": {
@@ -1852,6 +1900,22 @@
     "image": "",
     "answer": "a",
     "solution": "To find how much Chibuike paid, Calculate the price after applying both the trade discount and cash discount.\nGiven information:\n\n36 notebooks at ₦10 each\nTrade discount: 5%\nCash discount: 1% (taken)\n\nStep 1: Calculate gross amount\nGross amount = 36 × ₦10 = ₦360\nStep 2: Apply trade discount\nTrade discount = ₦360 × 5% = ₦18\nAmount after trade discount = ₦360 - ₦18 = ₦342\nStep 3: Apply cash discount\nCash discount = ₦342 × 1% = ₦3.42\nFinal amount paid = ₦342 - ₦3.42 = ₦338.58\nVerification:\n\nGross: ₦360\nLess trade discount (5%): ₦18\nNet: ₦342\nLess cash discount (1%): ₦3.42\nAmount paid: ₦338.58",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1337,
+    "question": "Manufacturing costs can be classified based on?",
+    "option": {
+      "a": "timing of charges degree of averaging and size of capital",
+      "b": "degree of averaging, ease of traceability and timing of charges",
+      "c": "degree of averaging, size of floor space occupied and cost accounts",
+      "d": "number of employees, timing of charges and management style"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Degree of averaging, ease of traceability and timing of charges\n\nDegree of averaging:  Valid (actual vs. standard/average costs)\nEase of traceability:  Valid (direct vs. indirect costs)\nTiming of charges:  Valid (historical vs. predetermined costs)",
     "examtype": "utme",
     "examyear": "1999"
   },

@@ -256,6 +256,22 @@
     "examyear": "2008"
   },
   {
+    "id": 48,
+    "question": "One angle of an octagon is 1000 while the other sides are equal. Find each of these exterior angles. ",
+    "option": {
+      "a": "800,",
+      "b": "600,",
+      "c": "1400,           ",
+      "d": "400,   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 49,
     "question": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?. ",
     "option": {
@@ -2752,6 +2768,22 @@
     "examyear": "2009"
   },
   {
+    "id": 548,
+    "question": "Find the radius of a sphere whose surface area is 154 cm<sup>2</sup>?",
+    "option": {
+      "a": " 7.00 cm",
+      "b": "3.50 cm",
+      "c": " 3.00 cm",
+      "d": "1.75 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "154 = 4 x\t22/7 x  r<sup>2</sup>\n154 x 7r<sup>2</sup>\n4 x 22\n \n√ 49/4  = r                          \n7/2 = r2\n\n∴ r = 3.50",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 551,
     "question": "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is 2/3?",
     "option": {
@@ -2972,6 +3004,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128511/ALOC-Questions/Mathematics/2010/MATH_2010_Q20_odkimk.jpg",
     "answer": "d",
     "solution": "Mean=∑fx∑f\n= 66/20\n= 3.3",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 596,
+    "question": "If p : q = 2/3 : 5/6 and q : r = 3/4 : 1/2, find p : q : r",
+    "option": {
+      "a": "12 : 15 : 10",
+      "b": "12 : 15 : 16",
+      "c": "10 : 15 : 24",
+      "d": "9 : 10 : 15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If p : q = 2/3 : 5/6, then the sum S1 of ratio = 2/3 + 5/6 = 9/6\n\nIf q : r = 3/4 : 1/2, then the sum S2 of ratio = 3/4 + 1/2 = 5/4\n\nLet p + q = T1, then\n\nq = (5/6÷9/6)T1 = (5/6×6/9)T1 = 5/9T1\n\nAgain, let q + r = T2, then\n\nq = (3/4÷5/4)T2 = (3/4×4/5)T2 = 3/5T2\n\nUsing q = q\n\n5/9T1 = 3/5T2\n\n5 x 5T1 = 9 x 3T2\n\nT1/T2 = 9×3/5x5 = 27/25\n\nGiving that, T1 = 27 and T2 = 25\n\nP = (2/3÷S<sub>1</sub>)T1 = (2/3÷9/6)T1\n\n= (2/3×6/9)27 = 12\n\nq = (5/6÷S<sub>1</sub>)T1 = (5/6÷9/6)T1\n\n= (5/6×6/9)27 = 15\n\nand r = (1/2÷S<sub>2</sub>)T2 = (1/2÷5/4)T2\n\n= (1/2×4/5)25 = 10\n\nHence p : q : r = 12: 15 : 10",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -3308,6 +3356,22 @@
     "image": "",
     "answer": "c",
     "solution": "Prime numbers = (43,47,53,59)\n\nN = (43, 44, 45,..., 60)\n\nThe universal set contains 18 numbers.\n\nThe prime numbers between 43 and 60 are 4\n\nProbability of picking a prime number = 4/18\n\n= 2/9",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 668,
+    "question": "In how many ways can the letters of the word ELATION be arranged?",
+    "option": {
+      "a": " \n5!",
+      "b": " \n7!",
+      "c": "8!",
+      "d": " \n6!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "<sup>7</sup>P<sub>7</sub = 7!",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -3808,6 +3872,22 @@
     "examyear": "2013"
   },
   {
+    "id": 795,
+    "question": "If the variance of 3+x, 6, 4, x and 7-x is 4 and the mean is 5, find the standard deviation",
+    "option": {
+      "a": "√3",
+      "b": "2",
+      "c": "3",
+      "d": "√2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let δ<sup>2</sup> and δ denote the variance and standard deviation of the distribution respectively.\n\nBut δ<sup>2</sup> = 4 (given)\n\nHence δ = √4 = 2",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 799,
     "question": "What is the probability that an integer x (1≤x≤25)\n chosen at random is divisible by both 2 and 3?",
     "option": {
@@ -3980,6 +4060,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003093/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q19_gwzbht.jpg",
     "answer": "c",
     "solution": "(2 x 4) + (3 x 4) + (4 x y) = 48\n8 + 12 + 4y = 48\n4y = 48 - 20\n4y/4 = 28/4\ny = 7",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 841,
+    "question": "Calculate the perimeter of a sector of a circle of raduis 9cm and angle 36o.",
+    "option": {
+      "a": "18cm",
+      "b": "(18 + 9π/5)cm",
+      "c": "(9 + 9π/5)cm",
+      "d": " 9π/5cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Perimeter = 2r + θ/360\n x 2πr\n2(9) + 36/360 x 2 x π x 9 = 18 + 9π/5",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -6156,6 +6252,22 @@
     "image": "",
     "answer": "b",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1261,
+    "question": "Given that A = {3, 4, 1, 10, ⅓ }\n\nB = {4, 3,⅓, ⅓, 7}.\n\nFind A∩B",
+    "option": {
+      "a": "{}",
+      "b": "{⅓, 1, 2}",
+      "c": "{3, 4, ⅓}",
+      "d": "{1, 3, ⅓}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A ∩ B = {3, 4, ⅓}",
     "examtype": "utme",
     "examyear": "2015"
   },

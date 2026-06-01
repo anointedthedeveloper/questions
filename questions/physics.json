@@ -112,6 +112,22 @@
     "examyear": "2006"
   },
   {
+    "id": 16,
+    "question": "The principle of operation of an induction coil is based on ",
+    "option": {
+      "a": "Ohm’s law ",
+      "b": "Ampere’s Law ",
+      "c": "Faraday’s Law ",
+      "d": "Coulomb’s Law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 19,
     "question": "What is the dimension of pressure? ",
     "option": {
@@ -2704,6 +2720,22 @@
     "examyear": "2022"
   },
   {
+    "id": 476,
+    "question": "A magnet relay is a device used for?",
+    "option": {
+      "a": "reading the magnitude of magnetic flux",
+      "b": "controlling another circuit carrying larger current",
+      "c": " turning in sports",
+      "d": "storing magnetic field"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Relays are electrically operated switches that open and close the circuits by receiving electrical signals from outside sources.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 477,
     "question": "According to kinetic molecular model in gases,",
     "option": {
@@ -3904,6 +3936,22 @@
     "examyear": "2005"
   },
   {
+    "id": 690,
+    "question": "10⁶J of heat is required to boil off completely 2kg of a certain liquid. Neglecting heat lost to the surroundings, the latent heat of vaporization of the liquid is",
+    "option": {
+      "a": "2.0 × 10⁶J kg⁻¹",
+      "b": "5.0 × 10⁶J kg⁻¹",
+      "c": "2.0 × 10⁵J kg⁻¹",
+      "d": "5.0 × 10⁵J kg⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nHeat required, Q = 10⁶ J\nMass of liquid, m = 2 kg\nLatent heat of vaporization, L = ?\n\nSolution:\nStep 1: Formula for latent heat\nFormula: Q = mL\nWhere:\n\nQ = heat energy\nm = mass\nL = latent heat of vaporization\n\nStep 2: Rearrange for L\nL = Q/m\nStep 3: Substitute values\nL = 10⁶/2\nL = 0.5 × 10⁶\nL = 5.0 × 10⁵ J kg⁻¹",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 692,
     "question": "If the distance between two point charges is increased by a factor of four, the magnitude of the electrostatic force between them will be",
     "option": {
@@ -4608,6 +4656,22 @@
     "examyear": "2008"
   },
   {
+    "id": 841,
+    "question": "The efficiency of the pulley system shown above is 80%. Find the effort E required to lift the load of 1200N",
+    "option": {
+      "a": "275N",
+      "b": "325N",
+      "c": "375N",
+      "d": "573N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432531/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_42_icabeo.png",
+    "answer": "c",
+    "solution": "Step 1: Determine Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings = 4\nStep 2: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A/V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.80 × 4\nM.A = 3.2\nStep 3: Calculate Effort\nM.A = Load/Effort\nRearranging:\nE = Load/M.A\nE = 1200/3.2\nE = 375N",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 846,
     "question": "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is",
     "option": {
@@ -5248,6 +5312,22 @@
     "examyear": "2011"
   },
   {
+    "id": 960,
+    "question": "A machine is used to lift a load of 20 N through a height of 10 m. if the efficiency of the machine is 40%, how much work is done?",
+    "option": {
+      "a": "80 J",
+      "b": "500 J",
+      "c": "300 J",
+      "d": "120 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nLoad (L) = 20 N\nHeight (h) = 10 m\nEfficiency = 40% = 0.40\nWork done = ?\n\n\nStep 1: Calculate useful work output\nWork output = Load × Height\nW_output = 20 × 10\nW_output = 200 J\nStep 2: Calculate total work input\nEfficiency = (Work output)/(Work input)\nRearranging:\nWork input = Work output/Efficiency\nW_input = 200/0.40\nW_input = 500 J",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 962,
     "question": "Which of the following could be effectively used to reduce friction?",
     "option": {
@@ -5340,6 +5420,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nPerson's near point = 50 cm (cannot see closer than this)\nDesired near point = 25 cm (normal near point)\nPower of lens (P) = ?\n\nUnderstanding the correction:\nThe lens must take an object at 25 cm and form a virtual image at 50 cm (where the person can see clearly).\nUsing sign convention:\n\nObject distance (u) = -25 cm = -0.25 m (object on left, negative)\nImage distance (v) = -50 cm = -0.50 m (virtual image on same side, negative)\n\nStep 1: Use lens formula\n1/f = 1/v - 1/u\nSubstituting values:\n1/f = 1/(-0.50) - 1/(-0.25)\n1/f = -1/0.50 + 1/0.25\n1/f = -2 + 4\n1/f = 2 m⁻¹\nStep 2: Calculate power\nPower (P) = 1/f (in meters)\nP = 2 D",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 980,
+    "question": "\nIf the charge of electricity is K per kWh is N4, what is the cost of operating an electrical appliance rated 250V, 2A for six hours?",
+    "option": {
+      "a": "N28",
+      "b": "N12",
+      "c": "N16",
+      "d": "N24"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nCost per kWh = N4\nVoltage (V) = 250 V\nCurrent (I) = 2 A\nTime (t) = 6 hours\nTotal cost = ?\n\nStep 1: Calculate power of the appliance\nP = VI\nP = 250 × 2\nP = 500 W = 0.5 kW\nStep 2: Calculate energy consumed\nEnergy = Power × Time\nE = 0.5 kW × 6 hours\nE = 3 kWh\nStep 3: Calculate total cost\nCost = Energy × Rate per kWh\nCost = 3 × N4\nCost = N12",
     "examtype": "utme",
     "examyear": "2011"
   },

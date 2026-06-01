@@ -2192,6 +2192,22 @@
     "examyear": "2007"
   },
   {
+    "id": 443,
+    "question": "The nth term of the sequence 3/2, 3, 7, 16, 35, 74 ..... Is",
+    "option": {
+      "a": "5 . 2<sup>n-2</sup> - n",
+      "b": "5 . 2<sup>n-2</sup>  - (n+1) / 2",
+      "c": "3 . 2<sup>n-2</sup> ",
+      "d": "3/2 n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "3/2, 3, 7, 16, 35, 74, ....\nUsing the method of substitution\nWhen n = 1, 5 . 2<sup>n-2</sup> - 1 = 5 . 2<sup>1-2</sup> - 1\n= 5 x 2<sup>-1</sup> - 1\n= 5 x 1/2 - 1\n= 5/2 - 1 = 3/2\nWhen n = 1, 5 . 2<sup>n-2</sup> - n\n= 5 . 2<sup>2-2</sup> - 2\n= 5 x 2<sup>0</sup> - 2\n= 5 x 1 – 2 = 3\nWhen n = 3, 5 . 2<sup>n-2</sup> - n\n= 5 . 2<sup>3-2</sup> - 3\n= 5 x 21 - 3\n= 5 x 2 – 3\n= 10 -3 = 7\nWhen n = 4, 5 . 2<sup>n-2</sup> - n\n= 5 . 2<sup>4-2</sup> - 4\n= 5 x 2<sup>2</sup> - 4\n= 5 x 4 – 4\n= 20 – 4 = 16\nWhen n = 5, 5 . 2<sup>n-2</sup> - n\n= 5 . 2<sup>5-2</sup> - 5\n= 5 x 2<sup>3</sup> - 5\n= 5 x 8 – 5\n= 40 – 5\n= 35\nWhen n = 6, 5 . 2<sup>n-2</sup> - n\n= 5 . 2<sup>6-2</sup> - 6\n= 5 x 2<sup>4</sup> - 6\n= 5 x 16 – 6\n= 80 – 6 = 74\n∴ 5 . 2<sup>n-2</sup> - 1 = 3/2, 3, 7, 16, 35, 74",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 447,
     "question": "Evaluate ((05652)<sup>2</sup> - (04375)<sup>2</sup>)/0.04 correct to three significant figures",
     "option": {
@@ -5260,6 +5276,22 @@
     "image": "",
     "answer": "c",
     "solution": "",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1050,
+    "question": "A cylindrical tank has a capacity of 3080m<sup>3</sup>\n. What is the depth of the tank if the diameter of its base is 14m?",
+    "option": {
+      "a": "25 cm",
+      "b": "23 cm",
+      "c": "22 cm",
+      "d": "20 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "V = 2080 cm<sup>3</sup>, h = ? \n\nr = 7 cm\n\nV = V/πr<sup>2</sup>h\nh = Vπr<sup>2</sup> = 3080/(22/7) × 49\n \n\n3080/54\n = 20cm",
     "examtype": "2020",
     "examyear": "utme"
   },

@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 8,
+    "question": " A quantity of ice –10oc is heated until temperature of heating vessel is 90oc. Which of the following constant is NOT required to determine the quantity of heat supplied to the vessel? ",
+    "option": {
+      "a": "Specific latent heat of vaporization ",
+      "b": "specific heat capacity of ice ",
+      "c": "specific latent heat of fusion ",
+      "d": "specific heat capacity of water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 11,
     "question": "An object of height 3.00cm is placed 10cm from a biconvex lens of 15cm, the image of the object is ",
     "option": {
@@ -4112,6 +4128,22 @@
     "examyear": "2006"
   },
   {
+    "id": 709,
+    "question": "The production and type of charge of a body can only be accounted for by the?",
+    "option": {
+      "a": " deficiency or surplus of electrons",
+      "b": "equibrium in protons and neutrons",
+      "c": "deficiency or surplus of protrons",
+      "d": "deficiency or surplus of neutrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nThe charge of a body is determined by the imbalance between the number of protons (positively charged) and electrons (negatively charged). A deficiency of electrons results in a positive charge, while a surplus of electrons results in a negative charge.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 710,
     "question": "The main purpose of the transformer in an a.c radio set is to?",
     "option": {
@@ -5152,6 +5184,22 @@
     "examyear": "2010"
   },
   {
+    "id": 901,
+    "question": "A stone and a feather are dropped from the same height above the earth surface. Ignoring air resistance, which of the following is correct?",
+    "option": {
+      "a": "the feather will be blown away by the wind while stone will drop steadily",
+      "b": "the stone and the feather will both reach the ground at the same time",
+      "c": "the feather will reach the ground first",
+      "d": "the stone will reach the ground first"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The acceleration of free fall due to gravity is independent of mass of the body. Therefore, ignoring air resistance, which affects feather more than the stone, the stone and the feather will both reach the ground at the same time",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 905,
     "question": "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire",
     "option": {
@@ -6156,6 +6204,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nForce, F = 500 N\nCross‑sectional area, A = 0.2 m²\n\nSolution:\n\nStep 1: Formula for tensile stress\nTensile stress σ = Force / Area = F / A\n\nStep 2: Substitute the values\nσ = 500 N / 0.2 m² = 2500 N m⁻²\n\nStep 3: Express in scientific notation\n2500 N m⁻² = 2.5 × 10³ N m⁻²",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1095,
+    "question": "What is the equivalent of 20 K in Celsius scale?",
+    "option": {
+      "a": " –253 °C",
+      "b": "–293 °C",
+      "c": "68 °C",
+      "d": "36 °C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nTemperature in Kelvin, T(K) = 20 K\n\nSolution:\n\nStep 1: Relation between Kelvin and Celsius\nThe Celsius temperature T(°C) is given by:\nT(°C) = T(K) – 273.15\nFor rough conversion, 273 is often used.\n\nStep 2: Substitute the value\nT(°C) = 20 – 273 = –253 °C",
     "examtype": "utme",
     "examyear": "2014"
   },

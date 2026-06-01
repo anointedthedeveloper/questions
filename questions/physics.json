@@ -13088,6 +13088,22 @@
     "examyear": "2008"
   },
   {
+    "id": 849,
+    "question": "A ray of light traveling from air into glass is incident at an angle of 60° to the normal. If the refractive index of the glass is 1.5, calculate the angle of refraction in the glass.",
+    "option": {
+      "a": "30.7°",
+      "b": "35.3°",
+      "c": "40.5°",
+      "d": "45.0°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nAngle of incidence (i) = 60°\nRefractive index of air (n₁) = 1.0\nRefractive index of glass (n₂) = 1.5\nAngle of refraction (r) = ?\n\nUsing Snell's Law:\nn₁ sin i = n₂ sin r\nRearranging for sin r:\nsin r = (n₁ sin i)/n₂\nSubstituting values:\nsin r = (1.0 × sin 60°)/1.5\nsin r = (1.0 × 0.866)/1.5\nsin r = 0.866/1.5\nsin r = 0.577\nFinding angle r:\nr = sin⁻¹(0.577)\nr = 35.3°",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 850,
     "question": "I. Diameter of a small ball bearing.\nII. Thickness of a pieces of paper.\nIII. Diameter of a measuring cylinder.\nIV. Length of a piece of wire.\n\n\nWhich of the above can be measured using a micrometer screw gauge?",
     "option": {

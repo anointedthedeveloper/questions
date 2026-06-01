@@ -3312,6 +3312,22 @@
     "examyear": "2003"
   },
   {
+    "id": 223,
+    "question": "Simplify 213<sub>4</sub>\n x 23<sub>4</sub>",
+    "option": {
+      "a": "10311<sub>4</sub>",
+      "b": "10321<sub>4</sub>",
+      "c": "12231<sub>4</sub>",
+      "d": "13211<sub>4</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "You can either multiply directly in base 4 or you can decide to convert to base 10 and do the multiplication and re-convert.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 224,
     "question": "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat\nematics and Physics?",
     "option": {
@@ -8940,6 +8956,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128351/ALOC-Questions/Mathematics/2010/MATH_2010_Q15_ofvhf9.jpg",
     "answer": "a",
     "solution": "Area of a triangle = 1/2 ab Sinθ\n12√3 = 1/2 x 8 x q sin 60\n12√3 = 4 x q x √3/2\n12√3 = 2q√3\n\nq =12√3/2√3\n\nq = 6",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 587,
+    "question": "If y = (2x + 1)3 find dy/dx",
+    "option": {
+      "a": " 3(2x+1)<sup>2</sup>",
+      "b": "6(2x+1)",
+      "c": " 3(2x+1)",
+      "d": "6(2x+1)<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = (2x + 1)3\ndy/dx = 3(2x + 1)3-1 x 2\n= 3(2x + 1)2 x 2\n= 6(2x + 1)2",
     "examtype": "utme",
     "examyear": "2010"
   },

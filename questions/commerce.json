@@ -256,6 +256,22 @@
     "examyear": "2005"
   },
   {
+    "id": 74,
+    "question": "The most important concept in production is",
+    "option": {
+      "a": "utility ",
+      "b": "wealth creation",
+      "c": "transformation  ",
+      "d": "distribution."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 76,
     "question": "Occupations are classified into",
     "option": {
@@ -352,6 +368,22 @@
     "examyear": "2005"
   },
   {
+    "id": 88,
+    "question": "In Nigeria the ministry in charge of registering trade associations is that of ",
+    "option": {
+      "a": " industries",
+      "b": " commerce ",
+      "c": "culture and tourism ",
+      "d": " finance."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 93,
     "question": "The excess of the assets over the liabilities of a business is called ",
     "option": {
@@ -407,6 +439,22 @@
       "b": " accident insurance   ",
       "c": "group life assurance  ",
       "d": "endowment policy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 106,
+    "question": "An important social reason for development tourism in Nigeria is the  ",
+    "option": {
+      "a": "promotion of culture interaction   ",
+      "b": " provision of job opportunities",
+      "c": "improvement of her balance of payments",
+      "d": "encouragement of international relations."
     },
     "section": "",
     "image": "",
@@ -960,6 +1008,22 @@
     "examyear": "2008"
   },
   {
+    "id": 242,
+    "question": "The practice whereby government relinquishes its ownership interest in a public enterprises is ",
+    "option": {
+      "a": "commercialization ",
+      "b": "indigenization ",
+      "c": "privatization ",
+      "d": "nationalization "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 243,
     "question": "A factor is a business environment which increases the rate of product obsolescence is ",
     "option": {
@@ -1243,6 +1307,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 304,
+    "question": "A trend is retailing which enables consumers to have free access to different products is ",
+    "option": {
+      "a": "after sales service ",
+      "b": "branding ",
+      "c": "self-service",
+      "d": "vending machine"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 305,
+    "question": "The activity which entails buying of goods in bulk and selling in small quantities to retailers is ",
+    "option": {
+      "a": "assembling ",
+      "b": "wholesaling ",
+      "c": "retailing ",
+      "d": "merchandising "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1936,6 +2032,22 @@
     "examyear": "2013"
   },
   {
+    "id": 463,
+    "question": "In the Nigeria GSM industry, a parliament is organized by the Nigerian Communication Commission in order to ",
+    "option": {
+      "a": "increase profit of service providers ",
+      "b": "protect the interest of government ",
+      "c": "encourage more people into the business ",
+      "d": "protect the interest of consumers "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 470,
     "question": "The most suitable organizational structure for small or medium-sized enterprises is ",
     "option": {
@@ -2123,6 +2235,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 509,
+    "question": "Which of the following refers to a price reduction based on the size of order?",
+    "option": {
+      "a": "Cash discount",
+      "b": "Trade discount",
+      "c": "Seasonal discount",
+      "d": "Cash on delivery"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -2512,6 +2640,22 @@
     "examyear": "2013"
   },
   {
+    "id": 599,
+    "question": "The major divisions of Commerce are",
+    "option": {
+      "a": "import, export and transport",
+      "b": "trade, communication and warehousing",
+      "c": "trade and auxiliaries to trade",
+      "d": "exchange, consumption and production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
     "id": 600,
     "question": "Which of the following statements is not true?",
     "option": {
@@ -2603,6 +2747,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 626,
+    "question": "The law which stipulates that labels should give an accurate account of a product is the",
+    "option": {
+      "a": "price control act",
+      "b": "consumer credit act",
+      "c": "trade description act",
+      "d": "hire purchase act"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1990"
@@ -3008,6 +3168,22 @@
     "examyear": "2000"
   },
   {
+    "id": 704,
+    "question": "The share capital value that forms part of the balance sheet total is the",
+    "option": {
+      "a": "paid-up share capital",
+      "b": "called-up share capital",
+      "c": "authorized share capital",
+      "d": "issued share capital."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 707,
     "question": "The function of a merchant wholesaler is to",
     "option": {
@@ -3191,6 +3367,22 @@
       "b": "a systematic record of transactions among countries at a given time",
       "c": "the current and the capital accounts and their payments",
       "d": "the trade relationships and payments among nations."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 758,
+    "question": "The major procedures in the purchase and sale of goods are enquiry",
+    "option": {
+      "a": "quotation, order and invoice",
+      "b": "placement, order and invoice",
+      "c": "bargain, order and invoice",
+      "d": "order, sale and invoice."
     },
     "section": "",
     "image": "",

@@ -32,6 +32,22 @@
     "examyear": "2013"
   },
   {
+    "id": 126,
+    "question": "A statement showing a trader’s financial position as at a particular date is a/an",
+    "option": {
+      "a": "trading account.",
+      "b": "profit and loss account.",
+      "c": "balance sheet.",
+      "d": "appropriation account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 150,
     "question": "The costs of acquiring fixed assets and bringing them into the firm is a",
     "option": {
@@ -62,6 +78,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 286,
+    "question": "Capital expenditure for the year was",
+    "option": {
+      "a": "Le 545,000",
+      "b": "Le 490,000",
+      "c": "Le 450,000",
+      "d": "Le 300,000"
+    },
+    "section": "The Health Department of Zango Local Government incurred the following expenditure in 2010. Construction of hospital wards [ Le 300,000 ]; Purchase of hospital beds [ Le  40,000 ]; Salaries and wages  [ Le 80,000]; Purchase of drugs  [ Le 55,000]; Purchase of X-ray machine [ Le 150,000]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 317,
+    "question": "When the invoice of a customer is overcast, the supplier will send to him a",
+    "option": {
+      "a": "cheque",
+      "b": "payment voucher",
+      "c": "debit note",
+      "d": "credit note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
   },
   {
     "id": 359,
@@ -142,6 +190,38 @@
     "solution": "The balancing figures from the income and expenses account represent the surplus or deficit for the period, which is transferred to the profit and loss account in the conversion process.",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1100,
+    "question": "Discounts granted branch customers are treated as a debit to branch?",
+    "option": {
+      "a": " stock account and a credit to branch debtors'account",
+      "b": "discount account and a credit to branch bank account",
+      "c": "stock account and a credit to branch bank account",
+      "d": " discount account and a credit to branch debtors' account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When a branch gives a discount to its customers:\nWhat happens:\n\nThe branch is giving up some money (discount expense)\nThe customer owes less money to the branch\n\nAccounting treatment:\n\nDebit Branch Discount Account = record the expense/cost of giving the discount\nCredit Branch Debtors' Account = reduce what the customer owes\n\nThis follows the basic principle: when you give a discount, it's an expense to you and reduces what the customer owes.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1164,
+    "question": "Mamza ₦igeria Limited issued 20 000 ordinary shares of ₦1.50 per share on 2nd July 2002.\n1500 ordinary shares were fully subscribed for and their monies received as below:\n\nOn application .........................₦0.40\nOn allotment ...........................₦0.20\nFirst call (including premium of ₦0.50)..₦0.70\n\nThe last and final call was yet to be made.\n\nWhat is the balance of the ordinary share capital account after the first call was received?",
+    "option": {
+      "a": "₦300",
+      "b": "₦1050",
+      "c": "₦1200",
+      "d": "₦1950"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given Information:\n\n20,000 ordinary shares issued at ₦1.50 per share\n1,500 ordinary shares were fully subscribed\nPayment schedule:\n\nOn application: ₦0.40\nOn allotment: ₦0.20\nFirst call (including premium of ₦0.50): ₦0.70\n\n\n\nStep 1: Determine the nominal value per share\nTotal payment per share = ₦0.40 + ₦0.20 + ₦0.70 = ₦1.30\nSince the issue price is ₦1.50 and there's a premium of ₦0.50 in the first call, the nominal value per share = ₦1.50 - ₦0.50 = ₦1.00\nStep 2: Calculate amounts received by stage\n\nApplication: 1,500 shares × ₦0.40 = ₦600\nAllotment: 1,500 shares × ₦0.20 = ₦300\nFirst call: 1,500 shares × ₦0.70 = ₦1,050\n\nStep 3: Determine what goes to Ordinary Share Capital Account\nThe Ordinary Share Capital Account only records the nominal value, not the premium.\nFrom the first call of ₦0.70:\n\nPremium portion: ₦0.50 (goes to Share Premium Account)\nNominal value portion: ₦0.70 - ₦0.50 = ₦0.20 (goes to Share Capital Account)\n\nStep 4: Calculate total in Ordinary Share Capital Account\n\nFrom application: 1,500 × ₦0.40 = ₦600\nFrom allotment: 1,500 × ₦0.20 = ₦300\nFrom first call (nominal portion): 1,500 × ₦0.20 = ₦300\n\nTotal in Ordinary Share Capital Account = ₦600 + ₦300 + ₦300 = ₦1,200",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 1219,

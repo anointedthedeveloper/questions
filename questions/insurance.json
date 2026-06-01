@@ -1,5 +1,21 @@
 [
   {
+    "id": 24,
+    "question": "Ade insured his property for N= 350,000.00. The property is subject to average condition. He suffered a loss amounting to N= 30,000.00 with the value of the property at the time of loss to be N= 370,000.00. How much will the insurer pay?",
+    "option": {
+      "a": "N= 14,583.33",
+      "b": "N= 28,378.38",
+      "c": "N= 30,000.00",
+      "d": "N= 31,714.29"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 38,
     "question": "Effective supervision and licensing of insurance firms in Nigeria is the function of",
     "option": {
@@ -144,6 +160,54 @@
     "examyear": "3"
   },
   {
+    "id": 185,
+    "question": "In insurance contract, failure to disclose all relevant material facts will render the contract",
+    "option": {
+      "a": "legal",
+      "b": "Voidable",
+      "c": "Void",
+      "d": "Implied"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 215,
+    "question": "With insurance contract there is",
+    "option": {
+      "a": "certainty of occurrence",
+      "b": "uncertainty of occurrence",
+      "c": "certainty of reward",
+      "d": "uncertainty  of reward"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 238,
+    "question": "Situation that are not included in the policy are usually referred to as",
+    "option": {
+      "a": "condition",
+      "b": "exception",
+      "c": "preamble",
+      "d": "operative clause"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 246,
     "question": "One of these is a form of motor vehicle insurance policy",
     "option": {
@@ -187,6 +251,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 265,
+    "question": "Which of the following risks is covered by insurance policy?",
+    "option": {
+      "a": "an investment loss on the stock market",
+      "b": "dishonesty of an employee leading to fraud",
+      "c": "failure of a business venture",
+      "d": "rise and fall of prices of goods in the market"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "5"

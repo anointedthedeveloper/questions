@@ -592,6 +592,22 @@
     "examyear": "2012"
   },
   {
+    "id": 43,
+    "question": "Which of the following would not be included in a balance sheet?",
+    "option": {
+      "a": "Accounts receivable",
+      "b": "Accounts payable  ",
+      "c": "Sales",
+      "d": "Cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 44,
     "question": "A company provided the following information about its balance sheet: Cash N100 Accounts receivable N500 Stockholders' equity 14700 Account payable N200 Bank loans Nl000 Based on the information provided, how much are Remington's liabilities?",
     "option": {
@@ -811,6 +827,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 59,
+    "question": "If a business pays for only 11 months rent during a financial year, what accounting term is given to the outstanding term is given to the outstanding one month's rent? Which of the following equations properly represents a derivation of the fundamental accounting equation?",
+    "option": {
+      "a": "Assets + liabilities = owner's equity ",
+      "b": "Assets = owner's equity",
+      "c": "Cash = assets.  ",
+      "d": "Assets - liabilities = owner's equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1179,6 +1211,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 84,
+    "question": "The capital of a sole trader changes as a result of",
+    "option": {
+      "a": "paying wages by cash.",
+      "b": "equipment purchased by cheque.",
+      "c": "drawings by cheque.",
+      "d": "purchases on credit."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -2491,6 +2539,22 @@
     "section": "Materials consumed  16,600;\tDirect cost 5,400; Factory rent 2,300; Factory  lighting 1,200 \tCost of production to be transferred at cost plus 20% mark-up. ",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 172,
+    "question": "The market value of goods produced is",
+    "option": {
+      "a": "N30,500",
+      "b": "N3, 600",
+      "c": "N31,600",
+      "d": "N31,620"
+    },
+    "section": "Materials consumed  16,600;\tDirect cost 5,400; Factory rent 2,300; Factory  lighting 1,200 \tCost of production to be transferred at cost plus 20% mark-up. ",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -3888,6 +3952,22 @@
     "examyear": "2012"
   },
   {
+    "id": 268,
+    "question": "Capital receipt is collected",
+    "option": {
+      "a": "on sales of motor vehicle.",
+      "b": "on sales of stock in trade.",
+      "c": "from trade debtor",
+      "d": "from trading activities."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 269,
     "question": "Which of the following is an example of factory overheads?",
     "option": {
@@ -4571,6 +4651,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 315,
+    "question": "The accounting entry to correct sales day book overcast is",
+    "option": {
+      "a": "debit Sales Account and credit Debtors Account",
+      "b": "debit Suspense Account and credit Sales Account",
+      "c": "debit Debtors Account and credit Suspense Account",
+      "d": "debit Sales Account and credit Suspense Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -5840,6 +5936,22 @@
     "examyear": "2004"
   },
   {
+    "id": 399,
+    "question": "The three-column cash book differs from the two-column cash book in",
+    "option": {
+      "a": "cash column",
+      "b": "discount column",
+      "c": "bank column",
+      "d": "folio column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 400,
     "question": "Zakari started a business on January 2000. He bought a shop costing N 54,000 and stock worth N 7,600.  Profit for the year amounted to N 22,100. His closing capital was N 73,800. Zakari’s personal drawings amounted to",
     "option": {
@@ -6992,6 +7104,22 @@
     "examyear": "2007"
   },
   {
+    "id": 475,
+    "question": "If Mr. Ajasin paid his creditors N 5 000 out of N 20 000 owed, what would be the effect of this transaction on the accounting equation?",
+    "option": {
+      "a": "A decrease .in the total liabilities and assets by N5 000.",
+      "b": "An increase in total liabilities and owners’ equity by N15 000.",
+      "c": "An increase in the total assets by N15 000",
+      "d": "A decrease in owners’ equity by N 5 000."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 476,
     "question": "Which of the following branches of accounting was first developed?",
     "option": {
@@ -7259,6 +7387,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 495,
+    "question": "Which of the following is a debit item in the purchases ledger control account?",
+    "option": {
+      "a": "Balance b/d",
+      "b": "Cheque dishonoured",
+      "c": "Purchases",
+      "d": "Balance c/d"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -7628,6 +7772,22 @@
     "image": "",
     "answer": "b",
     "solution": "An average method which accommodate all the prices and then divide (inform of mean) is well acceptable in either of the two situation.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 522,
+    "question": "Using the given information, calculate the acid test ratio:\n\nStock: ₦11,250\nDebtors: ₦18,750\nCreditors: ₦3,750\nBank: ₦4,000\nNet profit: ₦7,500\nNet: ₦60,000",
+    "option": {
+      "a": "5 : 1",
+      "b": " 6 : 1",
+      "c": " 6 : 1 : 1",
+      "d": "4 : 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Quick assets = Debtors + Bank = 18,750 + 4,000 = 22,750\nAcid-test ratio = Quick assets/Creditors = 22,750/3,750 ≈ 6.06 : 1. Rounded to the nearest whole‐number ratio, that’s 6 : 1.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -8416,6 +8576,22 @@
     "examyear": "2016"
   },
   {
+    "id": 581,
+    "question": "A proprietor started business with ₦13,000. Assets and liabilities at the end of the year; fixed assets ₦8,800, stock ₦, 600, debtors ₦1,000, cash ₦3, 000 and creditors ₦1,000. Determine the profit for the year?",
+    "option": {
+      "a": " ₦2,400",
+      "b": "₦3,000",
+      "c": "₦9,800",
+      "d": "-₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate the closing capital\nClosing Capital = Assets - Liabilities\n\nTotal Assets = Fixed assets + Stock + Debtors + Cash\nTotal Assets = ₦8,800 + ₦600 + ₦1,000 + ₦3,000 = ₦13,400\nTotal Liabilities = Creditors = ₦1,000\nClosing Capital = ₦13,400 - ₦1,000 = ₦12,400\n\nStep 2: Calculate the profit\nProfit = Closing Capital - Opening Capital\nProfit = ₦12,400 - ₦13,000 = -₦600",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 582,
     "question": "Badge Plc issued 450,000 ordeinary shares of 50,000 each at ₦1.50 per share\nApplication and allotment 45,000\n1st call 50,000\n2nd call 55,000\n\nDetermine the amount received on final call.",
     "option": {
@@ -8428,6 +8604,22 @@
     "image": "",
     "answer": "c",
     "solution": "The shares were paid up in three instalments totaling ₦1.50 each (₦0.45 on application & allotment, ₦0.50 on 1st call, ₦0.55 on 2nd/final call).\nThus for the final call you simply multiply the number of shares (450 000) by the final call amount per share (₦0.55), giving ₦247 500.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 583,
+    "question": "When goods are sent to the branch at cost plus mark-up, it means that the branch should sell at",
+    "option": {
+      "a": "a price above or below the stipulated price",
+      "b": " any price but not below the transfer price",
+      "c": "cost price",
+      "d": "a price that is equal to the mark-up"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Cost-plus pricing is a pricing strategy in which the selling price is determined by adding a specific amount markup to a product's unit cost.\n\nCost plus pricing involves adding a markup to the cost of goods and services to arrive at a selling price. Under this approach, you add together the direct materialcost, direct labor cost, and overhead costs for a product, and add to it a markuppercentage in order to derive the price of the product.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -11360,6 +11552,22 @@
     "examyear": "2020"
   },
   {
+    "id": 786,
+    "question": "Use the information below to answer this question\n\nA machine bought for ₦35,000 was estimated to have a life span of 5 years with a scrap value of ₦9000.\n \n\nThe yearly depreciation using the straight-line method would be\n",
+    "option": {
+      "a": "₦5200",
+      "b": "₦800",
+      "c": "₦6500",
+      "d": "₦4400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "COGS = Cost – Scrap Value = 35,000 – 9,000 = ₦26,000\nAnnual Depreciation = COGS ÷ Useful Life = 26,000 ÷ 5 = ₦5,200",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 787,
     "question": "Use the information below to answer this question\n\nA machine bought for ₦35,000 was estimated to have a life span of 5 years with a scrap value of ₦9000.\n\nIf the scrap value is presently ₦15,000 what will be the yearly depreciation using straight-line method?",
     "option": {
@@ -12496,6 +12704,22 @@
     "examyear": "2022"
   },
   {
+    "id": 864,
+    "question": "The folio in the ledger is used for referencing purposes. It helps in cross-referencing between the ledger and the journal, making it easier to track transactions and locate specific entries.",
+    "option": {
+      "a": "branch expense account and credited to branch debtors' accoount\n",
+      "b": "branch stock account account and credited to the goods sent to branch account\n",
+      "c": "branch debtors' account and credited to branch expense account\n",
+      "d": "goods sent to branch expense account\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When goods are invoiced and dispatched to a branch, the head office debits the Branch Stock Account (to record the branch’s inventory) and credits the Goods Sent to Branch Account (to show the transfer out of head office stock).",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 865,
     "question": "Gross profit in the branch adjustment account is transferred to the branch?",
     "option": {
@@ -13024,6 +13248,22 @@
     "examyear": "2023"
   },
   {
+    "id": 903,
+    "question": "The effect of transaction when cash is paid into the bank is?",
+    "option": {
+      "a": "bank balance decrease and cash balance increase",
+      "b": "cash balance decrease and bank balance increase",
+      "c": " bank balance decrease and cash balance decrease",
+      "d": "cash balance increase and bank balance increase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When cash is paid into the bank, the cash balance decreases because you are taking cash out of your possession and depositing it into the bank. On the other hand, your bank balance increases because you are adding money to your bank account. Therefore, the effect of the transaction is that the cash balance decreases and the bank balance increases.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 904,
     "question": "Which of these is not a subsidiary books?",
     "option": {
@@ -13100,6 +13340,22 @@
     "image": "",
     "answer": "b",
     "solution": "Net assets = ₦190,000 + ₦170,000 + ₦60,000 – ₦50,000 = ₦370,000\n\nGoodwill = ₦400,000 – ₦370,000 = ₦30,000",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 909,
+    "question": "Which of these is not method of stock valuation?",
+    "option": {
+      "a": "FIFO method",
+      "b": " Base method",
+      "c": "Standard method",
+      "d": " LIFO method"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The methods of stock valuation are: FIFO, LIFO, Weighted Average Price Method, Simple Average Price Method, Base stock method.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -13212,6 +13468,22 @@
     "image": "",
     "answer": "d",
     "solution": "Depreciation of office machine equipment is an administration expenses. Administration expenses comprises of cost of accounting and secretarial work.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 917,
+    "question": "From the Sales Ledger Control Account shown, which displays various transactions including: Balance brought forward of ₦3,250, Sales of ₦19,075, Dishonoured cheque of ₦625, Stopped cheque of ₦250, and Balance carried down of ₦230 on the debit side; and Balance brought forward of ₦215, Bank of ₦16,387.50, Discount of ₦862.50, Returns inwards of ₦325, Set off of ₦900, and Balance carried down of ₦4,740 on the credit side, with both sides totaling ₦23,430. The amount ₦16,378.50 described as \"Bank\" represents what?",
+    "option": {
+      "a": " receipts from trade debtors only",
+      "b": " cash sales for the month including discount",
+      "c": "receipts from all debtors of the business",
+      "d": "cash sales for the month excluding discount"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In a Sales Ledger Control Account, the \"Bank\" entry on the credit side specifically represents cash received from trade debtors (customers who owed money from credit sales).",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -14432,6 +14704,22 @@
     "examyear": "2008"
   },
   {
+    "id": 999,
+    "question": "In partnership dissolution, an asset taken over by a partner is debited to?",
+    "option": {
+      "a": "partners capital account and credited to realization account",
+      "b": "Partners capital account and credited to asset account",
+      "c": "asset account and credited to realization account",
+      "d": "realization account and credited to capital account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a partner takes over an asset during partnership dissolution:\nJournal Entry:\n\nDebit: Partner's Capital Account (at agreed value)\nCredit: Realization Account (at agreed value)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1000,
     "question": "Goodwill can be in the balance sheet as?",
     "option": {
@@ -14654,6 +14942,22 @@
     "solution": "Given (Dept P):\n  Opening stock    = ₦2,000\n  Purchases        = ₦2,500\n  Closing stock    = ₦1,500\n  Sales            = ₦6,000\n  Expenses (P)     = ₦200\n  (Transfer from Q to P is irrelevant to P's net profit here)\n\nStep 1: Cost of goods sold (COGS)\n  COGS = Opening + Purchases − Closing\n       = 2,000 + 2,500 − 1,500\n       = ₦3,000\n\nStep 2: Gross profit\n  Gross profit = Sales − COGS\n               = 6,000 − 3,000\n               = ₦3,000\n\nStep 3: Net profit (after expenses)\n  Net profit = Gross profit − Expenses\n             = 3,000 − 200\n             = ₦2,800",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 1015,
+    "question": "The double principle of accounting was developed by?",
+    "option": {
+      "a": "Frank Wood",
+      "b": "Luca Pacioli",
+      "c": "Akintola Williams",
+      "d": "William Pickles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "He described the double-entry (double principle) system in his 1494 book Summa de arithmetica, earning him the title \"father of accounting.\"",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 1016,
@@ -15580,6 +15884,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Find how many months the rates payment covers\n\nRates paid = ₦2,250\n\nRate per month = ₦125\n\nMonths covered = ₦2,250 ÷ ₦125 = 18 months\n\nStep 2: Determine months prepaid\nIf the accounting period is 12 months, then:\nPrepaid months = 18 − 12 = 6 months\n\nStep 3: Value of prepaid rates\nPrepaid amount = 6 months × ₦125 = ₦750",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1078,
+    "question": "<b>Use the information below to answer questions 14 and 15</b>\n\nWhat is the value of raw materials issued on May 17th based ion the LIFO method?",
+    "option": {
+      "a": "₦60",
+      "b": "₦61",
+      "c": "₦62",
+      "d": "₦64"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662538/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q14-15_u5ld3i.png",
+    "answer": "d",
+    "solution": "Working (LIFO):\nOn May 17, the latest stock available is 50 units @ ₦3.20 (from May 10).\nIssue 20 units from this latest batch: \n\n20 × ₦3.20 = ₦64.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -16736,6 +17056,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1157,
+    "question": "<b>Use the information below to answer questions 43 and 44</b>\n\nGoods from head office................₦13,400\nReturns to head office ...............₦118\nRates and insurance paid .............₦188\nWages paid ...........................₦913\nCash remitted to head office..........₦16,625\nStock at 1/1/2000.....................₦1,875\nRents paid ...........................₦325\nStock at 31/12/2000 ..................₦1,975\nSundry expenses ......................₦200\n\nThe profit realized from the trade is?",
+    "option": {
+      "a": "₦4 069",
+      "b": "₦1 817",
+      "c": "₦1 440",
+      "d": "₦1 328"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Goods supplied net of returns = 13,400 − 118 = 13,282\nOpening stock = 1,875\nClosing stock = 1,975\n\nCost of goods sold = Opening + Goods supplied − Closing\n                    = 1,875 + 13,282 − 1,975\n                    = ₦13,182\n\nSales (taken as cash remitted) = ₦16,625\nBranch expenses (paid) = 188 + 913 + 325 + 200 = ₦1,626\n\nProfit = Sales − COGS − Expenses\n       = 16,625 − 13,182 − 1,626\n       = ₦1,817",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1158,
     "question": "<b>Use the information below to answer questions 43 and 44</b>\n\nGoods from head office................₦13,400\nReturns to head office ...............₦118\nRates and insurance paid .............₦188\nWages paid ...........................₦913\nCash remitted to head office..........₦16,625\nStock at 1/1/2000.....................₦1,875\nRents paid ...........................₦325\nStock at 31/12/2000 ..................₦1,975\nSundry expenses ......................₦200\n\nWhat is the total expenses?",
     "option": {
@@ -16876,6 +17212,22 @@
     "image": "",
     "answer": "b",
     "solution": "COGS = Opening stock + Purchases + Direct production wages − Closing stock\n\nSo: ₦800 + ₦2,450 + ₦675 − ₦940\n= ₦3,925 − ₦940\n= ₦2,985",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1167,
+    "question": "In a petty cash book the imprest is ₦1380.\nExpenses:\nStationery ₦350\nCleaning material ₦335\nGeneral expenses ₦265\n\nHow much was received to maintain the imprest at the ends of the month?",
+    "option": {
+      "a": "₦950",
+      "b": "₦970",
+      "c": "₦430",
+      "d": "₦380"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Total expenses = ₦350 + ₦335 + ₦265 = ₦950.\nSo the imprest must be replenished by ₦950.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -17452,6 +17804,22 @@
     "image": "",
     "answer": "d",
     "solution": "Reason: single-entry is easy and simple to operate (less paperwork), though it sacrifices completeness and accuracy.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1209,
+    "question": "Given:\n\nSales ............................₦195,200\nStock 1st January.................₦34,000\nPurchases ........................₦126,000\nSales returns ....................₦1,200\nPurchases returns ................₦2,000\n\nIf the gross profit is ₦66,000, what is the value of stock at 31st December?",
+    "option": {
+      "a": "₦30,000",
+      "b": "₦40,000",
+      "c": "₦50000",
+      "d": "₦20,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Net sales = ₦195,200 − ₦1,200 = ₦194,000\nCOGS = Net sales − Gross profit = ₦194,000 − ₦66,000 = ₦128,000\n\nNet purchases = ₦126,000 − ₦2,000 = ₦124,000\nCOGS = Opening stock + Net purchases − Closing stock\n128,000 = 34,000 + 124,000 − Closing stock = 158,000 − Closing stock\n\nClosing stock = 158,000 − 128,000 = ₦30,000",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -19008,6 +19376,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1319,
+    "question": "When a proprietor withdraws cash from the business for private use, he?",
+    "option": {
+      "a": "debits cash account and credits drawings account",
+      "b": "credits cash account and debits bank account",
+      "c": "debits bank account and credits drawings account",
+      "d": "credits cash account and debits drawings account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The correct entry is to debit Drawings (to increase the owner’s withdrawals) and credit Cash (to decrease the asset)",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1320,
     "question": "A basic unifying concept in accounting implies that?",
     "option": {
@@ -19980,6 +20364,22 @@
     "image": "",
     "answer": "c",
     "solution": "To find the year's purchases, use the creditors control account approach.\nGiven information:\n\nTotal creditors b/f (opening): ₦7,200\nTotal cash payments to suppliers: ₦98,800\nTotal creditors c/f (closing): ₦8,400\n\nCreditors Control Account Logic:\nOpening creditors + Purchases - Cash payments = Closing creditors\nCalculation:\n₦7,200 + Purchases - ₦98,800 = ₦8,400\nPurchases = ₦8,400 - ₦7,200 + ₦98,800\nPurchases = ₦1,200 + ₦98,800\nPurchases = ₦100,000",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1388,
+    "question": "Derive the total sales figure from the following information extracted from a firm's cash book and other relevant records.\n\nTotal debtors b/f ₦ 5,600\nTotal cash receipts from debtors\nand cash sales ₦ 153,000\nTotal debtors c/f ₦ 6,800",
+    "option": {
+      "a": "₦6,800",
+      "b": "₦153,000",
+      "c": "₦154,200",
+      "d": "₦159,800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using the debtors’ account approach:\n\nSales = Total cash receipts from debtors and cash sales + Closing debtors − Opening debtors\n=₦153,000 + ₦6,800 − ₦5,600\n=₦154,200\n​\n ",
     "examtype": "utme",
     "examyear": "199"
   },

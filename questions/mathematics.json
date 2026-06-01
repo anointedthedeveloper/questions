@@ -16208,6 +16208,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1126,
+    "question": "Given that S = 3t<sup>2</sup> + 5t - 10 is displacement of a particle in metres, calculate it initial velocity.",
+    "option": {
+      "a": "10m/s",
+      "b": "2m/s",
+      "c": "5m/s",
+      "d": "6m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The initial velocity (v) is obtained by differentiating the displacement (S) with respect to time, which gives:\n\nv = dS/dt=  d/dt(3t<sup>2</sup>+ 5t - 10) = 6t + 5\n\nThe initial velocity is the velocity of the particle at time t = 0. Substituting t = 0 into the velocity equation:\n\nv(0) = 6(0) + 5 = 5\n\nTherefore, the initial velocity of the particle is 5 m/s.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1127,
     "question": "In the diagram above, XY = 8cm and OX = 5cm. Find Oz",
     "option": {

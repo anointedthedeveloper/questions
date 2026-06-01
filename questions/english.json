@@ -5586,6 +5586,25 @@
     "category": "others"
   },
   {
+    "id": 345,
+    "question": "The idle steward could not see ....... on the wall, and he lost his job.",
+    "option": {
+      "a": "the writing",
+      "b": "what will be written ",
+      "c": "the handwriting",
+      "d": "what is written"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 346,
     "question": "... went to the stadium to watch a football match.",
     "option": {
@@ -16754,6 +16773,25 @@
     "examtype": "utme",
     "examyear": "2013",
     "questionNub": 96,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1190,
+    "question": "information",
+    "option": {
+      "a": "information",
+      "b": "information",
+      "c": "information",
+      "d": "Information"
+    },
+    "section": "<b>In each of questions 95 to 97, choose the \nmost appropriate stress pattern from the \noptions. The stressed syllables are written \nin capital letters</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 97,
     "hasPassage": 0,
     "category": "others"
   },

@@ -8208,6 +8208,25 @@
     "category": "others"
   },
   {
+    "id": 472,
+    "question": "<i>Curiously,</i> he escaped unhurt ",
+    "option": {
+      "a": "interestingly",
+      "b": "unsurprisingly ",
+      "c": "annoyingly ",
+      "d": "unusually."
+    },
+    "section": "Choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 473,
     "question": "Agwube's explanation of her poor performance at the examination only <i>begged the question.</i>",
     "option": {
@@ -12023,6 +12042,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 49,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 746,
+    "question": "The new school is not provided with .......for science practicals?",
+    "option": {
+      "a": "enough equipment",
+      "b": "equipments",
+      "c": "an equipment",
+      "d": "enough equipments"
+    },
+    "section": "<b>In each of questions 41 to 62, fill the gap with the most appropriate option from the list provided.</b>",
+    "image": "",
+    "answer": "a",
+    "solution": "in this context, Option A is the best answer.",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 50,
     "hasPassage": 0,
     "category": "others"
   },
@@ -21086,6 +21124,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 4,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1378,
+    "question": "Choose the word that has the same rhyme \n\nThyme",
+    "option": {
+      "a": "climb",
+      "b": "bind",
+      "c": "time",
+      "d": "lime"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Time' sounds approximately the same way when pronounced as 'Thyme'",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 5,
     "hasPassage": 0,
     "category": "others"
   },

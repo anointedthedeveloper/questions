@@ -480,6 +480,22 @@
     "examyear": "2011"
   },
   {
+    "id": 112,
+    "question": "Sound waves were sent out from a source and after being reflected from  an obstacle were received by a sensor placed beside the source. If the waves were received 10 seconds after they were sent out, calculate  the distance between the  source and the obstacle (speed of sound = 330 m/s) ",
+    "option": {
+      "a": "990m  ",
+      "b": "660m ",
+      "c": "1320 m ",
+      "d": "None of above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 113,
     "question": "Two plane mirrors are inclined at angle 45 to another. A ray of light has incident angle of 20 at the surface of the first mirror. The reflected ray is then incident on the second mirror. Calculate the angle of reflection at the second mirror ",
     "option": {
@@ -796,6 +812,22 @@
     "image": "",
     "answer": "d",
     "solution": "Chemical and electrical energy can be directly converted to light energy, but sound energy cannot.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 202,
+    "question": "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is",
+    "option": {
+      "a": "40s",
+      "b": "10s",
+      "c": "20s",
+      "d": "5s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial velocity (u) = 20 m/s\nFinal velocity (v) = 0 m/s (complete halt)\nDeceleration (a) = -2 m/s² (negative because it's deceleration)\nTime (t) = ?\n\nUsing the equation of motion:\nv = u + at\nSubstituting values:\n0 = 20 + (-2)t\n0 = 20 - 2t\nSolving for t:\n2t = 20\nt = 20/2\nt = 10 seconds",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1888,6 +1920,22 @@
     "examyear": "2023"
   },
   {
+    "id": 524,
+    "question": "A simple pendulum, has a period of 5.77 seconds. When the pendulum is shortened by 3 m, the period is 4.60 seconds. Calculate the new length of the pendulum",
+    "option": {
+      "a": " 5.23 m",
+      "b": "6.42 m",
+      "c": "4.87 m",
+      "d": "7.26 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInitial period, T₁ = 5.77 s\nFinal period, T₂ = 4.60 s\nChange in length = 3 m (shortened)\nInitial length, L₁ = ?\nFinal length, L₂ = L₁ - 3\ng = 10 m/s² (or 9.8 m/s²)\n\nSolution:\nStep 1: Write period formula for both cases\nFor a simple pendulum:\nT = 2π√(L/g)\nInitial pendulum:\nT₁ = 2π√(L₁/g)  -----(1)\nShortened pendulum:\nT₂ = 2π√(L₂/g) = 2π√[(L₁-3)/g]  -----(2)\nStep 2: Form ratio to eliminate constants\nDividing equation (1) by equation (2):\nT₁/T₂ = √(L₁/(L₁-3))\n5.77/4.60 = √(L₁/(L₁-3))\n1.254 = √(L₁/(L₁-3))\nStep 3: Square both sides\n(1.254)² = L₁/(L₁-3)\n1.573 = L₁/(L₁-3)\nStep 4: Solve for L₁\n1.573(L₁-3) = L₁\n1.573L₁ - 4.719 = L₁\n1.573L₁ - L₁ = 4.719\n0.573L₁ = 4.719\nL₁ = 8.23 m\nStep 5: Calculate new length\nL₂ = L₁ - 3\nL₂ = 8.23 - 3\nL₂ = 5.23 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 527,
     "question": "The near point of a patient's eye is 50.0 cm. What power (in diopters) must a corrective lens have to enable the eye to see clearly an object 25.0 cm away?",
     "option": {
@@ -2188,6 +2236,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Calculate acceleration\nFormula: F = ma\na = F/m = 12/4 = 3 m/s²\nStep 2: Calculate final velocity\nFormula: v = u + at\nv = 0 + (3 × 3)\nv = 9 m/s\nStep 3: Calculate kinetic energy gained\nFormula: KE = ½mv²\nKE = ½ × 4 × (9)²\nKE = ½ × 4 × 81\nKE = 2 × 81\nKE = 162 J",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 627,
+    "question": "As the pressure of a fluid increases, its viscosity",
+    "option": {
+      "a": "decreases",
+      "b": "increases",
+      "c": "increases then decreases",
+      "d": "remains constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "With an increase in pressure, the viscosity of liquids except water increases while that of gases is practically independent of pressure.",
     "examtype": "utme",
     "examyear": "2004"
   },

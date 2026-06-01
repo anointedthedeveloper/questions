@@ -944,6 +944,22 @@
     "examyear": "2012"
   },
   {
+    "id": 268,
+    "question": "Capital receipt is collected",
+    "option": {
+      "a": "on sales of motor vehicle.",
+      "b": "on sales of stock in trade.",
+      "c": "from trade debtor",
+      "d": "from trading activities."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 270,
     "question": "Osa started business with Le40,000 cash. The accounting entry is debit",
     "option": {
@@ -1383,6 +1399,22 @@
       "b": "discount column",
       "c": "bank column",
       "d": "folio column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 401,
+    "question": "The balance on the provision for depreciation account is",
+    "option": {
+      "a": "added to fixed assets on the balance sheet",
+      "b": "deducted from fixed assets on the balance sheet",
+      "c": "deducted from the profit and loss account",
+      "d": "added to the current liabilities of the account"
     },
     "section": "",
     "image": "",
@@ -2716,6 +2748,22 @@
     "image": "",
     "answer": "d",
     "solution": "Branches are typically classified as:\n\nDependent branches, which rely on the head office for purchases and policies\n\nIndependent branches, which operate like standalone entities with their own accounting systems\n\nForeign branches, which are located in another country and may involve additional currency and regulatory considerations\n\nThe term “single branch” isn’t used as a formal classification.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 684,
+    "question": "A business has the following balance sheet: Capital ₦40,000, Furnishing ₦10,000, Ceiling Fan ₦1,500, and Cash in Hand ₦28,500, with total assets and liabilities both equaling ₦40,000.\nIf at 31/1/95 the following information was ascertained:\n\nRent for shop ₦12,000 paid for the year\nTotal purchases ₦15,000\nTotal sales ₦8,200\nStock of goods left ₦10,000\nPaid sales boy ₦500\n\nWhat is the balance on its cash account as at 31/1/95?",
+    "option": {
+      "a": "₦22,800",
+      "b": "₦9,200",
+      "c": "₦800",
+      "d": " ₦21,200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Starting with opening cash balance of ₦28,500, we calculate the cash movements:\nCash Outflows:\n\nRent paid: ₦12,000\nPurchases: ₦15,000\nSales boy wages: ₦500\nTotal cash outflows: ₦27,500\n\nCash Inflows:\n\nSales (assuming cash sales): ₦8,200\n\nCash Balance Calculation:\nOpening Cash + Cash Inflows - Cash Outflows\n= ₦28,500 + ₦8,200 - ₦27,500\n= ₦36,700 - ₦27,500\n= ₦9,200\nThe cash account balance as at 31/1/95 is ₦9,200.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -4076,6 +4124,22 @@
     "image": "",
     "answer": "d",
     "solution": "When cash is moved between the office and the bank (or vice versa), this creates a special type of entry in the cash book.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 977,
+    "question": "The medium that enables the ATM to read the account details and process transaction directly with the account held in the bank is the?",
+    "option": {
+      "a": "smart card",
+      "b": "communication network",
+      "c": "magnetic strip",
+      "d": "computerized account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The magnetic strip on your ATM card is what enables the machine to read your account details and process transactions.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -5918,6 +5982,22 @@
     "solution": "When a government entity (like the state) collects and remits insurance premiums on behalf of employees, it’s acting as an agent, not as the principal. These collections are recorded in an agency fund, which tracks resources held temporarily for others and ensures they’re remitted properly without affecting the government’s own operating results.",
     "examtype": "utme",
     "examyear": "199"
+  },
+  {
+    "id": 1416,
+    "question": "In preparing accounting records, the owner of a business and the business are treated as",
+    "option": {
+      "a": "the same person",
+      "b": " having business relationship",
+      "c": "separate legal entities",
+      "d": "partners"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Under the entity (or business) assumption in accounting, the business’s transactions are recorded and reported separately from the personal transactions of its owner. This allows the financial statements to reflect only the business’s financial performance and position.",
+    "examtype": "utme",
+    "examyear": "1997"
   },
   {
     "id": 1417,

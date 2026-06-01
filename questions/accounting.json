@@ -208,6 +208,22 @@
     "examyear": "2013"
   },
   {
+    "id": 91,
+    "question": "The returns on capital employed is",
+    "option": {
+      "a": "17.2%",
+      "b": "16.2%.",
+      "c": "15.2%.",
+      "d": "11.2%."
+    },
+    "section": "Use the following information to answer question. Net profit [ 60,000], Total Assets [ 520,000], Current liabilities [ 150,000], Current assets[ 280,000] ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 92,
     "question": "The double entry principle states that",
     "option": {
@@ -2432,6 +2448,22 @@
     "examyear": "2022"
   },
   {
+    "id": 877,
+    "question": "Which of these is the main source document for recording cash paid into bank?",
+    "option": {
+      "a": "invoice",
+      "b": "credit note",
+      "c": "cheque book",
+      "d": "pay-in-slip"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The main source document for recording cash paid into the bank is a pay-in-slip.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 878,
     "question": "The major distinguishing element between the final account of a partnership and that of a sole trader is the",
     "option": {
@@ -2668,6 +2700,22 @@
     "image": "",
     "answer": "d",
     "solution": "A bank deposit typically wouldn't cause a discrepancy; rather, it would lead to an increase in both the cash book and bank statement balances. Therefore, it is not a cause of discrepancies between the two balances.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 940,
+    "question": "An example of accounts in the nominal ledger is",
+    "option": {
+      "a": "debtors",
+      "b": "drawings",
+      "c": "creditors",
+      "d": "machineries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The nominal ledger, also sometimes called the general ledger, is the main book of accounts used in a double- entry bookkeeping system. It records all the financial transactions of a business during an accounting period. These transactions are categorized into different types of accounts.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -3792,6 +3840,22 @@
     "examyear": ""
   },
   {
+    "id": 1384,
+    "question": "The balance on a purchase ledger control account represents the?",
+    "option": {
+      "a": "present amount that a business owes its suppliers at date",
+      "b": " total credit avaiable to the end of the year to be utilized in future",
+      "c": " total credit the business enjoyed for the particular year from its suppliers",
+      "d": "total credit owd the business by its customers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The balance on the purchase ledger control account represents the present amount that the business owes its suppliers at that date.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1385,
     "question": "A powerful instrument of control over both the sales ledger and the clek whose duty is to post the ledger is the?",
     "option": {
@@ -3932,6 +3996,22 @@
     "image": "",
     "answer": "b",
     "solution": "Net after trade discount:\n\n₦800 × (1−0.25) = ₦600\n\nThen 2% cash discount on ₦600:\n\n₦600 × 0.02 = ₦12\nAmount paid = ₦600 − ₦12 = ₦588",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1434,
+    "question": "The records of wages due but not yet paid is an example of an adjustment for",
+    "option": {
+      "a": "apportionment of revenue between two periods",
+      "b": "recognizing accrued expenses",
+      "c": " recognizing unaccounted revenue",
+      "d": "recognizing prepaid expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Wages due but not yet paid at the end of the accounting period are accrued expenses. These are expenses that have been incurred but not yet settled in cash, and they must be recognized to match expenses with the correct accounting period.",
     "examtype": "utme",
     "examyear": "1997"
   },

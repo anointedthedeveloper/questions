@@ -5600,6 +5600,22 @@
     "examyear": "2005"
   },
   {
+    "id": 372,
+    "question": "The table above shows the scores of a group of students in a physics test. If the mode is m and the number of students who scored 4 or more is n, what is (n, m)?",
+    "option": {
+      "a": "(33, 4)",
+      "b": " (22, 4)",
+      "c": " (33, 12)",
+      "d": "(12, 4)"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715540411/ALOC-Questions/Mathematics/2006/JAMB_MATH_2006_Q1_pyffkb.jpg",
+    "answer": "a",
+    "solution": "The mode (m) = 4.\n\nNo of students who scored 4 and above = 12 + 10 + 6 + 4 + 1 = 33.\n\n∴ (n, m) = (33, 4)",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 373,
     "question": "A final examination requires that a student answer any 4 out of 6 questions. In how many ways can this be done?",
     "option": {
@@ -15676,6 +15692,22 @@
     "image": "",
     "answer": "c",
     "solution": "81a<sup>4</sup> - 16b<sup>4</sup> = (9a<sup>2</sup>)<sup>2</sup> - (4b<sup>2</sup>)<sup>2</sup>\n\n\n= (9a<sup>2</sup> + 4b<sup>2</sup>)(9a<sup>2</sup> - 4b<sup>2</sup>)\n\nN:B 9a<sup>2</sup> - 4b<sup>2</sup> = (3a - 2b)(3a+ 2b)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1093,
+    "question": "Find x if log<sub>9</sub>\nx = 1.5",
+    "option": {
+      "a": "27",
+      "b": "15",
+      "c": "3.5",
+      "d": "32"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If log<sub>9</sub>x = 1.5,\n\n9<sup>(1.5)</sup> = x\n\n9<sup>(3/2)</sup>= x\n\n(√9)<sup>3</sup> = 3\n\n∴ x = 27",
     "examtype": "utme",
     "examyear": "2021"
   },

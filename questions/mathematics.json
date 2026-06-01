@@ -3648,6 +3648,22 @@
     "examyear": "2003"
   },
   {
+    "id": 242,
+    "question": "A trapezium has two parallel sides of length 5cm and 9cm. If the area is 21cm2, find the distance between the parallel sides",
+    "option": {
+      "a": "3 cm",
+      "b": "4 cm",
+      "c": "6 cm",
+      "d": " 7 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Area of Trapezium = 1/2(sum of parralel sides) * ht\n21 = 1/2(5 + 9)h\n42 = 14h\nh = 42/14\nh = 3cm",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 243,
     "question": "The locus of a point P which moves on one side only of a straight line XY so that ∠XPY = 90° is",
     "option": {
@@ -13292,6 +13308,22 @@
     "image": "",
     "answer": "c",
     "solution": "Gradient of line joining points (3, 2), (1, 4)\n\nGradient = Change in Y/Change in X\n\n\n= y<sub>2</sub> −Y<sub>1</sub>/ x<sub>2</sub> −x<sub>1</sub> \n\n\n(X<sub>1</sub> , Y<sub>1</sub> ) = (3, 2)\n\n(X<sub>2</sub> , Y<sub>2</sub> ) = (1, 4)\n\nGradient = (4−2)/(1+3)\n\n\n= 2/−2\n\n\n= −1",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 909,
+    "question": "If (2√3−√2)/(√3+2√2) = m + n √ 6, find the values of m and n respectively",
+    "option": {
+      "a": "1, − 2",
+      "b": "− 2, n = 1",
+      "c": "−2/5 , 1",
+      "d": "2/3"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <msqrt>\n        <mn>3</mn>\n      </msqrt>\n      <mo>+</mo>\n      <mn>2</mn>\n      <msqrt>\n        <mn>2</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(2√3−√2)/(√3+2√2) = m + n √ 6\n\n(2√3 − √2)/(√3 + 2√2)\n x (√3 − 2√2)/(√3 − √2)\n\n\n\n[2√3(√3 − 2√2) − √2(√3 − 2√2)]/[√3(√3 − 2√2) + 2√2(√3 − 2√2)]\n\n\n(2 × 3 − 4√6 − 6 + 2 × 2)/(3−2√6 + 2√6 − 4 × )2\n\n\n= (6 − 4√6 − √6 + 4)/(3−8)\n\n\n=( 0−4√6 − 6)/5\n\n\n= (10−5√6)/5\n\n\n= − 2 + √6\n\n∴ m + n√6= − 2 + √6\n\nm = − 2, n = 1",
     "examtype": "utme",
     "examyear": "2017"
   },

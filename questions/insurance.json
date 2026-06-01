@@ -1376,6 +1376,22 @@
     "examyear": "2"
   },
   {
+    "id": 144,
+    "question": "The date on which an insurance or reinsurance contract comes into force is known as",
+    "option": {
+      "a": "Starting point date",
+      "b": "Inception date",
+      "c": "Beginning date",
+      "d": "Commencement date"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 145,
     "question": "Factor that causes an exposure to injury, loss or damage is",
     "option": {
@@ -2736,6 +2752,22 @@
     "examyear": "5"
   },
   {
+    "id": 271,
+    "question": "One of the information contained in a renewal notice is the",
+    "option": {
+      "a": "previous losses",
+      "b": "location of the risk",
+      "c": "occupation of the insured",
+      "d": "sum insured"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 274,
     "question": "A reinsurance contract in which the reassured agrees to offer and the reinsurer agrees to accept all risks of certain size within a defined class is",
     "option": {
@@ -3067,6 +3099,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 309,
+    "question": "A new Nissan car valued at N= 350,000 was used to replace a Peugeot car with a sum insured N= 250.000 in private policy. The Peugeot car enjoys a 25% no claim discount. If the rate of premium is 11% and the no claim discount is transferred to the  new vehicle, what  would be the premium for the new Nissan car?",
+    "option": {
+      "a": "N= 20,625",
+      "b": "N= 27,500",
+      "c": "N= 28,875",
+      "d": "N= 38,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

@@ -128,6 +128,22 @@
     "examyear": "2015"
   },
   {
+    "id": 533,
+    "question": "Which of the following is not a proper form of the accounting equation",
+    "option": {
+      "a": "fixed assets + current assets - liabilities = capital",
+      "b": "fixed assests + current assests + liabilities = capital",
+      "c": "ixed assets – liabilities + current assets = capital",
+      "d": "fixed asset + current asset – capital = liabilities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The simplest presentation of capital employed is total assets minus current liabilities. Sometimes, it is equal to all current equity plus interest-generating loans (non-current liabilities).",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 545,
     "question": "A sales for ₦2,570 was recorded in the sales day book as ₦2750. The error committed was",
     "option": {
@@ -172,6 +188,22 @@
     "image": "",
     "answer": "d",
     "solution": "Realization account: the cash realized from sales of asset is credited to it",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 630,
+    "question": "one of the options below is not the source of income for non- profit organization",
+    "option": {
+      "a": "Entrance fees",
+      "b": "subscription/dues",
+      "c": "odrinary shares",
+      "d": "Donations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Ordinary shares: This type of source of income is only used in profit oriented organization to generate fund the pubic so as to enable the organization make more profit at the end of a specified period",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -304,6 +336,22 @@
     "examyear": "2023"
   },
   {
+    "id": 922,
+    "question": "Goodwill can be introduced when",
+    "option": {
+      "a": "the business suffers high loss",
+      "b": "the business is being expanded",
+      "c": " the partnership experience super profit",
+      "d": "a new member is admitted"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The circumstances giving rise to the ascertainment of goodwill are:\n- admission of a new partner\n- change in profit sharing ratio\n- death or retirement of a partner\n- the business has been purchased\n- dissolution of a business",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 981,
     "question": "<b>Use the information below to answer questions 17 to 18.</b>\n\nAug. 1 Received 20 units at ₦60 each\nAug. 6 Received 20 units at ₦68 each\nAug. 10 Issued 16 units\nAug. 20 Received 40 units at ₦80 each\nAug. 31 Issued 48 units\n\nUsing the simple average method, what is the cost per unit of the closing stock?",
     "option": {
@@ -400,6 +448,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1092,
+    "question": "<b>Use the information below to answer questions 28 and 29</b>\n\n\nOn January 1,2000, a club's assets and liabilities were as follows:\nClub house...................₦8,000\nSubscription.................₦300\nCash.........................₦1,000\nWages owed...................₦100\n\nThe club has 50 members and annual subscription is ₦100 per member.\nSubscription received is ₦4,000 and this includes 1999 arrears of ₦200.\n\nThe accumulated fund is?",
+    "option": {
+      "a": "₦9,400",
+      "b": "₦9,300",
+      "c": "₦9,200",
+      "d": "₦9,100"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Calculate Total Assets\nTotal Assets = Club house + Subscription receivable + Cash\nTotal Assets = ₦8,000 + ₦300 + ₦1,000\nTotal Assets = ₦9,300\nStep 2: Calculate Total Liabilities\nTotal Liabilities = Wages owed\nTotal Liabilities = ₦100\nStep 3: Calculate Accumulated Fund\nAccumulated Fund = Total Assets - Total Liabilities\nAccumulated Fund = ₦9,300 - ₦100\nAccumulated Fund = ₦9,200",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1096,
     "question": "A rapidly growing business organization with multiple units that is interested in comparing the performances and weaknesses of each unit should adopt?",
     "option": {
@@ -414,6 +478,22 @@
     "solution": "A business with multiple units that wants to compare performance of each unit needs separate accounting records for each unit.\nDepartmental accounts allow the business to:\n\nTrack income and expenses for each unit separately\nCompare profitability between units\nIdentify which units are performing well\nSpot weaknesses in specific units\nMake better management decisions for each unit",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1150,
+    "question": "The first step in converting as single entry to a double entry system of bookkeeping is to prepare a?",
+    "option": {
+      "a": "suspense account",
+      "b": "statement of affairs",
+      "c": "realization account",
+      "d": " trial balance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In single-entry systems you don’t have a full set of books, so the first step is to prepare a statement of affairs (a makeshift balance sheet) to determine opening balances and the proprietor’s capital. From that you can make the opening double-entry journal entries to set up the ledger.",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 1169,

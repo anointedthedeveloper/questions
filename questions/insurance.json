@@ -960,6 +960,22 @@
     "examyear": "1"
   },
   {
+    "id": 64,
+    "question": "Which of these is an aid to trade?",
+    "option": {
+      "a": "cover note",
+      "b": "insurance",
+      "c": "premium",
+      "d": "policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 65,
     "question": "The following are exempted from a contract because they do not have the contractual capacity except",
     "option": {

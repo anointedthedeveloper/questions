@@ -5760,6 +5760,22 @@
     "examyear": "2020"
   },
   {
+    "id": 403,
+    "question": "The refractive index of a liquid is 1.5. If the velocity of light in vacuum is 3.0 × 10⁸ ms⁻¹, the velocity of light in the liquid is",
+    "option": {
+      "a": "1.5 × 10⁸ ms⁻¹",
+      "b": "2.0 × 10⁸ ms⁻¹",
+      "c": " 3.0 × 10⁸ ms⁻¹",
+      "d": " 4.5 × 10⁸ ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nRefractive index (n) = 1.5\nVelocity of light in vacuum (c) = 3.0 × 10⁸ m/s\nVelocity of light in liquid (v) = ?\n\nFormula for refractive index:\nn = c/v\nwhere:\n\nn = refractive index\nc = speed of light in vacuum\nv = speed of light in the medium\n\nRearranging to find v:\nv = c/n\nSubstituting values:\nv = (3.0 × 10⁸)/1.5\nv = 2.0 × 10⁸ m/s",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 404,
     "question": "A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms -1, how much closer is the ship to the cliff?",
     "option": {

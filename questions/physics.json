@@ -7536,6 +7536,22 @@
     "examyear": "2024"
   },
   {
+    "id": 579,
+    "question": "The distance between two successive crests of a water wave is 0.25m. If a particle on the surface of the water makes four complete vertical oscillations in one second. Calculate the speed of the wave.",
+    "option": {
+      "a": "4ms⁻¹",
+      "b": "3ms⁻¹",
+      "c": " 2ms⁻¹",
+      "d": " 1ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nDistance between successive crests (wavelength), λ = 0.25 m\nNumber of oscillations per second (frequency), f = 4 Hz\nWave speed, v = ?\n\nSolution:\nStep 1: Identify wave parameters\n\nWavelength: λ = 0.25 m (distance between crests)\nFrequency: f = 4 Hz (4 oscillations per second)\n\nStep 2: Apply wave equation\nv = fλ\nStep 3: Substitute the known values\nv = 4 × 0.25\nStep 4: Calculate wave speed\nv = 1 m/s",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 580,
     "question": "The thermometer whose thermometric property is change in volume with temperature is ",
     "option": {

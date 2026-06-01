@@ -960,6 +960,22 @@
     "examyear": "2004"
   },
   {
+    "id": 411,
+    "question": "What is the figure for purchases?",
+    "option": {
+      "a": "N 2,400",
+      "b": "N 2,500",
+      "c": "N 4,200",
+      "d": "N 5,200"
+    },
+    "section": "Beginning inventory [ ? ]; Purchases [? ]; Ending inventory [ N4,800 ]; Sales [ N12,800 ]; Wages [ N1,040 ]; Gross profit [N 5,900]. The beginning inventory was estimated at 80% of sales.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 412,
     "question": "Cost classification in relation to charges is determined by the level of",
     "option": {
@@ -1086,6 +1102,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 521,
+    "question": "Which method of pricing can be used satisfactorily in either rising or falling price situation?",
+    "option": {
+      "a": "Market price",
+      "b": "Average method",
+      "c": "FIFO",
+      "d": "Standard price"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An average method which accommodate all the prices and then divide (inform of mean) is well acceptable in either of the two situation.",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 527,
@@ -1404,6 +1436,22 @@
     "image": "",
     "answer": "b",
     "solution": "Calculate Cost of Goods Sold\nCost of Goods Sold = Cost of Goods Available - Closing Stock\n= ₦71,000 - ₦9,000 = ₦62,000",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 681,
+    "question": "Which of the following is not a type of branch?",
+    "option": {
+      "a": "Dependent branch",
+      "b": "foreign branch",
+      "c": "independent branch",
+      "d": "single branch"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Branches are typically classified as:\n\nDependent branches, which rely on the head office for purchases and policies\n\nIndependent branches, which operate like standalone entities with their own accounting systems\n\nForeign branches, which are located in another country and may involve additional currency and regulatory considerations\n\nThe term “single branch” isn’t used as a formal classification.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1756,6 +1804,22 @@
     "image": "",
     "answer": "b",
     "solution": "Interest on a partner’s loan is an expense to the business and is therefore charged to the Profit and Loss Account (debited), with the corresponding credit going to the partner’s current account.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 840,
+    "question": "Which of the following is a debit item in the purchase ledger control account?",
+    "option": {
+      "a": "balance b/d",
+      "b": "cheque dishonoured",
+      "c": "balance c/d",
+      "d": "purchases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In the Purchases Ledger Control Account (i.e., the Creditors Control Account), a dishonoured cheque is recorded on the debit side because it reverses (cancels) a payment that had previously been debited there, thereby increasing the outstanding liability again. ",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2300,6 +2364,22 @@
     "image": "",
     "answer": "a",
     "solution": "Workings (debit entries of the purchases ledger control account):\n\nCash paid to suppliers: ₦20,808\n\nReturns outwards (purchases returns): ₦810\n\nCash discount received: ₦1,348\n\nClosing debit balance shown in ledger: ₦108\n— Total = ₦20,808 + ₦810 + ₦1,348 + ₦108 = ₦23,074.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1085,
+    "question": "Given:\nGeneral expenses account.\nPaid by cheque..................₦671\nPaid by cash....................₦70\nAccrued b/f.....................₦65\nAccrued c/f.....................₦115\n\nDetermine how much to be charged to profit and loss account?",
+    "option": {
+      "a": "₦606",
+      "b": "₦786",
+      "c": "₦791",
+      "d": "₦856"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Amount to charge to P&L = Total paid during the year + Closing accrual − Opening accrual\n\nWhere:\n\nTotal paid during the year = Cheque payments + Cash payments\n\nClosing accrual = Expenses incurred this year but not yet paid (add them)\n\nOpening accrual = Expenses from last year paid this year (subtract them)\n\n\n\nTotal paid during the year\n\n671 + 70 = ₦741\n\nAdd closing accrual\n\n741 + 115 = ₦856\n\nSubtract opening accrual\n\n856 − 65 = ₦791\n\nFinal P&L charge = ₦791",
     "examtype": "utme",
     "examyear": "2004"
   },

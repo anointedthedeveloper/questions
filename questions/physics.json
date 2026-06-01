@@ -12672,6 +12672,22 @@
     "examyear": "2011"
   },
   {
+    "id": 956,
+    "question": "An object weighs 22 kg in water and 30kg in air. What is the upthrust exerted by the liquid on the object? [g = 10 ms⁻²]",
+    "option": {
+      "a": "50 N",
+      "b": " 520 N",
+      "c": " 220 N",
+      "d": "80 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate actual weight (in air)\nWeight in air = mg = 30 × 10 = 300 N\nStep 2: Calculate apparent weight (in water)\nApparent weight in water = 22 × 10 = 220 N\nStep 3: Calculate upthrust\nUpthrust = Weight in air - Weight in water\nUpthrust = 300 - 220\nUpthrust = 80 N",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 957,
     "question": "A metal of volume 40 cm³ is heated from 30°C to 90°C, the increase in volume is [Linear expansivity of the metal = 2.0 × 10⁻⁵ K⁻¹]",
     "option": {

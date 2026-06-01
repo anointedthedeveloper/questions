@@ -11520,6 +11520,22 @@
     "examyear": "2024"
   },
   {
+    "id": 736,
+    "question": "The pH of a 0.001 mol dm⁻³ of H₂SO₄ is [Log₁₀2 = 0.3]",
+    "option": {
+      "a": "2.7",
+      "b": "3",
+      "c": "3.3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "H₂SO₄ is a diprotic strong acid: H₂SO₄ → 2H⁺ + SO₄²⁻. [H⁺] = 2 × 0.001 = 0.002 mol/dm³. pH = −log(0.002) = −log(2 × 10⁻³) = −(log 2 + log 10⁻³) = −(0.3 − 3) = −(−2.7) = 2.7.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 737,
     "question": "Strong acids can be distinguished from weak acids by any of the following methods, EXCEPT",
     "option": {

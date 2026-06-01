@@ -1504,6 +1504,22 @@
     "examyear": "2000"
   },
   {
+    "id": 111,
+    "question": "In the diagram above, if ∠RPS = 50°, ∠RPQ = 30° and PQ = QR, find the value of ∠PRS.",
+    "option": {
+      "a": " 80°",
+      "b": "70°",
+      "c": "60°",
+      "d": "50°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710691373/ALOC-Questions/Mathematics/2000/question-40_dk16ta.jpg",
+    "answer": "b",
+    "solution": "Δ PQR is isosceles\n∴∠PRQ = 30°\nAlso in Δ PQR\n^Q = 180 -(30 + 30)\n= 120°\nPQRS is a cyclic quad\n∴^S + ^Q = 180(opp ∠s of a cyclic quad)\nS + 120 = 180\nS = 60°\nIn ΔPSR\nx + 50 + 60\n= 180(sum of ∠s of a Δ)\nx + 110 = 180\nx = 180 - 110\nx = 70°",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 112,
     "question": "In the diagram above, EFGH is a circle center O. Fh is a diameter and GE is a chord which meets FH at right angle at the point N. If NH = 8cm and EG = 24cm, calculate FH.",
     "option": {

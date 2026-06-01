@@ -288,6 +288,38 @@
     "examyear": "2013"
   },
   {
+    "id": 70,
+    "question": "Posting  the  transactions   in bookkeeping means ",
+    "option": {
+      "a": "making the first entry of a double entry transaction ",
+      "b": "entering items in a cash book ",
+      "c": "making the second  entry of a double entry transaction ",
+      "d": "something other than the above."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 77,
+    "question": "Which of the following is a fictitious asset? ",
+    "option": {
+      "a": "prepayments ",
+      "b": "preliminary expenses ",
+      "c": "investment ",
+      "d": "plant and machinery "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 78,
     "question": "  Which of the following is not part of the main uses of the journal ",
     "option": {
@@ -720,6 +752,22 @@
     "examyear": "2016"
   },
   {
+    "id": 171,
+    "question": "The gross profit on manufacture is",
+    "option": {
+      "a": "N 6,120",
+      "b": "N 6,100",
+      "c": "N 5,100",
+      "d": "N  5,000"
+    },
+    "section": "Materials consumed  16,600;\tDirect cost 5,400; Factory rent 2,300; Factory  lighting 1,200 \tCost of production to be transferred at cost plus 20% mark-up. ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 173,
     "question": "A suspense account is used to",
     "option": {
@@ -1056,6 +1104,22 @@
     "examyear": "2006"
   },
   {
+    "id": 244,
+    "question": "Which of the following is not a debit item in a creditor’s control \taccount?",
+    "option": {
+      "a": "Cash paid",
+      "b": "Returns outwards",
+      "c": "Purchases",
+      "d": "Discounts received"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 246,
     "question": "Using the reducing balance method, the depreciation charged for year 2002 was",
     "option": {
@@ -1307,6 +1371,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 281,
+    "question": "The portion of authorized capital that has been allotted to subscribers is",
+    "option": {
+      "a": "called up capital",
+      "b": "paid up capital.",
+      "c": "issued capital",
+      "d": "nominal capital."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -1616,6 +1696,22 @@
     "examyear": "2015"
   },
   {
+    "id": 333,
+    "question": "How much was paid for goodwill?",
+    "option": {
+      "a": "GHc/ 350,000",
+      "b": "GHc/ 260,000",
+      "c": "GHc/  90,000",
+      "d": "GHc/ 60,000"
+    },
+    "section": "Use the following information to answer questions: Mr. White acquired Mr. Black’s business for GHc/ 410,000. The total assets were GHc/ 670,000 and liabilities amounted to GHc/ 320,000",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 337,
     "question": "Which of the following expenses is allocated according to the floor \tarea?",
     "option": {
@@ -1739,6 +1835,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 370,
+    "question": "In a not - for - profit making organization, when the total income \tis less than the total expenditure, the difference is a",
+    "option": {
+      "a": "surplus",
+      "b": "shortfall",
+      "c": "loss",
+      "d": "deficit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -1931,6 +2043,22 @@
     "section": "Opening balance [N 10,640 ]; Purchases [N 26,912 ]; Returns inwards [N 492 ]; Returns outwards [N 810 ]; Cash discount received [N 1,348 ]; Cash discount allowed [N 1,560 ]; Cash paid to suppliers [N 20,808 ] ",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 405,
+    "question": "The balancing figure in the purchases ledger control account is",
+    "option": {
+      "a": "N 15,828",
+      "b": "N 15,720",
+      "c": "N 14,940",
+      "d": "N 14,694"
+    },
+    "section": "Opening balance [N 10,640 ]; Purchases [N 26,912 ]; Returns inwards [N 492 ]; Returns outwards [N 810 ]; Cash discount received [N 1,348 ]; Cash discount allowed [N 1,560 ]; Cash paid to suppliers [N 20,808 ] ",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -2272,6 +2400,22 @@
     "examyear": "2009"
   },
   {
+    "id": 504,
+    "question": "Which of the following is a common cause of a discrepancy between head office and branch trial balance?",
+    "option": {
+      "a": "Debtors and cash in transit",
+      "b": "Creditors and cash in transit",
+      "c": "Stock and cash in transit",
+      "d": "Stock and prepayments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 506,
     "question": "In partnership account, conversion of non-cash assets into cash \t\tis referred to as",
     "option": {
@@ -2416,6 +2560,22 @@
     "examyear": "2015"
   },
   {
+    "id": 552,
+    "question": "Use the information below to answer this question.\n\nDangote acquired Dantata’s business for ₦350,000. The total asset work were ₦820,000 and liabilities amounted to ₦ 640,000\n\nThe double entry to record the goodwill in the books is debt",
+    "option": {
+      "a": "purchase of business account and credit cash account",
+      "b": "goodwill account and credit purchase of business account",
+      "c": "cash account and credit goodwill account",
+      "d": "goodwill account and credit cash account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "when there is excess of purchase consideration over net assets, the accounting entries is to debit goodwill account as the receiving account and credit purchase of business account as the giving account.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 557,
     "question": "If a trail balance is in agreement, one of the statement is untrue",
     "option": {
@@ -2444,6 +2604,22 @@
     "image": "",
     "answer": "c",
     "solution": "Accounting ratios helps management in taking decision the totality of the activities in an organization",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 562,
+    "question": "The document setting out the regulations regarding shares, meetings and internal organization of a company is known as",
+    "option": {
+      "a": "prospectus",
+      "b": "memorandum of association",
+      "c": "company law",
+      "d": "articles of association"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "the article of association center on the rules and regulation governing the internal working of the company. It’s totally in line with the question.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3472,6 +3648,22 @@
     "examyear": "2019"
   },
   {
+    "id": 752,
+    "question": "Majority of commercial transactions are termed credit transactions, which means",
+    "option": {
+      "a": "The buyers pay immediately for goods bought",
+      "b": "Settlement is deferred to a future date",
+      "c": "No account will be opened",
+      "d": "Item of expenditure increases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In credit transactions, the transfer of ownership takes place before payment to the supplier i.e settlement is at a future safe.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 753,
     "question": "Bought motor vehicle ₦60 paying by cheque. The effect of the transaction will be",
     "option": {
@@ -4176,6 +4368,22 @@
     "examyear": "2023"
   },
   {
+    "id": 906,
+    "question": "Capital for a profit making organization is generated through",
+    "option": {
+      "a": "gift",
+      "b": "donation",
+      "c": "shares",
+      "d": "subscription"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Shares can be issued to the public for subscription. A lot of money can be raised to finance the operation of the business through the issue of new shares to members of the public.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 908,
     "question": "From the following information: Plant and Machinery is valued at ₦190,000, Motor Vehicle at ₦170,000, Stock at ₦60,000, Current Liabilities amount to ₦50,000, and Purchase consideration is ₦400,000. What is the goodwill?",
     "option": {
@@ -4332,6 +4540,38 @@
     "image": "",
     "answer": "b",
     "solution": "The purchase ledger is a subsidiary ledger that records all transactions related to purchases made from supplier on credit. Each supplier has a dedicated account in the purchase ledger.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 940,
+    "question": "An example of accounts in the nominal ledger is",
+    "option": {
+      "a": "debtors",
+      "b": "drawings",
+      "c": "creditors",
+      "d": "machineries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The nominal ledger, also sometimes called the general ledger, is the main book of accounts used in a double- entry bookkeeping system. It records all the financial transactions of a business during an accounting period. These transactions are categorized into different types of accounts.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 941,
+    "question": "Which of the following is an example of a device that can be used for input, storage, and output in a computer system?",
+    "option": {
+      "a": "Central processing unit (CPU)",
+      "b": "Keyboard",
+      "c": " USB flash drive",
+      "d": "Monitor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A USB flash drive is unique because it can function as an input device (when you read data from it), a storage device (it stores files), and an output device (when you write/save data to it).",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -4540,6 +4780,22 @@
     "image": "",
     "answer": "c",
     "solution": "When Abba offers a 5% cash discount on goods worth ₦10,000:\nCalculate the discount:\nDiscount = 5% × ₦10,000 = ₦500\nAccounting treatment:\nWhen a business gives a discount to customers, it's an expense for the business.\nRule for expenses:\n\nExpenses are always debited\n\"Discount Allowed\" is an expense account\n\nTherefore:\nThe Discount Allowed Account should be debited with ₦500",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 976,
+    "question": "Commission-on-turnover is charged on?",
+    "option": {
+      "a": "current accounts only",
+      "b": "savings accounts only",
+      "c": "fixed deposit accounts only",
+      "d": "all bank accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Commission-on-turnover (COT) is a bank charge applied to customer transactions.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -5328,6 +5584,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1155,
+    "question": "For the purpose of conversion of a partnership to a company, a total purchase consideration of ₦3.6m was paid. If 30% of the purchase consideration was in cash and the rest by 50k shares, how many shares issued?",
+    "option": {
+      "a": "₦1,080 000",
+      "b": " ₦2 160 000",
+      "c": "₦3 600 000",
+      "d": "₦5 040 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Total purchase consideration = ₦3,600,000\nCash portion (30%) = 0.30 × 3,600,000 = ₦1,080,000\nAmount paid by shares = 3,600,000 − 1,080,000 = ₦2,520,000\n\nIf each share = ₦0.50 (50kobo), number of shares issued = 2,520,000 ÷ 0.50 = 5,040,000 shares",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1157,
     "question": "<b>Use the information below to answer questions 43 and 44</b>\n\nGoods from head office................₦13,400\nReturns to head office ...............₦118\nRates and insurance paid .............₦188\nWages paid ...........................₦913\nCash remitted to head office..........₦16,625\nStock at 1/1/2000.....................₦1,875\nRents paid ...........................₦325\nStock at 31/12/2000 ..................₦1,975\nSundry expenses ......................₦200\n\nThe profit realized from the trade is?",
     "option": {
@@ -5516,6 +5788,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Total direct labour hours\nEach worker: 40 hours/week × 50 weeks/year = 2,000 hours/year\n3 workers: 2,000 × 3 = 6,000 hours/year\n\nStep 2: Overhead rate\nOverhead rate = Total factory overhead ÷ Total direct labour hours\n= ₦60,000 ÷ 6,000 hours\n= ₦10 per hour",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1190,
+    "question": "<b>Use the information below to answer questions 26 and 27</b>\n\nTotal Sales: ₦10,000 (Dept P: ₦6,000, Dept Q: ₦4,000)\nTotal Purchases: ₦4,000 (Dept P: ₦1,000, Dept Q: ₦3,000)\nTotal Discount received: ₦1,000\nTotal Discounts allowed: ₦2,000\n\n<b>Discount(allowed and received) are apportioned to the two departments on the basis of departmental sales and purchases.</b>\n\nDepartment P’s share of discount received is?",
+    "option": {
+      "a": "₦750",
+      "b": "₦1,000",
+      "c": "₦250",
+      "d": "₦500."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Discount received is apportioned based on purchases (since it's received from suppliers).\nStep 1: Calculate Department P's proportion of total purchases\nDept P purchases = ₦1,000\nTotal purchases = ₦4,000\nProportion = ₦1,000 ÷ ₦4,000 = 1/4 = 25%\nStep 2: Calculate Department P's share of discount received\nTotal discount received = ₦1,000\nDept P's share = 25% × ₦1,000 = ₦250",
     "examtype": "utme",
     "examyear": "2002"
   },

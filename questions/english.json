@@ -13851,6 +13851,25 @@
     "category": "others"
   },
   {
+    "id": 1163,
+    "question": "Do you mind......another hour or two?",
+    "option": {
+      "a": "wait",
+      "b": "waiting",
+      "c": "to wait",
+      "d": "to have waited"
+    },
+    "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+    "image": "",
+    "answer": "b",
+    "solution": "Do you mind waiting another hour or two?\n\nThe construction waiting represents the future progressive of the verb wait",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 71,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1164,
     "question": "The continuous rain has really .......the soil.",
     "option": {
@@ -15576,6 +15595,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 14,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1329,
+    "question": "Choose the one with the different stress pattern",
+    "option": {
+      "a": "commit",
+      "b": "compare",
+      "c": "complete",
+      "d": "column"
+    },
+    "section": "In the following options lettered A to D, all the words except one have the same stress pattern.",
+    "image": "",
+    "answer": "d",
+    "solution": "Option A - C has its stress on the first syllable except for Option D.",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 16,
     "hasPassage": 0,
     "category": "others"
   },

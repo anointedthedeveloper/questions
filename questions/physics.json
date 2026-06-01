@@ -224,6 +224,22 @@
     "examyear": "2009"
   },
   {
+    "id": 59,
+    "question": "Which of the following instruments has a pure tone? ",
+    "option": {
+      "a": "guitar ",
+      "b": "Vibrating String ",
+      "c": "Turning forks ",
+      "d": "Screen "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 61,
     "question": "The product PV where P is pressure and V is a volume has the same unit as ",
     "option": {
@@ -640,6 +656,22 @@
     "examyear": "2015"
   },
   {
+    "id": 162,
+    "question": "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s)",
+    "option": {
+      "a": "2sec",
+      "b": "3sec",
+      "c": "35sec",
+      "d": "2.4sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHeight (h) = 20 meters\nInitial velocity (u) = 0 m/s (ball is released, not thrown)\nAcceleration due to gravity (g) = 10 m/s²\nTime (t) = ?\n\nUsing the equation of motion:\nh = ut + ½gt²\nSince u = 0 (released from rest):\nh = ½gt²\nRearranging to find t:\nt² = 2h/g\nt = √(2h/g)\nSubstituting values:\nt = √(2 × 20/10)\nt = √(40/10)\nt = √4\nt = 2 seconds\nAnswer: A. 2 sec",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 165,
     "question": "For a best result using temperature to achieve an accurate measurement, it is best to use",
     "option": {
@@ -956,6 +988,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nFrequency (f) = 50 cycles per second = 50 Hz\nAngular speed (ω) = ?\n\n\nFormula:\nω = 2πf\nSubstituting values:\nω = 2π × 50\nω = 100π rad/s",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 266,
+    "question": "The action of blotting paper on ink is due to",
+    "option": {
+      "a": "diffusion",
+      "b": "osmosis",
+      "c": "capillarity",
+      "d": "surface tension"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nCapillarity occurs when adhesive forces (between ink and paper fibers) are stronger than cohesive forces (within the ink itself), causing the ink to climb up the tiny spaces in the paper.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -2608,6 +2656,22 @@
     "examyear": "2007"
   },
   {
+    "id": 769,
+    "question": "The production of pure spectrum could easily be achieved using a?",
+    "option": {
+      "a": "glass prism with a pin",
+      "b": " triangular prism with two convex lens",
+      "c": " traingular prism only",
+      "d": "triangular prism with two concave lenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A pure spectrum can be produced using a triangular prism-two converging lenses and a narrow slit of white light",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 785,
     "question": "from the diagram above, the inductive reactance and the resistance R are respectively",
     "option": {
@@ -2860,6 +2924,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nTime to reach maximum height, t = 4.0 s\nAcceleration due to gravity, g = 10 m s⁻²\nInitial height above ground = 2.0 m (not needed for initial velocity calculation)\n\nSolution:\n\nStep 1: Relation at maximum height\nAt maximum height, final velocity v = 0. Using first equation of motion:\nv = u – gt\n0 = u – 10 × 4\n\nStep 2: Solve for initial velocity u\nu = 40 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 854,
+    "question": "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended? [g = 10 m s⁻²]",
+    "option": {
+      "a": "11.50 kW",
+      "b": "12.60 kW",
+      "c": "12.60 kW",
+      "d": "12.10 kW"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass m = 750 kg\nHeight h = 90 m\nTime t = 1 min = 60 s\nAcceleration due to gravity g = 10 m s⁻²\n\nSolution:\n\nStep 1: Work done against gravity\nWork = m × g × h = 750 kg × 10 m s⁻² × 90 m = 675 000 J\n\nStep 2: Power expended\nPower = Work / time = 675 000 J / 60 s = 11 250 W = 11.25 kW",
     "examtype": "utme",
     "examyear": "2009"
   },

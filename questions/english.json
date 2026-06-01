@@ -7201,6 +7201,25 @@
     "category": "others"
   },
   {
+    "id": 428,
+    "question": "You don't like Mathematics, ........... you?",
+    "option": {
+      "a": "do",
+      "b": "don't",
+      "c": "cant ",
+      "d": "can "
+    },
+    "section": "choose the option  best completes the gap(s) .",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 429,
     "question": "They have had their debt written ........... by their creditors.",
     "option": {

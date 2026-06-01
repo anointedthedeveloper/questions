@@ -17696,6 +17696,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1251,
+    "question": "If log<sub>5</sub>20 = x, find x",
+    "option": {
+      "a": "1.761",
+      "b": "1.354",
+      "c": "1.861",
+      "d": "2.549"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "log<sub>5</sub>20 = x\n\n5x = 20(Take log<sub>10</sub> of both sides)\n\nlog<sub>5x</sub> = log<sub>20</sub>\n\nxlog<sub>5</sub> = log<sub>20</sub>\n\nx= [log<sub>20</sub> ÷ log<sub>20</sub>]\n\n[1.30103 ÷ 0.69897]\n\nx = 1.861",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1253,
     "question": "Given that A = {1, 5, 7}\n\nB = {3, 9, 12, 15}\n\nC = {2, 4, 6, 8}\n\nFind (A ∪ B) ∪ C",
     "option": {

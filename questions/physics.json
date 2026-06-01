@@ -13568,6 +13568,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1006,
+    "question": "An object moves in a circular path of radius 0.5m with a speed of 1ms⁻¹. What is its angular velocity?",
+    "option": {
+      "a": " 8 rads⁻¹",
+      "b": "4 rads⁻¹",
+      "c": "2 rads⁻¹",
+      "d": "1 rads⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\n\nRadius (r) = 0.5 m\nLinear speed (v) = 1 m/s\nAngular velocity (ω) = ?\n\nRelationship between linear and angular velocity:\nv = ωr\nRearranging for angular velocity:\nω = v/r\nSubstituting values:\nω = 1/0.5\nω = 2 rad/s",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1007,
     "question": "An object of mass 20kg slides down an inclined plane at an angle of 30° to the horizontal. The coefficient of static friction is? [g = 10ms⁻²]",
     "option": {

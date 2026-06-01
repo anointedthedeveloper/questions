@@ -1312,6 +1312,22 @@
     "examyear": "3"
   },
   {
+    "id": 154,
+    "question": "---------- is the evidence cover of the risk given to the insured by the insurer",
+    "option": {
+      "a": "Cover",
+      "b": "Policy",
+      "c": "Claim",
+      "d": "Compensation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 157,
     "question": "------------ is used to bring amendment in a policy that is either to add in a new thing or removal of an existing thing in the policy",
     "option": {
@@ -2535,6 +2551,22 @@
       "b": "premium",
       "c": "claim",
       "d": "dividend"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 283,
+    "question": "The amount added to the standard premium in respect of the larger than standard risk presented by the proposer is called",
+    "option": {
+      "a": "premium increase",
+      "b": "premium loading",
+      "c": "premium payment",
+      "d": "premium commission"
     },
     "section": "",
     "image": "",

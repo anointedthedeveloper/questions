@@ -1968,6 +1968,22 @@
     "examyear": "2001"
   },
   {
+    "id": 136,
+    "question": "a sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone?",
+    "option": {
+      "a": "8cm",
+      "b": "6cm",
+      "c": "9cm",
+      "d": "7cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(r/L) = (θ/360°)\nGiven θ = 300, and L = 7.2cm,\n\n=> r = (300 x 7.2)/360\nr = 6cm",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 137,
     "question": "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30°",
     "option": {
@@ -14304,6 +14320,22 @@
     "examyear": "2019"
   },
   {
+    "id": 979,
+    "question": "If a fair coin is tossed 3 times, what is the probability of getting at least two heads?",
+    "option": {
+      "a": "2/3",
+      "b": "4/5",
+      "c": "2/5",
+      "d": "1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The outcomes are {HHH, HHT, HTT, HTH, THH, THT, TTH, TTT}\n\nP(at least two heads) = 48\n= 12",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 980,
     "question": "In how many ways can the word MATHEMATICIAN be arranged?",
     "option": {
@@ -16108,6 +16140,22 @@
     "image": "",
     "answer": "a",
     "solution": "If log<sub>9</sub>x = 1.5,\n\n9<sup>(1.5)</sup> = x\n\n9<sup>(3/2)</sup>= x\n\n(√9)<sup>3</sup> = 3\n\n∴ x = 27",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1094,
+    "question": "List all integers satisfying the inequality in -2 < 2x-6 < 4 ",
+    "option": {
+      "a": "2,3,4 and 5",
+      "b": "2,3",
+      "c": "2,5",
+      "d": "3,4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "-2 < 2x - 6   AND  2x - 6 < 4\n\n-2 + 6 <2x  AND  2x < 4 + 6\n\n4 <2x  AND  2x < 10\n\n: 2 <x  AND x <5\n\n2 < x < 5 \n\nAs 3 and 4",
     "examtype": "utme",
     "examyear": "2021"
   },

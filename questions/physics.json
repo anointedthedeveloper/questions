@@ -720,6 +720,22 @@
     "examyear": "2009"
   },
   {
+    "id": 52,
+    "question": "Radio waves have the velocity of 3 x 108ms-1. If a radio station sends out a broadcast on a frequency 800kHz, what is the wavelength of the broadcast? ",
+    "option": {
+      "a": "375.0m ",
+      "b": "267.0m ",
+      "c": "240.0m ",
+      "d": "37.5m "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 53,
     "question": "The mode of heat transfer which does not require material medium is",
     "option": {
@@ -7068,6 +7084,22 @@
     "image": "",
     "answer": "b",
     "solution": "A pinhole camera operates on the principle that light travels in straight lines (rectilinear propagation). Light from each point on the object passes through the small hole in a straight line to form an inverted image on the screen opposite the pinhole.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 530,
+    "question": "A step-down transformer is used on a 2.2 kV line to deliver 110 V. How many turns are on the primary windings if the secondary has 25 turns?",
+    "option": {
+      "a": "20",
+      "b": "250",
+      "c": "200",
+      "d": "500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPrimary voltage, Vₚ = 2.2 kV = 2200 V\nSecondary voltage, Vₛ = 110 V\nSecondary turns, Nₛ = 25 turns\nPrimary turns, Nₚ = ?\n\nSolution:\nStep 1: Apply transformer equation\nFor an ideal transformer:\nVₚ/Vₛ = Nₚ/Nₛ\nStep 2: Substitute the known values\n2200/110 = Nₚ/25\n20 = Nₚ/25\nStep 3: Solve for primary turns\nNₚ = 20 × 25\nNₚ = 500 turns",
     "examtype": "utme",
     "examyear": "2023"
   },

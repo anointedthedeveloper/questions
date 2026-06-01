@@ -336,6 +336,22 @@
     "examyear": "2007"
   },
   {
+    "id": 45,
+    "question": "Moses fled from pharaoh at the age of ",
+    "option": {
+      "a": "45",
+      "b": "40",
+      "c": "85",
+      "d": "120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 47,
     "question": "Who was the priest that confronted Uzziah in the temple ",
     "option": {
@@ -2704,6 +2720,22 @@
     "examyear": "2008"
   },
   {
+    "id": 400,
+    "question": "Moses ran away from Egypt after killing an Egyptian because he felt that he might be",
+    "option": {
+      "a": "endangering other Israelites by his actions",
+      "b": "killed by the Egyptian mob",
+      "c": "imprisoned by the Egyptian security officers",
+      "d": "killed by Pharaoh of Egypt."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 401,
     "question": "How did God guide Eleazar in choosing a wife for lsaac?",
     "option": {
@@ -3040,6 +3072,22 @@
     "examyear": "2013"
   },
   {
+    "id": 439,
+    "question": "According to Paul in his letter to Philemon, forgiveness should not be by compulsion but by",
+    "option": {
+      "a": "justification",
+      "b": "faith",
+      "c": "free will",
+      "d": "His grace."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 441,
     "question": "When Christians give freely, God will supply",
     "option": {
@@ -3067,6 +3115,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 443,
+    "question": "According to Thessalonians, the second coming of the Lord will be",
+    "option": {
+      "a": "with the blowing of a trumpet",
+      "b": "after scoffers have come",
+      "c": "when the elements are dissolved",
+      "d": "like a thief in the night."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -3536,6 +3600,22 @@
     "examyear": "2015"
   },
   {
+    "id": 503,
+    "question": "In His teaching about Himself, Jesus said the hireling is not a good shepherd because he",
+    "option": {
+      "a": "leaves the sheep and flees at the sight of danger",
+      "b": "owns the sheep but does not care for them",
+      "c": "cares for the sheep but does not discipline them",
+      "d": "is the gate-keeper who shuts the sheep out"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 504,
     "question": "God displayed His supremacy when Ahab was king during \tthe",
     "option": {
@@ -3803,6 +3883,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 541,
+    "question": "The church that was commended for giving even when in extreme poverty was in",
+    "option": {
+      "a": "Galatia",
+      "b": "Corinth",
+      "c": "Macedonia",
+      "d": "Thessalonica"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2015"
@@ -5520,6 +5616,22 @@
     "examyear": "2010"
   },
   {
+    "id": 803,
+    "question": "Elijah destroyed the prophets of Baal ",
+    "option": {
+      "a": "to oppose Baal worship ",
+      "b": "as an act of revenge",
+      "c": "as an act of sacrifice.    ",
+      "d": "to shame Jezebel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 804,
     "question": "Who was the king who reintroduced the passover feast in ",
     "option": {
@@ -7115,6 +7227,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 1029,
+    "question": "Which of the following is not true about spiritual gifts as taught by Paul? ",
+    "option": {
+      "a": "Gifts should be used with all modesty ",
+      "b": "No gift can be independent of others ",
+      "c": "Gifts have nothing to do with the level of one’s faith ",
+      "d": "Specific gifts perform specific functions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"

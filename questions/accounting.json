@@ -2800,6 +2800,22 @@
     "examyear": "2009"
   },
   {
+    "id": 490,
+    "question": "Which of the following items are current assets?",
+    "option": {
+      "a": "Stock, bills receivable, cash and debtors",
+      "b": "Stock, bills payable, cash and debtors",
+      "c": "Stock, bad debt, bills receivable and cash",
+      "d": "Stock, work-in-progress, cash and bills payable."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 498,
     "question": "Determine the gross profit",
     "option": {
@@ -4592,6 +4608,22 @@
     "examyear": "2020"
   },
   {
+    "id": 781,
+    "question": "Using the information provided: total current assets ₦2,000, total fixed assets ₦4,000, current liabilities ₦1,200, drawings ₦200, and long term loan ₦2,000, calculate the capital of the business.",
+    "option": {
+      "a": "₦2,800.",
+      "b": "₦9,400",
+      "c": " ₦3,400",
+      "d": "₦6,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To calculate capital, use the accounting equation:\nAssets = Liabilities + Capital\nFirst, calculate total assets and total liabilities:\nTotal Assets = Current Assets + Fixed Assets\nTotal Assets = ₦2,000 + ₦4,000 = ₦6,000\nTotal Liabilities = Current Liabilities + Long Term Loan\nTotal Liabilities = ₦1,200 + ₦2,000 = ₦3,200\nUsing the accounting equation:\nCapital = Total Assets - Total Liabilities\nCapital = ₦6,000 - ₦3,200 = ₦2,800\nNote: Drawings represent owner's withdrawals and don't affect the capital calculation using the accounting equation method.\nTherefore, the capital of the business is ₦2,800.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 782,
     "question": "Using the information provided: total current assets ₦2,000, total fixed assets ₦4,000, current liabilities ₦1,200, drawings ₦200, and long term loan ₦2,000, What is the net working capital?",
     "option": {
@@ -6028,6 +6060,22 @@
     "image": "",
     "answer": "b",
     "solution": "Explanation: the branch store account in the head office records goods sent to the branch, returns, and stock movements — effectively showing the branch’s trading activity. It therefore serves as the branch’s trading account in the head office books.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1056,
+    "question": "A company paid cash in redemption of ₦10,000 debenture.\nThe accounting entry to record this will be to debit?",
+    "option": {
+      "a": "cash and credit debenture",
+      "b": "debenture and credit cash",
+      "c": " cash and credit capital",
+      "d": "capital and debit cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a company redeems (pays back) a debenture:\n\nThe debenture account (a liability) is reduced → Debit debenture account\n\nCash is paid out → Credit cash account\n\nDouble entry:\n\nDr Debenture ........ ₦10,000\n    Cr Cash ................ ₦10,000",
     "examtype": "utme",
     "examyear": "2005"
   },

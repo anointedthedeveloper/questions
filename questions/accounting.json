@@ -320,6 +320,22 @@
     "examyear": "2013"
   },
   {
+    "id": 69,
+    "question": "A debit balance of Nl50,000 in a cash account   shows   that   ",
+    "option": {
+      "a": "  cash  has   been overspent   by   N150,000   ",
+      "b": "  there   was N150,000 cash in hand ",
+      "c": " the total of cash received   was   less   than   N150,000   ",
+      "d": "N150,000 was the total of cash paid out. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 70,
     "question": "Posting  the  transactions   in bookkeeping means ",
     "option": {
@@ -2187,6 +2203,22 @@
     "section": " Use the following information to answer question: Branch stock account (at selling price)  D346,000 - debit Branch mark-up account D62,000 - debit",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 385,
+    "question": "Subscriptions in advance is classified in the balance sheet as",
+    "option": {
+      "a": "an asset",
+      "b": "a liability",
+      "c": "a deficit",
+      "d": "a surplus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -5644,6 +5676,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Consolidated Revenue Fund is the main government account that receives all government revenues and from which all government expenditures are made, including:\n\nSalaries of constitutional office holders (like the Chief Justice)\nRecurrent expenditures\nStatutory allocations\nGeneral government operations\n\nThe Chief Justice of the Federation, being a constitutional office holder, receives salary from this primary government fund.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1007,
+    "question": "Given that the balance as per cash book after adjustment was ₦6315, nu-presented cheques ₦1000 and the bank statement balance ₦3240. What was the balance of the nu-credited cheques?",
+    "option": {
+      "a": "₦4075",
+      "b": "₦4240",
+      "c": "₦3315",
+      "d": "₦3075"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given:\n  Cash book (after adjustments) = ₦6,315\n  Bank statement balance         = ₦3,240\n  Un-presented cheques           = ₦1,000\n  Let un-credited cheques = x\n\nBank reconciliation formula:\n  Bank statement + x − Un-presented cheques = Cash book\n\nSubstitute values:\n  ₦3,240 + x − ₦1,000 = ₦6,315\n\nSolve for x:\n  ₦3,240 − ₦1,000 = ₦2,240\n  ₦6,315 − ₦2,240 = ₦4,075\n\nTherefore:\n  Un-credited cheques (x) = ₦4,075\n",
     "examtype": "utme",
     "examyear": "2008"
   },

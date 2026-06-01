@@ -400,6 +400,22 @@
     "examyear": "2011"
   },
   {
+    "id": 35,
+    "question": "A credit balance of N350,000 in a cash account shows that  ",
+    "option": {
+      "a": "N350.000 was the total cash received  ",
+      "b": "N350,000 was the total cash paid out  ",
+      "c": "Cash at hand equals N350,000 ",
+      "d": "N350,000 was the cash overspent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 36,
     "question": "Which   accounting  concept  states; that revenues and expenses are recognized as they are earned or incurred and not when  money is received?",
     "option": {
@@ -1840,6 +1856,22 @@
     "examyear": "2016"
   },
   {
+    "id": 142,
+    "question": "A proprietor started business with N13, 000.  Assets and liabilities at the end of the year; fixed assets N8, 800, stock N2, 600, debtors  N1 , 000, cash N3, 000 and creditors N1 , 000. Determine the profit for the year?",
+    "option": {
+      "a": "N2, 400",
+      "b": "N3, 000",
+      "c": "N9, 800",
+      "d": "N 1 , 400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 143,
     "question": "Badge Plc issued 450, 000 ordinary shares, of 50K each at N1 .50 per share. Application and allotment 45k, 1st call 50k, 2nd call 55k. Determine the amount received on final call.",
     "option": {
@@ -2039,6 +2071,22 @@
       "b": "N400",
       "c": "N660",
       "d": "N200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 159,
+    "question": "When stock is withdrawn, for personal use, the accounting entries is to debit",
+    "option": {
+      "a": "stock account, credit drawings",
+      "b": "drawing account credit stock account",
+      "c": "personal account credit cash account",
+      "d": "cash account, credit personal account."
     },
     "section": "",
     "image": "",
@@ -2699,6 +2747,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 208,
+    "question": "The purchase consideration was",
+    "option": {
+      "a": "N  24,000",
+      "b": "N 23,000",
+      "c": "N  20,000",
+      "d": "N 15,000"
+    },
+    "section": "A business whose assets consisted of stock  N 15,000 and debtors   N  8,000 was bought by issuing 20,000 ordinary shares of   N  1 each at a premium of  20 percent.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -3408,6 +3472,22 @@
     "examyear": "2006"
   },
   {
+    "id": 257,
+    "question": "Which of the following is not classified as an overhead?",
+    "option": {
+      "a": "Factory rates",
+      "b": "Factory power",
+      "c": "Factory building extension",
+      "d": "Factory depreciation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 258,
     "question": "The objective of accounting information is to enable users to",
     "option": {
@@ -3872,6 +3952,22 @@
     "examyear": "2012"
   },
   {
+    "id": 295,
+    "question": "An underwriter for a company’s share is paid",
+    "option": {
+      "a": "Interest.",
+      "b": "commission.",
+      "c": "dividend.",
+      "d": "salary."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 296,
     "question": "Which of the following is found in a Memorandum of \tAssociation?",
     "option": {
@@ -4087,6 +4183,22 @@
       "b": "Salaries account",
       "c": "Creditors account",
       "d": "Trading account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 310,
+    "question": "The accounting ledger for goods sold on credit are debit",
+    "option": {
+      "a": "Debtors Account, credit Sales Account",
+      "b": "Creditors Account, credit Sales Account",
+      "c": "Sales Account, credit Debtors Account",
+      "d": "Sales Account, credit Creditors Account"
     },
     "section": "",
     "image": "",
@@ -4347,6 +4459,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 328,
+    "question": "The accounting concept that assumes that a business will continue operating for an indefinite period is",
+    "option": {
+      "a": "business entity",
+      "b": "going concern",
+      "c": "consistency",
+      "d": "duality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -5344,6 +5472,22 @@
     "examyear": "2004"
   },
   {
+    "id": 403,
+    "question": "Where closing stock is undervalued, the effect is",
+    "option": {
+      "a": "an increase in gross profit",
+      "b": "a decrease in gross profit",
+      "c": "an increase in purchases",
+      "d": "a decrease in purchases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 404,
     "question": "At the year end, the purchases ledger showed a debit balance of N 108. The total on the debit side of the purchases ledger control account will be",
     "option": {
@@ -5888,6 +6032,22 @@
     "examyear": "2007"
   },
   {
+    "id": 441,
+    "question": "Expenses paid during the conversion of a partnership to a \tcompany are",
+    "option": {
+      "a": "debited to the partners’ capital account",
+      "b": "debited to the realization account",
+      "c": "debited to the cash account.",
+      "d": "credited to the realization account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 442,
     "question": "In the trading and profit and loss account of a manufacturing organization, purchases is",
     "option": {
@@ -6043,6 +6203,22 @@
     "section": "Lighting [N2, 925]; Rent [ N2, 640]; Salary [N4, 050] The expenses are for three different products: Zema, Zeta and Zera. They are apportioned on the basis of production. 4500 units of the products are produced, out of which 1260 and 2060 units are for Zema and Zeta respectively.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 453,
+    "question": "The gross profit disclosed in the branch stock adjustment account represents",
+    "option": {
+      "a": "head office profit",
+      "b": "unrealized profit",
+      "c": "estimated profit",
+      "d": "branch profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -6375,6 +6551,22 @@
       "b": "materiality",
       "c": "objectivity",
       "d": "periodicity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 479,
+    "question": "Musa, a prepaid customer of XYZ and KLM, bought  N1500 recharge card from XYZ and  N2000 recharge card from KLM for business calls. The entry to record these transaction is debit",
+    "option": {
+      "a": "telephone  N 3,500, credit XYZ and KLM  N 3,500",
+      "b": "telephone N 3,500. credit cash  N 3,500",
+      "c": "sundries N 3,500, credit KLM  N 3,500",
+      "d": "sundries  N 3.500, credit telephone  N3,500"
     },
     "section": "",
     "image": "",
@@ -7488,6 +7680,22 @@
     "examyear": "2016"
   },
   {
+    "id": 570,
+    "question": "The ratio that gives the indication of the efficiency of a firm's sales with respect to cost of goods sold is a",
+    "option": {
+      "a": " return on capital employed",
+      "b": " gross profit margin",
+      "c": "net profit margin",
+      "d": "return on equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Return on capital employed or ROCE is a profitability ratio that measures how efficiently a company can generate profits from its capital employed by comparing net operating profit to capital employed.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 571,
     "question": "The instrument used in analysis and interpretation of financial statement is the",
     "option": {
@@ -8332,6 +8540,22 @@
     "image": "",
     "answer": "b",
     "solution": "Current Liability: salaries in arrears fall into the category of them under the current liability because it is benefit due to outsiders but still enjoying by the organisation and can't exceed a year",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 633,
+    "question": "A business acquisition shows the following assets and liabilities: Plant and Machinery ₦190,000, Motor Vehicle ₦170,000, Stock ₦60,000, Current Liabilities ₦50,000, Purchase consideration ₦400,000. Determine the amount of goodwill.",
+    "option": {
+      "a": "₦110 000",
+      "b": " ₦80 000",
+      "c": " ₦90 000",
+      "d": " ₦30 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Net assets acquired = (₦190,000 + ₦170,000 + ₦60,000) – ₦50,000 = ₦420,000 – ₦50,000 = ₦370,000\nGoodwill = Purchase consideration – Net assets = ₦400,000 – ₦370,000 = ₦30,000.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -9264,6 +9488,22 @@
     "examyear": "2018"
   },
   {
+    "id": 700,
+    "question": "A partnership’s internal regulation are set out by________",
+    "option": {
+      "a": " A constitution",
+      "b": "A law",
+      "c": "A deed",
+      "d": ". An article"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A partnership deed is a written agreement among the partners specifying rules and regulations and is signed by all the partners and stamped as per stamp act with an aim to prevent possible disputes and disagreements among the partners at future dates",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 701,
     "question": "Sule and Ahmed are in partnership sharing profit and losses equally. If Khadija is admitted as a new partner to take 1/5 th as her share. What is the new profit or loss sharing?",
     "option": {
@@ -10174,6 +10414,22 @@
     "solution": "According to section 24 of the partnership Act 1890. If no specific agreement is made by the partners, the following takes place:\n1. No partners may introduce a new person without the consent of all other partners 2.5% interest a year on loans made by partner e.t.c",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 765,
+    "question": "Under which of the following conditions is a partnership dissolved?",
+    "option": {
+      "a": " change of the partnership's head office",
+      "b": " purchase of a large quantity of fixed assets",
+      "c": " admission of a new partner",
+      "d": "retirement of a manager who is not a partner"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Legally, the admission of a new partner brings about the dissolution of the existing partnership and the formation of a new one (even though the business may continue uninterrupted). None of the other events (moving the head office, buying fixed assets, or a manager’s retirement when they aren’t a partner) automatically dissolve the partnership.",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 766,
@@ -12784,6 +13040,22 @@
     "examyear": "2024"
   },
   {
+    "id": 957,
+    "question": "Which of the following is a written acknowledgement of a loan to a company?",
+    "option": {
+      "a": "debt",
+      "b": " retained profit",
+      "c": "reserve",
+      "d": "debenture"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A debenture is a formal, written acknowledgment of a company’s debt—essentially a loan certificate.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 958,
     "question": "A method that is beneficial for tax purposes in inflationary times is? ",
     "option": {
@@ -12796,6 +13068,22 @@
     "image": "",
     "answer": "a",
     "solution": "This method assumes the last items purchased are the first ones sold. It can result in a higher COGS during periods of inflation, potentially leading to lower reported profits. LIFO can be beneficial for tax purposes in inflationary times.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 959,
+    "question": "Which of the following is a subsidiary book as well as a ledger?",
+    "option": {
+      "a": "purchases day book",
+      "b": " returns outward book",
+      "c": " general journal",
+      "d": " cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The cash book is unique because it eliminates the need for a separate cash account in the ledger, as it functions as both the book of original entry for cash transactions and as the actual cash ledger account itself.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -13632,6 +13920,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1022,
+    "question": "Yahya,s bank account shows a credit balance of ₦1500,000. He paid ₦1700,000 into the bank.\nWhat is his expected balance?",
+    "option": {
+      "a": "Credit balance of ₦ 200,000",
+      "b": "Debit balance of ₦ 200,000",
+      "c": "credit balance of ₦ 3 200,000",
+      "d": "Debit balance of ₦3 200,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Opening balance = Credit ₦1,500,000 (means the bank owes Yahya this amount — positive balance)\n\nHe paid in (deposited) = ₦1,700,000\n\nExpected balance = ₦1,500,000 + ₦1,700,000 = ₦3,200,000 (still a credit balance)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1023,
     "question": "five hundred naria monthly is allowed on an imprest system. The following transactions took place.\n\nPeriod1:\nCash advanced to petty cashier......₦500\nPetty cashier paid out: stamp.......₦200\n₦ewspaper...........................₦250\n\nPeriod 2:\nCash to petty cashier...............₦450\nCashier paid for writing materials..₦350\n\nHow much should the petty cashier receive after period 2?",
     "option": {
@@ -14192,6 +14496,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1062,
+    "question": "Calculate the closing stock under FIFO method",
+    "option": {
+      "a": "₦875",
+      "b": "₦675",
+      "c": "₦600",
+      "d": "₦300"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661640/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q46_epm0o4.jpg",
+    "answer": "b",
+    "solution": "Using FIFO (First-In, First-Out) Method:\nMarch Issue (80 units):\nIssue from oldest stock (Jan receipt):\n\n80 units from Jan @ ₦2.00\nRemaining after March: Jan = 100 - 80 = 20 units @ ₦2.00\n\nStock after March:\n\nJan: 20 units @ ₦2.00\nFeb: 110 units @ ₦2.50\n\nApril Receipt:\n\nReceived 200 units @ ₦3.00\n\nStock after April:\n\nJan: 20 units @ ₦2.00\nFeb: 110 units @ ₦2.50\nApril: 200 units @ ₦3.00\n\nMay Issue (100 units):\nIssue from oldest stock first:\n\n20 units from Jan @ ₦2.00\n80 units from Feb @ ₦2.50\nTotal issued = 100 units\n\nClosing Stock:\n\nFeb: 110 - 80 = 30 units @ ₦2.50 = ₦75\nApril: 200 units @ ₦3.00 = ₦600\n\nTotal Closing Stock Value = ₦75 + ₦600 = ₦675",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1063,
     "question": "The current ratio is",
     "option": {
@@ -14332,6 +14652,22 @@
     "image": "",
     "answer": "d",
     "solution": "The drawer writes the cheque, the drawee is the bank, and the payee is the person or entity whose name appears on the cheque — i.e., the recipient.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1073,
+    "question": "The imprest account is subsidiary to the?",
+    "option": {
+      "a": " ledger account",
+      "b": "bank account",
+      "c": "cash book",
+      "d": "bank column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The imprest (petty cash) account records small day-to-day payments and is controlled by the main cash book (or bank book) — the cash book is the controlling account and the imprest/petty cash is a subsidiary petty-cash ledger that gets replenished from the cash book.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -14844,6 +15180,38 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662647/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q45-46_utzntz.png",
     "answer": "c",
     "solution": "Calculate Owner's Equity:\nOwner's Equity = Share Capital + Reserves\nOwner's Equity = Issued shares + Capital reserves + Revenue reserves\nOwner's Equity = ₦500,000 + ₦250,000 + ₦207,000\nOwner's Equity = ₦957,000",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1111,
+    "question": "Share premium is an example of?",
+    "option": {
+      "a": "revenue reserve",
+      "b": "capital reserve",
+      "c": "general reserve",
+      "d": "loan capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation: Share premium arises from issuing shares above their nominal value and is treated as a capital reserve, not available for distribution as dividend like revenue/general reserves.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1112,
+    "question": "According to the provisions of the 1999 Constitution, all revenues generated by the Federal Government must be paid into the?",
+    "option": {
+      "a": "Consolidated Revenue Fund",
+      "b": "Federation Account",
+      "c": "Revenue Mobilization Allocation and Fiscal Commission's Account",
+      "d": "Equalization Fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Section 80 of the 1999 Constitution requires that all revenues or other moneys raised or received by the Federation shall be paid into and form one Consolidated Revenue Fund of the Federation",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -15648,6 +16016,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1174,
+    "question": "<b>Use the information below to answer questions 9 and 10</b>\n\nThe Assets and liabilities of Udo Co.ltd. as at 31st December, 2000.\n\nCreditors ₦50,000\n\nDebtors ₦46,000\n\nLoan ₦100,000\n\nStock ₦20,000\n\nMotor vehicle ₦120,000\n\nBuilding ₦70,000\n\nAccrued wages 30,000\n\nBank ₦25 ,000\n\nThe liabilities of Udo Co. Ltd is?",
+    "option": {
+      "a": "₦180,000",
+      "b": "₦181,000",
+      "c": "₦177,000",
+      "d": "₦110,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Calculation: Creditors ₦50,000 + Loan ₦100,000 + Accrued wages ₦30,000 = ₦180,000.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1175,
     "question": "The normal accounting entry to record the dishonor of a businessman is to?",
     "option": {
@@ -16140,6 +16524,22 @@
     "image": "",
     "answer": "a",
     "solution": "Step 1: Calculate all interest and salaries first\n\nTotal interest on capital: ₦600 (₦250 + ₦200 + ₦150)\nTotal salaries: ₦600 (₦300 + ₦300 + ₦0)\nTotal deductions: ₦1,200\n\nStep 2: Find remaining profit to distribute\n₦2,250 - ₦1,200 = ₦1,050\nStep 3: Distribute remaining profit in 3:2:1 ratio\nKaka's share = (1/6) × ₦1,050 = ₦175\nStep 4: Calculate Kaka's current account balance\n\nOpening balance: ₦175\nAdd: Interest on capital: ₦150\nAdd: Share of remaining profit: ₦175\nLess: Drawings: ₦250\nFinal balance: ₦175 + ₦150 + ₦175 - ₦250 = ₦250",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1213,
+    "question": "Upon the dissolution of a partnership, the Partnership Act provides that the amount realized should be?",
+    "option": {
+      "a": "used to pay all taxes due to government",
+      "b": " used to start a new partnership business by members who are willing",
+      "c": "shared equally by the existing partners",
+      "d": "used in paying the debts and liabilities of the firm to persons who are not partners"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: Under the Partnership Act, upon dissolution, assets are first used to pay debts to outside creditors (non-partners) before settling partners’ loans and capital, and finally distributing any surplus to partners.",
     "examtype": "utme",
     "examyear": "2002"
   },

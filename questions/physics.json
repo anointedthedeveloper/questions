@@ -1360,6 +1360,22 @@
     "examyear": "2010"
   },
   {
+    "id": 91,
+    "question": "In the force of gravity on an object of mass m, the gravitational field strength, g, is given by the following equation. ",
+    "option": {
+      "a": "g = √MF ",
+      "b": "g = MF ",
+      "c": "g = M√F ",
+      "d": "g = F/M."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 92,
     "question": " A body of mass m slides down an inclined plane with a constant velocity. If the angle of the incline is Ø, the coefficient of kinetic friction between the body and the plane is  ",
     "option": {
@@ -8348,6 +8364,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765615477/ALOC-Questions/Physics/2024/Physics_2024_Q13_p2yj5a.png",
     "answer": "b",
     "solution": "Given information:\n\nMaximum current through galvanometer, I = 20 mA = 0.020 A\nInternal resistance of galvanometer, r = 10 Ω\nMaximum voltage to be measured, V = 40 V\nMultiplier resistance, R = ?\n\nSolution:\nStep 1: Understand the circuit\nThe multiplier resistance R is connected in series with the galvanometer to extend its voltage range. The same current flows through both R and the galvanometer.\nStep 2: Apply voltage division\nTotal voltage = Voltage across R + Voltage across galvanometer\nV = IR + Ir\nStep 3: Substitute the known values\n40 = 0.020 × R + 0.020 × 10\n40 = 0.020R + 0.2\nStep 4: Solve for R\n40 - 0.2 = 0.020R\n39.8 = 0.020R\nR = 39.8/0.020\nR = 1990 Ω",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 564,
+    "question": "\nIf the S.V.P of water vapour was 13.5mmHg at 33ºC and 7.3mmHg at 7ºC. Find the percentage relative humidity of the air on a day when average air temperature was 33ºC and dew point was 7ºC.",
+    "option": {
+      "a": "55%",
+      "b": "60%",
+      "c": "54%",
+      "d": "51%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nSaturated Vapour Pressure (S.V.P) at 33ºC = 13.5 mmHg\nSaturated Vapour Pressure (S.V.P) at 7ºC = 7.3 mmHg\nAir temperature = 33ºC\nDew point = 7ºC\nRelative humidity = ?\n\nSolution:\nStep 1: Understand relative humidity\nRelative humidity (R.H) is the ratio of actual vapour pressure to saturated vapour pressure at the same temperature, expressed as a percentage.\nR.H = (Actual vapour pressure / S.V.P at air temperature) × 100%\nStep 2: Identify actual vapour pressure\nThe dew point (7ºC) is the temperature at which the air becomes saturated with water vapour. This means the actual vapour pressure in the air equals the S.V.P at the dew point temperature.\nActual vapour pressure = S.V.P at dew point = 7.3 mmHg\nStep 3: Calculate relative humidity\nR.H = (Actual vapour pressure / S.V.P at air temperature) × 100%\nR.H = (7.3 / 13.5) × 100%\nR.H = 0.5407 × 100%\nR.H = 54.07%\nR.H ≈ 54%",
     "examtype": "utme",
     "examyear": "2024"
   },

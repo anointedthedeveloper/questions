@@ -9152,6 +9152,22 @@
     "examyear": "2004"
   },
   {
+    "id": 624,
+    "question": "I. Jet propelled aircraft\nII. Rocket propulsion\nIII. The recoil of a gun\nIV. A person walking\nWhich of the above is based on Newton's third law of motion",
+    "option": {
+      "a": "I and II only",
+      "b": "I, II, III, and IV only",
+      "c": " I and III only",
+      "d": " I, II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Newton's third law: For every action, there is an equal and opposite reaction\n\n\nAll four examples (I, II, III, and IV) are based on Newton's third law of motion.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 626,
     "question": "A 100kg box is pushed along a road with force of 500N. If the box moves with a uniform velocity, the coefficient of friction between the box and the road is",
     "option": {
@@ -10636,6 +10652,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nHalf-life, T₁/₂ = 4 days\nTime elapsed, t = 16 days\nFraction decayed = ?\n\nSolution:\nStep 1: Calculate number of half-lives\nNumber of half-lives, n = t/T₁/₂\nn = 16/4 = 4 half-lives\nStep 2: Calculate fraction remaining\nAfter each half-life, half of the substance remains.\nFraction remaining = (1/2)ⁿ\nFraction remaining = (1/2)⁴\nFraction remaining = 1/16\nStep 3: Calculate fraction decayed\nFraction decayed = 1 - Fraction remaining\nFraction decayed = 1 - 1/16\nFraction decayed = 15/16",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 729,
+    "question": "The theory of electronic conduction in solids, which satisfactorily explains the properties of conductors, insulators and semi-conductor, is?",
+    "option": {
+      "a": "string theory",
+      "b": "particle theory",
+      "c": " group theory",
+      "d": "band theory"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nBand Theory: This theory describes the energy levels of electrons in solids as bands. It explains how the bands (valence and conduction bands) determine the electrical properties of materials.",
     "examtype": "utme",
     "examyear": "2006"
   },

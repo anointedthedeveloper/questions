@@ -9344,6 +9344,22 @@
     "examyear": "2005"
   },
   {
+    "id": 686,
+    "question": "In the figure above, the work done by the force of 100N inclined at an angle of 60° to the object dragged horizontally to a distance of 8m is",
+    "option": {
+      "a": "800J",
+      "b": "600J",
+      "c": "100J",
+      "d": "400J"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296737/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_37_jm6nny.png",
+    "answer": "d",
+    "solution": "Given information:\n\nApplied force, F = 100 N\nAngle with horizontal, θ = 60°\nHorizontal displacement, d = 8 m\n\nSolution:\nStep 1: Formula for work done\nWork done: W = F × d × cos θ\nWhere:\n\nF = applied force\nd = displacement\nθ = angle between force and displacement\n\nStep 2: Identify horizontal component of force\nSince the object moves horizontally, only the horizontal component of the force does work:\nHorizontal component = F cos θ = 100 cos 60°\nStep 3: Calculate cos 60°\ncos 60° = 0.5\nStep 4: Calculate work done\nW = F × d × cos θ\nW = 100 × 8 × cos 60°\nW = 100 × 8 × 0.5\nW = 800 × 0.5\nW = 400 J",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 687,
     "question": "\nIn the circuit diagram of a transistor above, the terminal P, Q and R represent",
     "option": {
@@ -13548,6 +13564,22 @@
     "image": "",
     "answer": "c",
     "solution": "The fuse in an electric device is always connected to the live side of an electric supply to ensure that when the fuse blows due to overcurrent, the dangerous high-voltage supply is completely disconnected from the appliance, making it safe.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1033,
+    "question": "A particle carrying a charge of 1.0 × 10⁻⁸ C enters a magnetic field at 3.0 × 10⁻² ms⁻¹ at right angles to the field. If the force on this particle is 1.8 × 10⁻⁸ N, what is the magnitude of the field?",
+    "option": {
+      "a": " 6.0 × 10⁻¹ T",
+      "b": "6.0 × 10¹ T",
+      "c": " 6.0 × 10⁻³ T",
+      "d": "6.0 × 10⁻⁴ T"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nCharge (q) = 1.0 × 10⁻⁸ C\nVelocity (v) = 3.0 × 10⁻² m/s\nAngle (θ) = 90° (right angles to field)\nForce (F) = 1.8 × 10⁻⁸ N\nMagnetic field strength (B) = ?\n\nFormula for magnetic force on a moving charge:\nF = qvB sin θ\nSince θ = 90°, sin 90° = 1:\nF = qvB\nRearranging for B:\nB = F/(qv)\nSubstituting values:\nB = (1.8 × 10⁻⁸)/(1.0 × 10⁻⁸ × 3.0 × 10⁻²)\nB = (1.8 × 10⁻⁸)/(3.0 × 10⁻¹⁰)\nB = 1.8/3.0 × 10⁻⁸⁺¹⁰\nB = 0.6 × 10²\nB = 6.0 × 10¹ T\nB = 60 T",
     "examtype": "utme",
     "examyear": "2012"
   },

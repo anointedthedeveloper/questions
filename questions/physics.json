@@ -288,6 +288,22 @@
     "examyear": "2007"
   },
   {
+    "id": 44,
+    "question": "If two masses 40g and 60g respectively, are attached firmly to end of a light metre rule, what is the centre of gravity of the system? ",
+    "option": {
+      "a": "at the mid point of the metre rule ",
+      "b": "40cm from the lighter mass ",
+      "c": "40cm from the heavier masses ",
+      "d": "60cm from the heavier masses "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 45,
     "question": "To find the dept of the sea, a ship send out a second waves and an echo after one second. If the velocity of sound in water is 1500m/s, what is the depth of the sea ",
     "option": {
@@ -1328,6 +1344,22 @@
     "examyear": "2015"
   },
   {
+    "id": 175,
+    "question": "Neutron were discovered by",
+    "option": {
+      "a": "J.J. Thompson",
+      "b": " James Chadwick",
+      "c": " Michael faraday",
+      "d": "Dalton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Neutron were discovered by James Chadwick in 1931",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 178,
     "question": "For a best result using temperature to achieve an accurate measurement, it is best to use",
     "option": {
@@ -1550,6 +1582,22 @@
     "solution": "For hydrogen atom energy levels:\nThe energy at level n is given by:\nE_n = -13.6/n² eV\nEnergy at ground level (n=1):\nE₁ = -13.6/1² = -13.6 eV\nEnergy at third level (n=3):\nE₃ = -13.6/3² = -13.6/9 = -1.51 eV\nSince energy levels are negative (bound states), the magnitude is:\n|E₃| = 1.51 eV",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 230,
+    "question": "Which is the incorrect formula for a body accelerating uniformly?",
+    "option": {
+      "a": "a = (v² − u²)/2",
+      "b": "v² = u² + 2as",
+      "c": "s = ut + ½at²",
+      "d": "v² − u² = 2as"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Standard equations of motion for uniform acceleration:\n\nv = u + at\ns = ut + ½at²\nv² = u² + 2as\n\nAnalyzing each option:\nOption A: a = (v² − u²)/2\n\nThis is INCORRECT ✗\nThe correct formula derived from v² = u² + 2as is:\nv² − u² = 2as\nTherefore: a = (v² − u²)/(2s) [NOT divided by 2 alone]\n\nOption B: v² = u² + 2as\n\nThis is CORRECT ✓\nStandard equation of motion\n\nOption C: s = ut + ½at²\n\nThis is CORRECT ✓\nStandard equation of motion\n\nOption D: v² − u² = 2as\n\nThis is CORRECT ✓\nRearranged form of equation 3\n\nAnswer: A. a = (v² − u²)/2\nThis is the incorrect formula. The correct formula should be a = (v² − u²)/(2s), which includes the displacement 's' in the denominator.",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 231,
@@ -4640,6 +4688,22 @@
     "examyear": "2006"
   },
   {
+    "id": 720,
+    "question": "If the radius of the Earth is 6.4 × 10⁶ m, the escape velocity of a satellite from the Earth is?\n[g = 10 m s⁻²]",
+    "option": {
+      "a": "1.13 × 10⁴ m s⁻¹",
+      "b": "9.00 × 10³ m s⁻¹",
+      "c": "8.00 × 10³ m s⁻¹",
+      "d": "1.27 × 10⁴ m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nEarth’s radius, R = 6.4 × 10⁶ m\nAcceleration due to gravity at Earth’s surface, g = 10 m s⁻²\n\nSolution:\n\nStep 1: Formula for escape velocity\nEscape velocity, v_esc = √(2gR)\n\nStep 2: Substitute values\n2gR = 2 × 10 m s⁻² × 6.4 × 10⁶ m = 1.28 × 10⁸ m² s⁻²\n\nStep 3: Take square root\nv_esc = √(1.28 × 10⁸) = √1.28 × 10⁴\n√1.28 ≈ 1.13137, so\nv_esc ≈ 1.13137 × 10⁴ m s⁻¹ ≈ 1.13 × 10⁴ m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 721,
     "question": "The component of vector X along the direction of vector Y is zero when",
     "option": {
@@ -4844,6 +4908,22 @@
     "image": "",
     "answer": "c",
     "solution": "Increase in pressure generally raises the boiling point but but lowers the melting point. II and III",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 768,
+    "question": "When an object is placed between the principal focus and the optical center of a convex lens, it could be used as a?",
+    "option": {
+      "a": "Simple microscope",
+      "b": "refecting lens",
+      "c": "compound microscope",
+      "d": "projector"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Simple microscope: A single convex lens used to magnify small objects. It allows the viewer to see details that are not visible to the naked eye.",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -6156,6 +6236,22 @@
     "image": "",
     "answer": "b",
     "solution": "Under high potential difference and low pressure gases are good conductor of electricity",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 986,
+    "question": "The electrical properties of germanium can be altered drastically by the addition of impurity. This process is referred to as",
+    "option": {
+      "a": "saturation",
+      "b": "bonding",
+      "c": "amplification",
+      "d": "dopping"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The process of adding impurities to drastically alter the electrical properties of germanium (or other semiconductors) is called doping. This is fundamental to semiconductor technology and the basis of modern electronics.",
     "examtype": "utme",
     "examyear": "2011"
   },

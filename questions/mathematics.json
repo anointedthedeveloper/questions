@@ -768,6 +768,22 @@
     "examyear": "2001"
   },
   {
+    "id": 153,
+    "question": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p.",
+    "option": {
+      "a": " square of sides p",
+      "b": "square of sides 2p",
+      "c": "square of sides (p/2)",
+      "d": " square of sides (p/4)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let the rectangle be a square of sides p/4.\n\nSo that perimeter of square = 4p\n4 x (p/4) = p.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 154,
     "question": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. Find the square of the mode.",
     "option": {
@@ -944,6 +960,22 @@
     "examyear": "2002"
   },
   {
+    "id": 185,
+    "question": "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men",
+    "option": {
+      "a": "15 days",
+      "b": "12 days",
+      "c": "5 days",
+      "d": " 9 days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "T~1/M.\n\nT=k/M.\n\nK=TM.\n\nM=45; T=5.\n\nK=45 x 5.= 225=k.\n\nWhen M= 25. T=?\n\n225/25= T = 9. Ans.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 186,
     "question": "Find the range of values of x for which (x+2)/4−2x−3/3 < 4",
     "option": {
@@ -988,6 +1020,22 @@
     "image": "",
     "answer": "a",
     "solution": "Let y = f(x).\n\nY = 3x + 4 ⟹ x = y−4/3\nReplace y with x.\n\nY = x−4/3",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 192,
+    "question": "The binary operation * is defined on the set of integers p and q by p*q = pq + p + q. Find 2 * (3 * 4).",
+    "option": {
+      "a": "59",
+      "b": "19",
+      "c": "67",
+      "d": "38"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "p ∗ q =pq + p + q\n \n2 ∗ ( 3 ∗ 4 )\n3 ∗ 4 = 12 + 3 + 4 = 19\n2 ∗ 19 = 38 + 2 + 19 = 59 ",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -1388,6 +1436,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699712/ALOC-Questions/Mathematics/2003/math_2003_q43_vwszv6.jpg",
     "answer": "a",
     "solution": "R = P (base ∠s of isc Δ, ps = RS)\n∴R = 40o\n∠PSQ = R (∠s in alternate segment)\n∴∠PSQ = 40°",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 265,
+    "question": "Find the number of committees of three that can be formed \nconsisting of two men and one woman from four men \nand three women.",
+    "option": {
+      "a": "24",
+      "b": "18",
+      "c": "3",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -4848,6 +4912,22 @@
     "examyear": "2017"
   },
   {
+    "id": 889,
+    "question": "A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was?",
+    "option": {
+      "a": "three times as much",
+      "b": "the same",
+      "c": "twice as much",
+      "d": "half as much"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let the speed of the 1st trip be x miles/hr\n\nand the speed of the 2nd trip be 3x miles/hr\n\nSpeed = distance/time\n\n∴ Time taken to cover a distance of 50 miles on the 1st trip\n\n= 50/xhr\n\ntime taken to cover a distance of 300 miles on the next trip\n\n= 300/3xhr\n\n= 100/xhr\n\n∴the new time compared with the old time is twice as much",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 890,
     "question": "In the figure, find x",
     "option": {
@@ -5852,6 +5932,22 @@
     "image": "",
     "answer": "b",
     "solution": "Equation through (5,7) parallel to the line \n\n7x + 5y = 12\n\n5y = 7x + 12 \n\ny = −7x/5 + 12/5\nGradient = −7/5\n \nRequired equation = (y−7)/(x − 5) = −7/5\ni.e. 5y - 35 = -7x + 35\n\n5y + 7x = 70",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1040,
+    "question": "The equation of the line in the graph is ",
+    "option": {
+      "a": "3y = 3x + 12",
+      "b": "3y = 3x + 12",
+      "c": "3y = -4x + 12",
+      "d": "3y = -4x + 9"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007156/ALOC-Questions/Mathematics/2020/JAMB_MATH_2020_Q23_qrkny8.jpg",
+    "answer": "c",
+    "solution": "Gradient of line = Change in y/Change in x = (y<sub>2</sub> −Y<sub>1</sub>)/(x<sub>2</sub>  − x<sub>1</sub>)\n \n\ny<sub>2</sub>   = 0<sub>1</sub> \n \n\nY<sub>1</sub>  = 4 \n\nx<sub>2</sub> = 3 and x<sub>1</sub> = 0\n\n(y<sub>2</sub>  − y<sub>1</sub> )/(x<sub>2</sub>  − x<sub>1</sub> ) = (0−4)/(3 − 0) = −4/3\nEquation of straight line y = mx + c\n\nWhere m = gradient and c = y \n\nintercept = 4 \n\ny = -4/3x + 4 multiply through by 3\n\n3y = -4x + 12",
     "examtype": "2020",
     "examyear": "utme"
   },

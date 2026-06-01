@@ -1088,6 +1088,22 @@
     "examyear": "2"
   },
   {
+    "id": 105,
+    "question": "Which of the following is not a principle of insurance?",
+    "option": {
+      "a": "Indemnity",
+      "b": "Compensation",
+      "c": "Proximate cause",
+      "d": "Insurable interest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 106,
     "question": "The amount of money paid periodically by an insured to the insurance company to cover risk is called",
     "option": {
@@ -1931,6 +1947,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 175,
+    "question": "Spreading of risk to ensure that no insurer is liquidated by the occurrence of a large loss is the concept of",
+    "option": {
+      "a": "Insurance",
+      "b": "Re insurance",
+      "c": "Renewal",
+      "d": "Treaty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "3"

@@ -400,6 +400,22 @@
     "examyear": "2004"
   },
   {
+    "id": 420,
+    "question": "How are credit sales by a department treated?",
+    "option": {
+      "a": "the same way as normal debtors’ transactions",
+      "b": "in a different way from normal debtors’ transactions",
+      "c": "as an addition to the sales manager’s account",
+      "d": "as an addition to the production manager’s account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 512,
     "question": "Replacement and renewal of fixed assets are",
     "option": {
@@ -460,6 +476,22 @@
     "image": "",
     "answer": "b",
     "solution": "The simplest presentation of capital employed is total assets minus current liabilities. Sometimes, it is equal to all current equity plus interest-generating loans (non-current liabilities).",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 536,
+    "question": "Derive the stock turnover period.(Average stock = 23,000. Cost of sales = 300,000 year = 365 days).",
+    "option": {
+      "a": "28 days",
+      "b": "42 days",
+      "c": "27 days",
+      "d": "23 days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Average stock / cost of sales x 365days.\n23,000 ÷ 300,000 x 365 = 27.9 (Approximately 28 days)",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1072,6 +1104,38 @@
     "examyear": "2004"
   },
   {
+    "id": 1098,
+    "question": "<b>Use the information below to answer questions 33 and 34</b>\n\nThe depreciation to be charged to department T is ?",
+    "option": {
+      "a": "₦300",
+      "b": "₦400",
+      "c": "₦500",
+      "d": "₦940"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662591/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q33-34_if0cr9.png",
+    "answer": "d",
+    "solution": " 1,000  (Total depreciation)\n-   60  (Depreciation for S)\n──────\n   940",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1104,
+    "question": "<b>Use the information below to answer questions 39 and 40</b>\n\nJumoke and Kunle have an original investment of ₦25,000 and ₦15,000 respectively in a partnership. The articles of partnership provides 3% interest on capital and salaries of ₦1,500 and ₦1,000 respectively for the partners. The profits and losses are to be shared in the ratio 3:2.\nMiscellaneous expenses of ₦2,500 were incurred with gross profit of ₦6,500 during the financial year.\n\nWhat is Kunle's share of the profit?",
+    "option": {
+      "a": "₦600",
+      "b": "₦300",
+      "c": "₦180",
+      "d": "₦120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given:\n\nBalance of Profit and Loss Account = ₦300\nProfit sharing ratio = Jumoke : Kunle = 3 : 2\n\nCalculate Kunle's share of the balance:\nTotal ratio = 3 + 2 = 5\nKunle's share = (2/5) × ₦300 = ₦120",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1111,
     "question": "Share premium is an example of?",
     "option": {
@@ -1372,6 +1436,22 @@
     "image": "",
     "answer": "b",
     "solution": "The statement of affairs in the context of incomplete records is essentially a balance sheet drawn up at a specific date from whatever information is available, to show the assets and liabilities of the business and thus its capital (net worth).",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1401,
+    "question": "The price paid by an acquiring company is the?",
+    "option": {
+      "a": "premium",
+      "b": "purchase consideration",
+      "c": " sales consideration",
+      "d": "conversion fee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The purchase consideration is the total price paid by an acquiring company to obtain ownership of the target company’s shares or assets. It encompasses cash paid, shares issued, or other forms of payment agreed upon.",
     "examtype": "utme",
     "examyear": "199"
   },

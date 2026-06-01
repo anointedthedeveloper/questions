@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 5,
+    "question": "In a modern democracy, the ultimate source of sovereignty is the ",
+    "option": {
+      "a": "legislature and executive ",
+      "b": "judiciary ",
+      "c": "ruling political party ",
+      "d": "people"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 6,
     "question": "The British took over Nigeria through ",
     "option": {
@@ -795,6 +811,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 56,
+    "question": "The first indigenous Governor-General of Nigeria is ",
+    "option": {
+      "a": "Donald Cameron ",
+      "b": "Sir James Robertson  ",
+      "c": "Sir Adesoji Aderemi  (the  Oni of Ife) ",
+      "d": "Rt. Hon. Nnamdi  Aziwe"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -10336,6 +10368,22 @@
     "examyear": "1989"
   },
   {
+    "id": 681,
+    "question": "Bicameralism refers to",
+    "option": {
+      "a": "a one chamber legislature",
+      "b": "the process of voting in the legislature",
+      "c": "the upper chamber in a legislature",
+      "d": "a two-chamber legislature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 682,
     "question": "The head of state under the independence constitution of Nigeria was",
     "option": {
@@ -13472,6 +13520,22 @@
     "examyear": "2020"
   },
   {
+    "id": 887,
+    "question": "The founder of the Universal Negro Improvement Association was ________",
+    "option": {
+      "a": " Casey Hayford",
+      "b": " Herbert Macaulay",
+      "c": "Marcus Garvey",
+      "d": " W. E. B, DuBois"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Marcus Garvey is the founder and first President-General of the Universal Negro Improvement Association and African Communities League, commonly known as UNIA. He established it with the aim of promoting the unity and self-reliance of people of African descent and advocating for the advancement of black people worldwide.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 888,
     "question": "A characteristic feature of communism is __________",
     "option": {
@@ -15356,6 +15420,22 @@
     "image": "",
     "answer": "c",
     "solution": "Pressure groups primarily aim to influence public opinion through media campaigns. They use various forms of advocacy to shape the perceptions and attitudes of the public towards certain issues, with the goal of influencing policy and decision-making in their favor.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1013,
+    "question": "n which system of government is the executive and legislature fused?",
+    "option": {
+      "a": "Cabinet",
+      "b": "Presidential",
+      "c": "Unitary",
+      "d": "Federal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "All members of the executive are part of the legislature.",
     "examtype": "utme",
     "examyear": "2023"
   },

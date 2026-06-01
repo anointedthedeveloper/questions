@@ -320,6 +320,22 @@
     "examyear": "2007"
   },
   {
+    "id": 32,
+    "question": "The sea area with the highest degree of salinity is the ",
+    "option": {
+      "a": "Baltic Sea  ",
+      "b": "Caspian Sea  ",
+      "c": "Dead Sea  ",
+      "d": "Mediterranean Sea"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 34,
     "question": "If the temperature at sea level in a particular place is 200C, place 3500m above sea level in the same area will have a temperature of  ",
     "option": {
@@ -3099,6 +3115,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 313,
+    "question": "The greatest advantage of road transportation over other modes is that the former is",
+    "option": {
+      "a": "Less risky",
+      "b": "Faster",
+      "c": "More flexible",
+      "d": "Cheaper"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2017"

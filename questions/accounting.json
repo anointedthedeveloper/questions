@@ -496,6 +496,22 @@
     "examyear": "2016"
   },
   {
+    "id": 611,
+    "question": "A business has the following information for a particular period:\nCreditors had an opening balance of ₦3,000 and a closing balance of ₦4,000. Debtors had a closing balance of ₦6,000 but the opening balance is not given. During the period, cash received from debtors was ₦35,000, cash paid to suppliers was ₦25,000, discount allowed to customers was ₦4,000, and discount received from suppliers was ₦4,200.\nWhat is the total sales for the period?",
+    "option": {
+      "a": " ₦37,000",
+      "b": "₦36,000",
+      "c": "₦45,000",
+      "d": "₦40,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To find total sales, work with the debtors account movement:\nDebtors Account Analysis:\n\nCash received from debtors: ₦35,000\nDiscount allowed to customers: ₦4,000\nClosing balance: ₦6,000\n\nUsing the debtors account formula:\nOpening Balance + Sales - Cash Received - Discount Allowed = Closing Balance\nLet Opening Balance = X and Sales = S\nX + S - 35,000 - 4,000 = 6,000\nX + S = 45,000\nSince we need total sales and the opening balance of debtors would be zero or the sales figure itself represents the period's activity:\nTotal Sales = ₦45,000",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 625,
     "question": "A double entry for a transaction that offsets one amount against another on both sides of the cashbook is a",
     "option": {
@@ -620,6 +636,22 @@
     "image": "",
     "answer": "c",
     "solution": "When dissolution expenses are paid, the Realization account is debited because it represents the expenses related to the dissolution of the partnership. The Cash account is credited because cash is going out of the business to pay for these expenses. Hence, the correct accounting entry is 'Dr: Realization account; Cr: Cash account'.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 908,
+    "question": "From the following information: Plant and Machinery is valued at ₦190,000, Motor Vehicle at ₦170,000, Stock at ₦60,000, Current Liabilities amount to ₦50,000, and Purchase consideration is ₦400,000. What is the goodwill?",
+    "option": {
+      "a": "₦110,000",
+      "b": " ₦30,000",
+      "c": " ₦90,000",
+      "d": " ₦80,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Net assets = ₦190,000 + ₦170,000 + ₦60,000 – ₦50,000 = ₦370,000\n\nGoodwill = ₦400,000 – ₦370,000 = ₦30,000",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -846,6 +878,38 @@
     "solution": "Given Information:\n\n20,000 ordinary shares issued at ₦1.50 per share\n1,500 ordinary shares were fully subscribed\nPayment schedule:\n\nOn application: ₦0.40\nOn allotment: ₦0.20\nFirst call (including premium of ₦0.50): ₦0.70\n\n\n\nStep 1: Determine the nominal value per share\nTotal payment per share = ₦0.40 + ₦0.20 + ₦0.70 = ₦1.30\nSince the issue price is ₦1.50 and there's a premium of ₦0.50 in the first call, the nominal value per share = ₦1.50 - ₦0.50 = ₦1.00\nStep 2: Calculate amounts received by stage\n\nApplication: 1,500 shares × ₦0.40 = ₦600\nAllotment: 1,500 shares × ₦0.20 = ₦300\nFirst call: 1,500 shares × ₦0.70 = ₦1,050\n\nStep 3: Determine what goes to Ordinary Share Capital Account\nThe Ordinary Share Capital Account only records the nominal value, not the premium.\nFrom the first call of ₦0.70:\n\nPremium portion: ₦0.50 (goes to Share Premium Account)\nNominal value portion: ₦0.70 - ₦0.50 = ₦0.20 (goes to Share Capital Account)\n\nStep 4: Calculate total in Ordinary Share Capital Account\n\nFrom application: 1,500 × ₦0.40 = ₦600\nFrom allotment: 1,500 × ₦0.20 = ₦300\nFrom first call (nominal portion): 1,500 × ₦0.20 = ₦300\n\nTotal in Ordinary Share Capital Account = ₦600 + ₦300 + ₦300 = ₦1,200",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 1174,
+    "question": "<b>Use the information below to answer questions 9 and 10</b>\n\nThe Assets and liabilities of Udo Co.ltd. as at 31st December, 2000.\n\nCreditors ₦50,000\n\nDebtors ₦46,000\n\nLoan ₦100,000\n\nStock ₦20,000\n\nMotor vehicle ₦120,000\n\nBuilding ₦70,000\n\nAccrued wages 30,000\n\nBank ₦25 ,000\n\nThe liabilities of Udo Co. Ltd is?",
+    "option": {
+      "a": "₦180,000",
+      "b": "₦181,000",
+      "c": "₦177,000",
+      "d": "₦110,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Calculation: Creditors ₦50,000 + Loan ₦100,000 + Accrued wages ₦30,000 = ₦180,000.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1208,
+    "question": "keeping records under the single entry system has the advantage of?",
+    "option": {
+      "a": "quality in terms of records",
+      "b": "completeness in terms of records",
+      "c": "accuracy in terms of operation",
+      "d": " simplicity in terms of operation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reason: single-entry is easy and simple to operate (less paperwork), though it sacrifices completeness and accuracy.",
+    "examtype": "utme",
+    "examyear": "2002"
   },
   {
     "id": 1219,

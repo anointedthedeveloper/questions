@@ -14496,6 +14496,22 @@
     "examyear": "2011"
   },
   {
+    "id": 997,
+    "question": "In an A.C circuit, the ratio of r.m.s value to peak value of current is",
+    "option": {
+      "a": "2",
+      "b": " 1/2",
+      "c": "1/√2",
+      "d": "√2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nUnderstanding AC current:\nFor a sinusoidal alternating current:\n\nPeak value (I₀): Maximum current value\nRMS value (I_rms): Root Mean Square value (effective current)\n\nRelationship between RMS and peak values:\nI_rms = I₀/√2\nCalculating the ratio:\nRatio = I_rms/I₀\nRatio = (I₀/√2)/I₀\nRatio = 1/√2\nNumerical value:\n1/√2 = 0.707\nRationalized form:\n1/√2 = √2/2 ≈ 0.707",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 998,
     "question": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is",
     "option": {

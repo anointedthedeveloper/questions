@@ -608,6 +608,22 @@
     "examyear": "2004"
   },
   {
+    "id": 280,
+    "question": "The locus of a point which is 5 cm from the line LM is a",
+    "option": {
+      "a": "line distance 10 cm from LM and parallel to LM",
+      "b": "pair of line on opposite sides of LM and parallel to it, each distance 5 cm from LM",
+      "c": " line parallel to LM and 5 cm from LM",
+      "d": "pair of parallel lines on one side of LM and parallel to LM"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The locus of a point which is 5cn from the line LM is a pair of lines on opposite sides of LM and parallel to it, each distance 5cm from LM",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 294,
     "question": "The weight of 10 pupils in a class are 15 kg, 16 kg, 17 kg, 18 kg, 16 kg, 17 kg, 17 kg, 17 kg, 18 kg, and 16 kg. What is the range of this distribution?",
     "option": {
@@ -908,6 +924,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542610/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q7_zufgaf.jpg",
     "answer": "d",
     "solution": "Expenditure on housing = x\nExpenditure on food = 2x\nExpenditure on school fees = 90o\nExpenditure on transport = 45o\nx + 2x + 90 + 45 = 360o\n3x + 135 = 360o\n3x = 360 - 135\n3x = 225\nx = 225/3 = 75o\n∴∠ for food = 2x = 2 * 75\n= 150\n360o = N30,000\n1o = ?\n1o = 30,000/360\n150o = (30000/360) * (150/1)\n= N12500",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 390,
+    "question": "In a small village of 500 people, 350 speak the local language while 200 speak pidgin English. What percentage of the population speak both.",
+    "option": {
+      "a": "30%",
+      "b": "10%",
+      "c": " 50%",
+      "d": "14%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let n(L∩P) = x\nn(L) only = 350 - x\nn(P) only = 200 - x\n∴350 - x + x + 200 - x = 500\n550 - x = 500\nx = 550 - 500\nx = 50 speak both\n∴x% = (50/500) * (100/1)\n= 10%",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -1728,6 +1760,22 @@
     "examyear": "2016"
   },
   {
+    "id": 866,
+    "question": "Determine the mean score of the student that took the mathematics test?",
+    "option": {
+      "a": "4.5",
+      "b": "4.3",
+      "c": "4.2",
+      "d": " 4.6"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003306/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q48_cmhnqy.jpg",
+    "answer": "c",
+    "solution": "(3 x 0) + (1 x 2) + (5 x 2) + (5 x 3) + (5 x 4) +\n(10 x 5) + (4 x 6) + (3 x 7) + (1 x 8) + (2 x 9) ÷\n 40\n\n= 168/40 = 4.2",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 868,
     "question": "From the diagram above, find the required roots/region of x.",
     "option": {
@@ -2352,6 +2400,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1099,
+    "question": "Evaluate (101<sub>two</sub>)<sup>3</sup>",
+    "option": {
+      "a": "111101<sub>two</sub>",
+      "b": "11111101<sub>two</sub>",
+      "c": "1111101<sub>two</sub>",
+      "d": " 11001<sub>two</sub>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(101<sub>two</sub>)<sup>3</sup>\n = (5<sub>ten</sub>)<sup>3</sup>\n5<sup>3</sup> = 125\n\nAnd 125 =  1111101<sub>two</sub>",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1100,
     "question": "The shaded portion in the venn diagram above represents?",
     "option": {
@@ -2460,6 +2524,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given Data: x<sub>1</sub> = -3,  x<sub>2</sub> = 2,y<sub>1</sub>  = 5,  y<sub>2</sub> = 10\n\ncoordinates of the mid-point of the line = (x<sub>1</sub>+x<sub>2</sub> /2, y<sub>1</sub>+y<sub>2</sub> /2)\n\n(−3+2/2, 5+10/2)\n\n=  −1/2) , 15/2)",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1125,
+    "question": "Evaluate <sup>n</sup><sup>2 </sup> + <sup>1</sup>C<sub>(n+5)</sub> \n if n = 3 ",
+    "option": {
+      "a": "55",
+      "b": "45",
+      "c": "35",
+      "d": "25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": " <sup>3</sup><sup>2 </sup> + <sup>1</sup>C<sub>(3+5)</sub>\n\n<sup>9+1</sup>C<sub>3+5</sub>\n \n\n\n<sup>10</sup>C<sub>8</sub> = 10!/(8!2!)\n(10∗9∗8!)/(8!2!)= (10∗9)/2\n= 45",
     "examtype": "utme",
     "examyear": "2022"
   },

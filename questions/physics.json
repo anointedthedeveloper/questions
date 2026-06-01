@@ -544,6 +544,22 @@
     "examyear": "2016"
   },
   {
+    "id": 182,
+    "question": "What happens to a water pool on a day when the humidity of the air is very low?",
+    "option": {
+      "a": "Temperature decreases",
+      "b": " Slow evaporation",
+      "c": "Temperature increases",
+      "d": "Rapid evaporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Low humidity means dry air, which promotes rapid evaporation of water.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 184,
     "question": "I. Chemical II. Sound III. Electricity\n\nWhich of the above forms of energy can directly be converted to light energy?",
     "option": {
@@ -1792,6 +1808,22 @@
     "examyear": "2005"
   },
   {
+    "id": 680,
+    "question": "Two charged particles are projected into a region where there is a magnetic field perpendicular to their velocities. If the charges are deflected in opposite directions, which of the following statements is true of the charge?",
+    "option": {
+      "a": " the charge must be of opposite sign",
+      "b": "positive charges are more in number",
+      "c": " the charges are electrically neutral",
+      "d": "the charges are of the same sign"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Opposite deflections imply the charges must be of opposite sign.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 685,
     "question": "If the system above is in equilibrium, the tension in the string Q is",
     "option": {
@@ -1998,6 +2030,22 @@
     "solution": "Arrow is on the emitter and points outward, with correct labeling of b, c, e.",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 760,
+    "question": "I. Increase the melting point of the liquid.\nII. Increase the boiling point of the liquid.\nIII. Decrease the melting point of the liquid.\nIV. Decrease the boiling point of the liquid.\n\n\nwhich of the statement above about the effect on increase in pressure in a liquid are correct?",
+    "option": {
+      "a": " I and II only",
+      "b": "I and III only",
+      "c": " II and III only",
+      "d": "III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Increase in pressure generally raises the boiling point but but lowers the melting point. II and III",
+    "examtype": "utme",
+    "examyear": "2007"
   },
   {
     "id": 785,

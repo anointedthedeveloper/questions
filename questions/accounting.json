@@ -2208,6 +2208,22 @@
     "examyear": "2014"
   },
   {
+    "id": 389,
+    "question": "Which of the following is not a factory overhead cost?",
+    "option": {
+      "a": "Manufacturing wages",
+      "b": "Factory rent",
+      "c": "Depreciation of machinery",
+      "d": "Salary of factory guard"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 391,
     "question": "The principle of double entry book - keeping states that",
     "option": {
@@ -3660,6 +3676,22 @@
     "image": "",
     "answer": "b",
     "solution": "Calculate Cost of Goods Sold\nCost of Goods Sold = Cost of Goods Available - Closing Stock\n= ₦71,000 - ₦9,000 = ₦62,000",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 674,
+    "question": "A business has the following balance sheet as at the beginning of the year: Capital ₦40,000, Furnishing ₦10,000, Ceiling Fan ₦1,500, and Cash in Hand ₦28,500, with total assets and liabilities both equaling ₦40,000.\nDuring the year ending 31/1/95, the following transactions occurred:\n\nRent for shop ₦12,000 paid for the year\nTotal purchases ₦15,000\nTotal sales ₦8,200\nStock of goods left ₦10,000\nPaid sales boy ₦500\n\nWhat is the new balance sheet total as at 31/1/95?",
+    "option": {
+      "a": " ₦39,700",
+      "b": " ₦40,000",
+      "c": " ₦41,500",
+      "d": "₦48,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Starting with opening cash of ₦28,500, we track cash movements:\nCash Outflows:\n\nRent paid: ₦12,000\nPurchases: ₦15,000\nSales boy wages: ₦500\nTotal outflows: ₦27,500\n\nCash Inflows:\n\nSales: ₦8,200\n\nNew Cash Balance: ₦28,500 - ₦27,500 + ₦8,200 = ₦9,200\nNew Balance Sheet:\n\nAssets: Furnishing ₦10,000 + Ceiling Fan ₦1,500 + Stock ₦10,000 + Cash ₦9,200 = ₦30,700\nCapital: ₦40,000 - ₦300 (net loss) = ₦39,700\nPrepaid Rent: ₦9,000 (11 months remaining)\n\nNew Balance Sheet Total: ₦39,700",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -7884,6 +7916,22 @@
     "image": "",
     "answer": "d",
     "solution": "When you record a payment by cheque in your cash book, it appears on the credit side. If that cheque hasn’t yet been presented (i.e. cashed) at the bank, it won’t show up on the bank statement’s debit side. Such outstanding items are called unpresented cheques.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1430,
+    "question": "The receipt of cash from a customer who bought goods with ₦800 list price, 25% trade discount and 2/10, n/30 terms would, if paid within the discount period, amount to",
+    "option": {
+      "a": "₦576",
+      "b": "₦588",
+      "c": "₦600",
+      "d": "₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Net after trade discount:\n\n₦800 × (1−0.25) = ₦600\n\nThen 2% cash discount on ₦600:\n\n₦600 × 0.02 = ₦12\nAmount paid = ₦600 − ₦12 = ₦588",
     "examtype": "utme",
     "examyear": "1997"
   },

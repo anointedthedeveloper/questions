@@ -592,6 +592,22 @@
     "examyear": "2016"
   },
   {
+    "id": 160,
+    "question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled N800,000. A provision of 2% was made for discount and 5% provision for bad and doubtful debts.  Find the amount for sundry debtors after provision.",
+    "option": {
+      "a": "N744,800",
+      "b": "N 760,000",
+      "c": "N784, 000",
+      "d": "N744, 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 164,
     "question": "A business organization prepares departmental account in order to",
     "option": {
@@ -3440,6 +3456,22 @@
     "examyear": "2022"
   },
   {
+    "id": 884,
+    "question": "Interest on a partner's drawings is debited to the",
+    "option": {
+      "a": "Partners current account and credited to the profit and loss appropriation account\n",
+      "b": "profit and loss appropriation account and credited to the partner's current account\n",
+      "c": "profit and loss account and credited to the partner's current account\n",
+      "d": "Partner's current account and credited to the profit and loss account\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a partner makes drawings, they may be charged interest on those drawings as agreed in the partnership deed. The accounting treatment is:\nDebit: Partner's Current Account - This reduces the partner's equity because they are being charged for the interest on money they withdrew from the business.\nCredit: Profit and Loss Appropriation Account - This increases the profits available for distribution among all partners, as the interest charged becomes additional income for the partnership.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 885,
     "question": "The following are importance of branch account except",
     "option": {
@@ -3708,6 +3740,22 @@
     "image": "",
     "answer": "d",
     "solution": "When a trial balance doesn't balance (meaning the total debits don't equal the total credits), there's an error somewhere in the accounting records. Until the error is identified and corrected, accountants use a suspense account to temporarily hold the difference.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 938,
+    "question": "Rent accrued at the end of an accounting period is a",
+    "option": {
+      "a": "current asset",
+      "b": "fixed asset",
+      "c": "current liability",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Rent accrued at the end of an accounting period represents rent expense that has been incurred but not yet paid. This creates an obligation for the business to pay this amount in the near future.\nSince it's an amount owed by the business that will typically be settled within one year (or the normal operating cycle), it is classified as a current liability.",
     "examtype": "utme",
     "examyear": "2024"
   },

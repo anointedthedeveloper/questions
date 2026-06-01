@@ -9456,6 +9456,22 @@
     "examyear": "2005"
   },
   {
+    "id": 653,
+    "question": "A real image three times the size of an object is formed 24cm from a converging mirror. what is the focal length of the mirror.",
+    "option": {
+      "a": "16cm",
+      "b": "6cm",
+      "c": "8cm",
+      "d": "12cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMagnification, m = 3 (real image, three times the size)\nImage distance, v = 24 cm\nFocal length, f = ?\n\nSolution:\nStep 1: Apply magnification formula\nFormula: m = -v/u\nWhere:\n\nm = magnification\nv = image distance\nu = object distance\n\nFor a real image, magnification is negative: m = -3\nStep 2: Find object distance\n-3 = -24/u\n3 = 24/u\nu = 24/3\nu = 8 cm\nStep 3: Apply mirror formula\nFormula: 1/f = 1/v + 1/u\nStep 4: Substitute values\n1/f = 1/24 + 1/8\n1/f = 1/24 + 3/24\n1/f = 4/24\n1/f = 1/6\nStep 5: Solve for focal length\nf = 6 cm",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 654,
     "question": "The pair of physical quantities consisting of vectors only are",
     "option": {
@@ -14748,6 +14764,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nVolume of petrol (V_petrol) = 4.2 m³\nDensity of alcohol (ρ_alcohol) = 8.4 × 10² kg/m³ = 840 kg/m³\nDensity of petrol (ρ_petrol) = 7.2 × 10² kg/m³ = 720 kg/m³\nVolume of alcohol (V_alcohol) = ?\n\nCondition: Same mass\nStep 1: Calculate mass of petrol\nMass = Density × Volume\nm_petrol = ρ_petrol × V_petrol\nm_petrol = 720 × 4.2\nm_petrol = 3024 kg\nStep 2: Calculate volume of alcohol with same mass\nm_alcohol = m_petrol = 3024 kg\nm_alcohol = ρ_alcohol × V_alcohol\nRearranging:\nV_alcohol = m_alcohol / ρ_alcohol\nV_alcohol = 3024 / 840\nV_alcohol = 3.6 m³",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1051,
+    "question": "Calculate the length which corresponds to a temperature of 20°C if the ice and steam points of an ungraduated thermometer are 400 mm apart",
+    "option": {
+      "a": "20 mm",
+      "b": "30 mm",
+      "c": " 60 mm",
+      "d": "80 mm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nDistance between ice point (0°C) and steam point (100°C) = 400 mm\nTemperature to measure = 20°C\nLength corresponding to 20°C = ?\n\nUnderstanding the thermometer:\nCalibration points:\n\nIce point (0°C): reference at 0 mm (taking ice point as origin)\nSteam point (100°C): at 400 mm from ice point\nTemperature scale is linear between these points\n\nPrinciple:\nFor a linear thermometer, the length is proportional to temperature:\nLength / Temperature = Constant\nSetting up proportion:\n100°C corresponds to 400 mm\n20°C corresponds to L mm\nUsing ratio:\nL / 20 = 400 / 100\nSolving for L:\nL = (20 × 400) / 100\nL = 8000 / 100\nL = 80 mm",
     "examtype": "utme",
     "examyear": "2013"
   },

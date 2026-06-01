@@ -688,6 +688,22 @@
     "examyear": "2018"
   },
   {
+    "id": 706,
+    "question": "The rent expense for Trendy store is ₦3500. Trendy store has three departments; jewelry, hair dressing, and clothing. The floor spaces occupied by the departments are 3:2:5 respectively. What is the rent allocated to clothing department?",
+    "option": {
+      "a": "₦700",
+      "b": "₦1050",
+      "c": " ₦1750",
+      "d": "₦3500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Jewelry 3/10 x 3500 = 1050\n\nHairdressing 2/10 x 3500 = 700\n\nClothing 5/10 x 3500 = 1750",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 731,
     "question": "Based on the Receipts and Payment Account extract showing: balance brought forward ₦3,650, subscription ₦7,500 less ₦2,000 equals ₦1,000, fees ₦8,500, insurance ₦900, rate ₦11,700, and balance carried down ₦8,050, with totals of ₦20,650 on both sides, and given the following additional information as at 1st January 1999 and 31st December 1999 respectively: rates owing ₦3,600 and ₦2,000, insurance prepaid ₦50 and ₦1,000, subscription in arrears ₦700 and ₦600, calculate the subscriptions in the Income and Expenditure Account.",
     "option": {
@@ -816,6 +832,22 @@
     "examyear": "2021"
   },
   {
+    "id": 852,
+    "question": "One of the items listed below will not be found in a company’s memorandum and article of association. Which is it?",
+    "option": {
+      "a": "objects and their alteration",
+      "b": "location of business",
+      "c": "bank signatories",
+      "d": "powers of directors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Bank signatories will not be found in a company's memorandum and articles of association because:\n\nBank signatories are operational details determined by the board of directors\nThey are recorded in board resolutions and banking mandates, not in the constitutional documents\nThese details can change frequently and don't require constitutional amendments",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 866,
     "question": "Adex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch: Stock at branch 1st January at cost was ₦400, goods sent to branch at cost during the year was ₦8,000, returns to head office amounted to ₦340, cash sales were ₦9,160, and stock at branch 31st December at cost was ₦720. Calculate the cost of goods sold during the year.",
     "option": {
@@ -828,6 +860,22 @@
     "image": "",
     "answer": "a",
     "solution": "Stock movement formula:\nCost of Goods Sold = Opening Stock + Goods Sent to Branch - Returns to Head Office - Closing Stock\nCalculation:\n\nOpening Stock (1st Jan): ₦400\nAdd: Goods sent to branch: ₦8,000\nLess: Returns to head office: ₦340\nLess: Closing Stock (31st Dec): ₦720\n\nCost of Goods Sold = ₦400 + ₦8,000 - ₦340 - ₦720 = ₦7,340\nThe cost of goods sold by Ede branch is ₦7,340.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 880,
+    "question": "Mamsa Nigeria Limited issued 20,000 ordinary shares of ₦1.50 per share on 2nd July 2002. 15,000 ordinary shares were fully subscribed for and their monies received as below: On application ₦0.40, On allotment ₦0.20, First call (including premium of ₦0.50) ₦0.70. What is the balance of the ordinary share capital account after the first call was received?",
+    "option": {
+      "a": "₦12,000",
+      "b": "₦24,000",
+      "c": "₦10,500",
+      "d": "₦1,950"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Shares subscribed = 15,000\nNominal value per share = ₦1.00 (with ₦0.50 premium)\n\nCalls on capital per share:\n\nApplication: ₦0.40\n\nAllotment: ₦0.20\n\nFirst call (capital element): ₦0.70 − ₦0.50 premium = ₦0.20\n\nTotal called on capital per share = ₦0.40 + ₦0.20 + ₦0.20 = ₦0.80\n\nTotal credited to Ordinary Share Capital = 15,000 × ₦0.80 = ₦12,000.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -1360,6 +1408,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1330,
+    "question": "Chibuike bought 36 notebooks at ₦10 each from John and was given a trade discount of 5%. In addition, he was offered 1% cash discount which he took advantage of. How much did Chibuike pay?",
+    "option": {
+      "a": "₦338.58",
+      "b": "₦342.00",
+      "c": "₦345.42",
+      "d": "₦360,00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find how much Chibuike paid, Calculate the price after applying both the trade discount and cash discount.\nGiven information:\n\n36 notebooks at ₦10 each\nTrade discount: 5%\nCash discount: 1% (taken)\n\nStep 1: Calculate gross amount\nGross amount = 36 × ₦10 = ₦360\nStep 2: Apply trade discount\nTrade discount = ₦360 × 5% = ₦18\nAmount after trade discount = ₦360 - ₦18 = ₦342\nStep 3: Apply cash discount\nCash discount = ₦342 × 1% = ₦3.42\nFinal amount paid = ₦342 - ₦3.42 = ₦338.58\nVerification:\n\nGross: ₦360\nLess trade discount (5%): ₦18\nNet: ₦342\nLess cash discount (1%): ₦3.42\nAmount paid: ₦338.58",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1347,
     "question": "Dele and Seun who are in partnership, have decided to covert their business into a limited liability company where both become directors. To convert the business?",
     "option": {
@@ -1454,6 +1518,22 @@
     "solution": "The purchase consideration is the total price paid by an acquiring company to obtain ownership of the target company’s shares or assets. It encompasses cash paid, shares issued, or other forms of payment agreed upon.",
     "examtype": "utme",
     "examyear": "199"
+  },
+  {
+    "id": 1417,
+    "question": "Creditors use Accounting information for the purpose of",
+    "option": {
+      "a": " planning sales to a company",
+      "b": "controlling a company's affairs",
+      "c": " investing in a company",
+      "d": " assessing a company's liquidity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Creditors need accounting information, especially on current assets and current liabilities, to evaluate whether the business can meet its short‑term obligations and thus repay loans on time.",
+    "examtype": "utme",
+    "examyear": "1997"
   },
   {
     "id": 1420,

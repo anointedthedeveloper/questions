@@ -12192,6 +12192,22 @@
     "examyear": "2007"
   },
   {
+    "id": 786,
+    "question": "118.8 cm² surface of the copper cathode of a voltameter is to be coated with 10⁻⁶ m thick copper of density 9 × 10³ kg m⁻³. How long will the process run with 10 A constant current?\n[3.3 × 10⁻⁷ kg C⁻¹]",
+    "option": {
+      "a": " 0.54 min",
+      "b": "10.8 min",
+      "c": "15.0 min",
+      "d": "20.0 min"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nSurface area (A) = 118.8 cm² = 118.8 × 10⁻⁴ m² = 0.01188 m²\nThickness (t) = 10⁻⁶ m\nDensity of copper (ρ) = 9 × 10³ kg/m³\nCurrent (I) = 10 A\nElectrochemical equivalent (Z) = 3.3 × 10⁻⁷ kg/C\nTime = ?\n\nStep 1: Calculate volume of copper to be deposited\nVolume = Area × Thickness\nV = 0.01188 × 10⁻⁶\nV = 1.188 × 10⁻⁸ m³\n\nStep 2: Calculate mass of copper required\nMass = Density × Volume\nm = ρV\nm = 9 × 10³ × 1.188 × 10⁻⁸\nm = 10.692 × 10⁻⁵\nm = 1.0692 × 10⁻⁴ kg\n\nStep 3: Use Faraday's law of electrolysis\nMass deposited: m = ZIt\nRearranging for time:\nt = m/(ZI)\nSubstituting values:\nt = (1.0692 × 10⁻⁴)/(3.3 × 10⁻⁷ × 10)\nt = (1.0692 × 10⁻⁴)/(3.3 × 10⁻⁶)\nt = 1.0692/3.3 × 10⁻⁴⁺⁶\nt = 0.324 × 10²\nt = 32.4 seconds\n\n\nConverting to minutes: 32.4/60 = 0.54 minutes",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 787,
     "question": "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?",
     "option": {

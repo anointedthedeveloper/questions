@@ -1840,6 +1840,22 @@
     "examyear": "2012"
   },
   {
+    "id": 121,
+    "question": "Which of the following quantities is equal to the area under a velocity-time graph?",
+    "option": {
+      "a": "Acceleration ",
+      "b": "Distance travelled ",
+      "c": "Average Velocity of motion ",
+      "d": "Total time taken."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 122,
     "question": "A 25N force pulls a 2.0kg body up a 300 inclined plane. If force is parallel to the plane and the body moves up the plane at constant velocity. Calculate the magnitude of the frictional force between the body and the plane. [g =10m/s2]",
     "option": {
@@ -10016,6 +10032,22 @@
     "examyear": "2005"
   },
   {
+    "id": 662,
+    "question": "The charge carriers in gasses are",
+    "option": {
+      "a": "ions only",
+      "b": "electrons and ions",
+      "c": "electrons and holes",
+      "d": "electrons only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The electrons and cations of ionized gas act as charge carriers.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 663,
     "question": "The ray which causes gas molecules to glow is known as",
     "option": {
@@ -13532,6 +13564,22 @@
     "image": "",
     "answer": "b",
     "solution": "The special advantage of alcohol over mercury as a thermometric liquid is its low freezing point (-115°C compared to -39°C for mercury), which allows it to measure much lower temperatures, making it suitable for use in very cold climates where mercury would freeze solid.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 910,
+    "question": "The density of a certain oil on frying becomes 0.4 kgm⁻³ with the volume of 20m³. What will be its initial volume when its initial density is 0.8 kgm⁻³ assuming no loss of oil due to spillage?",
+    "option": {
+      "a": "12 m³",
+      "b": " 10 m³",
+      "c": " 8 m³",
+      "d": "5 m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial density (ρ₁) = 0.8 kg/m³\nFinal density (ρ₂) = 0.4 kg/m³\nFinal volume (V₂) = 20 m³\nInitial volume (V₁) = ?\nNo loss of oil (mass conserved)\n\nKey principle:\nMass remains constant (no spillage)\nm₁ = m₂\nUsing density formula:\nm = ρV\nStep 1: Set up equation\nρ₁V₁ = ρ₂V₂\nStep 2: Solve for initial volume\nV₁ = (ρ₂V₂)/ρ₁\nSubstituting values:\nV₁ = (0.4 × 20)/0.8\nV₁ = 8/0.8\nV₁ = 10 m³",
     "examtype": "utme",
     "examyear": "2010"
   },

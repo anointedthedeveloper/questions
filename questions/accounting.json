@@ -1,5 +1,21 @@
 [
   {
+    "id": 26,
+    "question": "Which of the following is not a book of original entry? ",
+    "option": {
+      "a": "Cash book  ",
+      "b": "Purchases journal  ",
+      "c": "Sales journal ",
+      "d": "Ledger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 37,
     "question": "Which of the following is not a business asset?",
     "option": {
@@ -30,6 +46,38 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 50,
+    "question": "At the end the fiscal year, account receivable has a balance of 100,000 and allowance for doubtful account has a balance of 7,000. The expected that realized value of the  receivable is: account",
+    "option": {
+      "a": "N 107,000",
+      "b": "N100,000",
+      "c": "c. N93,000",
+      "d": "N 147,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 86,
+    "question": "A dishonoured cheque is",
+    "option": {
+      "a": "debited in the cash book.",
+      "b": "credited in the cash book.",
+      "c": "double entry in the cash book.",
+      "d": "credited in the bank book."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
   },
   {
     "id": 99,
@@ -320,6 +368,22 @@
     "examyear": "2006"
   },
   {
+    "id": 255,
+    "question": "Which of the following is not a purpose for preparing departmental accounts? To",
+    "option": {
+      "a": "compare the results of different departments",
+      "b": "employ staff into different departments",
+      "c": "reward departmental managers",
+      "d": "obtain information for formulating policies."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 280,
     "question": "The term used to denote the capital of a not-for-profit making \torganization is",
     "option": {
@@ -505,6 +569,22 @@
       "d": "D62,000"
     },
     "section": " Use the following information to answer question: Branch stock account (at selling price)  D346,000 - debit Branch mark-up account D62,000 - debit",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 386,
+    "question": "Which of the following items is not treated in the Profit and Loss Account?",
+    "option": {
+      "a": "Office expenses",
+      "b": "Salaries and allowances",
+      "c": "Carriage inwards",
+      "d": "Discounts allowed"
+    },
+    "section": "",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -720,6 +800,22 @@
     "examyear": "2016"
   },
   {
+    "id": 603,
+    "question": "A business organization prepares departmental account in order to",
+    "option": {
+      "a": "asertian the contribution of each department to the organization",
+      "b": "ascertain interdepartmental transfer",
+      "c": "build other branches",
+      "d": " know the number of departments in the organization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The main objectives of departmental accounting are: To check out an interdepartmental performance. To evaluate the performance of the department with the previous period result. The gross profit of each department can be ascertained.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 611,
     "question": "A business has the following information for a particular period:\nCreditors had an opening balance of ₦3,000 and a closing balance of ₦4,000. Debtors had a closing balance of ₦6,000 but the opening balance is not given. During the period, cash received from debtors was ₦35,000, cash paid to suppliers was ₦25,000, discount allowed to customers was ₦4,000, and discount received from suppliers was ₦4,200.\nWhat is the total sales for the period?",
     "option": {
@@ -832,6 +928,22 @@
     "examyear": "2019"
   },
   {
+    "id": 721,
+    "question": "If only wages is shown on the trial balance, it should be charged to the",
+    "option": {
+      "a": "profit and loss account",
+      "b": "trading account",
+      "c": "balance sheet",
+      "d": "wages account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Wages should be charged in the trading account only if shown separately on the trial balance from salaries. In such circumstances, the assumption, unless you are otherwise told, is that the wage is a direct trading expense to be included in the trading account while salary is an Indirect (i.e overhead) expense to be included in the P & L account.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 724,
     "question": "On 31 July 2017, Mr. Ojo provides the following information for his business:\n\nOpening stock: ₦7,000\n\nClosing stock: ₦12,000\n\nPurchases: ₦60,000\n\nExpenses: ₦4,500\n\nUniform gross margin: 33⅓%\n\nCalculate the total sales for the period.",
     "option": {
@@ -844,6 +956,38 @@
     "image": "",
     "answer": "b",
     "solution": "COGS = Opening Stock + Purchases − Closing Stock\n= 7,000 + 60,000 − 12,000 = ₦55,000\n\nLet Sales = S\nGross margin is 33⅓%, meaning Gross Profit = 1/3 of Sales = S/3\n\nSince:\nSales = COGS + Gross Profit\nS = 55,000 + S/3\n\nMultiply both sides by 3 to eliminate the fraction:\n3S = 165,000 + S\n\nSubtract S from both sides:\n2S = 165,000\n\nDivide both sides by 2:\nS = ₦82,500\n\nFinal Answer: ₦82,500",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 728,
+    "question": "Retained profits is an example of",
+    "option": {
+      "a": " Revenue reserve",
+      "b": " Capital reserves",
+      "c": "General reserves",
+      "d": "Loan capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Retained profit is part of the part of the profits of an organization not distributed as dividends but ploughed back into the business for expansion.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 742,
+    "question": "Abelawo ltd operates a retail branch at Aba. All purchases are made by the head office in Onitsha and goods are charged to the branch at cost plus 50%. During the year ended. Goods sent to branch at invoiced price is ₦30,870, cash sales ₦13,020 and Bad debt amounted to 129. From the following, what is the profit?",
+    "option": {
+      "a": "₦20,580",
+      "b": "₦10,290",
+      "c": "₦7,980",
+      "d": "₦30,870"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find the profit, the unrealized profit in the goods sent to branch needs to be determined.\nGiven information:\n\nGoods sent to branch at invoiced price = ₦30,870\nInvoiced price = Cost + 50% markup\nCash sales = ₦13,020\nBad debt = ₦129\n\nFinding the cost price of goods sent to branch:\nIf invoiced price = Cost + 50% of cost = 1.5 × Cost\nThen: Cost = ₦30,870 ÷ 1.5 = ₦20,580\nUnrealized profit in goods sent to branch:\nProfit = Invoiced price - Cost price\nProfit = ₦30,870 - ₦20,580 = ₦10,290\nThe profit from the markup on goods sent to branch is ₦10,290.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -878,6 +1022,54 @@
     "solution": "According to section 24 of the partnership Act 1890. If no specific agreement is made by the partners, the following takes place:\n1. No partners may introduce a new person without the consent of all other partners 2.5% interest a year on loans made by partner e.t.c",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 773,
+    "question": "Given the following information: stock on 1/4/94 was ₦800, purchases of flour ₦2,450, sales ₦4,745, wages of bakery staff ₦675, carriage outwards ₦50, salary of administrative staff ₦22, stock on 31/3/95 was ₦940, and capital ₦1,540, calculate the cost of goods sold.",
+    "option": {
+      "a": " ₦3,925",
+      "b": " ₦3,250",
+      "c": " ₦2,985",
+      "d": "₦2,575"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "From the given information:\n\nOpening Stock (1/4/94) = ₦800\nPurchases of flour = ₦2,450\nWages of bakery staff (direct labor) = ₦675\nClosing Stock (31/3/95) = ₦940\n\nCost of Goods Sold = ₦800 + ₦2,450 + ₦675 - ₦940\nCost of Goods Sold = ₦3,925 - ₦940 = ₦2,985\nTherefore, the cost of goods sold is ₦2,985.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 793,
+    "question": "Four broad classifications of overheads are",
+    "option": {
+      "a": "production, selling, distribution and administration",
+      "b": "production, selling, distribution and material",
+      "c": "selling, distribution and material",
+      "d": " distribution, selling, administration and materials"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "These are the four standard classifications of overheads in cost accounting:\n\nProduction - factory-related indirect costs\nSelling - costs to promote and secure sales\nDistribution - costs to deliver goods to customers\nAdministration - general management and office expenses\n\nMaterial is not an overhead classification since materials are typically direct costs, not indirect overheads.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 806,
+    "question": "Which of the following stock valuation method is suitable under inflationary conditions?",
+    "option": {
+      "a": "LIFO",
+      "b": "simple average",
+      "c": "FIFO",
+      "d": " weighted average"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "LIFO (Last In, First Out) is most suitable under inflationary conditions because:\n\nIt assumes the most recently purchased (and therefore most expensive) items are sold first\nThis results in higher cost of goods sold, which reduces taxable profits\nIt provides a better matching of current costs with current revenues\nIt gives a more realistic profit figure during inflation by charging current higher costs against sales\n\nUnder inflation, LIFO produces:\n\nLower reported profits (more realistic)\nLower tax liability\nBetter cash flow management",
+    "examtype": "utme",
+    "examyear": "2021"
   },
   {
     "id": 808,
@@ -1008,6 +1200,22 @@
     "examyear": "2023"
   },
   {
+    "id": 895,
+    "question": "From the following information: Stock on Jan 1 is ₦2,600, Purchases amount to ₦4,000, Carriage inwards is ₦500, Sales total ₦9,000, and Carriage outwards is ₦500. Determine the net profit.",
+    "option": {
+      "a": "₦4,000",
+      "b": "₦4,500",
+      "c": " ₦5,000",
+      "d": "₦1,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "COGS = Opening Stock + Purchases + Carriage Inwards\n= ₦2,600 + ₦4,000 + ₦500\n= ₦7,100\n\nGross Profit = Sales – COGS\n= ₦9,000 – ₦7,100\n= ₦1,900\n\nNet Profit = Gross Profit – Carriage Outwards\n= ₦1,900 – ₦500\n= ₦1,400",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 905,
     "question": "Salaries in arrears is treated in the balance sheet as a",
     "option": {
@@ -1068,6 +1276,22 @@
     "image": "",
     "answer": "b",
     "solution": "The purchase ledger is a subsidiary ledger that records all transactions related to purchases made from supplier on credit. Each supplier has a dedicated account in the purchase ledger.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 951,
+    "question": "The basic accounting equation is",
+    "option": {
+      "a": "Assets = Liabilities + Owner’s Equity",
+      "b": "Assets + Expenses = Liabilities + Equity",
+      "c": "Assets + Liabilities = Owner's Equity",
+      "d": " Revenue - Expenses = Profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fundamental accounting equation is:\nAssets = Liabilities + Owner’s Equity",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -1216,6 +1440,38 @@
     "examyear": "2005"
   },
   {
+    "id": 1058,
+    "question": "The tier of government that uses financial memorandum is the?",
+    "option": {
+      "a": "federal government",
+      "b": "state government",
+      "c": "local government",
+      "d": "municipal government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Financial Memorandum is a guideline or manual used mainly by local governments in Nigeria to regulate their financial management, accounting procedures, and internal controls. It ensures uniformity and accountability in the handling of public funds at the local government level.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1073,
+    "question": "The imprest account is subsidiary to the?",
+    "option": {
+      "a": " ledger account",
+      "b": "bank account",
+      "c": "cash book",
+      "d": "bank column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The imprest (petty cash) account records small day-to-day payments and is controlled by the main cash book (or bank book) — the cash book is the controlling account and the imprest/petty cash is a subsidiary petty-cash ledger that gets replenished from the cash book.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1081,
     "question": "<b>Use the information below to answer questions 17 and 18</b>\n\nGiven Information:\n\nOpening balance: ₦10,640\nPurchases: ₦26,912\nReturns inwards: ₦492\nReturns outwards: ₦810\nCash discount received: ₦1,348\nCash discount allowed: ₦1,560\nCash paid to suppliers: ₦20,808\n\nAt the year-end, the purchases ledger showed a\ndebit balance of: ₦108\n\n\nThe total on the debit side of the purchase ledger control account will be:",
     "option": {
@@ -1360,6 +1616,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1182,
+    "question": "<b>Use the information below to answer questions 18 and 19.</b>\n\nStock of raw materials (1st January) ₦3000\n\nDirect wages ₦2500\n\nDirect expenses ₦1000\n\nFactory overheads ₦2000\n\nCost of raw materials used ₦5500\n\nStock of finished goods (31st December) ₦2000\n\nDetermine the prime cost?",
+    "option": {
+      "a": "₦7500",
+      "b": "₦6500",
+      "c": "₦9000",
+      "d": "₦8000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Prime cost = Direct materials used + Direct wages + Direct expenses\n\nWe’re told:\n\nCost of raw materials used = ₦5,500\n\nDirect wages = ₦2,500\n\nDirect expenses = ₦1,000\n\nPrime cost = ₦5,500 + ₦2,500 + ₦1,000\n= ₦9,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1208,
     "question": "keeping records under the single entry system has the advantage of?",
     "option": {
@@ -1468,6 +1740,38 @@
     "image": "",
     "answer": "a",
     "solution": "Income = Received during year + Opening arrears − Advance for next year\nSubstituting the numbers:\n\n\nIncome = ₦30,000 + ₦4,000 − ₦6,000 = ₦28,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1247,
+    "question": "Partners' salaries and drawings are usually posted to the?",
+    "option": {
+      "a": "trading account",
+      "b": "current account",
+      "c": " capital account",
+      "d": " partners' account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Partners' salaries and drawings are usually posted to the current account.\n\nIn partnership accounting, there are typically two main accounts for each partner:\n\nCapital Account - Records the permanent capital contributions and withdrawals of partners. This account usually remains relatively stable.\nCurrent Account - Records all regular transactions with partners including:\n\nPartners' salaries\nPartners' drawings\nInterest on capital\nInterest on drawings\nShare of profits or losses",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1252,
+    "question": "Where a company acquires controlling shares of another and the consideration is paid in cash, the entries in the books of the purchases are debit?`",
+    "option": {
+      "a": "investment and credit cash",
+      "b": "investment and credit shares",
+      "c": " purchases and credit cash",
+      "d": " purchases and credit shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The correct entry is to debit Investment (to recognize the acquisition of the subsidiary’s shares) and credit Cash (to record the outflow of cash).",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -1616,6 +1920,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1351,
+    "question": "If a promoter pays a lawyer ₦5,000 for services rendered in preparing a Memorandum of Incorporation, the journal entry is to debit?",
+    "option": {
+      "a": "preliminary expenses, credit cash accounts",
+      "b": " promoter, credit creditors' accounts",
+      "c": "lawyer's credit cash accounts",
+      "d": " cash , credit incorporation accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a promoter pays ₦5,000 to a lawyer for preparing a Memorandum of Incorporation, it's considered a pre-incorporation expense (also called preliminary expenses), since it's incurred before the company is officially formed.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1352,
     "question": "Appropriation Account\n\nKudu Wale\nInterest on capital 750 550\nSalaries 800 600\nShare of profits 3,300 3,300\n\n\nDetermine the net profit of the partnership.",
     "option": {
@@ -1680,6 +2000,22 @@
     "examyear": "1998"
   },
   {
+    "id": 1385,
+    "question": "A powerful instrument of control over both the sales ledger and the clek whose duty is to post the ledger is the?",
+    "option": {
+      "a": "total debtors account",
+      "b": " purchase day book",
+      "c": "sales day book",
+      "d": "cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Debtors Control Account (often called the Total Debtors Account) in the general ledger provides a summary total of all individual customer balances in the sales ledger. By reconciling the control account with the detail in the subsidiary (sales) ledger, management can ensure that the clerk has posted correctly and completely.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1393,
     "question": "<b>Use the information below to answer question 28 and 29.\nRaw materials inventory at the beginning of a period was ₦ 46,800 and at the close of the period there was a balance of ₦38,600. From the purchases made during the period, defective materials costing ₦9,200 were returned. Cost of materials consumed during the period was ₦448,500.</b>\n\nWhat was the cost of materials available for use during the period?",
     "option": {
@@ -1694,6 +2030,22 @@
     "solution": "Opening inventory + (Purchases − Returns) \nFrom the previous calculation, Purchases = ₦449 500 and Returns = ₦9 200, so net purchases = ₦449 500 − ₦9 200 = ₦440 300.\n\nMaterials available = ₦46,800 + ₦440,300 = ₦487,100",
     "examtype": "utme",
     "examyear": "199"
+  },
+  {
+    "id": 1425,
+    "question": "Which of the following demonstrates the imprest system?",
+    "option": {
+      "a": " Float → expenses paid → cash in bank → float",
+      "b": "Float → cash from bank → expenses paid → float",
+      "c": " Float → expenses paid→ cash from bank → float",
+      "d": "Float → cash in bank → expenses paid → float"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Under the imprest system, you start with a fixed petty cash float. As expenses are paid out of that float, its balance declines. At the end of the period (or when replenishment is needed), you draw cash from the bank equal to the total expenses paid to restore the float back to its original amount.",
+    "examtype": "utme",
+    "examyear": "1997"
   },
   {
     "id": 1426,

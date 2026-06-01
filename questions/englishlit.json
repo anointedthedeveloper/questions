@@ -128,6 +128,22 @@
     "examyear": "2006"
   },
   {
+    "id": 20,
+    "question": "A brief but witty expression is called: ",
+    "option": {
+      "a": "song ",
+      "b": "epigram",
+      "c": "enecdote ",
+      "d": "joke "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 21,
     "question": "Pastoral poetry refers to the poetic composition of ",
     "option": {
@@ -203,6 +219,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 30,
+    "question": "One rhyme scheme typical of the English sonnet is ",
+    "option": {
+      "a": "bba abba cde cde ",
+      "b": "bba abba cde dce ",
+      "c": "abab cdcd efef gg ",
+      "d": "abcd babb cde cc"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
@@ -480,6 +512,22 @@
     "examyear": "2008"
   },
   {
+    "id": 63,
+    "question": "Identify the odd one out of these types of imagery  ",
+    "option": {
+      "a": "visual imagery  ",
+      "b": "tactile imagery  ",
+      "c": "synesthesia  ",
+      "d": "literal imagery."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 67,
     "question": "The literary technique in which a reader is taken to the past of a current action in known as:",
     "option": {
@@ -542,6 +590,38 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
+  },
+  {
+    "id": 74,
+    "question": "Literary device that creates a mental picture of   a situation is ",
+    "option": {
+      "a": "imagery ",
+      "b": "symbolism ",
+      "c": "flashback ",
+      "d": "epilogue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 75,
+    "question": "To whom does her in line 5 refers to?  ",
+    "option": {
+      "a": "God  ",
+      "b": "Letter  ",
+      "c": "World ",
+      "d": "Nature"
+    },
+    "section": "This is my letter to the world\nThat never wrote to me\nThe simple news nature told\nWith tender majesty\nHer message is committed\nTo hands, I cannot see;\nFor love of her, set countrymen,\nJudge tenderly one me.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
   },
   {
     "id": 76,
@@ -976,6 +1056,22 @@
     "examyear": "2012"
   },
   {
+    "id": 128,
+    "question": "The sudden revelation of events as they happen is called  ",
+    "option": {
+      "a": "epiphany  ",
+      "b": "revelation  ",
+      "c": "relay-events  ",
+      "d": "resonance "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 129,
     "question": "Comic relief is used in a work of art to  ",
     "option": {
@@ -1291,6 +1387,22 @@
     "section": "Question is  based on Ferdinand Oyono’s The Old Man and the Medal.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 164,
+    "question": "From the conclusion of the novel, the author implies that ",
+    "option": {
+      "a": "rebellion is fruitless ",
+      "b": "opposition pays ",
+      "c": "two and two make four ",
+      "d": "knowledge gives freedom."
+    },
+    "section": "Question is based on George Orwell’s Nineteen Eighty Four",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
@@ -2651,6 +2763,22 @@
     "section": "based on George Orwell’s  \tNineteen Eighty-Four",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 326,
+    "question": "“We are hereto die of raget !say die of rage because this time the uncircumcised have gone too far...” The word uncircumcised in the statement above by Nli refers to",
+    "option": {
+      "a": "Nua and Mvondo",
+      "b": "the whites",
+      "c": "the people of Doum",
+      "d": "the white farmers."
+    },
+    "section": "based on Ferdinand Oyono’s,  \tThe Old Man and the Medal.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -4523,6 +4651,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 545,
+    "question": "The traditional verse form of speech as dialogue in Midsummer Night's Dream is used to symbolize the",
+    "option": {
+      "a": "Impressiveness of the characters",
+      "b": "Intense feelings of the characters",
+      "c": "Traditionalist of the play",
+      "d": "Function of poetry in the play"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2020"

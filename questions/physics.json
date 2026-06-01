@@ -7888,6 +7888,22 @@
     "examyear": "2004"
   },
   {
+    "id": 634,
+    "question": "A person can focus an object only when it lies within 200cm from him. Which spectacles should be used to increase his maximum distance of distinct vision infinity",
+    "option": {
+      "a": "Convex lens",
+      "b": "Binoculars",
+      "c": "Concave lens",
+      "d": "Plane glasses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nFar point of the person = 200 cm\nDesired object distance = infinity\n\nStep 1: Identify the defect\nThe inability to see distant objects clearly indicates myopia (nearsightedness).\n\nStep 2: Principle of correction\nA corrective lens must form a virtual image of an object at infinity at the person’s far point (200 cm), so the eye can focus it.\n\nStep 3: Apply lens formula\nUsing the lens formula:\n1/f = 1/v - 1/u\nWhere:\nObject distance, u = infinity\nImage distance, v = -200 cm (virtual image, same side as object)\n1/f = 1/(-200) - 1/infinity = -1/200\nf = -200 cm\nNegative focal length indicates a diverging (concave) lens.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 635,
     "question": "The pitch of a sound note depends on",
     "option": {
@@ -9932,6 +9948,22 @@
     "image": "",
     "answer": "d",
     "solution": "\nGiven information:\nObject height, h₀ = 5 cm\nObject distance, u = 20 cm\nFocal length, f = 10 cm (positive for concave mirror in sign convention used here)\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n1/10 = 1/20 + 1/v\n\nStep 2: Solve for image distance v\n1/v = 1/10 - 1/20 = 1/20\nv = 20 cm\n\nStep 3: Magnification formula\nMagnification m = v/u = 20/20 = 1\nAlso, m = image height / object height = hᵢ / h₀\n\nStep 4: Find image height\n1 = hᵢ / 5 cm\nhᵢ = 5 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 823,
+    "question": "Convex mirror are used as driving mirrors because images formed are?",
+    "option": {
+      "a": "erect, virtual and diminished",
+      "b": "erect, real and diminished",
+      "c": "erect, virtual and magnified",
+      "d": " inverted virtual and diminished"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Image formed by convex mirror is always erect, virtual and diminished",
     "examtype": "utme",
     "examyear": "2008"
   },

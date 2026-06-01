@@ -17392,6 +17392,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1269,
+    "question": "A man bought a car for N800 and sold it for N520. Find his loss per cent",
+    "option": {
+      "a": "15%",
+      "b": "25%",
+      "c": "35%",
+      "d": "10%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Percentage Loss = (actual loss ) ÷ (Cost price) × 100\n\nActual loss = Cost Price − Selling Price (sold price)\n\n= N800 − N520 = N280\n\nPercentage loss = (280 ÷ 800) × 100 = 35%\n\n∴ His loss percent = 35%",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1270,
     "question": "Simplify 6(1/12) − 2¾ + 1½",
     "option": {

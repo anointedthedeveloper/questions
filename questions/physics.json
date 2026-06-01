@@ -10368,6 +10368,22 @@
     "examyear": "2008"
   },
   {
+    "id": 846,
+    "question": "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is",
+    "option": {
+      "a": "0.35mH",
+      "b": "3.50mH",
+      "c": "2.90mH",
+      "d": "35.0mH"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432660/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_47_pcogvt.png",
+    "answer": "d",
+    "solution": "Left = L1 + L2 + L3\n= 5mH + 10mH + 20mH = 35mH",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 847,
     "question": "If electrons are accelerated from rest through a potential difference of 10kV, what is the wavelength of the associated electron? [m = 9.1 × 10⁻³¹ kg, e = 1.6 × 10⁻¹⁹ C, h = 6.6 × 10⁻³⁴ Js]",
     "option": {
@@ -10780,6 +10796,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nVelocity of aircraft relative to air, vₐ = 100 km h⁻¹ due north\nVelocity of wind, v_w = 60 km h⁻¹ from east to west (i.e., towards west)\n\nSolution:\n\nStep 1: Represent velocities as vectors\nLet north be positive y‑direction and east be positive x‑direction.\nvₐ = (0, 100) km h⁻¹\nv_w = (−60, 0) km h⁻¹ (since it blows towards west)\n\nStep 2: Resultant velocity\nResultant v = vₐ + v_w = (−60, 100) km h⁻¹\n\nStep 3: Calculate magnitude\n|v| = √[(−60)² + (100)²] = √(3600 + 10000) = √13600 ≈ 116.62 km h⁻¹ ≈ 117 km h⁻¹\n\nStep 4: Calculate direction\nThe angle θ from north towards west is given by:\ntan θ = (west component) / (north component) = 60 / 100 = 0.6\nθ = tan⁻¹(0.6) ≈ 31°\n\nSince the westward component is negative x, the direction is N31°W.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 887,
+    "question": "A car accelerates uniformly from rest at 4 m s⁻². How far will it travel in the fifth complete second?",
+    "option": {
+      "a": "100 m",
+      "b": "50 m",
+      "c": "32 m",
+      "d": "18 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nInitial velocity, u = 0 m s⁻¹\nAcceleration, a = 4 m s⁻²\nTime interval: the fifth complete second means from t = 4 s to t = 5 s.\n\nSolution:\n\nStep 1: Formula for distance in a particular second\nThe distance travelled in the n‑th second is given by:\nsₙ = u + (a/2)(2n – 1)\n\nStep 2: Substitute values\nHere n = 5, u = 0, a = 4 m s⁻²\ns₅ = 0 + (4/2) × (2×5 – 1) = 2 × (10 – 1) = 2 × 9 = 18 m\n\nStep 3: Alternative method (check)\nDistance in first 4 s: s₄ = ½ × 4 × 4² = ½ × 4 × 16 = 32 m\nDistance in first 5 s: s₅ = ½ × 4 × 5² = ½ × 4 × 25 = 50 m\nDistance in 5th second = s₅ – s₄ = 50 m – 32 m = 18 m",
     "examtype": "utme",
     "examyear": "2009"
   },

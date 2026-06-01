@@ -5856,6 +5856,22 @@
     "examyear": "2006"
   },
   {
+    "id": 401,
+    "question": "IN the diagram above, POQ is a diameter of the circle PQRS. If ∠PSR = 145°, find xo",
+    "option": {
+      "a": " 55°",
+      "b": "45°",
+      "c": "35°",
+      "d": "25°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542755/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q34_rdbaiq.jpg",
+    "answer": "a",
+    "solution": "∠PSQ = 90° (∠ in semi circle)\n∠PSQ + ∠QSR = 145o\n90 + ∠QSR = 145\n∠QSR = 145 - 90\n∠QSR = 55°\nBUt x° = ∠QSR (∠s in the same segment)\n∴xo = 55°",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 402,
     "question": "What is the locus of points equidistant from the lines ax + bc + c = 0?",
     "option": {

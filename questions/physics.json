@@ -13040,6 +13040,22 @@
     "examyear": "2009"
   },
   {
+    "id": 859,
+    "question": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is?",
+    "option": {
+      "a": "1400 kg m⁻³",
+      "b": "1250 kg m⁻³",
+      "c": "500 kg m⁻³",
+      "d": "1000 kg m⁻³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nIn water: fraction submerged = 50% = 0.5\nIn glycerine: fraction submerged = 40% = 0.4\nDensity of water, ρ_w = 1000 kg m⁻³\n\nSolution:\n\nStep 1: Density of the sphere from water data\nFor a floating object, the fraction submerged equals the ratio of the object's density to the fluid's density.\nρ_sphere / ρ_w = fraction submerged in water\nρ_sphere / 1000 = 0.5\nρ_sphere = 500 kg m⁻³\n\nStep 2: Use glycerine data to find its density\nρ_sphere / ρ_g = fraction submerged in glycerine\n500 / ρ_g = 0.4\nρ_g = 500 / 0.4 = 1250 kg m⁻³",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 861,
     "question": "At 4°C, the volume of a fixed mass of water is?",
     "option": {

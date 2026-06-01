@@ -208,6 +208,22 @@
     "examyear": "2012"
   },
   {
+    "id": 56,
+    "question": "Which of the following assets could be described as a current asset?",
+    "option": {
+      "a": "Stock of goods for resale",
+      "b": "Machinery to manufacture goods for resale ",
+      "c": " Buildings to house the machinery",
+      "d": "Land on which the buildings stand."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 57,
     "question": "The purchase journal records:",
     "option": {
@@ -1675,6 +1691,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 446,
+    "question": "The total amount of money received on application was",
+    "option": {
+      "a": "N  5600,00",
+      "b": "N  220,000",
+      "c": "N  800, 000",
+      "d": "N  1 000 000"
+    },
+    "section": "A company’s authorized share capital was one million ordinary shares at N 1 each. It issued 80% of its shares at N 1.10 per share. 70k was payable on application, 25k on allotment, 10k due on first call and the balance on second call. ",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -3164,6 +3196,22 @@
     "image": "",
     "answer": "d",
     "solution": "Subscription in advance is the sum of money prepaid by the members of club representing their dues for next year. It is treated as a liability in the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 900,
+    "question": "Given:\nI. Cash refunds\nII. Debit note issued\nIII. Dishnoured cheque\nIV. Purchases\n\nThe item on the credit side of purchase ledger control account includes",
+    "option": {
+      "a": "I, II and IV only",
+      "b": "I and IV only",
+      "c": "I and II only",
+      "d": "I, II and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The item on the credit side of the purchase control account or total creditor control account are: purchase (credit), cash refunds, discount withdrawn, debit note received.",
     "examtype": "utme",
     "examyear": "2023"
   },

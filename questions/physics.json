@@ -9664,6 +9664,22 @@
     "examyear": "2005"
   },
   {
+    "id": 656,
+    "question": "An object is projected from a height of 80 m above the ground with a velocity of 40ms⁻¹ at an angle of 30° to the horizontal. The time of flight [g ≈ 10m/s²]",
+    "option": {
+      "a": "8 s",
+      "b": "6.5 s",
+      "c": "16 s",
+      "d": " 10 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial height, h = 80 m\nInitial velocity, u = 40 ms⁻¹\nAngle of projection, θ = 30°\nAcceleration due to gravity, g = 10 ms⁻²\nTime of flight, t = ?\n\nSolution:\nStep 1: Resolve initial velocity into components\nVertical component: uᵧ = u sin θ\nuᵧ = 40 × sin 30°\nuᵧ = 40 × 0.5\nuᵧ = 20 ms⁻¹ (upward)\nStep 2: Apply vertical motion equation\nUsing: s = uᵧt - ½gt²\nThe object starts at height 80 m and ends at ground level (0 m).\nTaking downward as negative displacement:\ns = -80 m (final position relative to starting point)\nStep 3: Substitute into equation\n-80 = 20t - ½(10)t²\n-80 = 20t - 5t²\n5t² - 20t - 80 = 0\nStep 4: Simplify\nDivide by 5:\nt² - 4t - 16 = 0\nStep 5: Solve quadratic equation\nUsing quadratic formula: t = [-b ± √(b² - 4ac)] / 2a\nWhere a = 1, b = -4, c = -16\nt = [4 ± √(16 + 64)] / 2\nt = [4 ± √80] / 2\nt = [4 ± 8.94] / 2\nt = (4 + 8.94) / 2  or  t = (4 - 8.94) / 2\nt = 6.47 s  or  t = -2.47 s (rejected, negative time)\nt ≈ 6.5 s",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 657,
     "question": "In an a.c circuit that contains only a capacitor, the voltage lags behind the current by",
     "option": {

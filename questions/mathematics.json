@@ -8912,6 +8912,22 @@
     "examyear": "2010"
   },
   {
+    "id": 596,
+    "question": "If p : q = 2/3 : 5/6 and q : r = 3/4 : 1/2, find p : q : r",
+    "option": {
+      "a": "12 : 15 : 10",
+      "b": "12 : 15 : 16",
+      "c": "10 : 15 : 24",
+      "d": "9 : 10 : 15"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If p : q = 2/3 : 5/6, then the sum S1 of ratio = 2/3 + 5/6 = 9/6\n\nIf q : r = 3/4 : 1/2, then the sum S2 of ratio = 3/4 + 1/2 = 5/4\n\nLet p + q = T1, then\n\nq = (5/6÷9/6)T1 = (5/6×6/9)T1 = 5/9T1\n\nAgain, let q + r = T2, then\n\nq = (3/4÷5/4)T2 = (3/4×4/5)T2 = 3/5T2\n\nUsing q = q\n\n5/9T1 = 3/5T2\n\n5 x 5T1 = 9 x 3T2\n\nT1/T2 = 9×3/5x5 = 27/25\n\nGiving that, T1 = 27 and T2 = 25\n\nP = (2/3÷S<sub>1</sub>)T1 = (2/3÷9/6)T1\n\n= (2/3×6/9)27 = 12\n\nq = (5/6÷S<sub>1</sub>)T1 = (5/6÷9/6)T1\n\n= (5/6×6/9)27 = 15\n\nand r = (1/2÷S<sub>2</sub>)T2 = (1/2÷5/4)T2\n\n= (1/2×4/5)25 = 10\n\nHence p : q : r = 12: 15 : 10",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 597,
     "question": "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression",
     "option": {

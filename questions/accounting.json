@@ -2464,6 +2464,22 @@
     "examyear": "2019"
   },
   {
+    "id": 729,
+    "question": "Ojo, Sam and Ade are in partnership sharing profit in the ratio 4:3:1 respectively. From their books for the year ended, interest on drawings and capital is allowed at 5% respectively, and profit for the year amounted to ₦4,950. What is Ojo's share of profit?",
+    "option": {
+      "a": "₦7,000",
+      "b": "₦2,475",
+      "c": "₦3,000",
+      "d": "₦991.8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find Ojo's share of profit:\nThe profit sharing ratio is 4:3:1 (Ojo : Sam : Ade)\nTotal ratio = 4 + 3 + 1 = 8 parts\nOjo's share = (4/8) × Total Profit\nOjo's share = (4/8) × ₦4,950\nOjo's share = (1/2) × ₦4,950\nOjo's share = ₦2,475\nTherefore, Ojo's share of profit is ₦2,475.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 731,
     "question": "Based on the Receipts and Payment Account extract showing: balance brought forward ₦3,650, subscription ₦7,500 less ₦2,000 equals ₦1,000, fees ₦8,500, insurance ₦900, rate ₦11,700, and balance carried down ₦8,050, with totals of ₦20,650 on both sides, and given the following additional information as at 1st January 1999 and 31st December 1999 respectively: rates owing ₦3,600 and ₦2,000, insurance prepaid ₦50 and ₦1,000, subscription in arrears ₦700 and ₦600, calculate the subscriptions in the Income and Expenditure Account.",
     "option": {
@@ -4304,6 +4320,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1258,
+    "question": "X and Y are two departments that are to share 50% of all joint costs equally and the balance in ratio 2:1. If a sum of ₦150,000 is incurred jointly, what will be the portion attributable to X?",
+    "option": {
+      "a": "₦37,500",
+      "b": "₦62,500",
+      "c": "₦87,500",
+      "d": "₦100,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Split the total cost\nTotal joint cost = ₦150,000\n\n50% to be shared equally = ₦150,000 × 50% = ₦75,000\nRemaining 50% to be shared in ratio 2:1 = ₦150,000 × 50% = ₦75,000\n\nStep 2: Calculate X's share of the equally shared portion\nEqual sharing between X and Y:\nX's share = ₦75,000 ÷ 2 = ₦37,500\nStep 3: Calculate X's share of the ratio-based portion\nSharing in ratio 2:1 means:\n\nTotal ratio parts = 2 + 1 = 3\nX's ratio = 2/3\nX's share = ₦75,000 × (2/3) = ₦50,000\n\nStep 4: Calculate X's total portion\nX's total share = Equal share + Ratio share\nX's total share = ₦37,500 + ₦50,000 = ₦87,500",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1265,
     "question": "On ₦ovember 1, 1998, Zaria Holdings owed ₦13,600 in respect of a creditor. On ₦ovember 15, it purchases goods worth ₦69,000 and paid a cheque of ₦51,600. On ₦ovember 29, one of the Holdings' cheques worth ₦3,000 was returned while the creditor granted a ₦1,500 discount. The amount owed by Zaria Holdings as at ₦ovember 29 is?",
     "option": {
@@ -4672,6 +4704,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1350,
+    "question": "Which of the following events increases a corporation's shareholders equity?",
+    "option": {
+      "a": "Donation of shares out of the corporation's own stock to the corporation",
+      "b": "The corporation's purchase of treasury stock",
+      "c": "Shares of previously subscribed stock issue to subscribing stockholders",
+      "d": " A municipality donation of land to the corporation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When a municipality donates land to a corporation:\n\nThe corporation receives an asset (land) without giving anything in return.\n\nThis increases total assets and simultaneously increases shareholders' equity (typically recorded under a capital surplus or donation reserve account).",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1364,
     "question": "Which of the following account is kept by local governments in Nigeria?",
     "option": {
@@ -4956,6 +5004,22 @@
     "image": "",
     "answer": "b",
     "solution": "Net after trade discount:\n\n₦800 × (1−0.25) = ₦600\n\nThen 2% cash discount on ₦600:\n\n₦600 × 0.02 = ₦12\nAmount paid = ₦600 − ₦12 = ₦588",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1431,
+    "question": "At the end of a financial period, the trading profit and loss account of a company showed a profit of ₦120,000. It was however discovered that revenue of ₦12,000 was recorded as expenses while expenses of ₦4,000 had been recorded as revenue. What should be the correct profit for the period?",
+    "option": {
+      "a": " ₦104,000",
+      "b": "₦128,000",
+      "c": "₦136,000",
+      "d": "₦144,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nRecorded profit: ₦120,000\nError 1: Revenue of ₦12,000 was recorded as expenses\nError 2: Expenses of ₦4,000 were recorded as revenue\n\nAnalysis of errors:\nError 1: Revenue ₦12,000 recorded as expenses\n\nThis reduced profit by ₦24,000 (₦12,000 revenue not added + ₦12,000 wrongly deducted as expenses)\nCorrection: Add back ₦24,000\n\nError 2: Expenses ₦4,000 recorded as revenue\n\nThis increased profit by ₦8,000 (₦4,000 wrongly added as revenue + ₦4,000 expenses not deducted)\nCorrection: Deduct ₦8,000\n\nCorrect profit calculation:\n₦120,000 + ₦24,000 - ₦8,000 = ₦136,000",
     "examtype": "utme",
     "examyear": "1997"
   },

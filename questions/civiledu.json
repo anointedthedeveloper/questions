@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "Who among the following could be described as the founding father of Nigerian nationalism?",
+    "option": {
+      "a": "Nnamdi Azikiwe",
+      "b": "Herbert Macauley",
+      "c": "Ahmadu Bello",
+      "d": "Obafemi Awolowo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 5,
     "question": "Human Rights are basic natural rights which people enjoy primarily because they are",
     "option": {
@@ -2075,6 +2091,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 244,
+    "question": "The president belongs to .......... arm of the government",
+    "option": {
+      "a": "Legislative",
+      "b": "Judiciary",
+      "c": "Executive",
+      "d": "Anti-crime"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"

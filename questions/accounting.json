@@ -2032,6 +2032,22 @@
     "examyear": "2015"
   },
   {
+    "id": 338,
+    "question": "Goods stolen at the branch is debited to",
+    "option": {
+      "a": "Defalcations Account",
+      "b": "Branch Stock Account",
+      "c": "Branch Adjustment Account",
+      "d": "Branch Debtors Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 342,
     "question": "Which of the following is found on the credit side of a partnership’s appropriation of profit account?",
     "option": {
@@ -2864,6 +2880,22 @@
     "examyear": "2009"
   },
   {
+    "id": 503,
+    "question": "One of the purposes of maintaining the account of a branch at the head office is to",
+    "option": {
+      "a": "record charges in shareholdings",
+      "b": "record charges in liabilities",
+      "c": "check the excesses of customers",
+      "d": "check the excesses of members of staff."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 504,
     "question": "Which of the following is a common cause of a discrepancy between head office and branch trial balance?",
     "option": {
@@ -3168,6 +3200,22 @@
     "examyear": "2016"
   },
   {
+    "id": 573,
+    "question": "The documents that provide instant information to firms on their tranactions with banks are",
+    "option": {
+      "a": "bank statement and debit note",
+      "b": "cheque book and cashbook",
+      "c": "cheque stub and deposit slip",
+      "d": "payslip and credit invoice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Bank statement is a printed record of the balance in a bank account and the amounts that have been paid into it and withdrawn from it, issued periodically to the holder of the account.\n\nA debit note is a document sent by a buyer to seller or in other words a purchaser to a vendor notifying that a debit has been made to their accounts. A debit memo on a company's bank statement refers to a deduction by the bankfrom the company's bank account. In other words, a bank debit memo reduces thebank account balance similar to a check drawn on the bank account.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 577,
     "question": "Given the following information:\n\nDrawings: ₦3,500\nNet loss: ₦2,500\nCapital as at 1.1.2007: ₦35,000\nAdditional capital: ₦10,000\n\nThe adjusted capital as at 31.12.2007 is:",
     "option": {
@@ -3372,6 +3420,22 @@
     "image": "",
     "answer": "b",
     "solution": "The main objectives of departmental accountingare: To check out an interdepartmental performance. To evaluate the performance of the department with the previous period result. The gross profit of each department can be ascertained.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 605,
+    "question": "Which of the following expenses relate to the profit and loss account of a manufacturing firm?",
+    "option": {
+      "a": "Administrative overhead",
+      "b": "Direct labour",
+      "c": "Direct materials",
+      "d": "Work-in-progress"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Administrative overhead is those costs not involved in the development or production of goods or services. This is essentially all overhead that is not included in manufacturing overhead. Examples of administrative overhead costs are the costs of: Front office and sales salaries, wages, and commissions. Office supplies.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -8188,6 +8252,22 @@
     "image": "",
     "answer": "b",
     "solution": "Net after trade discount:\n\n₦800 × (1−0.25) = ₦600\n\nThen 2% cash discount on ₦600:\n\n₦600 × 0.02 = ₦12\nAmount paid = ₦600 − ₦12 = ₦588",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1433,
+    "question": "Given: capital ₦13,000; office machinery, ₦9,000; creditors ₦900, stock of goods ₦1,550; debtors, ₦275; cash at bank, ₦5,075 and loan from Jumbo, ₦2,000. What is the balance sheet total?",
+    "option": {
+      "a": " ₦19,500",
+      "b": "₦18,500",
+      "c": "₦17,900",
+      "d": " ₦15,900"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To find the balance sheet total, calculate either the total assets or total liabilities and equity (they should be equal).\nAssets:\n\nOffice machinery: ₦9,000\nStock of goods: ₦1,550\nDebtors: ₦275\nCash at bank: ₦5,075\nTotal Assets: ₦15,900\n\nLiabilities and Equity:\n\nCapital: ₦13,000\nCreditors: ₦900\nLoan from Jumbo: ₦2,000\nTotal Liabilities and Equity: ₦15,900\n\nThe balance sheet total (which is the same for both sides) is ₦15,900.",
     "examtype": "utme",
     "examyear": "1997"
   },

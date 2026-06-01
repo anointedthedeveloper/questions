@@ -9440,6 +9440,22 @@
     "examyear": "2004"
   },
   {
+    "id": 615,
+    "question": "If 16mA of current flows through a conductor in one second, the number of electrons transported per second is [1 electronic charge = 1.6 × 10⁻¹⁹C]",
+    "option": {
+      "a": "1.00 × 10²⁰",
+      "b": "2.56 × 10⁻¹⁸",
+      "c": " 2.56 × 10⁻¹⁷",
+      "d": "1.00 × 10¹⁷"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nCurrent, I = 16 mA = 16 × 10⁻³ A\nTime, t = 1 s\nElectronic charge, e = 1.6 × 10⁻¹⁹ C\n\nSolution:\nFormula:\nCurrent: I = Q/t\nCharge: Q = ne\nWhere:\n\nQ = total charge (in coulombs)\nn = number of electrons\ne = charge of one electron\n\nStep 1: Calculate total charge transported\nQ = I × t\nQ = 16 × 10⁻³ × 1\nQ = 16 × 10⁻³ C\nStep 2: Calculate number of electrons\nn = Q/e\nn = (16 × 10⁻³)/(1.6 × 10⁻¹⁹)\nStep 3: Simplify\nn = (16/1.6) × 10⁻³⁻(⁻¹⁹)\nn = 10 × 10⁻³⁺¹⁹\nn = 10 × 10¹⁶\nn = 1.0 × 10¹⁷\nFinal Answer:\nNumber of electrons = 1.00 × 10¹⁷ electrons",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 616,
     "question": "Electrical appliances at home are normally earthed so that?",
     "option": {

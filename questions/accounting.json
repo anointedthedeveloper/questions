@@ -1552,6 +1552,22 @@
     "examyear": "2012"
   },
   {
+    "id": 260,
+    "question": "When closing stock is overstated, it would reduce",
+    "option": {
+      "a": "cost of sales and increase gross profit.",
+      "b": "gross profit and increase cost of sales.",
+      "c": "purchases and increase sales.",
+      "d": "sales and increase purchases."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 264,
     "question": "A Balance Sheet shows only",
     "option": {
@@ -2839,6 +2855,22 @@
       "b": "Stock, bills payable, cash and debtors",
       "c": "Stock, bad debt, bills receivable and cash",
       "d": "Stock, work-in-progress, cash and bills payable."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 496,
+    "question": "Which of the following is an item in the debit side of the sales ledger control account?",
+    "option": {
+      "a": "Interest charged by suppliers",
+      "b": "Bills receivable honoured",
+      "c": "Transfer of credit balances from credit control account",
+      "d": "Transfer of debit balances from creditors control account"
     },
     "section": "",
     "image": "",
@@ -7632,6 +7664,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1300,
+    "question": "The accumulation fund of a non-trading concern can equally be referred to as?",
+    "option": {
+      "a": "members' equity",
+      "b": " share capital",
+      "c": "general fund",
+      "d": "surplus fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The “Accumulated Fund” in a non‐trading concern is the same as its General Fund, representing the net assets built up over time.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1302,
     "question": "An item of appropriation in partnership profit and loss account is?",
     "option": {
@@ -8156,6 +8204,22 @@
     "image": "",
     "answer": "a",
     "solution": "The primary limitation of a receipts and payments account is its reliance on actual cash movements as the sole evidence of transactions. Because it’s prepared on a cash basis and ignores accruals, it:\n\nOmits non-cash items (e.g., depreciation, accrued expenses)\n\nDoes not match income and related expenses to the same period\n\nFails to show true surplus or deficit",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1396,
+    "question": "A non-profit-making organization differs from a profit-making one in that?",
+    "option": {
+      "a": " it does not earn income",
+      "b": "proceeds from sale of shares form part of its income",
+      "c": "all its income is committed",
+      "d": " annual subscriptions and levies form part of its income"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The best distinguishing feature of a non-profit-making organization is that its routine income sources are things like annual subscriptions and levies rather than trading profits.",
     "examtype": "utme",
     "examyear": "199"
   },

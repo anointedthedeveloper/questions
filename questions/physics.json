@@ -448,6 +448,22 @@
     "examyear": "2012"
   },
   {
+    "id": 126,
+    "question": "To use a milli-ammeter to measure current up to 10A, what connection needs to be made?",
+    "option": {
+      "a": "A small resistance must be connected in parallel with the milli-ammeter ",
+      "b": "A small resistance must be connected in series with the milli-ammeter ",
+      "c": "A high resistance must be connected in parallel with the milli-ammeter ",
+      "d": "The milli-ammeter must be disconnected from the circuit."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 133,
     "question": "What is the inductance (L) of an inductor whose reactance is 1Ω at 50/ π hertz (H)?",
     "option": {
@@ -508,6 +524,22 @@
     "image": "",
     "answer": "b",
     "solution": "A gas thermometers are more besting use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 168,
+    "question": "The optical instrument which is suitable for viewing a nearby objects is ………..?",
+    "option": {
+      "a": "Telescope",
+      "b": "sextant",
+      "c": "microscope",
+      "d": "periscope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Microscope is used for nearby object",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -908,6 +940,22 @@
     "image": "",
     "answer": "a",
     "solution": "According to the kinetic molecular model, gas molecules are very far apart relative to their size and occupy all available space in their container.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 337,
+    "question": "Lamps in domestic lightings are usually in",
+    "option": {
+      "a": "series",
+      "b": "divergent",
+      "c": "convergent",
+      "d": "parallel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Lamps in domestic lighting are usually connected in parallel so that each receives full voltage and can operate independently.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1936,6 +1984,22 @@
     "examyear": "2006"
   },
   {
+    "id": 712,
+    "question": "If the capacitance of a capacitor is C = (εA)/d, which of the following parameters is varied when a variable capacitor is used for tuning radio sets?",
+    "option": {
+      "a": "constant (ε) and area",
+      "b": "area and distance",
+      "c": "constant (ε) only",
+      "d": "distance only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Most radio tuning capacitors vary area only, but some precision capacitors can vary both area and distance for finer control.\nHowever, the most common method in radio tuning is varying the area and distance together for better tuning range and control.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 713,
     "question": "When an a.c. voltage is applied to a capacitor, no power is consumed because the current",
     "option": {
@@ -2060,6 +2124,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431541/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_36_mzam4o.png",
     "answer": "d",
     "solution": "The inductive reactance is given as\nXl = 2πfl\n= 2 x 50/π x 0.1\n= 10Ω\nAgain from ohms law,\nR = V/I = 75/1.5 = 50Ω\n∴ Thus the inductive reactance and the resistance are respectively 10Ω, and 50Ω",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 798,
+    "question": "A radioactive substance has a half life of 20 days. What fraction of the original radioactive nuclei will remain after 80 days?",
+    "option": {
+      "a": "1/32",
+      "b": "1/16",
+      "c": "1/8",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nHalf-life (T½) = 20 days\nTime elapsed (t) = 80 days\nFraction remaining = ?\n\nStep 1: Calculate number of half-lives\nNumber of half-lives (n) = t/T½\nn = 80/20 = 4\nSo 4 half-lives have passed.\nStep 2: Calculate fraction remaining\nAfter each half-life, half of the remaining nuclei decay.\nAfter n half-lives, fraction remaining = (1/2)ⁿ\nSubstituting:\nFraction = (1/2)⁴\nFraction = 1/16",
     "examtype": "utme",
     "examyear": "2007"
   },

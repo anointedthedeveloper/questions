@@ -112,6 +112,22 @@
     "examyear": "2007"
   },
   {
+    "id": 38,
+    "question": "The silver wall of a vacuum flask prevents heat loss due to ",
+    "option": {
+      "a": "conduction ",
+      "b": "Convection ",
+      "c": "Radiation ",
+      "d": "Diffraction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 56,
     "question": "Which of the following  is common to evaporation and boiling, they ",
     "option": {
@@ -1088,6 +1104,22 @@
     "examyear": "2005"
   },
   {
+    "id": 692,
+    "question": "If the distance between two point charges is increased by a factor of four, the magnitude of the electrostatic force between them will be",
+    "option": {
+      "a": "1/4 of its former value",
+      "b": "1/16 of its former value",
+      "c": " 1/2 of its former value",
+      "d": "4 times its former value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Coulomb's Law\nFormula: F = kq₁q₂/r²\nWhere:\n\nF = electrostatic force\nk = Coulomb's constant\nq₁, q₂ = charges\nr = distance between charges\n\nStep 2: Initial force\nF₁ = kq₁q₂/r²\nStep 3: New force when distance becomes 4r\nF₂ = kq₁q₂/(4r)²\nF₂ = kq₁q₂/16r²\nStep 4: Find ratio of new force to initial force\nF₂/F₁ = [kq₁q₂/16r²] / [kq₁q₂/r²]\nF₂/F₁ = 1/16\nStep 5: Conclusion\nF₂ = F₁/16\nThe force becomes 1/16 of its former value.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 699,
     "question": "A motorcyclist traveling at 30 m/s starts to apply his brakes when he is 50 m from the traffic light that had just turned red. If he reached the traffic light, his deceleration is",
     "option": {
@@ -1264,6 +1296,38 @@
     "examyear": "2009"
   },
   {
+    "id": 896,
+    "question": "A progressive wave is represented by y = 10sin(1000πt - πx/34). Two layers of the wave separated by 153cm have a phase difference of?",
+    "option": {
+      "a": "270°",
+      "b": "45°",
+      "c": " 90°",
+      "d": " 180°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given wave equation:\ny = 10sin(1000πt - πx/34)\nStandard form:\ny = A sin(ωt - kx)\nComparing:\n\nAmplitude (A) = 10\nAngular frequency (ω) = 1000π\nWave number (k) = π/34\n\nStep 1: Calculate wavelength\nk = 2π/λ\nπ/34 = 2π/λ\nλ = 2π × 34/π = 68 cm\nStep 2: Calculate phase difference for separation of 153 cm\nPhase difference formula:\nΔφ = 2π × (distance/wavelength)\nΔφ = 2π × (153/68)\nΔφ = 2π × 2.25\nΔφ = 4.5π radians\nStep 3: Convert to degrees\nΔφ = 4.5π × (180°/π)\nΔφ = 4.5 × 180°\nΔφ = 810°\nStep 4: Reduce to equivalent angle (0° to 360°)\n810° = 2 × 360° + 90°\nEquivalent phase difference = 90°",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 910,
+    "question": "The density of a certain oil on frying becomes 0.4 kgm⁻³ with the volume of 20m³. What will be its initial volume when its initial density is 0.8 kgm⁻³ assuming no loss of oil due to spillage?",
+    "option": {
+      "a": "12 m³",
+      "b": " 10 m³",
+      "c": " 8 m³",
+      "d": "5 m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial density (ρ₁) = 0.8 kg/m³\nFinal density (ρ₂) = 0.4 kg/m³\nFinal volume (V₂) = 20 m³\nInitial volume (V₁) = ?\nNo loss of oil (mass conserved)\n\nKey principle:\nMass remains constant (no spillage)\nm₁ = m₂\nUsing density formula:\nm = ρV\nStep 1: Set up equation\nρ₁V₁ = ρ₂V₂\nStep 2: Solve for initial volume\nV₁ = (ρ₂V₂)/ρ₁\nSubstituting values:\nV₁ = (0.4 × 20)/0.8\nV₁ = 8/0.8\nV₁ = 10 m³",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 922,
     "question": "An object is embedded in a block of ice, 10 cm below the plane surface. if the refractive index of the ice is 1.50, the apparent depth below the surface is?",
     "option": {
@@ -1388,6 +1452,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nLoad = 250 N\nDistance moved by load = 30 m\nWork against friction = 1500 J\n\nSolution:\n\nStep 1: Calculate useful work output\nWork output = Load × distance = 250 N × 30 m = 7500 J\n\nStep 2: Calculate total work input\nWork input = Work output + Work against friction = 7500 J + 1500 J = 9000 J\n\nStep 3: Calculate efficiency\nEfficiency = (Work output / Work input) × 100%\nEfficiency = (7500 / 9000) × 100% = 0.8333 × 100% = 83.33%",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1015,
+    "question": "2000 cm³ of a gas is collected at 27°C and 700 mmHg. What is the volume of the gas at standard temperature and pressure?",
+    "option": {
+      "a": "1896.5 cm³",
+      "b": "1767.3 cm³",
+      "c": "1676.3 cm³",
+      "d": "1456.5 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nInitial volume, V₁ = 2000 cm³\nInitial temperature, T₁ = 27°C = 27 + 273 = 300 K\nInitial pressure, P₁ = 700 mmHg\nStandard temperature, T₂ = 0°C = 273 K\nStandard pressure, P₂ = 760 mmHg\n\nSolution:\n\nStep 1: Combined gas law\nFor a fixed mass of gas: (P₁V₁)/T₁ = (P₂V₂)/T₂\n\nStep 2: Rearrange for V₂\nV₂ = (P₁V₁/T₁) × (T₂/P₂)\n\nStep 3: Substitute values\nV₂ = (700 × 2000 / 300) × (273 / 760)\n\nStep 4: Simplify\n700 × 2000 = 1 400 000\n1 400 000 / 300 = 4 666.6667\n273 / 760 = 0.35921\n\nV₂ = 4 666.6667 × 0.35921 = 1 676.3 cm³",
     "examtype": "utme",
     "examyear": "2012"
   },

@@ -64,6 +64,22 @@
     "examyear": "2009"
   },
   {
+    "id": 65,
+    "question": "A number of pencils were shared out among peter, Paul and Audu in the ratio 2:3:5 respectively. If Peter got 5, how many were shared? ",
+    "option": {
+      "a": "15",
+      "b": "25",
+      "c": "30",
+      "d": "50"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 66,
     "question": "Solve 4x2 +20x -24 =0",
     "option": {
@@ -704,6 +720,22 @@
     "examyear": "2008"
   },
   {
+    "id": 539,
+    "question": "If m * n = n - (m+2) for any real number m and n find the value of 3*(-5)?",
+    "option": {
+      "a": "-6",
+      "b": "-8",
+      "c": "-10",
+      "d": "-12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "m * n = n - (m+2)\n= -5 - (3+2)\n= -5-5\n= -10",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 561,
     "question": "The probability of a student passing any examination is 2/3. If the students takes three examination, what is the probability that he will not pass any of them?",
     "option": {
@@ -748,6 +780,22 @@
     "image": "",
     "answer": "d",
     "solution": "∫(sin χ + 2)dχ = (∫sin χ + ∫2)dx\n= -cos χ + 2χ + K",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 619,
+    "question": "W is directly proportional to U. If W = 5 when U = 3, find U when W = 2/7",
+    "option": {
+      "a": "6/35",
+      "b": "10/21",
+      "c": "21/10",
+      "d": "35/6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "W α U\n\nW = ku\n\nu = w/k; 2/7 x 3/5\n\n= 6/35",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -1232,6 +1280,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1048,
+    "question": "The chord ST of a circle is equal to the radius r of the circle. Find the length of arc ST",
+    "option": {
+      "a": "πr/3",
+      "b": "πr/2",
+      "c": "πr/12",
+      "d": "πr/6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(r/2)/r Sin θ = 1/2\nθ = sin<sp>(−1)</sup> (1/2) = 30°\n = 60°\n \n\nLength of arc (minor)\n\nST = θ/360 x 2πr\n \n\n60/360 × 2π × r = π/3\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1080,
     "question": "The mean of ten positive numbers is 16. When another number is added, the mean becomes 18. Find the eleventh number",
     "option": {
@@ -1516,6 +1580,22 @@
     "image": "",
     "answer": "c",
     "solution": "∫sin2xdx =1/2(−cos2x) + k\n\n\n−1/2cos2x + k",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1221,
+    "question": "Find the mode of the distribution above",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206670/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q36_vu08au.jpg",
+    "answer": "d",
+    "solution": "The number with the highest frequency = 4",
     "examtype": "utme",
     "examyear": "2014"
   },

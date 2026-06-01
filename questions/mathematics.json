@@ -13952,6 +13952,22 @@
     "examyear": "2019"
   },
   {
+    "id": 1013,
+    "question": "Each of the interior angles of a regular polygon is 140°. Calculate the sum of all the interior angles of the polygon.",
+    "option": {
+      "a": "1080°",
+      "b": "1260°",
+      "c": " 2160°",
+      "d": "1800°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Since each interior angle = 140°;\n\nEach exterior angle = 180° - 140° = 40°\n\nNumber of sides of the polygon = 360°/40°\n= 9 \n\nSum of angles in the polygon = 140° x 9\n\n= 1260°",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 1014,
     "question": "A man bought a car newly for ₦1,250,000. He had a crash with the car and later sold it at the rate of ₦1,085,000. What is the percentage gain or loss of the man?",
     "option": {

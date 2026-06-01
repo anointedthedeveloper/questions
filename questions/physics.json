@@ -7824,6 +7824,22 @@
     "examyear": "2024"
   },
   {
+    "id": 590,
+    "question": "Which of the following is the best as shaving mirror?",
+    "option": {
+      "a": "Concave mirror",
+      "b": "Convex mirror",
+      "c": "plane mirror",
+      "d": "parabolic mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A concave mirror is the best choice for a shaving mirror because it produces a magnified, erect, virtual image when the object (face) is placed within its focal length, making it easy to see fine details clearly.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 591,
     "question": "A refrigerator uses 150W. If it is kept on for 336 hours non-stop, what is the energy consumed in KWh?",
     "option": {
@@ -8844,6 +8860,22 @@
     "image": "",
     "answer": "b",
     "solution": "The impossibility of separating a north pole from a south pole is a consequence of the non‑existence of magnetic monopoles. This is a fundamental property of magnetism.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 679,
+    "question": "The electric field intensity in a place where a charge of 10⁻¹⁰ C experiences a force of 0.4 N is?",
+    "option": {
+      "a": "4.0 × 10⁷ N C⁻¹",
+      "b": "8.0 × 10⁹ N C⁻¹",
+      "c": "8.0 × 10⁻¹² N C⁻¹",
+      "d": "4.0 × 10⁹ N C⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nCharge, q = 10⁻¹⁰ C\nForce, F = 0.4 N\n\nStep 1: Formula for electric field intensity\nE = F / q\n\nStep 2: Substitute values\nE = 0.4 N / 10⁻¹⁰ C = 0.4 × 10¹⁰ N C⁻¹\n\nStep 3: Express in scientific notation\n0.4 × 10¹⁰ = 4.0 × 10⁹ N C⁻¹",
     "examtype": "utme",
     "examyear": "2005"
   },

@@ -6592,6 +6592,22 @@
     "examyear": "2023"
   },
   {
+    "id": 502,
+    "question": "Find the tension in the two cords shown in the figure above. Neglect the mass of the cords, and assume that the angle is 38° and the mass m is 220 kg\n[Take g = 9.8 ms⁻²]",
+    "option": {
+      "a": "T₁ = 2864 N, T₂= 3612 N",
+      "b": " T₁= 3612 N, T₂ = 2864 N",
+      "c": "T₁= 3502 N, T₂= 2760 N",
+      "d": "T₁ = 2760 N, T₂ = 3502 N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614619/ALOC-Questions/Physics/2023/physics_2023-Q3_yxq78q.png",
+    "answer": "c",
+    "solution": "Given information:\n\nMass, m = 220 kg\nAngle with horizontal, θ = 38°\nAcceleration due to gravity, g = 9.8 m/s²\nT₁ = tension in inclined cord\nT₂ = tension in horizontal cord\nWeight W = 2156 N (acts vertically downward)\n\nSolution:\nStep 1: Calculate the weight of the mass\nW = mg = 220 × 9.8 = 2156 N\nStep 2: Analyze forces at the junction point\nAt the junction, three forces act in equilibrium:\n\nT₁ (along inclined cord at 38° to horizontal)\nT₂ (along horizontal cord)\nW = 2156 N (vertically downward)\n\nStep 3: Resolve forces vertically\nΣFᵧ = 0\nT₁ sin 38° = W\nT₁ sin 38° = 2156\nT₁ = 2156/sin 38°\nT₁ = 2156/0.6157\nT₁ = 3502 N\nStep 4: Resolve forces horizontally\nΣFₓ = 0\nT₁ cos 38° = T₂\nT₂ = 3502 × cos 38°\nT₂ = 3502 × 0.788\nT₂ = 2760 N  https://res.cloudinary.com/aloc-ng/image/upload/v1765614459/ALOC-Questions/Physics/2023/physics_2023-Q3_SOLUTION_aannes.png",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 504,
     "question": "On a particular hot day, the temperature is 40°C and the partial pressure of water vapor in the air is 38.8 mmHg. What is the relative humidity?",
     "option": {
@@ -7244,6 +7260,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nApplied force, F = 150 N\nAngle to the horizontal, θ = 60º\nHorizontal component, Fₓ = ?\n\nSolution:\nStep 1: Resolve force into horizontal component\nThe horizontal component of a force is given by:\nFₓ = F cos θ\nStep 2: Substitute the known values\nFₓ = 150 × cos 60º\nFₓ = 150 × 0.5\nStep 3: Calculate horizontal component\nFₓ = 75 N",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 568,
+    "question": "A rectifier is a device that changes ",
+    "option": {
+      "a": " D.C to D.C",
+      "b": "D.C to A.C",
+      "c": "A.C to A.C",
+      "d": "A.C to D.C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A rectifier is a device that converts alternating current (AC) into direct current (DC). It enables the flow of current in one direction while blocking it in the opposite direction, thus transforming AC voltage into a form of DC voltage suitable for different applications.",
     "examtype": "utme",
     "examyear": "2024"
   },

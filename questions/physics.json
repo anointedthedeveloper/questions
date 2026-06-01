@@ -11904,6 +11904,22 @@
     "examyear": "2011"
   },
   {
+    "id": 957,
+    "question": "A metal of volume 40 cm³ is heated from 30°C to 90°C, the increase in volume is [Linear expansivity of the metal = 2.0 × 10⁻⁵ K⁻¹]",
+    "option": {
+      "a": " 0.12 cm³",
+      "b": " 4.00 cm³",
+      "c": " 1.20 cm³",
+      "d": " 0.144 cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial volume (V₀) = 40 cm³\nInitial temperature (T₁) = 30°C\nFinal temperature (T₂) = 90°C\nTemperature change (ΔT) = 90 - 30 = 60°C = 60 K\nLinear expansivity (α) = 2.0 × 10⁻⁵ K⁻¹\nIncrease in volume (ΔV) = ?\n\nStep 1: Find volume expansivity (γ)\nFor isotropic materials:\nγ = 3α\nγ = 3 × 2.0 × 10⁻⁵\nγ = 6.0 × 10⁻⁵ K⁻¹\nStep 2: Calculate increase in volume\nΔV = V₀γΔT\nSubstituting values:\nΔV = 40 × 6.0 × 10⁻⁵ × 60\nΔV = 40 × 60 × 6.0 × 10⁻⁵\nΔV = 2400 × 6.0 × 10⁻⁵\nΔV = 14,400 × 10⁻⁵\nΔV = 0.144 cm³",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 958,
     "question": "A copper wire was subjected to a tensile stress of 7.7 × 10⁷ Nm⁻². Calculate the strain of the wire. [Young's modulus = 1.1 × 10¹¹ Nm⁻²]",
     "option": {

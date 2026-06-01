@@ -192,6 +192,22 @@
     "examyear": "2008"
   },
   {
+    "id": 33,
+    "question": "A cone has base radius 4cm and  height 3cm. The area of its curved surface is",
+    "option": {
+      "a": "12pcm2     ",
+      "b": "20pcm2",
+      "c": "24pcm2 ",
+      "d": "15cm2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 37,
     "question": "Dividing 2x3 – x2 – 5x + 1 by x  + 3 gives the remainder ",
     "option": {
@@ -2768,6 +2784,22 @@
     "examyear": "2012"
   },
   {
+    "id": 741,
+    "question": "If ∣∣∣5, x, 3, 2∣∣∣ = ∣∣∣3, 4, 5, 5∣∣∣, find the value of x",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716130351/ALOC-Questions/Mathematics/2012/2012_JAMB_Q21_ljgupi.jpg",
+    "answer": "c",
+    "solution": "10 - 3x = 15 - 20\n\n-3x = 15 - 20 - 10\n\n-3x = -15\n\nx = 5",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 743,
     "question": "The angles of a polygon are given by x, 2x, 3x, 4x and 5x respectively. Find the value of x.",
     "option": {
@@ -2910,6 +2942,22 @@
     "solution": "Area of sector = θ/360° × πr<sup2</sup>\n= 150/360 × π × 12<sup>2</sup>\n= 60π cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 770,
+    "question": "Convert 27<sub>10</sub>  to another number in base three",
+    "option": {
+      "a": "1001<sub>3</sub> ",
+      "b": "1010<sub>3</sub> ",
+      "c": "1100<sub>3</sub> ",
+      "d": "1000<sub>3</sub> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
   },
   {
     "id": 773,
@@ -4556,6 +4604,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007996/ALOC-Questions/Mathematics/2023/Screenshot_2024-08-18_at_8.06.28_PM_nw7cet.png",
     "answer": "b",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1170,
+    "question": "How many students scored at least 25%",
+    "option": {
+      "a": "16",
+      "b": "19",
+      "c": " 3",
+      "d": " 8"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008016/ALOC-Questions/Mathematics/2023/MATH_2023_Q34_sissn4.jpg",
+    "answer": "a",
+    "solution": "Number of students who scored atleast 25% = 5 + 3 + 8 = 16",
     "examtype": "utme",
     "examyear": "2023"
   },

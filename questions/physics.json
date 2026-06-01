@@ -3008,6 +3008,22 @@
     "examyear": "2004"
   },
   {
+    "id": 647,
+    "question": "Calculate the angle of minimum deviation for a ray which is refracted through an equiangular prism of refractive index 1.4",
+    "option": {
+      "a": "60°",
+      "b": "29°",
+      "c": "99°",
+      "d": "90°\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nEquiangular prism (all angles equal to 60°)\nAngle of prism, A = 60°\nRefractive index, n = 1.4\nAngle of minimum deviation, Dₘ = ?\n\nSolution:\nStep 1: Formula for minimum deviation\nAt minimum deviation:\nn = sin[(A + Dₘ)/2] / sin(A/2)\nWhere:\n\nn = refractive index\nA = angle of prism\nDₘ = angle of minimum deviation\n\nStep 2: Substitute known values\n1.4 = sin[(60° + Dₘ)/2] / sin(60°/2)\n1.4 = sin[(60° + Dₘ)/2] / sin(30°)\n1.4 = sin[(60° + Dₘ)/2] / 0.5\nStep 3: Solve for the numerator\nsin[(60° + Dₘ)/2] = 1.4 × 0.5\nsin[(60° + Dₘ)/2] = 0.7\nStep 4: Find the angle\n(60° + Dₘ)/2 = sin⁻¹(0.7)\n(60° + Dₘ)/2 = 44.43°\nStep 5: Solve for Dₘ\n60° + Dₘ = 2 × 44.43°\n60° + Dₘ = 88.86°\nDₘ = 88.86° - 60°\nDₘ = 28.86° ≈ 29°",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 656,
     "question": "An object is projected from a height of 80 m above the ground with a velocity of 40ms⁻¹ at an angle of 30° to the horizontal. The time of flight [g ≈ 10m/s²]",
     "option": {
@@ -4076,6 +4092,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nInitial density (ρ₁) = 0.8 kg/m³\nFinal density (ρ₂) = 0.4 kg/m³\nFinal volume (V₂) = 20 m³\nInitial volume (V₁) = ?\nNo loss of oil (mass conserved)\n\nKey principle:\nMass remains constant (no spillage)\nm₁ = m₂\nUsing density formula:\nm = ρV\nStep 1: Set up equation\nρ₁V₁ = ρ₂V₂\nStep 2: Solve for initial volume\nV₁ = (ρ₂V₂)/ρ₁\nSubstituting values:\nV₁ = (0.4 × 20)/0.8\nV₁ = 8/0.8\nV₁ = 10 m³",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 919,
+    "question": "During a thunderstorm, the sound is heard over a long time. this phenomenon is referred to as?",
+    "option": {
+      "a": " diffraction of sound",
+      "b": "refraction of sound",
+      "c": "superposition",
+      "d": "reveraberation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The lengthening effect of sound is known as reverberation.",
     "examtype": "utme",
     "examyear": "2010"
   },

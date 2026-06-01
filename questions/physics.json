@@ -2160,6 +2160,22 @@
     "examyear": "2015"
   },
   {
+    "id": 148,
+    "question": "What is the relationship mechanical advantage (MA) velocity Ratio (V.R) and efficiency with percentage?",
+    "option": {
+      "a": "e = M.A/V.R × 100 %",
+      "b": "M.A = E.V.R",
+      "c": "V.R = 1 ÷ sin θ M.A",
+      "d": "M.A = 1/E × 100%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Efficiency of a machine relates the output to the input of the machine.\nKey definitions:\n\nMechanical Advantage (M.A) = Output force/Input force (what you get out)\nVelocity Ratio (V.R) = Input distance/Output distance (what you put in)\nEfficiency (E) = (Useful work output)/(Work input)\n\nRelationship:\nEfficiency can be expressed as:\nEfficiency = (Mechanical Advantage)/(Velocity Ratio)\nIn percentage form:\nEfficiency (%) = (M.A/V.R) × 100%\nWhy this relationship:\n\nM.A represents the force advantage (output/input)\nV.R represents the distance disadvantage (input/output)\nEfficiency = (Force advantage)/(Distance disadvantage)\nIn an ideal machine (100% efficient), M.A = V.R\n\nAnswer: A. e = M.A/V.R × 100%\nThis formula shows that efficiency is the ratio of mechanical advantage to velocity ratio, expressed as a percentage.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 150,
     "question": "Convert 45°C to kelvin",
     "option": {
@@ -13920,6 +13936,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1030,
+    "question": "Disperson of white light is the ability of white light to",
+    "option": {
+      "a": " penetrate air, water and glass",
+      "b": "move in a straight line",
+      "c": "move around corners",
+      "d": "separate to its component colours"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Dispersion is the ability of white light to separate into its component colours.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1031,
     "question": "A newly charged 12V accumulator can easily start a car whereas eight new dry cells in series with a effective e.m.f. of 12V cannot start the same car because",
     "option": {
@@ -14172,6 +14204,22 @@
     "image": "",
     "answer": "c",
     "solution": "\nGiven information:\n\nMass of water (m) = 5000 kg\nHeight (h) = 60 m\nTime (t) = 15 min = 15 × 60 = 900 s\ng = 10 m/s² (assumed)\nPower (P) = ?\n\nUnderstanding power:\nPower = Work done / Time taken\nStep 1: Calculate work done\nWork = Potential energy gained\nW = mgh\nSubstituting values:\nW = 5000 × 10 × 60\nW = 3,000,000 J\nW = 3.0 × 10⁶ J\nStep 2: Calculate power\nP = W/t\nP = (3.0 × 10⁶)/900\nP = 3333.33 W\nP = 3.3 × 10³ W\nP = 3.3 × 10³ Js⁻¹",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1053,
+    "question": "A gas at a pressure of 10⁵ Nm⁻² expands from 0.6 m³ to 1.2 m³ at constant temperature, the work done is",
+    "option": {
+      "a": "7.0 × 10⁶ J",
+      "b": "6.0 × 10⁶ J",
+      "c": "6.0 × 10⁵ J",
+      "d": "6.0 × 10⁴ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial pressure (P₁) = 10⁵ N/m² = 10⁵ Pa\nInitial volume (V₁) = 0.6 m³\nFinal volume (V₂) = 1.2 m³\nTemperature = constant (isothermal process)\nWork done (W) = ?\n\nW = P₁ × ΔV = 10⁵ × 0.6 = 6.0 × 10⁴ J",
     "examtype": "utme",
     "examyear": "2013"
   },

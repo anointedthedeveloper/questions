@@ -560,6 +560,22 @@
     "examyear": "2010"
   },
   {
+    "id": 76,
+    "question": "An air bubble at the bottom of a lake has a volume of 20cm3, pressure of 4.9Pa, and temperature 4oc the bubble rises to the surface where the temperature is 20oc and the pressure 1.0Pa. Find the volume as the bubble reaches the surface. (take 1 atm = 1.0 x 105 N/m2) ",
+    "option": {
+      "a": "124cm3 ",
+      "b": "319cm3 ",
+      "c": "60cm3 ",
+      "d": "104 cm3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 77,
     "question": "  A gas at constant pressure of 4.0 x 105 Pa is cooled so that its volume decreases from 1.6m3 to 1.2m3. What work is performed by the gas? ",
     "option": {
@@ -1392,6 +1408,22 @@
     "examyear": "2016"
   },
   {
+    "id": 197,
+    "question": "A dynamo primarily converts",
+    "option": {
+      "a": "Mechanical energy into electrical energy",
+      "b": "Electrical energy into kinetic energy",
+      "c": "Potential energy into kinetic energy",
+      "d": "Kinetic energy into potential energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A dynamo (generator) works by:\n\nUsing mechanical rotation (turning motion)\nTo generate electrical energy\nThrough electromagnetic induction\n\nProcess:\nMechanical energy (rotation) → Magnetic field interaction → Electrical energy (current)\nExample:\n\nBicycle dynamo: wheel rotation → electrical energy for lights\nPower plant generator: turbine rotation → electrical energy\n\nA dynamo converts mechanical energy into electrical energy.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 202,
     "question": "A train with an initial velocity of 20ms-1 is subjected to a uniform deceleration of 2ms-2. The time required to bring the train to a complete halt is",
     "option": {
@@ -1644,6 +1676,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610999/ALOC-Questions/Physics/2017/2017_Q_20_jqc9yc.png",
     "answer": "d",
     "solution": "Series arrangement:\nIf the two 2µF are in parallel first: 2 + 2 = 4µF\nThen this 4µF is in series with the other 4µF:\n1/C_total = 1/4 + 1/4 = 2/4\nC_total = 2µF",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 251,
+    "question": "A man of mass 50kg ascends a flight of stairs 5m high in 5 seconds. If acceleration due to gravity is 10ms⁻², the power expended is",
+    "option": {
+      "a": "100W",
+      "b": "200W",
+      "c": "400W",
+      "d": "500W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 50 kg\nHeight (h) = 5 m\nTime (t) = 5 seconds\nAcceleration due to gravity (g) = 10 m/s²\nPower (P) = ?\n\nStep 1: Calculate work done against gravity\nWork = Force × Distance\nWork = Weight × Height\nWork = mgh\nWork = 50 × 10 × 5\nWork = 2500 J\nStep 2: Calculate power\nPower = Work/Time\nP = 2500/5\nP = 500 W",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3840,6 +3888,22 @@
     "examyear": "2004"
   },
   {
+    "id": 620,
+    "question": "In the diagram above, the ratio of he electric power dissipated in the 6Ω and the 3Ω resistor respectively is",
+    "option": {
+      "a": "2:1",
+      "b": "2:2",
+      "c": "1:3",
+      "d": "1:2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774291728/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_21_avkvtt.png",
+    "answer": "d",
+    "solution": "Circuit analysis:\nThe two resistors are connected in parallel across the 12V battery.\nStep 1: Voltage across each resistor\nIn a parallel circuit, voltage across each resistor is the same:\n\nV₁ = V₂ = 12 V\n\nStep 2: Power dissipated in each resistor\nFormula: P = V²/R\nPower in 6Ω resistor:\nP₁ = V²/R₁ = (12)²/6 = 144/6 = 24 W\nPower in 3Ω resistor:\nP₂ = V²/R₂ = (12)²/3 = 144/3 = 48 W\nStep 3: Calculate ratio\nRatio P₁ : P₂ = 24 : 48\nRatio P₁ : P₂ = 1 : 2",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 621,
     "question": "If the angle between two vectors P and Q is 0°, the vectors are said to",
     "option": {
@@ -3916,6 +3980,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296034/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_29_hfrs8z.png",
     "answer": "a",
     "solution": "Given information:\n\nForce 1: 4N (horizontal, pointing left)\nForce 2: 10N (horizontal, pointing right)\nForce 3: 8N (at 60° above horizontal, pointing right-upward)\nForce 4: 6N (at 60° below horizontal, pointing right-downward)\n\nSolution:\nStep 1: Resolve forces into horizontal components\nTaking rightward as positive direction:\n4N force (horizontal left):\nHorizontal component = -4 N\n10N force (horizontal right):\nHorizontal component = +10 N\n8N force (at 60° above horizontal):\nHorizontal component = 8 cos(60°) = 8 × 0.5 = 4 N\n6N force (at 60° below horizontal):\nHorizontal component = 6 cos(60°) = 6 × 0.5 = 3 N\nStep 2: Calculate net horizontal force\nNet horizontal force = -4 + 10 + 4 + 3\nNet horizontal force = 13 N (rightward)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 631,
+    "question": "What types of mirror are capable of producing parallel beams of light such as those arising from the headlamps of a car?",
+    "option": {
+      "a": " Parabolic mirrors",
+      "b": "Plane mirrors",
+      "c": "Cylindrical mirrors",
+      "d": "Spherical mirrors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Parabolic mirrors have a geometric property such that light rays originating at the focal point are reflected into a parallel beam. This principle is used in car headlamps, searchlights, and other devices that require a collimated beam.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4192,6 +4272,22 @@
     "examyear": "2005"
   },
   {
+    "id": 671,
+    "question": "The quantities of a good thermometer include?\nI. Reproducibility\nII. Sensibility (sensitivity)\nIII. High thermal capacity\nIV. High accuracy",
+    "option": {
+      "a": "I, II and IV only",
+      "b": "I, III and IV only",
+      "c": "I, II and III only",
+      "d": " II, III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "I. Reproducibility: A good thermometer should give consistent readings under the same conditions \n\nII. Sensibility (sensitivity): A good thermometer should detect small temperature changes\n\nIV. High accuracy: A good thermometer should give readings close to the true value.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 673,
     "question": "Which combination of the above is evident of the molecular nature of matter?\nI. Melting\nII. Boiling\nIII. Refraction\nIV. Conduction",
     "option": {
@@ -4204,6 +4300,22 @@
     "image": "",
     "answer": "b",
     "solution": "I. Melting: Solid to liquid transition; molecules gain energy to overcome fixed positions, showing molecular motion and interactions.\n\nII. Boiling: Liquid to gas transition; molecules gain enough energy to break intermolecular forces, demonstrating molecular kinetic energy and forces.\n\nIV. Conduction: Heat transfer via molecular collisions (or electron movement), directly showing molecular motion and energy transfer.                           Melting, boiling, and conduction are direct evidence of the molecular nature of matter.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 676,
+    "question": "An electric device is rated 2000 W, 250 v. The correct fuse rating of the device is?",
+    "option": {
+      "a": "9 A",
+      "b": "8 A",
+      "c": "6 A",
+      "d": "7 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\nPower, P = 2000 W\nVoltage, V = 250 V\n\nStep 1: Calculate operating current\nI = P / V = 2000 / 250 = 8 A\n\nStep 2: Determine fuse rating principle\nA fuse rating should be slightly higher than the normal operating current to allow for normal operation without unnecessary blowing, but not too high to fail protection.  9 A is the next higher standard value and provides a small safety margin.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -5408,6 +5520,22 @@
     "examyear": "2009"
   },
   {
+    "id": 886,
+    "question": "An aircraft attempts to fly due north at 100 km h⁻¹. If the wind blows against it from east to west at 60 km h⁻¹, its resultant velocity is?",
+    "option": {
+      "a": "117 km h⁻¹, N31°E",
+      "b": "127 km h⁻¹, N31°E",
+      "c": "117 km h⁻¹, N31°W",
+      "d": "127 km h⁻¹, N31°W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nVelocity of aircraft relative to air, vₐ = 100 km h⁻¹ due north\nVelocity of wind, v_w = 60 km h⁻¹ from east to west (i.e., towards west)\n\nSolution:\n\nStep 1: Represent velocities as vectors\nLet north be positive y‑direction and east be positive x‑direction.\nvₐ = (0, 100) km h⁻¹\nv_w = (−60, 0) km h⁻¹ (since it blows towards west)\n\nStep 2: Resultant velocity\nResultant v = vₐ + v_w = (−60, 100) km h⁻¹\n\nStep 3: Calculate magnitude\n|v| = √[(−60)² + (100)²] = √(3600 + 10000) = √13600 ≈ 116.62 km h⁻¹ ≈ 117 km h⁻¹\n\nStep 4: Calculate direction\nThe angle θ from north towards west is given by:\ntan θ = (west component) / (north component) = 60 / 100 = 0.6\nθ = tan⁻¹(0.6) ≈ 31°\n\nSince the westward component is negative x, the direction is N31°W.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 888,
     "question": "A body of mass 12 kg traveling at 4.2 m s⁻¹ collides with a second body of mass 18 kg at rest. Calculate their common velocity if the two bodies coalesce after collision?",
     "option": {
@@ -5612,6 +5740,22 @@
     "image": "",
     "answer": "d",
     "solution": "The lengthening effect of sound is known as reverberation.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 921,
+    "question": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is?",
+    "option": {
+      "a": "2 cm",
+      "b": " 3 cm",
+      "c": "4 cm",
+      "d": " 5 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nObject height, h₀ = 4 cm\nObject distance, u = 15 cm\nFocal length, f = 5 cm (positive for concave mirror in Cartesian sign convention)\n\nSolution:\n\nStep 1: Mirror formula\n1/f = 1/u + 1/v\n1/5 = 1/15 + 1/v\n\nStep 2: Solve for image distance v\n1/v = 1/5 – 1/15 = 3/15 – 1/15 = 2/15\nv = 15/2 = 7.5 cm\n\nStep 3: Magnification formula\nMagnification m = v / u = 7.5 / 15 = 0.5\nAlso, m = image height / object height = hᵢ / h₀\n\nStep 4: Find image height\nhᵢ = m × h₀ = 0.5 × 4 cm = 2 cm",
     "examtype": "utme",
     "examyear": "2010"
   },

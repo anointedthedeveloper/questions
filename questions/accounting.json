@@ -656,6 +656,22 @@
     "examyear": "1997"
   },
   {
+    "id": 181,
+    "question": "Which of the following is a normal account?",
+    "option": {
+      "a": "Machinery",
+      "b": "Debtors",
+      "c": "Creditors",
+      "d": "Salaries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 195,
     "question": "Which of the following is not a personal account?",
     "option": {
@@ -2224,6 +2240,22 @@
     "examyear": "2017"
   },
   {
+    "id": 633,
+    "question": "A business acquisition shows the following assets and liabilities: Plant and Machinery ₦190,000, Motor Vehicle ₦170,000, Stock ₦60,000, Current Liabilities ₦50,000, Purchase consideration ₦400,000. Determine the amount of goodwill.",
+    "option": {
+      "a": "₦110 000",
+      "b": " ₦80 000",
+      "c": " ₦90 000",
+      "d": " ₦30 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Net assets acquired = (₦190,000 + ₦170,000 + ₦60,000) – ₦50,000 = ₦420,000 – ₦50,000 = ₦370,000\nGoodwill = Purchase consideration – Net assets = ₦400,000 – ₦370,000 = ₦30,000.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 634,
     "question": "When starting with the cash book balance in preparing the bank reconciliation statement, the followings are added",
     "option": {
@@ -2988,6 +3020,22 @@
     "image": "",
     "answer": "c",
     "solution": "The depreciation to be charged to Department B can be calculated in two ways:\nMethod 1 - By difference:\nTotal depreciation - Department A's depreciation = ₦1,000 - ₦600 = ₦400\nMethod 2 - By proportion:\nDepartment B's share = 40% of ₦1,000 = ₦400",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 828,
+    "question": "The corresponding entry of personal accounts  found in the debit side of the cashbook is to ",
+    "option": {
+      "a": "credit real accounts",
+      "b": "credit the ledger",
+      "c": "debit real accounts",
+      "d": "debit the ledger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a personal account (e.g. a customer’s account) appears on the debit side of the cashbook (showing cash received), the corresponding entry is a credit in that customer’s ledger account. This follows the rule for personal accounts: debit the giver, credit the receiver. Here, the business (receiver of cash) is debited, so the customer (giver of cash) is credited in the ledger.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -4144,6 +4192,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1142,
+    "question": "<b>Use the information below to answer questions 28 and 29</b>\n\n...........PQ Manufacturing Company\n\nRaw materials (1/11/2001)...........₦3 500\nRaw materials (31/12/2001)..........₦4 900\nPurchase of raw materials...........₦56 000\nSalary .............................₦63 000\nWages...............................₦148 000\nFactory lighting ...................₦3 080\nPlant Depreciation..................₦2 800\nFactory Insurance ..................₦2 170\n\nThe overhead cost is?",
+    "option": {
+      "a": "₦71 050",
+      "b": "₦68 250",
+      "c": "₦67 970",
+      "d": "₦66 080"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Factory overheads normally include indirect factory costs (salaries of factory staff if not direct, lighting, depreciation, insurance) but exclude direct wages and raw materials consumed.\n\nOverhead =\nSalary + Factory lighting + Plant depreciation + Factory insurance\n= ₦63,000 + ₦3,080 + ₦2,800 + ₦2,170\n= ₦71,050",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1146,
     "question": "Given: \nRich Social Club \nCash................................>₦100,000\nLoan ...............................>₦30000\nSubscription in arrears.............>₦5,000\nSubscription in advance.............>₦15,000\n\nWhat is the accumulation fund?",
     "option": {
@@ -4206,6 +4270,22 @@
     "solution": "Given Information:\n\n20,000 ordinary shares issued at ₦1.50 per share\n1,500 ordinary shares were fully subscribed\nPayment schedule:\n\nOn application: ₦0.40\nOn allotment: ₦0.20\nFirst call (including premium of ₦0.50): ₦0.70\n\n\n\nStep 1: Determine the nominal value per share\nTotal payment per share = ₦0.40 + ₦0.20 + ₦0.70 = ₦1.30\nSince the issue price is ₦1.50 and there's a premium of ₦0.50 in the first call, the nominal value per share = ₦1.50 - ₦0.50 = ₦1.00\nStep 2: Calculate amounts received by stage\n\nApplication: 1,500 shares × ₦0.40 = ₦600\nAllotment: 1,500 shares × ₦0.20 = ₦300\nFirst call: 1,500 shares × ₦0.70 = ₦1,050\n\nStep 3: Determine what goes to Ordinary Share Capital Account\nThe Ordinary Share Capital Account only records the nominal value, not the premium.\nFrom the first call of ₦0.70:\n\nPremium portion: ₦0.50 (goes to Share Premium Account)\nNominal value portion: ₦0.70 - ₦0.50 = ₦0.20 (goes to Share Capital Account)\n\nStep 4: Calculate total in Ordinary Share Capital Account\n\nFrom application: 1,500 × ₦0.40 = ₦600\nFrom allotment: 1,500 × ₦0.20 = ₦300\nFrom first call (nominal portion): 1,500 × ₦0.20 = ₦300\n\nTotal in Ordinary Share Capital Account = ₦600 + ₦300 + ₦300 = ₦1,200",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 1165,
+    "question": "In preparing the final accounts, the bad debt account is closed by a transfer to the?",
+    "option": {
+      "a": "balance sheet",
+      "b": "provision for bad debt account",
+      "c": "profit and loss account",
+      "d": " trading account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Reason: bad debts are an expense (loss from trading) so the bad debts account is closed/ transferred to the profit & loss (income) account. (A provision for bad debts is a balance-sheet contra-asset, which is different.)",
+    "examtype": "utme",
+    "examyear": "2002"
   },
   {
     "id": 1169,

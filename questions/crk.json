@@ -128,6 +128,22 @@
     "examyear": "2007"
   },
   {
+    "id": 67,
+    "question": "Moses fled from pharaoh at the age of ",
+    "option": {
+      "a": "45",
+      "b": "40",
+      "c": "85",
+      "d": "120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 72,
     "question": "Who baptized the Ethiopian Eunuch? ",
     "option": {
@@ -155,6 +171,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 80,
+    "question": "God told Samuel that he, would punish Eli because he  ",
+    "option": {
+      "a": "did not correct his son’s sinful behavior ",
+      "b": "did not offer sacrifice as the: Law ",
+      "c": "did not warn the people of Israel to stop surfing ",
+      "d": "Warned his sons against rape and drunkenness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 85,
+    "question": "Hosanna means  ",
+    "option": {
+      "a": "Ride on in majesty ",
+      "b": "Ride on Glory ",
+      "c": "Ride on to die ",
+      "d": "Save me"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
@@ -215,6 +263,38 @@
       "b": "David",
       "c": "Jonathan",
       "d": "Solomon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 133,
+    "question": "Who according to James blaspheme the honourable name by which Christians are called",
+    "option": {
+      "a": "Non believers",
+      "b": "Pagan rulers",
+      "c": "Antichrists",
+      "d": "Rich people"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 140,
+    "question": "Among the spiritual gifts, love is supreme because it ",
+    "option": {
+      "a": "facilitates development ",
+      "b": "gives room for friendship ",
+      "c": "has eternal value ",
+      "d": "promotes understanding"
     },
     "section": "",
     "image": "",
@@ -320,6 +400,22 @@
     "examyear": "2013"
   },
   {
+    "id": 181,
+    "question": "The book of ____ mostly emphasized social justice",
+    "option": {
+      "a": "Amos   ",
+      "b": "Ezekiel   ",
+      "c": "Hoshea",
+      "d": "Isaiah"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 188,
     "question": "‘Those who honour me I will honour , and those who despise  me shall be lightly esteemed.’ Who was being addressed?  ",
     "option": {
@@ -368,6 +464,38 @@
     "examyear": "2013"
   },
   {
+    "id": 196,
+    "question": "The eunuch who went to Jerusalem to worship in Acts 8:27 was a  ",
+    "option": {
+      "a": "minister of God  ",
+      "b": "minister of Candace the queen Gaza  ",
+      "c": "minister of Candace the king of the Ethiopians",
+      "d": "minister of Candace the queen of the Ethiopians"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 197,
+    "question": "At the time of creation, the river that flowed out of Eden to water the garden divided into",
+    "option": {
+      "a": "Pishon, Hauijah, Gihon and Tigris",
+      "b": "Tigris, Cush, Assune and Hauijah",
+      "c": "Pishon, Tigris, Gihon and Euphrates",
+      "d": "Euphrates, Gihon, Assyna and Tigris"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 209,
     "question": "The wife of Hosea was called",
     "option": {
@@ -379,6 +507,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 212,
+    "question": "Jonah typified Jesus Christ when he",
+    "option": {
+      "a": "surrendered himself to be swallowed by the fish",
+      "b": "offered to lose his life that others might be saved",
+      "c": "rejected the message of God",
+      "d": "announced destruction for the Ninevites"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2005"
@@ -400,6 +544,22 @@
     "examyear": "2009"
   },
   {
+    "id": 267,
+    "question": "Jesus: stilling of the storm was to",
+    "option": {
+      "a": "escape from danger",
+      "b": "impress His disciples",
+      "c": "demonstrate His power",
+      "d": "help the fishermen."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 274,
     "question": "“1 will not eat until I have told my errand” In the statement above, the errand of Abraham’s servant was to",
     "option": {
@@ -411,6 +571,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 277,
+    "question": "According to proverbs, a son that is attentive to a father’s instruction will",
+    "option": {
+      "a": "be rich",
+      "b": "have eternal life",
+      "c": "gain insight",
+      "d": "be forgiven his sins"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -430,6 +606,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 295,
+    "question": "Prophet Hosea named his second child Not Pitied because God would no more pity the",
+    "option": {
+      "a": "kings of Judah",
+      "b": "kings of Israel",
+      "c": "house of Judah",
+      "d": "house of Israel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 300,
+    "question": "When asked to interpret Pharaoh’s dream, Joseph’s first response was",
+    "option": {
+      "a": "...God has revealed to Pharaoh what he is about to do.",
+      "b": "...It is not in me; God will give Pharaoh a favourable answer.",
+      "c": "...God will shortly bring it to pass.",
+      "d": "…let Pharaoh select a man discrete and wise"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
   },
   {
     "id": 303,
@@ -459,6 +667,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 323,
+    "question": "‘Follow me and leave the dead to bury their own dead’ By this statement, Jesus means that",
+    "option": {
+      "a": "disciples shall not attend burials",
+      "b": "there is no life after death",
+      "c": "following Him comes before anything else",
+      "d": "shall leave their families in God’s care"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -576,6 +800,22 @@
     "examyear": "2008"
   },
   {
+    "id": 357,
+    "question": "In his reform, King Josiah first attacked the",
+    "option": {
+      "a": "prostitutes that came around the temple at night",
+      "b": "priests that made burnt offerings in the temple",
+      "c": "Canaanite divinities - the Baal and Ashera",
+      "d": "traders who profaned the temple."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
     "id": 366,
     "question": "“Blessed are the peace makers for",
     "option": {
@@ -587,6 +827,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
+    "id": 385,
+    "question": "In the Epistle to Galatians, Christians are children of God through",
+    "option": {
+      "a": "faith in Christ",
+      "b": "keeping of the law",
+      "c": "helping the needy",
+      "d": "baptism and confirmation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2008"
@@ -606,6 +862,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2008"
+  },
+  {
+    "id": 401,
+    "question": "How did God guide Eleazar in choosing a wife for lsaac?",
+    "option": {
+      "a": "He caused Rebekah to give him free accommodation",
+      "b": "He made Rebekah’s parents willing to release her",
+      "c": "He caused His angel to go ahead of him",
+      "d": "He revealed to Rebekah before Eleazar’s arrival"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
   },
   {
     "id": 408,
@@ -727,6 +999,22 @@
       "b": "he should leave his country and Kindred.",
       "c": "the land would be given to his descendants.",
       "d": "in the land he should build an altar."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 454,
+    "question": "Eli, the priest in Shiloh, was condemned because he",
+    "option": {
+      "a": "allowed his children to deprive God of His share of sacrifice.",
+      "b": "allowed the Ark of God to be taken to the battle field",
+      "c": "did not take God’s message through Samuel seriously.",
+      "d": "officiated at the temple without the assistance of the prophet."
     },
     "section": "",
     "image": "",
@@ -928,6 +1216,22 @@
     "examyear": "2010"
   },
   {
+    "id": 563,
+    "question": "The person who discovered the book of law in the sanctuary during the reign of Josiah was",
+    "option": {
+      "a": "Zedekiah",
+      "b": "Huldah.",
+      "c": "Hilkiah",
+      "d": "Jeremiah."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 581,
     "question": "Before Barnabas and Saul were sent on missionary journey, the elders, laid hands on them. The laying on of  hands signifies",
     "option": {
@@ -1040,6 +1344,38 @@
     "examyear": "2010"
   },
   {
+    "id": 613,
+    "question": "After the dedication of the Temple, Ezra studied the law of the LORD in order to",
+    "option": {
+      "a": "defend the Jews against the Babylonians",
+      "b": "become the first judge in Jerusalem",
+      "c": "enhance his prophetic status",
+      "d": "teach His statutes and ordinances in Israel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 616,
+    "question": "In Prophet Hosea’s analysis, harlotry is equivalent to Israel’s",
+    "option": {
+      "a": "prostitution",
+      "b": "idolatrous practices",
+      "c": "religious practices",
+      "d": "adultery."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 618,
     "question": "Isaiah emphasized holiness above all things be¬cause God",
     "option": {
@@ -1051,6 +1387,38 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 620,
+    "question": "According to Isaiah, God sent him to",
+    "option": {
+      "a": "proclaim liberty to the captives",
+      "b": "proclaim victory over Israel’s enemies",
+      "c": "be a watchman over Israel",
+      "d": "destroy and overthrow nations."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 627,
+    "question": "According to Mark, after the transfiguration, Jesus charged His disciples to",
+    "option": {
+      "a": "be prepared for persecution",
+      "b": "tell no one what they had seen",
+      "c": "have no hands in His betrayal",
+      "d": "go to the Gentiles immediately"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1088,6 +1456,22 @@
     "examyear": "2010"
   },
   {
+    "id": 655,
+    "question": "Joel and Abijah were the sons of",
+    "option": {
+      "a": "Eli.",
+      "b": "Saul",
+      "c": "Samuel",
+      "d": "David."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 659,
     "question": "One of the main features of Solomon’s prayer at the dedication of the Temple was the",
     "option": {
@@ -1120,6 +1504,22 @@
     "examyear": "2011"
   },
   {
+    "id": 674,
+    "question": "When Jesus said “apart from me you can do nothing”, he \tmeant that Christians",
+    "option": {
+      "a": "pray without ceasing",
+      "b": ". \nmust faithfully trust in Him always.",
+      "c": "cannot pass examinations if they did not pray.",
+      "d": "should expect God to do everything for them."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 688,
     "question": "According to Paul in Corinthians the gospel message could only be lifeless when Christians",
     "option": {
@@ -1134,6 +1534,38 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
+  },
+  {
+    "id": 698,
+    "question": "“The sword devours now one and now another.” This statement was David’s reaction to the death of __________.",
+    "option": {
+      "a": "Saul",
+      "b": "Joab",
+      "c": "Ishbosheth",
+      "d": "Uriah"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 699,
+    "question": "After Abner’s death, David showed that he had sincerely forgiven him by ____________.",
+    "option": {
+      "a": "ordering the arrest of Joab who slew Abner",
+      "b": "directing all Israel to bury Abner with honour",
+      "c": "weeping and fasting for Abner for a whole day",
+      "d": "Giving Abner’s son a place of honour in Israel"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 702,
@@ -1232,6 +1664,22 @@
     "examyear": "2019"
   },
   {
+    "id": 735,
+    "question": "St. James in the teaching on faith and work gave the analogy of ________",
+    "option": {
+      "a": "A man who looks himself in the mirror and appreciates God for that",
+      "b": "A hungry man who approached his fellow Christian for help",
+      "c": "A man of little faith encouraging others to work",
+      "d": "A poor man with wretched clothing approaching the rich for help"
+    },
+    "section": "",
+    "image": "",
+    "answer": " b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 742,
     "question": "God instructed Saul to utterly destroy Amalek because_____",
     "option": {
@@ -1287,6 +1735,22 @@
       "b": "the Samaritans",
       "c": "the Jews",
       "d": "the Greeks"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 783,
+    "question": "The essence of St. Paul's teaching on Law and Grace is that___________",
+    "option": {
+      "a": "observance of the law is necessary for redemption in Christ",
+      "b": "what God truly rewards is the prayer for grace by Christians",
+      "c": "observance of the law only isn't a guarantee of salvation",
+      "d": "God's grace in Christians' lives shouldn't be a reason for continuing in sin"
     },
     "section": "",
     "image": "",
@@ -1376,6 +1840,22 @@
     "examyear": "2010"
   },
   {
+    "id": 829,
+    "question": "In the Epistle to the Romans, justification is received through ",
+    "option": {
+      "a": "faith in Jesus",
+      "b": "moral uprightness ",
+      "c": "observance of the law.   ",
+      "d": "giving of alms  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 833,
     "question": "According to Peter, a Christian should exercise his freedom by ",
     "option": {
@@ -1408,6 +1888,38 @@
     "examyear": "2010"
   },
   {
+    "id": 837,
+    "question": "Why did Paul wish to retain Onesimus?   ",
+    "option": {
+      "a": "To protect him from persecution   ",
+      "b": "Christianity was opposed to slavery ",
+      "c": "Philemon had earnestly requested that from Paul   ",
+      "d": "To serve him during his imprisonment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 845,
+    "question": "God made Pharaoh to chase and bring the Israelites back to Egypt so that He would",
+    "option": {
+      "a": "show that Moses was his true servant",
+      "b": "destroy first born males of Egyptians",
+      "c": "get glory over Pharaoh and his hosts",
+      "d": "reveal his supernatural powers to the world"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 852,
     "question": "Samuel said that rebellion was as the sin of divination just as stubbornness was as ",
     "option": {
@@ -1419,6 +1931,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 853,
+    "question": "“Has the Lord as great delight in burnt offerings and sacrifices as in obeying the voice of Lord? These words were directed to king",
+    "option": {
+      "a": "Ahab",
+      "b": "Saul",
+      "c": "Agag",
+      "d": "David"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -1648,6 +2176,22 @@
     "examyear": "2011"
   },
   {
+    "id": 1021,
+    "question": "On Ascension day two men in white robes inform the disciples that Jesus would ",
+    "option": {
+      "a": "send for them.   ",
+      "b": "be seen in heaven. ",
+      "c": "prepare a place for them.    ",
+      "d": "come again"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 1030,
     "question": "In his comparison of the human body with the body of Christ, Paul did not mention the ",
     "option": {
@@ -1691,6 +2235,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1047,
+    "question": "The boy Moses was hidden for three months because ",
+    "option": {
+      "a": "he was destined to become a great leader ",
+      "b": "he was attacked by an abominable disease ",
+      "c": "Pharaoh feared the growth of the Hebrew population ",
+      "d": "Pharaoh had decreed the murder of Hebrew male borns"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -1744,6 +2304,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1065,
+    "question": "“O seer go, flee away to the land of Judah and eat bread” This means Amos was to ",
+    "option": {
+      "a": "go and earn his living in Judah ",
+      "b": "go and settle in Judah ",
+      "c": "live only on bread in Judah ",
+      "d": "run to Judah and bake bread"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 1075,
     "question": "The appointment of deacons in the Early Church was meant to check",
     "option": {
@@ -1767,6 +2343,38 @@
       "b": "conversion of the residents of sharon ",
       "c": "conversion of Cornelius and his household ",
       "d": "healing of Dorcas and her family"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1082,
+    "question": "Partially, according to James, is practised in the church by ",
+    "option": {
+      "a": "neglecting the poor        ",
+      "b": "misusing church funds ",
+      "c": "respecting the educated members ",
+      "d": "offering service to non - believers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1083,
+    "question": "“Abraham believed God and it was reckoned to him as righteousness” James used this text to hightlight his teaching on",
+    "option": {
+      "a": "effective prayer  ",
+      "b": "faith and works ",
+      "c": "counselling ",
+      "d": "impartiality"
     },
     "section": "",
     "image": "",

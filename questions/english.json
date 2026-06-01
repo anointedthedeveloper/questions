@@ -6137,6 +6137,25 @@
     "category": "others"
   },
   {
+    "id": 359,
+    "question": "My father has been away on a journey but my mother  says she …...he …… this Friday.",
+    "option": {
+      "a": " expects/would arrive",
+      "b": "expected/win arrive ",
+      "c": "expects/will arrive",
+      "d": "expected/would arrive "
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 360,
     "question": "Kola was fined; ……….. thieves were given a jail sentence.",
     "option": {
@@ -26691,6 +26710,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 72,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1760,
+    "question": "\nThe minister considered the ministry's budget to be a drop in the ocean in view of the number of projects in the pipeline.",
+    "option": {
+      "a": "The pipeline project across the ocean will be abandoned unless budgetary allocation improves",
+      "b": "The amount available may be inadequate for projected expenditure",
+      "c": "The minister may be dropped for failing to complete a number of projects",
+      "d": "The money approved cannont complete the pipeline project acorss the ocean"
+    },
+    "section": "Select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "b",
+    "solution": "A drop in the ocean; a very small amount compared with what is needed or expected.",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 1,
     "hasPassage": 0,
     "category": "others"
   },

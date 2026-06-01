@@ -464,6 +464,22 @@
     "examyear": "2016"
   },
   {
+    "id": 178,
+    "question": "A Receipt and Payments Account reveals",
+    "option": {
+      "a": "net profit",
+      "b": "surplus",
+      "c": "cash in hand",
+      "d": "gross profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 180,
     "question": "In a partnership goodwill is recognized when",
     "option": {
@@ -2028,6 +2044,22 @@
     "image": "",
     "answer": "d",
     "solution": "Net assets acquired = (₦190,000 + ₦170,000 + ₦60,000) – ₦50,000 = ₦420,000 – ₦50,000 = ₦370,000\nGoodwill = Purchase consideration – Net assets = ₦400,000 – ₦370,000 = ₦30,000.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 634,
+    "question": "When starting with the cash book balance in preparing the bank reconciliation statement, the followings are added",
+    "option": {
+      "a": "Unpresented cheque",
+      "b": "Dividend",
+      "c": " Uncredited cheque",
+      "d": "credit transfer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Uncredited cheque have to be less when starting with balance as per cashbook not add because the cheque are yet to be credited by the bank",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4076,6 +4108,22 @@
     "image": "",
     "answer": "d",
     "solution": "The general ledger contains the date of the transaction, a description of the details of the transactions, the debit column that shows all the debit entries, the credit column that records all the credit entries of the account.\n\nHence we have; date, description, debit, and credit column",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1277,
+    "question": "An expenses account is closed by a debit to?",
+    "option": {
+      "a": " an asset account and a credit to the expenses account",
+      "b": " the expenses account and a credit to an asset account",
+      "c": "profit and loss account and a creit to the expenses account",
+      "d": "the expenses account and a credit to profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When closing an expense account (which normally has a debit balance), you:\n\nCredit the expense account to bring its balance to zero\n\nDebit the Profit and Loss (income summary) account to transfer that expense",
     "examtype": "utme",
     "examyear": "2000"
   },

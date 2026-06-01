@@ -2832,6 +2832,22 @@
     "examyear": "2013"
   },
   {
+    "id": 256,
+    "question": "Malaria fever can be transmitted through",
+    "option": {
+      "a": "hand shaking",
+      "b": "eating of unbalanced diet",
+      "c": "mosquito bite",
+      "d": "eating of bush meat such as bat and monkey"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 257,
     "question": "Plenty of money in the society, not backed by commensurate productive activities can lead to",
     "option": {
@@ -4023,6 +4039,22 @@
       "b": "Driving skill",
       "c": "Decorum",
       "d": "Deviance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2016"
+  },
+  {
+    "id": 356,
+    "question": "Which of the following statements is not correct?",
+    "option": {
+      "a": "Valid driver’s license must be obtained before attempting to drive",
+      "b": "Flowing garment can be worn on a motorcycle or bicycle",
+      "c": "Headlights should be used during unfavourable weather",
+      "d": "Drivers must not engage in distractive activities while driving"
     },
     "section": "",
     "image": "",

@@ -48,6 +48,22 @@
     "examyear": "2011"
   },
   {
+    "id": 63,
+    "question": " An expenditure whose benefit is finished or enjoyed immediately is called: ",
+    "option": {
+      "a": "Expense   ",
+      "b": "Liability ",
+      "c": "Cost ",
+      "d": "Income"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 71,
     "question": " On December 31, 2012, Infinite Grace had a note payable due on August 1, 2013. On January 20, 2013, Infinite Grace signed a financing agreement to borrow the balance of the note payable from a lending institution to refinance the note. The agreement does not expire within one year, and no violation of any provision in the financing agreement exists. On  February 1, 2013. Infinite Grace was informed by its financial advisor that the lender is not expected to be financially capable of honouring the agreement. Infinite Grace's financial statements were issued on March 31, 2013. How should Infinite Grace classify the note on its balance sheet at December 31,2012? ",
     "option": {
@@ -416,6 +432,22 @@
     "examyear": "2004"
   },
   {
+    "id": 409,
+    "question": "In converting single entry to final account, the balancing figures on the income and expenses accounts are transferred to the",
+    "option": {
+      "a": "revenue and expenditure account",
+      "b": "receipts and payments account",
+      "c": "profit and loss appropriation account",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 410,
     "question": "Determine the amount for the beginning inventory",
     "option": {
@@ -480,6 +512,22 @@
     "examyear": "2004"
   },
   {
+    "id": 472,
+    "question": "The fourth stage of the accounting information system is",
+    "option": {
+      "a": "recording",
+      "b": "interpreting",
+      "c": "summarizing",
+      "d": "classifying."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 480,
     "question": "What is the total debit for the trial balance?",
     "option": {
@@ -540,6 +588,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Major Difference Of The Financial Statement between a Sole Proprietorship And Partnership is More than one capital account. The number of capital accounts depends on the number of partners in the Partnership concern. Profit & loss is distributed to the partners' capital account according to the agreed ratio",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 526,
+    "question": "Prime cost is one of the following",
+    "option": {
+      "a": "expenses which can be identified with an allocated to cost centers",
+      "b": "aggregate direct material cost, direct labour cost and variable direct expenses",
+      "c": "the cost taken into account in the production process whether direct or indirect",
+      "d": "the cost of commodities supply to an undertaking"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "prime cost is the direct cost of a commodity in terms of the materials and labour involved in its production, excluding fixed costs.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -668,6 +732,22 @@
     "image": "",
     "answer": "d",
     "solution": "Capital expenditure; money spent by a business or organization on acquiring or maintaining fixed assets, such as land, buildings, and equipment.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 599,
+    "question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled ₦800,000. A provision for bad and doubtful debts.\nFind the amount for sundry debtors after provision.",
+    "option": {
+      "a": "₦744,800",
+      "b": " ₦760,000",
+      "c": "₦784,000",
+      "d": "₦744,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Assuming the provision for bad and doubtful debts is set at 7% of sundry debtors (a common rate):\n\nGross debtors = ₦800,000\n\nProvision = 7% of ₦800,000 = ₦56,000\n\nNet debtors = ₦800,000 – ₦56,000 = ₦744,000",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -976,6 +1056,22 @@
     "examyear": "2021"
   },
   {
+    "id": 834,
+    "question": "If goods are sent to branch at 25% on cost, what will be the cost of goods sent to the branch at a selling price of ₦100,000?\n",
+    "option": {
+      "a": "₦130,000",
+      "b": " ₦75,000",
+      "c": " ₦80,000",
+      "d": " ₦125,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A 25% markup on cost means\n\n\nSelling Price=Cost×(1+0.25)=1.25×Cost.\nSo if the selling price is ₦100,000, the cost is\n\n100,000/1.25 = ₦80,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 852,
     "question": "One of the items listed below will not be found in a company’s memorandum and article of association. Which is it?",
     "option": {
@@ -1180,6 +1276,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Calculate the average cost after each receipt\n\nAug. 1\n\nReceived 20 units @ ₦60\n\nAverage cost = ₦60 (only one purchase so far)\n\nAug. 6\n\nReceived 20 units @ ₦68\n\nSimple average = (60 + 68)/2 = 128/2 = ₦64 per unit\n\nStep 2: Issue stock (Aug. 10)\n\nIssued 16 units at ₦64 each (no change in average price — simple average method keeps cost until next purchase)\n\nBalance after issue = 20 + 20 − 16 = 24 units @ ₦64\n\n\nStep 3: Aug. 20 purchase\n\nReceived 40 units @ ₦80\n\n₦ew average = (64 + 80)/2 = 144/2 = 72 per unit\n\n\nStep 4: Aug. 31 issue\n\nIssued 48 units @ ₦72 (still same average after last purchase)\n\nClosing stock units = 24 + 40 − 48 = 16 units @ ₦72\n\nCost per unit of closing stock = ₦72",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 985,
+    "question": "Which of the following is a credit item in creditors ledger control account?",
+    "option": {
+      "a": "Purchases returns",
+      "b": "Bills payable",
+      "c": "Purchasess",
+      "d": "Cash receipts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a Creditors Ledger Control Account (also called Accounts Payable Control Account):\nCredit items are transactions that increase what we owe to suppliers:\n\nPurchases - When we buy goods on credit, we owe more to suppliers (CREDIT)\nAdditional purchases on credit\nInterest or charges added by suppliers\n\nDebit items are transactions that decrease what we owe to suppliers:\n\nPurchases returns (Option A) - We return goods, so we owe less (DEBIT)\nBills payable (Option B) - When we issue a bill payable, it reduces the creditor balance (DEBIT)\nCash payments - When we pay suppliers (DEBIT)\nDiscounts received from suppliers (DEBIT)",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -1436,6 +1548,22 @@
     "image": "",
     "answer": "c",
     "solution": "The Income and Expenditure Account is more comprehensive because it includes debtors (amounts owed to the organization) and creditors (amounts the organization owes), giving a complete picture of the organization's financial performance regardless of whether cash has been exchanged.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1147,
+    "question": "A company has departments M and ₦. The expenses incurred wholly in M is ₦5000. General expenses incurred amount to ₦25000. Expenses are apportioned in the ratio 2:3 for departments M and ₦ respectively.\nWhat is ₦'s share of the expense?",
+    "option": {
+      "a": "₦10 000",
+      "b": "₦15 000",
+      "c": "₦18 000",
+      "d": "₦20 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Workings: General expenses ₦25,000 apportioned 2:3 (M:N).\n\nN’s share = 3/(2+3) × 25,000 = 3/5 × 25,000 = ₦15,000.\n\n\n(The ₦5,000 spent wholly in M does not affect N’s share.)",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -1724,6 +1852,22 @@
     "image": "",
     "answer": "b",
     "solution": "The statement of affairs in the context of incomplete records is essentially a balance sheet drawn up at a specific date from whatever information is available, to show the assets and liabilities of the business and thus its capital (net worth).",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1396,
+    "question": "A non-profit-making organization differs from a profit-making one in that?",
+    "option": {
+      "a": " it does not earn income",
+      "b": "proceeds from sale of shares form part of its income",
+      "c": "all its income is committed",
+      "d": " annual subscriptions and levies form part of its income"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The best distinguishing feature of a non-profit-making organization is that its routine income sources are things like annual subscriptions and levies rather than trading profits.",
     "examtype": "utme",
     "examyear": "199"
   },

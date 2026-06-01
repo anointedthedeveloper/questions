@@ -2531,6 +2531,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "id": 430,
     "question": "In how many ways can 6 subjects be selected from 10 subjects for an examination",
     "option": {
@@ -2591,6 +2592,8 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     "id": 433,
     "question": "Find the value of x for which the function f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x + 4 has a maximum value",
     "option": {
@@ -2600,6 +2603,9 @@
       "d": " - 1"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -2612,7 +2618,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "solution": "((0.5652<sup>2</sup>-(0.4375)<sup>2</sup>)/0.04  ((0.5625+0.4375)(0.5625-0.4375))/0.04  (1.000×0.125)/0.04=3.125=3.13",
+=======
+    "solution": "f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x – 4\nf’(x) = 6x<sup>2</sup> - 2x – 4\nAs f’(x) = 0\nImplies 6x<sup>2</sup> - 2x – 4 = 0\n3x – x – 2 = 0 (By dividing by 2)\n(3x – 2)(x + 1) = 0\n3x – 2 = 0 implies x = -2/3\nOr x + 1 = 0 implies x = -1\nf’(x) = 6x<sup>2</sup> - 2x – 4\nf’’(x) = 12x – 2\nAt max point f’’(x) < 0\n∴f’’(x) = 12x – 2 at x = -1\n= 12(-1) – 2\n= -12 – 2 = -14\n∴Max at x = 1",
+>>>>>>> Stashed changes
 =======
     "solution": "f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x – 4\nf’(x) = 6x<sup>2</sup> - 2x – 4\nAs f’(x) = 0\nImplies 6x<sup>2</sup> - 2x – 4 = 0\n3x – x – 2 = 0 (By dividing by 2)\n(3x – 2)(x + 1) = 0\n3x – 2 = 0 implies x = -2/3\nOr x + 1 = 0 implies x = -1\nf’(x) = 6x<sup>2</sup> - 2x – 4\nf’’(x) = 12x – 2\nAt max point f’’(x) < 0\n∴f’’(x) = 12x – 2 at x = -1\n= 12(-1) – 2\n= -12 – 2 = -14\n∴Max at x = 1",
 >>>>>>> Stashed changes
@@ -3429,6 +3439,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "id": 564,
     "question": "In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included?",
     "option": {
@@ -3478,6 +3489,8 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     "id": 568,
     "question": "The histogram above represents the number of candidates that sat for Mathematics examination in a school. How many candidate scored more than 50 marks?",
     "option": {
@@ -3492,6 +3505,9 @@
     "solution": "",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -6512,6 +6528,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "id": 1117,
     "question": "A poultry farmer realized 200 eggs from his birds and sold 5(1/2) crates of eggs. What percentages of eggs are left?",
     "option": {
@@ -6525,6 +6542,8 @@
     "answer": "c",
     "solution": "5 crates = 30 eggs * 5 = 150eggs\n\n1/2 crate = 15 eggs\n\nTotal sold = 165\n\nremainder = 200 - 165 = 35\n\nAnd 35 is equivalent 17.5% of the realized eggs ",
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -6543,6 +6562,9 @@
     "solution": "Definition of a circle",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -6619,6 +6641,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "id": 1128,
     "question": "Let (*) be a binary operation on a natural number defined by a * b = a - b + (ab)<sup>2</sup>, then find 3 * 5",
     "option": {
@@ -6647,6 +6670,8 @@
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     "id": 1131,
     "question": "Find x if the mean of 2x, 4x, 2x - 13 and 6x is 4.",
     "option": {
@@ -6656,6 +6681,9 @@
       "d": " 0.5"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -6665,6 +6693,7 @@
     "section": "",
     "image": "",
     "answer": "b",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -6685,6 +6714,9 @@
     "image": "",
     "answer": "d",
     "solution": "The common difference is 6.\n\nJust add 6 to get the next term\n\n8, 14, 20 and 26",
+=======
+    "solution": "mean (4) =  2x+4x+2x−13+6x/4                                                           16 = 14x - 13\n\n16 + 13 = 14x\n\nx = 29/14 or 2.07",
+>>>>>>> Stashed changes
 =======
     "solution": "mean (4) =  2x+4x+2x−13+6x/4                                                           16 = 14x - 13\n\n16 + 13 = 14x\n\nx = 29/14 or 2.07",
 >>>>>>> Stashed changes

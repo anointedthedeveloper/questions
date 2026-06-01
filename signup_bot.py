@@ -25,7 +25,7 @@ counter = {'done': 0, 'failed': 0}
 # ── helpers ──────────────────────────────────────────────────────────────────
 
 def rand_str(n=10):
-    return ''.join(random.choices(string.ascii_lowercase + string.digits, k=n))
+    return ''.join(random.choices(string.ascii_lowercase, k=n))
 
 
 def get_csrf(session, url):
@@ -113,8 +113,8 @@ def create_one(index):
         try:
             rand = rand_str(10)
             name = f'User {rand}'
-            email = f'aloc_{rand}@mailinator.com'
-            password = f'Pass_{rand_str(8)}'
+            email = f'aloc{rand}@mailinator.com'
+            password = f'Pass{rand_str(8)}'
 
             session = signup_account(name, email, password)
             api_key = fetch_api_key(session)

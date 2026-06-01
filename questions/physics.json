@@ -8336,6 +8336,22 @@
     "examyear": "2024"
   },
   {
+    "id": 565,
+    "question": "Electrolysis can be investigated using ",
+    "option": {
+      "a": "Voltmeter",
+      "b": "Ammeter",
+      "c": "Galvanometer",
+      "d": "Voltameter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A voltameter measures the amount of substance that is deposited during electrolysis, allowing for the study of the electrochemical process. It provides information about the quantity of electric charge passed through the electrolyte and the resulting chemical changes. Voltameter is also called an Electrolytic cell.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 566,
     "question": "A wheelbarrow inclined at 60º to the horizontal is pushed with a force of 150N. What is the horizontal component of the applied force",
     "option": {
@@ -10204,6 +10220,22 @@
     "image": "",
     "answer": "d",
     "solution": "\nGiven information:\n\nHeat required, Q = 10⁶ J\nMass of liquid, m = 2 kg\nLatent heat of vaporization, L = ?\n\nSolution:\nStep 1: Formula for latent heat\nFormula: Q = mL\nWhere:\n\nQ = heat energy\nm = mass\nL = latent heat of vaporization\n\nStep 2: Rearrange for L\nL = Q/m\nStep 3: Substitute values\nL = 10⁶/2\nL = 0.5 × 10⁶\nL = 5.0 × 10⁵ J kg⁻¹",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 691,
+    "question": "The figure above shows three capacitors, 2μF, 3μF and 6μF connected in series. If the p.d across the system is 12V, the p.d across the 6μF capacitor is",
+    "option": {
+      "a": "4V",
+      "b": "12V",
+      "c": "2V",
+      "d": "6V"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296800/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_42_f6paqx.png",
+    "answer": "c",
+    "solution": "Given information:\n\nC₁ = 2 μF\nC₂ = 3 μF\nC₃ = 6 μF\nTotal voltage, V = 12 V\nCapacitors in series\n\nSolution:\nStep 1: Key principle for series capacitors\nIn series, all capacitors have the same charge:\nQ = Q₁ = Q₂ = Q₃\nStep 2: Find equivalent capacitance\nFor series capacitors:\n1/Cₑq = 1/C₁ + 1/C₂ + 1/C₃\n1/Cₑq = 1/2 + 1/3 + 1/6\n1/Cₑq = 3/6 + 2/6 + 1/6 = 6/6 = 1\nCₑq = 1 μF\nStep 3: Calculate total charge\nQ = Cₑq × V\nQ = 1 × 12 = 12 μC\nStep 4: Calculate voltage across 6μF capacitor\nV₃ = Q/C₃\nV₃ = 12/6\nV₃ = 2 V",
     "examtype": "utme",
     "examyear": "2005"
   },

@@ -8592,6 +8592,22 @@
     "examyear": "2009"
   },
   {
+    "id": 566,
+    "question": "The table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5?",
+    "option": {
+      "a": "\n3/5",
+      "b": "2/5",
+      "c": "7/20",
+      "d": "1/5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547388/ALOC-Questions/Mathematics/2009/MATH_2009_Q45_SOLUTION_a2kkcx.jpg",
+    "answer": "a",
+    "solution": "Total number of students = 20                       \nP(passing) =12/20\n=3/5",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 567,
     "question": "What value of x will make the function x(4 - x) a maximum?",
     "option": {

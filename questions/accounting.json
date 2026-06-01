@@ -1376,6 +1376,22 @@
     "examyear": "2006"
   },
   {
+    "id": 242,
+    "question": "Control accounts are also known as",
+    "option": {
+      "a": "contra accounts",
+      "b": "total accounts",
+      "c": "ledger accounts",
+      "d": "integral accounts."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 244,
     "question": "Which of the following is not a debit item in a creditor’s control \taccount?",
     "option": {
@@ -7696,6 +7712,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1256,
+    "question": "<b>Use the information below to answer questions 41 and 42</b>\n\nGiven the following information: Authorized capital of ₦100,000 ordinary shares of ₦1 each, issued and fully paid 50,000 ordinary shares of ₦1 each amounting to ₦50,000, 10,000 8% preference shares of ₦1 each, reserves ₦10,000, creditors ₦25,000, debtors ₦13,000, and cash in hand ₦5,000. Calculate the shareholder’sfund.",
+    "option": {
+      "a": "₦70,000.",
+      "b": "₦75,000",
+      "c": "₦85,000",
+      "d": "₦185,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Shareholders' fund represents the total equity belonging to shareholders, which includes share capital and reserves.\nShareholders' Fund consists of:\n\nOrdinary share capital (issued and fully paid): ₦50,000\n8% preference shares: ₦10,000\nReserves: ₦10,000\n\nTotal Shareholders' Fund = ₦50,000 + ₦10,000 + ₦10,000 = ₦70,000\nTherefore, the shareholders' fund is ₦70,000.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1260,
     "question": "The correct entry to reflect the receipt of cash sent by a branch to a head office is?",
     "option": {
@@ -8460,6 +8492,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Debtors Control Account (often called the Total Debtors Account) in the general ledger provides a summary total of all individual customer balances in the sales ledger. By reconciling the control account with the detail in the subsidiary (sales) ledger, management can ensure that the clerk has posted correctly and completely.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1388,
+    "question": "Derive the total sales figure from the following information extracted from a firm's cash book and other relevant records.\n\nTotal debtors b/f ₦ 5,600\nTotal cash receipts from debtors\nand cash sales ₦ 153,000\nTotal debtors c/f ₦ 6,800",
+    "option": {
+      "a": "₦6,800",
+      "b": "₦153,000",
+      "c": "₦154,200",
+      "d": "₦159,800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using the debtors’ account approach:\n\nSales = Total cash receipts from debtors and cash sales + Closing debtors − Opening debtors\n=₦153,000 + ₦6,800 − ₦5,600\n=₦154,200\n​\n ",
     "examtype": "utme",
     "examyear": "199"
   },

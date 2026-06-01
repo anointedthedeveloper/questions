@@ -16576,6 +16576,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1190,
+    "question": "A man donates 10% of his monthly net earnings to his church. If it amounts to N4,500, what is his net monthly income?",
+    "option": {
+      "a": "N40,500",
+      "b": "N45,000",
+      "c": "N52,500",
+      "d": " N62,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let;\nM = Man monthly net earnings\n\nThen;\n\nN4500 = 10%/100%× M\n\n\nM = (N4500 × 100%)/10%\n\n\nM = N45,000",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1191,
     "question": "If log7.5 = 0.8751, evaluate 2 log75 + log750",
     "option": {

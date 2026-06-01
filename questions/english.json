@@ -16587,6 +16587,25 @@
     "category": "others"
   },
   {
+    "id": 1250,
+    "question": "<u>B</u>ark",
+    "option": {
+      "a": "climb",
+      "b": "tomb",
+      "c": "curb",
+      "d": "doubt"
+    },
+    "section": "choose the option that has the same consonant sound as the letter(s) underlined from the options lettered A-E",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 57,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1251,
     "question": "The Parents Teachers Association promised to build a CAFETERIA. ",
     "option": {
@@ -18806,6 +18825,25 @@
     "examtype": "utme",
     "examyear": "2019",
     "questionNub": 40,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1414,
+    "question": "Bridget denied that she wasn't there. This means that",
+    "option": {
+      "a": "She confessed that she wasn't there",
+      "b": "She owned up not to be there",
+      "c": "She maintained she was there",
+      "d": "She maintained she wasn't there"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Deny'' is to say that something is not true.\n\n'that she wasn't there' is the accusation.\n\nFor Bridget to deny that she wasn't there, she is simply saying it is untrue to say she wasn't there.  Therefore, she was there.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 41,
     "hasPassage": 0,
     "category": "others"
   },

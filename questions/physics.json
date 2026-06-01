@@ -6528,6 +6528,22 @@
     "examyear": "2022"
   },
   {
+    "id": 466,
+    "question": "A car starts from rest and covers a distance of 40 m in 10 s. Calculate the magnitude of its acceleration.",
+    "option": {
+      "a": "3.20 ms⁻²",
+      "b": "0.25 ms⁻²",
+      "c": "0.80 ms⁻²",
+      "d": "4.00 ms⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "nitial velocity, u = 0 m/s (starts from rest)\nDistance, s = 40 m\nTime, t = 10 s\nAcceleration, a = ?\n\nSolution:\nUsing the equation of motion:\ns = ut + ½at²\nStep 1: Substitute the known values\n40 = (0)(10) + ½a(10)²\n40 = 0 + ½a(100)\n40 = 50a\nStep 2: Solve for acceleration\na = 40/50\na = 0.80 m/s²",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 467,
     "question": "The relationship between the coefficient of linear expansion α and volumetric expansion (γ) is-----------------",
     "option": {
@@ -9712,6 +9728,22 @@
     "examyear": "2006"
   },
   {
+    "id": 741,
+    "question": "A mirror of weight 75N is hung by a cord from a hook on the wall. If the cord makes an angle of 30o with horizontal, the tension in the cord is",
+    "option": {
+      "a": "100N",
+      "b": "1500N",
+      "c": "250N",
+      "d": "150N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nWeight of mirror, W = 75 N\nAngle between cord and horizontal, θ = 30°\n\nSolution:\n\nStep 1: Equilibrium condition\nThe vertical component of the tension must balance the weight of the mirror:\nT sinθ = W\n\nStep 2: Substitute values\nsin30° = 0.5\nT × 0.5 = 75 N\n\nStep 3: Solve for tension\nT = 75 N / 0.5 = 150 N",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 742,
     "question": "In a gas experiment, if the volume of the gas is plotted against the reciprocal of the pressure, the unit of the slope of the resulting curve is",
     "option": {
@@ -11280,6 +11312,22 @@
     "examyear": "2009"
   },
   {
+    "id": 873,
+    "question": "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in",
+    "option": {
+      "a": " x is same as in y",
+      "b": " x and y is same as in vacuum",
+      "c": "x is higher than in y",
+      "d": "y is higher than in x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Since 1.51, the refractive index of X is greater than 1.33, the refractive index of y, the speed of light in y is higher than that in X",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 875,
     "question": "Which of the following is a secondary colour",
     "option": {
@@ -12300,6 +12348,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nLoad (L) = 20 N\nHeight (h) = 10 m\nEfficiency = 40% = 0.40\nWork done = ?\n\n\nStep 1: Calculate useful work output\nWork output = Load × Height\nW_output = 20 × 10\nW_output = 200 J\nStep 2: Calculate total work input\nEfficiency = (Work output)/(Work input)\nRearranging:\nWork input = Work output/Efficiency\nW_input = 200/0.40\nW_input = 500 J",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 961,
+    "question": "I. Density of the liquid.\nII. Depth below the surface of the liquid.\nIII. Surface area of the liquid.\nIn which of the statement above will pressure be dependent?",
+    "option": {
+      "a": " I and II only.",
+      "b": " II and III only.",
+      "c": " I, II and III only.",
+      "d": " I and III only."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Pressure in liquid is independent of cross sectional area of the container/ liquid\n∴ the correct options are I & II",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -13868,6 +13932,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nForce, F = 500 N\nCross‑sectional area, A = 0.2 m²\n\nSolution:\n\nStep 1: Formula for tensile stress\nTensile stress σ = Force / Area = F / A\n\nStep 2: Substitute the values\nσ = 500 N / 0.2 m² = 2500 N m⁻²\n\nStep 3: Express in scientific notation\n2500 N m⁻² = 2.5 × 10³ N m⁻²",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1094,
+    "question": "The small droplets of water that form on the grass in the early hours of the morning is",
+    "option": {
+      "a": " Fog",
+      "b": "Haul",
+      "c": " Mist",
+      "d": "Dew"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Dew forms on grass in the early morning due to condensation of atmospheric moisture on surfaces that have cooled overnight.",
     "examtype": "utme",
     "examyear": "2014"
   },

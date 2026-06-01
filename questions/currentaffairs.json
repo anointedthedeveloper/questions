@@ -64,6 +64,22 @@
     "examyear": "2013"
   },
   {
+    "id": 5,
+    "question": "Victoria is the capital city of ",
+    "option": {
+      "a": "Somalia ",
+      "b": "Morocco ",
+      "c": "Seychelles ",
+      "d": "Lesotho "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2013"
+  },
+  {
     "id": 6,
     "question": "The Director-General of the Nigerian Institute of Advanced Legal Studies is ",
     "option": {
@@ -171,6 +187,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme-aaua",
+    "examyear": "2013"
+  },
+  {
+    "id": 13,
+    "question": "Nelson Mandela was awarded the Nobel Peace Prize in ",
+    "option": {
+      "a": "1993",
+      "b": "1994",
+      "c": "1995",
+      "d": "1996"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme-aaua",
     "examyear": "2013"

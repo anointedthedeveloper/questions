@@ -7408,6 +7408,22 @@
     "examyear": "2024"
   },
   {
+    "id": 594,
+    "question": "In electrolysis, when same quantity of electricity is passed through different electrolytes, mass of substances deposited is proportional to ",
+    "option": {
+      "a": "Molecular weight",
+      "b": "Chemical equivalent",
+      "c": "Atomic number",
+      "d": "Chemical equivalent per valency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Faraday's second law states that the masses of different substances deposited or liberated by the same quantity of electricity are directly proportional to the chemical equivalents of the substances.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 595,
     "question": "If the rate of evaporation is y, and the rate of condensation is x, then, a vapour is saturated when",
     "option": {
@@ -8512,6 +8528,22 @@
     "examyear": "2005"
   },
   {
+    "id": 701,
+    "question": "At low humidity in an environment, the human skin is usually?",
+    "option": {
+      "a": "damp and rough",
+      "b": "damp and smooth",
+      "c": "dry and rough",
+      "d": "dry and smooth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Low humidity causes moisture to evaporate from the skin, leading to dryness and a rough texture.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 702,
     "question": "If the relative density of gold is 19.2, the volume of 2.4kg of gold is?",
     "option": {
@@ -9276,6 +9308,22 @@
     "image": "",
     "answer": "d",
     "solution": "Understanding photon energy:\nFormula for photon energy:\nE = hf\nwhere:\n\nh = Planck's constant\nf = frequency\n\nRelating frequency and wavelength:\nc = fλ\nTherefore: f = c/λ\nSubstituting into energy equation:\nE = h(c/λ)\nE = hc/λ\nRearranging:\nEλ = hc\nTherefore:\nX = hc\nStep 1: Calculate X\nX = hc\nX = 6.63 × 10⁻³⁴ × 3 × 10⁸\nX = 19.89 × 10⁻³⁴⁺⁸\nX = 19.89 × 10⁻²⁶\nX = 1.989 × 10⁻²⁵\nX ≈ 1.99 × 10⁻²⁵\nUnit check:\nX = hc = (J·s)(m/s) = J·m",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 773,
+    "question": "Silicon doped with aluminum and germanium doped with arsenic become?",
+    "option": {
+      "a": "p- and n- types respectively",
+      "b": "n- en p- type respectively",
+      "c": " p- type semiconductor",
+      "d": "n- type semiconductors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Silicon is a group IV element with four valence electrons. Doping it with aluminum (a group III element with three valence electrons) creates a deficiency of electrons, resulting in a p‑type semiconductor. Germanium is also a group IV element, and doping it with arsenic (a group V element with five valence electrons) introduces extra free electrons, making it an n‑type semiconductor. Therefore, in the order given, silicon doped with aluminum becomes p‑type, and germanium doped with arsenic becomes n‑type.",
     "examtype": "utme",
     "examyear": "2007"
   },

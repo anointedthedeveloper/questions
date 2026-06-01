@@ -592,6 +592,22 @@
     "examyear": "2017"
   },
   {
+    "id": 267,
+    "question": "When two mirrors are placed at an angle of 90º to each other, how many images will be formed when an object is placed in front of the mirrors",
+    "option": {
+      "a": "5",
+      "b": "4",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When two plane mirrors are placed at an angle, multiple images are formed due to repeated reflections. The number of images depends on the angle between the mirrors. At 90°, three images are formed.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 268,
     "question": "If silicon is doped with phosphorus, what type of semiconductor material will be formed?",
     "option": {
@@ -1520,6 +1536,22 @@
     "examyear": "2006"
   },
   {
+    "id": 785,
+    "question": "from the diagram above, the inductive reactance and the resistance R are respectively",
+    "option": {
+      "a": " 50Ω and 45Ω",
+      "b": "25Ω and 51Ω",
+      "c": "20Ω and 50Ω",
+      "d": "10Ω and 50Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431541/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_36_mzam4o.png",
+    "answer": "d",
+    "solution": "The inductive reactance is given as\nXl = 2πfl\n= 2 x 50/π x 0.1\n= 10Ω\nAgain from ohms law,\nR = V/I = 75/1.5 = 50Ω\n∴ Thus the inductive reactance and the resistance are respectively 10Ω, and 50Ω",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 802,
     "question": "If a wheel 1.2 m in diameter rotates at one revolution per second, calculate the velocity of the wheel.",
     "option": {
@@ -1680,6 +1712,22 @@
     "examyear": "2010"
   },
   {
+    "id": 924,
+    "question": "Dispersion occurs when white light passes through a glass prism because of the?",
+    "option": {
+      "a": "different hidden colours in the glass",
+      "b": "different speeds of the colour in the glass",
+      "c": "defects in the glass",
+      "d": "high density of the glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dispersion is the splitting of white light into its spectral component colors and is caused by different speed of the colors in the prism.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 926,
     "question": "Power supply is transmitted at a very high voltage and low current in order to?",
     "option": {
@@ -1708,6 +1756,22 @@
     "image": "",
     "answer": "b",
     "solution": "A semiconductor is a material whose conductivity is between good conductor and insulator. Example of pure semi conductors are silicon and germanium",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 940,
+    "question": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow.",
+    "option": {
+      "a": " 5 A",
+      "b": " 4 A",
+      "c": "3 A",
+      "d": "2 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "I = E/(R+r)\n= 12/6 = 2A",
     "examtype": "utme",
     "examyear": "2010"
   },

@@ -848,6 +848,22 @@
     "examyear": "2007"
   },
   {
+    "id": 460,
+    "question": "If the lines 2y - kx + 2 = 0 and y + x - k/2 = 0 Intersect at (1, -2), find the value of k",
+    "option": {
+      "a": " -4",
+      "b": " -3",
+      "c": " -2",
+      "d": " -1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "If the point of intersection is (1, -2), it implies that x = 1 and y = -2 when the two equation are solved simultaneously.\n∴ substitute x = 1 and y = -2 in any of the equations\n2y - k x + 2 = 0\n2(-2) - k(1) + 2 = 0\n-4 - k + 2 = 0\n-4 + 2 = k\n-2 = k",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 461,
     "question": "A man 40 m from the foot of a tower observes the angle of elevation of the tower to be 30°. Determine the height of the tower.",
     "option": {
@@ -876,6 +892,22 @@
     "image": "",
     "answer": "b",
     "solution": "Each Exterior ∠ = 360/n\n= 360/8\n= 45°",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 468,
+    "question": "The sum of the ages of Musa and Lawal is 28 years. After sharing a certain sum of money in the ratio of their ages, Musa gets N600 and Lawal N800. How old is Lawal?",
+    "option": {
+      "a": "14 years",
+      "b": " 20 years",
+      "c": "12 years",
+      "d": "16 years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "M + L = 28,\n\nM : L = 600 : 800\n\n= 3 : 4\n\nM/L = 34 → M = 3/4L\n\n3/4L + L = 28\n\n7L/4 = 28\n\nL = 4×28/7\n\n\n= 16",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -1184,6 +1216,22 @@
     "examyear": "2012"
   },
   {
+    "id": 743,
+    "question": "The angles of a polygon are given by x, 2x, 3x, 4x and 5x respectively. Find the value of x.",
+    "option": {
+      "a": " 24°",
+      "b": "30°",
+      "c": "33°",
+      "d": "36°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Since there are 5 angles given, the polygon is a pentagon.\n\nSum of interior angles of a pentagon = (2(5) - 4) x 90° = 540°\n\n∴\n x + 2x + 3x + 4x + 5x = 15x\n\n15x = 540°\n\nx=540/15=36°",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 744,
     "question": "Calculate the volume of a cuboid of length 0.76cm, breadth 2.6cm and height 0.82cm.",
     "option": {
@@ -1456,6 +1504,22 @@
     "examyear": "2018"
   },
   {
+    "id": 962,
+    "question": "Given that Sin (5x − 28)° = Cos(3x − 50)°, 0 < x < 90°\n\nFind the value °f x",
+    "option": {
+      "a": "14°",
+      "b": "21°",
+      "c": "32°",
+      "d": "39°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Sin(5x - 28) = Cos(3x - 50)………..i\n\n  But Sinα = Cos(90 - α)\n\n  So Sin(5x - 28) = Cos(90 - [5x - 28])\n\n  Sin(5x - 28) = Cos(90 - 5x + 28)\n\n  Sin(5x - 28) = Cos(118 - 5x)………ii\n\n  Combining i and ii\n\n  Cos(3x - 50) = Cos(118 - 5x)\n\n  3x - 50 = 118 - 5x\n\n  Collecting the like terms\n\n  3x + 5x = 118 + 50\n\n  8x = 168\n\n  x = 168/8\n  x = 21°",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 965,
     "question": "Convert 0.04945 to two significant figures",
     "option": {
@@ -1710,6 +1774,22 @@
     "solution": "h/(n − 2) = (n + 3)/n\nn<sup>2</sup> = (n + 3) (n - 2) \n\nn<sup>2</sup> = n<sup>2</sup> + n - 6\n\nn2<sup>2</sup> + n - 6 - n<sup>2</sup> = 0\n\nn - 6 = 0\n\nn = 6\n\nCommon ratio: n/(n−2) = 6/(6 −2) = 6/4 = 3/2\n ",
     "examtype": "2020",
     "examyear": "utme"
+  },
+  {
+    "id": 1059,
+    "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+    "option": {
+      "a": "25 ways",
+      "b": "10 ways",
+      "c": "15 ways",
+      "d": " 20 ways"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>I</mi>\n  <mi>n</mi>\n  <msup>\n    <mspace width=\"1mm\" />\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>5</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msub>\n  <mspace width=\"1mm\" />\n  <mi>w</mi>\n  <mi>a</mi>\n  <mi>y</mi>\n  <mi>s</mi>\n  <mspace width=\"1mm\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>5</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>2</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>!</mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>4</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>3</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>!</mo>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>10</mn>\n  <mspace width=\"1mm\" />\n  <mi>w</mi>\n  <mi>a</mi>\n  <mi>y</mi>\n  <mi>s</mi>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "In〖<sup>5</sup>〗C<sub>2</sub> ways =5!/((5-2)!2!) = 5!/3!2! = (5 × 4 × 3!)/(3! × 2 × 1) = 10 ways",
+    "examtype": "utme",
+    "examyear": "2021"
   },
   {
     "id": 1080,

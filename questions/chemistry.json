@@ -5856,6 +5856,22 @@
     "examyear": "2016"
   },
   {
+    "id": 377,
+    "question": "Alkanols have the general molecular formula",
+    "option": {
+      "a": "CₙH₂ₙ₋₂",
+      "b": "CₙH₂ₙ₊₁CHO",
+      "c": "CₙH₂ₙ₋₂OH",
+      "d": "CₙH₂ₙ₊₁OH"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Alkanols (alcohols derived from alkanes) have the general formula CₙH₂ₙ₊₁OH, where the CₙH₂ₙ₊₁ part is the alkyl group attached to the hydroxyl (-OH) functional group. For example, methanol is CH₃OH (n=1) and ethanol is C₂H₅OH (n=2).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 378,
     "question": "Which of the following is not an alkali?",
     "option": {

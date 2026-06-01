@@ -6270,6 +6270,25 @@
     "category": "others"
   },
   {
+    "id": 471,
+    "question": "His comment was not <i>printable</i>",
+    "option": {
+      "a": "punishable  ",
+      "b": "suitable ",
+      "c": "offensive ",
+      "d": "unfair."
+    },
+    "section": "Choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 473,
     "question": "Agwube's explanation of her poor performance at the examination only <i>begged the question.</i>",
     "option": {
@@ -12156,6 +12175,25 @@
     "examtype": "utme",
     "examyear": "2012",
     "questionNub": 33,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1029,
+    "question": "As far as Abu is concerned , Mero should be given fifty naira at the most",
+    "option": {
+      "a": " All Abu is concerned with is that Mero should be given nothing more than fifty naira",
+      "b": "All Abu is saying is that Mero probably desrves more than fifty naira and not less",
+      "c": "In Abu's estimation, Mero merits not more than fifty naira",
+      "d": "In Abu's opinion, Mero deserves fifty naira or probably more"
+    },
+    "section": "<b>LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of question 26 to 35, select the option \nthat best explains the information conveyed in \nthe sentence",
+    "image": "",
+    "answer": "a",
+    "solution": "at the most means, not more than. ",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 35,
     "hasPassage": 0,
     "category": "others"
   },

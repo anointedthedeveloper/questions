@@ -272,6 +272,22 @@
     "examyear": "2010"
   },
   {
+    "id": 84,
+    "question": "Which of the following statements is not true? ",
+    "option": {
+      "a": "electric field intensity is force per unit charge. ",
+      "b": "electric potential is a vector ",
+      "c": "the S.I unit of electric field strength is N/C ",
+      "d": "electric field intensity is equal to the potential gradient"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 87,
     "question": "A transformer is connected to a 240 V supply. The primary coil has 40 turns, and the secondary is found to be 960V. What is the ratio of the number of turns of the primary coil to the number of turns of the secondary coil? ",
     "option": {
@@ -720,6 +736,38 @@
     "examyear": "2017"
   },
   {
+    "id": 277,
+    "question": "Which of the following is true of an electrical charge?",
+    "option": {
+      "a": "Positive charge means deficit electrons",
+      "b": "Negative charge means excess of electrons",
+      "c": " electric current means movement of electrons",
+      "d": "All of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All of the statements are true about electrical charge.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 313,
+    "question": "Musical instruments playing the same note can be distinguished from one another owing to the difference in their",
+    "option": {
+      "a": "quality",
+      "b": "pitch",
+      "c": "intensity",
+      "d": "loudness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Musical instruments playing the same note can be distinguished from one another by their quality (timbre), which depends on the unique combination of harmonics and overtones each instrument produces.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 318,
     "question": "Calculate the effective capacitance of the circuit in the diagram given",
     "option": {
@@ -972,6 +1020,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Doppler effect or Doppler shift is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.\n\nThe drop in pitch of ambulance sirens as they pass by and the shift in red light are common examples of the Doppler Effect. ",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 393,
+    "question": "Tha mass of a proton is approximately equal to that of ",
+    "option": {
+      "a": "an α\n-particle",
+      "b": "a β\n-Particle",
+      "c": " a neutron",
+      "d": "an electron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The mass of a proton is approximately equal to that of a neutron. Both have a relative mass of approximately 1 atomic mass unit (u), with the neutron being only slightly heavier.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -1520,6 +1584,22 @@
     "examyear": "2004"
   },
   {
+    "id": 622,
+    "question": "A body of mass 4kg is acted on by a constant force of 12N for 3 seconds. The kinetic energy gained by the body at the end of the time is",
+    "option": {
+      "a": "144J",
+      "b": "162J",
+      "c": " 81J",
+      "d": "72J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate acceleration\nFormula: F = ma\na = F/m = 12/4 = 3 m/s²\nStep 2: Calculate final velocity\nFormula: v = u + at\nv = 0 + (3 × 3)\nv = 9 m/s\nStep 3: Calculate kinetic energy gained\nFormula: KE = ½mv²\nKE = ½ × 4 × (9)²\nKE = ½ × 4 × 81\nKE = 2 × 81\nKE = 162 J",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 628,
     "question": "The diagram above shows forces 4N, 6N, 10N and 8N which act at a point O in the directions indicated. The net horizontal force is",
     "option": {
@@ -1872,6 +1952,22 @@
     "examyear": "2008"
   },
   {
+    "id": 804,
+    "question": "What is the frequency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s?",
+    "option": {
+      "a": "0.01 Hz",
+      "b": "0.04 Hz",
+      "c": "2.27 Hz",
+      "d": "3.60 Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nNumber of revolutions = 90\nTime (t) = 25 s\nFrequency (f) = ?\n\nFormula for frequency:\nFrequency = Number of revolutions / Time taken\nf = N/t\nSubstituting values:\nf = 90/25\nf = 3.6 Hz",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 817,
     "question": "In a good thermos flask, heat loss is reduced through the following features EXCEPT?",
     "option": {
@@ -1884,6 +1980,22 @@
     "image": "",
     "answer": "a",
     "solution": "The silver coating on the inner bottle of a thermos flask is used to prevent heat transfer by radiation",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 818,
+    "question": "Given the progressive wave equation y = 5 sin(2000πt - 0.4x), calculate wavelength",
+    "option": {
+      "a": "12.4 m",
+      "b": "15.7 m",
+      "c": "17.5 m",
+      "d": "18.6 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given wave equation:\ny = 5 sin(2000πt - 0.4x)\nStandard form of progressive wave:\ny = A sin(ωt - kx)\nwhere:\n\nA = amplitude\nω = angular frequency\nk = wave number\n\nComparing with standard form:\n\nA = 5\nω = 2000π\nk = 0.4\n\nFormula relating wave number and wavelength:\nk = 2π/λ\nRearranging for wavelength:\nλ = 2π/k\nSubstituting values:\nλ = 2π/0.4\nλ = 2 × 3.14159/0.4\nλ = 6.28318/0.4\nλ = 15.708 m\nλ ≈ 15.7",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -2224,6 +2336,22 @@
     "examyear": "2011"
   },
   {
+    "id": 996,
+    "question": "In Homes, electrical appliances and lamps are connected in parallel because",
+    "option": {
+      "a": "Parallel connections do not heat up the wires",
+      "b": "independence switches can be used",
+      "c": " less current will be used",
+      "d": " less voltage will be used"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "if appliances are connected in series, the effective voltage is the sum of individual voltages which will be high.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 998,
     "question": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is",
     "option": {
@@ -2462,6 +2590,22 @@
     "solution": "Given information:\nGround state energy, E₁ = -24.8 eV\nLevel number, n = 3\n\nSolution:\n\nStep 1: Energy level formula for hydrogen-like atoms\nFor an atom with a single electron, the energy of the nth level is given by:\nEₙ = E₁ / n²\n\nStep 2: Substitute values\nE₃ = -24.8 eV / 3² = -24.8 / 9 = -2.7556 eV ≈ -2.75 eV",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 1082,
+    "question": "I. Electrical potential\nII. Torque\nIII. Kinetic Energy\nIV. Momentum\n\n\nWhich of the quantities listed are vectors?",
+    "option": {
+      "a": "II and IV",
+      "b": "I and II",
+      "c": "I and III",
+      "d": "II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The vector quantities are II and IV.",
+    "examtype": "utme",
+    "examyear": "2014"
   },
   {
     "id": 1093,

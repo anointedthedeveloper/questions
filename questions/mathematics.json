@@ -1680,6 +1680,22 @@
     "examyear": "2016"
   },
   {
+    "id": 868,
+    "question": "From the diagram above, find the required roots/region of x.",
+    "option": {
+      "a": "x≤-1, x ≥4",
+      "b": "x≤4",
+      "c": "-1≤x≤4",
+      "d": " x≤-1, o≤x≤4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003351/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q50_crbsbj.jpg",
+    "answer": "c",
+    "solution": "The required roots/region of x is -1≤x≤4",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 899,
     "question": "In how many ways can the word MACICITA be arranged?",
     "option": {
@@ -1886,6 +1902,22 @@
     "solution": "P( tail on a coin) = 1/2\nEven numbers on a care 2, 4 and 6\n\n  P( even number on a die) = 3/6 = 1/2\nP( tail on a coin and even number on a die) = 1/2 x 1/2\n = 1/4",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 972,
+    "question": "The table above shows the number of pupils in a class with respect to their ages. If a pie chart is constructed to represent the age, the angle corresponding to 8 years old is",
+    "option": {
+      "a": "48.6°",
+      "b": "56.3°",
+      "c": "46.8°",
+      "d": "13°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006675/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q4_fbmbcu.jpg",
+    "answer": "c",
+    "solution": "Total number of pupils : 4 + 13 + 30 + 44 + 9 = 100\n\nThe number of 8 - year olds = 13\n\nThe angle represented by the 8-year olds on the pie chart = 13/100 × 360°\n= 46.8°",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 973,
@@ -2204,6 +2236,22 @@
     "image": "",
     "answer": "b",
     "solution": "In〖<sup>5</sup>〗C<sub>2</sub> ways =5!/((5-2)!2!) = 5!/3!2! = (5 × 4 × 3!)/(3! × 2 × 1) = 10 ways",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1068,
+    "question": "At what rate would a sum of N100.00 deposited for 5 years raise an interest of N7.50?",
+    "option": {
+      "a": "1/2 %",
+      "b": "2(1/2)%",
+      "c": "1.5%",
+      "d": "25%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Interest I = PRT/100\n\n\n∴ R = (100n×n1)/(100 × 5)\n\n\n= (100 × 7.50)/(500 × 5)\n\n= 750/500\n\n\n= 3/2\n\n\n= 1.5%",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2590,6 +2638,22 @@
     "solution": "The number with the highest frequency = 4",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 1251,
+    "question": "If log<sub>5</sub>20 = x, find x",
+    "option": {
+      "a": "1.761",
+      "b": "1.354",
+      "c": "1.861",
+      "d": "2.549"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "log<sub>5</sub>20 = x\n\n5x = 20(Take log<sub>10</sub> of both sides)\n\nlog<sub>5x</sub> = log<sub>20</sub>\n\nxlog<sub>5</sub> = log<sub>20</sub>\n\nx= [log<sub>20</sub> ÷ log<sub>20</sub>]\n\n[1.30103 ÷ 0.69897]\n\nx = 1.861",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 1254,

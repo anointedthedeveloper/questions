@@ -7632,6 +7632,22 @@
     "examyear": "2023"
   },
   {
+    "id": 536,
+    "question": "How much work is done against the gravitational force on a 3.0 kg object when it is carried from the ground floor to the roof of a building, a vertical climb of 240 m?",
+    "option": {
+      "a": "7.2 kJ",
+      "b": "4.6 kJ",
+      "c": "6.8 kJ",
+      "d": "8.4 kJ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass, m = 3.0 kg\nVertical height, h = 240 m\nAcceleration due to gravity, g = 10 m/s²\nWork done, W = ?\n\nSolution:\nStep 1: Identify the work done formula\nWork done against gravitational force equals the change in gravitational potential energy:\nW = mgh\nStep 2: Substitute the known values\nW = 3.0 × 10 × 240\nStep 3: Calculate the work done\nW = 7200 J\nW = 7.2 kJ",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 537,
     "question": "A beam of light travelling in water is incident on a glass which is immersed in the water. The incident beam makes an angle of 40° with the normal. Calculate the angle of refraction in the glass. [Refractive index of water = 1.33, Refractive index of glass = 1.5]",
     "option": {

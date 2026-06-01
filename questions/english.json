@@ -5472,6 +5472,25 @@
     "category": "others"
   },
   {
+    "id": 314,
+    "question": "E<u>ngs</u>lish",
+    "option": {
+      "a": "end",
+      "b": "thin",
+      "c": "think",
+      "d": "edge"
+    },
+    "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 315,
     "question": "clo<u>ths</u>e",
     "option": {
@@ -10051,6 +10070,44 @@
     "category": "others"
   },
   {
+    "id": 573,
+    "question": "They are the.... dresses ",
+    "option": {
+      "a": "babys' ",
+      "b": "baby ",
+      "c": "babies",
+      "d": "babies'"
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 574,
+    "question": "The politician was sent …….. exile",
+    "option": {
+      "a": "onto ",
+      "b": "into",
+      "c": "on ",
+      "d": "to"
+    },
+    "section": "choose the option that best completes the gap(s)",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 575,
     "question": "When we looked up, we …….... the plane some miles away. ",
     "option": {
@@ -12346,6 +12403,25 @@
     "examtype": "utme",
     "examyear": "2000",
     "questionNub": 65,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 762,
+    "question": "The events of last Friday show that there is no love lost between the principal and the Vice-Principal? ",
+    "option": {
+      "a": "They like each other",
+      "b": "They work independently",
+      "c": "They cannot part company",
+      "d": "They dislike each other"
+    },
+    "section": "<b>In each of questions 63 to 67, select the option that best explain the information conveyed in the sentence?</b>\n",
+    "image": "",
+    "answer": "d",
+    "solution": "No love lost between two people means that they are not friends, they dislike each other intensely.\n\nIf there is \"no love lost\" between two people, they have a strong hatred, hostility, or enmity for the other person, and make no attempt to conceal it.",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 66,
     "hasPassage": 0,
     "category": "others"
   },
@@ -27052,6 +27128,25 @@
     "examtype": "utme",
     "examyear": "2015",
     "questionNub": 64,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1752,
+    "question": "‘Jims, we have a prefect meeting with Mr Mallum now’ who made this statement?",
+    "option": {
+      "a": "Seyi Lawal",
+      "b": "Mr Mallum",
+      "c": "Mrs. Solade",
+      "d": "Femi"
+    },
+    "section": "This question is from the novel 'The Last Days at Forcados High school'.",
+    "image": "",
+    "answer": "a",
+    "solution": "This statement was made by the headboy, Seyi Lawal when he was asked to call Jimi for a meeting by the principal, Mr Mallum.\n\nSee page 9",
+    "examtype": "utme",
+    "examyear": "2015",
+    "questionNub": 65,
     "hasPassage": 0,
     "category": "others"
   },

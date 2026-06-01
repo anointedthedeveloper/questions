@@ -13776,6 +13776,22 @@
     "examyear": "2018"
   },
   {
+    "id": 967,
+    "question": "Evaluate ∫<sup>2</sup><sub>1</sub> 5/x\n dx",
+    "option": {
+      "a": "1.47",
+      "b": "2.67",
+      "c": "3.23",
+      "d": "3.47"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "∫5/x dx = 5 ∫1/x = 5Inx\n\nSince the integral of 1/x is Inx\n\n ∫<sup>2</sup><sub> 1</sub>\n∫ 5/x dx = 5\n\n dx = 5 (In<2 – InIn1)\n\n  = 3.4657\n\n  = 3.47",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 968,
     "question": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?",
     "option": {

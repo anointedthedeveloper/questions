@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 9,
+    "question": "Joshua and Caleb were from the tribe of ",
+    "option": {
+      "a": "Judah and Rueben ",
+      "b": "Reuben and Dan ",
+      "c": "Ephraim and Reuben ",
+      "d": "Judah and Ephraim"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 13,
     "question": "When Paul came to Rome, the first set of people to whom he preached were the ",
     "option": {
@@ -142,6 +158,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2009"
+  },
+  {
+    "id": 116,
+    "question": "To whom was the body of Jesus Christ given for burial after His death? ",
+    "option": {
+      "a": "Nicodemus the Pharisee ",
+      "b": "Simon of Cyrene ",
+      "c": "Simon the disciple ",
+      "d": "Joseph of Arimathea."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
   },
   {
     "id": 142,
@@ -768,6 +800,22 @@
     "examyear": "2012"
   },
   {
+    "id": 884,
+    "question": "The visitors of Peter after his vision at Joppa were from ",
+    "option": {
+      "a": "Jerusalem",
+      "b": "Samaria",
+      "c": "Caesarea",
+      "d": "Antioch"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 891,
     "question": "On the fourth day of creation God created ",
     "option": {
@@ -811,6 +859,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 996,
+    "question": "Who among the following kings was raised by God against the Israelites for going after the Canaanite gods? ",
+    "option": {
+      "a": "Agap   ",
+      "b": "Jabin     ",
+      "c": "         Zebah             ",
+      "d": "Zalmunnal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"

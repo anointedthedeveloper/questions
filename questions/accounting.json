@@ -64,6 +64,22 @@
     "examyear": "2013"
   },
   {
+    "id": 140,
+    "question": "A receipt is an evidence of",
+    "option": {
+      "a": "payments",
+      "b": "stocking",
+      "c": "delivery",
+      "d": "discounts."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 150,
     "question": "The costs of acquiring fixed assets and bringing them into the firm is a",
     "option": {
@@ -123,6 +139,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 198,
+    "question": "The amount of capital expenditure for 1995 was",
+    "option": {
+      "a": "N  260,000",
+      "b": "N  230,000",
+      "c": "N  220,000",
+      "d": "N  160,000"
+    },
+    "section": "Kudi Local Government Council incurred the following expenditure in 1995: Payment of salaries [ 140,000], Purchase of drugs for dispensaries [ 80,000 ], Purchase of books for Library [ 30,000], \tSinking of wells [ 70,000 ], Extension of Council offices [ 160,000]",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -336,6 +368,22 @@
     "examyear": "2015"
   },
   {
+    "id": 337,
+    "question": "Which of the following expenses is allocated according to the floor \tarea?",
+    "option": {
+      "a": "Wages and Salaries",
+      "b": "Rent and rates",
+      "c": "Canteen expenses",
+      "d": "Discount allowed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 358,
     "question": "Which of the following is entered in the general journal?",
     "option": {
@@ -480,6 +528,22 @@
     "examyear": "2007"
   },
   {
+    "id": 487,
+    "question": "Calculate the balance as per bank statement at the end of the year",
+    "option": {
+      "a": "24,700",
+      "b": "25,200",
+      "c": "26,200",
+      "d": "27,700"
+    },
+    "section": "Given: Balance as per cash book [N20,000 ]; Unpresented cheques [N 5,200 ]; Direct credit to the bank [\t  N 1,000 ]; \tDirect debit from the bank [N 1,000 ]; Credit in the cash book [N 500 ]",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 527,
     "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it can be used for more than one year is",
     "option": {
@@ -492,6 +556,38 @@
     "image": "",
     "answer": "a",
     "solution": "Materiality states that only items of material values are recorded e.g. the cost of a stapler should not be capitalized but expensed just as kitchen cutlery.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 528,
+    "question": "Use the information below to answer this question.\nTimo and Chris are computer engineers who went into partnership as Teachi and Co. Timo brought cash of ₦12,000 furniture worth of ₦18,000 and vehicle worth of 70,000. Chris equally brought in cash of 10,000 his building valued at 105,000 and personal computers worth ₦35,000.\n\nWhat is the profit sharing ratio if it’s based on capital contribution by Teechi and Co?",
+    "option": {
+      "a": "2 : 3",
+      "b": "3 : 2",
+      "c": "6 : 5",
+      "d": "5 : 6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Divide the net assets contributed by each partner by the total partnership's assets. This is the accountant ratio for income sharing. For instance, if the total assets of a company are ₦100,000 and the contribution of one partner is ₦10,000, the accounting ratio for this partner would be 0.1.\n\n Timo = 100,000\nchris = 150,000\nTotal = 250,000\n\nTimo =100,000 / 250,000 = 0.4\nchris = 150,000 / 250,000 = 0.6\n\nThis can be interpreted as 2:3 ratio",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 540,
+    "question": "Sales ledger control account contains the total amount in respect of",
+    "option": {
+      "a": "creditors",
+      "b": "debtors",
+      "c": "investors",
+      "d": "shareholders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The sales ledger control account is used to monitor the amounts owed by customers to your business. \n\nThe sales ledger control account is also known as debtors control account and includes all entries of debtors as if only one existed.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -640,6 +736,22 @@
     "examyear": "2019"
   },
   {
+    "id": 764,
+    "question": "Where there is no agreement made by the partners, the following provisions takes place except",
+    "option": {
+      "a": "No salary for partners acting in the business",
+      "b": "There is interest on capital",
+      "c": " No interest to be charged on drawings",
+      "d": "Profit and loss are to be shared equally"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "According to section 24 of the partnership Act 1890. If no specific agreement is made by the partners, the following takes place:\n1. No partners may introduce a new person without the consent of all other partners 2.5% interest a year on loans made by partner e.t.c",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 808,
     "question": "Capital and revenue expenditures of government are usually accounted for under funds which include",
     "option": {
@@ -656,6 +768,70 @@
     "examyear": "2021"
   },
   {
+    "id": 812,
+    "question": "During the year, the business had an opening debtors balance of ₦25,000. Cheques totalling ₦255,000 were received from debtors, and the closing debtors balance was ₦15,000. What was the total credit sales for the year?",
+    "option": {
+      "a": " ₦245,000",
+      "b": "₦215,000",
+      "c": ". ₦295,000",
+      "d": " ₦265,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using the debtors control account formula:\nSales = Receipts from debtors + Closing debtors – Opening debtors\nSales = ₦255,000 + ₦15,000 – ₦25,000 = ₦245,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 814,
+    "question": "Using the same departmental information where the organization apportions expenses in the proportion 60:40 for departments A and B respectively, and given that the total depreciation is ₦1,000 with Department A already allocated ₦600 for depreciation, what is the depreciation to be charged to Department B?",
+    "option": {
+      "a": " ₦500",
+      "b": "₦300",
+      "c": "₦400",
+      "d": " ₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The depreciation to be charged to Department B can be calculated in two ways:\nMethod 1 - By difference:\nTotal depreciation - Department A's depreciation = ₦1,000 - ₦600 = ₦400\nMethod 2 - By proportion:\nDepartment B's share = 40% of ₦1,000 = ₦400",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 857,
+    "question": "Use the information below to answer question\n\nAn asset was purchase for ₦343m in 2003.\nThe estimated life of the asset was 3 years with a residual value of ₦28m.\n\nWhat was the asset value at the beginning of the third year?",
+    "option": {
+      "a": "₦63m\n",
+      "b": "₦133m\n",
+      "c": "₦36m\n",
+      "d": "₦28m\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Annual depreciation = (₦343 m – ₦28 m) ÷ 3 = ₦105 m per year.\nBook value at start of year 3 = ₦343 m – 2 × ₦105 m = ₦133 million ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 885,
+    "question": "The following are importance of branch account except",
+    "option": {
+      "a": "it allows fraud and wastage of resources",
+      "b": "it assist the organization to determine the performance of a branch manager",
+      "c": "it enable the organization to determine the branch that is making either profit or loss",
+      "d": "it allows proper control over the branch by the head office"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Branch accounts are intended to improve control, oversight, and performance evaluation of individual branches—not to facilitate fraud or resource wastage. The other options correctly describe benefits of maintaining branch accounts.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 892,
     "question": "Accounting entry for dissolution expenses is",
     "option": {
@@ -668,6 +844,22 @@
     "image": "",
     "answer": "c",
     "solution": "When dissolution expenses are paid, the Realization account is debited because it represents the expenses related to the dissolution of the partnership. The Cash account is credited because cash is going out of the business to pay for these expenses. Hence, the correct accounting entry is 'Dr: Realization account; Cr: Cash account'.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 905,
+    "question": "Salaries in arrears is treated in the balance sheet as a",
+    "option": {
+      "a": "current asset",
+      "b": " current liability",
+      "c": " long term liability",
+      "d": "fixed asset"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Salaries in arreas is an unpaid salary with amount due from the past. It is treated as current liabilities in the balance sheet.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -748,6 +940,22 @@
     "image": "",
     "answer": "d",
     "solution": "The cash book is unique because it eliminates the need for a separate cash account in the ledger, as it functions as both the book of original entry for cash transactions and as the actual cash ledger account itself.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 962,
+    "question": "A person who prepares, analyses and interprets financial statements is known as a/an",
+    "option": {
+      "a": "cashier",
+      "b": "book keeper",
+      "c": "accountant",
+      "d": "analyst"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An accountant reviews and analyses financial records, keeping track of a company's or individual's income, expenditures, and tax liabilities. An accountant may also be involved in project planning, cost analysis, auditing, and financial decision-making.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -1276,6 +1484,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672047/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q37-38_sdjnqq.png",
     "answer": "a",
     "solution": "To find the correct closing balance for Musa's current account, properly arrange the account with debits on the left and credits on the right.\nMusa's Current Account (Corrected):\nDebit Side (Left):\n\nDrawings: ₦8,800\nBalance c/d (if credit balance): ?\n\nCredit Side (Right):\n\nBalance b/d: ₦1,800\nInterest on capital: ₦800\nShare of profit: ₦26,200\n\nCalculation:\nTotal credits = ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nLess: Drawings = ₦8,800\nNet credit balance = ₦28,800 - ₦8,800 = ₦20,000\nWait, let me recalculate more carefully:\nCredit side total: ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nDebit side: Drawings ₦8,800\nBalance c/d: ₦28,800 - ₦8,800 = ₦20,000 credit",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1461,
+    "question": "If goods are invoiced to the branch at cost and the in-voice par value is ₦2,000 with 5% discount rate, cash \nremitted to the head office is",
+    "option": {
+      "a": "₦2,100",
+      "b": "₦2,000",
+      "c": "₦1,900",
+      "d": "₦100"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Invoice price = ₦2,000\n\nDiscount rate = 5%\n\nDiscount amount:\n\n\n₦2,000 × 5% = ₦100\nCash remitted to the head office:\n\nInvoice price − Discount = ₦2,000 − ₦100 = ₦1,900",
     "examtype": "utme",
     "examyear": "1997"
   }

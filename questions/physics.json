@@ -5680,6 +5680,22 @@
     "examyear": "2019"
   },
   {
+    "id": 375,
+    "question": "Neutrons were discovered by",
+    "option": {
+      "a": "Faraday",
+      "b": "Dalton",
+      "c": "James Chadwick",
+      "d": "Rutherford"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "It was discovered by James Chadwick in 1932.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 376,
     "question": "The mass of a nucleus is the",
     "option": {
@@ -5756,6 +5772,22 @@
     "image": "",
     "answer": "a",
     "solution": "Understanding circular motion:\nFor an object moving in a circle at constant speed, a centripetal force is required to keep it moving in that circular path.\nCentripetal force formula:\nF = mv²/r\nwhere:\n\nm = mass of the object\nv = velocity (speed) of the object\nr = radius of the circular path\n\nDerivation concept:\n\nCentripetal acceleration = v²/r\nForce = mass × acceleration\nTherefore: F = m × (v²/r) = mv²/r",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 382,
+    "question": "\nA machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms⁻¹. The recoil speed of the machine gun is",
+    "option": {
+      "a": "0.5 ms⁻¹",
+      "b": "1.5 ms⁻¹",
+      "c": "1 ms⁻¹",
+      "d": "2 ms⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass of gun (M) = 5 kg\nMass of bullet (m) = 50g = 0.05 kg\nVelocity of bullet (v) = 100 m/s\nRecoil velocity of gun (V) = ?\n\nUsing Conservation of Momentum:\nInitial momentum = Final momentum\nBefore firing (both at rest):\nInitial momentum = 0\nAfter firing:\nFinal momentum = momentum of bullet + momentum of gun\n0 = mv + MV\nNote: Gun recoils in opposite direction, so velocities have opposite signs.\nSolving for recoil velocity:\n0 = mv - MV (taking bullet forward as positive, gun backward as negative)\nMV = mv\nV = mv/M\nSubstituting values:\nV = (0.05 × 100)/5\nV = 5/5\nV = 1 m/s",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -6848,6 +6880,22 @@
     "examyear": "2021"
   },
   {
+    "id": 452,
+    "question": "The equation of a wave traveling along the positive x-direction is given by: y = 0.25 × 10⁻³ sin(500t - 0.025x). Determine the angular velocity of the wave motion.",
+    "option": {
+      "a": " 0.25 × 10⁻³ rad s⁻¹",
+      "b": "0.25 × 10⁻¹ rad s⁻¹",
+      "c": "5.00 × 10² rad s⁻¹",
+      "d": "2.50 × 10³ rad s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given wave equation:\ny = 0.25 × 10⁻³ sin(500t - 0.025x)\nStandard form of wave equation:\ny = A sin(ωt - kx)\nwhere:\n\nA = amplitude\nω = angular velocity (angular frequency)\nk = wave number\nt = time\nx = position\n\nComparing the given equation with standard form:\ny = 0.25 × 10⁻³ sin(500t - 0.025x)\ny = A sin(ωt - kx)\nIdentifying parameters:\n\nAmplitude (A) = 0.25 × 10⁻³ m\nAngular velocity (ω) = 500 rad/s\nWave number (k) = 0.025 rad/m\n\nConverting to scientific notation:\nω = 500 rad/s = 5.00 × 10² rad s⁻¹",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 453,
     "question": "If a sound wave goes from a cold air region to a hot air region, its wavelength will?",
     "option": {
@@ -7516,6 +7564,22 @@
     "image": "",
     "answer": "d",
     "solution": "Step 1: Recall standard atmospheric pressure\nStandard atmospheric pressure at sea level:\n\n1 atmosphere (atm)\n101,325 Pa\n760 mmHg (millimeters of mercury)\n\nStep 2: Convert to appropriate units\n760 mmHg = 760 mm\nConvert to centimeters:\n760 mm = 760/10 cm = 76 cm",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 499,
+    "question": "If an object just begins to slide on a surface inclined at 30º to the horizontal, the coefficient of friction is?",
+    "option": {
+      "a": "√3",
+      "b": "√3/2",
+      "c": "1/√2",
+      "d": "1/√3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nAngle of inclination, θ = 30º\nObject just begins to slide (limiting friction)\nCoefficient of friction, μ = ?\n\nSolution:\nStep 1: Analyze forces on the inclined plane\nWhen the object just begins to slide:\n\nComponent of weight down the plane = mg sinθ\nNormal reaction force = mg cosθ\nLimiting friction force = μN = μ mg cosθ\n\nStep 2: Apply equilibrium condition\nAt the point of sliding:\nFriction force = Component of weight down the plane\nμ mg cosθ = mg sinθ\nStep 3: Simplify and solve for μ\nμ cosθ = sinθ\nμ = sinθ/cosθ\nμ = tanθ\nStep 4: Calculate for θ = 30º\nμ = tan 30º\nμ = 1/√3",
     "examtype": "utme",
     "examyear": "2022"
   },

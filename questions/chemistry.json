@@ -336,6 +336,22 @@
     "examyear": "2001"
   },
   {
+    "id": 23,
+    "question": "C(s) + 2S (g)  → CS2 (g)      Δ H = +89kJ mol-1. The chemical equation above implies that",
+    "option": {
+      "a": "Each of carbon and sulphur has 89kJ of energy",
+      "b": "Both carbon and sulphur contribute 89kJ of energy",
+      "c": "89kJ of energy is released",
+      "d": "89kJ is absorbed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 24,
     "question": " 2SO2(g) + O2(g) ⇌  2SO3(g)  The equilibrium constant for the reaction above is increased by  [ΔH = -189kJ mol -1]",
     "option": {
@@ -12124,6 +12140,22 @@
     "image": "",
     "answer": "b",
     "solution": "Diffusion is the spontaneous net movement of particles from a region of higher concentration to one of lower concentration. Even in solids, atoms can slowly diffuse into adjacent materials over very long periods, explaining why gold atoms migrate into the silver bar.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 786,
+    "question": "A metal that can be found in the free state in nature is",
+    "option": {
+      "a": "silver",
+      "b": "Zinc",
+      "c": "Iron",
+      "d": "copper"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Metals low in the reactivity series (noble metals) occur uncombined in nature. Silver, gold, and platinum are classic examples. Zinc and iron are too reactive and are found only as ores. While copper also occurs natively, silver is the most recognised answer here.",
     "examtype": "utme",
     "examyear": "2025"
   },

@@ -192,6 +192,22 @@
     "examyear": "2009"
   },
   {
+    "id": 52,
+    "question": "A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ",
+    "option": {
+      "a": "N180 ",
+      "b": "N 165 ",
+      "c": "N15   ",
+      "d": "N 200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 54,
     "question": "Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium  ",
     "option": {
@@ -560,6 +576,22 @@
     "examyear": "2002"
   },
   {
+    "id": 190,
+    "question": "The inverse function f(x) = 3x + 4 is",
+    "option": {
+      "a": "(x-4)/3",
+      "b": " (x-5)/5",
+      "c": " (x+3)/4",
+      "d": " (x+4)/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Let y = f(x).\n\nY = 3x + 4 ⟹ x = y−4/3\nReplace y with x.\n\nY = x−4/3",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 200,
     "question": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8",
     "option": {
@@ -670,6 +702,22 @@
     "solution": "m =( y<sub>2</sub>−y<sub>1</sub>)/ (x<sub>2</sub>−x<sub>1</sub>) = 2−0/0−(4) = 2/4 = 1/2\n\n\n(y<sub>2</sub>−y<sub>1</sub>)/x<sub>2</sub>− x<sub>1</sub> ≥ m\n\n\n(y−0)/(x+4) ≥ 1/2\n\n2y ≥ x + 4, -x + 2y ≥ 4 = px + qy ≥ 4\np = -1, q = 2",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 230,
+    "question": "If 9<sup>2x−1</sup>/27<sup>x+1</sup> = 1\n, find the value of x.",
+    "option": {
+      "a": "8",
+      "b": "5",
+      "c": "3",
+      "d": "2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <msup>\n      <mn>9</mn>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n        <mi>x</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>1</mn>\n      </mrow>\n    </msup>\n    <msup>\n      <mn>27</mn>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mi>x</mi>\n        <mo>+</mo>\n        <mn>1</mn>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mo>=</mo>\n  <mn>1</mn>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "If 9<sup>2x−1</sup>/27<sup>x+1</sup> = 1\n \n⟹f 9<sup>2x−1</sup> = 27<sup>x+1</sup>\n(3<sup>2</sup>)<sup>2x−1</sup> = (3<sup>3</sup>)<sup>x + 1</sup>\n2(2x−1 )= 3(x+1) ⟹ 4x−2 = 3x+3\n4x − 3x = 3 + 2 ⟹ x = 5",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 246,
@@ -1280,6 +1328,22 @@
     "examyear": "2006"
   },
   {
+    "id": 412,
+    "question": "THe cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room?",
+    "option": {
+      "a": "N1215",
+      "b": "N720",
+      "c": " N1620",
+      "d": "N810"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cost of removing a 6m2 room = N540\nCost of renovating a 1m2 room = 540 / 6\nCost of removing a 9m2 room\n= (540 / 6) * 9\n= N810",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 421,
     "question": "If E⊆G⊆U, where U is the universal set, then the shaded venn diagram representing U−E or E<sup>c</sup is",
     "option": {
@@ -1420,6 +1484,22 @@
     "image": "",
     "answer": "c",
     "solution": " 1101<sub>2</sub> + 10111<sub>2</sub>  +  111<sub>2</sub>  = 101011",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 483,
+    "question": "Make Q the subject of formula when L = 4/3 M√PQ",
+    "option": {
+      "a": "(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
+      "b": "3L/(4M√P)",
+      "c": "√3L/4MP",
+      "d": "(3L<sup>2</sup>)/(16M<sup>2</sup> ) P"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "L=4/3 M√PQ=3/4M×L=√PQ=〖(3L/4M)〗<sup>2</sup>=(√PQ )<sup>2</sup>=(9L<sup>2</sup>)/(16M<sup>2</sup> )=PQ=Q=(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -1664,6 +1744,22 @@
     "examyear": "2010"
   },
   {
+    "id": 617,
+    "question": "If three unbiased coins are tossed, find the probability that they are all heads",
+    "option": {
+      "a": "1/2",
+      "b": "1/3",
+      "c": "1/9",
+      "d": "1/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "P(H) = 1/2 and P(T) = 1/2\n\nUsing the binomial prob. distribution,\n\n(H + T)3 = H3 + 3H2T1 + 3HT2 + T3\n\nHence the probability that three heads show in a toss of the three coins is H3\n\n= (1/2)3\n\n= 1/8",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 619,
     "question": "W is directly proportional to U. If W = 5 when U = 3, find U when W = 2/7",
     "option": {
@@ -1692,6 +1788,22 @@
     "image": "",
     "answer": "b",
     "solution": "log<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = 3\n\nlog<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = 3log<sub>3</sub>3\n\nlog<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = log<sub>3</sub>3<sup>3</sup>\n\nlog<sub>3</sub>(18×3/X\n) = log<sub>3</sub>3<sup>3</sup>\n\n18×3/X\n = 3<sup>3</sup>\n\n18 x 3 = 27 x X\n\nx = 18×3/27\n\n\n= 2",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 629,
+    "question": "Simplify √2+1/√3)(√2-1/√3",
+    "option": {
+      "a": "7/3",
+      "b": "5/3",
+      "c": "5/2",
+      "d": "3/2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>+</mo>\n  <mfrac>\n    <mn>1</mn>\n    <msqrt>\n      <mn>3</mn>\n    </msqrt>\n  </mfrac>\n  <mo stretchy=\"false\">)</mo>\n  <mo stretchy=\"false\">(</mo>\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>&#x2212;<!-- − --></mo>\n  <mfrac>\n    <mn>1</mn>\n    <msqrt>\n      <mn>3</mn>\n    </msqrt>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "√2+1/√3)(√2-1/√3.    √4-√2/√3+√2/√3-1/√9 = 2 - 1/3\n\n\n= (16−1)/3\n\n\n= 5/3",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -3232,6 +3344,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1176,
+    "question": "Two numbers are respectively 35% and 80% more than a third number. The ratio of the two numbers is",
+    "option": {
+      "a": "7 : 16",
+      "b": "3 : 4",
+      "c": "16 : 7",
+      "d": " 4 : 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Let the third number = x\nThen the first number = 100% x + 35%x = 135x/100 = 1.35x (Note: 100% x=x)\n\nThe second number = 180% x = 180x/100 = 1.80x\n∴ The ratio of the first number to the second number = 1.35x:1.80x=3:4",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1177,
     "question": "The angle of elevation and depression of the top and bottom of another building, measured from the top of a 24 m tall building, is 30° and 60°, respectively. Determine the second building's height.",
     "option": {
@@ -3532,6 +3660,22 @@
     "image": "",
     "answer": "d",
     "solution": "[Return ÷ Investment] as a ratio ;\n\ni.e The Ratio is Return : Investmen\n\n[(Return1÷ Investment1 ) = (Return2÷Investment2)]\n\nR1 = N 25000\n\nR2 =?\n\nI1 = N450,000,\n\nI1 = N 700000\n\n(25000 ÷ 450000) = (R2 ÷ 700000)\n\nR2 = [(25000 × 700000 ) ÷ 450000]\n\n= N38,888.90K\n\n∴ The return on a investment of Y = N38888.90K",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1279,
+    "question": "Find the area of the curved surface of a cone whose base radius is 3cm and whose height is 4cm (π = 3.14)",
+    "option": {
+      "a": "17.1 cm<sup>2</sup>",
+      "b": "27.2 cm<sup>2</sup>",
+      "c": "47.1 cm<sup>2</sup>",
+      "d": "37.3 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Find the slant height\n\nl<sup>2</sup> = h<sup>2</sup> + r<sup>2</sup>(h = 4 cm, r = 3 cm)\n\n\nl<sup>2</sup> = 4<sup>2</sup> + 3<sup>2</sup> = 16 + 9 =25\n\n\nl<sup>2</sup> = √25\n\n\nSquaring both sides\n\nl = 5cm\n\nThe area of curved surface (s) =π(3)(5)\n\n15π = 15 × 3.14\n\n= 47.1 cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2015"
   },

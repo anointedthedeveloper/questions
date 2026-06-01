@@ -96,6 +96,22 @@
     "examyear": "2007"
   },
   {
+    "id": 32,
+    "question": "The temperature at which the water vapour in the air saturates the air and begins to condense is",
+    "option": {
+      "a": "melting point ",
+      "b": "triple point ",
+      "c": "dew point ",
+      "d": "melting point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 33,
     "question": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four ",
     "option": {
@@ -299,6 +315,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 74,
+    "question": "A 0.60kg rubber stopper is whirled in a horizontal circle of 0.80m radius at a rate of 3.0 revolutions per second. What is the tension in the string? ",
+    "option": {
+      "a": "14N ",
+      "b": "80N ",
+      "c": "170N ",
+      "d": "24N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -3100,6 +3132,22 @@
     "image": "",
     "answer": "b",
     "solution": "grease is more viscous than the rest of the liquids",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 965,
+    "question": "A perfect emitter or absorber of radiant energy is a?",
+    "option": {
+      "a": "conductor",
+      "b": "black body",
+      "c": "white body",
+      "d": " red body"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dull, black surface are good emitters or absorbers of energy",
     "examtype": "utme",
     "examyear": "2011"
   },

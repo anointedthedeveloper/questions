@@ -224,6 +224,22 @@
     "examyear": "2009"
   },
   {
+    "id": 58,
+    "question": "Find the positive number n such that thrice its square is equal to twelve time the number ",
+    "option": {
+      "a": "1",
+      "b": "4",
+      "c": "2",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 61,
     "question": "The value of (0.303)3 – (0.02)3 is ",
     "option": {
@@ -992,6 +1008,22 @@
     "examyear": "2004"
   },
   {
+    "id": 313,
+    "question": "The shadow of a pole 5√3m high is 5m. Find the angle of elevation of the sun.",
+    "option": {
+      "a": " 45°",
+      "b": "75°",
+      "c": "30°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Tan θ = 5√3/5\nTan θ = √3\nθ = 60°",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 319,
     "question": "In the diagram above, PQ = 4cm and TS = 6cm. If the area of parallelogram PQTU is 32cm<sup>2</sup>, find the area of trapezium PQRU",
     "option": {
@@ -1696,6 +1728,22 @@
     "examyear": "2009"
   },
   {
+    "id": 565,
+    "question": "In how many ways can 9 people be seated if 3 chairs are available?",
+    "option": {
+      "a": "720",
+      "b": "504",
+      "c": "336",
+      "d": "210"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\n9P3 =9!ways/(9-3)!\n \n=9!/6!\n \n=9 x 8 x 7 x 6!/6!\n\n= 504 ways",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 569,
     "question": "The cumulative frequency curve above shows the distribution of the scores of 50 students in an examination. Find the 36th percentile scores?",
     "option": {
@@ -2224,6 +2272,22 @@
     "examyear": "2013"
   },
   {
+    "id": 820,
+    "question": "If the mean of 4, y, 8 and 10 is 7. Find Y?",
+    "option": {
+      "a": "6",
+      "b": "10",
+      "c": "7",
+      "d": "9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "(4+y+8+10)/4 = 7\n\n22 + y = 4 x 7\n22 + y = 28\ny = 28 - 22 = 6",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 827,
     "question": "From the diagram above, Find the value of < ROP",
     "option": {
@@ -2284,6 +2348,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003119/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q25_kwrqbw.jpg",
     "answer": "b",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 849,
+    "question": "The mean of 2-t, 4+t, 3-2t, 2+t and t-1 is",
+    "option": {
+      "a": "2",
+      "b": "t",
+      "c": "-t",
+      "d": "-2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Mean = (2−t+4+t+3−2t+2+t+t−1)/5\n\n\n= 10/5\n = 2",
     "examtype": "utme",
     "examyear": "2016"
   },

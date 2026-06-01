@@ -16,6 +16,22 @@
     "examyear": "2011"
   },
   {
+    "id": 308,
+    "question": "Goods returned to a supplier is",
+    "option": {
+      "a": "debited to Returns outwards account",
+      "b": "credited to Returns outwards account",
+      "c": "debited to Returns inwards account",
+      "d": "credited to Returns inwards account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 384,
     "question": "The concept applied in answering question 42 above is",
     "option": {
@@ -64,6 +80,22 @@
     "examyear": "2017"
   },
   {
+    "id": 810,
+    "question": "The excess of income over expenditure is usually transferred to the",
+    "option": {
+      "a": "current assets in the balance sheet",
+      "b": "profit and loss account",
+      "c": "accumulated fund",
+      "d": " current liabilities in the balance sheet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In not‑for‑profit accounting, any surplus (the excess of income over expenditure) is not shown in a profit and loss account but is transferred to the Accumulated Fund (also called the General Fund or Capital Fund). This fund represents the retained surpluses of the organization.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 866,
     "question": "Adex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch: Stock at branch 1st January at cost was ₦400, goods sent to branch at cost during the year was ₦8,000, returns to head office amounted to ₦340, cash sales were ₦9,160, and stock at branch 31st December at cost was ₦720. Calculate the cost of goods sold during the year.",
     "option": {
@@ -78,6 +110,54 @@
     "solution": "Stock movement formula:\nCost of Goods Sold = Opening Stock + Goods Sent to Branch - Returns to Head Office - Closing Stock\nCalculation:\n\nOpening Stock (1st Jan): ₦400\nAdd: Goods sent to branch: ₦8,000\nLess: Returns to head office: ₦340\nLess: Closing Stock (31st Dec): ₦720\n\nCost of Goods Sold = ₦400 + ₦8,000 - ₦340 - ₦720 = ₦7,340\nThe cost of goods sold by Ede branch is ₦7,340.",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 920,
+    "question": "When expenses are paid on behalf of the venture, the accounting entries is to debit",
+    "option": {
+      "a": "expenses account and credit bank account",
+      "b": " bank account and credit joint venture account",
+      "c": "joint venture account and credit bank account",
+      "d": "joint venture account and credit expenses account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Expenditure paid on bahalf of joint venture\nAccountint entries:\nDr: Joint venture account\nCr: Bank account",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 981,
+    "question": "<b>Use the information below to answer questions 17 to 18.</b>\n\nAug. 1 Received 20 units at ₦60 each\nAug. 6 Received 20 units at ₦68 each\nAug. 10 Issued 16 units\nAug. 20 Received 40 units at ₦80 each\nAug. 31 Issued 48 units\n\nUsing the simple average method, what is the cost per unit of the closing stock?",
+    "option": {
+      "a": "₦80",
+      "b": "₦72",
+      "c": "₦64",
+      "d": "₦60"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate the average cost after each receipt\n\nAug. 1\n\nReceived 20 units @ ₦60\n\nAverage cost = ₦60 (only one purchase so far)\n\nAug. 6\n\nReceived 20 units @ ₦68\n\nSimple average = (60 + 68)/2 = 128/2 = ₦64 per unit\n\nStep 2: Issue stock (Aug. 10)\n\nIssued 16 units at ₦64 each (no change in average price — simple average method keeps cost until next purchase)\n\nBalance after issue = 20 + 20 − 16 = 24 units @ ₦64\n\n\nStep 3: Aug. 20 purchase\n\nReceived 40 units @ ₦80\n\n₦ew average = (64 + 80)/2 = 144/2 = 72 per unit\n\n\nStep 4: Aug. 31 issue\n\nIssued 48 units @ ₦72 (still same average after last purchase)\n\nClosing stock units = 24 + 40 − 48 = 16 units @ ₦72\n\nCost per unit of closing stock = ₦72",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 993,
+    "question": "Given:\n\nSubscription in arrears 01/10/06...........₦2 000\nSubscription in advance 01/10/06...........₦1 500\nSubscription paid during the year..........₦7 000\nSubscription in arrears 31/12/06...........₦3 000\n\nDetermine the amount of subscription included in the income and expenditure account for the year?",
+    "option": {
+      "a": "₦3500",
+      "b": "₦7500",
+      "c": "₦9500",
+      "d": "₦13 500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Formula:\nSubscription Income = Cash Received + Opening Arrears - Closing Arrears + Opening Advance - Closing Advance\nGiven:\n\nOpening arrears (01/10/06): ₦2,000\nOpening advance (01/10/06): ₦1,500\nCash received during the year: ₦7,000\nClosing arrears (31/12/06): ₦3,000\n\nCalculation:\nSubscription Income = ₦7,000 + ₦2,000 - ₦3,000 + ₦1,500\nSubscription Income = ₦7,000 + ₦2,000 - ₦3,000 + ₦1,500\nSubscription Income = ₦7,500",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 1035,

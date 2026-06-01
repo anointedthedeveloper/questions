@@ -3072,6 +3072,22 @@
     "examyear": "2016"
   },
   {
+    "id": 602,
+    "question": "An increase in government expenditure within a year is taken care of by means of",
+    "option": {
+      "a": "virement",
+      "b": "financial regulations",
+      "c": "supplementary estimate",
+      "d": "warrant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "supplementary estimates means a statement of unforeseen expenditure for a financial year presented by the Treasurer to the Legislative Assembly for the purpose of obtaining supplementary appropriation for that expenditure",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 603,
     "question": "A business organization prepares departmental account in order to",
     "option": {
@@ -3372,6 +3388,22 @@
     "image": "",
     "answer": "b",
     "solution": "Starting from the cashbook balance of ₦5,467, we adjust for items not yet reflected in the bank statement:\n\nAdd unpresented cheques (outstanding at bank): ₦19,404\n\nSubtract uncredited cheques (lodgements in transit): ₦4,410\n\nSubtract cheques wrongly debited by the bank (the bank has already taken this amount): ₦1,404\n\nSo the bank statement balance is:\n5,467 + 19,404 − 4,410 − 1,404 = ₦19,057",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 649,
+    "question": "A business has the following information for the year: Debtors opening ₦4,000, Debtors closing ₦1,500, Cash received from debtors ₦8,500, Bad debts written off ₦350, Discount allowed ₦500, Discount Received ₦1,000. What is the amount of sales for the year?",
+    "option": {
+      "a": "₦3850",
+      "b": "₦6650",
+      "c": "₦1550",
+      "d": "₦6850"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using the debtors account to find sales:\nDebtors Account Movement:\nOpening Balance + Sales - Cash Received - Bad Debts - Discount Allowed = Closing Balance\nSubstituting the values:\n₦4,000 + Sales - ₦8,500 - ₦350 - ₦500 = ₦1,500\nSolving for Sales:\n₦4,000 + Sales - ₦9,350 = ₦1,500\nSales = ₦1,500 + ₦9,350 - ₦4,000\nSales = ₦10,850 - ₦4,000\nSales = ₦6,850\nNote: Discount received (₦1,000) is not relevant to the debtors account as it relates to creditors/suppliers, not customers.\nThe sales for the year is ₦6,850.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4108,6 +4140,22 @@
     "image": "",
     "answer": "a",
     "solution": "Double entry is based on dual concept, i.e two-fold aspect of transaction whereby single entry ignored the principle of double entry.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 762,
+    "question": "An ordinary share of ₦100 was issued at ₦80. The share was issued at",
+    "option": {
+      "a": "premium",
+      "b": "par",
+      "c": "discount",
+      "d": "loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Share issued at discount is a situation whereby shares are quoted below the nominal value.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -5772,6 +5820,22 @@
     "image": "",
     "answer": "d",
     "solution": "The balancing figures from the income and expenses account represent the surplus or deficit for the period, which is transferred to the profit and loss account in the conversion process.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1087,
+    "question": "<b>Use the information below to answer questions 23 and 24</b>\n\nBeginning inventory............₦?\nPurchases......................₦?\nEnding inventory...............₦4,800\nSales..........................₦12,800\nWages..........................₦1,040\nGross profit...................₦5,900\n\n<b>The beginning inventory was estimated at 80% of sales.</b>\n\nDetermine the amount for the beginning inventory?",
+    "option": {
+      "a": "₦20,140",
+      "b": "₦10,240",
+      "c": "₦8,140",
+      "d": "₦7,240"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate Cost of Goods Sold\nGross Profit = Sales - Cost of Goods Sold\n₦5,900 = ₦12,800 - Cost of Goods Sold\nCost of Goods Sold = ₦12,800 - ₦5,900 = ₦6,900\nStep 2: Apply the inventory equation\nCost of Goods Sold = Beginning Inventory + Purchases - Ending Inventory\n₦6,900 = Beginning Inventory + Purchases - ₦4,800\nBeginning Inventory + Purchases = ₦6,900 + ₦4,800 = ₦11,700\nStep 3: Calculate Beginning Inventory\nBeginning Inventory = 80% of Sales\nBeginning Inventory = 80% × ₦12,800\nBeginning Inventory = 0.8 × ₦12,800 = ₦10,240",
     "examtype": "utme",
     "examyear": "2004"
   },

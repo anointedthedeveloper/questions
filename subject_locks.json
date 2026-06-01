@@ -2,11 +2,15 @@
   "locks": {
     "english": {
       "machine": "A-Server",
-      "time": 1780317526.77722
+      "time": 1780317615.076237
     },
     "physics": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780317660.7278519
+=======
+      "time": 1780317620.8085527
+>>>>>>> Stashed changes
     },
     "government": {
       "machine": "A-Server",
@@ -14,15 +18,23 @@
     },
     "englishlit": {
       "machine": "A-Server",
-      "time": 1780317479.5745564
+      "time": 1780317619.453729
     },
     "geography": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780317666.1870787
     },
     "commerce": {
       "machine": "A-Server",
       "time": 1780317662.9026096
+=======
+      "time": 1780317617.4806342
+    },
+    "commerce": {
+      "machine": "A-Server",
+      "time": 1780317620.2277238
+>>>>>>> Stashed changes
     },
     "accounting": {
       "machine": "A-Server",
@@ -30,11 +42,19 @@
     },
     "civiledu": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780317663.005143
     },
     "agricultural-science": {
       "machine": "A-Server",
       "time": 1780317666.2241366
+=======
+      "time": 1780317620.2904227
+    },
+    "agricultural-science": {
+      "machine": "A-Server",
+      "time": 1780317622.3485234
+>>>>>>> Stashed changes
     },
     "crk": {
       "machine": "A-Server",
@@ -42,6 +62,7 @@
     },
     "further-mathematics": {
       "machine": "A-Server",
+<<<<<<< Updated upstream
       "time": 1780317666.2419312
     },
     "computer-studies": {
@@ -67,6 +88,33 @@
     "insurance": {
       "machine": "A-Server",
       "time": 1780317697.579803
+=======
+      "time": 1780317633.4400136
+    },
+    "computer-studies": {
+      "machine": "A-Server",
+      "time": 1780317613.6928833
+    },
+    "home-economics": {
+      "machine": "A-Server",
+      "time": 1780317614.9389305
+    },
+    "yoruba": {
+      "machine": "A-Server",
+      "time": 1780317622.3660176
+    },
+    "igbo": {
+      "machine": "A-Server",
+      "time": 1780317647.540307
+    },
+    "hausa": {
+      "machine": "A-Server",
+      "time": 1780317618.8830316
+    },
+    "insurance": {
+      "machine": "A-Server",
+      "time": 1780317619.728844
+>>>>>>> Stashed changes
     }
   }
 }

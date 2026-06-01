@@ -8384,6 +8384,22 @@
     "examyear": "2023"
   },
   {
+    "id": 535,
+    "question": "A relative density bottle has a mass of 19 g when empty. When it is completely filled with water, its mass is 66 g. What will be its mass if completely filled with alcohol of relative density 0.8?",
+    "option": {
+      "a": "47 g",
+      "b": "52.8 g",
+      "c": " 37.6 g",
+      "d": "56.6 g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass of empty bottle, m₀ = 19 g\nMass of bottle + water, m₁ = 66 g\nRelative density of alcohol, RD = 0.8\nMass of bottle + alcohol = ?\n\nSolution:\nStep 1: Calculate mass of water\nMass of water = m₁ - m₀\nMass of water = 66 - 19\nMass of water = 47 g\nStep 2: Understand relative density\nRelative density (RD) = Density of substance / Density of water\nFor the same volume:\nRD = Mass of alcohol / Mass of water\nStep 3: Calculate mass of alcohol\n0.8 = Mass of alcohol / 47\nMass of alcohol = 0.8 × 47\nMass of alcohol = 37.6 g\nStep 4: Calculate total mass with alcohol\nMass of bottle + alcohol = m₀ + Mass of alcohol\nMass of bottle + alcohol = 19 + 37.6\nMass of bottle + alcohol = 56.6 g",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 536,
     "question": "How much work is done against the gravitational force on a 3.0 kg object when it is carried from the ground floor to the roof of a building, a vertical climb of 240 m?",
     "option": {

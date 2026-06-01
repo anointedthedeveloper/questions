@@ -65,8 +65,8 @@ RATE_LIMIT = 58   # per key per minute
 DELAY = 0.05      # minimal delay — 100 keys gives 5800 req/min capacity
 
 # How many parallel requests to fire per round per subject
-# 100 keys / 24 subjects = ~4 keys per subject, use 8 to be safe
-REQUESTS_PER_ROUND = 8
+# 200 keys / 24 subjects = ~8 keys per subject, use 20 for max speed
+REQUESTS_PER_ROUND = 20
 
 # One worker per subject — all subjects run in parallel
 WORKERS = len(SUBJECTS)

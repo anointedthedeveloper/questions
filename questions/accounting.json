@@ -928,6 +928,22 @@
     "examyear": "2015"
   },
   {
+    "id": 330,
+    "question": "Goodwill is recognized in partnership accounts when",
+    "option": {
+      "a": "the business makes a huge profit",
+      "b": "the business has good customer relationship",
+      "c": "a partner is dormant",
+      "d": "a new partner is admitted"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 333,
     "question": "How much was paid for goodwill?",
     "option": {
@@ -1984,6 +2000,22 @@
     "examyear": "2016"
   },
   {
+    "id": 610,
+    "question": "The income and expenditure account differs from receipts and payments account because it",
+    "option": {
+      "a": "accounts for notional charges",
+      "b": "records transactions that relate to the period on cash basis",
+      "c": "records transactions that relate to the period on accrual basis",
+      "d": "accounts for balance of cash at bank"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 615,
     "question": "Which of these accounts is dissolution expenses credited?",
     "option": {
@@ -2908,6 +2940,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a government ministry makes a payment to a revenue collector, the official acknowledgment of that payment is issued in the form of a treasury receipt. This document serves as the evidence that funds have been collected and remitted to the government’s treasury.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 871,
+    "question": "A company has two departments X and Y. Y transferred goods to X at a profit margin of 25%. ₦10,000 worth of goods was not sold at the end of the accounting period.\nHow much is the unrealized profit?\n",
+    "option": {
+      "a": "₦2,000",
+      "b": "₦2,500",
+      "c": "₦12,000",
+      "d": "₦12,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Since goods were transferred at a 25% markup on cost, the transfer (invoice) price is 125% of cost. For unsold stock valued at ₦10,000 (transfer price), the cost component is ₦10,000 ÷ 1.25 = ₦8,000, so the unrealized profit embedded in closing stock is ₦10,000 − ₦8,000 = ₦2,000.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -4864,6 +4912,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1439,
+    "question": "The total of the creditors at the beginning of the year was ₦4,600 and at the end of the year ₦5,250. During the year, ₦26,500 was paid to suppliers and ₦130 was received in discounts from these suppliers. The purchases for the year would be",
+    "option": {
+      "a": "₦26,630",
+      "b": "₦27,038",
+      "c": "₦27,150",
+      "d": "₦27,280"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using the creditors control account equation:\n\nOpening creditors+Purchases=Payments+Discounts received+Closing creditors\nGiven:\nOpening creditors = ₦4,600\n\nClosing creditors = ₦5,250\n\nPayments to suppliers = ₦26,500\n\nDiscounts received = ₦130\n\nSolve for Purchases:\nPurchases = Payments +  Discounts received + Closing creditors − Opening creditors\nPurchases = ₦26,500 + ₦130 + ₦5,250 − ₦4,600\nPurchases\nPurchases = ₦27,280",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1449,
     "question": "Accumulated fund on 1st January 1993 is",
     "option": {
@@ -4892,6 +4956,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672047/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q37-38_sdjnqq.png",
     "answer": "a",
     "solution": "To find the correct closing balance for Musa's current account, properly arrange the account with debits on the left and credits on the right.\nMusa's Current Account (Corrected):\nDebit Side (Left):\n\nDrawings: ₦8,800\nBalance c/d (if credit balance): ?\n\nCredit Side (Right):\n\nBalance b/d: ₦1,800\nInterest on capital: ₦800\nShare of profit: ₦26,200\n\nCalculation:\nTotal credits = ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nLess: Drawings = ₦8,800\nNet credit balance = ₦28,800 - ₦8,800 = ₦20,000\nWait, let me recalculate more carefully:\nCredit side total: ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nDebit side: Drawings ₦8,800\nBalance c/d: ₦28,800 - ₦8,800 = ₦20,000 credit",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1452,
+    "question": "The correct closing balance of Lawal’s current account is",
+    "option": {
+      "a": " ₦8,000 credit.",
+      "b": "₦ 14,740 debit",
+      "c": "₦ 14,740credit",
+      "d": "₦ 540 credit"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672047/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q37-38_sdjnqq.png",
+    "answer": "a",
+    "solution": "Lawal's Current Account (Corrected):\nCredit Side (Right):\n\nBalance b/d: ₦540\nInterest on capital: ₦360\nShare of profit: ₦13,100\nTotal Credits: ₦14,000\n\nDebit Side (Left):\n\nDrawings: ₦6,000\n\nCalculation:\nClosing balance = Total Credits - Drawings\nClosing balance = ₦14,000 - ₦6,000 = ₦8,000 credit\nSince the credits exceed the debits, Lawal has a credit balance of ₦8,000.",
     "examtype": "utme",
     "examyear": "1997"
   },

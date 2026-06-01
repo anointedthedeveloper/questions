@@ -2480,6 +2480,22 @@
     "examyear": "2001"
   },
   {
+    "id": 166,
+    "question": "Triangle SPT is the solution of the linear inequalitie",
+    "option": {
+      "a": "2y - x - 2 ≤\n 0, y + 2x + 2 ≥\n 0, x ≥\n 0",
+      "b": "2y - x - 2 ≥\n 0, y + 2x + 2 ≤\n 0, -2 ≥\n x ≥\n -1",
+      "c": "-2 ≥\n x ≥\n 2, y ≤\n 0, y + 2x + 2 ≥\n 0, x ≥\n 0",
+      "d": "2y - x - 2 ≥\n 0, y + 2x + 2 ≥\n 0, y ≤\n 0, x ≥\n 0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696775/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_45_t5nxmr.jpg",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 167,
     "question": "In the figure PQR a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, < SRQ is 75° and < QPT IS 25°. Calculate the value of < RST",
     "option": {

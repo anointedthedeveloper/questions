@@ -288,6 +288,22 @@
     "examyear": "2010"
   },
   {
+    "id": 25,
+    "question": "The diary or events in which all financial transactions    are    recorded    for    easy reference and to assist in the double entry system is ",
+    "option": {
+      "a": "Ledger",
+      "b": "Journal   ",
+      "c": "Purchases and sales day books ",
+      "d": "Debit and credit documents"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 26,
     "question": "Which of the following is not a book of original entry? ",
     "option": {
@@ -1248,6 +1264,22 @@
     "examyear": "2013"
   },
   {
+    "id": 101,
+    "question": "The minimum number of persons required to form a partnership business is",
+    "option": {
+      "a": "2.",
+      "b": "3.",
+      "c": "5",
+      "d": "10."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 103,
     "question": "The accounting principle that states that, in the preparation of accounting statement, revenue are recognized as        soon as goods are passed on to the customer is the",
     "option": {
@@ -1415,6 +1447,22 @@
       "b": "debugging.",
       "c": "sorting.",
       "d": "retrieving."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 115,
+    "question": "In a not-for-profit making organization, the cash book is referred to as",
+    "option": {
+      "a": "income and expenditure account.",
+      "b": "receipts and payments account.",
+      "c": "two column cash book.",
+      "d": "petty cash book."
     },
     "section": "",
     "image": "",
@@ -1739,6 +1787,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 138,
+    "question": "Which of the following conditions would attract credit and debit notes to be used?",
+    "option": {
+      "a": "When goods are received from supplier.",
+      "b": "When a trial balance is extracted",
+      "c": "When a buyer is under or over charged.",
+      "d": "When goods are sold to a buyer."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -2624,6 +2688,22 @@
     "examyear": "1997"
   },
   {
+    "id": 207,
+    "question": "Which of the following is a factory overhead?",
+    "option": {
+      "a": "carriage on raw materials",
+      "b": "Purchase of raw materials",
+      "c": "Production wages",
+      "d": "Depreciation of factory equipment."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 209,
     "question": "The amount of goodwill was",
     "option": {
@@ -2715,6 +2795,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 215,
+    "question": "A system where a separate cash book is maintained for small payments is",
+    "option": {
+      "a": "single entry",
+      "b": "imprest",
+      "c": "float",
+      "d": "reimbursement."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -4240,6 +4336,22 @@
     "examyear": "2015"
   },
   {
+    "id": 327,
+    "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it will be used for more than one year is",
+    "option": {
+      "a": "materiality",
+      "b": "accrual",
+      "c": "going concern",
+      "d": "business entity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 330,
     "question": "Goodwill is recognized in partnership accounts when",
     "option": {
@@ -4311,6 +4423,22 @@
       "b": "a subscriber",
       "c": "an allottee",
       "d": "an underwriter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 337,
+    "question": "Which of the following expenses is allocated according to the floor \tarea?",
+    "option": {
+      "a": "Wages and Salaries",
+      "b": "Rent and rates",
+      "c": "Canteen expenses",
+      "d": "Discount allowed"
     },
     "section": "",
     "image": "",
@@ -4816,6 +4944,22 @@
     "examyear": "2014"
   },
   {
+    "id": 373,
+    "question": "The concept that states that a business should not lay claim to any profits before it is earned with reasonable certainty is",
+    "option": {
+      "a": "consistency concept",
+      "b": "prudence concept",
+      "c": "accrual concept",
+      "d": "going concern concept"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 374,
     "question": "When shares are issued above their nominal value, the \texcess above the nominal value is",
     "option": {
@@ -4907,6 +5051,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 383,
+    "question": "Calculate the stock figure to be included in the balance sheet at the year end.",
+    "option": {
+      "a": "D408,000",
+      "b": "D346,000",
+      "c": "D284,000",
+      "d": "D62,000"
+    },
+    "section": " Use the following information to answer question: Branch stock account (at selling price)  D346,000 - debit Branch mark-up account D62,000 - debit",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -5147,6 +5307,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 400,
+    "question": "Zakari started a business on January 2000. He bought a shop costing N 54,000 and stock worth N 7,600.  Profit for the year amounted to N 22,100. His closing capital was N 73,800. Zakari’s personal drawings amounted to",
+    "option": {
+      "a": "N 2,300",
+      "b": "N9,900",
+      "c": "N 17,100",
+      "d": "N 19,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -5451,6 +5627,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 424,
+    "question": "The balance of profit and loss account will be",
+    "option": {
+      "a": "N 4,000",
+      "b": "N 2,800",
+      "c": "N 1,500",
+      "d": "N 300"
+    },
+    "section": "Jumoke and Kunle have an original investment of N 25,000 and N15,000 respectively in a partnership.   The articles of partnership provide 3% interest on capital and salaries of N1,500 and N 1,000 respectively for the partners.   The profits and losses are to be shared in the ratio 3:2. Miscellaneous expenses of N 2,500 were incurred with gross profit of N 6,500 during the financial year.",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -6011,6 +6203,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 466,
+    "question": "Find the value of the total assets?",
+    "option": {
+      "a": "N 17 700",
+      "b": "N 10,500",
+      "c": "N 20,000",
+      "d": "N 15,400."
+    },
+    "section": "Use the information below to answer question: Net loss [N2,300]; Capital [N10,500]; Liabilities [N7, 200]",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -8176,6 +8384,22 @@
     "examyear": "2017"
   },
   {
+    "id": 637,
+    "question": "The movement of goods from head office to a branch is treated in the head office as",
+    "option": {
+      "a": "Sales",
+      "b": "issue",
+      "c": "purchases",
+      "d": "requisition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When the head office sends goods to a branch, it doesn’t record a sale or purchase; instead it debits the Branch Account (or Branch Stock Account) and credits the Head Office’s Stock Account as an issue of goods to the branch.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 638,
     "question": "The following are the importance of branch account except",
     "option": {
@@ -8780,6 +9004,22 @@
     "image": "",
     "answer": "a",
     "solution": "In the branch’s own books, when cash is sent to head office but not yet received there, it isn’t left in the cash balance, instead the branch debits a “Remittance in Transit” asset account and credits cash. Thus, on reconciliation, the branch treats remittances in transit as debit entries.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 683,
+    "question": "Profit or loss in a partnership is usually arrived at after deducting from gross profit all expenses including____________",
+    "option": {
+      "a": " Partners salaries",
+      "b": "Interest on capital",
+      "c": " Interest on loans",
+      "d": "Partners drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "is charged in the profit and loss account as finance expenses",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -9680,6 +9920,22 @@
     "examyear": "2019"
   },
   {
+    "id": 746,
+    "question": "The two recognised accounting bases are",
+    "option": {
+      "a": "cash and credit",
+      "b": " personal and impersonal",
+      "c": "Accrual and Cash",
+      "d": "Drawings and Private"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Accounting bases are the totality of method adopted by an enterprises for applying fundamental accounting concepts to its Financial transactions. However, the two bases are cash and Accrual basis",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 748,
     "question": "The importance of bank statement is all except",
     "option": {
@@ -10304,6 +10560,22 @@
     "examyear": "2020"
   },
   {
+    "id": 796,
+    "question": "The standing order is a payment instruction given by a",
+    "option": {
+      "a": "customer to a fellow customer",
+      "b": "bank to an employee",
+      "c": "customer to the bank",
+      "d": "bank to the customers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A standing order is a payment instruction given by a customer to their bank to make regular fixed payments to a specified recipient on predetermined dates. The customer authorizes the bank to automatically transfer a fixed amount from their account at regular intervals (monthly, quarterly, etc.) without requiring further authorization for each payment.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 797,
     "question": "The value of the sales ledger control account is derived from the summation of the",
     "option": {
@@ -10380,6 +10652,22 @@
     "image": "",
     "answer": "c",
     "solution": "The conservatism convention (also known as prudence) suggests that accountants should use methods of valuation that understate rather than overstate results",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 804,
+    "question": "A company has departments L, M and O. Department L Occupies a space twice that of M while O occupies half the space of M. If the company pays ₦70,000 on rent, what is the amount of rent that should be allocated to M?",
+    "option": {
+      "a": " ₦40,000",
+      "b": "₦20,000",
+      "c": " ₦30,000",
+      "d": "₦10,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Determine the space ratios\n\nLet M's space = 1 unit\nL's space = 2 units (twice that of M)\nO's space = 0.5 units (half that of M)\nTotal space = 2 + 1 + 0.5 = 3.5 units\n\nStep 2: Calculate M's proportion\n\nM's proportion = 1 ÷ 3.5 = 2/7\n\nStep 3: Allocate rent to M\n\nM's rent allocation = 2/7 × ₦70,000 = ₦20,000",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -10620,6 +10908,22 @@
     "image": "",
     "answer": "d",
     "solution": "Solution (linear):\nTotal shares issued = 750,000\nIssue price per share = ₦1.50 (₦1 ordinary + ₦0.50 premium)\nTotal share premium = 750,000 × ₦0.50 = ₦375,000\n\nSince the entire premium is called up (on allotment) and fully received, the Share Premium Account is credited with ₦375,000.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 821,
+    "question": "Use the information below to answer this question\n\nA company advertised and issued 750,000, 12% preference shares of N1 each to be issued ₦1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on prorata basis.\n\nThe second final call account was debited with",
+    "option": {
+      "a": "ordinary share capital account ₦187,500",
+      "b": "12% preference share capital account ₦187,500",
+      "c": " 12% preference share capital ₦375,000",
+      "d": "bank account ₦187,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The second (final) call was for ₦0.25 on each of the 750,000 allotted shares:\n\n750,000 × ₦0.25 = ₦187,500\nThis amount is debited to the 12% Preference Share Capital Account.\n​",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -11296,6 +11600,22 @@
     "examyear": "2022"
   },
   {
+    "id": 872,
+    "question": "The main features of the single system are that?",
+    "option": {
+      "a": "books of accounts are not maintained and business relies only on bank statement\n",
+      "b": "the journal records are absent and only the main ledger is kept 7",
+      "c": "there are incomplete classifications and recording procedures",
+      "d": "only credit sales transactions and credit purchase are recorded"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The main features of a single-entry system include the absence of comprehensive double-entry bookkeeping practices.\n\nIn a single-entry system, businesses typically maintain limited records, and they rely heavily on bank statements to track their financial transactions",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 873,
     "question": "Which of the following concepts recognizes the principle of double entry?",
     "option": {
@@ -11628,6 +11948,22 @@
     "image": "",
     "answer": "a",
     "solution": "Balance per bank statement = Balance per cash book + Unpresented cheques − Uncredited cheques\n= ₦5,467 + ₦19,404 − ₦4,410\n= ₦20,461",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 898,
+    "question": "When goods are received from head office, head office will be credited while",
+    "option": {
+      "a": "sales will be debited",
+      "b": "requisition will be debited",
+      "c": " issue will be debited",
+      "d": "purchases will be debited"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Goods received from head office\nAccounting entries:\nDr: Purchase account\nCr: Head office current account",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -12252,6 +12588,22 @@
     "image": "",
     "answer": "a",
     "solution": "A paying-in slip, also sometimes called a deposit slip, is a crucial document used when making deposits into a current account, especially for cash and cheques.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 944,
+    "question": "The return on debenture holding is",
+    "option": {
+      "a": "share bonus",
+      "b": "interest",
+      "c": "net profit",
+      "d": "dividend"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Debentures are essentially loans that a company issues to investors. In return for investing in the debenture, the investor receives periodic interest payments at a predetermined rate. This interest is a fixed obligation of the company, regardless of its profitability.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -13440,6 +13792,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1034,
+    "question": "Which of the following item is found on the credit side of the sales ledger control account?",
+    "option": {
+      "a": "Discount received",
+      "b": "Dishonoured cheques",
+      "c": "Credit sals",
+      "d": "Bills receivable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Explanation: the sales (debtors') control account normally shows credits for items that reduce debtors — e.g., receipts from customers, sales returns and transfers out. When a debtor's amount is converted into a bill receivable, the debtor is reduced (credited), so bills receivable appears on the credit side.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1035,
     "question": "If the assets and liabilities of a firm were valued at ₦17,200 and ₦5,120 respectively, the capital of the firm would be?",
     "option": {
@@ -14336,6 +14704,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1100,
+    "question": "Discounts granted branch customers are treated as a debit to branch?",
+    "option": {
+      "a": " stock account and a credit to branch debtors'account",
+      "b": "discount account and a credit to branch bank account",
+      "c": "stock account and a credit to branch bank account",
+      "d": " discount account and a credit to branch debtors' account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When a branch gives a discount to its customers:\nWhat happens:\n\nThe branch is giving up some money (discount expense)\nThe customer owes less money to the branch\n\nAccounting treatment:\n\nDebit Branch Discount Account = record the expense/cost of giving the discount\nCredit Branch Debtors' Account = reduce what the customer owes\n\nThis follows the basic principle: when you give a discount, it's an expense to you and reduces what the customer owes.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1101,
     "question": "Transfers from the head office to branches are best carried out at?",
     "option": {
@@ -14400,6 +14784,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1106,
+    "question": "The accounting entry to record the premium on goodwill is to debit?",
+    "option": {
+      "a": "cash and credit old partners' capital",
+      "b": "goddwill and credit revaluation",
+      "c": "assets and credit capital",
+      "d": " capital and credit assets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Explanation: when a new partner pays a goodwill premium, you debit Cash/Bank (what's received) and credit the old partners' capital accounts in their profit-sharing ratio (since the premium compensates the existing partners).",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1107,
     "question": "The expenses incurred in promoting a company are?",
     "option": {
@@ -14460,6 +14860,22 @@
     "image": "",
     "answer": "c",
     "solution": "Explanation: the budget (estimates of government spending) is presented to the legislature in the form of an Appropriation Bill, the legal instrument that authorizes the withdrawal and use of public funds.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1114,
+    "question": "The statement of assets and liabilities in the public sector can be described as the?",
+    "option": {
+      "a": "income and expenditure accountof government",
+      "b": "appropriation account of government",
+      "c": " balance sheet of government",
+      "d": "funds flow statement of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation: a statement of assets and liabilities is essentially a balance sheet, it shows what the government owns (assets) and what it owes (liabilities) at a point in time.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -15184,6 +15600,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1171,
+    "question": "(i) Fixtures account \n(ii) Machinery account\n(iii) Wages accounts \n(iv) Rent account.\n\nWhich of the above are nominal account?",
+    "option": {
+      "a": " iii and iv",
+      "b": " i and ii",
+      "c": " i and iii",
+      "d": "ii and iii"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Wages and rent are nominal (expense) accounts. Fixtures and machinery are real (asset) accounts.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1172,
     "question": "<b>₦AFARA A₦D SO₦S Balance Sheet items as at 31st December, 1987.</b>\n\nCapital ₦74480\n\nCreditors ₦15875\n\nPrepaid expenses ₦580\n\nMotor vehicles ₦34750\n\nFurniture ₦35850\n\nAccrued expenses ₦645\n\nStock ₦8100\n\nCash balances ₦9911\n\nDebtors ₦1809\n\n\nCompute the value of current assets?",
     "option": {
@@ -15340,6 +15772,22 @@
     "image": "",
     "answer": "a",
     "solution": "(i) Orientation - ✓ Distinguishes\n\nProfit-making: Profit-oriented (maximize returns for owners)\nNot-for-profit: Service-oriented (serve public/social causes)\n\n(ii) Entity - ✓ Distinguishes\n\nBoth are separate entities, but they differ in nature:\nProfit-making: Commercial entities\nNot-for-profit: Social/charitable entities\n\n(iii) Legal status - ✓ Distinguishes\n\nProfit-making: Registered as companies, partnerships, sole proprietorships\nNot-for-profit: Registered as charities, foundations, NGOs, with different legal frameworks and tax treatments\n\n(iv) Finance - ✓ Distinguishes\n\nProfit-making: Funded by investors expecting returns, revenue from sales\nNot-for-profit: Funded by donations, grants, government funding; surplus reinvested rather than distributed\n\nAll four characteristics distinguish between profit-making and not-for-profit organizations in meaningful ways.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1185,
+    "question": "<b>Use the information below to answer question 21 and 22.</b>\n\nAdex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch.\n\nStock at branch 1st January at cost............₦400\nGoods sent to branch at cost...................₦8000\nReturns to head ...............................₦340\nCash sales ....................................₦9160\nStock at branch 31st December at cost..........₦720\n\nWhat is the gross profit carried to the profit and loss account?",
+    "option": {
+      "a": "₦1820",
+      "b": "₦1640",
+      "c": "₦1530",
+      "d": "₦1870"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Gross profit = Sales − Cost of goods sold.\n\nCost of goods sold = Opening stock + Goods sent − Returns − Closing stock\n= ₦400 + ₦8,000 − ₦340 − ₦720 = ₦7,340\n\nGross profit = ₦9,160 − ₦7,340 = ₦1,820",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -17600,6 +18048,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1351,
+    "question": "If a promoter pays a lawyer ₦5,000 for services rendered in preparing a Memorandum of Incorporation, the journal entry is to debit?",
+    "option": {
+      "a": "preliminary expenses, credit cash accounts",
+      "b": " promoter, credit creditors' accounts",
+      "c": "lawyer's credit cash accounts",
+      "d": " cash , credit incorporation accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a promoter pays ₦5,000 to a lawyer for preparing a Memorandum of Incorporation, it's considered a pre-incorporation expense (also called preliminary expenses), since it's incurred before the company is officially formed.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1353,
     "question": "<b>Use the information below to answer questions 39 and 40</b>\n\n\t\t\t\t  \nThe quick ratio is",
     "option": {
@@ -17836,6 +18300,22 @@
     "image": "",
     "answer": "d",
     "solution": "The voucher system is an internal control mechanism used to authorize and verify expenditures before payments are made. It typically involves preparing a voucher that summarizes the details of a transaction (invoice, purchase order, receipts, etc.) and requires approval before issuing payment.\n\nThis process:\n\nEnsures accuracy\n\nPrevents unauthorized spending\n\nProvides an audit trail",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1369,
+    "question": "A business transaction is recorded in the books of account when the?",
+    "option": {
+      "a": "owner of the business invests his ₦10,000 in another company",
+      "b": "business retains part of ofits profits for future expansion purposes",
+      "c": "business invest applies for overdraft facilities from its bankers",
+      "d": "owner of the business collects ₦5,000 from the accountant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In accounting, a business transaction is recorded in the books only when it has a financial impact on the business and involves the exchange of value (e.g., cash, goods, or services). This is in line with the dual aspect concept and business entity concept.",
     "examtype": "utme",
     "examyear": "1998"
   },
@@ -18972,6 +19452,22 @@
     "image": "",
     "answer": "d",
     "solution": "Under the rule in Garner v. Murray, if a partner is insolvent during dissolution and has a debit balance on their capital account, the deficiency is borne by the solvent partners in proportion to their last agreed capital balances, not profit-sharing ratios.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1455,
+    "question": "A company has 5% debentures worth ₦500 000 ordinary share capital ₦ 2 000 000, and preference shares ₦1500 000. if the company made a profit of ₦ 1 000 000, the debenture interest would amount to",
+    "option": {
+      "a": "₦ 1 000 000",
+      "b": "₦ 500 000",
+      "c": "₦ 50 000",
+      "d": "₦ 25 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The debenture interest is calculated on the value of the debentures:\n\nDebenture interest = 5% × ₦500,000 = ₦25,000",
     "examtype": "utme",
     "examyear": "1997"
   },

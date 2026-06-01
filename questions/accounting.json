@@ -64,6 +64,22 @@
     "examyear": "2010"
   },
   {
+    "id": 11,
+    "question": "The journal is a book ",
+    "option": {
+      "a": "of primary entry into which all transactions are entered before posting ",
+      "b": "kept by journalist for reporting events ",
+      "c": "of prime entry into which postings are made from the ledger  ",
+      "d": "of analyzing major accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 13,
     "question": "In a balance sheet, bank overdraft is ",
     "option": {
@@ -704,6 +720,38 @@
     "examyear": "2013"
   },
   {
+    "id": 90,
+    "question": "The capital employed is",
+    "option": {
+      "a": "N=740,000.",
+      "b": "N=580,000.",
+      "c": "N=370,000.",
+      "d": "N=280,000."
+    },
+    "section": "Use the following information to answer question. Net profit [ 60,000], Total Assets [ 520,000], Current liabilities [ 150,000], Current assets[ 280,000] ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 91,
+    "question": "The returns on capital employed is",
+    "option": {
+      "a": "17.2%",
+      "b": "16.2%.",
+      "c": "15.2%.",
+      "d": "11.2%."
+    },
+    "section": "Use the following information to answer question. Net profit [ 60,000], Total Assets [ 520,000], Current liabilities [ 150,000], Current assets[ 280,000] ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 92,
     "question": "The double entry principle states that",
     "option": {
@@ -896,6 +944,22 @@
     "examyear": "2013"
   },
   {
+    "id": 108,
+    "question": "The Public Accounts Committee is an organ of",
+    "option": {
+      "a": "military regime.",
+      "b": "parliament.",
+      "c": "presidency.",
+      "d": "councilors."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 109,
     "question": "The balance at the end of the period is",
     "option": {
@@ -935,6 +999,22 @@
       "b": "debugging.",
       "c": "sorting.",
       "d": "retrieving."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 116,
+    "question": "When the going concern concept is no longer applicable, the fixed assets are recorded at their",
+    "option": {
+      "a": "net book value.",
+      "b": "realizable value.",
+      "c": "gross value.",
+      "d": "revalued amount."
     },
     "section": "",
     "image": "",
@@ -1054,6 +1134,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
+  },
+  {
+    "id": 128,
+    "question": "Balance as per cash book 2, 970  Bank Charges 220 ;Unpresented cheques 3, 950; Uncredited cheques 4,178 ; Direct debit by bank 1, 000 . Determine  the balance as per bank Statement",
+    "option": {
+      "a": "N1,978",
+      "b": "N1,962",
+      "c": "N1,522",
+      "d": "N2,522"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
   },
   {
     "id": 129,
@@ -1275,6 +1371,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 151,
+    "question": "The impersonal account is subdivided into",
+    "option": {
+      "a": "realand nominal accounts",
+      "b": "nominal and personal accounts",
+      "c": "real and current accounts",
+      "d": "personal and real accounts."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -1968,6 +2080,22 @@
     "examyear": "2006"
   },
   {
+    "id": 221,
+    "question": "The basis of accounting which eliminates debtors and creditors is",
+    "option": {
+      "a": "cash basis",
+      "b": "accrual basis",
+      "c": "fund basis",
+      "d": "commitment basis."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 222,
     "question": "Which of the following is not a revenue account?",
     "option": {
@@ -2064,6 +2192,22 @@
     "examyear": "2006"
   },
   {
+    "id": 229,
+    "question": "Which of the following is not a source of revenue to a government?",
+    "option": {
+      "a": "Taxation",
+      "b": "Sale of goods",
+      "c": "Imposition of fines",
+      "d": "Grants"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 231,
     "question": "Bank reconciliation statement reconciles",
     "option": {
@@ -2075,6 +2219,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 233,
+    "question": "Which of the following is not a debit item in a partnership \tappropriation account?",
+    "option": {
+      "a": "Interest on drawings",
+      "b": "Partner’s salary",
+      "c": "Interest on partner’s capital",
+      "d": "Share of profit."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -2187,6 +2347,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 245,
+    "question": "Using the straight line method, the depreciation charged for year 2002 was",
+    "option": {
+      "a": "N 160,000",
+      "b": "N  130.000",
+      "c": "N  100,000",
+      "d": "N  60,000"
+    },
+    "section": "Motor vehicles (at cost) 1/1/2002   [N1,000,000],  Addition to motor vehicles 1/7/2003  [N  600,000] \tDepreciation rate 10%",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -2720,6 +2896,22 @@
     "examyear": "2015"
   },
   {
+    "id": 305,
+    "question": "Which of the following is the equation for determining net profit or loss from the records of a firm?",
+    "option": {
+      "a": "Closing Capital - Drawings - Capital Introduced",
+      "b": "Opening Capital + Drawings - Closing Capital",
+      "c": "Closing Capital + Opening Capital - Drawings",
+      "d": "Closing Capital + Drawings - Opening Capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 306,
     "question": "Purchase invoice is first entered in the",
     "option": {
@@ -2935,6 +3127,22 @@
       "b": "the business has good customer relationship",
       "c": "a partner is dormant",
       "d": "a new partner is admitted"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 331,
+    "question": "In which of the following accounts is interest on partners capital found?",
+    "option": {
+      "a": "Profit and loss",
+      "b": "Trading",
+      "c": "Income surplus",
+      "d": "Profit and loss appropriation."
     },
     "section": "",
     "image": "",
@@ -3216,6 +3424,22 @@
     "examyear": "2014"
   },
   {
+    "id": 359,
+    "question": "The cost of carriage outward is classified as",
+    "option": {
+      "a": "a selling and distribution expense",
+      "b": "an administrative expense",
+      "c": "a trading expense",
+      "d": "a finance expense"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 360,
     "question": "The purchase of ten ceiling fans by Akpan Electronic Enterprises will be recorded as",
     "option": {
@@ -3323,6 +3547,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 368,
+    "question": "When an asset is sold, the entries for the accumulated depreciation are: debit",
+    "option": {
+      "a": "Asset Disposal Account; credit Provision for Depreciation Account.",
+      "b": "Provision for Depreciation Account; Credit Asset Disposal Account",
+      "c": "Fixed Asset Account; Credit Asset Disposal Account",
+      "d": "Asset Disposal Account; Credit Fixed Asset Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -3451,6 +3691,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 390,
+    "question": "A collection of fields relating to one logically definable unit of business information is known as",
+    "option": {
+      "a": "data",
+      "b": "character",
+      "c": "byte",
+      "d": "record"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
@@ -3760,6 +4016,22 @@
     "examyear": "2004"
   },
   {
+    "id": 425,
+    "question": "What is Kunle’s share of the profit?",
+    "option": {
+      "a": "N 600",
+      "b": "N 300",
+      "c": "N180",
+      "d": "N 120"
+    },
+    "section": "Jumoke and Kunle have an original investment of N 25,000 and N15,000 respectively in a partnership.   The articles of partnership provide 3% interest on capital and salaries of N1,500 and N 1,000 respectively for the partners.   The profits and losses are to be shared in the ratio 3:2. Miscellaneous expenses of N 2,500 were incurred with gross profit of N 6,500 during the financial year.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 426,
     "question": "When a new partner is admitted to a partnership, there is a need to revalue the",
     "option": {
@@ -3824,6 +4096,22 @@
     "examyear": "2004"
   },
   {
+    "id": 430,
+    "question": "Share premium is an example of",
+    "option": {
+      "a": "revenue reserves",
+      "b": "capital reserves",
+      "c": "general reserves",
+      "d": "loan capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 431,
     "question": "According to the provisions of the 1999 Constitution, all revenues generated by the Federal Government must be paid into the?",
     "option": {
@@ -3835,6 +4123,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 432,
+    "question": "The budget statement presented to the legislature by the Chief Executive is called",
+    "option": {
+      "a": "an appropriation act",
+      "b": "a budget bill",
+      "c": "an appropriation bill",
+      "d": "a budget proposal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -4025,6 +4329,22 @@
       "d": "N 1 134."
     },
     "section": "Lighting [N2, 925]; Rent [ N2, 640]; Salary [N4, 050] The expenses are for three different products: Zema, Zeta and Zera. They are apportioned on the basis of production. 4500 units of the products are produced, out of which 1260 and 2060 units are for Zema and Zeta respectively.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 456,
+    "question": "The federal government approved  N 140 m to local governments W, X, Y and Z. The amount is to be shared on the basis of 40% equality. 35% population and 25% internal revenue generation. Calculate the share of local government W on equality.",
+    "option": {
+      "a": "N 35 m",
+      "b": "N 14 m .",
+      "c": "N 56 m",
+      "d": "N 28 m."
+    },
+    "section": "",
     "image": "",
     "answer": "c",
     "solution": "",
@@ -4256,6 +4576,22 @@
     "examyear": "2007"
   },
   {
+    "id": 476,
+    "question": "Which of the following branches of accounting was first developed?",
+    "option": {
+      "a": "Cost accounting",
+      "b": "Financial accounting",
+      "c": "Management accounting",
+      "d": "Petroleum accounting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 484,
     "question": "Cash discount is often recorded on",
     "option": {
@@ -4379,6 +4715,22 @@
     "section": "Use the information to answer question: Jan. 1 Received 1,000 units at   N 10 each; Jan. 2 Received 2,000 units at   N  12 each; Jan. 3 Issued 1,500 units; Jan. 4 Received 1,000 units at   N  11 eac; Jan. 5 Issued 1000 units",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 493,
+    "question": "Which of the following methods gives a conservative closing stock value during a period of rising prices?",
+    "option": {
+      "a": "LIFO",
+      "b": "FIFO",
+      "c": "Simple average",
+      "d": "Periodic simple average"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -4784,6 +5136,22 @@
     "examyear": "2015"
   },
   {
+    "id": 535,
+    "question": "What does liquidity ratio measure?",
+    "option": {
+      "a": "measures operating efficiency of a company",
+      "b": " measures the ability of a company to meet its current obligations.",
+      "c": " measures the value of investments of a company",
+      "d": "measures the financial leverage of a company"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "liquidity ratio attempt to measure the ability to meet up with current obligations e.g. current ratio which measures the current asset to current liabilities.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 540,
     "question": "Sales ledger control account contains the total amount in respect of",
     "option": {
@@ -4908,6 +5276,22 @@
     "image": "",
     "answer": "b",
     "solution": "this is because the income and expenditure account just like the profit and loss account shows the income to ascertain surplus or deficit.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 556,
+    "question": "Which of the following cannot be realized?",
+    "option": {
+      "a": "creditors",
+      "b": "debtors",
+      "c": "motor vehicles",
+      "d": "goodwill"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Good will being an intangible asset cannot be seen or touched and are just believed to exist goodwill can only be valued to be a certain amount, the realizable value becomes a difficult task.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -5052,6 +5436,22 @@
     "image": "",
     "answer": "a",
     "solution": "Accrued expense is expense which has been incurred but not yet paid. Expense must be recorded in the accounting period in which it is incurred. Therefore, accrued expense must be recognized in the accounting period in which it occurs rather than in the following period in which it will be paid.\n\nIt can be found on the liabilities part of a balance sheet of a limited liability company",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 573,
+    "question": "The documents that provide instant information to firms on their tranactions with banks are",
+    "option": {
+      "a": "bank statement and debit note",
+      "b": "cheque book and cashbook",
+      "c": "cheque stub and deposit slip",
+      "d": "payslip and credit invoice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Bank statement is a printed record of the balance in a bank account and the amounts that have been paid into it and withdrawn from it, issued periodically to the holder of the account.\n\nA debit note is a document sent by a buyer to seller or in other words a purchaser to a vendor notifying that a debit has been made to their accounts. A debit memo on a company's bank statement refers to a deduction by the bankfrom the company's bank account. In other words, a bank debit memo reduces thebank account balance similar to a check drawn on the bank account.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -5536,6 +5936,22 @@
     "examyear": "2017"
   },
   {
+    "id": 628,
+    "question": "Changes can occur in partnership when:\ni. partnership is dissolved\nii. There is amalgamation of partnership\niii.There is a change in the profit or loss sharing ratio\nIv. Intangible asset increase",
+    "option": {
+      "a": " I, II and IV",
+      "b": " I & III",
+      "c": "I, II and III",
+      "d": "I, III and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "I II and III: Changes will occur in partnership is dissolved amalgamation and changes in profit or loss sharing ratio",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 629,
     "question": "The authority warrant issued prior to the approval of the appropriate bill at the beginning of the year",
     "option": {
@@ -5564,6 +5980,22 @@
     "image": "",
     "answer": "c",
     "solution": "Ordinary shares: This type of source of income is only used in profit oriented organization to generate fund the pubic so as to enable the organization make more profit at the end of a specified period",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 632,
+    "question": "Salaries in arrears is treated in the balance sheet as a",
+    "option": {
+      "a": " current asset",
+      "b": "current liability",
+      "c": "fixed asset",
+      "d": "long term liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Current Liability: salaries in arrears fall into the category of them under the current liability because it is benefit due to outsiders but still enjoying by the organisation and can't exceed a year",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -5712,6 +6144,22 @@
     "examyear": "2017"
   },
   {
+    "id": 646,
+    "question": "A business has the following bank reconciliation information: Balance as per cashbook ₦5,467, Uncredited cheques ₦4,410, Unpresented cheques ₦19,404, and Cheques wrongly debited by bank ₦1,404. What is the balance as per bank statement?",
+    "option": {
+      "a": " ₦21,901",
+      "b": "₦19,057",
+      "c": " ₦21,109",
+      "d": " ₦21,091"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Starting from the cashbook balance of ₦5,467, we adjust for items not yet reflected in the bank statement:\n\nAdd unpresented cheques (outstanding at bank): ₦19,404\n\nSubtract uncredited cheques (lodgements in transit): ₦4,410\n\nSubtract cheques wrongly debited by the bank (the bank has already taken this amount): ₦1,404\n\nSo the bank statement balance is:\n5,467 + 19,404 − 4,410 − 1,404 = ₦19,057",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 647,
     "question": "The following appears in trading account except",
     "option": {
@@ -5840,6 +6288,22 @@
     "examyear": "2017"
   },
   {
+    "id": 659,
+    "question": "Subscription in advance is treated in the balance sheet as a",
+    "option": {
+      "a": " current asset",
+      "b": "current liability",
+      "c": "fixed asset",
+      "d": "long term liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "current assets are assets of the company that can be easily converted to cash when needed\n\ncurrent liability: this is the liability owned to outsiders but still enjoying its benefit within a year e.g creditors, wages in arrears",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 660,
     "question": "Which of these is a content of a master file?",
     "option": {
@@ -5884,6 +6348,22 @@
     "image": "",
     "answer": "d",
     "solution": "Dividend is known as the kind of benefit enjoyed by the shareholder for investing their fund in a particular organisation",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 664,
+    "question": "Which type of cashbook entry involves recording the same amount on both the debit and credit sides to offset each other?",
+    "option": {
+      "a": "Contra entry",
+      "b": "Compound entry",
+      "c": "Transfer entry",
+      "d": "Journal entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A contra entry in the cashbook is used when the business moves money between its own cash and bank accounts—such as depositing cash into the bank or withdrawing cash from the bank",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -6192,6 +6672,22 @@
     "examyear": "2018"
   },
   {
+    "id": 689,
+    "question": "What act generally includes completing unfinished partnership business, collecting and paying debts, collecting partnership assets to be turned into cash and taking inventory?",
+    "option": {
+      "a": "Formation",
+      "b": "dissolution",
+      "c": " winding up",
+      "d": " termination"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "It is the first step in termination process",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 692,
     "question": "A partnership deed is used to____________",
     "option": {
@@ -6256,6 +6752,22 @@
     "examyear": "2018"
   },
   {
+    "id": 697,
+    "question": "Which of the following should not be adjusted for in the profit and loss account?",
+    "option": {
+      "a": "Accruals",
+      "b": "inventory",
+      "c": "subscription",
+      "d": "depreciation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "is adjusted for in the income and expenditure account",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 698,
     "question": "During the period, Department P opened with stock of ₦2 000, made purchases of ₦2 500 and recorded sales of ₦6 000. Its closing stock was ₦1 500. Department P also received goods costing ₦300 transferred in from Department Q and incurred operating expenses of ₦200. What was Department P’s net profit for the period?",
     "option": {
@@ -6268,6 +6780,22 @@
     "image": "",
     "answer": "a",
     "solution": "Net profit for Department P = Sales ₦6 000 – Cost of Goods Sold [(₂₀₀₀ + ₦2 500 + ₦300 – ₦1 500) = ₦3 300] – Expenses ₦200 = ₦2 500.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 699,
+    "question": "In the absence of a partnership deed, the act stipulates that____________",
+    "option": {
+      "a": "An amount should be fixed as salaries for partners",
+      "b": "Profits and losses should not be shared equally",
+      "c": "Interest on partner’s loan should be 25%",
+      "d": "Interest should not be allowed on partners drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Under the Partnership Act, the following rules will be applied in the absence of an agreement among partners:\n\n  i. Profit or losses of the firm will be shared equally by the partners\n\n  ii. Interest on capital will not be allowed to any partner.\n\n  iii. No interest will be charged on drawings\n\n  iv. Interest on loan will be 6% on the loan\n\n  v. No salary or remuneration will be allowed to any of the partners\n\n  vi. Every partner must take part in the management of the partnership business\n\n  vii. The partnership books are kept at the place of business of the partnership and every partner may have access to and inspect and copy any of them.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -7088,6 +7616,22 @@
     "examyear": "2020"
   },
   {
+    "id": 782,
+    "question": "Using the information provided: total current assets ₦2,000, total fixed assets ₦4,000, current liabilities ₦1,200, drawings ₦200, and long term loan ₦2,000, What is the net working capital?",
+    "option": {
+      "a": " ₦1,800",
+      "b": "₦800",
+      "c": " ₦2,600",
+      "d": " ₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Current Assets−Current Liabilities=₦2,000−₦1,200=₦800",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 787,
     "question": "Use the information below to answer this question\n\nA machine bought for ₦35,000 was estimated to have a life span of 5 years with a scrap value of ₦9000.\n\nIf the scrap value is presently ₦15,000 what will be the yearly depreciation using straight-line method?",
     "option": {
@@ -7248,6 +7792,22 @@
     "examyear": "2021"
   },
   {
+    "id": 808,
+    "question": "Capital and revenue expenditures of government are usually accounted for under funds which include",
+    "option": {
+      "a": " technical, special trust and commercial funds",
+      "b": " personal advances, technical and public funds",
+      "c": " personal advances, treasury clearance and special trust funds",
+      "d": "commercial loans and treasury clearance funds"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In government accounting, capital and revenue expenditures are typically accounted for under various funds including:\n\nTechnical funds - for specific technical projects and operations\nSpecial trust funds - for funds held in trust for specific purposes\nCommercial funds - for government commercial activities and enterprises\n\nThese funds help segregate and track different types of government expenditures based on their nature and purpose, ensuring proper accountability and financial management in the public sector.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 810,
     "question": "The excess of income over expenditure is usually transferred to the",
     "option": {
@@ -7260,6 +7820,22 @@
     "image": "",
     "answer": "c",
     "solution": "In not‑for‑profit accounting, any surplus (the excess of income over expenditure) is not shown in a profit and loss account but is transferred to the Accumulated Fund (also called the General Fund or Capital Fund). This fund represents the retained surpluses of the organization.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 811,
+    "question": "In a departmental accounting system, which of the following expenses will most likely be apportioned on the basis of turnover",
+    "option": {
+      "a": "carriage inwards",
+      "b": "carriage outwards",
+      "c": " discount received",
+      "d": "returns outwards"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Carriage outwards (distribution or delivery expense) varies directly with sales activity and is therefore apportioned to departments based on their relative turnover. Carriage inwards relates to purchases, while discount received and returns outwards aren’t selling‐related expenses.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -7664,6 +8240,22 @@
     "examyear": "2022"
   },
   {
+    "id": 849,
+    "question": "Statement of assets and liabilities as at 31st December, 2001.\n\nShareholders' interest ₦240\n\nCurrent liabilities ₦20\n\nCurrent assets ₦110\n\nFixed assets ₦140\nWhat is the networking capital?",
+    "option": {
+      "a": "₦90",
+      "b": "₦70",
+      "c": "₦100",
+      "d": "₦80"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Working capital (also called net working capital) is calculated as Current Assets minus Current Liabilities.\nWorking Capital = Current Assets - Current Liabilities\nWorking Capital = ₦110 - ₦20 = ₦90\nThe working capital is ₦90.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 851,
     "question": "In a bank reconciliation statement, Dishonoured cheques is added to",
     "option": {
@@ -7756,6 +8348,22 @@
     "image": "",
     "answer": "b",
     "solution": "Gross profit = 20% of sales = 0.20 × ₦10,600 = ₦2,120\nCost of Goods Sold = Sales − Gross Profit = ₦10,600 − ₦2,120 = ₦8,480.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 859,
+    "question": "Departmentalization of accounts is useful because it shows the?",
+    "option": {
+      "a": "overall performance of a firm",
+      "b": "price per unit of a product",
+      "c": "cost per unit of a product",
+      "d": "overall performance of a division"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "By departmentalizing accounts, a business can track revenues, expenses, and profits separately for each division or department. This allows management to assess the performance of each division individually, rather than just seeing the firm’s overall results.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -8384,6 +8992,22 @@
     "examyear": "2023"
   },
   {
+    "id": 916,
+    "question": "In manufacturing, depreciation of office machine is charged to",
+    "option": {
+      "a": "trading account",
+      "b": "balance sheet",
+      "c": " appropriation account",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Depreciation of office machine equipment is an administration expenses. Administration expenses comprises of cost of accounting and secretarial work.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 918,
     "question": "From the Sales Ledger Control Account shown, which displays various transactions including: Balance brought forward of ₦3,250, Sales of ₦19,075, Dishonoured cheque of ₦625, Stopped cheque of ₦250, and Balance carried down of ₦230 on the debit side; and Balance brought forward of ₦215, Bank of ₦16,387.50, Discount of ₦862.50, Returns inwards of ₦325, Set off of ₦900, and Balance carried down of ₦4,740 on the credit side, with both sides totaling ₦23,430. The amount ₦19,075 represents?",
     "option": {
@@ -8704,6 +9328,38 @@
     "examyear": "2024"
   },
   {
+    "id": 946,
+    "question": "When shares are over-subscribed, directors may decide to scale down the number of shareholding by alloting shares at ___",
+    "option": {
+      "a": "discount",
+      "b": "par",
+      "c": "premium",
+      "d": "prorata"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "This method distributes shares proportionally to the number of shares applied for by each investor. For example\nif an investor applied for 100 shares and the overall subscription is 200% (twice the offered amount), they migh receive a prorated allocation of 50 shares (100 shares requested / 2 (oversubscription factor) = 50 shares allocated).",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 948,
+    "question": "The net worth of a business is the",
+    "option": {
+      "a": " bank loan",
+      "b": "capital",
+      "c": "asset",
+      "d": "debenture"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The net worth of a business represents the value that belongs to the owner(s) after all debts and liabilities have been settled. This is calculated as:\nNet Worth = Total Assets - Total Liabilities\nThis net worth represents the capital or owner's equity in the business.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 949,
     "question": "Prime cost consist of direct material and ___ cost",
     "option": {
@@ -8844,6 +9500,22 @@
     "image": "",
     "answer": "c",
     "solution": "An accountant reviews and analyses financial records, keeping track of a company's or individual's income, expenditures, and tax liabilities. An accountant may also be involved in project planning, cost analysis, auditing, and financial decision-making.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 963,
+    "question": "Peripherals are used in computer to describe",
+    "option": {
+      "a": "inputs, output and storage devices",
+      "b": "computer types",
+      "c": "method of inputting data",
+      "d": "computer functions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Peripherals in computing refer to the devices or components that are connected to a computer system to provide input, output, and storage capabilities. These devices expand the functionality of the computer and enable users to interact with it.\nExamples of peripherals include keyboards, mice, monitors, printers, scanners, speakers, external hard drives, USB drives, and network adapters. These devices allow users to input data into the computer, receive output from the computer, and store data for later use.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -9200,6 +9872,22 @@
     "examyear": "2008"
   },
   {
+    "id": 992,
+    "question": "Receipt and payment account discloses?",
+    "option": {
+      "a": "debtors",
+      "b": "creditors",
+      "c": "prepayment",
+      "d": "depreciation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation:\nA Receipts and Payments Account can disclose prepayments because when you make advance payments (like rent or insurance paid in advance), these cash outflows appear in the payments side of the account. By comparing these payments with the actual expenses for the period, prepayments can be identified.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 997,
     "question": "Given:\nCapital:\nG...........₦5,000\nT...........₦8,000\nDrawings:\nG...........₦2,000\nT...........₦1,000\nInterest on capital..10%\nInterest on Drawings..5%\nFind the interest on drawings of G?",
     "option": {
@@ -9264,6 +9952,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1006,
+    "question": "The Auditor General of the Federation can be removed by the?",
+    "option": {
+      "a": " National Assembly",
+      "b": "Chief Justice",
+      "c": "The president",
+      "d": "Head of Service"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation: under the 1999 Constitution the Auditor-General for the Federation is removed by the President, but only after an address from the Senate supported by a two-thirds majority requesting removal (for inability or misconduct).",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1007,
     "question": "Given that the balance as per cash book after adjustment was ₦6315, nu-presented cheques ₦1000 and the bank statement balance ₦3240. What was the balance of the nu-credited cheques?",
     "option": {
@@ -9308,6 +10012,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given:\n  Opening stock = ₦19,500\n  Purchases     = ₦68,700\n  Goods available = 19,500 + 68,700 = ₦88,200\n\n  Sales = ₦96,000\n  Gross profit margin = 20% of sales\n  Gross profit = 0.20 × 96,000 = ₦19,200\n\n  Cost of goods sold = Sales − Gross profit\n                     = 96,000 − 19,200\n                     = ₦76,800\n\n  Closing stock = Goods available − Cost of goods sold\n                = 88,200 − 76,800\n                = ₦11,400",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1011,
+    "question": "<b>Use the information below to answer question 47 to 48.</b>\n\nThe debit ratio is approximately",
+    "option": {
+      "a": "43%",
+      "b": "42%",
+      "c": "41%",
+      "d": "23%"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756660709/ALOC-Questions/Accounting/UTME/2008/Accounting_JAMB_2008_Q47-48_IMAGES_ns5goz.jpg",
+    "answer": "b",
+    "solution": "Liabilities (debts) = 5% debenture + Creditors\n                     = ₦100,000 + ₦80,000\n                     = ₦180,000\n\nTotal assets = ₦430,000\n\nDebt ratio = Liabilities / Total assets\n           = 180,000 / 430,000\n           = 0.4186 ≈ 41.86% ≈ 42%",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -9968,6 +10688,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1074,
+    "question": "The three-column cash book differs from the two-column cash book in",
+    "option": {
+      "a": "Cash column,",
+      "b": "Discount column",
+      "c": "Bank column,",
+      "d": "Folio column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The three-column cash book differs from the two-column cash book by having an additional discount column.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1076,
     "question": "The balance on the provision for depreciation account is?",
     "option": {
@@ -10576,6 +11312,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1141,
+    "question": "Given:\n\nCost of raw materials issued to production.....₦37000\nOpening stock of raw material..................₦2000\nPurchases of raw material......................₦3800\nWages .........................................₦500\n\nWhat is the closing stock of raw material?",
+    "option": {
+      "a": "₦4000",
+      "b": "₦3000",
+      "c": "₦2000",
+      "d": "₦1000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Formula:\nCost of Materials Issued = Opening Stock + Purchases - Closing Stock\nRearranging to find Closing Stock:\nClosing Stock = Opening Stock + Purchases - Cost of Materials Issued\nCalculation:\nClosing Stock = ₦2,000 + ₦38,000 - ₦37,000\nClosing Stock = ₦40,000 - ₦37,000\nClosing Stock = ₦3,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1142,
     "question": "<b>Use the information below to answer questions 28 and 29</b>\n\n...........PQ Manufacturing Company\n\nRaw materials (1/11/2001)...........₦3 500\nRaw materials (31/12/2001)..........₦4 900\nPurchase of raw materials...........₦56 000\nSalary .............................₦63 000\nWages...............................₦148 000\nFactory lighting ...................₦3 080\nPlant Depreciation..................₦2 800\nFactory Insurance ..................₦2 170\n\nThe overhead cost is?",
     "option": {
@@ -11104,6 +11856,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1190,
+    "question": "<b>Use the information below to answer questions 26 and 27</b>\n\nTotal Sales: ₦10,000 (Dept P: ₦6,000, Dept Q: ₦4,000)\nTotal Purchases: ₦4,000 (Dept P: ₦1,000, Dept Q: ₦3,000)\nTotal Discount received: ₦1,000\nTotal Discounts allowed: ₦2,000\n\n<b>Discount(allowed and received) are apportioned to the two departments on the basis of departmental sales and purchases.</b>\n\nDepartment P’s share of discount received is?",
+    "option": {
+      "a": "₦750",
+      "b": "₦1,000",
+      "c": "₦250",
+      "d": "₦500."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Discount received is apportioned based on purchases (since it's received from suppliers).\nStep 1: Calculate Department P's proportion of total purchases\nDept P purchases = ₦1,000\nTotal purchases = ₦4,000\nProportion = ₦1,000 ÷ ₦4,000 = 1/4 = 25%\nStep 2: Calculate Department P's share of discount received\nTotal discount received = ₦1,000\nDept P's share = 25% × ₦1,000 = ₦250",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1191,
     "question": "<b>Use the information below to answer questions 26 and 27</b>\n\nTotal Sales: ₦10,000 (Dept P: ₦6,000, Dept Q: ₦4,000)\nTotal Purchases: ₦4,000 (Dept P: ₦1,000, Dept Q: ₦3,000)\nTotal Discount received: ₦1,000\nTotal Discounts allowed: ₦2,000\n\n<b>Discount(allowed and received) are apportioned to the two departments on the basis of departmental sales and purchases.</b>\n\nWhat is department Q’s share of discount allowed?",
     "option": {
@@ -11360,6 +12128,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1220,
+    "question": "<b>Use the information below to answer questions 5 and 6.\nGiven:</b>\n\nFixed assets ₦85,600\nSales ₦197,000\nStock ₦34,300\nSalaries ₦37,000\nPurchases ₦127,700\nShare capital ₦120,000\nCreditors ₦16, 050\nMotor expenses ₦10,500\nDebtors ₦25,000\n\nDetermine the total of the trial balance?",
+    "option": {
+      "a": " ₦335,050",
+      "b": "₦333,050",
+      "c": "₦323,050",
+      "d": "₦230,550"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "DEBIT BALANCES:\n\nFixed assets: ₦85,600\nStock: ₦34,300\nSalaries: ₦37,000\nPurchases: ₦127,700\nMotor expenses: ₦10,500\nDebtors: ₦25,000\nCash: ₦12,950\nTotal Debits: ₦333,050\n\nCREDIT BALANCES:\n\nSales: ₦197,000\nShare capital: ₦120,000\nCreditors: ₦16,050\nTotal Credits: ₦333,050\n\nSince the trial balance must balance, both debit and credit sides should have the same total.\nThe total of the trial balance is ₦333,050.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1221,
     "question": "The accuracy of journalist is checked by?",
     "option": {
@@ -11436,6 +12220,22 @@
     "image": "",
     "answer": "c",
     "solution": "When you discount a bill with a bank:\n\nYou receive cash immediately instead of waiting for the maturity date\nThe bank pays you less than the face value of the bill\nThe difference between the face value and the amount paid is called the \"discount\"\nThis discount compensates the bank for the risk and the time value of money\nThe bank then collects the full amount from the debtor on the maturity date",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1226,
+    "question": "Given that the balance as per cash book after necessary adjustment was ₦4,315, unpresented cheques were ₦1,688 and the bank statement balance was ₦4,791, what was the balance of uncredited cheques?",
+    "option": {
+      "a": "₦1,223",
+      "b": "₦1,212",
+      "c": "₦1,202",
+      "d": "₦1,115"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find uncredited cheques, Use the bank reconciliation formula:\nBank Statement Balance + Uncredited Cheques - Unpresented Cheques = Adjusted Cash Book Balance\nRearranging to find Uncredited Cheques:\nUncredited Cheques = Adjusted Cash Book Balance + Unpresented Cheques - Bank Statement Balance\nSubstituting the values:\nUncredited Cheques = ₦4,315 + ₦1,688 - ₦4,791\nUncredited Cheques = ₦6,003 - ₦4,791 = ₦1,212",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -11520,6 +12320,38 @@
     "examyear": "2001"
   },
   {
+    "id": 1233,
+    "question": "Use the information below to answer questions 19 and 20\n\nPurchases ledger opening balance ₦4,000\nSales ledger opening balance ₦6,000\nCredit purchases during the year ₦25,000\nDiscounts allowed ₦1,000\nReturns inwards ₦2,000\nCredit sales during the year ₦10,000\nReturns outwards ₦6,000\n\nCalculate the sales ledger balance?",
+    "option": {
+      "a": "₦3,000",
+      "b": "₦6,000",
+      "c": "₦10,000",
+      "d": "₦13,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To calculate the Sales Ledger balance, we track all amounts owed by customers (debtors). The Sales Ledger includes:\n\nOpening balance (debtors): ₦6,000\n\nAdd: Credit sales during the year: ₦10,000\n\nLess: Returns inwards (sales returns): ₦2,000\n\nLess: Discounts allowed: ₦1,000\n\n₦ow calculate:\n\nSales Ledger Closing Balance = 6,000 + 10,000 − 2,000 − 1,000 = ₦13,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1234,
+    "question": "Use the information below to answer questions 19 and 20\n\nPurchases ledger opening balance ₦4,000\nSales ledger opening balance ₦6,000\nCredit purchases during the year ₦25,000\nDiscounts allowed ₦1,000\nReturns inwards ₦2,000\nCredit sales during the year ₦10,000\nReturns outwards ₦6,000\n\nWhat is the purchases ledger balance?",
+    "option": {
+      "a": "₦4,000",
+      "b": " ₦23,000",
+      "c": " ₦24,000",
+      "d": "₦29,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Purchases Ledger (Creditors) Balance:\nClosing balance = Opening balance + Credit purchases − Returns outwards\n\n= 4,000 + 25,000 − 6,000 = ₦23,000 ",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1235,
     "question": "For an incomplete record to provide necessary information, it must be converted to?",
     "option": {
@@ -11580,6 +12412,22 @@
     "image": "",
     "answer": "c",
     "solution": "To calculate bar profit, Prepare a Trading and Profit & Loss Account:\nStep 1: Calculate Cost of Goods Sold\nCost of Goods Sold = Opening Stock + Purchases - Closing Stock\nCost of Goods Sold = ₦10,000 + ₦40,000 - ₦15,000 = ₦35,000\nStep 2: Calculate Gross Profit\nGross Profit = Sales - Cost of Goods Sold\nGross Profit = ₦50,000 - ₦35,000 = ₦15,000\nStep 3: Calculate Net Profit (Bar Profit)\nNet Profit = Gross Profit - Expenses\nNet Profit = ₦15,000 - ₦1,000 = ₦14,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1241,
+    "question": "Lubricating oil and spare parts of machinery are examples of?",
+    "option": {
+      "a": "direct materials",
+      "b": "indirect materials",
+      "c": " indirect expenses",
+      "d": "direct expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "These items are classified as indirect materials because:\n\nLubricating oil: Used to maintain machinery but cannot be directly traced to specific units of production. It's consumed by the machinery that produces various products.\nSpare parts: Used for maintenance and repair of machinery. While essential for production, they cannot be directly allocated to specific products being manufactured.\n\nKey distinction:\n\nDirect materials become part of the finished product and can be easily traced to specific units (e.g., raw materials like steel in car manufacturing)\nIndirect materials support the production process but cannot be economically traced to individual products",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -11968,6 +12816,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1277,
+    "question": "An expenses account is closed by a debit to?",
+    "option": {
+      "a": " an asset account and a credit to the expenses account",
+      "b": " the expenses account and a credit to an asset account",
+      "c": "profit and loss account and a creit to the expenses account",
+      "d": "the expenses account and a credit to profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When closing an expense account (which normally has a debit balance), you:\n\nCredit the expense account to bring its balance to zero\n\nDebit the Profit and Loss (income summary) account to transfer that expense",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1278,
     "question": "The accounting convention which stipulates that money or goods taken from the business by the owner for personal use should be treated as deductions from capital is",
     "option": {
@@ -12124,6 +12988,22 @@
     "image": "",
     "answer": "c",
     "solution": "The shares have a nominal value of ₦1.50, so on 10,000 shares the full par amount would be ₦15,000.\n\nAt a 2% discount, subscribers actually pay only 98% of par, i.e. ₦1.50 × 0.98 = ₦1.47 per share, so total cash received is ₦14,700.\n\nThe “missing” ₦300 (₂₀₀₀ × ₦0.03) is debited to a “Discount on Issue of Shares” account, effectively a capital loss to the company.\n\nThus the company forgoes 2% of the issue price, incurring that amount as a loss on the share issue.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1292,
+    "question": "<b>Use the information below to answer questions 28 and 29</b>\n\nMaro Merchant Bank Plc is to issue 500,000 ordinary\nshares of 50k each at ₦ 3,000 per share. Applications\nwere received for 1,550,000 shares fully paid, 1,250,000\nshares are to be issued on a pro rata basis and excess\nsubscriptions were dishonored and refunds made\n\nThe refund due to an application for 25,000 shares is",
+    "option": {
+      "a": "₦45,000",
+      "b": "₦30,000",
+      "c": "₦7,500",
+      "d": "₦5,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Applications were received for 1,550,000 shares, but only applications for 1,250,000 shares are considered for pro rata allotment. The applications for the remaining 300,000 shares are dishonored and fully refunded.\n\nThe 500,000 shares are issued on a pro rata basis to the considered applications (for 1,250,000 shares).\n\nThe allotment ratio is 500,000 / 1,250,000 = 0.4 (or 2/5), meaning each applicant receives 40% of the shares they applied for.\n\nFor an application of 25,000 shares (assumed to be part of the considered group):\n\nShares allotted = 0.4 × 25,000 = 10,000 shares.\n\nShares not allotted = 25,000 - 10,000 = 15,000 shares.\n\nThe issue price is ₦3.00 per share, so the amount paid for the application was 25,000 × ₦3.00 = ₦75,000.\n\nRefund for unallotted shares = 15,000 × ₦3.00 = ₦45,000.\n\nThus, the refund due is ₦45,000.",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -12428,6 +13308,22 @@
     "image": "",
     "answer": "b",
     "solution": "Bank service charges should not be added to or subtracted from the bank statement balance; they are already reflected on the statement and instead are used to adjust the book balance.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1325,
+    "question": "The fixed amount of money given to a petty cashier at the beginning of a period is called?",
+    "option": {
+      "a": "imprest",
+      "b": "petty cash",
+      "c": "float",
+      "d": " cash advance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fixed amount advanced to a petty cashier at the start of a period under the imprest system is known as the imprest (sometimes called the petty cash float).",
     "examtype": "utme",
     "examyear": "1999"
   },
@@ -13084,6 +13980,22 @@
     "image": "",
     "answer": "b",
     "solution": "The statement of affairs in the context of incomplete records is essentially a balance sheet drawn up at a specific date from whatever information is available, to show the assets and liabilities of the business and thus its capital (net worth).",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1390,
+    "question": "The contribution marginal on a job is the?",
+    "option": {
+      "a": "gross profit",
+      "b": " net profit",
+      "c": " excess of sales revnue over variable costs",
+      "d": "difference between fixed and variable costs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Contribution Margin = Sales Revenue − Variable Costs\n\nIt represents the amount available to cover fixed costs and then contribute to profit",
     "examtype": "utme",
     "examyear": "199"
   },
@@ -13760,6 +14672,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1456,
+    "question": "A dividend of 10% in a company on 500 000 ordinary shares of ₦ 1 nominal value has been declared, How much will a shareholder receive if he has 200 shares?",
+    "option": {
+      "a": "₦ 500 000",
+      "b": "₦ 50 000",
+      "c": "₦200",
+      "d": "₦ 20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Let's calculate the dividend for a shareholder with 200 shares:\n\nDividend rate: 10% of the nominal value (₦1 per share)\n\nDividend per share:\n\n10% × ₦1 = ₦0.10 per share\nTotal dividend for 200 shares:\n\n200 × ₦0.10 =₦20",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1457,
     "question": "Share premium can be used to\n\ni. Write off discount on shares ii. Give loans to directors, iii. Pay dividends, iv. Pay company’s formation expenses",
     "option": {
@@ -13804,6 +14732,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672119/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q45_-46_as7g7i.png",
     "answer": "d",
     "solution": "To find the working capital, calculate Current Assets minus Current Liabilities.\nFrom the Balance Sheet:\nCurrent Assets:\n\nStock: ₦4,000\nCash: ₦8,000\nDebtors: ₦6,000\nTotal Current Assets: ₦18,000\n\nCurrent Liabilities:\n\nCreditors: ₦9,000\nAccrued wages: ₦5,000\nTotal Current Liabilities: ₦14,000\n\nWorking Capital:\nCurrent Assets - Current Liabilities = ₦18,000 - ₦14,000 = ₦4,000",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1460,
+    "question": "The acid test ratio in the company is",
+    "option": {
+      "a": "1:1",
+      "b": "1:2",
+      "c": "2:3",
+      "d": "3:2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672119/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q45_-46_as7g7i.png",
+    "answer": "a",
+    "solution": "To find the acid test ratio (quick ratio), calculate Quick Assets divided by Current Liabilities.\nQuick Assets (Current Assets minus Stock):\n\nCash: ₦8,000\nDebtors: ₦6,000\nLess: Stock: ₦4,000 (excluded as it's not easily convertible to cash)\nTotal Quick Assets: ₦14,000\n\nCurrent Liabilities:\n\nCreditors: ₦9,000\nAccrued wages: ₦5,000\nTotal Current Liabilities: ₦14,000\n\nAcid Test Ratio:\nQuick Assets : Current Liabilities = ₦14,000 : ₦14,000 = 1:1",
     "examtype": "utme",
     "examyear": "1997"
   },

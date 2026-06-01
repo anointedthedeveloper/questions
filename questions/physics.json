@@ -2832,6 +2832,22 @@
     "examyear": "2011"
   },
   {
+    "id": 975,
+    "question": "The capacitance of a parallel plate capacitor is 20 μf in air and 60 μf in the presence of a dielectric. What is the dielectric constant?",
+    "option": {
+      "a": "0.3",
+      "b": "6.0",
+      "c": "3.0",
+      "d": "2.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Dielectric constant = (c)/c° = (60)/20 = 3",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 991,
     "question": "The correct expression for the potential at a point distance r from a charge q in an electric field is?",
     "option": {
@@ -3120,6 +3136,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1083,
+    "question": "Which type of motion do the wheels of a moving car undergo?",
+    "option": {
+      "a": " Vibratory and translational motion",
+      "b": "Random and translational motion",
+      "c": " Rotational mand oscillatory motion",
+      "d": "Translational and rotational motion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The tyre in motion makes a rotation and it translates in a straight line alongside. if the wheels is turned it continued further in a translational straight line through rotational motion.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1093,
     "question": "A force of 500 N is applied to a steel wire of cross‑sectional area 0.2 m². The tensile stress is",
     "option": {
@@ -3164,6 +3196,22 @@
     "image": "",
     "answer": "b",
     "solution": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf collapses.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1110,
+    "question": "A circuit has a resistance of 200Ω. The resistance of the circuit can be reduced to 120Ω when",
+    "option": {
+      "a": "A 300 Ω resistor is connected to it in parallel",
+      "b": "An 80 Ω resistor is connected to it in series",
+      "c": " A 150 Ω resistor is connected to it in parallel",
+      "d": "A 240 Ω resistor is connected to it in series"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial resistance, R₁ = 200 Ω\nDesired total resistance, Rₜ = 120 Ω\n\nSolution:\n\nStep 1: Effect of series and parallel connections\n\nConnecting a resistor in series increases the total resistance.\n\nConnecting a resistor in parallel decreases the total resistance.\n\nStep 2: Parallel resistance formula\nFor two resistors R₁ and R₂ in parallel:\n1/Rₜ = 1/R₁ + 1/R₂\n\nStep 3: Solve for R₂\n1/120 = 1/200 + 1/R₂\n1/R₂ = 1/120 – 1/200 = (5 – 3)/600 = 2/600 = 1/300\nR₂ = 300 Ω",
     "examtype": "utme",
     "examyear": "2014"
   },

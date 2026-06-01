@@ -96,6 +96,22 @@
     "examyear": "2007"
   },
   {
+    "id": 29,
+    "question": "If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure? ",
+    "option": {
+      "a": "0.01",
+      "b": "0.0051",
+      "c": "0.1",
+      "d": "0.005"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 31,
     "question": "The expression a 3 + b 3 is equal  to ",
     "option": {
@@ -492,6 +508,22 @@
     "image": "",
     "answer": "a",
     "solution": "x+2/4 − 2x−3/3 < 4\n3(x+2)−4(2x−3)/12 < 4\n3x + 6 − 8x + 12 < 48\n18 − 5 x< 48 ⟹ −5 x < 48 − 18\n−5x < 30 ⟹ x > −6",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 203,
+    "question": "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0",
+    "option": {
+      "a": " -4",
+      "b": "4",
+      "c": "8",
+      "d": "-8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "2y - ax + 4 = 0 ⟹\n 2y = ax - 4.\n\ny + (x/4) - 7 = 0 ⟹\n y = -x/4 + 7\n\n Slope of line 1 = a/2\n\nSlope of line 2 = -1/4\n\n-1/4 x a/2 = -1 (product of the slope of two perpendicular lines = -1)\n\na/8 = 1 ⟹\n a = 8.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -2812,6 +2844,22 @@
     "image": "",
     "answer": "b",
     "solution": " <sup>3</sup><sup>2 </sup> + <sup>1</sup>C<sub>(3+5)</sub>\n\n<sup>9+1</sup>C<sub>3+5</sub>\n \n\n\n<sup>10</sup>C<sub>8</sub> = 10!/(8!2!)\n(10∗9∗8!)/(8!2!)= (10∗9)/2\n= 45",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1132,
+    "question": "Factorize 4a<sub>2</sub> - 9b<sub>2</sub>",
+    "option": {
+      "a": " (2a-3b) (2a+3b)",
+      "b": "(2a-b) (2a+3b)",
+      "c": " (2a-3b) (a+3b)",
+      "d": " (a-3b) (a+3b)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Check:\n(2a-3b) (2a+3b)\n\n4a<sub>2</sub> + 6ab - 6ab - 9b<sub>2</sub>\n                                                                                                                     4a<sub>2</sub> - 9b<sub>2</sub>",
     "examtype": "utme",
     "examyear": "2022"
   },

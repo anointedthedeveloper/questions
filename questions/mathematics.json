@@ -3872,6 +3872,22 @@
     "examyear": "2003"
   },
   {
+    "id": 258,
+    "question": "An aeroplane flies due north from airport P to Q and then flies due east R. If Q is equidistant from P and R, find the bearing of P and R",
+    "option": {
+      "a": "90°",
+      "b": "135°",
+      "c": "225°",
+      "d": "270°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Since PQ = QR, Δ PQR is a right angle isosceles triangle\n∴ ∠PQR = 45°\n=> The bearing of P from R = 180 + 45\n= 225°",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 259,
     "question": "An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc.",
     "option": {
@@ -7230,6 +7246,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 472,
+    "question": "Add 1101<sub>2</sub> ,10111<sub>2</sub>  and 111<sub>2</sub> ",
+    "option": {
+      "a": "111011<sub>2</sub> ",
+      "b": "110110<sub>2</sub> ",
+      "c": "101011<sub>2</sub> ",
+      "d": "101010<sub>2</sub> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": " 1101<sub>2</sub> + 10111<sub>2</sub>  +  111<sub>2</sub>  = 101011",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 473,
@@ -17264,6 +17296,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1171,
+    "question": "If −2x<sup></sup> +6x<sup>2</sup> +17x - 21 is divided by (x+1), then the remainder is",
+    "option": {
+      "a": "32",
+      "b": "30",
+      "c": " -30",
+      "d": "-32"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let p(x)=−2x<sup>3</sup> + 6x<sup>2</sup> + 17x − 21\n\n\nUsing the remainder theorem\n\nLet x + 1 = 0\n\n\n∴ x = −1\n\n\nSince, (x+1) divides p(x), then, remainder will be p(-1)\n\n⇒ p(-1) = -2(-1)<sup>3</sup> +6(−1)<sup>2</sup>  + 17(-1) - 21\n\n∴ p(-1) = -30",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1172,
     "question": "Let a binary operation '*' be defined on a set A. The operation will be commutative if",
     "option": {
@@ -18828,6 +18876,22 @@
     "image": "",
     "answer": "d",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1272,
+    "question": "Determine the third term of a geometrical progression whose first and second term are 2 and 54 respectively",
+    "option": {
+      "a": "1458",
+      "b": "1485",
+      "c": "1345",
+      "d": "1258"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "1st G.P. = a =2\n\n2nd G.P. = ar<sup>2-1</sup>\n = 54\n\n2(r) = 54\n\nr = 54/2 = 27\n\nr = 27\n\n3rd term = ar<sup>2</sup>\n = (2) (27)<sup>2</sup>\n\n\n2 × 27 × 27\n\n= 1458",
     "examtype": "utme",
     "examyear": "2015"
   },

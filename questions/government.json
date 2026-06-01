@@ -80,6 +80,22 @@
     "examyear": "2006"
   },
   {
+    "id": 10,
+    "question": "A totalitarian state is based on  ",
+    "option": {
+      "a": "multi-party system ",
+      "b": "total protection of civic rights ",
+      "c": "the totality of the state processes ",
+      "d": "coercion as the instrument of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 11,
     "question": "A political concept that defines  the beliefs, attitudes and values of a society is called ",
     "option": {
@@ -352,6 +368,22 @@
     "examyear": "2008"
   },
   {
+    "id": 59,
+    "question": "What does INEC stand for? ",
+    "option": {
+      "a": "Independent  National Elections Committee ",
+      "b": "Independent  Newspapers executive  Committee ",
+      "c": "Independent National Export Council ",
+      "d": "independent National Electoral Commission "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 62,
     "question": "The EFCC was established to ",
     "option": {
@@ -363,6 +395,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 64,
+    "question": "In many countries, citizenship can be acquired through the following processes except ",
+    "option": {
+      "a": "nationalization ",
+      "b": "naturalization ",
+      "c": "registration ",
+      "d": "birth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2008"
@@ -528,6 +576,22 @@
     "examyear": "2009"
   },
   {
+    "id": 95,
+    "question": "The branch of government responsible for implementing laws is the ",
+    "option": {
+      "a": "executive ",
+      "b": "Legislature ",
+      "c": "Judiciary ",
+      "d": "Police "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 96,
     "question": "In a democracy, sovereignty is vested in ",
     "option": {
@@ -560,6 +624,22 @@
     "examyear": "2009"
   },
   {
+    "id": 102,
+    "question": "In a federal constitution, legislative powers that are shared by two levels of government are referred to as ",
+    "option": {
+      "a": "exclusive ",
+      "b": "extra-ordinary  ",
+      "c": "residual  ",
+      "d": "concurrent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 103,
     "question": "During the period 1960-1966, Nigerian was governed under the ",
     "option": {
@@ -571,6 +651,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 104,
+    "question": "Which of the following in the Sokoto Caliphate performed functions similar to that of the Bashorun in Oyo Kingdom? ",
+    "option": {
+      "a": "Waziri ",
+      "b": "Galadima ",
+      "c": "Ma’aji  ",
+      "d": "Alkali  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 106,
+    "question": "A non-monarchial state can best be described as a ",
+    "option": {
+      "a": "republic ",
+      "b": "confederation ",
+      "c": "nation ",
+      "d": "federation "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -603,6 +715,54 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 110,
+    "question": "In the First Republic, Politics in Northern Nigeria was dominated by: ",
+    "option": {
+      "a": "NEPU ",
+      "b": "UMBC ",
+      "c": "NCNC ",
+      "d": "NPC"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 111,
+    "question": "The creation of classless society is the ultimate aim of ",
+    "option": {
+      "a": "communism ",
+      "b": "socialism  ",
+      "c": "fascism ",
+      "d": "capitalism."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 117,
+    "question": "Nigeria hosted the commonwealth conference which eventually led to the independence of ",
+    "option": {
+      "a": "Mozambique ",
+      "b": "Namibia  ",
+      "c": "Zimbabwe ",
+      "d": "Malawi"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -784,6 +944,22 @@
     "examyear": "2012"
   },
   {
+    "id": 150,
+    "question": "Laws made by local governments are called  ",
+    "option": {
+      "a": "Acts of Parliament ",
+      "b": "Local Government Acts ",
+      "c": "Bye-laws  ",
+      "d": "Local Government Decrees "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 151,
     "question": "The commission established to handle the electoral activities in the Second Republic of Nigeria was ",
     "option": {
@@ -823,6 +999,22 @@
       "b": "sovereignty ",
       "c": "legislature  ",
       "d": "legitimacy "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 158,
+    "question": "The most important aspect of political participation in a democracy is  ",
+    "option": {
+      "a": "attending political rallies  ",
+      "b": "voting in elections  ",
+      "c": "registration with a political party  ",
+      "d": "the observance of electoral processes "
     },
     "section": "",
     "image": "",
@@ -891,6 +1083,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 164,
+    "question": "The method used to determine the possible outcome of an electoral contest is ",
+    "option": {
+      "a": "conduct of elections into local government offices  ",
+      "b": "registration of political party  ",
+      "c": "conduct of gubernatorial elections  ",
+      "d": "delineation of electoral constituencies "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 167,
+    "question": "Every political system performs the following basic functions excepts  ",
+    "option": {
+      "a": "Rule making  ",
+      "b": "Rule transformation  ",
+      "c": "Rule enforcement  ",
+      "d": "Rule adjudication "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1040,6 +1264,22 @@
     "examyear": "2000"
   },
   {
+    "id": 203,
+    "question": "Which of the following is an obligation of a citizen?",
+    "option": {
+      "a": "Attending political rallies",
+      "b": "Taking part in Independence Day celebrations",
+      "c": "Contesting elections",
+      "d": "Paying respect to the national flag."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 204,
     "question": "The extent to which the citizens regard the institutions, officials and activities of government as right and acceptable is known as",
     "option": {
@@ -1136,6 +1376,22 @@
     "examyear": "2000"
   },
   {
+    "id": 223,
+    "question": "Which of the following best describes the relationship between the central and the component government in a confederation?",
+    "option": {
+      "a": "The central government collects revenue for component government",
+      "b": "The central and component governments have equal powers",
+      "c": "The central government legislates for the component governments.",
+      "d": "The central government is weaker than the component government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 227,
     "question": "The grant of the right to vote is called",
     "option": {
@@ -1184,6 +1440,22 @@
     "examyear": "2000"
   },
   {
+    "id": 230,
+    "question": "The powers allocated to the central government in a federation are contained in the",
+    "option": {
+      "a": "central legislative list",
+      "b": "exclusive legislative list",
+      "c": "residual legislative list",
+      "d": "concurrent legislative list."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 238,
     "question": "Traditional rulers appointed by the British to implement indirect rule in Eastern Nigeria were called",
     "option": {
@@ -1211,6 +1483,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 241,
+    "question": "In pre-colonial Igboland, administrative meetings were presided over by the",
+    "option": {
+      "a": "Mazi",
+      "b": "Ogbuefi",
+      "c": "Ozo title holder",
+      "d": "Okpara"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 243,
+    "question": "Which of the following groups had the best egalitarian traditional political system?",
+    "option": {
+      "a": "Hausa/Fulani",
+      "b": "Yoruba",
+      "c": "lgbo",
+      "d": "Edo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -1264,6 +1568,22 @@
     "examyear": "2013"
   },
   {
+    "id": 253,
+    "question": "To ensure impartiality and independence of electoral commission, the body should be",
+    "option": {
+      "a": "funded by political parties",
+      "b": "headed by a justice of the Supreme Court",
+      "c": "headed by a professor of political science",
+      "d": "independent of government control"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 261,
     "question": "The first military intervention in Nigeria politics was in",
     "option": {
@@ -1271,6 +1591,22 @@
       "b": "1962.",
       "c": "1963",
       "d": "1966"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 262,
+    "question": "To contest an election, a candidate must be a member of a",
+    "option": {
+      "a": "campaign organization.",
+      "b": "civil society organization.",
+      "c": "national assembly",
+      "d": "political party."
     },
     "section": "",
     "image": "",
@@ -1328,6 +1664,38 @@
     "examyear": "2013"
   },
   {
+    "id": 271,
+    "question": "Which of these is a feature of Nigeria federalism?",
+    "option": {
+      "a": "Conflict of authority does not arise",
+      "b": "Minority groups are equally benefited",
+      "c": "Parliamentary supremacy",
+      "d": "Secession is constitutionally forbidden"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 274,
+    "question": "Before the British colonialism in Nigeria, which of these was an instrument for dispensation of justice in !gbo land?",
+    "option": {
+      "a": "Cult",
+      "b": "Land",
+      "c": "Masquerade",
+      "d": "Ofo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 277,
     "question": "The idea of federalism in Nigeria started with ______ constitution.",
     "option": {
@@ -1335,6 +1703,54 @@
       "b": "Independence",
       "c": "Lyttleton",
       "d": "Macpherson"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 278,
+    "question": "Under the 1979 constitution of Nigeria, each state was allowed to elect",
+    "option": {
+      "a": "as many senators as the state could finance",
+      "b": "five senators",
+      "c": "from two to five senators depending on the population",
+      "d": "three senators"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 281,
+    "question": "The head of the Oyomesi in pre-colonial Yoruba traditional society was",
+    "option": {
+      "a": "Alaafin",
+      "b": "Are - onakakanfo",
+      "c": "Baale",
+      "d": "Bashorun"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 286,
+    "question": "The parties that formed the coalition government in 1960 were ___ and ___",
+    "option": {
+      "a": "AG, NCNC",
+      "b": "AG, NPC",
+      "c": "NCNC.NEPU",
+      "d": "NPC, NCNC"
     },
     "section": "",
     "image": "",
@@ -1355,6 +1771,54 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 294,
+    "question": "Agents of political socialization include the following EXCEPT",
+    "option": {
+      "a": "educational institutions",
+      "b": "political godfathers",
+      "c": "political parties",
+      "d": "religious institutions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 297,
+    "question": "How many members of the security council of the United Nations (UN) exercise veto power?",
+    "option": {
+      "a": "Eight",
+      "b": "Five",
+      "c": "Four",
+      "d": "Six"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 298,
+    "question": "The head of the electoral commission at the local government area is referred to as the",
+    "option": {
+      "a": "chairman",
+      "b": "electoral officer",
+      "c": "resident commissioner",
+      "d": "returning officer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -1440,6 +1904,54 @@
     "examyear": "1999"
   },
   {
+    "id": 328,
+    "question": "A dominant two-party system is operated in",
+    "option": {
+      "a": "the United Kingdom and the United States",
+      "b": "India and Pakistan",
+      "c": "France and Germany",
+      "d": "South Africa and Senegal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 329,
+    "question": "Indirect legislation can be achieved by",
+    "option": {
+      "a": "judicial interpretation and precedent",
+      "b": "passing a private member’s bill",
+      "c": "second read of the law",
+      "d": "the two legislative chambers considering a bill"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 331,
+    "question": "The ideology which states that each person is the best judge of what is in his self-interest is",
+    "option": {
+      "a": "liberalism",
+      "b": "socialism",
+      "c": "fascism",
+      "d": "feudalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 333,
     "question": "The British Government revoked the Character of the Royal Niger Company and took over the administration of Nigeria in",
     "option": {
@@ -1447,6 +1959,22 @@
       "b": "1861",
       "c": "1900",
       "d": "1914"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 336,
+    "question": "The first Head of Government in Independent Nigeria was",
+    "option": {
+      "a": "Nnamdi Azikiwe",
+      "b": "Ahmadu Bello",
+      "c": "Tafawa Balewa",
+      "d": "Herbert Macaulay"
     },
     "section": "",
     "image": "",
@@ -1520,6 +2048,22 @@
     "examyear": "2016"
   },
   {
+    "id": 364,
+    "question": "A constitution of any country is basically",
+    "option": {
+      "a": "a mere piece of paper",
+      "b": "a guide to how the country should be governed",
+      "c": "a document stating what the leaders should do",
+      "d": "a document stating how to power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 366,
     "question": "A good example of a country which operates a cabinet system of government is",
     "option": {
@@ -1584,6 +2128,22 @@
     "examyear": "2016"
   },
   {
+    "id": 372,
+    "question": "In federalism system of Government currency, Armed forces and National defense is the primary function o",
+    "option": {
+      "a": "f\nLocal government Chairman",
+      "b": "Armed Forces Ruling Council",
+      "c": "Security and Exchange Commission",
+      "d": "Exclusive list"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 374,
     "question": "The system of indirect rule failed in the former Eastern Nigeria primarily because",
     "option": {
@@ -1600,6 +2160,22 @@
     "examyear": "2016"
   },
   {
+    "id": 375,
+    "question": "Citizenship refers to the",
+    "option": {
+      "a": "legal status of a member of a state",
+      "b": "indigenous member of a state",
+      "c": "highest position in a state",
+      "d": "social status of a person in a state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 377,
     "question": "Nigeria’s withdrawal from the Edinburgh Commonwealth Games in July 1986 was in protest against British",
     "option": {
@@ -1611,6 +2187,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 385,
+    "question": "Prior to the formation of the OAU in 1963, Nigeria Identified with the",
+    "option": {
+      "a": "Brazzaville Group",
+      "b": "Casablanca group",
+      "c": "Libreville Group",
+      "d": "Monrovia Group"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -1648,6 +2240,22 @@
     "examyear": "2016"
   },
   {
+    "id": 395,
+    "question": "Who was appointed by the federal government of Nigeria as the administrator of western region in 1962?",
+    "option": {
+      "a": "Dr. M. A. Majekodunmi",
+      "b": "Chief Odeleye Fadahunsi",
+      "c": "Chief S. L. Akintola",
+      "d": "Chief Remi Fani Kayode"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 398,
     "question": "A prominent feature of a presidential system of government is",
     "option": {
@@ -1655,6 +2263,22 @@
       "b": "vote of no confidence",
       "c": "the rule of law",
       "d": "separation of powers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 404,
+    "question": "Nigeria commitment to the liberation of Africa could best be seen in her policy towards",
+    "option": {
+      "a": "Namibia and Mozambique",
+      "b": "the Congo and Zimbabwe",
+      "c": "Sierra Leone and Chad",
+      "d": "South Africa and Angola"
     },
     "section": "",
     "image": "",
@@ -1808,6 +2432,22 @@
     "examyear": "2010"
   },
   {
+    "id": 457,
+    "question": "The distinctive attribute of a state is the monopoly of",
+    "option": {
+      "a": "control",
+      "b": "power",
+      "c": "violence",
+      "d": "justice."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 459,
     "question": "Political values are acquired in any given society through",
     "option": {
@@ -1943,6 +2583,22 @@
       "b": "elected by electoral college",
       "c": "nominated by regional and federal governments",
       "d": "nominated by the president of the house."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 490,
+    "question": "The three registered political parties at the inception of Nigeria’s Fourth Republic were",
+    "option": {
+      "a": "PDP, DPP and PPA",
+      "b": "PDP, AD and APP",
+      "c": "PDP,  AD and PPA",
+      "d": "PDP, APP and AC."
     },
     "section": "",
     "image": "",
@@ -2192,6 +2848,22 @@
     "examyear": "2013"
   },
   {
+    "id": 532,
+    "question": "In Nigeria’s First Republic, the Prime Minister was both the",
+    "option": {
+      "a": "Head of government and a lawmaker",
+      "b": "Head of State and Commander-in-Chief of the armed forces",
+      "c": "Commander-in-Chief of the armed forces and Party leader",
+      "d": "Head of State and Party leader."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 533,
     "question": "Under the 1979 Constitution, statutory allocation of revenue to local government councils is the responsibility of the",
     "option": {
@@ -2352,6 +3024,38 @@
     "examyear": "2014"
   },
   {
+    "id": 562,
+    "question": "Unitary system of government is more suitable to a country",
+    "option": {
+      "a": "that is sparsely populated",
+      "b": "that possesses a strong and modern army",
+      "c": "with a robust and dynamic economy",
+      "d": "with a relatively small area and a homogenous population"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 563,
+    "question": "An example of a country ruled by a constitutional monarch is",
+    "option": {
+      "a": "Uganda",
+      "b": "Morocco",
+      "c": "Italy",
+      "d": "Libya"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 569,
     "question": "The officer responsible for announcing the result of an election is known as",
     "option": {
@@ -2496,6 +3200,22 @@
     "examyear": "2014"
   },
   {
+    "id": 593,
+    "question": "The review of Nigeria foreign policy under the Murtala/Obasanjo regime was done by",
+    "option": {
+      "a": "Udoji Committee",
+      "b": "Aboyade Committee",
+      "c": "Adedeji Commission",
+      "d": "Philips Commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 595,
     "question": "The Technical Aids Corps was established during the regime of",
     "option": {
@@ -2592,6 +3312,22 @@
     "examyear": "1988"
   },
   {
+    "id": 633,
+    "question": "Which of the following is not a specialized agency of the United Nations Organization?",
+    "option": {
+      "a": "World Health Organization",
+      "b": "The Food and Agriculture Organization",
+      "c": "The international Labour Organization",
+      "d": "General Assembly"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 648,
     "question": "It is the duty of a government to perform all the following functions, except",
     "option": {
@@ -2635,6 +3371,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 652,
+    "question": "Military Governors were members of the Supreme Military Council under the",
+    "option": {
+      "a": "Murtala Mohammed Regime",
+      "b": "Yakubu Gowon Regime",
+      "c": "Ibrahim Babangida Regime",
+      "d": "Olusegun Obasanjo Regime"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -2720,6 +3472,22 @@
     "examyear": "1988"
   },
   {
+    "id": 666,
+    "question": "Which of the following is a false description of the first Nigeria Prime Minister? He",
+    "option": {
+      "a": "was first among equals",
+      "b": "presided over the cabinet",
+      "c": "was the Head of Government",
+      "d": "exercised the prerogative of mercy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 667,
     "question": "The twelve state structure was created in Nigeria in",
     "option": {
@@ -2747,6 +3515,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 673,
+    "question": "The study of Government offers an individual all the following, except a",
+    "option": {
+      "a": "knowledge of his rights and duties",
+      "b": "training in good citizenship",
+      "c": "knowledge of the processes of government",
+      "d": "training to become a judge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 674,
+    "question": "Voting started in Nigeria in 1923 because the Clifford Constitution of 1922 granted",
+    "option": {
+      "a": "decolonization",
+      "b": "independence",
+      "c": "an elective principle",
+      "d": "self-government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
@@ -2896,6 +3696,22 @@
     "examyear": "1989"
   },
   {
+    "id": 714,
+    "question": "When there is a conflict between the regional and federal laws under the concurrent legislative list, the",
+    "option": {
+      "a": "Federal laws would prevail",
+      "b": "Federal laws would be declared null and void",
+      "c": "regional laws would prevail",
+      "d": "Head of State would settle the conflict"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 715,
     "question": "Nigeria hosted the meeting of Commonwealth Heads of State in",
     "option": {
@@ -3024,6 +3840,22 @@
     "examyear": "2017"
   },
   {
+    "id": 732,
+    "question": "A system of local council that allows for rotational leadership is known as __",
+    "option": {
+      "a": "single executive",
+      "b": "dual executive",
+      "c": "multi executive",
+      "d": "collegiate executive."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A collegiate executive system allows for rotational leadership.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 736,
     "question": "The three major political parties of the First Republic can be said to have had __",
     "option": {
@@ -3052,6 +3884,22 @@
     "image": "",
     "answer": "c",
     "solution": "In 1987, Nigeria had 21 states.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 748,
+    "question": "The struggle for self- government from foreign rule is known as __",
+    "option": {
+      "a": "imperialism",
+      "b": "nationalism",
+      "c": "patriotism",
+      "d": "neo-colonialism."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Nationalism refers to the struggle for self-government from foreign rule.",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -3164,6 +4012,22 @@
     "image": "",
     "answer": "d",
     "solution": "Nigeria played a major role in the formation and operations of ECOMOG.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 764,
+    "question": "The Constitutional forms with two levels of Government is _________",
+    "option": {
+      "a": "unitary",
+      "b": "Evolution",
+      "c": "Confederal",
+      "d": "Confederation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Confederation is the Constitutional form with the levels of Government, the Central and the Regional",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -3376,6 +4240,22 @@
     "examyear": "2018"
   },
   {
+    "id": 795,
+    "question": "The decision to separate Lagos from the Western Region and make it a neutral Territory was taken at the party constitutional conference",
+    "option": {
+      "a": " 1950 general conference",
+      "b": "1953 constitutional conference",
+      "c": "1954 constitutional conference",
+      "d": "1963 All party constitutional conference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The 1954 conference led to Lagos being separated from the Western Region and becoming a neutral federal territory.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 799,
     "question": "Democracy can be promoted through",
     "option": {
@@ -3584,6 +4464,22 @@
     "examyear": "2019"
   },
   {
+    "id": 837,
+    "question": "The area from which one or more members or representatives are elected in public offices is called the electoral ........",
+    "option": {
+      "a": "College",
+      "b": "Constituency",
+      "c": "Ward",
+      "d": "District"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Constituency is the definition for the political area from which an individual is elected into a representative office.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 839,
     "question": "The last measure used by the pressure groups issuing a condition to be satisfied within a stipulated time is called_______",
     "option": {
@@ -3612,6 +4508,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Igbo precolonial was seen as ''headless'' and decisions were made based on popular consultations and acceptability.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 852,
+    "question": "The most recent target plans and agenda of the United Nations are known as the______",
+    "option": {
+      "a": "Resolution 2020",
+      "b": "Millenium Development Goals",
+      "c": "Agenda 2063",
+      "d": "Sustainable Development Goals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The 17 United Nations Sustainable Development Goals (SDGs) are the most recent aspirational global agenda for the sake of environmental sustainability, strong governance institutions and partnerships among related others.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -3804,6 +4716,38 @@
     "image": "",
     "answer": "b",
     "solution": "A feature unique to General Murtala Muhammed's Supreme Military Council, compared to that of General Yakubu Gowon, was the exclusion of military governors from the council. General Murtala Muhammed's regime, which came to power in 1975, restructured the Supreme Military Council (SMC) to exclude military governors from its membership. New appointed military governors were not given seats on the supreme military council, but instead were expected to administer federal policies handed by Murtala Muhammed.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 904,
+    "question": "The simple plurality electoral system is often criticized because _________",
+    "option": {
+      "a": "the ruling party may lose the election",
+      "b": "the winner may not poll an absolute majority",
+      "c": "it works against all opposition parties",
+      "d": "it is easy to rig"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The simple plurality electoral system, often referred to as \"first-past-the-post,\" is criticised for several reasons, particularly for its susceptibility to manipulation.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 906,
+    "question": "Nigeria's non-aligned policy means that she will _________",
+    "option": {
+      "a": "have nothing to do with the superpowers",
+      "b": " not take sides in international issues based on ideological considerations",
+      "c": "avoid having any dealing with any country with ideological learnings",
+      "d": " relate only with member countries of the Non-Aligned movement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Nigeria's non-aligned policy means that she will not take sides in international issues based on ideological considerations. This policy is part of the broader Non-Aligned Movement (NAM), which emerged during the Cold War era.  Nigeria, like other non-aligned countries, seeks to maintain independence and neutrality by not committing to any of the major ideological blocs (capitalism or communism). This allows for more flexibility in foreign policy and international relations.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -4016,6 +4960,22 @@
     "examyear": "2021"
   },
   {
+    "id": 937,
+    "question": "After 1945, the demand of African nationalists changed from reform to independence because .....",
+    "option": {
+      "a": "The Second World War enhanced colonial rule",
+      "b": " Colonial rule became less oppressives",
+      "c": "Colonial rule was in disarray",
+      "d": "The Second World War boosted their morale"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": " After 1945, the demand of African nationalists changed from reform to independence because the second world war boosted their morale. The war exposed the myth surrounding white supremacy.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 939,
     "question": "Some pre-colonial Nigerian societies are described as stateless because ......",
     "option": {
@@ -4096,6 +5056,38 @@
     "examyear": "2021"
   },
   {
+    "id": 951,
+    "question": "One of the duties of the legislature is to_______",
+    "option": {
+      "a": "Exercise oversight",
+      "b": " Implement law",
+      "c": "Promulgate decrees",
+      "d": "Adjudicate disputess"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The legislature has several key functions in a government, including exercising oversight. This involves monitoring and evaluating the actions and policies of the executive branch to ensure accountability and transparency. The legislature holds hearings, conducts investigations and reviews the implementation of laws and policies to prevent misuse of power and corruption.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 955,
+    "question": "The philosophy behind Nigerian federalism is  ",
+    "option": {
+      "a": "unity in diversity  ",
+      "b": "sectional development",
+      "c": "review of sectionalism",
+      "d": "colonial rule"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Unity in diversity is a phrase that signifies unity among people with diverse cultural, and religious beliefs, social status, and other demographic differences. Nigeria is a nation with a large population consisting of people with different beliefs, traditions, religions, ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 958,
     "question": "The oversight function is performed by the",
     "option": {
@@ -4156,6 +5148,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Clifford Constitution of 1922 established the first legislative council in Nigeria.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 963,
+    "question": "An electoral system in which the winner must secure more than 50% of the vote is described as a/an",
+    "option": {
+      "a": "plurality system",
+      "b": " proportional representation",
+      "c": "an absolute majority",
+      "d": "electoral oblıgation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The electoral system in which the winner must secure more than 50% of the vote is described as an \"absolute majority,\" This means the candidate or option needs to obtain more than half of the total votes cast to win.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -4304,6 +5312,38 @@
     "examyear": "2022"
   },
   {
+    "id": 991,
+    "question": "The process of pressure groups trying to influence legislation is known as",
+    "option": {
+      "a": "ultimatum",
+      "b": "dialogue",
+      "c": "strike",
+      "d": "lobbying"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Pressure groups are organisations which seek to influence the policies of the government and this process is known as lobbying.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 996,
+    "question": "In a parliamentary system of government, the head of government is typically ___________.",
+    "option": {
+      "a": "elected directly by the people",
+      "b": "the leader of the majority party in the legislature",
+      "c": "appointed by the judiciary",
+      "d": "chosen by the head of state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a parliamentary system of government, the head of government is typically the leader of the majority party in the legislature. This is because the head of government, often called the prime minister, is usually the leader of the political party that has the most seats in the legislature.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 999,
     "question": "The constitutional amendment process in Nigeria requires the approval of",
     "option": {
@@ -4384,6 +5424,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1012,
+    "question": "Pressure groups primarily aim to",
+    "option": {
+      "a": "promote social equality and justice",
+      "b": "gain political power and control",
+      "c": " influence public opinion through media campaigns",
+      "d": "disrupt the functioning of the government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Pressure groups primarily aim to influence public opinion through media campaigns. They use various forms of advocacy to shape the perceptions and attitudes of the public towards certain issues, with the goal of influencing policy and decision-making in their favor.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1013,
     "question": "n which system of government is the executive and legislature fused?",
     "option": {
@@ -4432,6 +5488,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1023,
+    "question": "Which political party was known for its socialist ideology and populist policies in the 1980s?",
+    "option": {
+      "a": "People's Redemption party",
+      "b": "All Nigeria's People's Party",
+      "c": " National Party of Nigeria",
+      "d": "Nigerian National Democratic Party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The People's Redemption Party was known for its socialist ideology and populist policies in the 1980s. The party was founded by Mallam Aminu Kano and was known for its commitment to representing the interests of the common people.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1030,
     "question": "Nigeria shares its longest border with which West African country?",
     "option": {
@@ -4444,6 +5516,22 @@
     "image": "",
     "answer": "a",
     "solution": "Nigeria shares its longest border with Niger. The border between Nigeria and Niger is approximately 1,497 kilometers long, making it Nigeria's longest international border.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1031,
+    "question": "The electoral system used in Nigeria is primarily based on __________",
+    "option": {
+      "a": "mixed-member proportional",
+      "b": " preferential voting",
+      "c": "first-past-the-post",
+      "d": "proportional representation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The electoral system used in Nigeria is primarily based on the first-past-the-post system. This means that the candidate with the most votes in an election wins, regardless of whether they have a majority of the total votes. This system is used in Nigeria's presidential, gubernatorial, and legislative elections.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4476,6 +5564,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Ijaw people of pre-colonial Nigeria were organized into clans. A clan is a group of people united by actual or perceived kinship and descent. In the case of the Ijaw people, these clans were often made up of several villages and communities that shared common ancestry.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1037,
+    "question": "Civil servants are typically protected by",
+    "option": {
+      "a": "Military forces and security agencies",
+      "b": "Civil service commission",
+      "c": "Trade union and labour laws",
+      "d": "Human rights organizations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Civil servants are typically protected by the Civil Service Commission. The Civil Service Commission is a government agency that is responsible for the appointment, promotion, and discipline of civil servants.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4588,6 +5692,22 @@
     "image": "",
     "answer": "a",
     "solution": "The rule of law is an essential ingredient of democracy. Considering that democracy is a government of the people, by the people and for the people, it is imperative that every person within this system is treated equally and fairly. This equality is assured when the rule of law is practiced (the rule that states that no body is above the law/ every one is equal before the law). ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1073,
+    "question": "The Commission that examines complaints of civil wrongs committed by government employees is ",
+    "option": {
+      "a": " Public Complaints Commission",
+      "b": " Civil Service Commission",
+      "c": " Economic and Financial Crimes Commission",
+      "d": " Judicial Service Commission\n "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Public Complaints Commission is a body responsible for receiving an responding to complaints from the public about the wrongdoings of civil servants and other government employees. They have the power to offer recommendations for the punishments of such employees. ",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -4720,6 +5840,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1096,
+    "question": "Where the constitution is supreme, unconstitutional acts of the executive and the legislature can be checked by the courts through",
+    "option": {
+      "a": "recall",
+      "b": "judicial review",
+      "c": "vote of no confidence",
+      "d": "impeachment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Judicial review is the power of the courts to examine actions of the executive and legislature and declare them unconstitutional if they violate the constitution. This ensures that the constitution remains the supreme law of the land.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1097,
     "question": "The central decision-making organ of a confederation is made up of",
     "option": {
@@ -4732,6 +5868,22 @@
     "image": "",
     "answer": "c",
     "solution": "In a confederation, the central decision-making body is typically composed of representatives chosen by the member states' governments. These representatives are not elected directly by the people but are nominated to represent their states' interests in the confederation's central authority.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1101,
+    "question": "A constitution that requires a plebiscite or a referendum to be amended is",
+    "option": {
+      "a": "rigid",
+      "b": "unwritten",
+      "c": "flexible",
+      "d": "written"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Plebiscite; the direct vote of all the members of an electorate on an important public question such as a change in the constitution.\n\nA referendum; is a direct and universal vote in which an entire electorate is invited to vote on a particular proposal and can have nationwide or local forms.\n\nA rigid Constitution;  is a constitution that is difficult or slow to change usually because of a prescribed process of amendment that is detailed and lengthy in execution.",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -4928,6 +6080,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1133,
+    "question": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalised in the late 1970's for transacting business with",
+    "option": {
+      "a": "France",
+      "b": " South Africa",
+      "c": "Portugal",
+      "d": "Libya"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Barclays Bank and the British Petroleum Company in Nigeria were nationalized in the late 1970s for transacting business with South Africa.\n\nIt was Obasanjo's Administration that chased Britain's arrogance over Zimbabwe's Independence.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1135,
     "question": "Nigeria's recognition of the Popular Movement for the Liberation of Angola to lead that country was made under",
     "option": {
@@ -5104,6 +6272,38 @@
     "examyear": "2002"
   },
   {
+    "id": 1166,
+    "question": "The fees collected by local governments at motor parks represents",
+    "option": {
+      "a": "levies",
+      "b": "fines",
+      "c": " income tax",
+      "d": "user charge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fees collected by local governments at motor parks represents levies",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1167,
+    "question": "The first Nigerian constitution to provide for the fundamental objectives and directive principles of state policy was the",
+    "option": {
+      "a": "1979 Constitution",
+      "b": "1989 Constitution",
+      "c": "1999 Constitution",
+      "d": "1960 Constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "1979 Constitution The first Nigerian constitution to provide for the fundamental objectives and directive principles of state policy.\n\nThe Constitution marked a turning point on the struggle for self determination and emancipation of Nigeria from the shackles of colonialism.\n\nIt marked the beginning of new diplomatic era, a well.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1170,
     "question": "In pre-colonial Igbo society, decisions on public issues were reached mainly through",
     "option": {
@@ -5116,6 +6316,38 @@
     "image": "",
     "answer": "b",
     "solution": "In Pre-colonial Igbo society, decisions on public issues were reached mainly through consensus.\n\nThe decision were then taken back to the respective families for ratification or rejection.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1171,
+    "question": "The main duty of the Local Government Service is to",
+    "option": {
+      "a": "supervise and manage the affairs of local governments",
+      "b": "create job opportunities at the local level",
+      "c": "handle requests for the creation of more local governments",
+      "d": "coduct elections into local councils"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The main duty of the local Government Service Commission is to supervise and manage the affairs of local governments.\n\nThe Local Government Service Commission was established in each state of the Federation in 1976 to control all services in the local governments e.g recruitment, promotion, discipline etc. of staff of the local governments.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1172,
+    "question": "The constitution that introduced restricted franchise into Nigerian politics was the",
+    "option": {
+      "a": "Independence Constitution",
+      "b": "Lyttelton Constitution",
+      "c": "Richards Constitution",
+      "d": "Clifford Constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Clifford Constitution was the constitution that introduced restricted franchise into Nigerian politics.\n\nThe elective principle was restricted to Lagos and Calabar only. Secondly, it was based on limited franchise of 12 months residential permit and $100.00 per annum.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -5168,6 +6400,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1182,
+    "question": "The United Nations charter is an instrument that",
+    "option": {
+      "a": "sets out the rights and obligations of member states",
+      "b": "provides for funding of memeber states",
+      "c": "facilitates the resolution of disputes among member states",
+      "d": "determines the admission of member states"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The United Nations charter is an instrument that sets out the rights and obligations of member states.\n\nIt should be recalled that one of the aims and objectives of U.N.O is to promote respect for Fundamental Human Rights among Nations.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1187,
     "question": "Which of the following is a founding member of OPEC?",
     "option": {
@@ -5198,6 +6446,38 @@
     "solution": "Professor Ibrahim Gambari served as the Under-Secretary-General and Special Adviser on Africa to the United Nations Secretary-General.",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 1189,
+    "question": "Who among the following served as Secretary General of OPEC?",
+    "option": {
+      "a": "Jibril Aminu",
+      "b": "Aret Adams",
+      "c": " Dan Etete",
+      "d": "Rilwanu Lukman"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Rilwanu Lukman, a Nigerian engineer and technocrat, served as the Secretary General of OPEC from 1995 to 2000. During his tenure, he played a crucial role in managing the organization’s policies and navigating the complexities of global oil markets. His leadership is often noted for its contributions to stabilizing oil production levels and addressing the challenges faced by member countries.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1198,
+    "question": "Removal by impeachment applies to the position of a",
+    "option": {
+      "a": "president",
+      "b": "chief judge",
+      "c": "prime minister",
+      "d": "cabinet minister"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Removal by impeachment applies to the position of a president.\n\nImpeachment means the process by which the chief executive is removed from office by the parliament.",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 1200,
@@ -5244,6 +6524,22 @@
     "image": "",
     "answer": "d",
     "solution": "Associations whose main interest is to influence public policy without having to capture power are pressure groups.\n\nPressure groups are defined as association of people who seek to influence government actions and policies to the benefit of their members.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1209,
+    "question": "Socialism is a mode of production based on",
+    "option": {
+      "a": " state state ownership of the means of production",
+      "b": "collective ownership of the means of production",
+      "c": "national ownership of the means of productions",
+      "d": "mixed ownership of means of production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Socialism is primarily defined by the principle that the means of production—such as factories, resources, and infrastructure—are owned collectively by the community rather than by private individuals. This collective or communal ownership is intended to ensure that production and the benefits derived from it serve the common good, rather than generating profit for private owners. While many socialist states have implemented state ownership as a means of achieving collective control, the core concept remains the collective (or community) ownership of production resources.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -5360,6 +6656,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1226,
+    "question": "The military Head of State during the Third Republic was",
+    "option": {
+      "a": "General Olusegun Obasanjo",
+      "b": "General Ibrahim Babangida",
+      "c": "General Murtala Muhammed",
+      "d": "General Sani Abacha"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The military Head of State during the Third Republic was General Ibrahim Babangida.\n\nThe regime established two political parties, NRC and SDP. All the states had elected governors as well as state legislators. Every local government in the country was also run by elected chairmen and Councillors. That was the time Ibrahim Babangida took up the name ''Mr President.''",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1227,
     "question": "In the First Republic,politics in the Northern region was dominated by the",
     "option": {
@@ -5408,6 +6720,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1234,
+    "question": "Nigeria's high standing in the UN General Assembly is underscored by her",
+    "option": {
+      "a": "military strenght",
+      "b": "successes in UN elective offices",
+      "c": "contribution to global peace",
+      "d": "financial contributions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nigeria's high standing in the UN General Assembly is underscored by the contributions to global peace.\n\nNigeria has been contributing much financially, morally, etc, to the liberation movements which is one of the main principles of the United Nations Organization. For instance, Michael Olisa et el (1991) pointed out that the prominent role which Nigeria played in the United Nations from the 1970s brought about its permanent representation in the UN. In addition, Leslie Harriman was appointed the chairman of the special committee against apartheid.\n\nNigeria has also played prominent and satisfactory roles in conflict resolution.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1237,
     "question": "The majority of the OPEC members are from",
     "option": {
@@ -5436,6 +6764,22 @@
     "image": "",
     "answer": "d",
     "solution": "The five permanent members of the UN Security Council, established after World War II, are the United States, Russia (originally the Soviet Union), France, the United Kingdom (Britain), and China. These nations hold veto power over substantive resolutions.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1249,
+    "question": "Nigeria's relation with black political communities outside Africa is built on",
+    "option": {
+      "a": "shared political aspirations",
+      "b": "expectations of political support from them",
+      "c": "economic considerations",
+      "d": "percieved cultural affinities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "This reflects the idea that Nigeria's diplomatic and political connections with black communities outside of Africa are often based on a sense of shared cultural heritage, history, and identity.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -5568,6 +6912,70 @@
     "examyear": "2005"
   },
   {
+    "id": 1296,
+    "question": "Nigeria is rated in the Organization of Petroleum Exporting Countries as the",
+    "option": {
+      "a": "seventh largest oil producer",
+      "b": "sixth largest oil producer",
+      "c": "third largest oil producer",
+      "d": "fifth largest oil producer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Nigeria is rated in the Organization of Petroleum Exporting Countries as the sixth largest oil producer",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1297,
+    "question": "The Nigerian-Cameroon crisis over the Bakassi Peninsula occurred owing to the interpretation of the treaty of 1913 and the",
+    "option": {
+      "a": "resolution of the OAU",
+      "b": "Maroua Accord",
+      "c": "decision of the ECOWAS Tribunal",
+      "d": "decision of the International Court of Justice"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Nigerian-Cameroon crisis over the Bakassi Peninsula occurred owing to the interpretation of the treaty of 1913 and the decision of the International Court of Justice",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1298,
+    "question": "A major achievement of the OAU was the",
+    "option": {
+      "a": "eradication of poverty",
+      "b": "establishment of democracy in Africa",
+      "c": "decolonization of Africa",
+      "d": "promotion of development"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Organization of African Unity (OAU), founded in 1963, achieved its most significant success in advancing the decolonization of Africa",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1302,
+    "question": "A Security Council resolution requires the concurrence of",
+    "option": {
+      "a": "1 of the 5 permanent members",
+      "b": "all of the 5 permanent members",
+      "c": "9 of the 15 council members",
+      "d": " 3 of the 5 permanent members"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In the United Nations Security Council (UNSC), a resolution requires the approval of at least 9 out of the 15 council members including the concurring votes of all 5 permanent members (United States, United Kingdom, China, Russia, and France). This means that while 9 votes are necessary, a single veto from any of the 5 permanent members can block the resolution.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1304,
     "question": "The atomic bomb tests carried out around the Sahara Desert made Nigeria sever relations with",
     "option": {
@@ -5580,6 +6988,38 @@
     "image": "",
     "answer": "b",
     "solution": "The atomic bomb tests carried out around the Sahara Desert made Nigeria sever relations with France",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1307,
+    "question": "The political party formed in 1923 by Herbert Macaulay was",
+    "option": {
+      "a": "Nigerian Youth Movement",
+      "b": "National Council of Nigeria and the Cameroons",
+      "c": " United National Independent Party",
+      "d": "Nigerian National Democratic Party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Herbert Macaulay, regarded as the father of Nigerian nationalism, founded the Nigerian National Democratic Party (NNDP) in 1923. It was the first political party in Nigeria and aimed to advocate for Nigerian interests under British colonial rule",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1308,
+    "question": "The first federal constitution in Nigeria was the",
+    "option": {
+      "a": "Lyttelton Constitution",
+      "b": "Independence Constitution",
+      "c": "Macpherson Constitution",
+      "d": "Clifford Constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Lyttleton Constitution of 1954 was Nigeria’s first federal constitution, establishing a semi-federal system with shared powers between the central government and three regions (Northern, Western, and Eastern). ",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -5612,6 +7052,38 @@
     "image": "",
     "answer": "c",
     "solution": "The appointment of ministers and ambassadors must be ratified by the Senate Under the 1999 Constitution, While the President is responsible for the appointment or nomination.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1317,
+    "question": "The legislative in Nigeria under the 1999 Constitution is composed of",
+    "option": {
+      "a": "108 senators and 350 members of the House of Representatives",
+      "b": "109 senators and 350 members of the House of Representatives",
+      "c": "100 senators and 250 members of the House of Representatives",
+      "d": "109 senators and 360 members of the House of Representatives"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Under the 1999 constitution the legislature in Nigeria is composed of 109 Senators and 360 Members of House of Representatives. Each of the 36 states of the federation has 3 Senators which comes from the capital territory, Abuja. In the House of Representatives, the 360 members represent the 360 constituencies across the federation.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1318,
+    "question": "The pre-colonial Tiv society can best be described as",
+    "option": {
+      "a": "republican",
+      "b": "aristocratic",
+      "c": "feudalism",
+      "d": "monarchical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The pre-colonial Tiv society was republican in structure, characterized by a decentralized, egalitarian system without centralized monarchy (D) or hereditary aristocracy (B).",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -5710,6 +7182,54 @@
     "solution": "During the Second Republic, the Great Nigerian People's Party won the governorship election in Borno and Gongola States",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 1342,
+    "question": "In the present local government structure ,traditional rulers play",
+    "option": {
+      "a": "an advisory role",
+      "b": "an executive role",
+      "c": "a judicial role",
+      "d": "a legislative role"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The traditional rulers play advisory role in the present local government structure.\n\nSince the 1976 local government reform, the traditional rulers have maintained the position of advicers to local government councils. And this is mostly on traditional matters.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1349,
+    "question": "A key characteristics of the civil service is",
+    "option": {
+      "a": "transparency",
+      "b": "patriotism",
+      "c": "merit system",
+      "d": "quota system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A key characteristic of the civil service is Merit System.\n\nRecruitment into the Civil Service should be based on merit and not on quota or favouritism.\n\nThis is to enable the Civil Servants to perform their functions very well and then ensure the success of the government.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1353,
+    "question": "A characteristic of a fascist state is the existence of a",
+    "option": {
+      "a": " zero-party system",
+      "b": "two-party system",
+      "c": " one-party system",
+      "d": "multi-party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A characteristic of a fascist state is the existence of a zero-party system.\n\nIf party were to exist, it must be only one party and there must be no political opposition",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 1357,
@@ -5968,6 +7488,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1411,
+    "question": "Counter-trade was introduced by the government led by",
+    "option": {
+      "a": " Abdusalami Abubakar",
+      "b": " Olusegun Obasanjo",
+      "c": "Muhammadu Buhari",
+      "d": " Ibrahim Babangida"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Counter-trade was introduced by the government led by Ibrahim Babangida",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1417,
     "question": "An advantage of flexible constitution is that it allows for",
     "option": {
@@ -6012,6 +7548,22 @@
     "image": "",
     "answer": "a",
     "solution": "Prorogation is the bringing of a session of a parliament to an end through royal proclamation. It is termination of a session of the legislature after a period of one year. The president gives his speech after a year before the house resumes. That is after the long vacation.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1423,
+    "question": "In a cabinet system, the legislature comprises of the",
+    "option": {
+      "a": "prime minister and members of the parliament",
+      "b": " prime minister and members of the jury",
+      "c": "prime minister and ministers",
+      "d": " president and ministers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In a cabinet system, the legislature comprises the prime minister and members of the parliament.\n\nOne of the characteristics of cabinet system of government is that the Prime Minister and all cabinet ministers are also members of the parliament or legislature.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -6064,6 +7616,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1431,
+    "question": "Which of the following is a duty of an electoral commission",
+    "option": {
+      "a": "Registeration of political parties",
+      "b": "Creation of political parties",
+      "c": " Establishment of electoral tribunals",
+      "d": "inauguration of the parliament"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A core duty of an electoral commission is the registration of political parties to ensure they meet legal criteria (e.g., membership size, ideological compliance) for participating in elections. This process validates parties as legitimate contenders and maintains electoral integrity.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1433,
     "question": "Fascism as an ideology facilitates",
     "option": {
@@ -6096,6 +7664,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1435,
+    "question": "The executive checks the excesses of the legislature through",
+    "option": {
+      "a": "assent to bills",
+      "b": "the use of veto power",
+      "c": " the ratification of treaties",
+      "d": " issuance of orders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The executive checks the excesses of the legislature through the use of veto power. The power to veto certain acts of parliament granted to the Executive. President will always make the legislators to sit up.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1437,
     "question": "Citizenship of a state by descent requires that",
     "option": {
@@ -6108,6 +7692,22 @@
     "image": "",
     "answer": "c",
     "solution": "Citizenship of a state by decent requires that one's grandparents were citizens of that state. A child born to a Nigerian couple in the United States of America is a Nigerian citizen by descent because his parents are Nigerians.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1442,
+    "question": "Nigeria's membership of the UN complements her foreign policy in the area of",
+    "option": {
+      "a": " bilateral diplomacy",
+      "b": "regional diplomacy",
+      "c": "sub-regional diplomacy",
+      "d": "multilateral diplomacy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nigeria's membership of the UN complements her foreign policy in the area of multilateral diplomacy.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -6288,6 +7888,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1465,
+    "question": "The Igbo political system was based on",
+    "option": {
+      "a": "Age Grades",
+      "b": "Umunna",
+      "c": "Family ties",
+      "d": "Umuada"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Igbo pre-colonial political system was fundamentally decentralized and based on kinship structures, with the Umunna serving as the primary unit of political organization. The Umunna refers to a patrilineal kinship group or extended family unit, consisting of individuals who share a common male ancestor. Each Umunna was led by the eldest male, known as the Diokpala, who, along with other elders, played a significant role in decision-making and governance within the community. This structure ensured that authority was distributed among various family heads, fostering a republican and egalitarian society",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1468,
     "question": "A typical form of delegated legislation is",
     "option": {
@@ -6304,6 +7920,38 @@
     "examyear": "2015"
   },
   {
+    "id": 1472,
+    "question": "In the Oyo traditional political system, the Alafin of Oyo was elected or chosen by a group known as",
+    "option": {
+      "a": "Oyo Mesi",
+      "b": "Bales",
+      "c": "Obas",
+      "d": "Ogboni"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In the Oyo Empire’s traditional political system, the Oyo Mesi (a council of seven high-ranking chiefs) held the authority to elect or depose the Alafin. This council ensured checks and balances by selecting a new Alafin from the royal lineage and overseeing his governance.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1473,
+    "question": "A good example of a country with a largely unwritten constitution is",
+    "option": {
+      "a": "the United States of America",
+      "b": "The Soviet Union",
+      "c": "Nigeria",
+      "d": "United Kingdom"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The United Kingdom operates under an uncodified constitution, often referred to as an \"unwritten\" constitution. This means that, unlike countries with a single, consolidated constitutional document, the UK's constitutional framework is derived from multiple sources, including statutes, common law, conventions, and historical documents. While many elements are written, they are not compiled into a single document, distinguishing the UK from nations with codified constitutions",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1474,
     "question": "Before Nigeria became a republic, the highest body charged with the administration of justice was the",
     "option": {
@@ -6316,6 +7964,22 @@
     "image": "",
     "answer": "c",
     "solution": "Before Nigeria became a republic in 1963, the highest judicial authority was the Judicial Committee of the Privy Council in the United Kingdom. During this period, decisions from Nigeria's Federal Supreme Court could be appealed to the Privy Council, which served as the final court of appeal for British colonies and certain Commonwealth countries",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1475,
+    "question": "The Independent National Electoral Commission has the power to prepare and maintain the register of",
+    "option": {
+      "a": "electoral candidates",
+      "b": "voters",
+      "c": " political parties",
+      "d": "constituencies"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Independent National Electoral Commission (INEC) of Nigeria is constitutionally mandated to conduct the registration of eligible voters and to prepare, maintain, and revise the register of voters. This function ensures that all qualified citizens are accurately documented and able to participate in elections.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -6348,6 +8012,38 @@
     "image": "",
     "answer": "c",
     "solution": "The Mid-Western Region was created in Nigeria on August 9, 1963. It was established as a result of the 1962 census and was the first new region to be created in Nigeria after independence. This change was part of a broader effort to accommodate Nigeria's diverse ethnic and cultural groups in the federal structure.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1482,
+    "question": "A form of oligarchy in which gifted people are at the helm of affairs is",
+    "option": {
+      "a": "aristocracy",
+      "b": "theocracy",
+      "c": "plutocracy",
+      "d": "gerontocracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Aristocracy refers to a form of government in which power is held by a small, privileged ruling class, typically consisting of individuals who are considered \"gifted\" or of noble birth. Aristocrats often possess superior social, economic or educational status and are believed to have the qualities necessary to govern effectively.\n\nTheocracy is a form of government in which religious leaders control the government, claiming to be ruling on behalf of a deity. Plutocracy is a system of government where the wealthy class has significant power and influence over political decisions. Gerontocracy is a system where older individuals hold power, often based on age rather than merit or ability.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1483,
+    "question": "One of the principal objectives of the OPEC is to",
+    "option": {
+      "a": "determine oil prices in the international market",
+      "b": "harmonise the oil policies of member countries",
+      "c": "discipline erring oil-producing countries",
+      "d": "assist non-oil producing developing states"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "One of the principal objectives of the Organisation of the Petroleum Exporting Countries (OPEC) is to harmonise and coordinate the oil production policies of its member countries. This coordination helps to stabilise oil markets and ensure fair and stable prices for petroleum producers while securing a reliable supply for consumers. While OPEC does have some influence over oil prices in the international market (option A), its primary focus is on aligning the policies of its member states to achieve mutual benefits rather than directly setting prices",
     "examtype": "utme",
     "examyear": "2015"
   },

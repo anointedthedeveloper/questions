@@ -96,6 +96,22 @@
     "examyear": "2007"
   },
   {
+    "id": 26,
+    "question": "How long will take a sum of money invested at 8% simple interest to double the original sum? ",
+    "option": {
+      "a": "8 years  ",
+      "b": "10.5years  ",
+      "c": "(1years ",
+      "d": "12.5years"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 29,
     "question": "If x= 0.0012 + 0.00074 + 0.003174, what is the difference between x to 2 decimal places and x to 1 significant figure? ",
     "option": {
@@ -876,6 +892,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700796/ALOC-Questions/Mathematics/2004/math_2004_q39_uuly9k.jpg",
     "answer": "d",
     "solution": "The shaded portion shows the elements in Q and R, but not in P, Q n R n P'",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 311,
+    "question": "Simplify 1/√3+2\n in the form a+b√3",
+    "option": {
+      "a": "2 -√3",
+      "b": "-2 - √3",
+      "c": "2 + √3",
+      "d": "-2 + √3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "1/(√3+2)  1/(√3+2)=1/(√3+2)×(√3-2)/(√3-2)=(√3-2)/((√3 )^2-2^2 )=(√3-2)/(3-4)=(√3-2)/1=-√3+2=2-√3",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -1916,6 +1948,22 @@
     "image": "",
     "answer": "d",
     "solution": "log<sub>10</sub> 4 = 0.6021, evaluate log<sub>10</sub> 4<sup>1/3</sup>\n\n= 1/3 x 0.6021\n\n= 0.2007",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 782,
+    "question": "If r varies inversely as the square root of s and t, how does s vary with r and t?",
+    "option": {
+      "a": " s varies inversely as r and t<sup>2</sup>",
+      "b": "s varies inverely as r<sup>2</sup> and t",
+      "c": "s varies directly as r<sup>2</sup> and t<sup>2</sup>",
+      "d": "s varies directly as r and t"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "r ∝ 1/√s, r ∝ 1/√t\n \n\nr ∝ 1/√s ..... (1)\n\nr ∝ 1/√t ..... (2)\n\nCombining (1) and (2), we get\n\nr = k/(√s × √t) = k/√(st)\n\n\nThis gives √(st) = k/r\n\n\nBy taking the square of both sides, we get\n\nst = k<sup>2</sup>/r<sup>2</sup>\n\n\ns = k<sup>2</sup>/r<sup>2</sup>t",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -3356,6 +3404,22 @@
     "image": "",
     "answer": "d",
     "solution": "Let the extension be E and the tension be T.\n\nThen E∝T\nE=kT\nwhen T = 8N, E = 2cm\n\n2=k × 8\nk = 2/8 = 0.25\n∴ E = 0.25T\nwhen T = 12N, E = 0.25 × 12 =3 cm",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1255,
+    "question": "Factorize x<sup>2</sup> −2x−15",
+    "option": {
+      "a": "(x + 3)<sup>2</sup> ",
+      "b": " (x + 5)(x − 3)",
+      "c": " (x − 5)<sup>2</sup> ",
+      "d": " (x − 5)(x + 3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x2<sup>2</sup>  − 2x − 15\n\n(x<sup>2</sup>  − 5x) + (3x − 15)\n\nx(x − 5)+ 3(x − 5)\n\n(x − 5)(x + 3)",
     "examtype": "utme",
     "examyear": "2015"
   },

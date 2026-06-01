@@ -2688,6 +2688,22 @@
     "examyear": "2009"
   },
   {
+    "id": 856,
+    "question": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal, its velocity ratio will be?",
+    "option": {
+      "a": "3.0",
+      "b": "3.1",
+      "c": "3.2",
+      "d": "2.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nInclined plane angle, θ = 30°\n\nSolution:\n\nStep 1: Velocity ratio for an inclined plane\nFor an inclined plane, when the effort is applied parallel to the plane, the velocity ratio (VR) is the ratio of the distance moved by the effort (length of the incline, L) to the distance moved by the load (vertical height, h).\nVR = L / h = 1 / sin θ\n\nStep 2: Calculate sin 30°\nsin 30° = 0.5\n\nStep 3: Compute VR\nVR = 1 / 0.5 = 2.0",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 859,
     "question": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is?",
     "option": {
@@ -2748,6 +2764,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given wave equation:\ny = 10sin(1000πt - πx/34)\nStandard form:\ny = A sin(ωt - kx)\nComparing:\n\nAmplitude (A) = 10\nAngular frequency (ω) = 1000π\nWave number (k) = π/34\n\nStep 1: Calculate wavelength\nk = 2π/λ\nπ/34 = 2π/λ\nλ = 2π × 34/π = 68 cm\nStep 2: Calculate phase difference for separation of 153 cm\nPhase difference formula:\nΔφ = 2π × (distance/wavelength)\nΔφ = 2π × (153/68)\nΔφ = 2π × 2.25\nΔφ = 4.5π radians\nStep 3: Convert to degrees\nΔφ = 4.5π × (180°/π)\nΔφ = 4.5 × 180°\nΔφ = 810°\nStep 4: Reduce to equivalent angle (0° to 360°)\n810° = 2 × 360° + 90°\nEquivalent phase difference = 90°",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 897,
+    "question": "which of the diagrams above shows the position at which a small ball-bearing is in neutral equilibrium?",
+    "option": {
+      "a": "A",
+      "b": "B",
+      "c": "C",
+      "d": "D"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774433406/ALOC-Questions/Physics/2009/PHYSICS_2009_Q_48_pdak2b.png",
+    "answer": "d",
+    "solution": "Neutral Equilibrium: If the body neither returns to its original position nor increases its displacement further, it will simply adopt its new position.\n\nExamples of neutral equilibrium\n\nBall moving on the ground.\nMotion of sphere.\nA roller.\nA pencil lying horizontally.\nAn egg lying horizontally on a flat surface.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -3136,6 +3168,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1022,
+    "question": "The characteristic of a vibration that determines its intensity is the",
+    "option": {
+      "a": "Frequency",
+      "b": "Overtone",
+      "c": "Wavelength",
+      "d": "Amplitude"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The higher the amplitude of sound the larger the loudness of sound and the lower the amplitude of sound waves the softer the loudness of sound by this we get to know that the amplitude of a sound wave decides the loudness of sound or we can call it the intensity of sound.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1024,
     "question": "A pinhole camera is placed 300 m in front of a building so that the image is formed on a screen 5 cm from the pinhole. If the image is 2.5 cm high, the height of the building will be",
     "option": {
@@ -3196,6 +3244,22 @@
     "image": "",
     "answer": "c",
     "solution": "The fuse in an electric device is always connected to the live side of an electric supply to ensure that when the fuse blows due to overcurrent, the dangerous high-voltage supply is completely disconnected from the appliance, making it safe.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1033,
+    "question": "A particle carrying a charge of 1.0 × 10⁻⁸ C enters a magnetic field at 3.0 × 10⁻² ms⁻¹ at right angles to the field. If the force on this particle is 1.8 × 10⁻⁸ N, what is the magnitude of the field?",
+    "option": {
+      "a": " 6.0 × 10⁻¹ T",
+      "b": "6.0 × 10¹ T",
+      "c": " 6.0 × 10⁻³ T",
+      "d": "6.0 × 10⁻⁴ T"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nCharge (q) = 1.0 × 10⁻⁸ C\nVelocity (v) = 3.0 × 10⁻² m/s\nAngle (θ) = 90° (right angles to field)\nForce (F) = 1.8 × 10⁻⁸ N\nMagnetic field strength (B) = ?\n\nFormula for magnetic force on a moving charge:\nF = qvB sin θ\nSince θ = 90°, sin 90° = 1:\nF = qvB\nRearranging for B:\nB = F/(qv)\nSubstituting values:\nB = (1.8 × 10⁻⁸)/(1.0 × 10⁻⁸ × 3.0 × 10⁻²)\nB = (1.8 × 10⁻⁸)/(3.0 × 10⁻¹⁰)\nB = 1.8/3.0 × 10⁻⁸⁺¹⁰\nB = 0.6 × 10²\nB = 6.0 × 10¹ T\nB = 60 T",
     "examtype": "utme",
     "examyear": "2012"
   },

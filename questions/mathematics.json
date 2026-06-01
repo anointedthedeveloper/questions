@@ -1,0 +1,82 @@
+[
+  {
+    "id": 337,
+    "question": "If the 7th term of an AP is twice the third term and the sum of the first four terms is 42, find the common difference.",
+    "option": {
+      "a": "6",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "U7 = a + (7 - 1)d\n= a + 6d\nU3 = a + (3 - 1)d\n= a + 2d\nBut U7 = 2(U3)\n∴a + 6d = 2(a + 2d)\na + 6d = 2a + 4d\n2a - a + 4d - 6d = 0\na - 2d = 0 → eqn1\nSn = n/2 (2a + (n - 1)d)\n42 = 4/2 (2a + (4 - 1)d)\n42 = 2(2a + 3d)\n21 = 2a + 3d → eqn2\neqn1 * eqn2 0 = 2a - 4d\n21 = 7d\n∴d = 21/7\nd = 3",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1087,
+    "question": "If g(x) = x2<sup>2</sup> + 3x  find g(x + 1) - g(x)",
+    "option": {
+      "a": "(x + 2)",
+      "b": "2(x + 2)",
+      "c": " (2x + 1)",
+      "d": " (x<sup>2</sup> + 4)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "g(x) = x<sup>2</sup> + 3x\n\nWhen g(x + 1) = (x + 1)<sup>2</sup> + 3(x + 1) \n\n= x<sup>2</sup> + 1 + 2x + 3x + 3 \n\n= x<sup>2</sup> + 5x + 4\n\ng(x + 1) - g(x) = x<sup>2</sup> + 5x + 8 - (x<sup>2</sup> + 3x)\n\n= x<sup>2</sup> + 5x + 4 - x<sup>2</sup> -3x \n\n= 2x + 4 or 2(x + 4)\n\n= 2(x + 2)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 799,
+    "question": "What is the probability that an integer x (1≤x≤25)\n chosen at random is divisible by both 2 and 3?",
+    "option": {
+      "a": "1/25",
+      "b": "1/5",
+      "c": "4/25",
+      "d": "3/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(1 ≤ x ≤ 25)  = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25}\n\nNumber N of x divisible by both 2 and 3 is 4.\n\nn(ε) = 25\n\n= N/n(ε)\n\n= 4/25",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 961,
+    "question": "What is the loci of a distance 4cm from a given point P?",
+    "option": {
+      "a": "A straight line of length 4cm",
+      "b": " a circle of radius 4cm",
+      "c": " perpendicular to point P at 4cm",
+      "d": "a circle of diameter 4cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Locus is the path traced at by a point which moves in accordance with a certain law. It is also the set of all possible position occupied by an object The path traced from all possible location of 4cm from a given point P form a circle of radius 4cm with centre P.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 1124,
+    "question": "The coordinates of the mid-point of the line joining the points (-3,5) and (2,10) is given by? ",
+    "option": {
+      "a": "( 1/2, 15/2)",
+      "b": " ( 1/2, −15/2)",
+      "c": " ( −1/2, −15/2)",
+      "d": " ( −1/2, 15/2)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given Data: x<sub>1</sub> = -3,  x<sub>2</sub> = 2,y<sub>1</sub>  = 5,  y<sub>2</sub> = 10\n\ncoordinates of the mid-point of the line = (x<sub>1</sub>+x<sub>2</sub> /2, y<sub>1</sub>+y<sub>2</sub> /2)\n\n(−3+2/2, 5+10/2)\n\n=  −1/2) , 15/2)",
+    "examtype": "utme",
+    "examyear": "2022"
+  }
+]

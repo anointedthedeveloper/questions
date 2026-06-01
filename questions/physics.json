@@ -1,0 +1,82 @@
+[
+  {
+    "id": 725,
+    "question": "The process through which free electrons leave the surface of hot metal is known as?",
+    "option": {
+      "a": "photon emission",
+      "b": "photo emission",
+      "c": "thermionic emission",
+      "d": " electron emission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Thermionic emission occurs when heat provides sufficient energy to electrons in a metal to overcome the work function, allowing them to escape from the surface.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 323,
+    "question": "The force between the molecules of a liquid in contact with that of a solid is?",
+    "option": {
+      "a": "Adhesive",
+      "b": "Cohesive",
+      "c": "Magnetic",
+      "d": "Repulsive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The force between molecules of a liquid in contact with molecules of a solid is adhesive force - the attraction between molecules of different substances.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 451,
+    "question": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss (specific heat capacity of copper = 400 Jkg⁻¹K⁻¹, latent heat of fusion of ice = 3.3 × 10⁵ Jkg⁻¹)",
+    "option": {
+      "a": "8/33 kg",
+      "b": "3.380 kg",
+      "c": "80/33 kg",
+      "d": "3.38 kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of copper (m_c) = 2 kg\nTemperature change (ΔT) = 100 - 0 = 100°C\nSpecific heat capacity of copper (c) = 400 J/(kg·K)\nLatent heat of fusion of ice (L_f) = 3.3 × 10⁵ J/kg\nMass of ice melted (m) = ?\n\nEnergy conservation:\nHeat lost by copper = Heat gained by ice melting\nm_c × c × ΔT = m × L_f\nSubstituting values:\n2 × 400 × 100 = m × (3.3 × 10⁵)\n80,000 = m × 330,000\nSolving for m:\nm = 80,000 / 330,000\nm = 80/330\nm = 8/33 kg\nConverting to decimal:\nm = 8/33 ≈ 0.242 kg",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 852,
+    "question": "A bullet fired vertically upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0 s. Calculate its initial velocity. [g = 10 m s⁻²]",
+    "option": {
+      "a": "10 m s⁻¹",
+      "b": "8 m s⁻¹",
+      "c": "40 m s⁻¹",
+      "d": "20 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nTime to reach maximum height, t = 4.0 s\nAcceleration due to gravity, g = 10 m s⁻²\nInitial height above ground = 2.0 m (not needed for initial velocity calculation)\n\nSolution:\n\nStep 1: Relation at maximum height\nAt maximum height, final velocity v = 0. Using first equation of motion:\nv = u – gt\n0 = u – 10 × 4\n\nStep 2: Solve for initial velocity u\nu = 40 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 124,
+    "question": "A coin is at the bottom of a bucket filled with a liquid whose refractive index is 1.35. The coin appears to be 12.0cm below the surface of the liquid. Calculate the depth of the liquid.",
+    "option": {
+      "a": "16.2cm  ",
+      "b": "13.4cm  ",
+      "c": "8.9cm  ",
+      "d": "5.4cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  }
+]

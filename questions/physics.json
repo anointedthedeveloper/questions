@@ -12304,6 +12304,22 @@
     "examyear": "2007"
   },
   {
+    "id": 795,
+    "question": "Two long parallel wires X and Y carry currents 3A and 5A each. If the force experienced by unit length is 5 × 10⁻⁵N, the force per unit length experienced by wire Y is",
+    "option": {
+      "a": "3 × 10⁻⁵ N/m",
+      "b": "3 × 10⁻⁶ N/m",
+      "c": "5 × 10⁵ N/m",
+      "d": "5 × 10⁻⁵ N/m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nForce per unit length experienced = 5 × 10⁻⁵ N/m\n\nSince the forces are equal and opposite (Newton's Third Law):\n\nForce per unit length on wire X = 5 × 10⁻⁵ N/m\nForce per unit length on wire Y = 5 × 10⁻⁵ N/m",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 796,
     "question": "Lenz's law is a law of conservation of",
     "option": {

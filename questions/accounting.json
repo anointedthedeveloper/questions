@@ -48,6 +48,38 @@
     "examyear": "2013"
   },
   {
+    "id": 96,
+    "question": "The accumulated fund of a not-for-profit making organization is",
+    "option": {
+      "a": "a fixed asset.",
+      "b": "a current asset.",
+      "c": "a liability.",
+      "d": "capital."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 261,
+    "question": "Which of the following is not a source document?",
+    "option": {
+      "a": "Journal proper",
+      "b": "Sales invoice",
+      "c": "Debit note",
+      "d": "Credit note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 308,
     "question": "Goods returned to a supplier is",
     "option": {
@@ -94,6 +126,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
+  },
+  {
+    "id": 419,
+    "question": "A rapidly growing business organization with multiple units that is interested in comparing the performances and weaknesses of each unit should adopt.",
+    "option": {
+      "a": "manufacturing accounts",
+      "b": "consolidated accounts",
+      "c": "departmental accounts",
+      "d": "joint venture accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 512,
@@ -302,6 +350,22 @@
     "solution": "Stock movement formula:\nCost of Goods Sold = Opening Stock + Goods Sent to Branch - Returns to Head Office - Closing Stock\nCalculation:\n\nOpening Stock (1st Jan): ₦400\nAdd: Goods sent to branch: ₦8,000\nLess: Returns to head office: ₦340\nLess: Closing Stock (31st Dec): ₦720\n\nCost of Goods Sold = ₦400 + ₦8,000 - ₦340 - ₦720 = ₦7,340\nThe cost of goods sold by Ede branch is ₦7,340.",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 895,
+    "question": "From the following information: Stock on Jan 1 is ₦2,600, Purchases amount to ₦4,000, Carriage inwards is ₦500, Sales total ₦9,000, and Carriage outwards is ₦500. Determine the net profit.",
+    "option": {
+      "a": "₦4,000",
+      "b": "₦4,500",
+      "c": " ₦5,000",
+      "d": "₦1,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "COGS = Opening Stock + Purchases + Carriage Inwards\n= ₦2,600 + ₦4,000 + ₦500\n= ₦7,100\n\nGross Profit = Sales – COGS\n= ₦9,000 – ₦7,100\n= ₦1,900\n\nNet Profit = Gross Profit – Carriage Outwards\n= ₦1,900 – ₦500\n= ₦1,400",
+    "examtype": "utme",
+    "examyear": "2023"
   },
   {
     "id": 912,
@@ -558,5 +622,21 @@
     "solution": "The National Loan Fund serves as the central channel for all government borrowing and domestic lending transactions, ensuring that loans raised and lent by the government are properly accounted for in one consolidated fund.",
     "examtype": "utme",
     "examyear": "2000"
+  },
+  {
+    "id": 1438,
+    "question": "which of the following conditions best represents the net effect of discount allowed on credit sales on the accounts of the business?",
+    "option": {
+      "a": "decrease in the closing balance of sales ledger control accout",
+      "b": "increase in net profit",
+      "c": "increase in the value of sales",
+      "d": "decrease in the value of purchases in the trading account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Discount allowed is a reduction granted to customers for early payment. It:\n\nReduces the amount receivable from debtors (hence reduces the balance of the sales ledger control account).\n\nIt does not increase net profit (it actually reduces it),\n\nIt does not affect the value of sales,\n\nIt has nothing to do with purchases",
+    "examtype": "utme",
+    "examyear": "1997"
   }
 ]

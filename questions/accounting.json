@@ -352,6 +352,22 @@
     "examyear": "1997"
   },
   {
+    "id": 190,
+    "question": "The mark-up is",
+    "option": {
+      "a": "N  15,000",
+      "b": "N 9,000",
+      "c": "N  4,000",
+      "d": "N  3,000"
+    },
+    "section": "A company charges out goods to a branch at cost plus 25 percent.  It invoiced  N 12,000 worth of goods",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 208,
     "question": "The purchase consideration was",
     "option": {
@@ -1532,6 +1548,22 @@
     "image": "",
     "answer": "b",
     "solution": "cost price method is used to enhance quick sales",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 704,
+    "question": "Departmentalization of accounts is useful because it shows the____________",
+    "option": {
+      "a": "Over all performance of a division",
+      "b": "Cost per unit of a profit",
+      "c": "Price per unit of a product",
+      "d": " Over all performance of a firm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Departmental accounting is prepared to ensure that the results of each individual department is known",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -2800,6 +2832,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1195,
+    "question": "Given that 1/3 of the ₦6000 stock held by a branch is purchased from outsiders. If goods are invoiced to branch at 25% on cost, the provision for unrealized profit is?",
+    "option": {
+      "a": "₦1000.00",
+      "b": "₦333.33",
+      "c": "₦666.66",
+      "d": "₦800.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Stock purchased from head office\nTotal stock = ₦6,000\n1/3 purchased from outsiders → 2/3 purchased from head office.\nFrom head office = (2/3) × ₦6,000 = ₦4,000.\n\nStep 2: Find loading (profit) included\nGoods invoiced at 25% on cost means the profit margin is 25% of cost.\nProfit fraction on selling price = 25 / (100 + 25) = 25/125 = 1/5.\n\nSo, unrealised profit in goods from head office = ₦4,000 × (1/5) = ₦800.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1198,
     "question": "A company operating a chain of retail provision stores invoices goods to the branches at cost plus a mark-up of 25%. What is the mark-up percentage on selling price?",
     "option": {
@@ -3132,6 +3180,22 @@
     "image": "",
     "answer": "a",
     "solution": "The purchaser records the total purchase price in a \"Business Purchase Account\" or similar account, which is then analyzed and allocated to individual assets and goodwill.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1364,
+    "question": "Which of the following account is kept by local governments in Nigeria?",
+    "option": {
+      "a": "Balance sheet",
+      "b": " Advances account",
+      "c": "Debtors account",
+      "d": "Profit account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Local governments in Nigeria maintain Advances Accounts (for tracking loans and advances made to staff and other parties). They do not operate for profit (so no profit account), nor do they typically prepare a commercial-style debtors ledger. While they do prepare statements of assets and liabilities, it isn’t called a “Balance Sheet” in the corporate sense.",
     "examtype": "utme",
     "examyear": "1999"
   },

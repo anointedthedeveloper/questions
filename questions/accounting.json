@@ -112,6 +112,22 @@
     "examyear": "2013"
   },
   {
+    "id": 124,
+    "question": "Which of the following is not part of prime costof production?",
+    "option": {
+      "a": "Depreciation of factory equipment",
+      "b": "Direct expenses",
+      "c": "Direct wages",
+      "d": "Carriage on raw materials"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 141,
     "question": "An organization which has records of only personal accounts is said to be operating on the basis of",
     "option": {
@@ -460,6 +476,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Major Difference Of The Financial Statement between a Sole Proprietorship And Partnership is More than one capital account. The number of capital accounts depends on the number of partners in the Partnership concern. Profit & loss is distributed to the partners' capital account according to the agreed ratio",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 531,
+    "question": "In a bank reconciliation statement, Dishonoured cheques is added to",
+    "option": {
+      "a": "unpresented cheques",
+      "b": "uncredited cheques",
+      "c": "statement of account",
+      "d": " aggregate balanace as per cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dishonoured cheques are those which are refused payment by the bank because they are not in order or there is insufficient fund in the drawer's account.  They are added to uncredited cheques just like standing order and bank charges.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -848,6 +880,22 @@
     "examyear": "2022"
   },
   {
+    "id": 858,
+    "question": "Given the following excerpt from incomplete records—Sales ₦10,600; Rent ₦200; Depreciation on a vehicle (cost ₦5,000) at 10%; and a uniform gross profit margin of 20%—what is the Cost of Goods Sold for the period?",
+    "option": {
+      "a": "₦4,800\n",
+      "b": "₦8,480\n",
+      "c": "₦2,320\n",
+      "d": "₦9,900\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Gross profit = 20% of sales = 0.20 × ₦10,600 = ₦2,120\nCost of Goods Sold = Sales − Gross Profit = ₦10,600 − ₦2,120 = ₦8,480.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 866,
     "question": "Adex Ltd. issues stock to its retail branches at cost price. The following particulars relate to Ede branch: Stock at branch 1st January at cost was ₦400, goods sent to branch at cost during the year was ₦8,000, returns to head office amounted to ₦340, cash sales were ₦9,160, and stock at branch 31st December at cost was ₦720. Calculate the cost of goods sold during the year.",
     "option": {
@@ -974,6 +1022,22 @@
     "solution": "The circumstances giving rise to the ascertainment of goodwill are:\n- admission of a new partner\n- change in profit sharing ratio\n- death or retirement of a partner\n- the business has been purchased\n- dissolution of a business",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 926,
+    "question": "Goods bought on credit are first entered in the",
+    "option": {
+      "a": " cash book",
+      "b": "journal proper",
+      "c": "sales day book",
+      "d": " purchases day book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The purchases day book is a subsidiary book specifically designed to record all credit purchases made by a company. It chronologically logs details like the date, supplier name, invoice number, description of goods, and amount of the purchase. This information is then summarized and posted to the purchases account in the genera ledger at the end of the accounting period.",
+    "examtype": "utme",
+    "examyear": "2024"
   },
   {
     "id": 932,

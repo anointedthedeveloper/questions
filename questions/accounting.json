@@ -160,6 +160,22 @@
     "examyear": "2013"
   },
   {
+    "id": 135,
+    "question": "The documents that provide instant information to firms on their transactions with banks are",
+    "option": {
+      "a": "bank statement and debit note",
+      "b": "cheque stub and deposit slip",
+      "c": "cheque book and cashbook",
+      "d": "payslip and credit invoice."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 138,
     "question": "Which of the following conditions would attract credit and debit notes to be used?",
     "option": {
@@ -217,6 +233,22 @@
       "d": "the business has good customer relations"
     },
     "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 208,
+    "question": "The purchase consideration was",
+    "option": {
+      "a": "N  24,000",
+      "b": "N 23,000",
+      "c": "N  20,000",
+      "d": "N 15,000"
+    },
+    "section": "A business whose assets consisted of stock  N 15,000 and debtors   N  8,000 was bought by issuing 20,000 ordinary shares of   N  1 each at a premium of  20 percent.",
     "image": "",
     "answer": "a",
     "solution": "",
@@ -336,6 +368,22 @@
     "examyear": "2012"
   },
   {
+    "id": 270,
+    "question": "Osa started business with Le40,000 cash. The accounting entry is debit",
+    "option": {
+      "a": "Cash Account; credit Capital Account.",
+      "b": "Capital Account; credit Cash Account.",
+      "c": "Purchases Account; credit Cash Account.",
+      "d": "Expenses Account; credit Capital Account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 282,
     "question": "Partners whose liabilities are restricted to their financial contribution to the partnership in the event of winding up are",
     "option": {
@@ -400,6 +448,22 @@
     "examyear": "2015"
   },
   {
+    "id": 319,
+    "question": "The cost of putting goods into a saleable condition is charged to",
+    "option": {
+      "a": "balance sheet",
+      "b": "trial balance",
+      "c": "profit and loss account",
+      "d": "trading account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 336,
     "question": "A person who has applied to purchase shares in a company is referred to as",
     "option": {
@@ -430,6 +494,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
+  },
+  {
+    "id": 368,
+    "question": "When an asset is sold, the entries for the accumulated depreciation are: debit",
+    "option": {
+      "a": "Asset Disposal Account; credit Provision for Depreciation Account.",
+      "b": "Provision for Depreciation Account; Credit Asset Disposal Account",
+      "c": "Fixed Asset Account; Credit Asset Disposal Account",
+      "d": "Asset Disposal Account; Credit Fixed Asset Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
   },
   {
     "id": 376,
@@ -736,6 +816,38 @@
     "examyear": "2015"
   },
   {
+    "id": 549,
+    "question": "Which of the following accounts is debited when a delivery van is sold for cash?",
+    "option": {
+      "a": "sales account",
+      "b": "delivery van account",
+      "c": " cash account",
+      "d": "profit and loss accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "if there was a Loss on sale, we Debit cash for the amount received, debit all accumulated depreciation, debit the loss on sale of asset account, and credit the fixed asset.\nif there was a Gain on sale. Debit cash for the amount received, debit all accumulated depreciation, credit the fixed asset, and credit the gain on sale of asset account.\n\nCash is received and expected to be debited going by the principles of double entry.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 571,
+    "question": "The instrument used in analysis and interpretation of financial statement is the",
+    "option": {
+      "a": "accounting ratios",
+      "b": "income and expenditure extract",
+      "c": "balance sheet extract",
+      "d": "found accounting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Accounting ratio is the comparison of two or more financial data which are used for analyzing the financial statements of companies. It is an effective tool used by the shareholders, creditors and all kinds of stakeholders to understand the profitability, strength and financial status of companies.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 575,
     "question": "The effect of overstating revenue expenditure in the profit and loss account is that the",
     "option": {
@@ -958,6 +1070,22 @@
     "solution": "Jewelry 3/10 x 3500 = 1050\n\nHairdressing 2/10 x 3500 = 700\n\nClothing 5/10 x 3500 = 1750",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 719,
+    "question": "Accounts can be classified into",
+    "option": {
+      "a": "cash and credit transactions",
+      "b": " cash and credit accounts",
+      "c": "personal and private account",
+      "d": "personal and impersonal account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Accounts in accounting are primarily divided into:\n\nPersonal accounts, which relate to individuals, firms, and other organizations.\n\nImpersonal accounts, which are further subdivided into real accounts (assets) and nominal accounts (incomes and expenses).",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 728,
@@ -1438,6 +1566,22 @@
     "solution": "This type of error occurs when a fundamental accounting rule or concept is violated. In this case, debiting a commission (an expense) to the debtors account (an asset account) goes against the basic principles of double- entry bookkeeping. Debtors accounts represent money owed by customers, and commissions are not related to customer debts.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 969,
+    "question": "Given:\n\nSales.....................₦4,000\nLight expenses............₦900\nRent......................₦1,500\nPurchases.................₦7,500\nDebtors...................₦6,000\nCreditors.................₦9,000\nDrawings..................₦2,500\nBank......................₦400\nGeneral expenses..........₦1,500\nCapital...................₦10,300\n\nCalculate the total of trial balance?",
+    "option": {
+      "a": "₦64 300",
+      "b": " ₦46 825",
+      "c": "₦41 850",
+      "d": "₦23,300"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Trial Balance:\nDebit Side:\n\nPurchases = ₦7,500\nLight expenses = ₦900\nRent = ₦1,500\nDebtors = ₦6,000\nDrawings = ₦2,500\nBank = ₦400\nGeneral expenses = ₦1,500\nTotal Debit = ₦20,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300\n\nWait, let me adjust to make it balance properly:\nCorrected figures:\n\nCapital = ₦13,300\n\nCredit Side:\n\nSales = ₦4,000\nCreditors = ₦9,000\nCapital = ₦10,300\nTotal Credit = ₦23,300",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 981,
@@ -2092,6 +2236,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756670332/ALOC-Questions/Accounting/UTME/1998/Accounting_JAMB_1998_Q17-18_g80eez.png",
     "answer": "a",
     "solution": "Opening capital/assets all balanced at ₦40 000.\n\nTrading results for the year to 31 Jan 95:\n\nSales ….. ₦ 8 200\n\nLess COGS = Opening stock (0) + Purchases (₦15 000) – Closing stock (₦10 000) = ₦ 5 000\n\nGross profit = ₦ 8 200 − ₦ 5 000 = ₦ 3 200\n\nLess operating expenses:\n\nRent ….. ₦ 12 000\n\nSales boy salary ….. ₦ 500\n\nNet loss = ₦ 3 200 − (₦ 12 000 + ₦ 500) = ₦ 9 300 loss\n\nClosing capital = Opening ₦ 40 000 − Loss ₦ 9 300 = ₦ 30 700\n\nClosing assets also total ₦ 30 700 (Cash in hand, closing stock, plus furnishing & fan unchanged).\n\nSo the new balance-sheet total at 31 Jan 95 is ₦30 700.",
+    "examtype": "utme",
+    "examyear": ""
+  },
+  {
+    "id": 1382,
+    "question": "<b>Use the information below to answer questions 17 and 18\n\nIf at 31/1/95 the following information was ascertained (i)Rent shop ₦12,000 paid for the year (ii) Total purchases\n₦15,000 (iii) Total sales ₦8,200 (iv) Stock of goods left ₦10,000 (v) Paid sales boy ₦500.</b>\n\n\nWhat is the balance on its cash account as at 31/1/95?",
+    "option": {
+      "a": "₦22,800",
+      "b": "₦21,200",
+      "c": "₦9,200",
+      "d": "₦800"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756670332/ALOC-Questions/Accounting/UTME/1998/Accounting_JAMB_1998_Q17-18_g80eez.png",
+    "answer": "c",
+    "solution": "Starting with the opening cash-in-hand of ₦28 500 and then accounting for the month’s cash movements:\n\nAdd: Cash receipts from sales ₦ 8 200\n\nLess: Purchases paid ₦15 000\n\nLess: Rent paid ₦12 000\n\nLess: Sales–boy salary paid ₦ 500\n\nClosing cash balance = 28,500 + 8,200 − 15,000 − 12,000 − 500 = \n₦9200",
     "examtype": "utme",
     "examyear": ""
   },

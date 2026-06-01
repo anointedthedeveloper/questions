@@ -1056,6 +1056,22 @@
     "examyear": "2016"
   },
   {
+    "id": 222,
+    "question": "In the diagram above, which of the following velocity-time graphs shows uniform acceleration of a body from rest?",
+    "option": {
+      "a": "C",
+      "b": "D",
+      "c": "B",
+      "d": "A"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610227/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_43_d6dmau.jpg",
+    "answer": "c",
+    "solution": "Understanding uniform acceleration from rest:\n\n\"From rest\" means initial velocity = 0 (starts at origin)\n\"Uniform acceleration\" means constant acceleration (velocity increases at a steady rate)\nA velocity-time graph with uniform acceleration is a straight line starting from the origin\n\nAnalyzing the graphs:\nGraph A: Curved line - represents non-uniform (changing) acceleration ✗\nGraph B: Straight line starting from origin - represents uniform acceleration from rest ✓\nGraph C: Curved line (steep then flattening) - represents decreasing acceleration ✗\nGraph D: Curved line - represents non-uniform acceleration ✗\nKey point:\nFor uniform acceleration, the slope (acceleration) must be constant, which gives a straight line on a velocity-time graph.\n\nGraph B shows uniform acceleration from rest because it's a straight line starting from the origin, indicating constant acceleration.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 225,
     "question": "In the diagram above, the direction of the force between N and S in the magnetic field is",
     "option": {
@@ -4704,6 +4720,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1069,
+    "question": "Capacitors are used in the induction coil to",
+    "option": {
+      "a": " control circuits",
+      "b": " prevent distortion of electric fields",
+      "c": "prevent electric sparks",
+      "d": "dissipate energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Capacitors are used to prevent electric sparks.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1071,
     "question": "Which of the following obeys ohms laws?",
     "option": {
@@ -4828,6 +4860,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nWavelength, λ = 15 cm = 0.15 m\nWave velocity, v = 300 m s⁻¹\n\nSolution:\n\nStep 1: Wave equation\nThe relationship between velocity, frequency, and wavelength is:\nv = f × λ\n\nStep 2: Rearrange for frequency\nf = v / λ\n\nStep 3: Substitute the values\nf = 300 / 0.15 = 2000 Hz\n\nStep 4: Express in scientific notation\n2000 Hz = 2.0 × 10³ Hz",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1105,
+    "question": "In a compound microscope, the objective and the eye piece focal lengths are",
+    "option": {
+      "a": "At infinity",
+      "b": "Long",
+      "c": "Short",
+      "d": "The same"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A compound microscope uses two convex lenses: an objective lens (near the object) and an eyepiece lens (near the eye). To achieve high magnification, both lenses need to have short focal lengths.",
     "examtype": "utme",
     "examyear": "2014"
   },

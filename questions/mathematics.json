@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 13,
+    "question": "The indefinite integral of the function f(x) = xcosx for any constant k, is ",
+    "option": {
+      "a": "–cos + sinx +k,  ",
+      "b": "xsinx-cosx,   ",
+      "c": "xsinx for any constant k,   ",
+      "d": "x+sinx+cosx+k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 15,
     "question": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is with replacement: ",
     "option": {
@@ -1392,6 +1408,22 @@
     "examyear": "2005"
   },
   {
+    "id": 347,
+    "question": "Find the equation of the perpendicular at the point (4,3) to the line y + 2x = 5",
+    "option": {
+      "a": "2y - x = 4",
+      "b": " y + 2x = 3",
+      "c": " y + 2x = 5",
+      "d": "2y - x = 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gradient of the line y + 2x = 5 = -2\nGradient of the line perpendicular to\ny + 2x + 5 = 1/2\nequation of a line perpendicular to\ny + 2x = 5 at the point (4, 3)\ny - y1 = m(x - x1)\ny - 3 = 1/2(x - 4)\n2y - 6 = x -4\n2y - x = 2",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 349,
     "question": "If sin θ = -1/2 for 0 < θ < 360°, the value of θ is",
     "option": {
@@ -1756,6 +1788,22 @@
     "image": "",
     "answer": "d",
     "solution": "<sup>10</sup>C<sup>6</sup>=10!/((10-6)!6!)=10!/4!6!=((10×9×8×7×6!))/(4×3×2×1×6!)=210",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 432,
+    "question": "If y = x cos x, find dy/dx",
+    "option": {
+      "a": "sin x - x cos x",
+      "b": " sin x + x cos x",
+      "c": "cos x + x sin x",
+      "d": "cos x - x sin x"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = x cos x\ndy/dx = 1. cos x + x (-sin x)\n= cos x - x sin x",
     "examtype": "utme",
     "examyear": "2007"
   },

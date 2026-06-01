@@ -1070,5 +1070,85 @@
     "solution": "Y = x implies y ≤ x\nY + x = 4 implies y = 4 – x\n∴y = 4 – x\n∴y ≤ x, y + x ≤ 4 and y ≥ 0",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 277,
+    "question": "Find the value of x in the figure above",
+    "option": {
+      "a": "15√6",
+      "b": "20√6",
+      "c": "3√6",
+      "d": "5√6"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mi>X</mi>\n    <mrow>\n      <mi>s</mi>\n      <mi>i</mi>\n      <mi>n</mi>\n      <mn>45</mn>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>15</mn>\n    <mrow>\n      <mi>s</mi>\n      <mi>i</mi>\n      <mi>n</mi>\n      <mn>60</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>X</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>15</mn>\n      <mi>s</mi>\n      <mi>i</mi>\n      <mi>n</mi>\n      <mn>45</mn>\n    </mrow>\n    <mrow>\n      <mi>s</mi>\n      <mi>i</mi>\n      <mi>n</mi>\n      <mn>60</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>X</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>15</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mo stretchy=\"false\">(</mo>\n      <mfrac>\n        <mn>1</mn>\n        <msqrt>\n          <mn>2</mn>\n        </msqrt>\n      </mfrac>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <msqrt>\n      <mfrac>\n        <mn>3</mn>\n        <mn>2</mn>\n      </mfrac>\n    </msqrt>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>X</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mn>15</mn>\n    <msqrt>\n      <mn>2</mn>\n    </msqrt>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>2</mn>\n    <msqrt>\n      <mn>3</mn>\n    </msqrt>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>X</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mn>30</mn>\n    <msqrt>\n      <mn>6</mn>\n    </msqrt>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>X</mi>\n  <mo>=</mo>\n  <mfrac>\n    <mn>30</mn>\n    <msqrt>\n      <mn>6</mn>\n    </msqrt>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <msqrt>\n      <mn>6</mn>\n    </msqrt>\n    <msqrt>\n      <mn>6</mn>\n    </msqrt>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>30</mn>\n      <msqrt>\n        <mn>6</mn>\n      </msqrt>\n    </mrow>\n    <mn>6</mn>\n  </mfrac>\n  <mo>=</mo>\n  <mn>5</mn>\n  <msqrt>\n    <mn>6</mn>\n  </msqrt>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700586/ALOC-Questions/Mathematics/2004/math_2004_q6_hzflxf.jpg",
+    "answer": "d",
+    "solution": "X/sin45=15/sin60 X=15sin45/sin60 X=(15×(1/√2))/√(3/2) X=15/√2×2/√3 X=30/√6 X=30/√6×√6/√6=(30√6)/6=5√6",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 990,
+    "question": "If ∣∣∣2x−49∣∣∣=58\n, find the value of x.",
+    "option": {
+      "a": "10",
+      "b": "30",
+      "c": "14",
+      "d": "28"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mrow>\n    <mo>|</mo>\n    <mtable rowspacing=\"4pt\" columnspacing=\"1em\">\n      <mtr>\n        <mtd>\n          <mn>2</mn>\n        </mtd>\n        <mtd>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>4</mn>\n        </mtd>\n      </mtr>\n      <mtr>\n        <mtd>\n          <mi>x</mi>\n        </mtd>\n        <mtd>\n          <mn>9</mn>\n        </mtd>\n      </mtr>\n    </mtable>\n    <mo>|</mo>\n  </mrow>\n  <mo>=</mo>\n  <mn>58</mn>\n</math>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006887/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q23_baoa2n.jpg",
+    "answer": "a",
+    "solution": "⟹(2×9)−(−4×x)=58\n18+4x=58⟹4x=58−18=40\nx=10",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 588,
+    "question": "Find ∫(sin x + 2)dx",
+    "option": {
+      "a": "cos x + x<sup>2</sup> + K",
+      "b": " cos x 2x + K",
+      "c": " -cos x + x<sup>2</sup> + K",
+      "d": " -cos x + 2x + K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "∫(sin χ + 2)dχ = (∫sin χ + ∫2)dx\n= -cos χ + 2χ + K",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 627,
+    "question": "If log<sub>3</sub>18 + log<sub>3</sub>3 - log<sub>3</sub>x = 3, Find x.",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "0",
+      "d": "3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "log<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = 3\n\nlog<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = 3log<sub>3</sub>3\n\nlog<sub>3</sub>18\n + log<sub>3</sub>3\n - log<sub>3</sub>x\n = log<sub>3</sub>3<sup>3</sup>\n\nlog<sub>3</sub>(18×3/X\n) = log<sub>3</sub>3<sup>3</sup>\n\n18×3/X\n = 3<sup>3</sup>\n\n18 x 3 = 27 x X\n\nx = 18×3/27\n\n\n= 2",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 66,
+    "question": "Solve 4x2 +20x -24 =0",
+    "option": {
+      "a": " 1, 6",
+      "b": " -1, -6",
+      "c": "6, -1",
+      "d": "-6, 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
   }
 ]

@@ -32,6 +32,22 @@
     "examyear": "2004"
   },
   {
+    "id": 4,
+    "question": "When an organization studies a market that is underserved by others and creates a product or service for the segment, it is engaged in",
+    "option": {
+      "a": "market integration  ",
+      "b": "market positioning",
+      "c": "market orchestration",
+      "d": "product differentiation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 5,
     "question": "Coverage against unexpected events is called",
     "option": {
@@ -91,6 +107,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 13,
+    "question": "Consumer rights include the right to   ",
+    "option": {
+      "a": "credit",
+      "b": "free samples of a product  ",
+      "c": "redress",
+      "d": "a share of profits"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -880,7 +912,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 79,
     "question": "The availability of goods and services is brought to the notice of consumers through",
     "option": {
@@ -888,15 +919,6 @@
       "b": "public relations",
       "c": "the telephone  ",
       "d": "advertising."
-=======
-    "id": 82,
-    "question": "A type of credit offered by both commercial and merchant banks in Nigeria is ",
-    "option": {
-      "a": "trade credit",
-      "b": "line of credit ",
-      "c": "discounting facility ",
-      "d": "overdraft."
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -906,7 +928,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 80,
     "question": "The necessary documents used in foreign trade are ",
     "option": {
@@ -939,8 +960,6 @@
     "examyear": "2005"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 83,
     "question": "A major function of a chamber of commerce is",
     "option": {
@@ -1165,7 +1184,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 101,
     "question": "question",
     "option": {
@@ -1193,19 +1211,6 @@
     "section": "",
     "image": "",
     "answer": "d",
-=======
-    "id": 103,
-    "question": "The input, output and central processing units are the basic components of a computer's",
-    "option": {
-      "a": "memory ",
-      "b": " printer ",
-      "c": " hardware ",
-      "d": " software"
-    },
-    "section": "",
-    "image": "",
-    "answer": "c",
->>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -1218,6 +1223,22 @@
       "b": " accident insurance   ",
       "c": "group life assurance  ",
       "d": "endowment policy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 106,
+    "question": "An important social reason for development tourism in Nigeria is the  ",
+    "option": {
+      "a": "promotion of culture interaction   ",
+      "b": " provision of job opportunities",
+      "c": "improvement of her balance of payments",
+      "d": "encouragement of international relations."
     },
     "section": "",
     "image": "",
@@ -1387,6 +1408,22 @@
     "examyear": "2006"
   },
   {
+    "id": 120,
+    "question": "A current account is beneficial to its holder as",
+    "option": {
+      "a": "cheques can be issued to anybody",
+      "b": "customers cannot withdraw frequently",
+      "c": "it is only the holder that can make withdrawals",
+      "d": "it allows customers the use of passbooks."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 121,
     "question": "The conversion of raw materials into finished products creates ",
     "option": {
@@ -1403,6 +1440,22 @@
     "examyear": "2006"
   },
   {
+    "id": 122,
+    "question": "The factor which critically determines the choice of occupation is ",
+    "option": {
+      "a": "training  ",
+      "b": "skill ",
+      "c": "interest",
+      "d": "aptitude."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 123,
     "question": "Capital to a business is technically  ",
     "option": {
@@ -1414,6 +1467,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 124,
+    "question": "I. Wholesaling  II. Fishing  III. Canning IV. Retailing  The sequence in which the occupational activities above are performed is",
+    "option": {
+      "a": "Ill, II, I and IV     ",
+      "b": "Ill, I, IV and II",
+      "c": "I, II, III and IV      ",
+      "d": "II, III, I and IV."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -1579,6 +1648,22 @@
     "examyear": "2006"
   },
   {
+    "id": 137,
+    "question": "The most important advantage of privatization is the enhancement of ",
+    "option": {
+      "a": "liquidity ",
+      "b": "accountability",
+      "c": "profitability  ",
+      "d": "efficiency."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 138,
     "question": "A trade association consists of members engaged in the same trade while a chamber of commerce is",
     "option": {
@@ -1622,6 +1707,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 142,
+    "question": "The Customs and Excise Department is responsible for the collection of",
+    "option": {
+      "a": "royalties ",
+      "b": "tariffs",
+      "c": "taxes ",
+      "d": "charges."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
@@ -1835,6 +1936,22 @@
     "examyear": "2007"
   },
   {
+    "id": 158,
+    "question": "The controllable variables that a firm uses to achieve its marketing objectives are called",
+    "option": {
+      "a": "marketing principles ",
+      "b": "marketing mix",
+      "c": "marketing concepts",
+      "d": "marketing functions."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 159,
     "question": "Public relations and advertising are similar in terms of",
     "option": {
@@ -1842,22 +1959,6 @@
       "b": "customer education ",
       "c": "the mode of operation",
       "d": "creating a favourable attitude."
-    },
-    "section": "",
-    "image": "",
-    "answer": "a",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2007"
-  },
-  {
-    "id": 160,
-    "question": "A major function of an entrepreneur is",
-    "option": {
-      "a": "decision-making ",
-      "b": "encouraging competition",
-      "c": "human-resource training",
-      "d": "motivating employees."
     },
     "section": "",
     "image": "",
@@ -1979,6 +2080,22 @@
     "examyear": "2007"
   },
   {
+    "id": 171,
+    "question": "The first stage in tourism planning is",
+    "option": {
+      "a": "assessing feedback from tourists",
+      "b": "preparing a list of tourist attractions",
+      "c": "creating recreational opportunities",
+      "d": "building community support."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 172,
     "question": "An agreement by the insurer to compensate the insured for losses suffered is   ",
     "option": {
@@ -2006,22 +2123,6 @@
     "section": "",
     "image": "",
     "answer": "a",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2007"
-  },
-  {
-    "id": 172,
-    "question": "An agreement by the insurer to compensate the insured for losses suffered is   ",
-    "option": {
-      "a": "policy",
-      "b": "surrender value   ",
-      "c": "caveat emptor ",
-      "d": "indemnity."
-    },
-    "section": "",
-    "image": "",
-    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -2114,6 +2215,22 @@
       "b": "sending and receiving text messages",
       "c": "sending electronic messages .",
       "d": "communicating messages through telegrams."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 180,
+    "question": "A written  agreement for  hiring  a  ship for transporting goods is a ",
+    "option": {
+      "a": "consular invoice",
+      "b": "bill of lading ",
+      "c": "charter party ",
+      "d": "certificate of origin."
     },
     "section": "",
     "image": "",
@@ -2395,6 +2512,22 @@
     "examyear": "2008"
   },
   {
+    "id": 207,
+    "question": "An example of a cartel is ",
+    "option": {
+      "a": "OPEC",
+      "b": "ECOWAS ",
+      "c": "AU ",
+      "d": "EU"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 208,
     "question": "The cheapest source of funds available to a company is through ",
     "option": {
@@ -2603,6 +2736,22 @@
     "examyear": "2008"
   },
   {
+    "id": 222,
+    "question": "Which ‘FOB’ is written on a document, it implies that the buyer bears the ",
+    "option": {
+      "a": "cost of goods and advert ",
+      "b": "loading cost and insurance ",
+      "c": "insurance and transport costs",
+      "d": "transport and communication costs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 225,
     "question": "An association to which all chambers of commerce in Nigeria are affiliated is the ",
     "option": {
@@ -2747,10 +2896,22 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 237,
     "question": "The coordinating section of the central processing unit that manages the flow of data is the ",
-=======
+    "option": {
+      "a": "arithmetic logic unit",
+      "b": "control unit",
+      "c": "magnetic unit",
+      "d": "register"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 238,
     "question": "An agreement between two parties which is enforceable by law is a ",
     "option": {
@@ -2774,39 +2935,6 @@
       "b": "sureties ",
       "c": "warranties ",
       "d": "guaranties "
-    },
-    "section": "",
-    "image": "",
-    "answer": "c",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2008"
-  },
-  {
-    "id": 242,
-    "question": "The practice whereby government relinquishes its ownership interest in a public enterprises is ",
->>>>>>> Stashed changes
-    "option": {
-      "a": "arithmetic logic unit",
-      "b": "control unit",
-      "c": "magnetic unit",
-      "d": "register"
-    },
-    "section": "",
-    "image": "",
-    "answer": "b",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2008"
-  },
-  {
-    "id": 238,
-    "question": "An agreement between two parties which is enforceable by law is a ",
-    "option": {
-      "a": "promise ",
-      "b": "warranty ",
-      "c": "contract ",
-      "d": "condition "
     },
     "section": "",
     "image": "",
@@ -2880,6 +3008,22 @@
     "examyear": "2008"
   },
   {
+    "id": 245,
+    "question": "A computer component that decodes and interprets instructions and also directs program implementation  is ",
+    "option": {
+      "a": "memory unit",
+      "b": "Central processing unit ",
+      "c": "control unit ",
+      "d": "system unit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 246,
     "question": "Which software program can be used to generate ",
     "option": {
@@ -2923,6 +3067,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 249,
+    "question": "The services of a textile worker are an example of ",
+    "option": {
+      "a": "extractive activity ",
+      "b": "commercial activity ",
+      "c": "manufacturing ",
+      "d": "construction "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -3040,6 +3200,22 @@
     "examyear": "2009"
   },
   {
+    "id": 258,
+    "question": "If a buyer is given 12.5% discount on N50000 worth of goods, how much will he pay?",
+    "option": {
+      "a": "N56 250",
+      "b": "N43 750",
+      "c": "N43 250",
+      "d": "N6250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 259,
     "question": "A cheque which a bank draws on its own funds is a",
     "option": {
@@ -3136,7 +3312,6 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 265,
     "question": "The transmission of telephone services from one country to another is facilitated by ",
     "option": {
@@ -3153,8 +3328,6 @@
     "examyear": "2009"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 266,
     "question": "The principle of insurance which entitles an insurance company to take any advantage due to the insured after full indemnity is ",
     "option": {
@@ -3443,7 +3616,6 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 289,
     "question": "Unresolved disputes between the employer and employees are usually referred to the ",
     "option": {
@@ -3467,15 +3639,6 @@
       "b": "debugging ",
       "c": "formatting ",
       "d": "looping"
-=======
-    "id": 288,
-    "question": "The most important attributes in a sale of goods contract are ",
-    "option": {
-      "a": "offer and consideration",
-      "b": "price and goods ",
-      "c": "offer and acceptance ",
-      "d": "demand and supply"
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -3757,7 +3920,6 @@
     "examyear": "2010"
   },
   {
-<<<<<<< Updated upstream
     "id": 308,
     "question": "Entrepot trade usually occurs in ",
     "option": {
@@ -3769,19 +3931,6 @@
     "section": "",
     "image": "",
     "answer": "c",
-=======
-    "id": 309,
-    "question": "The document issued to a port authority when goods are deposited is a ",
-    "option": {
-      "a": "dock landing account ",
-      "b": "bill of sight ",
-      "c": "bill of lading ",
-      "d": "dock warrant "
-    },
-    "section": "",
-    "image": "",
-    "answer": "d",
->>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -4059,6 +4208,22 @@
     "examyear": "2010"
   },
   {
+    "id": 338,
+    "question": "A printed copy of processed information from the computer is the ",
+    "option": {
+      "a": "soft copy ",
+      "b": "file copy ",
+      "c": "scanned copy ",
+      "d": "hard copy "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 340,
     "question": "The major problem confronting Cyber Café operators is ",
     "option": {
@@ -4091,29 +4256,8 @@
     "examyear": "2010"
   },
   {
-<<<<<<< Updated upstream
     "id": 345,
     "question": "The three main classifications of occupation are ",
-=======
-    "id": 339,
-    "question": "The central working system of a computer used for data processing is the ",
-    "option": {
-      "a": "memory unit ",
-      "b": "monitor ",
-      "c": "floppy disk drive ",
-      "d": "hard drive"
-    },
-    "section": "",
-    "image": "",
-    "answer": "b",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2010"
-  },
-  {
-    "id": 343,
-    "question": "One way by which a business can discharge its social responsibility to its community is to ",
->>>>>>> Stashed changes
     "option": {
       "a": "construction, trade and services ",
       "b": "manufacturing, industry and services ",
@@ -4528,6 +4672,38 @@
     "examyear": "2011"
   },
   {
+    "id": 384,
+    "question": "The body charged with the responsibility of regulating foods and drugs in Nigeria is the ",
+    "option": {
+      "a": "SON",
+      "b": "NDLEA",
+      "c": "NAFDAC",
+      "d": "CAC"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 385,
+    "question": "The physical components of a computer system refers to the ",
+    "option": {
+      "a": "system unit ",
+      "b": "hardware ",
+      "c": "software ",
+      "d": "compact disk "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 388,
     "question": "A software application which enables a user to display and interact with texts, images and videos is the ",
     "option": {
@@ -4832,6 +5008,22 @@
     "examyear": "2012"
   },
   {
+    "id": 415,
+    "question": "The most important business objective is to ",
+    "option": {
+      "a": "improve investments ",
+      "b": "provide quality  products",
+      "c": "target consumers for satisfaction ",
+      "d": "carve a niche for the business "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 417,
     "question": "A feature common to public and private limited liability companies is that ",
     "option": {
@@ -4848,73 +5040,6 @@
     "examyear": "2012"
   },
   {
-<<<<<<< Updated upstream
-=======
-    "id": 418,
-    "question": "A business organization can obtain long-term financing through ",
-    "option": {
-      "a": "bank overdraft ",
-      "b": "the sale of shares ",
-      "c": "credit purchases ",
-      "d": "bureau de change "
-    },
-    "section": "",
-    "image": "",
-    "answer": "b",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2012"
-  },
-  {
-    "id": 419,
-    "question": "The portion of the authorized share capital given out to the public for subscription is ",
-    "option": {
-      "a": "called-up capital ",
-      "b": "issued capital ",
-      "c": "paid up capital ",
-      "d": "reserved capital "
-    },
-    "section": "",
-    "image": "",
-    "answer": "b",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2012"
-  },
-  {
-    "id": 420,
-    "question": "A company has an authorized capital of 40 million shares at N1 each, out of which 32 million are issued and fully paid-up. What happens to the remaining 8million shares?",
-    "option": {
-      "a": "it has been issued but not paid-up ",
-      "b": "it has been applied for but not issued ",
-      "c": "it is not paid up",
-      "d": "it is not yet been issued "
-    },
-    "section": "",
-    "image": "",
-    "answer": "d",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2012"
-  },
-  {
-    "id": 422,
-    "question": "Given:  N\n Opening stock  1,800\n Purchases   2, 800\n Sales    8,000\n Closing stock    350\n Carriage on sales    500\n Calculate the value of the unused stock.\n",
-    "option": {
-      "a": "N 800",
-      "b": "N500",
-      "c": "N350",
-      "d": "N320"
-    },
-    "section": "",
-    "image": "",
-    "answer": "c",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2012"
-  },
-  {
->>>>>>> Stashed changes
     "id": 424,
     "question": "The promotion and protection of trade, industry and agriculture thorugh trade fairs is a function of ",
     "option": {
@@ -5683,17 +5808,17 @@
     "examyear": "2013"
   },
   {
-    "id": 490,
-    "question": "Which of the following is not a source of finance to a sole proprietor?",
+    "id": 489,
+    "question": "Which of the following can be defined as trade and aids to trade?",
     "option": {
-      "a": "Trade Credit",
-      "b": "Overdrafts",
-      "c": "Debentures",
-      "d": "Leasing of equipment"
+      "a": "Advertising",
+      "b": "Commerce",
+      "c": "Wholesaling",
+      "d": "Retailing"
     },
     "section": "",
     "image": "",
-    "answer": "d",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -5795,6 +5920,38 @@
     "examyear": "2000"
   },
   {
+    "id": 497,
+    "question": "Which of the following is true about cumulative preference shares?",
+    "option": {
+      "a": "Unpaid dividends are carried forward",
+      "b": "Shareholders can secure capital refund on demand",
+      "c": "Shareholders are entitled to further share of profit",
+      "d": "Dividends are paid into a special account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 498,
+    "question": "A debenture is mortgaged when it is",
+    "option": {
+      "a": "not secured on the assets of a company",
+      "b": "secured on the assets of a company",
+      "c": "irredeemable",
+      "d": "redeemable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
     "id": 499,
     "question": "A retail outlet which sells a fairly narrow range of goods with a number of branches in different towns is a",
     "option": {
@@ -5886,6 +6043,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 507,
+    "question": "Which of the following is sent in reply to a letter of enquiry?",
+    "option": {
+      "a": "Quotation",
+      "b": "Order",
+      "c": "Consumer invoice",
+      "d": "Advice note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -6078,6 +6251,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 522,
+    "question": "The information on terms of carriage of mails is found in",
+    "option": {
+      "a": "business journal",
+      "b": "post office guide",
+      "c": "trade directory",
+      "d": "service manual"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2000"
@@ -6323,6 +6512,22 @@
     "examyear": "2013"
   },
   {
+    "id": 542,
+    "question": "The process of dividing a total market into groups made up of people with similar need refers to marketing",
+    "option": {
+      "a": "function",
+      "b": "mix",
+      "c": "research",
+      "d": "segmentation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 545,
     "question": "Which of the following is NOT a means of payment through the post office?",
     "option": {
@@ -6346,6 +6551,22 @@
       "b": "departmental",
       "c": "mail order",
       "d": "super"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 548,
+    "question": "The assurance policy in which the assured pays lump sum of money which matures at his retirement is ___assurance.",
+    "option": {
+      "a": "annuity",
+      "b": "endowment",
+      "c": "life",
+      "d": "term"
     },
     "section": "",
     "image": "",
@@ -6467,6 +6688,22 @@
     "examyear": "2013"
   },
   {
+    "id": 556,
+    "question": "The development of a container and a graphic design for a product is known as",
+    "option": {
+      "a": "advertising",
+      "b": "branding",
+      "c": "packaging",
+      "d": "trade mark"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 557,
     "question": "When an agent is appointed verbally or in writing by the principal to act on his behalf, the appointment is said to be by",
     "option": {
@@ -6554,6 +6791,22 @@
       "b": "deducted from purchases",
       "c": "deducted from sales",
       "d": "treated as expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 564,
+    "question": "Which of the following is NOT a function of courier companies?",
+    "option": {
+      "a": "Ensuring international transmission of message",
+      "b": "Providing door to door delivery services",
+      "c": "Providing efficient means of mail delivery",
+      "d": "Undertaking the shipment of export and import"
     },
     "section": "",
     "image": "",
@@ -6670,6 +6923,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 572,
+    "question": "Which of the following does NOT appear on a cheque on presentation for payment?",
+    "option": {
+      "a": "Amount in words and figures",
+      "b": "Date of withdrawal",
+      "c": "Name of the cashier",
+      "d": "Name of the payee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -6947,6 +7216,22 @@
     "examyear": "2013"
   },
   {
+    "id": 592,
+    "question": "An instruction from a current account holder requesting to pay a named person or organization a. specified amount is \t\tcalled",
+    "option": {
+      "a": "bankers order",
+      "b": "certified cheque",
+      "c": "internal transfer",
+      "d": "money order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 593,
     "question": "Which of the following is NOT a commercial occupation?",
     "option": {
@@ -7203,6 +7488,22 @@
     "examyear": "1990"
   },
   {
+    "id": 613,
+    "question": "Which of the following is a form of sales promotion?",
+    "option": {
+      "a": "Promotion through radio",
+      "b": "Advertising by television",
+      "c": "Distributing printed sales literature",
+      "d": "Offering free samples to customers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
     "id": 614,
     "question": "Efforts geared towards establishing and maintaining good image for a company is termed",
     "option": {
@@ -7226,22 +7527,6 @@
       "b": "provide goods and services",
       "c": "provide employment",
       "d": "compete with others in business"
-    },
-    "section": "",
-    "image": "",
-    "answer": "a",
-    "solution": "",
-    "examtype": "wassce",
-    "examyear": "1990"
-  },
-  {
-    "id": 616,
-    "question": "Which of the following statements best describes net profit? The excess of",
-    "option": {
-      "a": "total revenue over total expenditure",
-      "b": "total capital income over expenditure",
-      "c": "sales over purchases",
-      "d": "total capital formation over capital consumption"
     },
     "section": "",
     "image": "",
@@ -7635,6 +7920,38 @@
     "examyear": "2016"
   },
   {
+    "id": 652,
+    "question": "Which of the following is used for temporary storage of data on a computer?",
+    "option": {
+      "a": "RAM.",
+      "b": "ROM.",
+      "c": "floppy disk.",
+      "d": "flash disk."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 653,
+    "question": "An advantage of the Second-Tier Securities Market to an economy is in",
+    "option": {
+      "a": "creating avenues for investment",
+      "b": "regulating competition amongst companies",
+      "c": "granting financial assistance to consumers",
+      "d": "increasing companies profit margins-."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 654,
     "question": "The  lumbering of trees by a furniture company is an example of",
     "option": {
@@ -8003,7 +8320,6 @@
     "examyear": "2016"
   },
   {
-<<<<<<< Updated upstream
     "id": 682,
     "question": "Labour as an input in production can be motivated by",
     "option": {
@@ -8020,8 +8336,6 @@
     "examyear": "2016"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 683,
     "question": "Discharging certain duties by an organization to the public to gain high patronage is a concern of financial responsibility",
     "option": {
@@ -8054,8 +8368,6 @@
     "examyear": "2016"
   },
   {
-<<<<<<< Updated upstream
-=======
     "id": 685,
     "question": "Which of the following is NOT backed by gold but by government securities?",
     "option": {
@@ -8072,23 +8384,6 @@
     "examyear": "2016"
   },
   {
-    "id": 686,
-    "question": "Which of the following is a legal tender?",
-    "option": {
-      "a": "Cheque.",
-      "b": "Traveller’scheque.",
-      "c": "Bank note",
-      "d": "Goldsmith receipt."
-    },
-    "section": "",
-    "image": "",
-    "answer": "c",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2016"
-  },
-  {
->>>>>>> Stashed changes
     "id": 687,
     "question": "Where a manufacturer collects money from wholesalers in exchange for goods produced is referred to as",
     "option": {
@@ -8233,6 +8528,22 @@
     "examyear": "2000"
   },
   {
+    "id": 704,
+    "question": "The share capital value that forms part of the balance sheet total is the",
+    "option": {
+      "a": "paid-up share capital",
+      "b": "called-up share capital",
+      "c": "authorized share capital",
+      "d": "issued share capital."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 705,
     "question": "The main factors militating against the rapid growth of trade in Nigeria are",
     "option": {
@@ -8308,6 +8619,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 712,
+    "question": "Mr. Olatunde took up a fire insurance on a property valued at N 1000 and the amount insured is  N800. The property caught fire causing a loss of  N400. If the insurance was taken with the \tclause ‘with average’, what is the amount to be paid by the insurance company?",
+    "option": {
+      "a": "N320",
+      "b": "N420",
+      "c": "N460",
+      "d": "N560."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2000"
@@ -8409,6 +8736,22 @@
     "examyear": "2000"
   },
   {
+    "id": 720,
+    "question": "The Stock Exchange helps to provide capital for industrial projects because it",
+    "option": {
+      "a": "determines value of shares, stocks and other securities",
+      "b": "assists government in implementing its monetary policies",
+      "c": "assists companies to change their securities into cash",
+      "d": "renders agency services to organizations and governments."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 721,
     "question": "A shortcoming of the Second-tier Foreign Exchange Market in Nigeria is that it",
     "option": {
@@ -8500,6 +8843,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 728,
+    "question": "The basic elements of a valid contract are",
+    "option": {
+      "a": "offer, acceptance, consideration and witness",
+      "b": "offer, intention, acceptance and legality",
+      "c": "offer, acceptance, intention, capacity and legality",
+      "d": "offer, acceptance, capacity, legality and consideration."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2000"
@@ -8617,6 +8976,22 @@
     "examyear": "2000"
   },
   {
+    "id": 737,
+    "question": "The three components of staffing are",
+    "option": {
+      "a": "recruitment, selection and placement",
+      "b": "recruitment, interview and appointment",
+      "c": "recruitment, test and placement",
+      "d": "recruitment, procurement and appointment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 739,
     "question": "In an organization, civic consideration arises from",
     "option": {
@@ -8633,6 +9008,22 @@
     "examyear": "2000"
   },
   {
+    "id": 740,
+    "question": "The instrument establishing the Economic Community of West African States in 1975 is",
+    "option": {
+      "a": "a decree",
+      "b": "an act",
+      "c": "a treaty",
+      "d": "constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 743,
     "question": "A distinguishing characteristic of labour is that it is",
     "option": {
@@ -8644,6 +9035,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 744,
+    "question": "Land as a factor of production does not vary in",
+    "option": {
+      "a": "quantity",
+      "b": "nature",
+      "c": "quality \t\t\t\t.",
+      "d": "cost."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
@@ -8809,6 +9216,22 @@
     "examyear": "2001"
   },
   {
+    "id": 757,
+    "question": "The balance of payments of countries is",
+    "option": {
+      "a": "a record of imports and exports",
+      "b": "a systematic record of transactions among countries at a given time",
+      "c": "the current and the capital accounts and their payments",
+      "d": "the trade relationships and payments among nations."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 758,
     "question": "The major procedures in the purchase and sale of goods are enquiry",
     "option": {
@@ -8964,6 +9387,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 769,
+    "question": "The temporary working area of the central processing unit is called the",
+    "option": {
+      "a": "C-D ROM",
+      "b": "C-D RAM",
+      "c": "ROM",
+      "d": "RAM."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2001"
@@ -9177,6 +9616,22 @@
     "examyear": "2001"
   },
   {
+    "id": 789,
+    "question": "One of the main objectives of establishing the Niger River Basin Commission was to",
+    "option": {
+      "a": "embark on a comprehensive survey of the available water resources",
+      "b": "carry out research for the development of fresh water fisheries",
+      "c": "develop infrastructure to facilitate economic activities",
+      "d": "promote trade among member-states to improve standards of living."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 790,
     "question": "The most important factor that delayed the development of commerce in Nigeria was",
     "option": {
@@ -9220,6 +9675,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 793,
+    "question": "Which of the following best describes the scope of commerce?",
+    "option": {
+      "a": "All forms of commercial exchanges and the manufacturing industry",
+      "b": "Buying and selling and the construction industry",
+      "c": "All occupational exchanges relating to industries and commercial activities",
+      "d": "Buying and selling as well as the extraction of natural resources."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
@@ -9284,6 +9755,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 800,
+    "question": "Awarding scholarships and sponsoring sports by a business organization are examples of",
+    "option": {
+      "a": "advertising strategy",
+      "b": "economic responsibility",
+      "c": "marketing strategy",
+      "d": "social responsibility"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
@@ -9737,6 +10224,22 @@
     "examyear": "2002"
   },
   {
+    "id": 839,
+    "question": "The founders’ shares are usually referred to as deferred shares because the holders",
+    "option": {
+      "a": "are entitled to cumulative dividends",
+      "b": "receive their dividends after other shareholders",
+      "c": "receive   their   dividends   before   other shareholders",
+      "d": "are not entitled to any dividends."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 840,
     "question": "An example of a service -rendering trade association is",
     "option": {
@@ -9913,6 +10416,22 @@
     "examyear": "2003"
   },
   {
+    "id": 851,
+    "question": "A firm that adapts itself to delivering the desired satisfaction more effectively and efficiently than its competitors is said to be practicing",
+    "option": {
+      "a": "price concept",
+      "b": "distribution concept",
+      "c": "product concept",
+      "d": "marketing concept"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 852,
     "question": "The payment made periodically in respect of an insurance policy entered into is known as",
     "option": {
@@ -9972,6 +10491,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 857,
+    "question": "One of the functions of seaports is the provision of",
+    "option": {
+      "a": "berthing and landing facilities",
+      "b": "loading and off-loading facilities",
+      "c": "control room for relaying radio messages",
+      "d": "warehouses for storage of cargo."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -10137,6 +10672,22 @@
     "examyear": "2003"
   },
   {
+    "id": 872,
+    "question": "The act of a person employing another to enter into a contract on his behalf is known as",
+    "option": {
+      "a": "business",
+      "b": "sale of goods",
+      "c": "bilateral agreement",
+      "d": "agency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 873,
     "question": "The ECOBANK is the initiative of",
     "option": {
@@ -10224,6 +10775,22 @@
       "b": "BASIC",
       "c": "ADA",
       "d": "COBOL"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 881,
+    "question": "Banks are engaged in the business of buying and selling of",
+    "option": {
+      "a": "bills of exchange",
+      "b": "instruments of credit",
+      "c": "intangible products",
+      "d": "land"
     },
     "section": "",
     "image": "",

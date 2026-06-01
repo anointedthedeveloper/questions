@@ -2129,6 +2129,7 @@
   },
   {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "id": 305,
     "question": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
     "option": {
@@ -2158,6 +2159,8 @@
     "answer": "b",
     "solution": "Understanding resonance in pendulums:\nResonance occurs when pendulums have the same length (and therefore the same natural frequency/period).\nGiven information from the diagram:\n\nU is the longest\nS is second longest\nQ is third\nR is the shortest\nP and T have the same length\n\nResonance condition:\nFor resonance with P, a pendulum must have the same length as P.\nFrom the description, P and T are the same length.\nTherefore, when P is set into oscillation, only T will resonate with it because they share the same natural frequency.",
 =======
+=======
+>>>>>>> Stashed changes
     "id": 310,
     "question": "The process whereby a liquid turns spontaneously into vapour is called",
     "option": {
@@ -2170,6 +2173,9 @@
     "image": "",
     "answer": "b",
     "solution": "Evaporation is the process whereby a liquid turns spontaneously into vapor at temperatures below the boiling point, occurring naturally at the liquid's surface.",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2018"
@@ -3248,6 +3254,7 @@
   },
   {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "id": 481,
     "question": "The potential energy in an elastic string of force constant k, which has an extension X is?",
     "option": {
@@ -3256,6 +3263,8 @@
       "c": "½KX²",
       "d": ". ½K"
 =======
+=======
+>>>>>>> Stashed changes
     "id": 493,
     "question": "What quantity of heat is required to convert 20 g of ice at 0 ºC to water at the same temperature? (Specific latent heat of ice = 336 Jg⁻¹)",
     "option": {
@@ -3263,13 +3272,20 @@
       "b": " 5.38 × 10³ J",
       "c": " 6.72 × 10³ J",
       "d": "1.35 × 10³ J"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "c",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "solution": "Step 1: Recall Hooke's Law\nFor an elastic material:\nF = kX\nWhere:\n\nF = restoring force\nk = force constant (spring constant)\nX = extension\n\nStep 2: Derive potential energy\nPotential energy stored in an elastic string is the work done in stretching it:\nE = ∫F dx\nE = ∫kx dx (from 0 to X)\nStep 3: Integrate\nE = k∫x dx (from 0 to X)\nE = k[x²/2]₀ˣ\nE = k(X²/2 - 0)\nE = ½kX²",
+=======
+    "solution": "Since the phase change occurs at constant temperature (0°C), no energy goes into increasing temperature. All the heat energy is used to break the molecular bonds in ice, converting it from solid to liquid state at the melting point.",
+>>>>>>> Stashed changes
 =======
     "solution": "Since the phase change occurs at constant temperature (0°C), no energy goes into increasing temperature. All the heat energy is used to break the molecular bonds in ice, converting it from solid to liquid state at the melting point.",
 >>>>>>> Stashed changes
@@ -3277,6 +3293,7 @@
     "examyear": "2022"
   },
   {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "id": 482,
     "question": "A reservoir is filled with liquid of density 2000 kgm⁻³. Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm⁻² (g = 10 ms⁻²)",
@@ -3374,6 +3391,8 @@
     "examyear": "2023"
   },
   {
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     "id": 503,
@@ -3585,6 +3604,7 @@
   },
   {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "id": 532,
     "question": "A 35 kΩ is connected in series with a resistance of 40 kΩ. What resistance R must be connected in parallel with the combination so that the equivalent resistance is equal to 25 kΩ?",
     "option": {
@@ -3593,6 +3613,8 @@
       "c": "45.5 kΩ",
       "d": "30 kΩ"
 =======
+=======
+>>>>>>> Stashed changes
     "id": 534,
     "question": "An object is placed 35 cm away from a convex mirror with a focal length of magnitude 15 cm. What is the location of the image?",
     "option": {
@@ -3600,13 +3622,20 @@
       "b": "10.5 cm behind the mirror",
       "c": "26.25 cm in front of the mirror",
       "d": "10.5 cm in front of the mirror"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "b",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "solution": "Given information:\n\nResistance 1, R₁ = 35 kΩ\nResistance 2, R₂ = 40 kΩ\nEquivalent resistance, Req = 25 kΩ\nUnknown parallel resistance, R = ?\n\nSolution:\nStep 1: Calculate series resistance\nWhen R₁ and R₂ are connected in series:\nRseries = R₁ + R₂\nRseries = 35 + 40\nRseries = 75 kΩ\nStep 2: Apply parallel resistance formula\nResistance R is connected in parallel with Rseries to give Req:\n1/Req = 1/Rseries + 1/R\nStep 3: Substitute known values\n1/25 = 1/75 + 1/R\nStep 4: Solve for R\n1/R = 1/25 - 1/75\n1/R = 3/75 - 1/75\n1/R = 2/75\nR = 75/2\nR = 37.5 kΩ",
+=======
+    "solution": "Given information:\n\nObject distance, u = 35 cm\nFocal length magnitude = 15 cm\nFor convex mirror, f = +15 cm (positive by sign convention)\nImage distance, v = ?\n\nSolution:\nStep 1: Apply sign convention for convex mirror\nFor a convex mirror:\n\nObject distance, u = -35 cm (object is in front, negative)\nFocal length, f = +15 cm (focal point is behind mirror, positive)\n\nStep 2: Apply mirror formula\n1/f = 1/v + 1/u\n1/v = 1/f - 1/u\nStep 3: Substitute values\n1/v = 1/(+15) - 1/(-35)\n1/v = 1/15 + 1/35\nStep 4: Find common denominator and solve\n1/v = 7/105 + 3/105\n1/v = 10/105\n1/v = 2/21\nv = 21/2\nv = 10.5 cm",
+>>>>>>> Stashed changes
 =======
     "solution": "Given information:\n\nObject distance, u = 35 cm\nFocal length magnitude = 15 cm\nFor convex mirror, f = +15 cm (positive by sign convention)\nImage distance, v = ?\n\nSolution:\nStep 1: Apply sign convention for convex mirror\nFor a convex mirror:\n\nObject distance, u = -35 cm (object is in front, negative)\nFocal length, f = +15 cm (focal point is behind mirror, positive)\n\nStep 2: Apply mirror formula\n1/f = 1/v + 1/u\n1/v = 1/f - 1/u\nStep 3: Substitute values\n1/v = 1/(+15) - 1/(-35)\n1/v = 1/15 + 1/35\nStep 4: Find common denominator and solve\n1/v = 7/105 + 3/105\n1/v = 10/105\n1/v = 2/21\nv = 21/2\nv = 10.5 cm",
 >>>>>>> Stashed changes
@@ -3823,6 +3852,7 @@
   },
   {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "id": 565,
     "question": "Electrolysis can be investigated using ",
     "option": {
@@ -3836,6 +3866,8 @@
     "answer": "d",
     "solution": "A voltameter measures the amount of substance that is deposited during electrolysis, allowing for the study of the electrochemical process. It provides information about the quantity of electric charge passed through the electrolyte and the resulting chemical changes. Voltameter is also called an Electrolytic cell.",
 =======
+=======
+>>>>>>> Stashed changes
     "id": 567,
     "question": "In a solar panel, solar beam is concentrated by using ",
     "option": {
@@ -3848,6 +3880,9 @@
     "image": "",
     "answer": "a",
     "solution": "Concave mirrors are designed to focus sunlight onto a specific area, enhancing the intensity of the solar energy. This concentrated energy can then be utilized for heating or converted into electricity in solar thermal and photovoltaic systems.",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2024"

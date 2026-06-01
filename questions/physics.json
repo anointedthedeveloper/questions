@@ -6960,6 +6960,22 @@
     "examyear": "2022"
   },
   {
+    "id": 494,
+    "question": "A train of mass 1600 kg attains a speed of 25 ms⁻¹ in 20 seconds. The power developed in the engine is?",
+    "option": {
+      "a": "2.5 KW",
+      "b": "80 KW",
+      "c": "25 KW",
+      "d": "50 KW"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass, m = 1600 kg\nFinal velocity, v = 25 m/s\nInitial velocity, u = 0 m/s\nTime, t = 20 s\nPower, P = ?\n\nSolution:\nStep 1: Calculate acceleration\na = (v - u)/t\na = (25 - 0)/20\na = 1.25 m/s²\nStep 2: Calculate force\nF = ma\nF = 1600 × 1.25\nF = 2000 N\nStep 3: Calculate power\nPower = Force × velocity\nP = F × v\nP = 2000 × 25\nP = 50,000 W\nP = 50 kW",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 496,
     "question": "A semiconductor is formed by?",
     "option": {
@@ -14540,6 +14556,22 @@
     "image": "",
     "answer": "d",
     "solution": "Rate of change of momentum imparted to the walls per second per unit area. (Pressure = force/area = (rate of momentum change)/area from molecular collisions.)",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1126,
+    "question": "Which of the following is not true about a wave in a plucked string?",
+    "option": {
+      "a": " It is mechanical",
+      "b": " It has a crest",
+      "c": " It is transverse",
+      "d": "It is longitudinal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "It is longitudinal (String waves are transverse; perpendicular to propagation.",
     "examtype": "utme",
     "examyear": "2025"
   },

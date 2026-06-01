@@ -8416,6 +8416,22 @@
     "examyear": "2005"
   },
   {
+    "id": 661,
+    "question": "A silicon material is dopped with an element of a certain group and an n-type semi-conductor is formed. the most likely group of the element is",
+    "option": {
+      "a": " V",
+      "b": "III",
+      "c": " I",
+      "d": " II"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Silicon is a Group IV element with 4 valence electrons. To create an n-type semiconductor, we need excess electrons as charge carriers. This is achieved by doping with Group V elements (phosphorus, arsenic, antimony) which have 5 valence electrons. When a Group V atom replaces silicon in the crystal, four electrons bond with neighboring atoms while the fifth becomes a free electron, creating the n-type semiconductor with electrons as majority carriers.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 663,
     "question": "The ray which causes gas molecules to glow is known as",
     "option": {

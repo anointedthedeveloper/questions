@@ -4368,6 +4368,22 @@
     "examyear": "2018"
   },
   {
+    "id": 326,
+    "question": "The tendency of a body to remain at rest when a force is applied to it is called.",
+    "option": {
+      "a": "Impulse",
+      "b": "Momentum",
+      "c": "Inertia",
+      "d": "Friction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The tendency of a body to remain at rest (or in motion) and resist changes to its state is called inertia. This is Newton's First Law of Motion.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 327,
     "question": "An object is placed 20cm from a concave mirror of0 focal length 10cm. The linear magnification of the image produced is?",
     "option": {
@@ -12172,6 +12188,22 @@
     "image": "",
     "answer": "c",
     "solution": "To remove parallax error, the eye should be focused vertically downwards on the markings, ensuring the line of sight is perpendicular to the scale. This eliminates angular displacement and ensures accurate readings.\nPractical tip: When using a metre rule, always position your eye directly above (perpendicular to) the point you're measuring to avoid parallax error. Some instruments have mirrors behind the scale to help verify correct eye position - your eye and its reflection should align.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1001,
+    "question": "A load is pulled at a uniform speed along a horizontal floor by a rope at 45° to the floor. If the force in the rope is 1500N, what is the frictional force on the load?",
+    "option": {
+      "a": "1524N",
+      "b": "1350N",
+      "c": "1260N",
+      "d": " 1061N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nForce in rope (F) = 1500 N\nAngle to floor (θ) = 45°\nLoad moves at uniform speed (constant velocity)\nFrictional force = ?\n\nKey principle:\nSince the load moves at uniform speed, the net force is zero (equilibrium).\nThis means: Horizontal component of applied force = Frictional force\nStep 1: Resolve the rope force into components\nHorizontal component:\nF_horizontal = F cos θ\nF_horizontal = 1500 × cos 45°\nF_horizontal = 1500 × (1/√2)\nF_horizontal = 1500 × 0.7071\nF_horizontal = 1060.7 N\nF_horizontal ≈ 1061 N\nVertical component:\nF_vertical = F sin θ\nF_vertical = 1500 × sin 45°\nF_vertical = 1500 × (1/√2)\nF_vertical = 1060.7 N\nStep 2: Apply equilibrium condition\nFor uniform speed (no acceleration):\nHorizontal forces must balance:\nFrictional force = Horizontal component of applied force\nf = F_horizontal = 1061 N",
     "examtype": "utme",
     "examyear": "2012"
   },

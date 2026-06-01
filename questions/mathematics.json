@@ -12160,6 +12160,22 @@
     "examyear": "2017"
   },
   {
+    "id": 892,
+    "question": "A car dealer bought a second-hand car for 250,000 and spent N 70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
+    "option": {
+      "a": " 60%",
+      "b": "32%",
+      "c": "25%",
+      "d": "20%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Total Cost Price = N(250,000 + 70,000)\n\n= N 320,000\n\nSelling Price = N 400,000(Given)\n\nGain = Selling Price - Cost Price\n\n= 400,000 - 320,000\n\n= 80,000\n\n% gain = Gain/Cost Price\n × 100\n\n= (80,000/320,000) × 100\n\nGain % = 25%",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 893,
     "question": "Find the number of ways that the letters of the word EXCELLENCE be arranged",
     "option": {

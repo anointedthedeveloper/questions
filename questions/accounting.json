@@ -112,6 +112,22 @@
     "examyear": "2010"
   },
   {
+    "id": 19,
+    "question": "A statement that shows the financial position of a business is ",
+    "option": {
+      "a": "profit and loss account  ",
+      "b": "Trading Account ",
+      "c": "Statement of income  ",
+      "d": " Balance sheet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 26,
     "question": "Which of the following is not a book of original entry? ",
     "option": {
@@ -4656,6 +4672,22 @@
     "examyear": "2020"
   },
   {
+    "id": 769,
+    "question": "Using the information provided: capital opening balance ₦307,000, closing balance ₦342,000, net profit for the period ₦121,600, purchases ₦706,000, carriage inwards ₦17,500, cost of goods sold ₦740,700, total selling, general and administration expenses ₦526,000, discount received ₦9,650, and opening stock ₦98,800, calculate the closing stock for the period.",
+    "option": {
+      "a": "₦69,300",
+      "b": "₦81,600",
+      "c": " ₦81,300",
+      "d": "₦106,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To calculate closing stock, use the cost of goods sold formula and rearrange:\nCost of Goods Sold = Opening Stock + Purchases + Carriage Inwards - Closing Stock\nRearranging to find closing stock:\nClosing Stock = Opening Stock + Purchases + Carriage Inwards - Cost of Goods Sold\nClosing Stock = ₦98,800 + ₦706,000 + ₦17,500 - ₦740,700\nClosing Stock = ₦822,300 - ₦740,700 = ₦81,600\nTherefore, the closing stock for the period is ₦81,600.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 772,
     "question": "Danjuma Ltd. bought 10 bags of rice for N500 each. The company was given 5% and 12% trade and cash discounts respectively. What will be recorded as discount received in the company's book?",
     "option": {
@@ -7904,6 +7936,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1342,
+    "question": "Given:\nClub ₦150\nCash sales ₦4,850\nClub debtors at close ₦900\nCash received from debtors ₦550\n\nWhat is the amount of club sales?",
+    "option": {
+      "a": "₦6,150",
+      "b": "₦4,850",
+      "c": "₦4,650",
+      "d": "₦1,300"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the total club sales, Calculate both cash sales and credit sales.\nGiven information:\n\nClub debtors at opening: ₦150\nCash sales: ₦4,850\nClub debtors at close: ₦900\nCash received from debtors: ₦550\n\nStep 1: Calculate credit sales using debtors control account\nOpening debtors + Credit sales - Cash received = Closing debtors\n₦150 + Credit sales - ₦550 = ₦900\nCredit sales = ₦900 - ₦150 + ₦550\nCredit sales = ₦1,300\nStep 2: Calculate total club sales\nTotal club sales = Cash sales + Credit sales\nTotal club sales = ₦4,850 + ₦1,300 = ₦6,150",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1344,
     "question": "Goodwill can be valued in partnership when?",
     "option": {
@@ -8128,6 +8176,22 @@
     "examyear": "1998"
   },
   {
+    "id": 1381,
+    "question": "<b>Use the information below to answer questions 17 and 18\n\nIf at 31/1/95 the following information was ascertained (i)Rent shop ₦12,000 paid for the year (ii) Total purchases\n₦15,000 (iii) Total sales ₦8,200 (iv) Stock of goods left ₦10,000 (v) Paid sales boy ₦500.</b>\n\n\nWhat is the new balance sheet total as at31/1/95?",
+    "option": {
+      "a": "₦30 700.",
+      "b": "₦41,500",
+      "c": "₦41,700",
+      "d": "₦48,500."
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756670332/ALOC-Questions/Accounting/UTME/1998/Accounting_JAMB_1998_Q17-18_g80eez.png",
+    "answer": "a",
+    "solution": "Opening capital/assets all balanced at ₦40 000.\n\nTrading results for the year to 31 Jan 95:\n\nSales ….. ₦ 8 200\n\nLess COGS = Opening stock (0) + Purchases (₦15 000) – Closing stock (₦10 000) = ₦ 5 000\n\nGross profit = ₦ 8 200 − ₦ 5 000 = ₦ 3 200\n\nLess operating expenses:\n\nRent ….. ₦ 12 000\n\nSales boy salary ….. ₦ 500\n\nNet loss = ₦ 3 200 − (₦ 12 000 + ₦ 500) = ₦ 9 300 loss\n\nClosing capital = Opening ₦ 40 000 − Loss ₦ 9 300 = ₦ 30 700\n\nClosing assets also total ₦ 30 700 (Cash in hand, closing stock, plus furnishing & fan unchanged).\n\nSo the new balance-sheet total at 31 Jan 95 is ₦30 700.",
+    "examtype": "utme",
+    "examyear": ""
+  },
+  {
     "id": 1383,
     "question": "On Ist January, 1993, lobo Company purchased equipment for ₦18,000. it uses straight-line depreciation with an estimates eight-year useful life and a ₦2,000 salvage value. On 31st December, 1996, it sells the equipment for ₦8000. In recording this sales, it should reflect?",
     "option": {
@@ -8204,6 +8268,22 @@
     "image": "",
     "answer": "a",
     "solution": "The primary limitation of a receipts and payments account is its reliance on actual cash movements as the sole evidence of transactions. Because it’s prepared on a cash basis and ignores accruals, it:\n\nOmits non-cash items (e.g., depreciation, accrued expenses)\n\nDoes not match income and related expenses to the same period\n\nFails to show true surplus or deficit",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1395,
+    "question": "The trading account is to a sole trader what income and expenditure account is to a?",
+    "option": {
+      "a": "partnership",
+      "b": "public limited organization",
+      "c": "manufacturing organization",
+      "d": "non-profit making organization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The trading account is to a sole trader what the income and expenditure account is to a non-profit making organization.",
     "examtype": "utme",
     "examyear": "199"
   },
@@ -8540,6 +8620,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672119/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q45_-46_as7g7i.png",
     "answer": "d",
     "solution": "To find the working capital, calculate Current Assets minus Current Liabilities.\nFrom the Balance Sheet:\nCurrent Assets:\n\nStock: ₦4,000\nCash: ₦8,000\nDebtors: ₦6,000\nTotal Current Assets: ₦18,000\n\nCurrent Liabilities:\n\nCreditors: ₦9,000\nAccrued wages: ₦5,000\nTotal Current Liabilities: ₦14,000\n\nWorking Capital:\nCurrent Assets - Current Liabilities = ₦18,000 - ₦14,000 = ₦4,000",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1460,
+    "question": "The acid test ratio in the company is",
+    "option": {
+      "a": "1:1",
+      "b": "1:2",
+      "c": "2:3",
+      "d": "3:2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672119/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q45_-46_as7g7i.png",
+    "answer": "a",
+    "solution": "To find the acid test ratio (quick ratio), calculate Quick Assets divided by Current Liabilities.\nQuick Assets (Current Assets minus Stock):\n\nCash: ₦8,000\nDebtors: ₦6,000\nLess: Stock: ₦4,000 (excluded as it's not easily convertible to cash)\nTotal Quick Assets: ₦14,000\n\nCurrent Liabilities:\n\nCreditors: ₦9,000\nAccrued wages: ₦5,000\nTotal Current Liabilities: ₦14,000\n\nAcid Test Ratio:\nQuick Assets : Current Liabilities = ₦14,000 : ₦14,000 = 1:1",
     "examtype": "utme",
     "examyear": "1997"
   },

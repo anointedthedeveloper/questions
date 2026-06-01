@@ -9792,6 +9792,22 @@
     "examyear": "2011"
   },
   {
+    "id": 647,
+    "question": "A solid metal cube of side 3 cm is placed in a rectangular tank of dimension 3, 4 and 5 cm. What volume of water can the tank now hold",
+    "option": {
+      "a": "48 cm<sup>3</sup>",
+      "b": "33 cm<sup>3</sup>",
+      "c": "60 cm<sup>3</sup>",
+      "d": "27 cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Volume of cube = L<sup>3</sup>\n\n3<sup>3</sup> = 27cm<sup>3</sup>\n\nvolume of rectangular tank = L x B X h\n\n= 3 x 4 x 5\n\n= 60cm<sup>3</sup>\n\nvolume of H<sub>2</sub> O the tank can now hold\n\n= volume of rectangular tank - volume of cube\n\n= 60 - 27\n\n= 33cm<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 648,
     "question": "The perpendicular bisector of a line XY is the locus of a point \n",
     "option": {

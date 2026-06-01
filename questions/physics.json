@@ -592,6 +592,22 @@
     "examyear": "2010"
   },
   {
+    "id": 82,
+    "question": "The acceleration due to gravity ",
+    "option": {
+      "a": "increases with increasing altitude ",
+      "b": "decreases with increasing altitude ",
+      "c": "increases with increase in the square of the altitude ",
+      "d": "is not affected by the altitude"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 83,
     "question": "Which of the following statements are correct of nuclear fission? During the process \nI. energy is released \nII. More neutrons are released than those that cause fission \nIII. Small nuclei merge into large nuclei \nIV. There is a loss on mass\n",
     "option": {
@@ -956,6 +972,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nInductive reactance (Xₗ) = 1Ω\nFrequency (f) = 50/π Hz\nInductance (L) = ?\n\nFormula for Inductive Reactance:\nXₗ = 2πfL\nRearranging to find L:\nL = Xₗ/(2πf)\nSubstituting values:\nL = 1/(2π × 50/π)\nL = 1/(2 × 50)\nL = 1/100\nL = 0.01 H\nAnswer: B. 0.01H",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 134,
+    "question": "A stroboscope can be used to make the wave appear …………..",
+    "option": {
+      "a": "Stationary",
+      "b": "In motion",
+      "c": "Dipper",
+      "d": "Ripple"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Stroboscope is a scientific instrument used to make a wave appears stationary when used",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -2896,6 +2928,22 @@
     "examyear": "2022"
   },
   {
+    "id": 478,
+    "question": "A current of 0.5 A flows through a resistor when connected to a 40 V battery. How much energy is dispatched in 2 minutes?",
+    "option": {
+      "a": "2400 J",
+      "b": "9600 J",
+      "c": "1500 J",
+      "d": "1200 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCurrent, I = 0.5 A\nVoltage, V = 40 V\nTime, t = 2 minutes = 2 × 60 = 120 s\nEnergy, E = ?\n\nSolution:\nUsing the electrical energy formula:\nE = VIt\nStep 1: Substitute the known values\nE = 40 × 0.5 × 120\nStep 2: Calculate the energy\nE = 40 × 0.5 × 120\nE = 20 × 120\nE = 2400 J",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 479,
     "question": "For a pear-shaped conductor shown above, the concentration of charge on the outside is highest at?",
     "option": {
@@ -3644,6 +3692,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nRLC series circuit at resonance\n\nSolution:\nKey formulas:\nInductive reactance: XL = ωL = 2πfL\nCapacitive reactance: XC = 1/(ωC) = 1/(2πfC)\nResonance condition:\nAt resonance in an RLC series circuit, the impedance is minimum and purely resistive.\nThis occurs when the inductive and capacitive reactances cancel each other:\nXL = XC\nStep 1: Mathematical proof\nAt resonance frequency f₀:\n2πf₀L = 1/(2πf₀C)\nThis confirms: XL = XC\nStep 2: Physical interpretation\nWhen XL = XC:\n\nInductive and capacitive effects cancel\nTotal impedance Z = R (minimum)\nCurrent is maximum\nCircuit is in resonance",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 612,
+    "question": "Which of the following is an electrolyte?",
+    "option": {
+      "a": "Paraffin",
+      "b": "Sugar solution",
+      "c": "Grape fruit",
+      "d": "Alcohol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "It has been scientifically proven that 100g of grapefruit contains 135g of potassium electrolyte.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4716,6 +4780,22 @@
     "image": "",
     "answer": "d",
     "solution": "Cold water reduces the temperature of the hot water inside the can causing the contraction of the hot water. This reduces the pressure inside the can and the can collapses due to the external greater expression.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 811,
+    "question": "An empty density bottle weighs 2 N. if it weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is?",
+    "option": {
+      "a": "1/3",
+      "b": "2/3",
+      "c": "1/5",
+      "d": "2/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nWeight of empty bottle = 2 N\nWeight of bottle + water = 5 N\nWeight of bottle + olive oil = 4 N\n\nSolution:\n\nStep 1: Find weight of water and oil\nWeight of water = 5 N – 2 N = 3 N\nWeight of oil = 4 N – 2 N = 2 N\n\nStep 2: Relative density definition\nRelative density of oil = (mass of oil) / (mass of water) for the same volume. Since weight is proportional to mass (g constant),\nRelative density = (weight of oil) / (weight of water) = 2 N / 3 N = 2/3",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -5888,6 +5968,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1010,
+    "question": "An object of volume 1 m³ and mass 2 kg is totally immersed in a liquid of density 1 kgm⁻³. Calculate its apparent weight.",
+    "option": {
+      "a": "20 N",
+      "b": "10 N",
+      "c": "2 N",
+      "d": "1 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nVolume of object (V) = 1 m³\nMass of object (m) = 2 kg\nDensity of liquid (ρ_liquid) = 1 kg/m³\ng = 10 m/s² (assumed)\nApparent weight = ?\n\nUnderstanding apparent weight:\nApparent weight = Actual weight - Upthrust (buoyant force)\nStep 1: Calculate actual weight\nWeight = mg\nWeight = 2 × 10\nWeight = 20 N\nStep 2: Calculate upthrust (buoyant force)\nUpthrust = Weight of liquid displaced\nUpthrust = ρ_liquid × V × g\nSubstituting values:\nUpthrust = 1 × 1 × 10\nUpthrust = 10 N\nStep 3: Calculate apparent weight\nApparent weight = Actual weight - Upthrust\nApparent weight = 20 - 10\nApparent weight = 10 N",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1015,
     "question": "2000 cm³ of a gas is collected at 27°C and 700 mmHg. What is the volume of the gas at standard temperature and pressure?",
     "option": {
@@ -6620,6 +6716,22 @@
     "image": "",
     "answer": "a",
     "solution": "(Air is a poor conductor ~0.025 W/mK; water ~0.6, glass ~1, ash varies but is higher.)\n\nAir is a poor conductor of heat compared to solids and liquids like ash, glass, and water, making it a good insulator.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1142,
+    "question": "5400 kJ of heat energy was lost when some amount of steam condensed to water for drinking purposes at 15 °C. What is the quantity of water collected?\n[L = 2.26 × 10⁶ J kg⁻¹, c_w = 4200 J kg⁻¹ K⁻¹]",
+    "option": {
+      "a": "0.95 kg",
+      "b": "8.24 kg",
+      "c": "1.84 kg",
+      "d": " 2.06 kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nTotal heat lost, Q_total = 5400 kJ = 5.4 × 10⁶ J\nSteam condenses to water at 100 °C, then the water cools to 15 °C.\nLatent heat of vaporization, L = 2.26 × 10⁶ J kg⁻¹\nSpecific heat capacity of water, c_w = 4200 J kg⁻¹ K⁻¹\nInitial temperature of condensed water = 100 °C\nFinal temperature of water collected = 15 °C\nTemperature change during cooling, Δθ = 100 – 15 = 85 °C = 85 K\n\nSolution:\n\nStep 1: Heat lost in two stages\nFor mass m of steam:\nHeat lost during condensation = m × L\nHeat lost during cooling of condensed water from 100 °C to 15 °C = m × c_w × Δθ\nTotal heat lost = m × L + m × c_w × Δθ = m (L + c_w Δθ)\n\nStep 2: Substitute values\nL + c_w Δθ = 2.26 × 10⁶ + (4200 × 85)\n4200 × 85 = 357 000 = 3.57 × 10⁵\nTotal = 2.26 × 10⁶ + 0.357 × 10⁶ = 2.617 × 10⁶ J kg⁻¹\n\nStep 3: Solve for m\nQ_total = m × 2.617 × 10⁶\n5.4 × 10⁶ = m × 2.617 × 10⁶\nm = 5.4 / 2.617 ≈ 2.063 kg",
     "examtype": "utme",
     "examyear": "2025"
   },

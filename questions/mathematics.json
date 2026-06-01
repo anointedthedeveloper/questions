@@ -1264,6 +1264,22 @@
     "examyear": "2003"
   },
   {
+    "id": 261,
+    "question": "In the diagram above, PQ is parallel to RS. What is the value of α + β + γ?",
+    "option": {
+      "a": " 360°",
+      "b": "200°",
+      "c": "180°",
+      "d": "90°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699608/ALOC-Questions/Mathematics/2003/math_2003_q40_olppxr.jpg",
+    "answer": "a",
+    "solution": "γ + S = 180(Allied angles)\nS = 180 - γ\nα + P = 180(Allied angles)\np = 180 - α\nβ = P + S\nβ = 180 - α + 180 - γ\nβ = 360 - α - γ\nβ + α + γ = 360",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 264,
     "question": "In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and ∠SPR = 40o. Find ∠PSQ",
     "option": {
@@ -1468,6 +1484,22 @@
     "image": "",
     "answer": "b",
     "solution": "L∝T <sup>2</sup>\nL=kT <sup>2</sup>\nk=L/T <sup>2</sup>\nwhen T = 4, L = 64.\n\nk=64/4 <sup>2</sup>=4\nL=4T <sup>2</sup>\nwhen T = 9,\n\nL=4×9 <sup>2</sup>=324cm",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 305,
+    "question": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive?",
+    "option": {
+      "a": "8/15",
+      "b": "11/25",
+      "c": "12/25",
+      "d": " 13/25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "First teacher received 2/5\n ∴Remainder =1−2/5=3/5\n\n2nd teacher received; 2/15 of 3/5 = 2/15 × 3/5 = 2/25\n\n3rd teacher will receive; 1−2/5 – 2/25 = (25−10−2)/15 = 13/25",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3792,6 +3824,22 @@
     "examyear": "2012"
   },
   {
+    "id": 752,
+    "question": "The mean of seven numbers is 96. If an eighth number is added, the mean becomes 112. Find the eighth number.",
+    "option": {
+      "a": "126",
+      "b": "180",
+      "c": "216",
+      "d": "224"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "x/7 = 96/1  ==> 672/ + x/8 =112\n\n\nTherefore x = 224",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 754,
     "question": "Find the range of 4,9,6,3,2,8,10 and 11",
     "option": {
@@ -3820,6 +3868,22 @@
     "image": "",
     "answer": "a",
     "solution": "S.D = √(x−ϰ)<sup>2</sup>/n\n\n\nS.D = √76/5\n\nS.D = 3.9",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 760,
+    "question": "The shaded region above is represented by\nthe equation",
+    "option": {
+      "a": " y ≤ 4x + 2",
+      "b": " y ≥ 4x + 2",
+      "c": "y ≤ -4x + 4",
+      "d": "y ≤ 4x + 4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716130383/ALOC-Questions/Mathematics/2012/2012_MATH_JAMB_Q40_bmsqud.jpg",
+    "answer": "c",
+    "solution": "Equation of the line\n\ny − 4/x−0 = 0−4/1−0\ny − 4/x = −4/1\n∴ −4x = y −4\ny = −4x + 4\n∴ The shaded portion = y ≤ −4x + 4",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -5296,6 +5360,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1024,
+    "question": "What is the circumference of latitude 0°S if R is the radius of the earth? ",
+    "option": {
+      "a": " cos θ",
+      "b": "2πR cos θ",
+      "c": "R sin θ",
+      "d": "2 π r sin θ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Circumstances of latitude 0o\ns where R is the radius of the earth 2πr cos θ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1025,
     "question": "A room is 12m long, 9m wide and 8m high. Find the cosine of the angle which a diagonal of the room makes with the floor of the room ",
     "option": {
@@ -5468,6 +5548,22 @@
     "image": "",
     "answer": "b",
     "solution": "In〖<sup>5</sup>〗C<sub>2</sub> ways =5!/((5-2)!2!) = 5!/3!2! = (5 × 4 × 3!)/(3! × 2 × 1) = 10 ways",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1065,
+    "question": "Find the derivative of the function y = 2x<sup>2</sup>(2x - 1) at the point x = -1?",
+    "option": {
+      "a": "18",
+      "b": "16",
+      "c": "-4",
+      "d": " -6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "y = 2x<sup>2</sup>(2x - 1)\ny = 4x<sup>3</sup> - 2x<sup>2</sup>\n\ndy/dx = 12x<sup>2</sup>\n - 4x\nat x = -1\ndy/dx = 12(-1)<sup>2</sup>\n - 4(-1)\n= 12 + 4\n= 16",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -6684,6 +6780,22 @@
     "image": "",
     "answer": "d",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1283,
+    "question": "The volume of a cone (s) of height 6cm and base radius 5cm is",
+    "option": {
+      "a": "157 cm<sup>3</sup>",
+      "b": "155 cm<sup>3</sup>",
+      "c": "175 cm<sup>3</sup>",
+      "d": "145 cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "V = ⅓ πr<sup>2</sup> h\n\nVolume of a cone (Vc) = ⅓ × 3.14 × (5)2 × 6\n\n= 156.9<sup>3</sup>\n\n157 cm<sup>3</sup>",
     "examtype": "utme",
     "examyear": "2015"
   },

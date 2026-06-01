@@ -1904,6 +1904,22 @@
     "examyear": "2014"
   },
   {
+    "id": 369,
+    "question": "A petty cash account has an imprest of D28,000. The account has a debit balance of D5.000. How much cash is needed to restore the imprest?",
+    "option": {
+      "a": "D33,000",
+      "b": "D28,000",
+      "c": "D23,000",
+      "d": "D5,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 370,
     "question": "In a not - for - profit making organization, when the total income \tis less than the total expenditure, the difference is a",
     "option": {
@@ -5632,6 +5648,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1118,
+    "question": "<b>Use the information below to answer questions 4 and 5</b>\n\nCapital ...................₦2000\nBank ......................₦1200\nPurchase ..................₦2500\nSales .....................₦6700\nStock .....................₦1300\nCreditors .................₦1000\nFixed assets...............₦3700\nDrawings ..................₦?\n\n\nDrawings are always estimated at 50% of capital.\n\nThe trial balance total is?",
+    "option": {
+      "a": "₦9700",
+      "b": "₦8700",
+      "c": "₦7900",
+      "d": "₦7800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Drawings = 50% of capital = 0.5 × ₦2,000 = ₦1,000\n\nDebits: Bank ₦1,200 + Purchases ₦2,500 + Stock ₦1,300 + Fixed assets ₦3,700 + Drawings ₦1,000\n= ₦1,200 + ₦2,500 = ₦3,700\n₦3,700 + ₦1,300 = ₦5,000\n₦5,000 + ₦3,700 = ₦8,700\n₦8,700 + ₦1,000 = ₦9,700\n\nCredits: Capital ₦2,000 + Sales ₦6,700 + Creditors ₦1,000 = ₦9,700\n\nSo the trial balance total is ₦9,700.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1122,
     "question": "Which accounting concept supports the assertion that economic reality takes precedence over legal issues?",
     "option": {
@@ -6556,6 +6588,22 @@
     "image": "",
     "answer": "c",
     "solution": "Production Cost = Raw Materials Consumed + Direct Labor + Factory Overheads\nStep 1: Raw Materials Consumed\n= ₦300,600\nStep 2: Direct Labor (Manufacturing Wages)\n= ₦27,000\nStep 3: Factory Overheads\nCalculate the factory portions of each overhead:\n\nLighting: 1/3 × ₦30,000 = ₦10,000\nPower: 2/5 × ₦75,000 = ₦30,000\nInsurance: 1/6 × ₦36,000 = ₦6,000\nRent: 1/7 × ₦56,000 = ₦8,000\n\nTotal Factory Overheads = ₦10,000 + ₦30,000 + ₦6,000 + ₦8,000 = ₦54,000\nStep 4: Calculate Total Production Cost\nProduction Cost = ₦300,600 + ₦27,000 + ₦54,000 = ₦381,600",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1284,
+    "question": "The items entered in an opening statement of affairs of an enterprise that keeps incomplete record are",
+    "option": {
+      "a": "sales income",
+      "b": "receipt from debtors",
+      "c": "fixtures and fittings",
+      "d": "rent paid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The opening Statement of Affairs in an incomplete‐records system is essentially a makeshift balance sheet showing the business’s assets and liabilities at the period’s start.",
     "examtype": "utme",
     "examyear": "2000"
   },

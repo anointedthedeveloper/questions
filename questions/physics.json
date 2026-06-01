@@ -11664,6 +11664,22 @@
     "examyear": "2011"
   },
   {
+    "id": 966,
+    "question": "The ground is always cold at night because the",
+    "option": {
+      "a": " atmosphere absorbs the sun's energy at night",
+      "b": "earth radiates heat to the atmosphere at night",
+      "c": " sun no longer shine at night",
+      "d": "atmosphere reflects the sun's energy at night"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The earth radiate heat to the atmosphere at night thereby lowering the temperature of the ground",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 967,
     "question": "A cannon is fired from town X, after how long is the sound heard at a town Y 4.95 km away? [velocity of sound in the air = 330 ms⁻¹]",
     "option": {
@@ -13340,6 +13356,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nMass of ice, m = 90 g\nDensity of ice, ρᵢ = 0.9 g/cm³\nDensity of water, ρ_w = 1.0 g/cm³\n\nSolution:\n\nStep 1: Calculate initial volume of ice\nVᵢ = m / ρᵢ = 90 / 0.9 = 100 cm³\n\nStep 2: Calculate final volume of water (after melting)\nV_w = m / ρ_w = 90 / 1.0 = 90 cm³\n\nStep 3: Calculate change in volume\nΔV = V_w – Vᵢ = 90 – 100 = –10 cm³\nThe negative sign indicates a decrease in volume. The magnitude of change is 10 cm³.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1124,
+    "question": "The graphical representation of the pressure law is always a straight line passing through the origin, only if the temperature scale is",
+    "option": {
+      "a": "Rankine",
+      "b": "Celsius",
+      "c": "Fahrenheit",
+      "d": "thermodynamic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The line passes through the origin only if the temperature is on the thermodynamic (Kelvin) scale.",
     "examtype": "utme",
     "examyear": "2025"
   },

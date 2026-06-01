@@ -8448,6 +8448,22 @@
     "examyear": "2010"
   },
   {
+    "id": 579,
+    "question": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
+    "option": {
+      "a": "q = 18",
+      "b": "p <1",
+      "c": "p = 18",
+      "d": " q < 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If 18(p + q) = (18 + p)q\n\nthen 18p + 18q = 18q + pq\n\n18p = pq ⟹ q = 18.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 580,
     "question": "If ∣∣∣x237∣∣∣ = 15, find the value of x",
     "option": {

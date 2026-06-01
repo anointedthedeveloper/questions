@@ -448,6 +448,22 @@
     "examyear": "2016"
   },
   {
+    "id": 170,
+    "question": "The yearly depreciation using the straight line method would be",
+    "option": {
+      "a": "N5,200",
+      "b": "N6,500",
+      "c": "N8, 800",
+      "d": "N4, 400"
+    },
+    "section": "Use the information below to answer the question that follows. A machine bought for N 35,000 was estimated to have a life span of 5 years with a scrap value of N= 9, 000. ",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 180,
     "question": "In a partnership goodwill is recognized when",
     "option": {
@@ -2640,6 +2656,22 @@
     "examyear": "2021"
   },
   {
+    "id": 828,
+    "question": "The corresponding entry of personal accounts  found in the debit side of the cashbook is to ",
+    "option": {
+      "a": "credit real accounts",
+      "b": "credit the ledger",
+      "c": "debit real accounts",
+      "d": "debit the ledger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a personal account (e.g. a customer’s account) appears on the debit side of the cashbook (showing cash received), the corresponding entry is a credit in that customer’s ledger account. This follows the rule for personal accounts: debit the giver, credit the receiver. Here, the business (receiver of cash) is debited, so the customer (giver of cash) is credited in the ledger.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 834,
     "question": "If goods are sent to branch at 25% on cost, what will be the cost of goods sent to the branch at a selling price of ₦100,000?\n",
     "option": {
@@ -3136,6 +3168,22 @@
     "examyear": "2024"
   },
   {
+    "id": 965,
+    "question": "One of the major features of bookkeeping is that it?",
+    "option": {
+      "a": " provides permanent records for all financial transactions",
+      "b": "is futuristic in nature",
+      "c": "accpets responsibility for all wrong postings",
+      "d": "does not give room for double entry procedures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Bookkeeping is the process of recording all financial transactions of a business in a systematic and chronological order.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 969,
     "question": "Given:\n\nSales.....................₦4,000\nLight expenses............₦900\nRent......................₦1,500\nPurchases.................₦7,500\nDebtors...................₦6,000\nCreditors.................₦9,000\nDrawings..................₦2,500\nBank......................₦400\nGeneral expenses..........₦1,500\nCapital...................₦10,300\n\nCalculate the total of trial balance?",
     "option": {
@@ -3452,6 +3500,22 @@
     "image": "",
     "answer": "b",
     "solution": "Reason: A source document (e.g., supplier’s invoice) provides the original evidence of a transaction and is used to verify the cost at which an asset was acquired before it’s recorded in the books.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1068,
+    "question": "The rule of accounting equation requires that account payable should be placed under?",
+    "option": {
+      "a": "liabilities",
+      "b": "equities",
+      "c": "assets",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Accounts payable represent amounts the business owes to suppliers — obligations or debts, so they’re recorded under liabilities (usually current liabilities) on the balance sheet.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3996,6 +4060,22 @@
     "image": "",
     "answer": "a",
     "solution": "Opening balance (Nov 1)\nLiability to creditor = ₦13 600\n\nAdd purchases (Nov 15)\n\n₦69 000\n→ ₦13 600 + ₦69 000 = ₦82 600\n\nSubtract cheque paid (Nov 15)\n– ₦51 600\n→ ₦82 600 − ₦51 600 = ₦31 000\n\nCheque returned (Nov 29)\n\n₦3 000\n→ ₦31 000 + ₦3 000 = ₦34 000\n\nDiscount granted (Nov 29)\n– ₦1 500\n→ ₦34 000 − ₦1 500 = ₦32 500",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1275,
+    "question": "A general journal contains?",
+    "option": {
+      "a": "date, narration, folio, debit, and purchases",
+      "b": "date, narration, folio, debit and purchase",
+      "c": " folio, credit, date, debit and sales",
+      "d": "debit, credit, narration, and date"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The general ledger contains the date of the transaction, a description of the details of the transactions, the debit column that shows all the debit entries, the credit column that records all the credit entries of the account.\n\nHence we have; date, description, debit, and credit column",
     "examtype": "utme",
     "examyear": "2000"
   },

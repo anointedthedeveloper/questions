@@ -2224,6 +2224,22 @@
     "examyear": "2009"
   },
   {
+    "id": 500,
+    "question": "Receipts and payments account is a summary of the",
+    "option": {
+      "a": "budget",
+      "b": "trading account",
+      "c": "cash book",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 501,
     "question": "What is the accumulated fund?",
     "option": {
@@ -2316,6 +2332,22 @@
     "image": "",
     "answer": "a",
     "solution": "Divide the net assets contributed by each partner by the total partnership's assets. This is the accountant ratio for income sharing. For instance, if the total assets of a company are ₦100,000 and the contribution of one partner is ₦10,000, the accounting ratio for this partner would be 0.1.\n\n Timo = 100,000\nchris = 150,000\nTotal = 250,000\n\nTimo =100,000 / 250,000 = 0.4\nchris = 150,000 / 250,000 = 0.6\n\nThis can be interpreted as 2:3 ratio",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 529,
+    "question": "When the invoice of a customer is overcast, the supplier will send to him a",
+    "option": {
+      "a": "debit note",
+      "b": "cheque",
+      "c": "credit note",
+      "d": "payment voucher"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A credit note is a letter sent by the supplier to the customer notifying the customer that he or she has been credited a certain amount due to an error in the original invoice or other reasons.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -4256,6 +4288,22 @@
     "examyear": "2024"
   },
   {
+    "id": 942,
+    "question": "Shares issued free of charge to existing shareholders based on their previous holdings is __ issue",
+    "option": {
+      "a": "accrued",
+      "b": "premium",
+      "c": "floating",
+      "d": "bonus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A bonus issue is a way for a company to reward existing shareholders by distributing additional shares to them at no cost. The number of bonus shares received by each shareholder is typically proportional to their existing shareholding.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 943,
     "question": "The document used in making lodgments into a current account is",
     "option": {
@@ -4764,6 +4812,22 @@
     "image": "",
     "answer": "d",
     "solution": "In a not-for-profit organization, profits from activities are treated as surpluses and recorded on the credit side of the Income and Expenditure Account, since they increase the organization's funds.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1050,
+    "question": "The head office of Emeka Stores maintains the financial accounts of all its branches. The branch store account in the head office serves as the branch?",
+    "option": {
+      "a": "debtors' account",
+      "b": "trading account",
+      "c": "expenses account",
+      "d": "cash account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation: the branch store account in the head office records goods sent to the branch, returns, and stock movements — effectively showing the branch’s trading activity. It therefore serves as the branch’s trading account in the head office books.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -6448,6 +6512,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1417,
+    "question": "Creditors use Accounting information for the purpose of",
+    "option": {
+      "a": " planning sales to a company",
+      "b": "controlling a company's affairs",
+      "c": " investing in a company",
+      "d": " assessing a company's liquidity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Creditors need accounting information, especially on current assets and current liabilities, to evaluate whether the business can meet its short‑term obligations and thus repay loans on time.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1418,
     "question": "The instrument that are generated when firms enter into business transactions with others are called",
     "option": {
@@ -6576,6 +6656,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1449,
+    "question": "Accumulated fund on 1st January 1993 is",
+    "option": {
+      "a": "₦7,470",
+      "b": "₦8,470",
+      "c": "₦7,850",
+      "d": "₦7,520"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756671991/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q34-35_xtycy4.jpg",
+    "answer": "a",
+    "solution": "To calculate the Accumulated Fund on 1st January 1993, we prepare a Statement of Affairs using the opening balances (assets – liabilities).\n\nStep 1: Identify assets on 1/1/93\nCash/Bank balance (from Receipts & Payments b/d) = ₦720\n\nSubscriptions in arrears = ₦300\n\nFurniture = ₦7,000\n\nTotal Assets = ₦720 + ₦300 + ₦7,000 = ₦8,020\n\nStep 2: Identify liabilities on 1/1/93\nSubscriptions received in advance = ₦500\n\nRate owing = ₦50\n\nTotal Liabilities = ₦500 + ₦50 = ₦550\n\nStep 3: Accumulated Fund\n\nAccumulated Fund = Total Assets − Total Liabilities\nAccumulated Fund = ₦8,020 − ₦550 =₦7,470",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1450,
     "question": "Adamu Babaji and Chukwu are in partnership and\nthey share profit and losses on ratio 3:2:1. Their\nrespective capitals are ₦20,000, ₦15,000 and ₦5,000\non which they are entitled to interest at 5% per\nannum. The profit for the year before charging interest\non capital amounted to ₦5,500. Calculate the profit\nfor Adamu.",
     "option": {
@@ -6620,6 +6716,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672047/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q37-38_sdjnqq.png",
     "answer": "a",
     "solution": "Lawal's Current Account (Corrected):\nCredit Side (Right):\n\nBalance b/d: ₦540\nInterest on capital: ₦360\nShare of profit: ₦13,100\nTotal Credits: ₦14,000\n\nDebit Side (Left):\n\nDrawings: ₦6,000\n\nCalculation:\nClosing balance = Total Credits - Drawings\nClosing balance = ₦14,000 - ₦6,000 = ₦8,000 credit\nSince the credits exceed the debits, Lawal has a credit balance of ₦8,000.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1459,
+    "question": "What isthe working capital?",
+    "option": {
+      "a": "₦12,000",
+      "b": "₦11,000",
+      "c": "₦8,000",
+      "d": "₦4,000"
+    },
+    "section": "<b>Use the information below to answer questions 45 & 46.</b>",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672119/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q45_-46_as7g7i.png",
+    "answer": "d",
+    "solution": "To find the working capital, calculate Current Assets minus Current Liabilities.\nFrom the Balance Sheet:\nCurrent Assets:\n\nStock: ₦4,000\nCash: ₦8,000\nDebtors: ₦6,000\nTotal Current Assets: ₦18,000\n\nCurrent Liabilities:\n\nCreditors: ₦9,000\nAccrued wages: ₦5,000\nTotal Current Liabilities: ₦14,000\n\nWorking Capital:\nCurrent Assets - Current Liabilities = ₦18,000 - ₦14,000 = ₦4,000",
     "examtype": "utme",
     "examyear": "1997"
   },

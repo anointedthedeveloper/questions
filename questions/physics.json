@@ -11792,6 +11792,22 @@
     "examyear": "2007"
   },
   {
+    "id": 772,
+    "question": "The bond that forms a semiconductor is?",
+    "option": {
+      "a": "covalent",
+      "b": "electrovalent",
+      "c": "ionic",
+      "d": "metallic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Semiconductors, such as silicon and germanium, primarily exhibit covalent bonding, where atoms share electrons to form a stable structure.",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 773,
     "question": "Silicon doped with aluminum and germanium doped with arsenic become?",
     "option": {
@@ -16732,6 +16748,22 @@
     "image": "",
     "answer": "d",
     "solution": "Liquids and gases expand when they are heated. The liquid or gas in hot areas is less dense than the liquid or gas in cold areas, so it rises into the cold areas.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1101,
+    "question": "The distance between two successive crests of a wave is 15 cm and the velocity 300 m s⁻¹. Calculate the frequency.",
+    "option": {
+      "a": " 2.0 × 10² Hz",
+      "b": "4.5 × 10³ Hz",
+      "c": "2.0 × 10³ Hz",
+      "d": "4.5 × 10² Hz"
+    },
+    "section": "    ",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nWavelength, λ = 15 cm = 0.15 m\nWave velocity, v = 300 m s⁻¹\n\nSolution:\n\nStep 1: Wave equation\nThe relationship between velocity, frequency, and wavelength is:\nv = f × λ\n\nStep 2: Rearrange for frequency\nf = v / λ\n\nStep 3: Substitute the values\nf = 300 / 0.15 = 2000 Hz\n\nStep 4: Express in scientific notation\n2000 Hz = 2.0 × 10³ Hz",
     "examtype": "utme",
     "examyear": "2014"
   },

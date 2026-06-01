@@ -6480,6 +6480,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1156,
+    "question": "Given:\n\nI. The consolidated revenue fund balance b/d = ₦650,000\nII. Issues from contingency fund amounted to = ₦240,000\nIII. Amount transferred to contingency fund is = ₦210,000\n\nWhat is the consolidated revenue fund balance?",
+    "option": {
+      "a": "₦1,100,000",
+      "b": "₦680,000",
+      "c": "₦440,000",
+      "d": "₦410,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find: Consolidated revenue fund balance\nStep 1: Start with opening balance\nOpening balance = ₦650,000\nStep 2: Account for contingency fund transactions\n\nIssues from contingency fund (₦240,000) - This increases the consolidated revenue fund\nAmount transferred to contingency fund (₦210,000) - This decreases the consolidated revenue fund\n\nStep 3: Calculate the consolidated revenue fund balance\nConsolidated revenue fund balance = Opening balance + Issues from contingency fund - Transfers to contingency fund\nConsolidated revenue fund balance = ₦650,000 + ₦240,000 - ₦210,000\nConsolidated revenue fund balance = ₦890,000 - ₦210,000\nConsolidated revenue fund balance = ₦680,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1157,
     "question": "<b>Use the information below to answer questions 43 and 44</b>\n\nGoods from head office................₦13,400\nReturns to head office ...............₦118\nRates and insurance paid .............₦188\nWages paid ...........................₦913\nCash remitted to head office..........₦16,625\nStock at 1/1/2000.....................₦1,875\nRents paid ...........................₦325\nStock at 31/12/2000 ..................₦1,975\nSundry expenses ......................₦200\n\nThe profit realized from the trade is?",
     "option": {
@@ -7628,6 +7644,22 @@
     "image": "",
     "answer": "a",
     "solution": "Dr. Preliminary Expenses ₦5,000\n  Cr. Cash ₦5,000\n\nSo you debit Preliminary Expenses and credit Cash",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1359,
+    "question": "To record the transfer of stock from one department to another, the correct entry would be to debit?",
+    "option": {
+      "a": "goods outwards and credit goods inwards",
+      "b": "merchandise account and credit department stock account",
+      "c": "department transfering and credit department receivving",
+      "d": "department receiving and credit department transfering"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "You would debit the department receiving the stock and credit the department transferring the stock.",
     "examtype": "utme",
     "examyear": "1999"
   },

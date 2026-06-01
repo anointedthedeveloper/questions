@@ -1,12 +1,7 @@
 [
   {
-<<<<<<< Updated upstream
     "id": 1,
     "question": "In which of the following countries is governmental powers most fused? ",
-=======
-    "id": 4,
-    "question": "In a parliamentary system of government, the function of the head of state and the head of government are vested in ",
->>>>>>> Stashed changes
     "option": {
       "a": "Nigeria ",
       "b": "United States of America ",
@@ -133,7 +128,6 @@
     "examyear": "2006"
   },
   {
-<<<<<<< Updated upstream
     "id": 12,
     "question": "The agent of political socialization generally regarded as the most important is ",
     "option": {
@@ -166,8 +160,6 @@
     "examyear": "2006"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 14,
     "question": "Which of the following best describes French colonial policy in Africa? ",
     "option": {
@@ -184,7 +176,6 @@
     "examyear": "2006"
   },
   {
-<<<<<<< Updated upstream
     "id": 15,
     "question": "What was the primary purpose of the Sir Henry Willink Commission of Inquiry? ",
     "option": {
@@ -240,6 +231,22 @@
       "b": "elected members of the state house of assembly  ",
       "c": "candidates who can contest elections ",
       "d": "those citizens qualified to vote at elections"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 20,
+    "question": "Into how many local government areas in Nigeria officially delineated? ",
+    "option": {
+      "a": "654",
+      "b": "650",
+      "c": "820",
+      "d": "774"
     },
     "section": "",
     "image": "",
@@ -409,6 +416,22 @@
     "examyear": "2007"
   },
   {
+    "id": 33,
+    "question": "How many countries are in Africa? ",
+    "option": {
+      "a": "fifteen ",
+      "b": "fifty-three ",
+      "c": "fifty",
+      "d": "fifty-five"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 34,
     "question": "Economic Community of West African States (ECOWAS) was based on the initiative of the heads of state  of these two countries ",
     "option": {
@@ -441,8 +464,6 @@
     "examyear": "2007"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 36,
     "question": "In which city was the ECOWAS Treaty signed ",
     "option": {
@@ -891,7 +912,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 69,
     "question": "The independence of the judiciary can be enhance by the following except ",
     "option": {
@@ -940,8 +960,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 72,
     "question": "In the pre-colonial era, which of the following was not a feature of the emirate administration? ",
     "option": {
@@ -974,7 +992,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 74,
     "question": "Traditional rulers were restricted to ceremonial rules by the local  government  reforms of ",
     "option": {
@@ -991,8 +1008,6 @@
     "examyear": "2009"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 75,
     "question": "In a parliamentary system, who ensures that members are in the house to vote on major issues? ",
     "option": {
@@ -1025,7 +1040,6 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 77,
     "question": "A social system in which power is derived  from control over land is called ",
     "option": {
@@ -1042,8 +1056,6 @@
     "examyear": "2009"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 78,
     "question": "“Rule of law” refers to situations in which ",
     "option": {
@@ -1060,7 +1072,6 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 79,
     "question": "An important principle of the civil service is ",
     "option": {
@@ -1077,8 +1088,6 @@
     "examyear": "2009"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 80,
     "question": "Which of these constitutions recognized local government is the third tier of government? ",
     "option": {
@@ -1095,7 +1104,6 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 81,
     "question": "A condition for judicial indolence is the appointment of judges by the  ",
     "option": {
@@ -1112,8 +1120,6 @@
     "examyear": "2009"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 82,
     "question": "The minorities  Commission appointed in Nigeria in 1957 recommended that ",
     "option": {
@@ -1130,7 +1136,6 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 83,
     "question": "The second military coup data in Nigeria took place on ",
     "option": {
@@ -1195,8 +1200,6 @@
     "examyear": "2009"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 87,
     "question": "Public opinion is important because it ",
     "option": {
@@ -1213,45 +1216,8 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 88,
     "question": "Bicameral legislature exists ",
-=======
-    "id": 91,
-    "question": "The leader of the northern people’s congress was ",
-    "option": {
-      "a": "Yakubu Maitama Sule ",
-      "b": "Abubakar Tafawa Balewa ",
-      "c": "Aminu Kano ",
-      "d": "Ahmadu Bello"
-    },
-    "section": "",
-    "image": "",
-    "answer": "d",
-    "solution": "",
-    "examtype": "post-utme",
-    "examyear": "2009"
-  },
-  {
-    "id": 101,
-    "question": "The Clifford Constitution was notable for ",
-    "option": {
-      "a": "amalgamating the Northern and southern provinces ",
-      "b": "introducing indirect rule ",
-      "c": "establishing the legislature  council ",
-      "d": "creating a Northern majority in the legislature council."
-    },
-    "section": "",
-    "image": "",
-    "answer": "c",
-    "solution": "",
-    "examtype": "post-utme",
-    "examyear": "2010"
-  },
-  {
-    "id": 103,
-    "question": "During the period 1960-1966, Nigerian was governed under the ",
->>>>>>> Stashed changes
     "option": {
       "a": "where two cameras are used to monitor court proceedings ",
       "b": "To prevent the concentration of power on legislative house ",
@@ -1474,6 +1440,38 @@
     "examyear": "2010"
   },
   {
+    "id": 103,
+    "question": "During the period 1960-1966, Nigerian was governed under the ",
+    "option": {
+      "a": "presidential system of government ",
+      "b": "Westminster system of government ",
+      "c": "confederal system of government ",
+      "d": "Unitary system of government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 104,
+    "question": "Which of the following in the Sokoto Caliphate performed functions similar to that of the Bashorun in Oyo Kingdom? ",
+    "option": {
+      "a": "Waziri ",
+      "b": "Galadima ",
+      "c": "Ma’aji  ",
+      "d": "Alkali  "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 105,
     "question": "In the Igbo political system, the most senior  member of the council of elders is the ",
     "option": {
@@ -1666,7 +1664,6 @@
     "examyear": "2010"
   },
   {
-<<<<<<< Updated upstream
     "id": 117,
     "question": "Nigeria hosted the commonwealth conference which eventually led to the independence of ",
     "option": {
@@ -1715,8 +1712,6 @@
     "examyear": "2010"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 120,
     "question": "Fascism originated from ",
     "option": {
@@ -1733,7 +1728,6 @@
     "examyear": "2010"
   },
   {
-<<<<<<< Updated upstream
     "id": 121,
     "question": "According to Karl Marx, the mode of production that precedes capitalism is ",
     "option": {
@@ -1750,8 +1744,6 @@
     "examyear": "2010"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 122,
     "question": "One of the distinctive features of a democracy is that it ",
     "option": {
@@ -1768,7 +1760,6 @@
     "examyear": "2010"
   },
   {
-<<<<<<< Updated upstream
     "id": 123,
     "question": "Serfs are the dominated class under ",
     "option": {
@@ -1881,8 +1872,6 @@
     "examyear": "2011"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 131,
     "question": "Bicameral legislature exists: ",
     "option": {
@@ -1899,7 +1888,6 @@
     "examyear": "2011"
   },
   {
-<<<<<<< Updated upstream
     "id": 132,
     "question": "A major issue that distinguishes pressure groups from political parties is: ",
     "option": {
@@ -1916,8 +1904,6 @@
     "examyear": "2011"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 133,
     "question": "Equality before the law is a component of: ",
     "option": {
@@ -1934,7 +1920,6 @@
     "examyear": "2011"
   },
   {
-<<<<<<< Updated upstream
     "id": 134,
     "question": "A law passed by the legislature and assented to by the executive is: ",
     "option": {
@@ -1967,8 +1952,6 @@
     "examyear": "2011"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 137,
     "question": "The fundamental assumption on which the idea of the rule of law is based is: ",
     "option": {
@@ -2273,7 +2256,6 @@
     "examyear": "2012"
   },
   {
-<<<<<<< Updated upstream
     "id": 156,
     "question": "Under a parliamentary system of government, the cabinet holds office at the pleasure of the ",
     "option": {
@@ -2306,8 +2288,6 @@
     "examyear": "2012"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 158,
     "question": "The most important aspect of political participation in a democracy is  ",
     "option": {
@@ -2356,7 +2336,6 @@
     "examyear": "2012"
   },
   {
-<<<<<<< Updated upstream
     "id": 161,
     "question": "The Universal Negro Improvement Association was founded by  ",
     "option": {
@@ -2469,8 +2448,6 @@
     "examyear": "2012"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 169,
     "question": "A major factor that differentiates International politics from domestic politics is that International politics ",
     "option": {
@@ -2487,7 +2464,6 @@
     "examyear": "2012"
   },
   {
-<<<<<<< Updated upstream
     "id": 170,
     "question": "Globalization encompasses all the following except  ",
     "option": {
@@ -2559,31 +2535,6 @@
       "b": "Independent Newspapers Executive Committee  ",
       "c": "Independent National Export Council  ",
       "d": "Independent National Electoral Commission"
-=======
-    "id": 175,
-    "question": "Which of the following is not a feature of Nigeria’s electoral system?  ",
-    "option": {
-      "a": "direct election   ",
-      "b": "general election  ",
-      "c": "Proportional representation  ",
-      "d": "secret ballot"
-    },
-    "section": "",
-    "image": "",
-    "answer": "c",
-    "solution": "",
-    "examtype": "post-utme",
-    "examyear": "2013"
-  },
-  {
-    "id": 182,
-    "question": "Which of these is not an instrument of foreign policy",
-    "option": {
-      "a": "war    ",
-      "b": "diplomacy  ",
-      "c": "subversion   ",
-      "d": "foreign aid"
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -2593,7 +2544,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 175,
     "question": "Which of the following is not a feature of Nigeria’s electoral system?  ",
     "option": {
@@ -2722,8 +2672,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 184,
     "question": "The independence  of the judiciary can be enhanced by the following except  ",
     "option": {
@@ -2740,7 +2688,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 185,
     "question": "The Aba women riot in Nigeria took place in   ",
     "option": {
@@ -2821,8 +2768,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 191,
     "question": "Nigeria’s voting at the United Nations is guided primarily by",
     "option": {
@@ -2839,7 +2784,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 192,
     "question": "On the basis of its structure, a political party can be classified an indirect if",
     "option": {
@@ -2872,8 +2816,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 194,
     "question": "In judicial administration, the term ‘the bench’ refers to the  ",
     "option": {
@@ -2890,7 +2832,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 195,
     "question": "How does the president relieve a minister of his appointment in a presidential system of government?",
     "option": {
@@ -2907,8 +2848,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 196,
     "question": "An elected legislator in a presidential system can lose his seat through  ",
     "option": {
@@ -2941,7 +2880,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 199,
     "question": "Government as an institution of a state can best be defined as a body that",
     "option": {
@@ -2958,8 +2896,6 @@
     "examyear": "2000"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 200,
     "question": "Political authority is the",
     "option": {
@@ -2976,7 +2912,6 @@
     "examyear": "2000"
   },
   {
-<<<<<<< Updated upstream
     "id": 201,
     "question": "The rule of law refers to the principle of",
     "option": {
@@ -3041,8 +2976,6 @@
     "examyear": "2000"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 205,
     "question": "Diplomatic immunity is a limitation to",
     "option": {
@@ -3059,7 +2992,6 @@
     "examyear": "2000"
   },
   {
-<<<<<<< Updated upstream
     "id": 206,
     "question": "A federal state is always expensive to run because",
     "option": {
@@ -3092,8 +3024,6 @@
     "examyear": "2000"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 208,
     "question": "Veto power in a presidential system lies with the",
     "option": {
@@ -3110,7 +3040,6 @@
     "examyear": "2000"
   },
   {
-<<<<<<< Updated upstream
     "id": 209,
     "question": "Which of the following is the lowest class of people in the hierarchy of a feudal system?",
     "option": {
@@ -3127,8 +3056,6 @@
     "examyear": "2000"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 210,
     "question": "Mussolini’s fascism and Hitler’s Nazism are good examples of",
     "option": {
@@ -3145,7 +3072,6 @@
     "examyear": "2000"
   },
   {
-<<<<<<< Updated upstream
     "id": 211,
     "question": "Which of the following is supreme in a federal system?",
     "option": {
@@ -3226,8 +3152,6 @@
     "examyear": "2000"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 216,
     "question": "Authoritarianism is least Inherent in",
     "option": {
@@ -3260,7 +3184,6 @@
     "examyear": "2000"
   },
   {
-<<<<<<< Updated upstream
     "id": 218,
     "question": "The programme of a political party is known as its",
     "option": {
@@ -3277,8 +3200,6 @@
     "examyear": "2000"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 219,
     "question": "Which of the following is a source of a country’s constitution",
     "option": {
@@ -3295,7 +3216,6 @@
     "examyear": "2000"
   },
   {
-<<<<<<< Updated upstream
     "id": 220,
     "question": "The acquisition of political power through hereditary means is a feature of",
     "option": {
@@ -3303,15 +3223,6 @@
       "b": "Capitalism",
       "c": "Oligarchy",
       "d": "Monarch"
-=======
-    "id": 229,
-    "question": "Which of the following factors may work against a representative system of government?",
-    "option": {
-      "a": "High literacy of the electorate",
-      "b": "The introduction of universal adult suffrage",
-      "c": "Independent electoral commission",
-      "d": "Rigging of elections"
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -3321,7 +3232,6 @@
     "examyear": "2000"
   },
   {
-<<<<<<< Updated upstream
     "id": 221,
     "question": "Which of the following factors limits the expression of public opinion?",
     "option": {
@@ -3546,8 +3456,6 @@
     "examyear": "2000"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 236,
     "question": "Immediately after the Nigerian Civil War, Gowon’s regime embarked on",
     "option": {
@@ -3900,7 +3808,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 259,
     "question": "The Economic Community of West African States (ECOWAS) was formed on",
     "option": {
@@ -3965,8 +3872,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 263,
     "question": "Military rule is an example of ______ authority.",
     "option": {
@@ -3983,7 +3888,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 264,
     "question": "Which of these countries is NOT a member of Economic Community of West African States (ECOWAS).",
     "option": {
@@ -4032,8 +3936,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 268,
     "question": "21.\tIn a parliamentary system of government a general election is usually conducted after",
     "option": {
@@ -4050,7 +3952,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 269,
     "question": "A nation is made up of people who share",
     "option": {
@@ -4147,8 +4048,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 276,
     "question": "An electoral officer charged with the responsibility of announcing election result at the local government level is known as",
     "option": {
@@ -4165,7 +4064,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 277,
     "question": "The idea of federalism in Nigeria started with ______ constitution.",
     "option": {
@@ -4182,8 +4080,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 278,
     "question": "Under the 1979 constitution of Nigeria, each state was allowed to elect",
     "option": {
@@ -4200,7 +4096,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 279,
     "question": "In the pre-colonial Hause/Fulani society, the political head was called",
     "option": {
@@ -4217,8 +4112,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 280,
     "question": "In dividing a country into constituencies, it is important to",
     "option": {
@@ -4347,29 +4240,8 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 288,
     "question": "Which of the following is a function of an electoral commission?",
-=======
-    "id": 295,
-    "question": "Ownership of land is a common feature of",
-    "option": {
-      "a": "aristocracy",
-      "b": "capitalism",
-      "c": "communalism",
-      "d": "feudalism."
-    },
-    "section": "",
-    "image": "",
-    "answer": "d",
-    "solution": "",
-    "examtype": "neco",
-    "examyear": "2013"
-  },
-  {
-    "id": 299,
-    "question": "Who was the leader of the Northern Elements Progressive Union (NEPU)?",
->>>>>>> Stashed changes
     "option": {
       "a": "Contesting elections",
       "b": "Organizing and conducting elections",
@@ -4528,6 +4400,22 @@
     "examyear": "2013"
   },
   {
+    "id": 299,
+    "question": "Who was the leader of the Northern Elements Progressive Union (NEPU)?",
+    "option": {
+      "a": "Alhaji Balarabe Musa",
+      "b": "Alhaji Umaru Dikko",
+      "c": "Mallam Aminu Kano",
+      "d": "Sir Abubakar Tafawa Balewa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 300,
     "question": "Which of the following is NOT a source of local government finance?",
     "option": {
@@ -4643,7 +4531,6 @@
     "id": 307,
     "question": "Which of the following is NOT a feature of the civil service?",
     "option": {
-<<<<<<< Updated upstream
       "a": "Anonymity",
       "b": "Expertise",
       "c": "Impartiality",
@@ -4836,8 +4723,6 @@
     "id": 320,
     "question": "The process of learning the norms and values associated with a political system is referred to as political",
     "option": {
-=======
->>>>>>> Stashed changes
       "a": "socialization",
       "b": "indoctrination",
       "c": "culture",
@@ -4851,7 +4736,6 @@
     "examyear": "1999"
   },
   {
-<<<<<<< Updated upstream
     "id": 321,
     "question": "Which of the following best describes the role of the civil service?",
     "option": {
@@ -4884,8 +4768,6 @@
     "examyear": "1999"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 323,
     "question": "Legislative control over delegated legislation can be performed through",
     "option": {
@@ -4902,7 +4784,6 @@
     "examyear": "1999"
   },
   {
-<<<<<<< Updated upstream
     "id": 324,
     "question": "The feature which best differentiates pressure group from political parties is that they do not",
     "option": {
@@ -5038,15 +4919,6 @@
       "b": "1861",
       "c": "1900",
       "d": "1914"
-=======
-    "id": 330,
-    "question": "Naturalization is a process of acquiring citizenship by",
-    "option": {
-      "a": "persons of dual nationality",
-      "b": "foreign visitors to a country",
-      "c": "resident foreigners of good character",
-      "d": "persons born abroad."
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -5056,7 +4928,6 @@
     "examyear": "1999"
   },
   {
-<<<<<<< Updated upstream
     "id": 334,
     "question": "The Independence constitution can be described as",
     "option": {
@@ -5153,8 +5024,6 @@
     "examyear": "1999"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 341,
     "question": "The motion for self-government in Nigeria was proposed by Chief Anthony Enahoro in",
     "option": {
@@ -5171,7 +5040,6 @@
     "examyear": "1999"
   },
   {
-<<<<<<< Updated upstream
     "id": 342,
     "question": "The legislative functions of the government of Benin Kingdom were performed by the",
     "option": {
@@ -5307,21 +5175,11 @@
       "b": "negative position towards other nations",
       "c": "complete negligence of freedom of the press",
       "d": "violation of fundamental human rights"
-=======
-    "id": 359,
-    "question": "During the civil war, the major power that expressed moral support for Biafra’s self-determination was",
-    "option": {
-      "a": "Great Britain",
-      "b": "the United States",
-      "c": "China",
-      "d": "France"
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "d",
     "solution": "",
-<<<<<<< Updated upstream
     "examtype": "wassce",
     "examyear": "1999"
   },
@@ -5434,8 +5292,6 @@
     "image": "",
     "answer": "b",
     "solution": "",
-=======
->>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -5459,17 +5315,10 @@
     "id": 362,
     "question": "The Mid-Western Region was created in Nigeria in",
     "option": {
-<<<<<<< Updated upstream
       "a": "1961",
       "b": "1962",
       "c": "1963",
       "d": "1964"
-=======
-      "a": "Dame Margery Perham",
-      "b": "Sir Donald Cameron",
-      "c": "Sir Frederick Lugard",
-      "d": "Sir Arthur Richards"
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -5479,13 +5328,8 @@
     "examyear": "2016"
   },
   {
-<<<<<<< Updated upstream
     "id": 363,
     "question": "A major contentious issues confronting Nigerian Federalism is",
-=======
-    "id": 370,
-    "question": "A disadvantage of the one-party system is that it",
->>>>>>> Stashed changes
     "option": {
       "a": "poverty",
       "b": "education",
@@ -5564,7 +5408,6 @@
     "examyear": "2016"
   },
   {
-<<<<<<< Updated upstream
     "id": 369,
     "question": "The first Governor-General of Nigeria was",
     "option": {
@@ -5917,8 +5760,6 @@
     "examyear": "2016"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 396,
     "question": "The head of state in the first republic of Nigeria was",
     "option": {
@@ -5935,7 +5776,6 @@
     "examyear": "2016"
   },
   {
-<<<<<<< Updated upstream
     "id": 397,
     "question": "Which of the following parties formed the opposition in the House of Representatives during Nigerian first republic?",
     "option": {
@@ -6032,8 +5872,6 @@
     "examyear": "2016"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 403,
     "question": "A state with a hegemonic political party is one in which",
     "option": {
@@ -6050,7 +5888,6 @@
     "examyear": "2016"
   },
   {
-<<<<<<< Updated upstream
     "id": 404,
     "question": "Nigeria commitment to the liberation of Africa could best be seen in her policy towards",
     "option": {
@@ -6083,8 +5920,6 @@
     "examyear": "2016"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 406,
     "question": "Nigeria’s membership of the UN complements her foreign policy in the area of",
     "option": {
@@ -6101,7 +5936,6 @@
     "examyear": "2016"
   },
   {
-<<<<<<< Updated upstream
     "id": 407,
     "question": "Nigeria teamed up with other developing countries to assert a neutral posture under the platform of",
     "option": {
@@ -6198,8 +6032,6 @@
     "examyear": "2010"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 414,
     "question": "The legislative body of the United States of America is the",
     "option": {
@@ -6216,7 +6048,6 @@
     "examyear": "2010"
   },
   {
-<<<<<<< Updated upstream
     "id": 415,
     "question": "Unicameralism is a feature of the legislature in",
     "option": {
@@ -6713,8 +6544,6 @@
     "examyear": "2010"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 451,
     "question": "The prominent role Nigeria played in the UN in the 70’s earned her.",
     "option": {
@@ -6731,7 +6560,6 @@
     "examyear": "2010"
   },
   {
-<<<<<<< Updated upstream
     "id": 452,
     "question": "The head of Nigeria’s foreign mission in a Commonwealth nation is known as",
     "option": {
@@ -6835,31 +6663,6 @@
       "b": "an association of men in a given society",
       "c": "a branch of a nation",
       "d": "a geographical location."
-=======
-    "id": 462,
-    "question": "A governmental system in which constitutional supremacy resides in the centre is",
-    "option": {
-      "a": "federal",
-      "b": "confederal",
-      "c": "unitary",
-      "d": "parliamentary."
-    },
-    "section": "",
-    "image": "",
-    "answer": "c",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2012"
-  },
-  {
-    "id": 465,
-    "question": "The private ownership of the means of production is a feature of",
-    "option": {
-      "a": "capitalism",
-      "b": "socialism",
-      "c": "communalism",
-      "d": "communism."
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -6869,7 +6672,6 @@
     "examyear": "2012"
   },
   {
-<<<<<<< Updated upstream
     "id": 459,
     "question": "Political values are acquired in any given society through",
     "option": {
@@ -7014,8 +6816,6 @@
     "examyear": "2012"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 471,
     "question": "The bringing of a session of a parliament to an end through royal proclamation is known as",
     "option": {
@@ -7320,6 +7120,22 @@
     "examyear": "2012"
   },
   {
+    "id": 490,
+    "question": "The three registered political parties at the inception of Nigeria’s Fourth Republic were",
+    "option": {
+      "a": "PDP, DPP and PPA",
+      "b": "PDP, AD and APP",
+      "c": "PDP,  AD and PPA",
+      "d": "PDP, APP and AC."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 491,
     "question": "The Sharia legal system was first introduced in the Fourth Republic in",
     "option": {
@@ -7512,7 +7328,6 @@
     "examyear": "2012"
   },
   {
-<<<<<<< Updated upstream
     "id": 504,
     "question": "As part of the reforms in the UN, two slots were proposed in the Security Council for",
     "option": {
@@ -7625,8 +7440,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 511,
     "question": "Rule by the old people is known as",
     "option": {
@@ -7643,7 +7456,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 512,
     "question": "As an executive, the commissioner is charged with the responsibility of",
     "option": {
@@ -7660,8 +7472,22 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
+    "id": 513,
+    "question": "Rule adjudication is a primary function of the",
+    "option": {
+      "a": "legislature",
+      "b": "judiciary",
+      "c": "executive",
+      "d": "government."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 514,
     "question": "The judiciary controls the executive in federal states through",
     "option": {
@@ -7678,7 +7504,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 515,
     "question": "One major advantage of the unitary system is that it tends to make government",
     "option": {
@@ -7743,8 +7568,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 519,
     "question": "Which of the following constitutions is more suitable for centralization of political power?",
     "option": {
@@ -7761,7 +7584,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 520,
     "question": "The act of transferring autonomous powers to subordinate agencies is",
     "option": {
@@ -7906,8 +7728,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 529,
     "question": "The indirect rule system of administration was more successful in Northern Nigeria because",
     "option": {
@@ -7924,7 +7744,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 531,
     "question": "The first notable nationalist movement in West Africa was the",
     "option": {
@@ -7968,6 +7787,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 534,
+    "question": "Under Nigeria’s Second Republic, the Senate was under the leadership of",
+    "option": {
+      "a": "John Wash Pam",
+      "b": "J. S. Tarka",
+      "c": "Joseph Wayas",
+      "d": "Godwin Ume-Ezeoke."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -8021,8 +7856,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 538,
     "question": "Nigeria adopted a federal system of government because of",
     "option": {
@@ -8039,7 +7872,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 539,
     "question": "The highest policy making body under the Gowon Regime was the",
     "option": {
@@ -8056,8 +7888,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 540,
     "question": "Nigeria became a federation of thirty-six states during the era of",
     "option": {
@@ -8074,7 +7904,6 @@
     "examyear": "2013"
   },
   {
-<<<<<<< Updated upstream
     "id": 541,
     "question": "Which of the following headed the committee that recommended the suitability of Abuja as a new federal city?",
     "option": {
@@ -8219,8 +8048,6 @@
     "examyear": "2013"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 551,
     "question": "The organ of UN that promotes voluntary co­operation among member states in diverse areas is the",
     "option": {
@@ -8317,7 +8144,6 @@
     "examyear": "2014"
   },
   {
-<<<<<<< Updated upstream
     "id": 557,
     "question": "Membership of a society is",
     "option": {
@@ -8414,8 +8240,6 @@
     "examyear": "2014"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 563,
     "question": "An example of a country ruled by a constitutional monarch is",
     "option": {
@@ -8432,7 +8256,6 @@
     "examyear": "2014"
   },
   {
-<<<<<<< Updated upstream
     "id": 565,
     "question": "A flexible constitution is one which is",
     "option": {
@@ -8465,8 +8288,6 @@
     "examyear": "2014"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 567,
     "question": "Laws made by military governments at the state level are called",
     "option": {
@@ -8483,7 +8304,6 @@
     "examyear": "2014"
   },
   {
-<<<<<<< Updated upstream
     "id": 568,
     "question": "Citizenship is acquired by an alien through",
     "option": {
@@ -8500,8 +8320,6 @@
     "examyear": "2014"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 569,
     "question": "The officer responsible for announcing the result of an election is known as",
     "option": {
@@ -8534,7 +8352,6 @@
     "examyear": "2014"
   },
   {
-<<<<<<< Updated upstream
     "id": 571,
     "question": "The main objective of pressure groups is to",
     "option": {
@@ -8615,8 +8432,6 @@
     "examyear": "2014"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 576,
     "question": "The General Strike of 1945 was caused primarily by the",
     "option": {
@@ -8633,7 +8448,6 @@
     "examyear": "2014"
   },
   {
-<<<<<<< Updated upstream
     "id": 577,
     "question": "Before 1945, the component units of Nigeria were",
     "option": {
@@ -8682,8 +8496,6 @@
     "examyear": "2014"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 580,
     "question": "Which of the following nationalists was the founder of Nigeria’s first political party?",
     "option": {
@@ -8700,7 +8512,6 @@
     "examyear": "2014"
   },
   {
-<<<<<<< Updated upstream
     "id": 582,
     "question": "The Nigerian Independence Constitution was modified by the",
     "option": {
@@ -8813,8 +8624,6 @@
     "examyear": "2014"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 589,
     "question": "A problem of public corporations in Nigeria is",
     "option": {
@@ -8831,7 +8640,6 @@
     "examyear": "2014"
   },
   {
-<<<<<<< Updated upstream
     "id": 591,
     "question": "One of the main duties of the Local Government Service Commission is to",
     "option": {
@@ -9056,8 +8864,6 @@
     "examyear": "1988"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 607,
     "question": "The delegation of Administrative Powers to the local units with the central supervision and control is called.",
     "option": {
@@ -9074,7 +8880,6 @@
     "examyear": "1988"
   },
   {
-<<<<<<< Updated upstream
     "id": 608,
     "question": "Which of the following is not the function of the government?",
     "option": {
@@ -9187,8 +8992,6 @@
     "examyear": "1988"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 616,
     "question": "The state is different from the government because",
     "option": {
@@ -9237,7 +9040,6 @@
     "examyear": "1988"
   },
   {
-<<<<<<< Updated upstream
     "id": 619,
     "question": "A Nigeria citizen can only be deprived of his citizenship if he is",
     "option": {
@@ -9270,8 +9072,6 @@
     "examyear": "1988"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 621,
     "question": "Another word for red-tapism is",
     "option": {
@@ -9288,7 +9088,6 @@
     "examyear": "1988"
   },
   {
-<<<<<<< Updated upstream
     "id": 622,
     "question": "Rule adjudication is the main function of the",
     "option": {
@@ -9296,15 +9095,6 @@
       "b": "President",
       "c": "legislature",
       "d": "judiciary"
-=======
-    "id": 623,
-    "question": "The major problem that arose from the 1979 election centred around the",
-    "option": {
-      "a": "inability of many voters to find their names on the voters register",
-      "b": "cancellation of election results in many constituencies because of alleged irregularities",
-      "c": "inability of some dissatisfied candidates to seek redress in the Court of law.",
-      "d": "controversy over the presidential election result."
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -9314,7 +9104,6 @@
     "examyear": "1988"
   },
   {
-<<<<<<< Updated upstream
     "id": 624,
     "question": "The following are the key factors which influence Nigeria’s foreign relations except",
     "option": {
@@ -9331,8 +9120,6 @@
     "examyear": "1988"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 625,
     "question": "The independent of Nigeria was in 1945 with the coming to power in Britain of",
     "option": {
@@ -9349,7 +9136,6 @@
     "examyear": "1988"
   },
   {
-<<<<<<< Updated upstream
     "id": 626,
     "question": "Which of the following is not an accepted way of resolving international conflict",
     "option": {
@@ -9398,8 +9184,6 @@
     "examyear": "1988"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 629,
     "question": "In the Oyo traditional political system, the Alaafin of Oyo was elected or chosen by a group known as the",
     "option": {
@@ -9423,7 +9207,6 @@
       "b": "1951",
       "c": "1960",
       "d": "1963"
-<<<<<<< Updated upstream
     },
     "section": "",
     "image": "",
@@ -9492,28 +9275,6 @@
     "section": "",
     "image": "",
     "answer": "a",
-=======
-    },
-    "section": "",
-    "image": "",
-    "answer": "d",
-    "solution": "",
-    "examtype": "wassce",
-    "examyear": "1988"
-  },
-  {
-    "id": 634,
-    "question": "The creation of the office of the Prime Minister in Nigeria was accomplished in",
-    "option": {
-      "a": "1951",
-      "b": "1954",
-      "c": "1957",
-      "d": "1959"
-    },
-    "section": "",
-    "image": "",
-    "answer": "c",
->>>>>>> Stashed changes
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -9679,7 +9440,6 @@
     "examyear": "1988"
   },
   {
-<<<<<<< Updated upstream
     "id": 646,
     "question": "The Economic community of West Africa state (E.C.O.W.A.S) is",
     "option": {
@@ -9744,8 +9504,6 @@
     "examyear": "1988"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 650,
     "question": "The primary objective of all political parties is to",
     "option": {
@@ -9762,7 +9520,6 @@
     "examyear": "1988"
   },
   {
-<<<<<<< Updated upstream
     "id": 651,
     "question": "The French policy of Assimilation",
     "option": {
@@ -9843,6 +9600,22 @@
     "examyear": "1988"
   },
   {
+    "id": 656,
+    "question": "It is argued that most of the new States of Africa cannot remain faithful to the doctrines of non-alignment mainly because of",
+    "option": {
+      "a": "corruption",
+      "b": "ethnic problems",
+      "c": "bad leadership",
+      "d": "poor economy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 657,
     "question": "The first political party in Nigeria was",
     "option": {
@@ -9875,8 +9648,6 @@
     "examyear": "1988"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 659,
     "question": "In the federation, the purpose of enumerating the powers of the central government is to",
     "option": {
@@ -9893,7 +9664,6 @@
     "examyear": "1988"
   },
   {
-<<<<<<< Updated upstream
     "id": 660,
     "question": "The ultimate aim of a communist system of government is \tthe distribution of goods and services according to",
     "option": {
@@ -10038,8 +9808,6 @@
     "examyear": "1989"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 669,
     "question": "In the parliamentary system of government, ministers are",
     "option": {
@@ -10456,22 +10224,6 @@
     "examyear": "1989"
   },
   {
-    "id": 681,
-    "question": "Bicameralism refers to",
-    "option": {
-      "a": "a one chamber legislature",
-      "b": "the process of voting in the legislature",
-      "c": "the upper chamber in a legislature",
-      "d": "a two-chamber legislature"
-    },
-    "section": "",
-    "image": "",
-    "answer": "d",
-    "solution": "",
-    "examtype": "wassce",
-    "examyear": "1989"
-  },
-  {
     "id": 697,
     "question": "Socialism developed as a protest against the evils of",
     "option": {
@@ -10488,7 +10240,6 @@
     "examyear": "1989"
   },
   {
-<<<<<<< Updated upstream
     "id": 698,
     "question": "The major advantage of the secret ballot is that",
     "option": {
@@ -10729,8 +10480,6 @@
     "examyear": "1989"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 713,
     "question": "Which of the following did not formally recognize Biafra’ as an independent state?",
     "option": {
@@ -10763,7 +10512,6 @@
     "examyear": "1989"
   },
   {
-<<<<<<< Updated upstream
     "id": 715,
     "question": "Nigeria hosted the meeting of Commonwealth Heads of State in",
     "option": {
@@ -10812,8 +10560,6 @@
     "examyear": "1989"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 718,
     "question": "Capitalism often encourages",
     "option": {
@@ -10862,7 +10608,6 @@
     "examyear": "1989"
   },
   {
-<<<<<<< Updated upstream
     "id": 721,
     "question": "Election among candidates from the same party before the final elections are called",
     "option": {
@@ -10927,8 +10672,6 @@
     "examyear": "2017"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 725,
     "question": "Which of the following is a merit of aristocracy?",
     "option": {
@@ -10945,7 +10688,6 @@
     "examyear": "2017"
   },
   {
-<<<<<<< Updated upstream
     "id": 726,
     "question": "Which of the following is a strategy of foreign policy implementation?",
     "option": {
@@ -11026,8 +10768,6 @@
     "examyear": "2017"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 731,
     "question": "The popularity of a political party in given democracy rests on its __",
     "option": {
@@ -11172,7 +10912,6 @@
     "examyear": "2017"
   },
   {
-<<<<<<< Updated upstream
     "id": 740,
     "question": "Which of the following is the oldest Public Corporation in Nigeria?",
     "option": {
@@ -11189,8 +10928,6 @@
     "examyear": "2017"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 741,
     "question": "In 1987, Nigeria attained a federation of __",
     "option": {
@@ -11383,7 +11120,6 @@
     "examyear": "2017"
   },
   {
-<<<<<<< Updated upstream
     "id": 754,
     "question": "A social group consisting of two or more people who interact and identify will one another is __",
     "option": {
@@ -11496,8 +11232,22 @@
     "examyear": "2017"
   },
   {
-=======
->>>>>>> Stashed changes
+    "id": 761,
+    "question": "Which of the following countries significantly contributed to the formation of ECOMOG?",
+    "option": {
+      "a": "Ghana",
+      "b": "Gambia",
+      "c": "Liberia",
+      "d": "Nigeria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Nigeria played a major role in the formation and operations of ECOMOG.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 762,
     "question": "An important element of the doctrine of separation of powers is __",
     "option": {
@@ -11514,7 +11264,6 @@
     "examyear": "2017"
   },
   {
-<<<<<<< Updated upstream
     "id": 763,
     "question": "Nigeria's action towards the external environment is embedded in her ___",
     "option": {
@@ -11579,8 +11328,6 @@
     "examyear": "2017"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 767,
     "question": "The characteristics of the Civil Servants which prevent its officers from addressing the press unless directed is known as ________\n",
     "option": {
@@ -11613,7 +11360,6 @@
     "examyear": "2017"
   },
   {
-<<<<<<< Updated upstream
     "id": 769,
     "question": "In the year 1911, who argued most representative system deteriorates towards an Oligarchy or Patriarchy?",
     "option": {
@@ -11662,8 +11408,6 @@
     "examyear": "2017"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 773,
     "question": "Bills passed by the legislature usually requires the approval of the following except_______",
     "option": {
@@ -11680,7 +11424,6 @@
     "examyear": "2017"
   },
   {
-<<<<<<< Updated upstream
     "id": 774,
     "question": "Between 1960 and 1980, Nigeria experienced all the following systems of government except",
     "option": {
@@ -11761,8 +11504,6 @@
     "examyear": "2018"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 780,
     "question": "Which organ of government is vested with the responsibility of initiating bills and recommending them to the legislature for consideration?",
     "option": {
@@ -11827,7 +11568,6 @@
     "examyear": "2018"
   },
   {
-<<<<<<< Updated upstream
     "id": 785,
     "question": "Political sovereignty belongs to",
     "option": {
@@ -11908,8 +11648,6 @@
     "examyear": "2018"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 791,
     "question": "The policy of Association was adopted by the.",
     "option": {
@@ -11942,7 +11680,6 @@
     "examyear": "2018"
   },
   {
-<<<<<<< Updated upstream
     "id": 793,
     "question": "One major achievement of the Richards Constitution of Nigeria was that it",
     "option": {
@@ -12087,8 +11824,6 @@
     "examyear": "2018"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 802,
     "question": "A.V. Dicey popularised the principle of",
     "option": {
@@ -12409,7 +12144,6 @@
     "examyear": "2019"
   },
   {
-<<<<<<< Updated upstream
     "id": 826,
     "question": "The right of a citizen to seek redress means the right to________",
     "option": {
@@ -12442,8 +12176,6 @@
     "examyear": "2019"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 828,
     "question": "A form of government which has its slogan to be 'ruling of the best' is__________",
     "option": {
@@ -12460,7 +12192,6 @@
     "examyear": "2019"
   },
   {
-<<<<<<< Updated upstream
     "id": 829,
     "question": "Deconcentration of power means the_______",
     "option": {
@@ -12509,8 +12240,6 @@
     "examyear": "2019"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 832,
     "question": "A party can be said to have national outlook if________",
     "option": {
@@ -12619,6 +12348,22 @@
     "image": "",
     "answer": "b",
     "solution": "Elitist is often used as a critique label, to describe a political party definitive of social class and rankings of top profiled politicians without much agenda for social justice. Elitist parties are often seen as focusing more on presenting themselves as representatives of a particular elite or ideology rather than actively implementing their policies or fulfilling their promises.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 841,
+    "question": "A form of government organized by a council of military officers is called______",
+    "option": {
+      "a": "Militocracy",
+      "b": "Stratocracy",
+      "c": "Military Junta",
+      "d": "Mobocracy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A stratocracy is a form of government headed by military chiefs.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -12911,7 +12656,6 @@
     "examyear": "2019"
   },
   {
-<<<<<<< Updated upstream
     "id": 860,
     "question": "The most representative organ of the united nations is the_______",
     "option": {
@@ -12944,8 +12688,6 @@
     "examyear": "2019"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 862,
     "question": "Amendment of the U. N. O. charter is the duty of the ........",
     "option": {
@@ -12964,8 +12706,6 @@
   {
     "id": 863,
     "question": "The fact that the office of the Chairman is rotational in ECOWAS makes it a perfect example of a/an ........",
-<<<<<<< Updated upstream
-=======
     "option": {
       "a": "Cartel",
       "b": "Confederacy",
@@ -12980,24 +12720,6 @@
     "examyear": "2019"
   },
   {
-    "id": 866,
-    "question": "A predominant feature of the Precolonial governance system was that_________",
->>>>>>> Stashed changes
-    "option": {
-      "a": "Cartel",
-      "b": "Confederacy",
-      "c": "Economic and Egalitarian political mergers",
-      "d": "Collegiate"
-    },
-    "section": "",
-    "image": "",
-    "answer": "d",
-    "solution": "A collegiate system refers to a system where leadership is shared or rotated among members rather than being permanently held by one entity.\n\nIn ECOWAS (Economic Community of West African States), the Chairmanship is rotational among member states, meaning no single country or leader permanently dominates the organization.\nThis makes ECOWAS a collegiate body, where power is collectively exercised and shared.",
-    "examtype": "utme",
-    "examyear": "2019"
-  },
-  {
-<<<<<<< Updated upstream
     "id": 864,
     "question": "The newspaper established by Dr. Nnamdi Azikiwe to project the interest of nationalists was__________",
     "option": {
@@ -13010,6 +12732,22 @@
     "image": "",
     "answer": "a",
     "solution": "The West African Pilot was the newspaper of Dr Azikiwe which served as a medium for propagating nationalist ideas and solidarity movements towards self-realization.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 866,
+    "question": "A predominant feature of the Precolonial governance system was that_________",
+    "option": {
+      "a": "the British Indirect rule system penetrated it largely",
+      "b": " the governance structures were largely undefined",
+      "c": "the customary laws were prevalent",
+      "d": "theocratic system was widely embraced"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Throughout the precolonial era in Nigeria, the native laws of the people governed them. They were largely unwritten and enforced by distinct units set in place for those purposes.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -13062,8 +12800,6 @@
     "examyear": "2019"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 871,
     "question": "Class stratification is a peculiar feature of___________",
     "option": {
@@ -13080,7 +12816,6 @@
     "examyear": "2019"
   },
   {
-<<<<<<< Updated upstream
     "id": 873,
     "question": "Lobbying is often a strategy adopted by________",
     "option": {
@@ -13161,8 +12896,6 @@
     "examyear": "2020"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 878,
     "question": "Rates are generally collected in Nigeria by ________",
     "option": {
@@ -13179,7 +12912,6 @@
     "examyear": "2020"
   },
   {
-<<<<<<< Updated upstream
     "id": 879,
     "question": "In a democracy, sovereignty is in _________",
     "option": {
@@ -13292,8 +13024,6 @@
     "examyear": "2020"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 888,
     "question": "A characteristic feature of communism is __________",
     "option": {
@@ -13310,7 +13040,6 @@
     "examyear": "2020"
   },
   {
-<<<<<<< Updated upstream
     "id": 889,
     "question": "Africans were first elected to the legislative council in British West Africa in _________",
     "option": {
@@ -13423,8 +13152,6 @@
     "examyear": "2020"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 898,
     "question": "Warrant Chiefs were appointed to __________",
     "option": {
@@ -13453,7 +13180,6 @@
     "image": "",
     "answer": "d",
     "solution": "The rule of law can be constrained by invoking emergency powers. For instance, if there is a war, a state of emergency could be declared. Bad leaders may be enthroned and citizens may be denied of some of their rights.",
-<<<<<<< Updated upstream
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -13570,6 +13296,22 @@
     "examyear": "2020"
   },
   {
+    "id": 907,
+    "question": "The charter of the United Nations was drawn up in ________",
+    "option": {
+      "a": " New York",
+      "b": "San Franciso",
+      "c": "Washington DC",
+      "d": "Los Angeles"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The charter of the United Nations was signed on 26th June 1945 in San Francisco",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 908,
     "question": "The idea of making the civil service permanent, neutral and anonymous is to _________",
     "option": {
@@ -13614,8 +13356,6 @@
     "image": "",
     "answer": "a",
     "solution": "A meeting of the legislature is typically brought to an end through adjournment, which means the session is temporarily suspended and will resume at a later date.\n\nHere’s what the other options mean:\n\nProrogation – This is the formal ending of a parliamentary session by the head of state (e.g., the president or monarch), after which a new session will begin.\nDissolution – This permanently ends the current parliament, usually leading to new elections.\nSuspension – This refers to a temporary stoppage of legislative activities, often due to disciplinary actions or special circumstances.",
-=======
->>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -13636,7 +13376,6 @@
     "examyear": "2020"
   },
   {
-<<<<<<< Updated upstream
     "id": 912,
     "question": "NEPAD was adopted during the OAU summit held in _________",
     "option": {
@@ -13893,8 +13632,6 @@
     "examyear": "2021"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 930,
     "question": "The Barclay's Bank and the British Petroleum Company in Nigeria were nationalized in the late 1970s for transacting business with …",
     "option": {
@@ -13911,7 +13648,6 @@
     "examyear": "2021"
   },
   {
-<<<<<<< Updated upstream
     "id": 931,
     "question": "The Murtala/Obasanjo regime in Nigeria increased the number of states from....",
     "option": {
@@ -13928,8 +13664,6 @@
     "examyear": "2021"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 932,
     "question": "The ....... is responsible for advising the president of Nigeria on the sovereignty and territorial Integrity of the country.",
     "option": {
@@ -13946,7 +13680,6 @@
     "examyear": "2021"
   },
   {
-<<<<<<< Updated upstream
     "id": 933,
     "question": "The independent National Electoral Commission has the power to prepare and maintain the register of.____",
     "option": {
@@ -13986,20 +13719,10 @@
       "b": "Objective",
       "c": "Membership drive",
       "d": "Voting pattern"
-=======
-    "id": 940,
-    "question": "One argument against a multi-party system is the _______",
-    "option": {
-      "a": "Inability to attract foreign assistance",
-      "b": "High cost of conducting elections",
-      "c": " Banning of interest groups",
-      "d": " Encouragement of opposition and instability"
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "b",
-<<<<<<< Updated upstream
     "solution": "Political parties aim at contesting and winning elections and controlling government while pressure groups aim at pursuing the interest of their members and influencing the decisions of the government.",
     "examtype": "utme",
     "examyear": "2021"
@@ -14129,9 +13852,6 @@
     "image": "",
     "answer": "a",
     "solution": "The appointment of ministers and ambassadors must be ratified by the Senate Under the 1999 Constitution.",
-=======
-    "solution": "One argument against a multi-party system is the high cost of conducting election. It is very expensive in both men and materials.",
->>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -14152,7 +13872,6 @@
     "examyear": "2021"
   },
   {
-<<<<<<< Updated upstream
     "id": 946,
     "question": "The highest grade in the Civil Service is known as the ............",
     "option": {
@@ -14217,8 +13936,6 @@
     "examyear": "2021"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 951,
     "question": "One of the duties of the legislature is to_______",
     "option": {
@@ -14235,7 +13952,6 @@
     "examyear": "2021"
   },
   {
-<<<<<<< Updated upstream
     "id": 952,
     "question": "The type of government operated in Nigeria between October 1st 1979 to December 3 1983 is called a __________",
     "option": {
@@ -14252,8 +13968,6 @@
     "examyear": "2021"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 953,
     "question": "Financial allocation to local governments by the federal or the state government to supplement the cost of a project is called_____ ",
     "option": {
@@ -14270,7 +13984,6 @@
     "examyear": "2021"
   },
   {
-<<<<<<< Updated upstream
     "id": 954,
     "question": "The highest authority in the Yoruba pre-colonial era was the _____",
     "option": {
@@ -14319,8 +14032,6 @@
     "examyear": "2022"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 957,
     "question": "The Security Council of the United Nations Organization has",
     "option": {
@@ -14337,7 +14048,6 @@
     "examyear": "2022"
   },
   {
-<<<<<<< Updated upstream
     "id": 958,
     "question": "The oversight function is performed by the",
     "option": {
@@ -14418,8 +14128,6 @@
     "examyear": "2022"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 963,
     "question": "An electoral system in which the winner must secure more than 50% of the vote is described as a/an",
     "option": {
@@ -14436,7 +14144,6 @@
     "examyear": "2022"
   },
   {
-<<<<<<< Updated upstream
     "id": 964,
     "question": "A group of people with different natures, opinions, and goals with complicated networks of social relation",
     "option": {
@@ -14597,8 +14304,6 @@
     "examyear": "2022"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 975,
     "question": "The basic unit of every political organization in the Igbo pre-colonial era was the",
     "option": {
@@ -14615,7 +14320,6 @@
     "examyear": "2022"
   },
   {
-<<<<<<< Updated upstream
     "id": 976,
     "question": "The defence pact between Nigeria and Britain was cancelled in the year",
     "option": {
@@ -14628,7 +14332,10 @@
     "image": "",
     "answer": "c",
     "solution": "The defence pact between Nigeria and Britain, known as the Anglo-Nigerian Defense Pact, was indeed cancelled in 1962. This agreement, signed in 1960 shortly after Nigeria gained independence from Britain, allowed British military presence and assistance in Nigeria. However, Nigeria sought to assert its sovereignty more fully, leading to negotiations in 1962 that resulted in the cancellation of the pact. This move was part of Nigeria's broader efforts to establish its independence and autonomy in foreign and defence policies following decolonization.",
-=======
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 977,
     "question": "The absence of an independent judiciary is a feature of",
     "option": {
@@ -14641,12 +14348,10 @@
     "image": "",
     "answer": "d",
     "solution": "In an oligarchy, power is concentrated in the hands of a few, and there is often a lack of an independent judiciary to check the power of the ruling group.",
->>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2022"
   },
   {
-<<<<<<< Updated upstream
     "id": 978,
     "question": "Nigeria is a major financier of which of the following?",
     "option": {
@@ -14659,20 +14364,6 @@
     "image": "",
     "answer": "b",
     "solution": "Nigeria is a major financier of the African Development Bank (AFDB), which is the leading financial institution in Africa, providing funding for development projects across the continent. Nigeria is one of the largest shareholders and a major contributor to the bank’s resources.",
-=======
-    "id": 979,
-    "question": "A constıtution that requires specific statutory procedures for amendment is said to be",
-    "option": {
-      "a": "uncodıfied",
-      "b": "unwritten",
-      "c": "flexible",
-      "d": "rigıd"
-    },
-    "section": "",
-    "image": "",
-    "answer": "d",
-    "solution": "A rigid constitution requires specific and often more complex procedures for amendment, making it more difficult to change.s",
->>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -14753,6 +14444,22 @@
     "image": "",
     "answer": "b",
     "solution": "Separation of powers is also called a system of checks and balances because the branches can check up on each other and if any of the branches get too strong, that branch will be balanced by the others. However, it is not a feature of the rule of law.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 985,
+    "question": "Unitary system of government is best applicable to a/an",
+    "option": {
+      "a": " multi-party state",
+      "b": "homogeneous state",
+      "c": "heterogenous state",
+      "d": "unicameral state"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An homogeneous state has a single language, belief, culture and ethnicity among its people.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -14869,7 +14576,6 @@
     "examyear": "2022"
   },
   {
-<<<<<<< Updated upstream
     "id": 993,
     "question": "Which one of these served as secretary general of the League of nations?",
     "option": {
@@ -15110,6 +14816,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1009,
+    "question": "Which of the following is a feature of Nigerian Federalism?",
+    "option": {
+      "a": "Single-party system",
+      "b": " Centralized fiscal system",
+      "c": "Autonomy of local government",
+      "d": "Strong central government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A feature of Nigerian Federalism is the autonomy of local government. This means that local governments have the power to govern themselves in certain areas. A strong central government, a single-party system, and a centralized fiscal system are not features of Nigerian Federalism.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1010,
     "question": "If the president refuses to sign a bill within a specific period, it can still become a law through",
     "option": {
@@ -15222,8 +14944,6 @@
     "examyear": "2023"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1018,
     "question": "A key principle of the socialist system of government is the ___________.",
     "option": {
@@ -15240,7 +14960,6 @@
     "examyear": "2023"
   },
   {
-<<<<<<< Updated upstream
     "id": 1019,
     "question": "In a communist system, who owns and controls the means of production?",
     "option": {
@@ -15273,8 +14992,6 @@
     "examyear": "2023"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1021,
     "question": "Which of the following was a significant trade commodity in the pre-colonial Kingdom of Benin?",
     "option": {
@@ -15323,7 +15040,6 @@
     "examyear": "2023"
   },
   {
-<<<<<<< Updated upstream
     "id": 1024,
     "question": "In a parliamentary system, the head of government is usually the",
     "option": {
@@ -15340,8 +15056,6 @@
     "examyear": "2023"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1025,
     "question": "A major event in Nigerian history that led to the suspension of Nigeria's constitution and the declaration of a state of emergency by the colonial authorities in 1953 was the ________.",
     "option": {
@@ -15358,7 +15072,6 @@
     "examyear": "2023"
   },
   {
-<<<<<<< Updated upstream
     "id": 1026,
     "question": "Which of the following countries operate a direct democracy?",
     "option": {
@@ -15391,8 +15104,6 @@
     "examyear": "2023"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1028,
     "question": "The civil service in Nigeria operates under the principle of",
     "option": {
@@ -15457,7 +15168,6 @@
     "examyear": "2023"
   },
   {
-<<<<<<< Updated upstream
     "id": 1033,
     "question": "Which Nigerian leader advocated for the New Partnership for Africa's Development(NEPAD)?",
     "option": {
@@ -15502,6 +15212,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Ijaw people of pre-colonial Nigeria were organized into clans. A clan is a group of people united by actual or perceived kinship and descent. In the case of the Ijaw people, these clans were often made up of several villages and communities that shared common ancestry.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1037,
+    "question": "Civil servants are typically protected by",
+    "option": {
+      "a": "Military forces and security agencies",
+      "b": "Civil service commission",
+      "c": "Trade union and labour laws",
+      "d": "Human rights organizations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Civil servants are typically protected by the Civil Service Commission. The Civil Service Commission is a government agency that is responsible for the appointment, promotion, and discipline of civil servants.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -15618,8 +15344,6 @@
     "examyear": "2024"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1045,
     "question": "Delegated legislation can be regulated through",
     "option": {
@@ -15636,7 +15360,6 @@
     "examyear": "2024"
   },
   {
-<<<<<<< Updated upstream
     "id": 1046,
     "question": "The main argument against the 1999 Constitution is that ",
     "option": {
@@ -15653,8 +15376,22 @@
     "examyear": "2024"
   },
   {
-=======
->>>>>>> Stashed changes
+    "id": 1047,
+    "question": "Which of the following is a basic feature of the rule of law?",
+    "option": {
+      "a": " Secret trial of offenders",
+      "b": "Unlimited power of the executive",
+      "c": "Dependent judiciary",
+      "d": " Equality before the law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The basic features rule of the law are:\n\n1. Equality before the law\n\n2. Impartiality\n\n3. Individual rights\n\n4. Supremacy of the law\n\n5. Fair hearing, etc.\n\nIn a country that upholds the rule of law, everyone is equal before the law. This means that everyone is treated fairly regardless of political, social or economic status. No body is above the law and everyone has equal access to all legal facilities. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1048,
     "question": "The collective views of the citizens on a specific national matter is",
     "option": {
@@ -15671,7 +15408,6 @@
     "examyear": "2024"
   },
   {
-<<<<<<< Updated upstream
     "id": 1050,
     "question": "NEPAD stands for",
     "option": {
@@ -15695,20 +15431,10 @@
       "b": " waziri",
       "c": "galadima",
       "d": " madawaki"
-=======
-    "id": 1053,
-    "question": "An agent in which the state undertakes direct political socialisation is the",
-    "option": {
-      "a": " church",
-      "b": " school",
-      "c": " peer groups",
-      "d": " mass media"
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "b",
-<<<<<<< Updated upstream
     "solution": "The waziri, in the Hausa pre-colonial era, was the Prime Minister in charge of all the officials in the palace. ",
     "examtype": "utme",
     "examyear": "2024"
@@ -15870,9 +15596,6 @@
     "image": "",
     "answer": "b",
     "solution": "The \"prerogative of mercy\" is one of the powers of the executive. It is also a method of checking the activities of the Judiciary. It is the power of the president to grant pardon to a convicted criminal or to commute his/her sentence. ",
-=======
-    "solution": "The state undertakes direct political socialisation through the schools. This is done through the Ministry of Education that provides curriculums that contain subjects such as Civic Education, Government, Security Education, etc to ensure that pupils/ students become aware of the political situation and understand the values, beliefs and attitudes shared by members of the society. \n\n ",
->>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -16117,7 +15840,6 @@
     "examyear": "2024"
   },
   {
-<<<<<<< Updated upstream
     "id": 1079,
     "question": "Pressure groups are different from political parties because they",
     "option": {
@@ -16134,8 +15856,6 @@
     "examyear": "2024"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1080,
     "question": "A union of states with a common recognised authority is",
     "option": {
@@ -16168,7 +15888,6 @@
     "examyear": "2024"
   },
   {
-<<<<<<< Updated upstream
     "id": 1082,
     "question": "Aggregate view of individuals in a society is referred to as",
     "option": {
@@ -16185,8 +15904,6 @@
     "examyear": "2024"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1083,
     "question": "The principle of civil service that guarantees the employment of public workers is ",
     "option": {
@@ -16203,7 +15920,6 @@
     "examyear": "2024"
   },
   {
-<<<<<<< Updated upstream
     "id": 1084,
     "question": "The fragmented nature of the Igbo pre-colonial political system qualified it to be described as",
     "option": {
@@ -16236,8 +15952,6 @@
     "examyear": "2024"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1086,
     "question": "One of these is not an organ of the Commonwealth of Nations",
     "option": {
@@ -16254,7 +15968,6 @@
     "examyear": "2024"
   },
   {
-<<<<<<< Updated upstream
     "id": 1087,
     "question": "The organs of ECOWAS do NOT include the",
     "option": {
@@ -16431,8 +16144,6 @@
     "examyear": "2001"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1102,
     "question": "An important function of a constitution is that it",
     "option": {
@@ -16449,7 +16160,6 @@
     "examyear": "2001"
   },
   {
-<<<<<<< Updated upstream
     "id": 1104,
     "question": "In the legislative process, a bill is a",
     "option": {
@@ -16546,8 +16256,6 @@
     "examyear": "2001"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1110,
     "question": "Public opinion is a view that is",
     "option": {
@@ -16564,7 +16272,6 @@
     "examyear": "2001"
   },
   {
-<<<<<<< Updated upstream
     "id": 1111,
     "question": "The political neutrality of civil servants implies that they",
     "option": {
@@ -16613,8 +16320,22 @@
     "examyear": "2001"
   },
   {
-=======
->>>>>>> Stashed changes
+    "id": 1114,
+    "question": "Some pre-colonial Nigerian societies are described as stateless because",
+    "option": {
+      "a": "they had no formal governmental institutions",
+      "b": " they had no definite political boundaries",
+      "c": "their population was too small",
+      "d": "they were not independent."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Some pre-colonial Nigerian societies are described as stateless because they had no formal governmental institutions.\nFor instance, the Igbos unlike Yorubas and the Fulanis have a complex and complicated system of administration in pre-colonial era. There was no sort of central authority, what they had was a diffusion of political authority into different groups.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1116,
     "question": "A major function of the warrant chiefs was to",
     "option": {
@@ -16631,7 +16352,6 @@
     "examyear": "2001"
   },
   {
-<<<<<<< Updated upstream
     "id": 1117,
     "question": "After 1945, the demand of African nationalists changed from reform to independence because",
     "option": {
@@ -16808,6 +16528,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1129,
+    "question": "The main source of financing local government in Nigeria is",
+    "option": {
+      "a": " internal revenue generation",
+      "b": "statutory revenue allocation",
+      "c": "special state grants",
+      "d": "grants-in-aid"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In Nigeria, the main source of financing for local governments is statutory revenue allocation. This refers to the funds allocated to local governments by the federal government, which come from a share of the country's national revenue. These allocations are distributed based on the principles set out in the Nigerian Constitution and the revenue-sharing formula.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1130,
     "question": "The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of",
     "option": {
@@ -16840,8 +16576,6 @@
     "examyear": "2001"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1132,
     "question": "The major factor that influenced the formulation of Nigerian foreign policy in the First Republic was",
     "option": {
@@ -16858,7 +16592,6 @@
     "examyear": "2001"
   },
   {
-<<<<<<< Updated upstream
     "id": 1134,
     "question": "South-South cooperation is a major policy plan on which Nigeria bases her relations with",
     "option": {
@@ -16891,8 +16624,6 @@
     "examyear": "2001"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1136,
     "question": "The first Nigerian Permanent Representative to the United Nations was",
     "option": {
@@ -17069,7 +16800,6 @@
     "examyear": "2002"
   },
   {
-<<<<<<< Updated upstream
     "id": 1147,
     "question": "Communism is a system which recognizes",
     "option": {
@@ -17102,8 +16832,6 @@
     "examyear": "2002"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1149,
     "question": "The structure of the civil service is based on",
     "option": {
@@ -17120,7 +16848,6 @@
     "examyear": "2002"
   },
   {
-<<<<<<< Updated upstream
     "id": 1150,
     "question": "A common feature of a multi-party system is that government is formed by",
     "option": {
@@ -17153,8 +16880,6 @@
     "examyear": "2002"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1152,
     "question": "The final interpretation pf the provisions of a federal constitution is vested in the",
     "option": {
@@ -17171,7 +16896,6 @@
     "examyear": "2002"
   },
   {
-<<<<<<< Updated upstream
     "id": 1154,
     "question": "Proportional representation is a system of allocating seats in the legislature based on",
     "option": {
@@ -17188,8 +16912,6 @@
     "examyear": "2002"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1155,
     "question": "The application of the principle of separation of powers seems impracticable because powers is",
     "option": {
@@ -17222,7 +16944,6 @@
     "examyear": "2002"
   },
   {
-<<<<<<< Updated upstream
     "id": 1157,
     "question": "Oligarchy is a form of government which",
     "option": {
@@ -17271,8 +16992,6 @@
     "examyear": "2002"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1160,
     "question": "A law passed by the legislature and assented by the executive is",
     "option": {
@@ -17401,7 +17120,22 @@
     "examyear": "2002"
   },
   {
-<<<<<<< Updated upstream
+    "id": 1169,
+    "question": "The body set up to review the revenue allocation formula in 1980 was the",
+    "option": {
+      "a": "Udoji Commission",
+      "b": "Okigbo Commission",
+      "c": "Dina Commission",
+      "d": "Adebo Commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Okigbo Commission was set up in 1980 to review Nigeria's revenue allocation formula. The commission, acting as a presidential commission, recommended that revenue should be shared as follows:\n\n• 55% to the federal government\n• 35% to state governments\n• 10% to local governments\n\nThe recommendations were based on the following principles:\n\nMinimum responsibility\n\nSocial development\n\nPopulation\n\nInternal revenue effort\n\nThis framework was designed to ensure a more equitable distribution of revenue across the different tiers of government in Nigeria.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1170,
     "question": "In pre-colonial Igbo society, decisions on public issues were reached mainly through",
     "option": {
@@ -17450,8 +17184,6 @@
     "examyear": "2002"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1173,
     "question": "In Nigeria, the Council of State was first created by",
     "option": {
@@ -17468,7 +17200,6 @@
     "examyear": "2002"
   },
   {
-<<<<<<< Updated upstream
     "id": 1174,
     "question": "The leading agent in the expansion of British influence in Northern Nigeria in the 1890s was the",
     "option": {
@@ -17565,8 +17296,6 @@
     "examyear": "2002"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1181,
     "question": "Nigeria formally became a federation in",
     "option": {
@@ -17643,6 +17372,38 @@
     "image": "",
     "answer": "b",
     "solution": "The impact of the Commonwealth of Nations is felt most in the area of economic cooperation.\n\nNigeria suffered much hardship by the time she was suspended by the Union in 1997 as she was accused of violating the Fundamental Human Rights of Individuals.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1186,
+    "question": "The greatest criticism of the Security Council of the UNO is that it",
+    "option": {
+      "a": "has no standing army",
+      "b": "is not representative enough",
+      "c": "undermines the General Assembly",
+      "d": "has exclusive veto power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "One of the most significant criticisms of the UN Security Council is that its structure gives the five permanent members (the United States, the United Kingdom, France, Russia, and China) the power to veto any substantive resolution. This \"exclusive veto power\" can block action even when there is broad international support for a measure, which many argue hampers the Council's ability to respond effectively to international crises and conflicts. Critics contend that this arrangement often leads to inaction and prevents the Security Council from reflecting the current global political landscape.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1188,
+    "question": "Professor Ibrahim Gambari is the Special Assistant to the United Nations Secretary General on",
+    "option": {
+      "a": "African affairs",
+      "b": "political and social matters",
+      "c": "the Economic Commission of Africa",
+      "d": "security matters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Professor Ibrahim Gambari served as the Under-Secretary-General and Special Adviser on Africa to the United Nations Secretary-General.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -17729,89 +17490,6 @@
   {
     "id": 1195,
     "question": "Government by the wealthy is known as",
-<<<<<<< Updated upstream
-=======
-    "option": {
-      "a": "plutocracy",
-      "b": "oligarchy",
-      "c": "aristocracy",
-      "d": "democracy"
-    },
-    "section": "",
-    "image": "",
-    "answer": "a",
-    "solution": "Government by the wealthy is known as plutocracy it is one of the forms of oligarchy which is defined as government ruled by few privileged and powerful people.",
-    "examtype": "utme",
-    "examyear": "2003"
-  },
-  {
-    "id": 1197,
-    "question": "The unrestrained power of the state over its citizens is underlined by",
-    "option": {
-      "a": "sovereignty",
-      "b": "nationalism",
-      "c": "self-determination",
-      "d": "patriotism"
-    },
-    "section": "",
-    "image": "",
-    "answer": "a",
-    "solution": "The unrestrained power of the state over its citizens is underlined by sovereignty.\n\nSovereignty could be defined as the supreme legal power to make and enforce laws for people within a definite territory without any external control.\n\nCharacteristics of sovereignty are permanence, indivisibility, comprehensiveness and absoluteness.",
-    "examtype": "utme",
-    "examyear": "2003"
-  },
-  {
-    "id": 1201,
-    "question": "A common feature of government is",
-    "option": {
-      "a": "the separation of powers",
-      "b": "the making of public policy",
-      "c": "the independence of the judiciary",
-      "d": " a written constitution"
-    },
-    "section": "",
-    "image": "",
-    "answer": "b",
-    "solution": "A common feature of government is the making of public policy.\n\nGovernment is made up of three arms the legislature, the executive and judiciary. The main function of the legislature is law making while that of the executive is formulation and implementation of policies",
-    "examtype": "utme",
-    "examyear": "2003"
-  },
-  {
-    "id": 1202,
-    "question": "The best form of government for a heterogeneous society is a",
-    "option": {
-      "a": "quasi-federal system",
-      "b": "federal system",
-      "c": "confederal system",
-      "d": "unitary system"
-    },
-    "section": "",
-    "image": "",
-    "answer": "b",
-    "solution": "The best form of government for a heterogeneous society is a federal system.\n\nIt should also be noted that heterogeneity, different languages, customs and levels of political economic and social developments among the tribes play a prominent role in forcing confederal system of government on the people.",
-    "examtype": "utme",
-    "examyear": "2003"
-  },
-  {
-    "id": 1218,
-    "question": "The Eastern and Western regions of Nigeria achieved the status of self-government is",
-    "option": {
-      "a": "1959",
-      "b": "1957",
-      "c": "1950",
-      "d": "1955"
-    },
-    "section": "",
-    "image": "",
-    "answer": "b",
-    "solution": "The Eastern and Western regions of Nigeria achieved the status of self-government in 1957.\n\nWestern Region: Attained self-government on August 8, 1957, under the leadership of Chief Obafemi Awolowo.\n\nEastern Region: Followed shortly after, gaining self-government on October 1, 1957, led by Dr. Nnamdi Azikiwe.\n\nThis milestone was part of Nigeria's gradual decolonization process under British rule, culminating in the country's full independence on October 1, 1960. The Northern Region achieved self-government later, in 1959, due to its more cautious approach to political reforms.",
-    "examtype": "utme",
-    "examyear": "2003"
-  },
-  {
-    "id": 1219,
-    "question": "One of the legacies of pre-colonial Nigeria destroyed by the British was the",
->>>>>>> Stashed changes
     "option": {
       "a": "plutocracy",
       "b": "oligarchy",
@@ -17886,6 +17564,22 @@
     "image": "",
     "answer": "a",
     "solution": "Independence of the judiciary has to do with the idea that courts should be separated from the Executive and Legislative arm of government. This independence is important to aid the judges to remain impartial to serve the constitution, act fairly, reasonably, free of any fear or favor. \n\nOne way to ensure the independence of the judiciary is by not politicizing the appointments of judges. Judges should be non partisan and their appointments shouldn't be based off political affiliations. ",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1201,
+    "question": "A common feature of government is",
+    "option": {
+      "a": "the separation of powers",
+      "b": "the making of public policy",
+      "c": "the independence of the judiciary",
+      "d": " a written constitution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A common feature of government is the making of public policy.\n\nGovernment is made up of three arms the legislature, the executive and judiciary. The main function of the legislature is law making while that of the executive is formulation and implementation of policies",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -18114,6 +17808,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1220,
+    "question": "The 1979 Constitution established the",
+    "option": {
+      "a": "National Human Rights Commission",
+      "b": "National Population Commission",
+      "c": "Federal Road Safety Commission",
+      "d": "Federal Civil Defense Corps"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The 1979 Constitution established the National Population Commission",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1222,
     "question": "The most important challenge facing the Fourth Republic is",
     "option": {
@@ -18142,6 +17852,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Bureau for Public Enterprises is charged with the responsibility for privatization and commercialization",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1224,
+    "question": "Financial allocations to local governments by the federal or the state government to supplement the cost of a project is called",
+    "option": {
+      "a": "revenue allocation",
+      "b": "reimbursement",
+      "c": "statutory allocation",
+      "d": "matching grant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Financial allocations to local government by the federal or the state governments to supplement the cost of a project is called matching grants.\n\nLocal governments in turn give matching grants to communities or institutions for completion of certain projects such as schools.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -18256,25 +17982,6 @@
     "solution": "Nigeria's influence in OPEC is determined by volume of oil revenue.\n\nNigeria has its own trust fund which is estimated at about ninety million naria in the African Development Bank (ADB). From this aid is given to needy countries. This marvelous achievement is due to the volume of Nigeria's oil revenues. This in no small measure boosts the economy of Nigeria.",
     "examtype": "utme",
     "examyear": "2003"
-<<<<<<< Updated upstream
-=======
-  },
-  {
-    "id": 1226,
-    "question": "The military Head of State during the Third Republic was",
-    "option": {
-      "a": "General Olusegun Obasanjo",
-      "b": "General Ibrahim Babangida",
-      "c": "General Murtala Muhammed",
-      "d": "General Sani Abacha"
-    },
-    "section": "",
-    "image": "",
-    "answer": "b",
-    "solution": "The military Head of State during the Third Republic was General Ibrahim Babangida.\n\nThe regime established two political parties, NRC and SDP. All the states had elected governors as well as state legislators. Every local government in the country was also run by elected chairmen and Councillors. That was the time Ibrahim Babangida took up the name ''Mr President.''",
-    "examtype": "utme",
-    "examyear": "2003"
->>>>>>> Stashed changes
   },
   {
     "id": 1232,
@@ -18565,22 +18272,6 @@
     "examyear": "2004"
   },
   {
-    "id": 1254,
-    "question": "A specialized agency of the United Nations Organization is the",
-    "option": {
-      "a": "International Court of Justice",
-      "b": "Internation Olympic Committee",
-      "c": "General Assembly",
-      "d": "World Health Organization"
-    },
-    "section": "",
-    "image": "",
-    "answer": "d",
-    "solution": "The Agency of the United Nations Organisation is World Health Organisation (WHO). This was established in 1948 with Geneva as the Headquarters",
-    "examtype": "utme",
-    "examyear": "2004"
-  },
-  {
     "id": 1255,
     "question": "The responsibility for admitting new members to the OPEC rests with the",
     "option": {
@@ -18629,7 +18320,6 @@
     "examyear": "2004"
   },
   {
-<<<<<<< Updated upstream
     "id": 1258,
     "question": "The pre-colonial Yoruba political system as a whole can best be described as a",
     "option": {
@@ -18646,8 +18336,6 @@
     "examyear": "2004"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1259,
     "question": "A common feature of the earlier political parties in Nigeria was that they",
     "option": {
@@ -18680,7 +18368,6 @@
     "examyear": "2004"
   },
   {
-<<<<<<< Updated upstream
     "id": 1261,
     "question": "The Native Authority system was most effective and successful in",
     "option": {
@@ -18713,8 +18400,6 @@
     "examyear": "2004"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1263,
     "question": "The process of nationalism was accelerated by",
     "option": {
@@ -18731,7 +18416,6 @@
     "examyear": "2004"
   },
   {
-<<<<<<< Updated upstream
     "id": 1264,
     "question": "Under the 1999 Constitution, the power to declare war is vested in the",
     "option": {
@@ -18748,8 +18432,6 @@
     "examyear": "2004"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1265,
     "question": "The major motivation for British colonization of Nigeria was to",
     "option": {
@@ -18766,7 +18448,6 @@
     "examyear": "2004"
   },
   {
-<<<<<<< Updated upstream
     "id": 1267,
     "question": "The first franchise in the history of the democratic process is",
     "option": {
@@ -18943,8 +18624,6 @@
     "examyear": "2004"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1279,
     "question": "The economic basis of feudalism is",
     "option": {
@@ -18961,7 +18640,6 @@
     "examyear": "2004"
   },
   {
-<<<<<<< Updated upstream
     "id": 1280,
     "question": "Unicameral legislature is a common feature of",
     "option": {
@@ -19170,8 +18848,6 @@
     "examyear": "2004"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1293,
     "question": "The relationship between the tiers of government in Nigeria can be described as one of",
     "option": {
@@ -19188,7 +18864,6 @@
     "examyear": "2004"
   },
   {
-<<<<<<< Updated upstream
     "id": 1294,
     "question": "The power to exercise overall control of the executive functions of ECOWAS is vested in the",
     "option": {
@@ -19205,8 +18880,6 @@
     "examyear": "2005"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1295,
     "question": "Nigeria supports the South-South cooperation as a foreign policy objective for mutual understanding among",
     "option": {
@@ -19223,7 +18896,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 1296,
     "question": "Nigeria is rated in the Organization of Petroleum Exporting Countries as the",
     "option": {
@@ -19256,8 +18928,6 @@
     "examyear": "2005"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1298,
     "question": "A major achievement of the OAU was the",
     "option": {
@@ -19274,7 +18944,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 1299,
     "question": "An indication that Africa is still the center-peice of Nigeria's foreign policy was the creation of the",
     "option": {
@@ -19307,8 +18976,6 @@
     "examyear": "2005"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1301,
     "question": "One of the organizational weaknesses of the Organization of Petroleum Exporting Countries is its inability to",
     "option": {
@@ -19341,7 +19008,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 1303,
     "question": "Under the umbrella of the OAU, Nigeria mediated the dispute between",
     "option": {
@@ -19550,8 +19216,6 @@
     "examyear": "2005"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1316,
     "question": "In Nigeria,promotion of judges is the responsibility of the",
     "option": {
@@ -19568,7 +19232,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 1317,
     "question": "The legislative in Nigeria under the 1999 Constitution is composed of",
     "option": {
@@ -19649,8 +19312,6 @@
     "examyear": "2005"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1323,
     "question": "The pressure group that resorts to unconventional methods to achieve its objectives is called",
     "option": {
@@ -19667,7 +19328,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 1324,
     "question": "Citizenship acquired through marriage is referred to as",
     "option": {
@@ -19680,6 +19340,22 @@
     "image": "",
     "answer": "d",
     "solution": "Citizenship acquired through marriage is referred to as registration.\n\nThis is a method by which women acquire citizenship through marriage. For example, a Cameroonian woman married to a Nigerian may register as a Nigerian and should take the oath of alliance and renounce her Cameroonian citizenship.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1325,
+    "question": "The method used to determine the possible outcome of an electoral contest is",
+    "option": {
+      "a": "press review",
+      "b": "plebiscite",
+      "c": "opinion poll",
+      "d": "referendum"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The method used to determine the possible outcome of an electoral contest is opinion poll.\n\nOpinion poll is the questioning of a number of people chosen by chance to find out general opinion about something or someone. In civilized societies, newspaper columns contain public opinions on government activities.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -19812,8 +19488,6 @@
     "examyear": "2005"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1335,
     "question": "An unwritten Constitution is",
     "option": {
@@ -19830,7 +19504,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 1336,
     "question": "The most important aspect of political participation in a democracy is",
     "option": {
@@ -19943,8 +19616,6 @@
     "examyear": "2005"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1343,
     "question": "In local government administration, Chief and Council implies that",
     "option": {
@@ -19961,7 +19632,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 1344,
     "question": "A member of the Commonwealth that was not colonized by Britain is",
     "option": {
@@ -19994,8 +19664,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1346,
     "question": "ECOWAS main achievement in recent years has been in the area of",
     "option": {
@@ -20012,7 +19680,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 1347,
     "question": "In which of the following countries has the UN carried out peace-keeping operations?",
     "option": {
@@ -20029,8 +19696,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1348,
     "question": "Which of the following was the main organ of the defunct OAU?",
     "option": {
@@ -20063,7 +19728,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 1350,
     "question": "A key characteristics of the civil service is",
     "option": {
@@ -20096,8 +19760,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1352,
     "question": "An example of a state with an unwritten constitution is",
     "option": {
@@ -20114,7 +19776,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 1353,
     "question": "A characteristic of a fascist state is the existence of a",
     "option": {
@@ -20250,20 +19911,10 @@
       "b": "convenience",
       "c": "effectiveness",
       "d": "efficiency"
-=======
-    "id": 1362,
-    "question": "The citizenship of a country can be acquired by an alien through",
-    "option": {
-      "a": "habitation",
-      "b": "assimilation",
-      "c": "association",
-      "d": "naturalization"
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "d",
-<<<<<<< Updated upstream
     "solution": "Efficiency is an advantage of delegated legislation.\n\nDelegated Legislation makes for efficiency and precision. It helps to deal with issues that require some technicalities. When a subject is highly technical and requires some expert knowledge, the parliament may delegate to the Ministers, the powers to make laws or the issue, so to be able to achieve efficiency.",
     "examtype": "utme",
     "examyear": "2008"
@@ -20281,9 +19932,6 @@
     "image": "",
     "answer": "d",
     "solution": "A system of government that promotes the rights and freedom of the citizens is called Democracy.\n\nDemocracy is a government where people exercise power of governance through representatives. The representative must come into govern through popular, periodic free and fair elections.\n\nAccording to Abraham Lincoin, ''democracy is the government of the people, by the people and for the people.''",
-=======
-    "solution": "The citizenship of a country can be acquired by an alien through naturalization.\n\nTo accept a foreigner as a member of any community in say Nigeria, such a foreigner must apply to the President for certificate of naturalization. The President may approve that, after making sure that the applicant is of good behaviour, is of full age and capacity, and he really desires to be domiciled in Nigeria.",
->>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -20304,7 +19952,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 1366,
     "question": "An economic system that encourages even distribution of wealth in the society is",
     "option": {
@@ -20369,8 +20016,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1370,
     "question": "One merit of a written constitution is its",
     "option": {
@@ -20387,7 +20032,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 1371,
     "question": "A human community that is usually cohesive and homogeneous is a",
     "option": {
@@ -20420,8 +20064,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1373,
     "question": "Which of the following justifies the Afro-centric foreign policy of Nigeria?",
     "option": {
@@ -20438,7 +20080,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 1374,
     "question": "A virile foreign policy is one characterized by",
     "option": {
@@ -20519,8 +20160,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1380,
     "question": "Prior to 1966,the system of local government in western region was based on the three-tier structure of",
     "option": {
@@ -20537,7 +20176,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 1381,
     "question": "A major shortcoming of the Lyttelton Constitution was that",
     "option": {
@@ -20554,8 +20192,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1382,
     "question": "The option A-4 voting system was introduced into the political process in Nigeria during the",
     "option": {
@@ -20572,7 +20208,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 1383,
     "question": "In orientation, early nationalism in Nigeria was essentially",
     "option": {
@@ -20605,8 +20240,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1385,
     "question": "Problems arising from population census in Nigeria are mainly caused by",
     "option": {
@@ -20655,7 +20288,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 1388,
     "question": "The Nigerian federalism is a",
     "option": {
@@ -20832,8 +20464,22 @@
     "examyear": "2009"
   },
   {
-=======
->>>>>>> Stashed changes
+    "id": 1400,
+    "question": "In the Igbo political system, the most senior member of the council of elders is the",
+    "option": {
+      "a": "Okpara",
+      "b": "Obi",
+      "c": "Eze",
+      "d": "Ofo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In the Igbo political system, the most senior member of the council of elders is the Okpara. The Igbo political system was based on the village as a political unit.\n\nA village is then seen as made up of a group of related families. Each family head held the Ofo title and all of them put together formed the council of elders. The council of elders governed the village. Among the Ofo title holders, one of them was regarded as the most senior to as the Okpara and he had the right to preside over the council of elders meetings.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1401,
     "question": "The immediate cause of the 1966 military coup de'etat in Nigeria was",
     "option": {
@@ -20850,7 +20496,6 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 1402,
     "question": "The exclusive list is reserved for legislation by the",
     "option": {
@@ -20883,8 +20528,6 @@
     "examyear": "2009"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 1404,
     "question": "Which of the following mostly militates against the efficiency and productivity of public corporations in Nigeria?",
     "option": {
@@ -20917,45 +20560,8 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 1407,
     "question": "In the segmented Tiv society, governance was usually confined to",
-=======
-    "id": 1410,
-    "question": "Pacification refers to a process through which some areas in Nigeria were acquired by",
-    "option": {
-      "a": "military conquest",
-      "b": " gunboat diplomacy",
-      "c": " signing of treaties",
-      "d": "peaceful negotiations"
-    },
-    "section": "",
-    "image": "",
-    "answer": "a",
-    "solution": "Pacification refers to a process through which colonial empires imposed their presence and legal violence through the use of force or military to coerce obedience and subvert the will of the people. It was mainly done in regions impacted and divided by insurgency or rebels.",
-    "examtype": "utme",
-    "examyear": "2009"
-  },
-  {
-    "id": 1427,
-    "question": "The agency responsible for investigating allegations of maladministration in the civil service is the",
-    "option": {
-      "a": " Federal Civil Service Commission",
-      "b": " Code of Conduct Bureau",
-      "c": " Public Comlaints Commission",
-      "d": "Federal Character Commission"
-    },
-    "section": "",
-    "image": "",
-    "answer": "c",
-    "solution": "The Public Complaints Commission (PCC) is the agency responsible for investigating allegations of maladministration in the civil service and other public institutions in Nigeria. It serves as an ombudsman, handling complaints from the public about injustice, corruption, and administrative inefficiency.",
-    "examtype": "utme",
-    "examyear": "2009"
-  },
-  {
-    "id": 1429,
-    "question": "The principle that advocates strict adherence to the fundamental laws of a country is",
->>>>>>> Stashed changes
     "option": {
       "a": " age grade",
       "b": "chiefdom",
@@ -21290,6 +20896,22 @@
     "examyear": "2009"
   },
   {
+    "id": 1429,
+    "question": "The principle that advocates strict adherence to the fundamental laws of a country is",
+    "option": {
+      "a": "constitutionalism",
+      "b": "individual responsibility",
+      "c": "absolutism",
+      "d": "collective responsibility"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Constitutionalism is the principle that advocates strict adherence to fundamental laws of a country.\n\nThis is so when it is well noted that constitutionalism is defined as the principle which maintains that those who govern the society should do so in accordance with the laws of the land. It also means that those who rule the society should follow the stipulations of the constitution strictly.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 1432,
     "question": "A form of government in which the nobles rule for the benefit of all is",
     "option": {
@@ -21382,22 +21004,6 @@
     "image": "",
     "answer": "c",
     "solution": "Citizenship of a state by decent requires that one's grandparents were citizens of that state. A child born to a Nigerian couple in the United States of America is a Nigerian citizen by descent because his parents are Nigerians.",
-    "examtype": "utme",
-    "examyear": "2009"
-  },
-  {
-    "id": 1433,
-    "question": "Fascism as an ideology facilitates",
-    "option": {
-      "a": "totalitarianism",
-      "b": "socialism",
-      "c": "communalism",
-      "d": "liberalism"
-    },
-    "section": "",
-    "image": "",
-    "answer": "a",
-    "solution": "Fascism as an ideology facilitates Totalitarianism. It is an Italian version of totalitarianism which grew up in Italy under Benito Mussolini",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -21510,6 +21116,22 @@
     "image": "",
     "answer": "b",
     "solution": "In a one-party system, the absence of competitive political parties generally leads to a concentration of power in a single party. Without the checks and balances that competition offers, government actions and decisions are less likely to be scrutinized, making it more challenging to hold leaders accountable for their actions. This lack of accountability can foster corruption and inefficiency, as there are fewer mechanisms for voters to influence government policies or remove ineffective leaders.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1446,
+    "question": "In the history of Nigeria, 1914 was the",
+    "option": {
+      "a": "year the British established their rule over Nigeria",
+      "b": "beginning of first world war",
+      "c": "year Lugard effected amalgamation of Nigeria",
+      "d": "year the railway system was completed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In 1914, the British colonial administrator Lord Frederick Lugard merged the Northern and Southern protectorates to form the single colony of Nigeria. This amalgamation was a significant event in Nigerian history, as it established the framework for the modern state of Nigeria under British colonial rule.",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -21930,38 +21552,6 @@
     "examyear": "2015"
   },
   {
-    "id": 1457,
-    "question": "In a Federal System (such as Nigeria) the Local Governments are directly responsible",
-    "option": {
-      "a": "to the Federal or Central Government",
-      "b": " to the State Government",
-      "c": " to the Federal and State Government",
-      "d": "to no other level of government"
-    },
-    "section": "",
-    "image": "",
-    "answer": "b",
-    "solution": "n Nigeria’s federal system, local governments are established and administered by the state governments. Although they may receive funding or guidance from the federal level, their direct accountability and oversight come from the state government rather than the federal or central government.",
-    "examtype": "utme",
-    "examyear": "2015"
-  },
-  {
-    "id": 1461,
-    "question": "Federalism was introduced in Nigeria under the",
-    "option": {
-      "a": "Lyttelton Constitution",
-      "b": "Macpherson Constitution",
-      "c": "Richards Constitution",
-      "d": " Independence"
-    },
-    "section": "",
-    "image": "",
-    "answer": "a",
-    "solution": "The Lyttleton Constitution was enacted in 1954 and it established the federal system of government and paved the way for independence.\n\nThis constitution is considered the start of federalism, as it provided for a division of power between the central government and the regions, unlike the Richards constitution that created provinces/regions, with no autonomy being given to the regions.",
-    "examtype": "utme",
-    "examyear": "2015"
-  },
-  {
     "id": 1476,
     "question": "In which of the following systems is the power of the component units more than that of the central government?",
     "option": {
@@ -22042,6 +21632,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1483,
+    "question": "One of the principal objectives of the OPEC is to",
+    "option": {
+      "a": "determine oil prices in the international market",
+      "b": "harmonise the oil policies of member countries",
+      "c": "discipline erring oil-producing countries",
+      "d": "assist non-oil producing developing states"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "One of the principal objectives of the Organisation of the Petroleum Exporting Countries (OPEC) is to harmonise and coordinate the oil production policies of its member countries. This coordination helps to stabilise oil markets and ensure fair and stable prices for petroleum producers while securing a reliable supply for consumers. While OPEC does have some influence over oil prices in the international market (option A), its primary focus is on aligning the policies of its member states to achieve mutual benefits rather than directly setting prices",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 1484,
     "question": "A constitution that requires a plebiscite or a referendum to be amended is",
     "option": {
@@ -22088,7 +21694,6 @@
     "solution": "In many constitutional democracies, while citizens generally enjoy a wide range of rights, these rights can be curtailed in certain circumstances. One common legal provision is that upon conviction of a serious crime, certain rights (such as the right to vote or hold public office) may be withdrawn or limited for the duration of the sentence or as stipulated by law.",
     "examtype": "utme",
     "examyear": "2015"
-<<<<<<< Updated upstream
   },
   {
     "id": 1487,
@@ -22201,7 +21806,5 @@
     "solution": "Nigeria withdrew from the 1986 Edinburgh Commonwealth Games in protest against the British government's reluctance to impose sanctions on apartheid South Africa.",
     "examtype": "utme",
     "examyear": "2015"
-=======
->>>>>>> Stashed changes
   }
 ]

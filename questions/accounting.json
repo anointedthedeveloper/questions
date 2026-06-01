@@ -1072,6 +1072,22 @@
     "examyear": "2012"
   },
   {
+    "id": 287,
+    "question": "The amount of recurrent expenditure was",
+    "option": {
+      "a": "Le 245,000.",
+      "b": "Le 175,000",
+      "c": "Le 135,00.",
+      "d": "Le 80,000"
+    },
+    "section": "The Health Department of Zango Local Government incurred the following expenditure in 2010. Construction of hospital wards [ Le 300,000 ]; Purchase of hospital beds [ Le  40,000 ]; Salaries and wages  [ Le 80,000]; Purchase of drugs  [ Le 55,000]; Purchase of X-ray machine [ Le 150,000]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 291,
     "question": "Shares of N3 nominal value were issued at a price of  N4. The difference of N1 is a",
     "option": {
@@ -2848,6 +2864,22 @@
     "examyear": "2017"
   },
   {
+    "id": 658,
+    "question": "The correct expression of accounting equation is",
+    "option": {
+      "a": " Assets = Liabilities + Equity",
+      "b": "Net assets = Liabilities + Equity",
+      "c": "Assets + Liabilities = Equity",
+      "d": "Assets = Equity - liabilities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The fundamental accounting equation is Asset = Capital + Liabilities\nAsset = Liabilities + Equity the total assets of the company is generated through liabilities to outsiders that the company is still enjoying in addition with the equity by the owners of the business",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 664,
     "question": "Which type of cashbook entry involves recording the same amount on both the debit and credit sides to offset each other?",
     "option": {
@@ -4348,6 +4380,22 @@
     "image": "",
     "answer": "a",
     "solution": "Bookkeeping is the process of recording all financial transactions of a business in a systematic and chronological order.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 966,
+    "question": "Which of the following accounting conventions suggests that accountants should use a method of valuation that understates rather than over-states results?",
+    "option": {
+      "a": "Conservatism",
+      "b": "Historical",
+      "c": "Monetary",
+      "d": "Cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The conservatism (or prudence) convention in accounting states that when there is uncertainty, accountants should choose the method that is least likely to overstate assets or income and more likely to recognize potential losses early.",
     "examtype": "utme",
     "examyear": "2008"
   },

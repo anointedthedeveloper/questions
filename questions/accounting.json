@@ -1056,6 +1056,22 @@
     "examyear": "2004"
   },
   {
+    "id": 415,
+    "question": "The accumulated fund is",
+    "option": {
+      "a": "N 9,400",
+      "b": "N 9,300",
+      "c": "N 9,200",
+      "d": "N 9,100"
+    },
+    "section": "On January 1, 2000, a club’s assets and liabilities were as follows: Club house [ N8,000 ]; Subscription in arrears [ N300]; Cash [N1,000]; Wages owed [N100]. The club has 50 members and annual subscription is N 100 per member. Subscription received is N 4,000 and this includes 1999 arrears of  N 200.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 419,
     "question": "A rapidly growing business organization with multiple units that is interested in comparing the performances and weaknesses of each unit should adopt.",
     "option": {
@@ -1920,6 +1936,22 @@
     "examyear": "2018"
   },
   {
+    "id": 717,
+    "question": "A statement in a double-entry system in which are recorded all the transactions of one specific class, which takes place during the period is called",
+    "option": {
+      "a": "Double entry system",
+      "b": "Ledger",
+      "c": "Cash Book",
+      "d": "Petty Cash Book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A ledger is a separate record within the general ledger that is assigned to a specific asset, liability, equity item, revenue type, or expense type. Examples of ledger accounts are: Cash, Accounts receivable.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 718,
     "question": "The advantage of double entry is that",
     "option": {
@@ -2396,6 +2428,22 @@
     "image": "",
     "answer": "b",
     "solution": "When goods are invoiced and dispatched to a branch, the head office debits the Branch Stock Account (to record the branch’s inventory) and credits the Goods Sent to Branch Account (to show the transfer out of head office stock).",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 865,
+    "question": "Gross profit in the branch adjustment account is transferred to the branch?",
+    "option": {
+      "a": "trading account",
+      "b": "receipts and payments account",
+      "c": "profit and loss account",
+      "d": "income and expenditure account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In branch accounting the Branch Adjustment Account captures inter‑branch transactions and any gross profit on those adjustments. That gross profit is then transferred into the Branch Trading Account to complete the calculation of the branch’s trading results.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -3068,6 +3116,22 @@
     "image": "",
     "answer": "b",
     "solution": "Reason: Provision for depreciation (accumulated depreciation) is a contra-asset account, it reduces the gross carrying amount of fixed assets to show their net book value on the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1080,
+    "question": "Where closing stock is undervalued, the effect is?",
+    "option": {
+      "a": "an increase in gross profit",
+      "b": "a decrease in gross profit",
+      "c": "an increase in purchases",
+      "d": " a decrease in purchase"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Closing stock appears in the trading account as part of the calculation of gross profit.\n\nGross profit formula:\n\nGross Profit = Sales − (Opening Stock + Purchases − Closing Stock)\nIf closing stock is undervalued, it means we subtract a smaller amount from the cost of goods sold, which makes the cost of goods sold appear higher, and this reduces gross profit.",
     "examtype": "utme",
     "examyear": "2004"
   },

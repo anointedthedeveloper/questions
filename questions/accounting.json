@@ -240,6 +240,22 @@
     "examyear": "2013"
   },
   {
+    "id": 109,
+    "question": "The balance at the end of the period is",
+    "option": {
+      "a": " 270,000.",
+      "b": "139,000.",
+      "c": "131,000.",
+      "d": "120,000."
+    },
+    "section": "Aminn local Government prepared its receipts and payments account from the following: Fines [ 20,000 ] Market rates [120,000], Salaries [ 60,000] Maintenance of vehicles [49,000 ], Park collections [ 100,000]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 124,
     "question": "Which of the following is not part of prime costof production?",
     "option": {
@@ -400,6 +416,22 @@
     "examyear": "2006"
   },
   {
+    "id": 230,
+    "question": "Whatever is fed into the computer is exactly what would be processed and produced as output. This is the concept of",
+    "option": {
+      "a": "sorting out",
+      "b": "last in, first out",
+      "c": "first in, first out",
+      "d": "garbage in, garbage out."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 233,
     "question": "Which of the following is not a debit item in a partnership \tappropriation account?",
     "option": {
@@ -427,6 +459,22 @@
     "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 248,
+    "question": "Which of the following is not a revenue expenditure?",
+    "option": {
+      "a": "Payment: of salaries",
+      "b": "Payment for advertisement",
+      "c": "Purchases of motor vehicle",
+      "d": "Purchases of goods."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -992,6 +1040,22 @@
     "examyear": "2009"
   },
   {
+    "id": 511,
+    "question": "Expenditure incurred on consumables and goods for resale is",
+    "option": {
+      "a": "revenue expenditure",
+      "b": "capital expenditure",
+      "c": "sunk cost",
+      "d": "miscellaneous expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 512,
     "question": "Replacement and renewal of fixed assets are",
     "option": {
@@ -1484,6 +1548,22 @@
     "image": "",
     "answer": "c",
     "solution": "Jewelry 3/10 x 3500 = 1050\n\nHairdressing 2/10 x 3500 = 700\n\nClothing 5/10 x 3500 = 1750",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 709,
+    "question": "Which of the following is a conversion cost?",
+    "option": {
+      "a": "Factory overhead",
+      "b": "purchases",
+      "c": "material cost",
+      "d": "wages"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Conversion costs are costs required to convert raw materials into finished goods\n\n  Formula for conversion cost= direct labor+ factory overheads",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1984,6 +2064,22 @@
     "examyear": "2023"
   },
   {
+    "id": 906,
+    "question": "Capital for a profit making organization is generated through",
+    "option": {
+      "a": "gift",
+      "b": "donation",
+      "c": "shares",
+      "d": "subscription"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Shares can be issued to the public for subscription. A lot of money can be raised to finance the operation of the business through the issue of new shares to members of the public.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 912,
     "question": "The main purpose of transaction file is?",
     "option": {
@@ -2096,6 +2192,22 @@
     "examyear": "2024"
   },
   {
+    "id": 934,
+    "question": "In government accounting, money allocated to each head and sub-heads is referred to as     ",
+    "option": {
+      "a": "allocation",
+      "b": "imprest",
+      "c": "vote",
+      "d": "float"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In government budgeting, funds are authorized for spending through a voting process. Each government department or agency submits a budget request, which is then debated and approved (or voted on) by the legislature. The approved amounts for each department's programs and activities become the official votes that they can spend from.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 935,
     "question": "The following are causes of discrepancies between the cash book and the bank statement balances except",
     "option": {
@@ -2156,6 +2268,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Calculate the average cost after each receipt\n\nAug. 1\n\nReceived 20 units @ ₦60\n\nAverage cost = ₦60 (only one purchase so far)\n\nAug. 6\n\nReceived 20 units @ ₦68\n\nSimple average = (60 + 68)/2 = 128/2 = ₦64 per unit\n\nStep 2: Issue stock (Aug. 10)\n\nIssued 16 units at ₦64 each (no change in average price — simple average method keeps cost until next purchase)\n\nBalance after issue = 20 + 20 − 16 = 24 units @ ₦64\n\n\nStep 3: Aug. 20 purchase\n\nReceived 40 units @ ₦80\n\n₦ew average = (64 + 80)/2 = 144/2 = 72 per unit\n\n\nStep 4: Aug. 31 issue\n\nIssued 48 units @ ₦72 (still same average after last purchase)\n\nClosing stock units = 24 + 40 − 48 = 16 units @ ₦72\n\nCost per unit of closing stock = ₦72",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 983,
+    "question": "In a period of inflation, which of the following method normally gives a lower closing stock value?",
+    "option": {
+      "a": "FIFO",
+      "b": "LIFO",
+      "c": "Sinple average",
+      "d": "periodic simple average"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "LIFO (Last In, First Out) assumes that the most recently purchased (and therefore most expensive) items are sold first. This means:\n\nThe newer, higher-priced inventory gets matched against sales revenue\nThe older, lower-priced inventory remains in closing stock\nThis results in a lower closing stock value on the balance sheet\n\nIn contrast:\n\nFIFO would show higher closing stock values (newer, expensive items remain)\nSimple average and periodic simple average would show moderate values between FIFO and LIFO\n\nLIFO is often preferred during inflation because it:\n\nMatches current costs against current revenues (better income statement matching)\nResults in lower reported profits (and thus lower taxes)\nShows more conservative inventory values\n\nSo LIFO typically gives the lowest closing stock valuation during inflationary periods.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -2238,6 +2366,22 @@
     "solution": "Given (Dept P):\n  Opening stock    = ₦2,000\n  Purchases        = ₦2,500\n  Closing stock    = ₦1,500\n  Sales            = ₦6,000\n  Expenses (P)     = ₦200\n  (Transfer from Q to P is irrelevant to P's net profit here)\n\nStep 1: Cost of goods sold (COGS)\n  COGS = Opening + Purchases − Closing\n       = 2,000 + 2,500 − 1,500\n       = ₦3,000\n\nStep 2: Gross profit\n  Gross profit = Sales − COGS\n               = 6,000 − 3,000\n               = ₦3,000\n\nStep 3: Net profit (after expenses)\n  Net profit = Gross profit − Expenses\n             = 3,000 − 200\n             = ₦2,800",
     "examtype": "utme",
     "examyear": "2008"
+  },
+  {
+    "id": 1029,
+    "question": "Goods withdraw from business for private use are credited to?",
+    "option": {
+      "a": "drawings",
+      "b": "purchases",
+      "c": "sales",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation: the journal entry is Debit Drawings (owner's use) and Credit Purchases (or Inventory) to remove the goods from business stock.",
+    "examtype": "utme",
+    "examyear": "2005"
   },
   {
     "id": 1031,
@@ -2636,6 +2780,22 @@
     "image": "",
     "answer": "d",
     "solution": "Using the accounting equation: Assets = Liabilities + Equity\nStep 1: Identify Balance Sheet items\nAssets:\n\nFixed assets: ₦85,600\nStock: ₦34,300\nDebtors: ₦25,000\nCash: ? (to be found)\n\nLiabilities:\n\nCreditors: ₦16,050\n\nEquity:\n\nShare capital: ₦120,000\nRetained earnings: Sales - Purchases - Salaries - Motor expenses\nRetained earnings: ₦197,000 - ₦127,700 - ₦37,000 - ₦10,500 = ₦21,800\n\nStep 2: Apply the accounting equation\nTotal Assets = Liabilities + Equity\n₦85,600 + ₦34,300 + ₦25,000 + Cash = ₦16,050 + ₦120,000 + ₦21,800\n₦144,900 + Cash = ₦157,850\nCash = ₦157,850 - ₦144,900 = ₦12,950",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1223,
+    "question": "A cash book had opening balance of ₦15,200 closing balance ₦18,400 and total cash received during the period ₦36,000. What was the amount of cash paid out during the same period?",
+    "option": {
+      "a": " ₦17,800",
+      "b": " ₦19,600",
+      "c": " ₦29,200",
+      "d": "₦32,800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Opening Balance + Cash Received - Cash Paid = Closing Balance\nRearranging to find Cash Paid:\nCash Paid = Opening Balance + Cash Received - Closing Balance\nSubstituting the values:\nCash Paid = ₦15,200 + ₦36,000 - ₦18,400\nCash Paid = ₦51,200 - ₦18,400 = ₦32,800",
     "examtype": "utme",
     "examyear": "2001"
   },

@@ -17264,6 +17264,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1111,
+    "question": "PHCN measures its electrical energy in",
+    "option": {
+      "a": "W",
+      "b": " KWh",
+      "c": "Wh",
+      "d": "J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "PHCN (Power Holding Company of Nigeria) is an electricity distribution company that bills customers for electrical energy consumed. The unit of electrical energy used in utility billing is the kilowatt-hour (kWh).",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1112,
     "question": "What is the best method of demagnetizing a steel bar magnet?",
     "option": {

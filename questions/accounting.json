@@ -592,6 +592,22 @@
     "examyear": "2006"
   },
   {
+    "id": 258,
+    "question": "The objective of accounting information is to enable users to",
+    "option": {
+      "a": "prepare the financial statements.",
+      "b": "value stock",
+      "c": "make decisions",
+      "d": "prepare budgets"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 272,
     "question": "The name given to a budget in public service accounting is",
     "option": {
@@ -2288,6 +2304,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1035,
+    "question": "If the assets and liabilities of a firm were valued at ₦17,200 and ₦5,120 respectively, the capital of the firm would be?",
+    "option": {
+      "a": "₦22 320",
+      "b": " ₦17 200",
+      "c": "₦12 080",
+      "d": "₦5 120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Total assets ₦17,200 − Liabilities ₦5,120 = Capital ₦12,080.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1038,
     "question": "A component of an overhead manufacturing cost is?",
     "option": {
@@ -2896,6 +2928,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1312,
+    "question": "Recurrent expenditure are expenses for the period not exceeding?",
+    "option": {
+      "a": "10 years",
+      "b": "5 years",
+      "c": "2 years",
+      "d": "1 year"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Recurrent expenditures are those that are incurred for the day‐to‐day running of government within a single budget cycle, i.e., expenses for periods not exceeding one year.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1316,
     "question": "The basic role of accounting is to?",
     "option": {
@@ -3148,6 +3196,22 @@
     "image": "",
     "answer": "b",
     "solution": "The issuance of shares at a discount in Nigeria is only permissible when:\n\nA special resolution of the shareholders is passed approving the issue at a discount, and\n\nThe amount of the discount is specifically stated in that resolution, and\n\nA court order (from the Federal High Court) sanctions the proposed issue at a discount.\n\nThere is no requirement that the share must have existed for a minimum number of years.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1413,
+    "question": "Money not required to meet chargeable expenditure in any fiscal year under cash accounting, should be?",
+    "option": {
+      "a": " surrendered to the consolidated revenue fund",
+      "b": "carried forward to the next financial year",
+      "c": "reserved to meetany deficits or contingencies",
+      "d": "returned to the taxpayer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In government accounting, unspent funds at the end of a fiscal year are typically surrendered to the Consolidated Revenue Fund (or similar central treasury fund). This ensures proper control and accountability of public funds.",
     "examtype": "utme",
     "examyear": "199"
   },

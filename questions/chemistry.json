@@ -8096,6 +8096,22 @@
     "examyear": "2019"
   },
   {
+    "id": 516,
+    "question": "Which of the following alkaline earth metals react more spontaneously with water?",
+    "option": {
+      "a": "Calcium",
+      "b": "Beryllium",
+      "c": "Magnesium",
+      "d": "Strontium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Reactivity of alkaline earth metals with water increases down Group II: Be < Mg < Ca < Sr < Ba. Strontium (Sr) is the most reactive among the options given, reacting vigorously and spontaneously with cold water to give Sr(OH)₂ and H₂. Be barely reacts with water; Mg reacts only with steam; Ca reacts with cold water but less vigorously than Sr.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 517,
     "question": "When chlorine water is exposed to bright sunlight, the following products are formed",
     "option": {
@@ -11964,6 +11980,22 @@
     "image": "",
     "answer": "d",
     "solution": "Alkanoic acids (carboxylic acids) form dimers through two cooperative hydrogen bonds between the -COOH groups, creating stronger intermolecular attractions than the single hydrogen bonds formed by alkanols (-OH). Greater intermolecular forces require more energy to overcome, giving alkanoic acids higher boiling points.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 772,
+    "question": "Water drops are spherical in shape because of",
+    "option": {
+      "a": "polarity",
+      "b": "viscosity",
+      "c": "density",
+      "d": "surface tension"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Surface tension arises from the cohesive forces between water molecules at the surface. It causes the liquid to minimize its surface area, and the shape with the minimum surface area for a given volume is a sphere. This is why water droplets are spherical.",
     "examtype": "utme",
     "examyear": "2025"
   },

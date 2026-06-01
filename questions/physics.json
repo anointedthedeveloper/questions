@@ -752,6 +752,22 @@
     "examyear": "2015"
   },
   {
+    "id": 147,
+    "question": "Electrons were discovered by",
+    "option": {
+      "a": "James Chadwick B.",
+      "b": "J.J Thompson",
+      "c": "Sir Isaac Newton",
+      "d": "Charles Newton"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "J.J. Thompson discovered ELECTRONS",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 155,
     "question": "The device in which one circuit controls another, especially if the current in the second circuit is large or dangerous is known as",
     "option": {
@@ -1244,6 +1260,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nSeven 40W lamps\nFive 80W lamps\nTime = 12 hours\nCost per kWh = N7.00\nTotal cost = ?\n\nStep 1: Calculate total power\nPower from 40W lamps = 7 × 40 = 280W\nPower from 80W lamps = 5 × 80 = 400W\nTotal power = 280 + 400 = 680W = 0.68kW\nStep 2: Calculate energy consumed\nEnergy = Power × Time\nEnergy = 0.68kW × 12 hours\nEnergy = 8.16 kWh\nStep 3: Calculate total cost\nCost = Energy × Rate\nCost = 8.16 × N7.00\nCost = N57.12",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 271,
+    "question": "From the diagram above, calculate the total current in the circuit",
+    "option": {
+      "a": "5.0A",
+      "b": "3.7A",
+      "c": " 4.5A",
+      "d": "4.0A"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611100/ALOC-Questions/Physics/2017/2017_Q_42_fqgmd3.jpg",
+    "answer": "b",
+    "solution": "Given information:\n\nVoltage = 12V\nThree resistors: 18Ω, 12Ω, and 6Ω\nFrom the diagram, the resistors appear to be in parallel\n\nStep 1: Calculate equivalent resistance for parallel resistors\n1/Rₑq = 1/R₁ + 1/R₂ + 1/R₃\n1/Rₑq = 1/18 + 1/12 + 1/6\nFinding common denominator (36):\n1/Rₑq = 2/36 + 3/36 + 6/36\n1/Rₑq = 11/36\nTherefore:\nRₑq = 36/11 = 3.27Ω\nStep 2: Calculate total current using Ohm's Law\nI = V/Rₑq\nI = 12/3.27\nI = 3.67A ≈ 3.7A",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3468,6 +3500,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given wave equation:\ny = 5 sin(2000πt - 0.4x)\nStandard form of progressive wave:\ny = A sin(ωt - kx)\nwhere:\n\nA = amplitude\nω = angular frequency\nk = wave number\n\nComparing with standard form:\n\nA = 5\nω = 2000π\nk = 0.4\n\nFormula relating wave number and wavelength:\nk = 2π/λ\nRearranging for wavelength:\nλ = 2π/k\nSubstituting values:\nλ = 2π/0.4\nλ = 2 × 3.14159/0.4\nλ = 6.28318/0.4\nλ = 15.708 m\nλ ≈ 15.7",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 821,
+    "question": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?",
+    "option": {
+      "a": " 3.0 cm",
+      "b": "8.0 cm",
+      "c": "12.0 cm",
+      "d": "16.0 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nObject height = 4 cm\nImage height = 2 cm\nImage distance (camera size) = 6 cm\n\nSolution:\n\nStep 1: Magnification formula for pinhole camera\nMagnification = Image height / Object height = Image distance / Object distance\n\nStep 2: Substitute known values\n2/4 = 6 / u\n1/2 = 6 / u\n\nStep 3: Solve for object distance u\nu = 6 × 2 = 12 cm",
     "examtype": "utme",
     "examyear": "2008"
   },

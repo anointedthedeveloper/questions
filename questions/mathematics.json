@@ -656,6 +656,22 @@
     "examyear": "2001"
   },
   {
+    "id": 170,
+    "question": "The graph shows the cumulative frequency of the distribution of masses of fertilizer for 48 workers in one institution. Which of the following gives the inter-quartile range?",
+    "option": {
+      "a": "1/2(Q<sub>3</sub> - Q<sub>1</sub>",
+      "b": "(Q<sub>3</sub> - Q<sub>2</sub>",
+      "c": "(Q<sub>3</sub> - Q<sub>2</sub>",
+      "d": "(Q<sub>3</sub> - Q<sub>1</sub>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696947/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_49_eg0oqp.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 175,
     "question": "Simplify (√0.7+√70)<sup>2</sup>",
     "option": {
@@ -2048,6 +2064,22 @@
     "examyear": "2009"
   },
   {
+    "id": 551,
+    "question": "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is 2/3?",
+    "option": {
+      "a": "-2",
+      "b": "-1",
+      "c": "1",
+      "d": "2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGradient =\t(y<sub>2</sub> - y<sub>1</sub>)/(x<sub>2</sub> - x<sub>1</sub>)\n\n2/3 =4-p/(p-(-1))\n2/3 = 4-p/p+1\n\n3(4-p) = 2(p+1)\n12 - 3p = 2p + 2\n12 – 2 = 2p + 3p\n10 = 5p\np =10\n5= 2",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 559,
     "question": "The distribution above shows the number of days a group of 260 students were absent from school in a particular term. How many students were absent for at least four days in the term?",
     "option": {
@@ -3280,6 +3312,22 @@
     "examyear": "2018"
   },
   {
+    "id": 938,
+    "question": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\nWhat is the probability of selecting a student from the group that scored 2 or 3",
+    "option": {
+      "a": "1/11",
+      "b": "5/22",
+      "c": "7/22",
+      "d": "6/11"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006382/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q20_xt2oox.jpg",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 939,
     "question": "A boy walks 800m in 20 minutes. Calculate his average speed in Km/H",
     "option": {
@@ -3948,6 +3996,22 @@
     "image": "",
     "answer": "c",
     "solution": "81a<sup>4</sup> - 16b<sup>4</sup> = (9a<sup>2</sup>)<sup>2</sup> - (4b<sup>2</sup>)<sup>2</sup>\n\n\n= (9a<sup>2</sup> + 4b<sup>2</sup>)(9a<sup>2</sup> - 4b<sup>2</sup>)\n\nN:B 9a<sup>2</sup> - 4b<sup>2</sup> = (3a - 2b)(3a+ 2b)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1095,
+    "question": "X is due east point of y on a coast. Z is another point on the coast but 6.0km due south of Y. If the distance ZX is 12km, calculate the bearing of Z from X",
+    "option": {
+      "a": "240°",
+      "b": "150°",
+      "c": "60°",
+      "d": "270°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Sinθ = 6/12\n\nSinθ = 1/2\n\nθ =  Sin 0.5\n\nθ = 30°\n\nBearing of Z from X, (270 - 30)° = 240°",
     "examtype": "utme",
     "examyear": "2021"
   },

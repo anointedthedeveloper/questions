@@ -11952,6 +11952,22 @@
     "examyear": "2016"
   },
   {
+    "id": 847,
+    "question": "Evaluate ∫<sub>0</sub><sup>π/2</sup> sin xdx",
+    "option": {
+      "a": "2",
+      "b": "-1",
+      "c": "1",
+      "d": "-2"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <munderover>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mn>0</mn>\n    <mfrac>\n      <mi>&#x03C0;<!-- π --></mi>\n      <mn>2</mn>\n    </mfrac>\n  </munderover>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "Evaluate ∫<sub>0</sub><sup>π/2</sup>   sin xdx = -cosx|π/2\n\n\n= -(cos<sup>π/2</sup> - cos0) = -(0-1) = 1",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 848,
     "question": "An arc of the length 16π cm subtends an angle of 80° at the centre of the circle. Find the radius of the circle.",
     "option": {

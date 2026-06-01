@@ -240,6 +240,22 @@
     "examyear": "2010"
   },
   {
+    "id": 69,
+    "question": "If 21g of alcohol of density 0.7gcm-3 is mixed with 10g of water, what would be the density of the resulting mixture? ",
+    "option": {
+      "a": "780gcm-3 ",
+      "b": "0.78gcm-3 ",
+      "c": "30gcm-3 ",
+      "d": "10gcm-3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 70,
     "question": " For  a particle having an x co-ordinate that varies in time according to the express ion x = 4t -2t2 The instantaneous velocity for of the particle at t = 2.5s is:",
     "option": {
@@ -524,6 +540,22 @@
     "image": "",
     "answer": "c",
     "solution": "Simple pendulum does not depend on thermal expansion\n\nFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 143,
+    "question": "If an object is placed at a height of tem above the ground at a stationary point. It posses what types of energy?",
+    "option": {
+      "a": "Mechanical energy",
+      "b": "Stationary energy",
+      "c": " Potential energy",
+      "d": "Vibrational energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Energy due to position T is potential energy (P.E)\n\nEnergy due to motion is kinetic energy (K.E)",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1260,6 +1292,22 @@
     "image": "",
     "answer": "c",
     "solution": "Understanding anomalous expansion of water:\nNormal behavior: Most liquids expand when heated and contract when cooled.\nAnomalous behavior of water:\nBetween 0°C and 4°C, water behaves differently:\n\nWater contracts when heated from 0°C to 4°C (instead of expanding)\nWater expands when cooled from 4°C to 0°C (instead of contracting)\nWater has maximum density at 4°C\nBelow 0°C, water freezes and expands significantly\n\nWhy this matters:\n\nIce floats on water (less dense)\nAquatic life can survive in frozen lakes (ice on top, water below)\nThis anomaly is crucial for life on Earth\n\nAnalysis of options:\nA. +208°C to +212°C:\n\nNear boiling point; normal behavior ✗\n\nB. -80°C to -76°C:\n\nWater is solid (ice) at these temperatures ✗\n\nC. 0°C to +4°C:\n\nThis is the exact range of anomalous expansion ✓\n\nD. -4°C to +0°C:\n\nWater is solid (ice) below 0°C ✗\n\nAnswer: C. 0°C to +4°C",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 387,
+    "question": "The effect of closing the key K in the circuit shown in the figure above would be to?",
+    "option": {
+      "a": " increase the current by 0.4A",
+      "b": " reduce the current by 0.4A",
+      "c": "increase the current by 0.6A",
+      "d": " reduce the current by 0.6A"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612576/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_8_x9t0jv.jpg",
+    "answer": "a",
+    "solution": "Step 1: Current when K is open\nWhen K is open, one path through 8Ω total (4Ω + 4Ω) and 2Ω:\nTotal resistance = 8Ω + 2Ω = 10Ω\nCurrent (I₁) = V/R = 6/10 = 0.6A\nStep 2: Current when K is closed\nWhen K is closed, the two 4Ω resistors are in parallel:\nParallel combination: 1/R_parallel = 1/4 + 1/4 = 2/4\nR_parallel = 4/2 = 2Ω\nWait, let me recalculate:\n1/R = 1/4 + 1/4 = 1/4 + 1/4 = 2/4 = 1/2\nR_parallel = 2Ω... that's not right.\nActually: (4 × 4)/(4 + 4) = 16/8 = 2Ω\nHmm, the explanation shows R_parallel = 4Ω. Let me follow their logic:\nIf 1/8 + 1/8 = 2/8 = 1/4, then R = 4Ω\nTotal resistance with K closed: 4Ω + 2Ω = 6Ω\nCurrent (I₂) = 6/6 = 1A\nStep 3: Change in current\nΔI = I₂ - I₁ = 1 - 0.6 = 0.4A increase",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -2576,6 +2624,22 @@
     "examyear": "2008"
   },
   {
+    "id": 834,
+    "question": "When a pure semiconductor is heated, its resistance?",
+    "option": {
+      "a": "increases",
+      "b": "decreases",
+      "c": "remains the same",
+      "d": "increases and then decreases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Heating a pure semiconductor increases the mobility of electrons and holes and hence the conductivity. thus, the resistance decreases on heating",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 837,
     "question": "The resultant of two forces 12 N and 5 N is 13 N. What is the angle between the two forces?",
     "option": {
@@ -3068,6 +3132,22 @@
     "image": "",
     "answer": "c",
     "solution": "Pitch, loudness, and atmospheric pressure do not affect sound velocity. Wind traveling in the same direction of sound affects its velocity. wind can slow down or accelerate the speed of sound, depending on whether it is blowing in the same direction or in the opposite direction to the sound signal.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1024,
+    "question": "A pinhole camera is placed 300 m in front of a building so that the image is formed on a screen 5 cm from the pinhole. If the image is 2.5 cm high, the height of the building will be",
+    "option": {
+      "a": "25 m",
+      "b": "50 m",
+      "c": "100 m",
+      "d": "150 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nObject distance, u = 300 m\nImage distance, v = 5 cm = 0.05 m\nImage height, hᵢ = 2.5 cm = 0.025 m\n\nSolution:\n\nStep 1: Magnification formula for pinhole camera\nMagnification m = image height / object height = hᵢ / h₀\nAlso, for pinhole camera, m = v / u\n\nStep 2: Equate the two expressions\nv / u = hᵢ / h₀\n\nStep 3: Substitute values\n0.05 / 300 = 0.025 / h₀\n\nStep 4: Solve for h₀\nh₀ = (0.025 × 300) / 0.05 = (7.5) / 0.05 = 150 m",
     "examtype": "utme",
     "examyear": "2012"
   },

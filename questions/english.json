@@ -2774,6 +2774,25 @@
     "category": "others"
   },
   {
+    "id": 208,
+    "question": "b<u>ee</u>r",
+    "option": {
+      "a": "bear",
+      "b": " pear ",
+      "c": " fair",
+      "d": " pier"
+    },
+    "section": "choose the option that has the same vowel sound as the one represented by the letter(s) underlined",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 209,
     "question": "g<u>uar</u>d",
     "option": {
@@ -15690,6 +15709,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 25,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1340,
+    "question": "Before I arrived, the choir _______ the hymn",
+    "option": {
+      "a": "have sing",
+      "b": "has sing",
+      "c": "had sung",
+      "d": "have sang"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "c",
+    "solution": "Option C is the correct answer.\n\nIn the arrangement of tenses, 'when the main clause is in past or past perfect tense, the subordinate clause must be in the past or past perfect tense'.\n\n'had' is used to express a past perfect tense as opposed to 'has' and 'have' which is used to express a present perfect tense. ",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 27,
     "hasPassage": 0,
     "category": "others"
   },

@@ -2048,6 +2048,22 @@
     "examyear": "2014"
   },
   {
+    "id": 371,
+    "question": "The accounting concept underlying the treatment of personal expenses of the business owner as drawing is",
+    "option": {
+      "a": "periodicity",
+      "b": "accrual",
+      "c": "entity",
+      "d": "materiality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 376,
     "question": "The accounting ratio used to measure the average number of days for which suppliers remain unpaid is",
     "option": {
@@ -3324,6 +3340,22 @@
     "image": "",
     "answer": "b",
     "solution": "Step 1: Calculate total sales\n\nDepartment A sales: ₦250,000\nDepartment B sales: ₦150,000\nTotal sales: ₦400,000\n\nStep 2: Calculate Department A's proportion of total sales\nDepartment A's proportion = ₦250,000 ÷ ₦400,000 = 62.5%\nStep 3: Allocate total discount allowed proportionally\nTotal discount allowed = ₦15,000 (given for the business)\nDepartment A's discount allowed = ₦15,000 × 62.5% = ₦9,375\nDepartment A's discount allowed is ₦9,375, representing their proportional share based on sales volume.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 646,
+    "question": "A business has the following bank reconciliation information: Balance as per cashbook ₦5,467, Uncredited cheques ₦4,410, Unpresented cheques ₦19,404, and Cheques wrongly debited by bank ₦1,404. What is the balance as per bank statement?",
+    "option": {
+      "a": " ₦21,901",
+      "b": "₦19,057",
+      "c": " ₦21,109",
+      "d": " ₦21,091"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Starting from the cashbook balance of ₦5,467, we adjust for items not yet reflected in the bank statement:\n\nAdd unpresented cheques (outstanding at bank): ₦19,404\n\nSubtract uncredited cheques (lodgements in transit): ₦4,410\n\nSubtract cheques wrongly debited by the bank (the bank has already taken this amount): ₦1,404\n\nSo the bank statement balance is:\n5,467 + 19,404 − 4,410 − 1,404 = ₦19,057",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4828,6 +4860,22 @@
     "image": "",
     "answer": "b",
     "solution": "Discount allowed is allowed by a firm to its customers when they pay their accounts quickly or promptly.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 920,
+    "question": "When expenses are paid on behalf of the venture, the accounting entries is to debit",
+    "option": {
+      "a": "expenses account and credit bank account",
+      "b": " bank account and credit joint venture account",
+      "c": "joint venture account and credit bank account",
+      "d": "joint venture account and credit expenses account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Expenditure paid on bahalf of joint venture\nAccountint entries:\nDr: Joint venture account\nCr: Bank account",
     "examtype": "utme",
     "examyear": "2023"
   },

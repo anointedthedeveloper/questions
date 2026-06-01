@@ -528,6 +528,22 @@
     "examyear": "2008"
   },
   {
+    "id": 50,
+    "question": "Nigeria became a republic on ",
+    "option": {
+      "a": "29-May-99",
+      "b": "1-Oct-60",
+      "c": "1-Jan-66",
+      "d": "1-Oct-63"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 53,
     "question": "What was the name of the highest ruling body during General Babangida’s rule?  ",
     "option": {
@@ -1486,6 +1502,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 149,
+    "question": "Which of the following does not described a party system? ",
+    "option": {
+      "a": "one dominant party system  ",
+      "b": "two party system  ",
+      "c": "three party system  ",
+      "d": "multi-party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 151,
@@ -9644,6 +9676,22 @@
     "image": "",
     "answer": "c",
     "solution": "Citizenship of a country can be acquired through different means, but the most common and legally recognized ways are birth and naturalization.\n\nBreakdown of the Two Forms of Citizenship Acquisition:\nBy Birth – A person is automatically a citizen if they are born within the country or if one or both parents are citizens, depending on the country's laws.\nBy Naturalization – This is a process where a foreigner applies for and is granted citizenship after meeting specific legal requirements, such as residing in the country for a specified number of years and demonstrating loyalty to the nation.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 951,
+    "question": "One of the duties of the legislature is to_______",
+    "option": {
+      "a": "Exercise oversight",
+      "b": " Implement law",
+      "c": "Promulgate decrees",
+      "d": "Adjudicate disputess"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The legislature has several key functions in a government, including exercising oversight. This involves monitoring and evaluating the actions and policies of the executive branch to ensure accountability and transparency. The legislature holds hearings, conducts investigations and reviews the implementation of laws and policies to prevent misuse of power and corruption.",
     "examtype": "utme",
     "examyear": "2021"
   },

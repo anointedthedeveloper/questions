@@ -1248,6 +1248,22 @@
     "examyear": "2006"
   },
   {
+    "id": 226,
+    "question": "A customer who returns goods to the supplier because they are defective is issued a",
+    "option": {
+      "a": "debit note",
+      "b": "credit note",
+      "c": "delivery note",
+      "d": "bank note."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 227,
     "question": "Cross referencing among different books of accounts is achieved with the use of",
     "option": {
@@ -6128,6 +6144,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1054,
+    "question": "<b>Use the information below to answer questions 39 to 40</b>\n\n\nJide and Haruna contribute ₦12000 each as capital and share profit equally. Jide draws ₦1500 and Haruna ₦1700 half-yearly. The profit for the year is ₦10000. Jide receives a salary of ₦2000.\n\nThe balances of current accounts of Jide and Haruna are respectively?",
+    "option": {
+      "a": "₦6000 and ₦5000",
+      "b": "₦3000 and ₦3400",
+      "c": "₦4000 and ₦4000",
+      "d": "₦3000 and ₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Add items that increase the current account\nItems that increase the current account:\n\nShare of profit\n\nSalary (for Jide)\n\nWe already found:\n\nTotal profit available for appropriation = ₦8,000\n\nThey share profit equally = ₦4,000 each\n\nFor Jide:\n\nSalary = ₦2,000\n\nShare of profit = ₦4,000\n\nIncrease = ₦2,000 + ₦4,000 = ₦6,000\n\nFor Haruna:\n\nShare of profit = ₦4,000\n\nIncrease = ₦4,000\n\nStep 2: Deduct drawings\nDrawings are given half-yearly:\n\nFor Jide:\n\n₦1,500 × 2 = ₦3,000\n\nFor Haruna:\n\n₦1,700 × 2 = ₦3,400\n\nStep 3: Calculate closing balances\nJide: ₦6,000 − ₦3,000 = ₦3,000\nHaruna: ₦4,000 − ₦3,400 = ₦600\n\nAnswer:₦3,000 and ₦600",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1056,
     "question": "A company paid cash in redemption of ₦10,000 debenture.\nThe accounting entry to record this will be to debit?",
     "option": {
@@ -6668,6 +6700,22 @@
     "image": "",
     "answer": "a",
     "solution": "Step 1 – Identify assets:\n\nCash = ₦100,000\n\nSubscription in arrears = ₦5,000 (this is money owed to the club, so it’s an asset)\n\nTotal Assets = ₦100,000 + ₦5,000 = ₦105,000\n\nStep 2 – Identify liabilities:\n\nLoan = ₦30,000\n\nSubscription in advance = ₦15,000 (this is money the club owes in service, so liability)\n\nTotal Liabilities = ₦30,000 + ₦15,000 = ₦45,000\n\nStep 3 – Calculate Accumulated Fund:\nAccumulated Fund = Assets − Liabilities\nAccumulated Fund = ₦105,000 − ₦45,000 = ₦60,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1151,
+    "question": "Emeka Enterprises Statement of Affairs at start\nAssets:\n\nCash: ₦70,000\nInventory: ₦58,000\nMachines: ₦100,000\n\nLiabilities:\n\nCreditors: ₦85,000\nBank Loan: ₦60,000\n\nWhat is the capital at start?",
+    "option": {
+      "a": "₦53000",
+      "b": "₦63000",
+      "c": "₦73000",
+      "d": "₦83000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Assets:\n\nCash: ₦70,000\nInventory: ₦58,000\nMachines: ₦100,000\nTotal Assets = ₦70,000 + ₦58,000 + ₦100,000 = ₦228,000\n\nLiabilities:\n\nCreditors: ₦85,000\nBank Loan: ₦60,000\nTotal Liabilities = ₦85,000 + ₦60,000 = ₦145,000\n\nCalculation:\nCapital at start = Total Assets - Total Liabilities\nCapital at start = ₦228,000 - ₦145,000 = ₦83,000",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -7404,6 +7452,22 @@
     "image": "",
     "answer": "b",
     "solution": "The branch should recognize the expense and record the head office as creditor:\n\nDebit Profit & Loss (Expense) Account\nCredit Head Office Account",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1262,
+    "question": "The officer responsible for ascertaining whether all public expenditure and appropriation are in line with approved guidelines is the?",
+    "option": {
+      "a": "Acountant General",
+      "b": " Auditor General",
+      "c": " Finance Minister",
+      "d": "Permanent Secretary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The officer responsible for ascertaining whether all public expenditure and appropriation are in line with approved guidelines is the Auditor General.",
     "examtype": "utme",
     "examyear": "2001"
   },

@@ -3136,6 +3136,22 @@
     "examyear": "2015"
   },
   {
+    "id": 536,
+    "question": "Derive the stock turnover period.(Average stock = 23,000. Cost of sales = 300,000 year = 365 days).",
+    "option": {
+      "a": "28 days",
+      "b": "42 days",
+      "c": "27 days",
+      "d": "23 days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Average stock / cost of sales x 365days.\n23,000 ÷ 300,000 x 365 = 27.9 (Approximately 28 days)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 539,
     "question": "The act of making necessary adjustment after comparing the actual cost with targeted cost is cost ----------------------------",
     "option": {
@@ -4832,6 +4848,22 @@
     "examyear": "2020"
   },
   {
+    "id": 794,
+    "question": "Which of the following are advantages of departmental accounts?",
+    "option": {
+      "a": " the capital of the business can be calculated easily",
+      "b": "easy knowledge of the sources of funding",
+      "c": "encouragement of healthy rivalry among the various department",
+      "d": "the department making the highest profit can be easily determined"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Departmental accounts help create healthy competition between departments by making each department's performance visible and comparable. This motivates department managers to improve efficiency and profitability.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 798,
     "question": "The addition of prime cost, indirect cost and opening work- in-progress less the closing work-in-progress will result in cost of",
     "option": {
@@ -5420,6 +5452,22 @@
     "image": "",
     "answer": "b",
     "solution": "Discount allowed is allowed by a firm to its customers when they pay their accounts quickly or promptly.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 916,
+    "question": "In manufacturing, depreciation of office machine is charged to",
+    "option": {
+      "a": "trading account",
+      "b": "balance sheet",
+      "c": " appropriation account",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Depreciation of office machine equipment is an administration expenses. Administration expenses comprises of cost of accounting and secretarial work.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -6204,6 +6252,22 @@
     "image": "",
     "answer": "d",
     "solution": "In a not-for-profit organization, profits from activities are treated as surpluses and recorded on the credit side of the Income and Expenditure Account, since they increase the organization's funds.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1047,
+    "question": "Departmental accounts are prepared to aid the comparison of the?",
+    "option": {
+      "a": " previous year's transactions",
+      "b": "daily profits",
+      "c": "workers' performances",
+      "d": "management performances"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Departmental accounts help management compare the performance of different departments so they can identify which ones are more profitable, efficient, or in need of improvement.",
     "examtype": "utme",
     "examyear": "2005"
   },

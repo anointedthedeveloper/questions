@@ -176,6 +176,22 @@
     "examyear": "2012"
   },
   {
+    "id": 288,
+    "question": "An increase in the provision for doubtful debts results in a/an",
+    "option": {
+      "a": "increase in the gross profit.",
+      "b": "decrease in the gross profit.",
+      "c": "decrease in the net profit.",
+      "d": "increase in the net profit."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 317,
     "question": "When the invoice of a customer is overcast, the supplier will send to him a",
     "option": {
@@ -270,6 +286,38 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 422,
+    "question": "Transfers from the head office to branches are best carried out at",
+    "option": {
+      "a": "cost price",
+      "b": "selling price",
+      "c": "cost plus mark-up",
+      "d": "market price"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 466,
+    "question": "Find the value of the total assets?",
+    "option": {
+      "a": "N 17 700",
+      "b": "N 10,500",
+      "c": "N 20,000",
+      "d": "N 15,400."
+    },
+    "section": "Use the information below to answer question: Net loss [N2,300]; Capital [N10,500]; Liabilities [N7, 200]",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
   },
   {
     "id": 527,
@@ -398,6 +446,22 @@
     "solution": "Contigency fund is established by the constitution of 1979 to take care of any nation disaster or unforeseen circumstances.",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 939,
+    "question": "Suppliers accounts are found in the",
+    "option": {
+      "a": "private",
+      "b": "purchase",
+      "c": "nominal",
+      "d": "general"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The purchase ledger is a subsidiary ledger that records all transactions related to purchases made from supplier on credit. Each supplier has a dedicated account in the purchase ledger.",
+    "examtype": "utme",
+    "examyear": "2024"
   },
   {
     "id": 956,

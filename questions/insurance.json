@@ -144,6 +144,22 @@
     "examyear": "1"
   },
   {
+    "id": 101,
+    "question": "When someone is placed back in the same financial position that he was in just prior to a loss, that is ----",
+    "option": {
+      "a": "Actual cash value",
+      "b": "Consideration",
+      "c": "Contribution",
+      "d": "Indemnity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 135,
     "question": "The person who calculate the amount given to the insured if he does not want to continue with the contract of insurance is called",
     "option": {
@@ -519,6 +535,38 @@
       "b": "temporary disablement",
       "c": "permanent disablement",
       "d": "medical expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 281,
+    "question": "The process of examining, accepting or rejecting risks and classifying the ones accepted is",
+    "option": {
+      "a": "underwriting",
+      "b": "policy",
+      "c": "procedures",
+      "d": "warranty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 282,
+    "question": "The periodic payment made by the insured to the insurer as financial cost of obtaining insurance",
+    "option": {
+      "a": "annuity",
+      "b": "premium",
+      "c": "claim",
+      "d": "dividend"
     },
     "section": "",
     "image": "",

@@ -2848,6 +2848,22 @@
     "examyear": "2016"
   },
   {
+    "id": 190,
+    "question": "A wire of length 10m is cooled from 50oC to 10oC. Calculate the decrease in the length of the wire. [c = 3 x 10-5K-1]",
+    "option": {
+      "a": "1.8 x  10⁻⁴ m",
+      "b": "1.5 x  10⁻⁴ m",
+      "c": "1.2 x 10⁻² m",
+      "d": "1.8 x 10⁻³m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nOriginal length (L₀) = 10 m\nInitial temperature (T₁) = 50°C\nFinal temperature (T₂) = 10°C\nLinear expansivity (α) = 3 × 10⁻⁵ K⁻¹\nDecrease in length (ΔL) = ?\n\nStep 1: Calculate temperature change\nΔT = T₁ - T₂ = 50°C - 10°C = 40°C = 40 K\nStep 2: Use linear expansion formula\nΔL = αL₀ΔT\nStep 3: Substitute values\nΔL = 3 × 10⁻⁵ × 10 × 40\nΔL = 3 × 10⁻⁵ × 400\nΔL = 1200 × 10⁻⁵\nΔL = 1.2 × 10⁻² m\nAnswer: C. 1.2 × 10⁻² m",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 191,
     "question": "When an athlete perspires after running, he loses heat through",
     "option": {

@@ -96,6 +96,22 @@
     "examyear": "2006"
   },
   {
+    "id": 22,
+    "question": "Which of these men introduced indirect rule in Nigeria? ",
+    "option": {
+      "a": "Mungo Park ",
+      "b": "Dr. Nnamdi Azikiwe ",
+      "c": "Lord Lugard ",
+      "d": "Sir James Robertson."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 36,
     "question": "In which city was the ECOWAS Treaty signed ",
     "option": {
@@ -142,6 +158,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2007"
+  },
+  {
+    "id": 50,
+    "question": "Nigeria became a republic on ",
+    "option": {
+      "a": "29-May-99",
+      "b": "1-Oct-60",
+      "c": "1-Jan-66",
+      "d": "1-Oct-63"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
   },
   {
     "id": 53,
@@ -1488,6 +1520,22 @@
     "examyear": "1999"
   },
   {
+    "id": 338,
+    "question": "The Lagos Colony and Protectorate was amalgamated with The Protectorate of Southern",
+    "option": {
+      "a": "1886",
+      "b": "1893",
+      "c": "1906",
+      "d": "1922"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 341,
     "question": "The motion for self-government in Nigeria was proposed by Chief Anthony Enahoro in",
     "option": {
@@ -1632,6 +1680,38 @@
     "examyear": "2016"
   },
   {
+    "id": 397,
+    "question": "Which of the following parties formed the opposition in the House of Representatives during Nigerian first republic?",
+    "option": {
+      "a": "NCNC and NEPU",
+      "b": "AG and UMBC",
+      "c": "NPC and NNDP",
+      "d": "NCNC and MDF"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 402,
+    "question": "In order to dispense justice impartially, the judiciary primarily needs",
+    "option": {
+      "a": "discipline",
+      "b": "logistics",
+      "c": "motivation",
+      "d": "independence"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 403,
     "question": "A state with a hegemonic political party is one in which",
     "option": {
@@ -1675,6 +1755,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 430,
+    "question": "The Aro age-grade system in lgboland was",
+    "option": {
+      "a": "a commercial organization",
+      "b": "a political organization",
+      "c": "an imperial organization",
+      "d": "a religious organization."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
@@ -1835,6 +1931,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 493,
+    "question": "Workers in the public corporations are known as",
+    "option": {
+      "a": "civil servants",
+      "b": "private employees",
+      "c": "public servants",
+      "d": "professional employees."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -2752,6 +2864,22 @@
     "examyear": "1989"
   },
   {
+    "id": 703,
+    "question": "Which of the following is not an objective in foreign policy?",
+    "option": {
+      "a": "Prestige",
+      "b": "Large population",
+      "c": "Territorial integrity",
+      "d": "Survival"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
     "id": 713,
     "question": "Which of the following did not formally recognize Biafra’ as an independent state?",
     "option": {
@@ -2846,6 +2974,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
+  },
+  {
+    "id": 724,
+    "question": "Which of the following is a foremost right of a citizen?",
+    "option": {
+      "a": "Religious right",
+      "b": "Academic right",
+      "c": "Right to life",
+      "d": "Private life."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The right to life is a fundamental human right that all citizens are entitled to.",
+    "examtype": "UTME",
+    "examyear": "2017"
   },
   {
     "id": 725,
@@ -2944,6 +3088,22 @@
     "examyear": "2017"
   },
   {
+    "id": 746,
+    "question": "Activities of pressure groups that influence governmental decisions are hampered by __",
+    "option": {
+      "a": "its size",
+      "b": "its leadership",
+      "c": " its affiliation",
+      "d": "the economy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Economic conditions can significantly impact the activities of pressure groups.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 748,
     "question": "The struggle for self- government from foreign rule is known as __",
     "option": {
@@ -2956,6 +3116,22 @@
     "image": "",
     "answer": "b",
     "solution": "Nationalism refers to the struggle for self-government from foreign rule.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 750,
+    "question": "An effective means of measuring public opinion is __",
+    "option": {
+      "a": "referendum",
+      "b": "radio interview",
+      "c": " letters to government",
+      "d": "telephone calls."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A referendum is an effective way to measure public opinion on key issues.",
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -3648,6 +3824,22 @@
     "examyear": "2020"
   },
   {
+    "id": 900,
+    "question": "The highest court in Nigeria before 1963 was the _________",
+    "option": {
+      "a": " Supreme Court",
+      "b": "High Court",
+      "c": "Judicial Committees of the Privy Council",
+      "d": "Court of Appeal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Judicial Committee of Privy Council is the highest court of appeal for British Territories established on 13th, August 1833. The Privy Council served as the final court of appeal for Nigeria during the colonial period and up until the Nigerian Constitution of 1963, when Nigeria established its own Supreme Court as the highest judicial authority in the country.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 908,
     "question": "The idea of making the civil service permanent, neutral and anonymous is to _________",
     "option": {
@@ -4188,6 +4380,22 @@
     "image": "",
     "answer": "b",
     "solution": "Delegated legislation, or secondary legislation, is a law that is made by a governmental body other than the legislature. The legislation often delegates legislative powers to other government bodies such as the local government, public corporations, etc. to create laws that are specific to their jurisdiction. This is because the legislature may not have the necessary expertise to create laws for specific regions or agencies. \n\nThough these non-legislative bodies are given the power to make laws, these laws are regulated by the legislature to ensure that they do not lead to abuse of power and that they abide by the legislative standards in the country. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1046,
+    "question": "The main argument against the 1999 Constitution is that ",
+    "option": {
+      "a": " it was imposed by the military",
+      "b": " it was imposed by the military",
+      "c": " It is expensive to operate",
+      "d": " It did not create additional states"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The main argument against the 1999 constitution is that it is costly to run. The constitution operates a Presidential System of government with comprehensive duplication of political function at the federal, state and local levels. The separation of the Legislative and the Executive arm as well as the duplication of political functions make this system expensive to operate. ",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -5216,6 +5424,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1269,
+    "question": "An interest group that admits members and conducts its affairs according to stated rules is described as",
+    "option": {
+      "a": "organizational",
+      "b": "associational",
+      "c": "non-associational",
+      "d": "institutional"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An interest group that admits members and conducts its affairs according to stated rules is described as associational",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1271,
     "question": "A major influence on the formation of public opinion is",
     "option": {
@@ -5260,6 +5484,22 @@
     "image": "",
     "answer": "d",
     "solution": "During the Second Republic, the ruling National Party of Nigeria (NPN) entered into an alliance with the Nigerian People's Party (NPP), popularly known as the NPN-NPP Accord. This alliance was aimed at consolidating power in the National Assembly, although the coalition was often fraught with conflicts.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1289,
+    "question": "The body responsible for running the personal affairs of senior local government staff in Nigeria is the",
+    "option": {
+      "a": "Local Government Service Commission",
+      "b": "Local Government Council",
+      "c": "State Civil Service Commission",
+      "d": "Senior Staff Committee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The body responsible for running the personal affairs of senior local government staff in Nigeria is the Local Government Service Commission",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -5660,6 +5900,22 @@
     "image": "",
     "answer": "a",
     "solution": "The option A-4 voting system was introduced into the political process in Nigeria during the Third Republic.\n\nIt was introduced by the then Chairman of the National Electoral Commission (N.E.C), Professor Humphrey Nwosu.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1383,
+    "question": "In orientation, early nationalism in Nigeria was essentially",
+    "option": {
+      "a": "revolutionary",
+      "b": "reformist",
+      "c": "reactionary",
+      "d": "radical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In the context of early nationalism in Nigeria, the orientation was generally reformist. Early nationalism in Nigeria was often a response to the socio-political and economic conditions imposed by colonial rule. The nationalist movements sought to address grievances and push for reforms in response to the challenges posed by colonialism rather than aiming for a revolutionary or radical overhaul.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -6076,6 +6332,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Lyttleton Constitution was enacted in 1954 and it established the federal system of government and paved the way for independence.\n\nThis constitution is considered the start of federalism, as it provided for a division of power between the central government and the regions, unlike the Richards constitution that created provinces/regions, with no autonomy being given to the regions.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1464,
+    "question": "Decree 34 of 1966 was unacceptable to many Nigerians because it was",
+    "option": {
+      "a": "seen as an instrument of impoverishment",
+      "b": "perceived to abolish the federal system",
+      "c": "promulgated without consultation with the people",
+      "d": "considered as alien"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Ironsi promulgated Decree Number 34 of 1966, which abrogated the federal system of government and substituted a unitary system; he argued that the military could only govern in this way.",
     "examtype": "utme",
     "examyear": "2015"
   },

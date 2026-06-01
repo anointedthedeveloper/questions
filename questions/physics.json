@@ -13984,6 +13984,22 @@
     "examyear": "2011"
   },
   {
+    "id": 977,
+    "question": "The eclipse of the sun occurs when the",
+    "option": {
+      "a": " moon is between the sun and the earth",
+      "b": "earth is between the sun and the moon",
+      "c": "moon is not completely hidden in the earth's shadow",
+      "d": " moon's umbra falls on some part of the earth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Eclipse of the sun occurs when the moon which is opaque objects between the sun and the earth",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 978,
     "question": "Which of the following is a property of steel?",
     "option": {
@@ -14508,6 +14524,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nRatio of linear expansivities, α₁ / α₂ = 2 / 3\nRatio of original lengths, L₁ / L₂ = 3 / 4\nTemperature change Δθ is the same for both.\n\nSolution:\n\nStep 1: Formula for increase in length\nΔL = α L Δθ\n\nStep 2: Ratio of increases\nΔL₁ / ΔL₂ = (α₁ L₁ Δθ) / (α₂ L₂ Δθ) = (α₁ / α₂) × (L₁ / L₂)\n\nStep 3: Substitute the given ratios\nΔL₁ / ΔL₂ = (2 / 3) × (3 / 4) = 6 / 12 = 1 / 2",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1016,
+    "question": "Calculate the temperature change when 500 J of heat is supplied to 100 g of water.\n[specific heat capacity of water = 4200 J kg⁻¹ K⁻¹]",
+    "option": {
+      "a": "12.1 °C",
+      "b": "2.1 °C",
+      "c": "1.2 °C",
+      "d": "0.1 °C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nHeat supplied, Q = 500 J\nMass of water, m = 100 g = 0.1 kg\nSpecific heat capacity of water, c = 4200 J kg⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Heat formula\nThe heat required to change the temperature of a substance is given by:\nQ = m × c × Δθ\nwhere Δθ is the temperature change.\n\nStep 2: Rearrange for Δθ\nΔθ = Q / (m × c)\n\nStep 3: Substitute values\nΔθ = 500 J / (0.1 kg × 4200 J kg⁻¹ K⁻¹)\nΔθ = 500 / (420)\n\nStep 4: Calculate\nΔθ = 1.1905 °C ≈ 1.2 °C",
     "examtype": "utme",
     "examyear": "2012"
   },

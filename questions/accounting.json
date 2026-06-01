@@ -1216,6 +1216,22 @@
     "examyear": "2012"
   },
   {
+    "id": 296,
+    "question": "Which of the following is found in a Memorandum of \tAssociation?",
+    "option": {
+      "a": "Names of directors",
+      "b": "Appointment of directors",
+      "c": "Object of the business",
+      "d": "Payment of dividend"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 303,
     "question": "Which of the following describes a trial balance?",
     "option": {
@@ -2624,6 +2640,22 @@
     "examyear": "2018"
   },
   {
+    "id": 698,
+    "question": "During the period, Department P opened with stock of ₦2 000, made purchases of ₦2 500 and recorded sales of ₦6 000. Its closing stock was ₦1 500. Department P also received goods costing ₦300 transferred in from Department Q and incurred operating expenses of ₦200. What was Department P’s net profit for the period?",
+    "option": {
+      "a": " ₦2,500",
+      "b": "₦2,800",
+      "c": "₦3,000",
+      "d": "₦5,200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Net profit for Department P = Sales ₦6 000 – Cost of Goods Sold [(₂₀₀₀ + ₦2 500 + ₦300 – ₦1 500) = ₦3 300] – Expenses ₦200 = ₦2 500.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 700,
     "question": "A partnership’s internal regulation are set out by________",
     "option": {
@@ -2876,6 +2908,22 @@
     "image": "",
     "answer": "b",
     "solution": "To find the profit, the unrealized profit in the goods sent to branch needs to be determined.\nGiven information:\n\nGoods sent to branch at invoiced price = ₦30,870\nInvoiced price = Cost + 50% markup\nCash sales = ₦13,020\nBad debt = ₦129\n\nFinding the cost price of goods sent to branch:\nIf invoiced price = Cost + 50% of cost = 1.5 × Cost\nThen: Cost = ₦30,870 ÷ 1.5 = ₦20,580\nUnrealized profit in goods sent to branch:\nProfit = Invoiced price - Cost price\nProfit = ₦30,870 - ₦20,580 = ₦10,290\nThe profit from the markup on goods sent to branch is ₦10,290.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 743,
+    "question": "A company has two departments with the following information: opening stock for Department A is ₦100 and Department B is ₦800; purchases for Department A is ₦1,500 and Department B is ₦2,000; wages of workers is ₦50 and salaries is ₦100; sales for Department A is ₦3,000 and Department B is ₦5,000. Expenses are to be shared in the ratio of sales. What is the cost of goods for Department B?",
+    "option": {
+      "a": "₦2 893.75",
+      "b": "₦3,400",
+      "c": "₦2,800",
+      "d": "₦4,120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Opening Stock + Purchases + Department B’s share of expenses\n= ₦800 + ₦2 000 + [₦150 × (₦5 000 ÷ ₦8 000)]\n= ₦800 + ₦2 000 + (₦150 × 0.625)\n= ₦800 + ₦2 000 + ₦93.75\n= ₦2 893.75",
     "examtype": "utme",
     "examyear": "2019"
   },

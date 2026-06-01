@@ -128,6 +128,22 @@
     "examyear": "2010"
   },
   {
+    "id": 12,
+    "question": "The receipts and payments of a club is the same  as ",
+    "option": {
+      "a": "  Profit and   loss  account  ",
+      "b": "Trading Account ",
+      "c": "Cash book ",
+      "d": "control Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 13,
     "question": "In a balance sheet, bank overdraft is ",
     "option": {
@@ -416,6 +432,22 @@
     "examyear": "2011"
   },
   {
+    "id": 39,
+    "question": "Subscription   received   in   respect of a future period is",
+    "option": {
+      "a": "Subscription deposit",
+      "b": "Subscription in advance",
+      "c": "Accrued subscription",
+      "d": "Subscription in arrears"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 40,
     "question": "The petty cash book kept on imprest system should have",
     "option": {
@@ -459,6 +491,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 44,
+    "question": "A company provided the following information about its balance sheet: Cash N100 Accounts receivable N500 Stockholders' equity 14700 Account payable N200 Bank loans Nl000 Based on the information provided, how much are Remington's liabilities?",
+    "option": {
+      "a": "N200   ",
+      "b": "N900   ",
+      "c": "N 1,200   ",
+      "d": "N 1,700"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -1392,6 +1440,22 @@
     "examyear": "2013"
   },
   {
+    "id": 117,
+    "question": "The cost of raw materials consumed is",
+    "option": {
+      "a": "GHc 58,000.",
+      "b": "GHc 52,500.",
+      "c": "GHc 52,000.",
+      "d": "GHc 50,000."
+    },
+    "section": "Use the following information to answer question:  Stock of raw materials 1/1/09  [ 5,000 ], Stock of raw materials 31/12/09   [ 5,500], Purchase of raw materials [ 50,000], Carriage inwards [3,000], Direct labour [ 12,000], Factory overhead [17,500]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 118,
     "question": "The prime cost is",
     "option": {
@@ -1483,6 +1547,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 124,
+    "question": "Which of the following is not part of prime costof production?",
+    "option": {
+      "a": "Depreciation of factory equipment",
+      "b": "Direct expenses",
+      "c": "Direct wages",
+      "d": "Carriage on raw materials"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
@@ -1888,6 +1968,22 @@
     "examyear": "2016"
   },
   {
+    "id": 157,
+    "question": "Clifford pays rent of  N200 per month for premises. He paid N 2,800 within the year, Compute the prepayment.",
+    "option": {
+      "a": "N300",
+      "b": "N400",
+      "c": "N660",
+      "d": "N200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 160,
     "question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled N800,000. A provision of 2% was made for discount and 5% provision for bad and doubtful debts.  Find the amount for sundry debtors after provision.",
     "option": {
@@ -1979,6 +2075,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 166,
+    "question": "Which of the following expenses relate to the profit and loss account of a manufacturing firm?",
+    "option": {
+      "a": "Administrative overhead.",
+      "b": "Direct labour",
+      "c": "Direct materials.",
+      "d": "Work-in-progress."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -2912,6 +3024,22 @@
     "examyear": "2006"
   },
   {
+    "id": 239,
+    "question": "Prime cost is",
+    "option": {
+      "a": "D120,500",
+      "b": "D117,700",
+      "c": "D114,900",
+      "d": "D114,300."
+    },
+    "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 240,
     "question": "Cost of goods manufactured is",
     "option": {
@@ -3339,6 +3467,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 272,
+    "question": "The name given to a budget in public service accounting is",
+    "option": {
+      "a": "vote.",
+      "b": "subvention.",
+      "c": "general order.",
+      "d": "estimate."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -4320,6 +4464,22 @@
     "examyear": "2014"
   },
   {
+    "id": 348,
+    "question": "An example of a credit entry in a profit and loss account is",
+    "option": {
+      "a": "carriage inwards",
+      "b": "carriage outwards",
+      "c": "discounts allowed",
+      "d": "discounts received"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 349,
     "question": "Which of the following subsidiary books involves cash movement?",
     "option": {
@@ -4631,6 +4791,22 @@
       "b": "accrual",
       "c": "entity",
       "d": "materiality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 372,
+    "question": "Which of the following items is not contained in the Receipts and Payments Account?",
+    "option": {
+      "a": "Subscription paid in advance",
+      "b": "tock paid for in advance",
+      "c": "Outstanding wages and salaries",
+      "d": "Donations"
     },
     "section": "",
     "image": "",
@@ -5632,6 +5808,22 @@
     "examyear": "2007"
   },
   {
+    "id": 450,
+    "question": "The amount of subscriptions accrued is reported in the balance sheet under",
+    "option": {
+      "a": "fixed asset",
+      "b": "long-term liability",
+      "c": "current asset",
+      "d": "current liability."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 451,
     "question": "The lighting charge to be apportioned to Zema is",
     "option": {
@@ -5936,6 +6128,22 @@
     "examyear": "2007"
   },
   {
+    "id": 474,
+    "question": "The total of the trial balance is",
+    "option": {
+      "a": "N 6 600",
+      "b": "N 6 650",
+      "c": "N 5 600",
+      "d": "N 5 900"
+    },
+    "section": "Given: Returns inwards [N1, 500]; Cash [N1, 550]; Discount received [N2, 850]; Capital [N3, 800 ]; Debtors [N900];\tSundry expenses [  ?  ]; \tThe value of sundry expenses is 150% of returns inwards plus 50% of debtors.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 476,
     "question": "Which of the following branches of accounting was first developed?",
     "option": {
@@ -5947,6 +6155,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 477,
+    "question": "The accounting convention which states that the performance of a business should be determined by matching all expenses against all revenues is",
+    "option": {
+      "a": "accruals",
+      "b": "materiality",
+      "c": "objectivity",
+      "d": "periodicity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -6123,6 +6347,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 494,
+    "question": "Apart from the common control accounts, a control account can also be opened for",
+    "option": {
+      "a": "sales account",
+      "b": "purchases account",
+      "c": "cash account",
+      "d": "wages account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -6816,6 +7056,22 @@
     "examyear": "2015"
   },
   {
+    "id": 552,
+    "question": "Use the information below to answer this question.\n\nDangote acquired Dantata’s business for ₦350,000. The total asset work were ₦820,000 and liabilities amounted to ₦ 640,000\n\nThe double entry to record the goodwill in the books is debt",
+    "option": {
+      "a": "purchase of business account and credit cash account",
+      "b": "goodwill account and credit purchase of business account",
+      "c": "cash account and credit goodwill account",
+      "d": "goodwill account and credit cash account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "when there is excess of purchase consideration over net assets, the accounting entries is to debit goodwill account as the receiving account and credit purchase of business account as the giving account.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 553,
     "question": "The income and expenditure account of a club is the same as",
     "option": {
@@ -7184,6 +7440,22 @@
     "examyear": "2016"
   },
   {
+    "id": 582,
+    "question": "Badge Plc issued 450,000 ordeinary shares of 50,000 each at ₦1.50 per share\nApplication and allotment 45,000\n1st call 50,000\n2nd call 55,000\n\nDetermine the amount received on final call.",
+    "option": {
+      "a": "₦225,000",
+      "b": "₦236,250",
+      "c": "₦247,500",
+      "d": " ₦202,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The shares were paid up in three instalments totaling ₦1.50 each (₦0.45 on application & allotment, ₦0.50 on 1st call, ₦0.55 on 2nd/final call).\nThus for the final call you simply multiply the number of shares (450 000) by the final call amount per share (₦0.55), giving ₦247 500.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 584,
     "question": "The income and expenditure account differs from receipts and payments account because it",
     "option": {
@@ -7356,6 +7628,22 @@
     "image": "",
     "answer": "b",
     "solution": "Annual rent expense at ₦200/month = 12 × ₦200 = ₦2,400\n\nRent paid during the year = ₦2,800\n\nPrepayment (unexpired rent) = ₦2,800 – ₦2,400 = ₦400",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 597,
+    "question": "Purchases can be ascertained through the preparation of a",
+    "option": {
+      "a": "stock account",
+      "b": "sales account",
+      "c": "total debtors control account",
+      "d": "total creditors control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The creditors control account summarizes all credit purchases (along with opening balance, payments, returns, etc.). By balancing this account, you can back into the total purchases for the period.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -9392,6 +9680,22 @@
     "examyear": "2019"
   },
   {
+    "id": 748,
+    "question": "The importance of bank statement is all except",
+    "option": {
+      "a": " verifies the accuracy of balances of cash book and cheque book",
+      "b": "helps to detect and rectify any error",
+      "c": " helps to debit an account",
+      "d": " helps to update the cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Bank statement is prepared by the bank to an account border showing the transactions between the customer and the bank within a period of time. It is usually issued monthly or at agreed intervals to the customers.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 749,
     "question": "Accounting standards are issued at the International level by the",
     "option": {
@@ -9888,6 +10192,22 @@
     "examyear": "2020"
   },
   {
+    "id": 788,
+    "question": "Fiyinfoluwa Motors bought three Toyota Hilux vans on cash at the cost of ₦6,000,000 on debiting the vehicle account, the corresponding credit for the purchase will appear in the",
+    "option": {
+      "a": "sales day book",
+      "b": "cash book",
+      "c": " sales subsidiary book",
+      "d": "purchase day book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Since the vans were purchased for cash, the corresponding credit entry is made in the cash book (which records all cash payments), not in any of the sales or purchase day books (which are used for credit transactions).",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 790,
     "question": "Given the following information from the Appropriation Account showing distributions to partners TAYO and TOPE: Interest on capital amounts to ₦750 for TAYO and ₦550 for TOPE; Salaries are ₦800 for TAYO and ₦600 for TOPE; Share of profit is ₦3,300 for TAYO and ₦3,300 for TOPE. You are required to determine the net profits of the partnership.",
     "option": {
@@ -9900,6 +10220,22 @@
     "image": "",
     "answer": "b",
     "solution": "The net profit of the partnership is the total of all appropriations:\n\nInterest on capital: ₦750 + ₦550 = ₦1,300\n\nSalaries: ₦800 + ₦600 = ₦1,400\n\nPartners’ profit share: ₦3,300 + ₦3,300 = ₦6,600\n\nSo\n\nNet Profit=1,300+1,400+6,600= \n₦9,300",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 791,
+    "question": "The major distinguishing element between the final accounts of a partnership and a sole trader is the",
+    "option": {
+      "a": "drawings account",
+      "b": "appropriation account",
+      "c": "capital account",
+      "d": "creditors account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a sole trader’s final accounts, after the Trading and Profit & Loss Account, the net profit is simply transferred to the proprietor’s capital account. A partnership, however, requires an additional Appropriation Account to show how the net profit is distributed among partners (interest on capital, salaries, profit shares, etc.). This “profit distribution” step is unique to partnerships.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -10028,6 +10364,22 @@
     "image": "",
     "answer": "a",
     "solution": "In a trial balance, both income and liabilities appear on the credit side. This follows the fundamental accounting principle:\n\nIncome/Revenue accounts have credit balances because they increase owner's equity\nLiability accounts have credit balances because they represent amounts owed by the business",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 803,
+    "question": "Which of the following accounting conventions suggests that accountants should use a method of valuation that understates rather than overstates results?",
+    "option": {
+      "a": "monetary",
+      "b": "cost",
+      "c": "conservatism",
+      "d": "historical"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The conservatism convention (also known as prudence) suggests that accountants should use methods of valuation that understate rather than overstate results",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -11132,6 +11484,22 @@
     "image": "",
     "answer": "d",
     "solution": "The cash discount is allowed for prompt payment of an account or for payment within a specified period of time. It is divided into discount allowed and discount received.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 887,
+    "question": "The authority warrant issued prior to the approval of the appropriate bill at the begining of the year",
+    "option": {
+      "a": "contigencies",
+      "b": "reserved expenditure warrant",
+      "c": " annual general warrant",
+      "d": "provisional general warrant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Provisional general warrant is used to release fund for the payment of emolument and other services before the budget is approved. It will be in operation for four months.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -12624,6 +12992,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1001,
+    "question": "Cash received from the subscribed shares is recorded by debting?",
+    "option": {
+      "a": "application, allotment and crediting cash",
+      "b": "allotment and crediting cash",
+      "c": "cash and crediting subscribed shares",
+      "d": "cash, crediting application and allotment account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When cash is received from subscribed shares, the journal entry is:\nDebit: Cash Account (cash is coming into the company)\nCredit: Application and Allotment Account (to record the liability to issue shares)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1002,
     "question": "Ordinary shareholders received dividend before?",
     "option": {
@@ -12636,6 +13020,22 @@
     "image": "",
     "answer": "d",
     "solution": "In the order of dividend payment priority:\n\nPreference shareholders (highest priority)\nOrdinary shareholders\nDeferred shareholders (lowest priority)\n\nOrdinary shareholders receive dividends before deferred shareholders because deferred shares are specifically designed to receive dividends only after ordinary shareholders have been paid.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1004,
+    "question": "The salary of the chief Justice of the Federation is paid from the?",
+    "option": {
+      "a": " consolidated revenue fund",
+      "b": "development fund",
+      "c": " contigency fund",
+      "d": "special fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Consolidated Revenue Fund is the main government account that receives all government revenues and from which all government expenditures are made, including:\n\nSalaries of constitutional office holders (like the Chief Justice)\nRecurrent expenditures\nStatutory allocations\nGeneral government operations\n\nThe Chief Justice of the Federation, being a constitutional office holder, receives salary from this primary government fund.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -14062,6 +14462,22 @@
     "solution": "Explanation: the budget (estimates of government spending) is presented to the legislature in the form of an Appropriation Bill, the legal instrument that authorizes the withdrawal and use of public funds.",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1115,
+    "question": "Which of the following is used to update the cash book in bank reconciliation?",
+    "option": {
+      "a": "Interest received and unpresented cheques",
+      "b": "Commission and debit note",
+      "c": "Unpresented cheques and direct credit",
+      "d": "Interest received and direct credit"
+    },
+    "section": "",
+    "image": "`",
+    "answer": "d",
+    "solution": "Reason: those are items shown on the bank statement but not yet recorded in the cash book, so you update the cash book with them. Unpresented cheques are recorded in the cash book already and are used to reconcile to the bank statement (not to update the cash book).",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 1117,
@@ -16672,6 +17088,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1316,
+    "question": "The basic role of accounting is to?",
+    "option": {
+      "a": "detect fraud",
+      "b": "attest to finacial statements",
+      "c": "measure performance",
+      "d": "protect sharehlders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The fundamental purpose of accounting is to measure and communicate an entity’s financial performance and position.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1317,
     "question": "The need for changes in accounting theory in Nigeria was influenced by the?",
     "option": {
@@ -16844,6 +17276,22 @@
     "image": "",
     "answer": "c",
     "solution": "COGS = Opening Stock + Purchases + Carriage Inwards − Closing Stock\nRearrange to find Closing Stock:\n\nClosing Stock = Opening Stock + Purchases + Carriage Inwards − COGS\nSubstitute the numbers:\n\nClosing Stock = 98,800 + 706,000 +17,500 − 740,700 = 81,600",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1329,
+    "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\t\t\t\t  ₦\nCapital: Opening balance \t307,000\nClosing balance \t\t342,000\nNet profit for the period \t121,600\nOpening stock \t\t\t98,800\nPurchases \t\t\t706,000\nCarriage inwards \t\t17,500\nCost of goods sold \t\t740,700\nTotal selling, general and\nAdministrative expenses  \t526,000\nDiscount received \t\t9,650\n\n\nCalculate the gross profit for the period?",
+    "option": {
+      "a": " ₦ 535,650",
+      "b": "₦628,300",
+      "c": "₦637,950",
+      "d": "₦647,600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Formula:\nGross Profit = Net Profit + SG&A Expenses – Discount Received\n\nNumbers:\n\nNet Profit = ₦121,600\n\nSG&A Expenses = ₦526,000\n\nDiscount Received = ₦9,650\n\nCalculation:\nGross Profit = 121,600 + 526,000 – 9,650\nGross Profit = 647,600 – 9,650\nGross Profit = ₦637,950",
     "examtype": "utme",
     "examyear": "1999"
   },

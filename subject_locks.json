@@ -1,24 +1,20 @@
 {
   "locks": {
-    "economics": {
-      "machine": "A-Server",
-<<<<<<< Updated upstream
-      "time": 1780269813.1338873
-=======
-      "time": 1780268377.0360248
+    "mathematics": {
+      "machine": "PCTOP",
+      "time": 1780288678.824503
     },
     "english": {
-      "machine": "A-Server",
-      "time": 1780267828.1569698
+      "machine": "PCTOP",
+      "time": 1780288678.8560545
     },
     "chemistry": {
-      "machine": "A-Server",
-      "time": 1780268377.3158045
+      "machine": "PCTOP",
+      "time": 1780288678.9043026
     },
     "physics": {
-      "machine": "A-Server",
-      "time": 1780268377.7297947
->>>>>>> Stashed changes
+      "machine": "PCTOP",
+      "time": 1780288678.9102712
     }
   }
 }

@@ -4180,6 +4180,25 @@
     "category": "others"
   },
   {
+    "id": 299,
+    "question": "The striking workers have vowed not to return to work until the decision is <i>reversed.</i> ",
+    "option": {
+      "a": "rescinded         ",
+      "b": "dismissed",
+      "c": "implemented    ",
+      "d": "reverted. "
+    },
+    "section": "choose the option nearest in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 300,
     "question": "The police are not happy with the growing number of <i>depraved</i> people around the politician.",
     "option": {
@@ -4761,6 +4780,25 @@
     "section": "choose the option that best completes the gap(s).",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 348,
+    "question": "When they examined his body, they found that he ...",
+    "option": {
+      "a": " had been dead  ",
+      "b": " had been dying  ",
+      "c": "died  ",
+      "d": "was dead"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007",
@@ -16165,6 +16203,25 @@
     "examtype": "utme",
     "examyear": "2020",
     "questionNub": 27,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1341,
+    "question": "The soldier _________ his gun on the wall after the armed robber______",
+    "option": {
+      "a": "hang/has been hung",
+      "b": "hung/had been hanged",
+      "c": "hanged/has been hanged",
+      "d": "hung/ has been hunged"
+    },
+    "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+    "image": "",
+    "answer": "b",
+    "solution": "Option B is the correct answer.\n\nIn the arrangement of tenses, 'when the main clause is in past or past perfect tense, the subordinate clause must be in the past or past perfect tense'.\n\n'had' is used to express a past perfect tense as opposed to 'has' which is used to express a present perfect tense",
+    "examtype": "utme",
+    "examyear": "2020",
+    "questionNub": 28,
     "hasPassage": 0,
     "category": "others"
   },

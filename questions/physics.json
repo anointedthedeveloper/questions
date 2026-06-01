@@ -816,6 +816,22 @@
     "examyear": "2012"
   },
   {
+    "id": 130,
+    "question": "If the volume of a gas is recorded as 76cm³ at a temperature of 27°C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P?",
+    "option": {
+      "a": " 36.2cm³",
+      "b": "25.7cm³",
+      "c": "72.8cm³",
+      "d": "24.3cm³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nInitial volume (V₁) = 76 cm³\nInitial temperature (T₁) = 27°C = 27 + 273 = 300 K\nInitial pressure (P₁) = 800 mmHg\nFinal conditions: S.T.P (Standard Temperature and Pressure)\n\nFinal temperature (T₂) = 0°C = 273 K\nFinal pressure (P₂) = 760 mmHg\n\n\nFinal volume (V₂) = ?\n\nUsing Combined Gas Law:\n(P₁V₁)/T₁ = (P₂V₂)/T₂\nRearranging to find V₂:\nV₂ = (P₁V₁T₂)/(T₁P₂)\nSubstituting values:\nV₂ = (800 × 76 × 273)/(300 × 760)\nV₂ = (16,588,800)/(228,000)\nV₂ = 72.76 cm³\nV₂ ≈ 72.8 cm³\nAnswer: C. 72.8 cm³",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 133,
     "question": "What is the inductance (L) of an inductor whose reactance is 1Ω at 50/ π hertz (H)?",
     "option": {
@@ -2464,6 +2480,22 @@
     "examyear": "2021"
   },
   {
+    "id": 460,
+    "question": "Which of these is a derived unit?",
+    "option": {
+      "a": "Kilogram",
+      "b": "Metre",
+      "c": "Newton",
+      "d": "Second"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Newton is a derived unit because it is defined in terms of base units: 1 Newton = 1 kg·m/s² (combining kilogram, metre, and second).",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 462,
     "question": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is?",
     "option": {
@@ -2940,6 +2972,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nIncident angle in water, θ₁ = 40°\nRefractive index of water, n₁ = 1.33\nRefractive index of glass, n₂ = 1.5\nAngle of refraction in glass, θ₂ = ?\n\nSolution:\nStep 1: Apply Snell's Law\nWhen light travels from one medium to another:\nn₁ sin θ₁ = n₂ sin θ₂\nStep 2: Substitute the known values\n1.33 × sin 40° = 1.5 × sin θ₂\n1.33 × 0.6428 = 1.5 × sin θ₂\n0.8549 = 1.5 × sin θ₂\nStep 3: Solve for sin θ₂\nsin θ₂ = 0.8549/1.5\nsin θ₂ = 0.5699\nStep 4: Calculate angle of refraction\nθ₂ = sin⁻¹(0.5699)\nθ₂ = 34.75°",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 542,
+    "question": "A charge of 4.6×10⁻⁵C is placed in an electric field of intensity 3.2×10⁴ Vm⁻¹. What is the force acting on the electron?",
+    "option": {
+      "a": " 1.5 N",
+      "b": "3.7 N",
+      "c": "4.2 N",
+      "d": " 2.5 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nCharge, q = 4.6×10⁻⁵ C\nElectric field intensity, E = 3.2×10⁴ V/m\nForce, F = ?\n\nSolution:\nStep 1: Apply electric force formula\nThe force on a charge in an electric field:\nF = qE\nStep 2: Substitute the known values\nF = 4.6×10⁻⁵ × 3.2×10⁴\nStep 3: Calculate the force\nF = (4.6 × 3.2) × (10⁻⁵ × 10⁴)\nF = 14.72 × 10⁻¹\nF = 1.472 N\nF ≈ 1.5 N",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3488,6 +3536,22 @@
     "examyear": "2004"
   },
   {
+    "id": 652,
+    "question": "A thin converging lens has a power of 4.0 diopters determined its focal length.",
+    "option": {
+      "a": "2.50m",
+      "b": "0.03m",
+      "c": "5.00m",
+      "d": "0.25m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPower of lens, P = 4.0 diopters (D)\nFocal length, f = ?\n\nSolution:\nFormula:\nThe power of a lens is related to its focal length by:\nP = 1/f\nWhere:\n\nP = power (in diopters, D)\nf = focal length (in meters)\n\nRearrange for focal length:\nf = 1/P\nSubstitute values:\nf = 1/4.0\nf = 0.25 m",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 656,
     "question": "An object is projected from a height of 80 m above the ground with a velocity of 40ms⁻¹ at an angle of 30° to the horizontal. The time of flight [g ≈ 10m/s²]",
     "option": {
@@ -3612,6 +3676,22 @@
     "image": "",
     "answer": "d",
     "solution": "Large temperature difference indicates low relative humidity.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 670,
+    "question": "The process whereby the molecules of different substances move randomly is called?",
+    "option": {
+      "a": "capillarity",
+      "b": "surface tension",
+      "c": "osmosis",
+      "d": "diffusion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Diffusion is the process by which molecules move from an area of higher concentration to an area of lower concentration. This movement occurs due to the random motion of particles, leading to an even distribution of substances over time.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -4672,6 +4752,22 @@
     "examyear": "2009"
   },
   {
+    "id": 890,
+    "question": "The pressure of two moles of an ideal gas at a temperature of 27 °C and volume 10⁻² m³ is?\n[R = 8.313 J mol⁻¹ K⁻¹]",
+    "option": {
+      "a": "4.99 × 10⁵ N m⁻²",
+      "b": "9.80 × 10³ N m⁻²",
+      "c": "4.98 × 10³ N m⁻²",
+      "d": "9.80 × 10⁵ N m⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nNumber of moles, n = 2 mol\nTemperature, T = 27 °C = 27 + 273 = 300 K\nVolume, V = 10⁻² m³\nGas constant, R = 8.313 J mol⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Ideal gas equation\nPV = nRT\n\nStep 2: Rearrange for pressure P\nP = nRT / V\n\nStep 3: Substitute values\nP = (2 × 8.313 × 300) / 10⁻²\n\nStep 4: Calculate numerator\n2 × 8.313 = 16.626\n16.626 × 300 = 4987.8\n\nStep 5: Divide by volume\n4987.8 / 10⁻² = 4987.8 × 100 = 498780 N m⁻²\n\nStep 6: Express in scientific notation\n498780 = 4.9878 × 10⁵ ≈ 4.99 × 10⁵ N m⁻²",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 893,
     "question": "If a light wave has a wavelength of 500nm in air, what is the frequency of the wave? [c = 3 × 10⁸ ms⁻¹]",
     "option": {
@@ -4720,6 +4816,22 @@
     "examyear": "2009"
   },
   {
+    "id": 900,
+    "question": "Two cars moving in the same direction have speeds of 100 kmh⁻¹ and 130 kmh⁻¹. What is the velocity of the faster car as measured by an observer in the slower car?",
+    "option": {
+      "a": "30 kmh⁻¹",
+      "b": "130 kmh⁻¹",
+      "c": "200 kmh⁻¹",
+      "d": "230 kmh⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nSpeed of slower car (v₁) = 100 km/h\nSpeed of faster car (v₂) = 130 km/h\nBoth moving in the same direction\nRelative velocity = ?\n\nUnderstanding relative velocity:\nThe velocity of one object as measured by an observer in another moving object is called relative velocity.\nFormula for relative velocity (same direction):\nv_relative = v₂ - v₁\nSubstituting values:\nv_relative = 130 - 100\nv_relative = 30 km/h",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 905,
     "question": "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire",
     "option": {
@@ -4732,6 +4844,22 @@
     "image": "",
     "answer": "a",
     "solution": "Energy stored in a stretched wire (strain energy)\n= average force x extension\n= (1)/2 Fe\n= (1)/2 x 300 N (30.5 - 30.0) x 10-2 m\n= (300)/2 x 0.5 x 10-2 = 0.75J",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 907,
+    "question": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and?",
+    "option": {
+      "a": " a density bottle",
+      "b": "an eureka can",
+      "c": " a pipette",
+      "d": "a burette"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Since relative density = mass of substance\nmass of equal volume of water relative density bottle should be used to determine the mass of the substance, and mass of an equal volume of water by filling the bottle with the powder and water respectively and weighed with the beam balance.",
     "examtype": "utme",
     "examyear": "2010"
   },

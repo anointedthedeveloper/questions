@@ -240,6 +240,22 @@
     "examyear": "2007"
   },
   {
+    "id": 39,
+    "question": "The electromagnetic waves that are sensitive to temperature changes are",
+    "option": {
+      "a": "ultra-violet rays ",
+      "b": "Gamma rays ",
+      "c": "infrared-rays ",
+      "d": "X-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 45,
     "question": "To find the dept of the sea, a ship send out a second waves and an echo after one second. If the velocity of sound in water is 1500m/s, what is the depth of the sea ",
     "option": {
@@ -2012,6 +2028,22 @@
     "image": "",
     "answer": "c",
     "solution": "In kinetic molecular model, gases are energized and thus moves freely, fast as they occupy specific space",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 368,
+    "question": "A metal rod has a length of 100cm at 200°C. At what temperature will its length be 99.4cm, if the linear expansivity of the material of the rod is 2 × 10⁻⁵ °C⁻¹?",
+    "option": {
+      "a": "300°C",
+      "b": "200°C",
+      "c": "100°C",
+      "d": "-100°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nInitial length (L₁) = 100 cm at temperature T₁ = 200°C\nFinal length (L₂) = 99.4 cm at temperature T₂ = ?\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\n\nFormula for linear expansion:\nL₂ = L₁[1 + α(T₂ - T₁)]\nSubstituting values:\n99.4 = 100[1 + 2 × 10⁻⁵(T₂ - 200)]\nDividing by 100:\n0.994 = 1 + 2 × 10⁻⁵(T₂ - 200)\nRearranging:\n0.994 - 1 = 2 × 10⁻⁵(T₂ - 200)\n-0.006 = 2 × 10⁻⁵(T₂ - 200)\nSolving for (T₂ - 200):\n(T₂ - 200) = -0.006/(2 × 10⁻⁵)\n(T₂ - 200) = -0.006/0.00002\n(T₂ - 200) = -300\nTherefore:\nT₂ = -300 + 200\nT₂ = -100°C",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -4496,6 +4528,22 @@
     "examyear": "2008"
   },
   {
+    "id": 846,
+    "question": "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is",
+    "option": {
+      "a": "0.35mH",
+      "b": "3.50mH",
+      "c": "2.90mH",
+      "d": "35.0mH"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432660/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_47_pcogvt.png",
+    "answer": "d",
+    "solution": "Left = L1 + L2 + L3\n= 5mH + 10mH + 20mH = 35mH",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 847,
     "question": "If electrons are accelerated from rest through a potential difference of 10kV, what is the wavelength of the associated electron? [m = 9.1 × 10⁻³¹ kg, e = 1.6 × 10⁻¹⁹ C, h = 6.6 × 10⁻³⁴ Js]",
     "option": {
@@ -5692,6 +5740,22 @@
     "image": "",
     "answer": "c",
     "solution": "When a charge moves in the direction of electric force, it loses potential energy and gains kinetic energy.",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1076,
+    "question": "Induced emfs are best explained using",
+    "option": {
+      "a": "Ohm's law",
+      "b": " Faraday's law",
+      "c": "Colomb's law",
+      "d": " Lenz's law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Induced emfs are best explained using Faraday's law.",
     "examtype": "utme",
     "examyear": "2013"
   },

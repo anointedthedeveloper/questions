@@ -2080,6 +2080,22 @@
     "examyear": "2007"
   },
   {
+    "id": 447,
+    "question": "Evaluate ((05652)<sup>2</sup> - (04375)<sup>2</sup>)/0.04 correct to three significant figures",
+    "option": {
+      "a": " 3.11",
+      "b": "3.13",
+      "c": " 0.313",
+      "d": "3.12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "((0.5652<sup>2</sup>-(0.4375)<sup>2</sup>)/0.04  ((0.5625+0.4375)(0.5625-0.4375))/0.04  (1.000×0.125)/0.04=3.125=3.13",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 449,
     "question": "Simplify 3/5÷(2/7×4/3÷4/9)",
     "option": {
@@ -2464,6 +2480,22 @@
     "examyear": "2008"
   },
   {
+    "id": 512,
+    "question": "Find the mean deviation of 2, 4, 5, and 9",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "5",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546297/ALOC-Questions/Mathematics/2008/MATH_2008_Q41_SOLUTION_hoqtce.jpg",
+    "answer": "b",
+    "solution": "X = 20/4\n= 5\nmean deviation = 8/4 = 2",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 513,
     "question": "In how many ways can the letters of the word ACCEPTANCE be arranged?",
     "option": {
@@ -2640,6 +2672,22 @@
     "examyear": "2009"
   },
   {
+    "id": 545,
+    "question": "In the figure above , TS//XY and XY = TY, ∠STZ = 34°, ∠TXY = 47°, find the angle marked n?",
+    "option": {
+      "a": "47°",
+      "b": " 52°",
+      "c": "56°",
+      "d": "99°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547111/ALOC-Questions/Mathematics/2009/MATH_2009_Q24_ilgdry.jpg",
+    "answer": "b",
+    "solution": "In Δ TYX\nXY = TY ∴y =47° base ∠s of ISCΔ\nBut y+x+34+47 = 180 interior\nopposite ∠s are supplementary\n47 + x + 34 + 47 = 180\nx + 128= 180\nx = 180- 128\nx = 52°",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 551,
     "question": "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is 2/3?",
     "option": {
@@ -2668,6 +2716,22 @@
     "image": "",
     "answer": "b",
     "solution": "S = t<sup>3</sup> - t<sup>2</sup> - t + 5\nds/dt = 3t<sup>2</sup> - 2t - 1\nAs ds = 0\n3t<sup>2</sup> - 2t - 1 = 0\n(3t+1)(t-1) = 0\n∴ t = 1 or -1/3\nAt min pt t = 1\nS = t<sup>3</sup> - t<sup>2</sup> - t + 5\n\nput t = 1\n= 1<sup>3</sup> - 1<sup>2</sup> - 1 + 5\n= 1 - 1 - 1 + 5\n\n= 4",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 558,
+    "question": "Evaluate ∫sec<sup>2</sup>θ dθ?",
+    "option": {
+      "a": "sec θ tan θ + k",
+      "b": " tan θ + k",
+      "c": "2sec θ + k",
+      "d": "sec θ + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "∫sec2θ dθ = ∫ 1/cos2 dθ\n∫(cos)-2 dθ,\nlet u = cos θ\n∴∫u-2 = 1/u + c\n∫cos θ = sin θ + c\n∫sec-2θ = 1/u sin θ + c\n= (sinθ / cosθ) + c\n= Tan θ + c",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -5708,6 +5772,22 @@
     "image": "",
     "answer": "a",
     "solution": "x/2 + 3/4 ≤ 5x/6 −7/12\n\n\n12(x/2) + 12(3/4) ≤ 12(5x/6) −12(7/12)\n\n\n6x + 9 ≤ 10x - 7\n\n6x - 10x ≤ - 7 - 9\n\n-4x ≤ -16\n\n-4x/-4 ≥ -16/-4\n\nx ≥ 4",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1204,
+    "question": "What is the common ratio of the G.P. (√10 + √5) + (√10 +2√5) +...?",
+    "option": {
+      "a": "√2",
+      "b": "√5",
+      "c": "3",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Common ratio r of the G.P is\n\nr = T<sub>n</sub> + 1/T<sub>n</sub> = T<sub>n</sub>/T<sub>n</sub>\n\n\nr = √10 +2√5/√10 + √5\n\n\nr = (√10 + 2√5)/(√10 + √5) × (√10 − √5)/(√10 − √5)\n\n\n=(√10)(√10)+(√10)(−√5) + (2√5)(√10) + (2√5)(−√5)/(√10)<sup>2</sup>−(√5)<sup>2</sup>\n\n\n10−√50 + 2√50 −10/10−5\n\n\n√50/5\n\n\n√25 x 2/5\n\n\n5√2/5\n\n\n√2",
     "examtype": "utme",
     "examyear": "2014"
   },

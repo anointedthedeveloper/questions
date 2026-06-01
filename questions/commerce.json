@@ -96,8 +96,29 @@
     "examyear": "2005"
   },
   {
+<<<<<<< Updated upstream
     "id": 80,
     "question": "The necessary documents used in foreign trade are ",
+=======
+    "id": 82,
+    "question": "A type of credit offered by both commercial and merchant banks in Nigeria is ",
+    "option": {
+      "a": "trade credit",
+      "b": "line of credit ",
+      "c": "discounting facility ",
+      "d": "overdraft."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 83,
+    "question": "A major function of a chamber of commerce is",
+>>>>>>> Stashed changes
     "option": {
       "a": "bill of lading, invoice and letter of inquiry",
       "b": "indent, bill of exchange, bill of lading and invoice",
@@ -173,7 +194,91 @@
     "answer": "answer",
     "solution": "solution",
     "examtype": "utme",
+<<<<<<< Updated upstream
     "examyear": "examye"
+=======
+    "examyear": "2005"
+  },
+  {
+    "id": 103,
+    "question": "The input, output and central processing units are the basic components of a computer's",
+    "option": {
+      "a": "memory ",
+      "b": " printer ",
+      "c": " hardware ",
+      "d": " software"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 104,
+    "question": "An employer insures against his employees' dishonesty by taking up  ",
+    "option": {
+      "a": "fidelity guarantee insurance   ",
+      "b": " accident insurance   ",
+      "c": "group life assurance  ",
+      "d": "endowment policy."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 106,
+    "question": "An important social reason for development tourism in Nigeria is the  ",
+    "option": {
+      "a": "promotion of culture interaction   ",
+      "b": " provision of job opportunities",
+      "c": "improvement of her balance of payments",
+      "d": "encouragement of international relations."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 107,
+    "question": "The mode of transportation that conveys a limited variety of products through fixed laid routes is",
+    "option": {
+      "a": "waterways  ",
+      "b": "Broad ",
+      "c": "rail  ",
+      "d": "pipeline."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 109,
+    "question": "The setting of objectives for an organization and determining how to accomplish them is ",
+    "option": {
+      "a": "social responsibility  ",
+      "b": "planning  ",
+      "c": "organizing",
+      "d": " decision-making."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+>>>>>>> Stashed changes
   },
   {
     "id": 111,
@@ -227,10 +332,64 @@
     "id": 118,
     "question": "Trading on the stock exchange in anticipation of  price change in the market value of shares is",
     "option": {
+<<<<<<< Updated upstream
+=======
+      "a": "Union Bank Plc   ",
+      "b": "First Bank Plc",
+      "c": "First City Monument Bank ",
+      "d": "Federal Mortgage Bank."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 118,
+    "question": "Trading on the stock exchange in anticipation of  price change in the market value of shares is",
+    "option": {
+>>>>>>> Stashed changes
       "a": "speculation  ",
       "b": "forecasting ",
       "c": "expectation",
       "d": "projection."
+<<<<<<< Updated upstream
+=======
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 119,
+    "question": "A financial institution which uses its capital strength to acquire controlling interests in other firms can be regarded as a",
+    "option": {
+      "a": "subsidiary company",
+      "b": "holding company ",
+      "c": "trust   ",
+      "d": "cartel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 121,
+    "question": "The conversion of raw materials into finished products creates ",
+    "option": {
+      "a": "form utility ",
+      "b": "marginal utility",
+      "c": "place utility ",
+      "d": "time utility."
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -275,10 +434,161 @@
     "id": 168,
     "question": "The creation of utilities to satisfy human wants is referred to as   ",
     "option": {
+<<<<<<< Updated upstream
       "a": "production  ",
       "b": "consumption",
       "c": "industrialization    ",
       "d": "occupation."
+=======
+      "a": "marketing principles ",
+      "b": "marketing mix",
+      "c": "marketing concepts",
+      "d": "marketing functions."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 160,
+    "question": "A major function of an entrepreneur is",
+    "option": {
+      "a": "decision-making ",
+      "b": "encouraging competition",
+      "c": "human-resource training",
+      "d": "motivating employees."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 161,
+    "question": "A Memorandum of Association is applicable to a",
+    "option": {
+      "a": " sole trader ",
+      "b": "joint-stock company",
+      "c": " partnership   ",
+      "d": " public corporation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 163,
+    "question": "A major advantage of a cooperative society is that it ",
+    "option": {
+      "a": "gives members the opportunity to unite",
+      "b": "draws members closer to government",
+      "c": "promotes awareness among members",
+      "d": "encourages thrift among members."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 164,
+    "question": "The making of doors from timber planks is a type of ",
+    "option": {
+      "a": "manufacturing ",
+      "b": "tertiary production",
+      "c": "secondary production   ",
+      "d": "primary production."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 165,
+    "question": "Law-making is an example of ",
+    "option": {
+      "a": "indirect service",
+      "b": "commercial occupation ",
+      "c": "direct service",
+      "d": "industrial occupation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 166,
+    "question": "A document which advertises the shares of a company is known as a  ",
+    "option": {
+      "a": "memorandum of satisfaction   ",
+      "b": "dividend warrant     ",
+      "c": "deed",
+      "d": "prospectus."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 167,
+    "question": "The scope of economic activities can be enlarged by    ",
+    "option": {
+      "a": "transportation and trading   ",
+      "b": "business and its promotion  ",
+      "c": "trading and aids to trade",
+      "d": "insurance and banking."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 169,
+    "question": "A major criticism of a cooperative society is",
+    "option": {
+      "a": "limited capital ",
+      "b": "granting excessive loans to members   ",
+      "c": "selling goods on credit to non- members    ",
+      "d": "management incompetence."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 170,
+    "question": "An economic activity which deals with natural resources is a form of  ",
+    "option": {
+      "a": "extraction",
+      "b": "refining   ",
+      "c": "construction ",
+      "d": "manufacturing."
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -298,7 +608,43 @@
     },
     "section": "",
     "image": "",
+<<<<<<< Updated upstream
     "answer": "d",
+=======
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 172,
+    "question": "An agreement by the insurer to compensate the insured for losses suffered is   ",
+    "option": {
+      "a": "policy",
+      "b": "surrender value   ",
+      "c": "caveat emptor ",
+      "d": "indemnity."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 174,
+    "question": "The   World   Tourism   Organization   has   its headquarters in ",
+    "option": {
+      "a": "New York    ",
+      "b": "Paris",
+      "c": "Madrid     ",
+      "d": "London."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -371,10 +717,129 @@
     "id": 241,
     "question": "The body charged with divesting government interests in public enterprises is ",
     "option": {
+<<<<<<< Updated upstream
       "a": "SON",
       "b": "NPC",
       "c": "BPE ",
       "d": "NDE"
+=======
+      "a": "climatic condition ",
+      "b": "social unrest ",
+      "c": "distance ",
+      "d": "noise "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 232,
+    "question": "The fear of many communities concerning tourism development is the ",
+    "option": {
+      "a": "influence of foreign culture ",
+      "b": "fear of disease transmission ",
+      "c": "fear of pollution ",
+      "d": "religious intolerance "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 233,
+    "question": "The development of tourism in Nigeria  will enhance ",
+    "option": {
+      "a": "agriculture ",
+      "b": "revenue generation ",
+      "c": "export ",
+      "d": "labour mobility "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 234,
+    "question": "A historical building is a feature of ",
+    "option": {
+      "a": "cultural tourism ",
+      "b": "industrial tourism ",
+      "c": "agricultural  tourism",
+      "d": "D. ecological   tourism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 235,
+    "question": "The sum of money paid by a policy-holder to an insurer is referred to as ",
+    "option": {
+      "a": "interest ",
+      "b": "premium ",
+      "c": "gross profit ",
+      "d": "sales revenue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 238,
+    "question": "An agreement between two parties which is enforceable by law is a ",
+    "option": {
+      "a": "promise ",
+      "b": "warranty ",
+      "c": "contract ",
+      "d": "condition "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 239,
+    "question": "The implied provisions in every sale of goods as contained in the ales of Goods Act of 1893 are conditions and ",
+    "option": {
+      "a": "consideration ",
+      "b": "sureties ",
+      "c": "warranties ",
+      "d": "guaranties "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 242,
+    "question": "The practice whereby government relinquishes its ownership interest in a public enterprises is ",
+    "option": {
+      "a": "commercialization ",
+      "b": "indigenization ",
+      "c": "privatization ",
+      "d": "nationalization "
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -432,6 +897,121 @@
     "examyear": "2009"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 256,
+    "question": "The most commonly used commercial documents are ",
+    "option": {
+      "a": "order notes, debit notes, invoices and quotations ",
+      "b": "letters of enquiry, consignment notes, receipts and invoices ",
+      "c": "credit notes, statement of accounts, dispatch order and bills ",
+      "d": "balance sheet, receipts, invoices and manifests."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 257,
+    "question": "The term free on board means that the price includes ",
+    "option": {
+      "a": "costs and insurance only ",
+      "b": "costs and freight only",
+      "c": "freight and insurance only",
+      "d": "costs, insurance and freight "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 259,
+    "question": "A cheque which a bank draws on its own funds is a",
+    "option": {
+      "a": "bankdraft ",
+      "b": "cashier’s cheque ",
+      "c": "bank cheque ",
+      "d": "crossed cheque"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 260,
+    "question": "Billboards and posters are forms of ",
+    "option": {
+      "a": "electronic media ",
+      "b": "print media",
+      "c": "outdoor media ",
+      "d": "window display media"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 262,
+    "question": "The central bank differs from commercial banks  because it ",
+    "option": {
+      "a": "renders service to customers",
+      "b": "carriers but foreign exchange transactions ",
+      "c": "issues currencies ",
+      "d": "discounts bills"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 263,
+    "question": "One of he facilities enjoyed by a current account holder is ",
+    "option": {
+      "a": "a dividend  ",
+      "b": "a bonus",
+      "c": "an overdraft ",
+      "d": "interest on deposits"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 264,
+    "question": "In which of the following will be number of words used determine the cost of the message sent?",
+    "option": {
+      "a": "telephone",
+      "b": "telegram ",
+      "c": "e-mail",
+      "d": "telex"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 266,
     "question": "The principle of insurance which entitles an insurance company to take any advantage due to the insured after full indemnity is ",
     "option": {
@@ -512,6 +1092,137 @@
     "examyear": "2009"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 280,
+    "question": "The characteristic which ensures that money is free from forgery is its ",
+    "option": {
+      "a": "legality ",
+      "b": "durability ",
+      "c": "recognition ",
+      "d": "credibility "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 283,
+    "question": "The function which ensures that set objectives are attained by an organization is ",
+    "option": {
+      "a": "planning ",
+      "b": "directing ",
+      "c": "staffing ",
+      "d": "controlling "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 284,
+    "question": "An organizational structure that is military in nature is the ",
+    "option": {
+      "a": "line structure ",
+      "b": "staff structure ",
+      "c": "line and staff structure ",
+      "d": "functional structure "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 285,
+    "question": "The efficiency of an organization is enhanced by ",
+    "option": {
+      "a": "government assistance ",
+      "b": "the host community ",
+      "c": "customer support ",
+      "d": "skilled manpower "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 286,
+    "question": "The concept which focuses on consumers in decision-making is ",
+    "option": {
+      "a": "selling concept ",
+      "b": "marketing concept ",
+      "c": "product concept ",
+      "d": "production concept "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 287,
+    "question": "Market skimming is an example of ",
+    "option": {
+      "a": "market penetration ",
+      "b": "Sales promotion ",
+      "c": "pricing policy",
+      "d": "advertising "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 288,
+    "question": "The most important attributes in a sale of goods contract are ",
+    "option": {
+      "a": "offer and consideration",
+      "b": "price and goods ",
+      "c": "offer and acceptance ",
+      "d": "demand and supply"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 291,
+    "question": "The primary memory component of a computer is the ",
+    "option": {
+      "a": "cache ",
+      "b": "console ",
+      "c": "assemblers",
+      "d": "compilers "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 292,
     "question": "A customer with XYZ Plc sent money through his account to his sister’s  account in another branch. This is an example of ",
     "option": {
@@ -560,6 +1271,169 @@
     "examyear": "2010"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 298,
+    "question": "Manufacturing and construction activities are class8ified under",
+    "option": {
+      "a": "Primary production",
+      "b": "Tertiary production",
+      "c": "secondary production",
+      "d": "direct production"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 300,
+    "question": "The factor of production that is subject to depreciation is",
+    "option": {
+      "a": "capital ",
+      "b": "land",
+      "c": "labour",
+      "d": "entrepreneur"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 302,
+    "question": "A worker who process rice is engaged in",
+    "option": {
+      "a": "constructive activity",
+      "b": "commercial activity",
+      "c": "extractive activity",
+      "d": "Manufacturing activity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 303,
+    "question": "After- sales service is a function usually rendered by",
+    "option": {
+      "a": "a retailer",
+      "b": "a wholesaler ",
+      "c": "an agent ",
+      "d": "an entrepreneur "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 305,
+    "question": "The activity which entails buying of goods in bulk and selling in small quantities to retailers is ",
+    "option": {
+      "a": "assembling ",
+      "b": "wholesaling ",
+      "c": "retailing ",
+      "d": "merchandising "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 307,
+    "question": "The document that gives an importer a freehand to obtain goods from any manufacturer is ",
+    "option": {
+      "a": "a consular invoice ",
+      "b": "a closed indent ",
+      "c": "an open indent ",
+      "d": "a freight note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 309,
+    "question": "The document issued to a port authority when goods are deposited is a ",
+    "option": {
+      "a": "dock landing account ",
+      "b": "bill of sight ",
+      "c": "bill of lading ",
+      "d": "dock warrant "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 310,
+    "question": "The details of the goods required by the purchaser is outlined in ",
+    "option": {
+      "a": "a consular invoice ",
+      "b": "an indent ",
+      "c": "an invoice ",
+      "d": "a certificate of origin "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 312,
+    "question": "A process of creating more market for a product is through ",
+    "option": {
+      "a": "consumerism ",
+      "b": "marketing ",
+      "c": "advertising ",
+      "d": "repositioning."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 313,
+    "question": "One of the merits of television as a medium of advertising is that it ",
+    "option": {
+      "a": "is prone to censorship ",
+      "b": "is relatively cheap ",
+      "c": "has more sensory stimulation ",
+      "d": "has more network coverage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 314,
     "question": "The best mode of ensuring that items posted get to the named addressed is through",
     "option": {
@@ -608,6 +1482,233 @@
     "examyear": "2010"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 328,
+    "question": "Which of the following is a matter of personal preference on the part of a superior officer?",
+    "option": {
+      "a": "Unity of command ",
+      "b": "span of control ",
+      "c": "delegation of authority ",
+      "d": "unity of direction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 329,
+    "question": "The conversion of raw materials into finished goods leads to the creation of ",
+    "option": {
+      "a": "form utility ",
+      "b": "product utility ",
+      "c": "possession utility ",
+      "d": "place utility "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 330,
+    "question": "The main concern of marketing concept is to ",
+    "option": {
+      "a": "reduce the number of retail outlets ",
+      "b": "identify consumer needs and satisfy them ",
+      "c": "increase sales to meet consumer needs ",
+      "d": "encourage division of labour."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 331,
+    "question": "The best pricing strategy for a company that produces warm clothing is ",
+    "option": {
+      "a": "target return pricing ",
+      "b": "bid pricing ",
+      "c": "variable pricing ",
+      "d": "product line pricing "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 332,
+    "question": "The deliberate and sustained efforts of an organization towards the creation of goodwill for its products and services is through ",
+    "option": {
+      "a": "Public relations ",
+      "b": "advertising ",
+      "c": "sales promotion ",
+      "d": "rebranding "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 333,
+    "question": "The label on a product such as ‘pampers’ is a type of ",
+    "option": {
+      "a": "trademark  ",
+      "b": "branding ",
+      "c": "packaging ",
+      "d": "patent right"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 334,
+    "question": "An opportunity to reject a binding contract at will by a third party is said to be a ",
+    "option": {
+      "a": "valid contract ",
+      "b": "quasi contract ",
+      "c": "voidable contract",
+      "d": "conditional  contract"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 335,
+    "question": "An agency contract must involve ",
+    "option": {
+      "a": "a principal and a consumer",
+      "b": "a principal  and a producer ",
+      "c": "a principal and a third party ",
+      "d": "a principal and a third party "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 336,
+    "question": "The difference between trademark and patent right is that the latter ",
+    "option": {
+      "a": "gives exclusive right to import a particular good ",
+      "b": "is conferred by the government ",
+      "c": "confers monopoly  on a product ",
+      "d": "confers exclusive right to publish literary works."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 338,
+    "question": "A printed copy of processed information from the computer is the ",
+    "option": {
+      "a": "soft copy ",
+      "b": "file copy ",
+      "c": "scanned copy ",
+      "d": "hard copy "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 339,
+    "question": "The central working system of a computer used for data processing is the ",
+    "option": {
+      "a": "memory unit ",
+      "b": "monitor ",
+      "c": "floppy disk drive ",
+      "d": "hard drive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 343,
+    "question": "One way by which a business can discharge its social responsibility to its community is to ",
+    "option": {
+      "a": "hold monthly meetings of its customers",
+      "b": "build houses for its executives ",
+      "c": "award scholarship to staff children ",
+      "d": "build public health centres."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 347,
+    "question": "Services rendered to the public is provided by ",
+    "option": {
+      "a": "Government ",
+      "b": "civil servants ",
+      "c": "professionals ",
+      "d": "domestic servants "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 349,
+    "question": "Which of the following is a limitation  of division of labour? ",
+    "option": {
+      "a": "decline in craftsmanship ",
+      "b": "monotony of work ",
+      "c": "reduction in output",
+      "d": "reduction in labour force"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 352,
     "question": "One of the functions of a retailer is the ",
     "option": {
@@ -736,6 +1837,313 @@
     "examyear": "2012"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 406,
+    "question": "A current account holder pays fees for services in form of ",
+    "option": {
+      "a": "bank charges ",
+      "b": "inertest rates",
+      "c": "commission on turnover",
+      "d": "minimum lending rate"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 407,
+    "question": "Printed messages sent by cable are recorded as ",
+    "option": {
+      "a": "telegram ",
+      "b": "SMS",
+      "c": "telex",
+      "d": "MMS"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 409,
+    "question": "The right of an insurance company to stand in place of an insured against a third party, who is liable for the occurrence of a loss, is the principle of ",
+    "option": {
+      "a": "proximate cause",
+      "b": "insurable interest ",
+      "c": "insurance priority ",
+      "d": "subrogation "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 410,
+    "question": "Assurance is different from insurance in that the former is based on ",
+    "option": {
+      "a": "probability ",
+      "b": "possibility ",
+      "c": "risk ",
+      "d": "uncertainty "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 411,
+    "question": "A person who undertakes a life insurance is said to be an ",
+    "option": {
+      "a": "Insurer ",
+      "b": "assurer ",
+      "c": "assured ",
+      "d": "insured "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 412,
+    "question": "Tourism serves the purpose of ",
+    "option": {
+      "a": "cross-cultural understanding and peaceful interaction ",
+      "b": "opening avenues for leaving the country",
+      "c": "economic development and naturalization ",
+      "d": "exploiting the country’s natural endowment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 413,
+    "question": "The type of letters that are delivered through the normal mail or by airmail express service is referred to as ",
+    "option": {
+      "a": "Inland letters ",
+      "b": "registered letters",
+      "c": "airmail letters",
+      "d": "express letters"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 414,
+    "question": "A business organization that exploits the capabilities of a member to remedy the weaknesses of another is a ",
+    "option": {
+      "a": "joint venture ",
+      "b": "partnership ",
+      "c": "nominal partnership ",
+      "d": "cooperative "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 415,
+    "question": "The most important business objective is to ",
+    "option": {
+      "a": "improve investments ",
+      "b": "provide quality  products",
+      "c": "target consumers for satisfaction ",
+      "d": "carve a niche for the business "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 416,
+    "question": "In case of liquidation of a public limited liability company, those that are first paid are ",
+    "option": {
+      "a": "ordinary shareholders ",
+      "b": "preference shareholders ",
+      "c": "cumulative preference shareholders ",
+      "d": "debenture holders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 417,
+    "question": "A feature common to public and private limited liability companies is that ",
+    "option": {
+      "a": "both can sue and  be sued ",
+      "b": "the minimum number of their shareholders is five",
+      "c": "the transfer of their shares  is not restricted ",
+      "d": "their annual accounts are published for public use"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 418,
+    "question": "A business organization can obtain long-term financing through ",
+    "option": {
+      "a": "bank overdraft ",
+      "b": "the sale of shares ",
+      "c": "credit purchases ",
+      "d": "bureau de change "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 419,
+    "question": "The portion of the authorized share capital given out to the public for subscription is ",
+    "option": {
+      "a": "called-up capital ",
+      "b": "issued capital ",
+      "c": "paid up capital ",
+      "d": "reserved capital "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 420,
+    "question": "A company has an authorized capital of 40 million shares at N1 each, out of which 32 million are issued and fully paid-up. What happens to the remaining 8million shares?",
+    "option": {
+      "a": "it has been issued but not paid-up ",
+      "b": "it has been applied for but not issued ",
+      "c": "it is not paid up",
+      "d": "it is not yet been issued "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 422,
+    "question": "Given:  N\n Opening stock  1,800\n Purchases   2, 800\n Sales    8,000\n Closing stock    350\n Carriage on sales    500\n Calculate the value of the unused stock.\n",
+    "option": {
+      "a": "N 800",
+      "b": "N500",
+      "c": "N350",
+      "d": "N320"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 424,
+    "question": "The promotion and protection of trade, industry and agriculture thorugh trade fairs is a function of ",
+    "option": {
+      "a": "NACRDB",
+      "b": "NACCIMA",
+      "c": "the Consumer Protection Council ",
+      "d": "the Chamber of Commerce "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 425,
+    "question": "Dealing in quoted securities on the Nigeria Stock Exchange is restricted to authorized ",
+    "option": {
+      "a": "companies ",
+      "b": "brokers ",
+      "c": "investors ",
+      "d": "principals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 426,
+    "question": "Securities that entitle the investor to coupon rates are ",
+    "option": {
+      "a": "bonds ",
+      "b": "equities ",
+      "c": "warrants ",
+      "d": "treasury bills"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 427,
+    "question": "Under what management function will the motivation of employees fall?",
+    "option": {
+      "a": "staffing ",
+      "b": "controlling ",
+      "c": "organizing ",
+      "d": "directing "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 429,
     "question": "One of the characteristics of a good organizational chart is that it should ",
     "option": {
@@ -755,10 +2163,80 @@
     "id": 431,
     "question": "Goods and Services are made available to consumers through",
     "option": {
+<<<<<<< Updated upstream
+=======
+      "a": "consumerism ",
+      "b": "market segmentation ",
+      "c": "selling concept ",
+      "d": "marketing concept "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 431,
+    "question": "Goods and Services are made available to consumers through",
+    "option": {
+>>>>>>> Stashed changes
       "a": "the channel of distribution ",
       "b": "sales promotion ",
       "c": "the advertising agency",
       "d": "the middlemen "
+<<<<<<< Updated upstream
+=======
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 432,
+    "question": "A person who in consideration for an extra commission, takes responsibility for goods sold on credit and in case of default is a ",
+    "option": {
+      "a": "commission agent",
+      "b": "del credere agent ",
+      "c": "broker ",
+      "d": "factor "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 433,
+    "question": "Yahaya bought a piece of furniture on a credit sale agreement from Ahmed and resold it to Ali before all installments were made. The court upheld that Ahmed could not recover possession of the items from Ali. The reason for the judement was because ",
+    "option": {
+      "a": "ownership was transferred on completion of installment ",
+      "b": "ownership was transferred on delivery ",
+      "c": "Yahaya could not pass title to a third party ",
+      "d": "Ali was still indebted to Yahaya"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 434,
+    "question": "The body which ensures that consumers are protected against harmful product in Nigeria is ",
+    "option": {
+      "a": "NAFDAC ",
+      "b": "NDLEA",
+      "c": "SON",
+      "d": "CPC"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -848,6 +2326,169 @@
     "examyear": "2013"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 487,
+    "question": "A major factor that affects business operations is ",
+    "option": {
+      "a": "technology ",
+      "b": "supply ",
+      "c": "product ",
+      "d": "rivalry "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 489,
+    "question": "Which of the following can be defined as trade and aids to trade?",
+    "option": {
+      "a": "Advertising",
+      "b": "Commerce",
+      "c": "Wholesaling",
+      "d": "Retailing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 490,
+    "question": "Which of the following is not a source of finance to a sole proprietor?",
+    "option": {
+      "a": "Trade Credit",
+      "b": "Overdrafts",
+      "c": "Debentures",
+      "d": "Leasing of equipment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 491,
+    "question": "Partners who allow their names to be used in a partnership but do not take part in the management of the business are",
+    "option": {
+      "a": "active partners",
+      "b": "limited partners",
+      "c": "general partners",
+      "d": "nominal partners"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 492,
+    "question": "A private company is one which",
+    "option": {
+      "a": "must publish its audited account",
+      "b": "floats its shares on the stock exchange market",
+      "c": "restricts the rights to transfer its shares",
+      "d": "is owned by a maximum of twenty members merger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 493,
+    "question": "The coming together of two or more firms at different stages of production is",
+    "option": {
+      "a": "horizontal merger",
+      "b": "vertical merger",
+      "c": "amalgamation",
+      "d": "cartel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 494,
+    "question": "The total value of fixed and current assets is?",
+    "option": {
+      "a": "working capital",
+      "b": "capital employed",
+      "c": "Fixed capital",
+      "d": "capital owned"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 495,
+    "question": "What is P in the above equation?",
+    "option": {
+      "a": "Purchases returns",
+      "b": "Net Profit",
+      "c": "Sales",
+      "d": "Carriage outwards"
+    },
+    "section": "Use the following equation to answer question   Gross Profit=(Closing stock + P) less (Opening stock + G)",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 496,
+    "question": "What is G in the above equation?",
+    "option": {
+      "a": "Sales returns",
+      "b": "Carriage inwards",
+      "c": "Purchases",
+      "d": "Sales"
+    },
+    "section": "Use the following equation to answer question  Gross Profit=(Closing stock + P) less (Opening stock + G)",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 498,
+    "question": "A debenture is mortgaged when it is",
+    "option": {
+      "a": "not secured on the assets of a company",
+      "b": "secured on the assets of a company",
+      "c": "irredeemable",
+      "d": "redeemable"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 499,
     "question": "A retail outlet which sells a fairly narrow range of goods with a number of branches in different towns is a",
     "option": {
@@ -915,10 +2556,209 @@
     "id": 532,
     "question": "Which of the following agents guarantees payment transactions entered into on behalf of the principal?",
     "option": {
+<<<<<<< Updated upstream
       "a": "Auctioneer",
       "b": "Factor",
       "c": "Broker",
       "d": "Del credere"
+=======
+      "a": "drawee and the payee",
+      "b": "drawer and the payer",
+      "c": "drawee and the drawer",
+      "d": "drawer and the payee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 514,
+    "question": "Which of the following is a means of payment through the post office?",
+    "option": {
+      "a": "Standing Order",
+      "b": "Promissory note",
+      "c": "Money order",
+      "d": "Telegraphic transfer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 515,
+    "question": "Which of the following encourages people to save towards owning a house?",
+    "option": {
+      "a": "Merchant bank",
+      "b": "Development bank",
+      "c": "Mortgage bank",
+      "d": "Commercial bank"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 516,
+    "question": "Which of the following services is not rendered by commercial banks?",
+    "option": {
+      "a": "Business advice",
+      "b": "Currency notes issue",
+      "c": "Accepting deposits",
+      "d": "Credit transfer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 518,
+    "question": "A house worth  N50.000 was insured against fire for  N30,000. Fire destroyed and caused damages worth N20.000 on the house. Under which insurance principle will the owner be entitled to a compensation of  N20,000?",
+    "option": {
+      "a": "Contribution",
+      "b": "Subrogation",
+      "c": "Indemnity",
+      "d": "Uberrimaefidei"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 519,
+    "question": "When an insurance company indemnifies the insured and takes over his rights, this is known as",
+    "option": {
+      "a": "abandonment",
+      "b": "subrogation",
+      "c": "proximate cause",
+      "d": "contribution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 522,
+    "question": "The information on terms of carriage of mails is found in",
+    "option": {
+      "a": "business journal",
+      "b": "post office guide",
+      "c": "trade directory",
+      "d": "service manual"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 525,
+    "question": "The marketing activity that stimulates immediate demand for a product is",
+    "option": {
+      "a": "sales promotion",
+      "b": "publicity",
+      "c": "consumer relations",
+      "d": "personal selling"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 526,
+    "question": "Which of these is not a basic marketing function?",
+    "option": {
+      "a": "Exchange",
+      "b": "Production",
+      "c": "Facilitation",
+      "d": "Information"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 527,
+    "question": "Branding is a tool for",
+    "option": {
+      "a": "competitive advertising",
+      "b": "consumerism",
+      "c": "marketing research",
+      "d": "pricing policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 529,
+    "question": "Which of the following is a method of sales promotion?",
+    "option": {
+      "a": "Radio giggles",
+      "b": "Poster display",
+      "c": "Trade fair",
+      "d": "Television broadcast"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 530,
+    "question": "The deliberate and sustained efforts to maintain a good image of a company is known as",
+    "option": {
+      "a": "personal relations",
+      "b": "public relations",
+      "c": "professional relations",
+      "d": "industrial relations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 531,
+    "question": "A contract of sale where ownership passes to the buyer on the payment of the first instalment is known as",
+    "option": {
+      "a": "hire purchase",
+      "b": "lease",
+      "c": "cash on delivery",
+      "d": "credit sale"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -928,6 +2768,73 @@
     "examyear": "2000"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 533,
+    "question": "Which of the following is not a means of consumer protection?",
+    "option": {
+      "a": "Price control",
+      "b": "Sale of Goods Act",
+      "c": "Trade Description Act",
+      "d": "Tax laws"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 534,
+    "question": "Which of the following is a basic requirement for a valid contract?",
+    "option": {
+      "a": "Representation",
+      "b": "Consideration",
+      "c": "Interest",
+      "d": "Performance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 535,
+    "question": "A counter-offer in a contract is regarded as",
+    "option": {
+      "a": "an acceptance",
+      "b": "an invitation to treat",
+      "c": "a rejection",
+      "d": "a consideration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+    "id": 536,
+    "question": "Which of the following is not a right of the consumer?",
+    "option": {
+      "a": "Safety",
+      "b": "Choice",
+      "c": "Discount",
+      "d": "Value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 537,
     "question": "Which of the following is an agreement to transport goods but not a document of title?",
     "option": {
@@ -1040,6 +2947,185 @@
     "examyear": "1990"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 606,
+    "question": "The oldest and commonest form of business in Nigeria is",
+    "option": {
+      "a": "partnership",
+      "b": "the co-operative society",
+      "c": "sole proprietorship",
+      "d": "joint stock venture"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 608,
+    "question": "Which of the following is not a factor of production?",
+    "option": {
+      "a": "Capital",
+      "b": "land",
+      "c": "Labour",
+      "d": "Staffing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 610,
+    "question": "The purpose of issuing a credit note is to",
+    "option": {
+      "a": "correct errors of overcharging",
+      "b": "correct errors of undercharging",
+      "c": "write off  bad debts",
+      "d": "encourage immediate payment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 611,
+    "question": "The exchange of goods for other goods in home trade is known as",
+    "option": {
+      "a": "entrepot trade",
+      "b": "home trade",
+      "c": "barter trade",
+      "d": "foreign trade"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 612,
+    "question": "Which of the following advertising media combines the advantages of sound and motion?",
+    "option": {
+      "a": "Radio",
+      "b": "Neon signs",
+      "c": "Press",
+      "d": "Television"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 614,
+    "question": "Efforts geared towards establishing and maintaining good image for a company is termed",
+    "option": {
+      "a": "human relations",
+      "b": "professional relations",
+      "c": "public relations",
+      "d": "trade relations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 615,
+    "question": "Which of the following is sent as a reply to an inquiry?",
+    "option": {
+      "a": "Tender",
+      "b": "Estimate",
+      "c": "Statement",
+      "d": "Quotation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 616,
+    "question": "Which of the following statements best describes net profit? The excess of",
+    "option": {
+      "a": "total revenue over total expenditure",
+      "b": "total capital income over expenditure",
+      "c": "sales over purchases",
+      "d": "total capital formation over capital consumption"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 618,
+    "question": "A number of shops under one roof is the feature of a",
+    "option": {
+      "a": "supermarket",
+      "b": "chain store",
+      "c": "department store",
+      "d": "mail order business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 619,
+    "question": "An agreement between two parties which will give rise to enforceable rights and obligation is known as",
+    "option": {
+      "a": "a warrant",
+      "b": "a contract",
+      "c": "a consideration",
+      "d": "an offer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+    "id": 620,
+    "question": "Auctions and Tenders become binding when they are",
+    "option": {
+      "a": "accepted",
+      "b": "offered",
+      "c": "received",
+      "d": "advertised"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1990"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 621,
     "question": "The organized efforts of consumers to protect themselves against the unfair practices of businessmen is called",
     "option": {
@@ -1171,14 +3257,149 @@
     "id": 678,
     "question": "The minimum lending rate of a bank is a component of its",
     "option": {
+<<<<<<< Updated upstream
       "a": "current assets",
       "b": "debit balance.",
       "c": "credit balance.",
       "d": "fixed assets."
+=======
+      "a": "Palm frond.",
+      "b": "Metal gong.",
+      "c": "Talking drum.",
+      "d": "Gun blast."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 676,
+    "question": "One of the factors of determining the volume of production is",
+    "option": {
+      "a": "availability of forex",
+      "b": "availability of storage facilities.",
+      "c": "the location of the business.",
+      "d": "the number of skilled manpower."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 677,
+    "question": "Which of the following is the best method for computing working capital?",
+    "option": {
+      "a": "Total assets less current liabilities.",
+      "b": "Current liabilities less current assets.",
+      "c": "Fixed liabilities less current assets.",
+      "d": "Current assets less current liabilities."
     },
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 679,
+    "question": "One of the functions of the Nigerian Ports Authority is that it",
+    "option": {
+      "a": "gives preferential treatment to Nigerian investors",
+      "b": "provides credit facilities to importers.",
+      "c": "encourages the growth of infant industries.",
+      "d": "provides warehousing facilities at the docks."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 681,
+    "question": "An association that acts as a watchdog between  entrepreneurs and government to protect trade from any unfavourable laws is said",
+    "option": {
+      "a": "cartel",
+      "b": "syndicate",
+      "c": "Chamber of Commerce",
+      "d": "Nigeria Bar Association."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 683,
+    "question": "Discharging certain duties by an organization to the public to gain high patronage is a concern of financial responsibility",
+    "option": {
+      "a": "economic responsibility.",
+      "b": "legal responsibility.",
+      "c": "financial responsibility.",
+      "d": "social responsibility."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 684,
+    "question": "Complying with the rules relating to the conduct of business activities in a country is an aspect of",
+    "option": {
+      "a": "cultural environment.",
+      "b": "demographic environment.",
+      "c": "legal environment",
+      "d": "politician environment"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 685,
+    "question": "Which of the following is NOT backed by gold but by government securities?",
+    "option": {
+      "a": "Fiduciary note.",
+      "b": "Fiat money.",
+      "c": "Token money.",
+      "d": "Commodity money."
+>>>>>>> Stashed changes
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 686,
+    "question": "Which of the following is a legal tender?",
+    "option": {
+      "a": "Cheque.",
+      "b": "Traveller’scheque.",
+      "c": "Bank note",
+      "d": "Goldsmith receipt."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"

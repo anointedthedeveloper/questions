@@ -784,6 +784,22 @@
     "examyear": "2009"
   },
   {
+    "id": 51,
+    "question": "An (n-2)2 sided figure has n diagonal, find the number n of diagonal for a 25 sided Figure   ",
+    "option": {
+      "a": "8",
+      "b": "7",
+      "c": "6",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 52,
     "question": "A sum of money was invested at 8% per annum simple interest. If after 4 years, the   money became ",
     "option": {
@@ -3052,6 +3068,22 @@
     "image": "",
     "answer": "c",
     "solution": "Total: 2 + 5 + 3 + 11 + 9 = 30\n\nCassava: 330×360°=36°",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 209,
+    "question": "How many three-digit numbers can be formed from 32564 without repeating any of the digits?",
+    "option": {
+      "a": " 120",
+      "b": "10",
+      "c": "20",
+      "d": "60"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To get the answer, we simply do\n\n5!/(5−3)!\n= 5×4×3×2×1/(2×1)\n= 60",
     "examtype": "utme",
     "examyear": "2002"
   },

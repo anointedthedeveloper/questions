@@ -240,6 +240,22 @@
     "examyear": "2"
   },
   {
+    "id": 141,
+    "question": "The acronym “CllN” refers to",
+    "option": {
+      "a": "Certified insurance institute",
+      "b": "Certified insured institute",
+      "c": "Certified international institute",
+      "d": "Chartered insurance institute"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 147,
     "question": "An insurance cover for lawyers, accountants and brokers is",
     "option": {
@@ -475,6 +491,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 212,
+    "question": "An insurance contract which does not involve mutuality of agreement in which only one of the parties involved in the contract makes promises that are legally binding is called",
+    "option": {
+      "a": "double contract",
+      "b": "single contract",
+      "c": "multilateral contract",
+      "d": "unilateral contract"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -763,6 +795,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 291,
+    "question": "The full meaning of NAICOM is",
+    "option": {
+      "a": "Nigerian insurance company",
+      "b": "national insurance commission",
+      "c": "national insurer commission",
+      "d": "national insured commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "5"

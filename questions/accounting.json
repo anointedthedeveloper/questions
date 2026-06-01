@@ -160,6 +160,22 @@
     "examyear": "2006"
   },
   {
+    "id": 246,
+    "question": "Using the reducing balance method, the depreciation charged for year 2002 was",
+    "option": {
+      "a": "N 100,000",
+      "b": "N  90,000",
+      "c": "N  80,000",
+      "d": "N  60,000"
+    },
+    "section": "Motor vehicles (at cost) 1/1/2002   [N1,000,000],  Addition to motor vehicles 1/7/2003  [N  600,000] \tDepreciation rate 10%",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 247,
     "question": "Using the reducing balance method, the depreciation charged for year 2003 was",
     "option": {
@@ -480,6 +496,22 @@
     "examyear": "2016"
   },
   {
+    "id": 625,
+    "question": "A double entry for a transaction that offsets one amount against another on both sides of the cashbook is a",
+    "option": {
+      "a": "original entry",
+      "b": " contra entry",
+      "c": " prime entry",
+      "d": " contract entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "contra entry is used to offset amount or same transaction against another on both side of the cashbook",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 683,
     "question": "Profit or loss in a partnership is usually arrived at after deducting from gross profit all expenses including____________",
     "option": {
@@ -684,6 +716,22 @@
     "image": "",
     "answer": "b",
     "solution": "Explanation: buying stock on credit increases inventory (debit Stock) and creates a liability (credit Accounts Payable).",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1020,
+    "question": "What are the appropriate recording procedures for entries in the trial balance?",
+    "option": {
+      "a": " source documents, ledgers and trial balance",
+      "b": "Ledgers, trial balance and source documents",
+      "c": "Ledgers, source documents and trial balance",
+      "d": "Cash account, ledgers and trial balance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Explanation: Recording starts with source documents (invoices, receipts), entries are posted to the ledgers, and then ledger totals are used to prepare the trial balance.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -990,6 +1038,22 @@
     "solution": "To find the net profit of the partnership, Add up all the appropriations from the Appropriation Account.\nGiven information from Appropriation Account:\n\nKudu's interest on capital: ₦750\nWale's interest on capital: ₦550\nKudu's salary: ₦800\nWale's salary: ₦600\nKudu's share of profits: ₦3,300\nWale's share of profits: ₦3,300\n\nCalculation:\nThe net profit equals the total of all appropriations:\nInterest on capital: ₦750 + ₦550 = ₦1,300\nSalaries: ₦800 + ₦600 = ₦1,400\nShare of profits: ₦3,300 + ₦3,300 = ₦6,600\nTotal net profit = ₦1,300 + ₦1,400 + ₦6,600 = ₦9,300",
     "examtype": "utme",
     "examyear": "1999"
+  },
+  {
+    "id": 1365,
+    "question": "The Act establishing the institute of Chartered Accountants of Nigeria (ICAN) came into force on?",
+    "option": {
+      "a": "1364",
+      "b": "Ist October, 1960",
+      "c": "Ist October,1963",
+      "d": " Ist September,1965"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Institute of Chartered Accountants of Nigeria (ICAN) was established by Act of Parliament No. 15 of 1965, but it came into force on 1st October, 1963. This is the date recognized as ICAN's founding or commencement date.",
+    "examtype": "utme",
+    "examyear": "1998"
   },
   {
     "id": 1369,

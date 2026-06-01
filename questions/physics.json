@@ -8096,6 +8096,22 @@
     "examyear": "2004"
   },
   {
+    "id": 605,
+    "question": "A moving coil galvanometer has a full-scale deflection of 3A equivalent to 30° deflection. The sensitivity of the instrument is",
+    "option": {
+      "a": "33.00",
+      "b": "0.1",
+      "c": "90,0",
+      "d": "10.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nCurrent, I = 3 A\nDeflection angle, θ = 30°\n\nSolution:\nFormula:\nSensitivity of galvanometer = θ/I\nWhere:\n\nθ = deflection angle (in degrees)\nI = current (in amperes)\n\nStep 1: Substitute values\nSensitivity = 30°/3 A\nStep 2: Calculate\nSensitivity = 10 degrees per ampere (°/A)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 606,
     "question": "The particle and wave nature of matter are demonstrated in the equation",
     "option": {
@@ -13212,6 +13228,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nResultant force (R) = 50 N\nTwo forces are perpendicular to each other (90° angle between them)\nOne force makes 30° angle with resultant\nMagnitude of this force = ?\n\nSetting up the problem:\nLet:\n\nF₁ = force making 30° with resultant (what we're finding)\nF₂ = the other force\nF₁ and F₂ are perpendicular to each other\n\nUnderstanding the geometry:\nSince F₁ and F₂ are perpendicular (90° apart):\n\nF₁ makes 30° with resultant R\nF₂ makes (90° - 30°) = 60° with resultant R\n\nUsing vector components:\nThe resultant is the vector sum of F₁ and F₂.\nMethod 1: Using trigonometry directly\nSince F₁ makes 30° angle with resultant:\n\nF₁ is along the resultant direction at 30°\nThe component of F₁ along R is: F₁ cos 30°\n\nFor perpendicular forces forming a resultant:\nF₁ = R cos θ\nwhere θ is the angle F₁ makes with R.\nCalculating:\nF₁ = R cos 30°\nF₁ = 50 × cos 30°\nF₁ = 50 × (√3/2)\nF₁ = 50 × 0.866\nF₁ = 43.3 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1042,
+    "question": "The pair of physical quantities that are scalar only are ?",
+    "option": {
+      "a": "volume and area",
+      "b": ". moment and momentum",
+      "c": "length and displacement",
+      "d": " Impulse and time"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This is because volume and the area have only magnitude but no direction",
     "examtype": "utme",
     "examyear": "2013"
   },

@@ -1,5 +1,21 @@
 [
   {
+    "id": 1,
+    "question": "The bad debt account is closed by transferring the balance to ",
+    "option": {
+      "a": "credit of capital account  ",
+      "b": "debit of profit  and loss  ",
+      "c": "debit of the debtors personal account ",
+      "d": "credit of profit and loss account "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 4,
     "question": "Which   of the   following   is   a  long  term liability ",
     "option": {
@@ -5436,6 +5452,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given:\n\nBalance of Profit and Loss Account = ₦300\nProfit sharing ratio = Jumoke : Kunle = 3 : 2\n\nCalculate Kunle's share of the balance:\nTotal ratio = 3 + 2 = 5\nKunle's share = (2/5) × ₦300 = ₦120",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1105,
+    "question": "When a new partner is admitted to a partnership, there is a need to revalue the?",
+    "option": {
+      "a": "capital of the business",
+      "b": "capital and liabilities of the business",
+      "c": "assets and capital of the business",
+      "d": "assets and liabilities of the business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When a new partner joins a partnership, the assets and liabilities need to be revalued to show their current market values.\nWhy revaluation is necessary:\n\nAssets may have increased or decreased in value since they were first recorded\nLiabilities may need adjustment to reflect current amounts\nThe new partner should not gain or lose from unrealized gains/losses that occurred before they joined\nExisting partners should get credit for any increase in asset values that happened during their time\n\nWhat gets revalued:\n\nAssets = property, equipment, inventory, etc. at current market values\nLiabilities = loans, creditors at current amounts owed",
     "examtype": "utme",
     "examyear": "2004"
   },

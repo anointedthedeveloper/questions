@@ -10992,6 +10992,22 @@
     "examyear": "2006"
   },
   {
+    "id": 708,
+    "question": "A cell of internal resistance r is connected to an external resistor R. The condition for maximum power transfer is?",
+    "option": {
+      "a": "R < r",
+      "b": " R = r",
+      "c": "R = 2r",
+      "d": "R > r"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nCell with internal resistance r\nExternal resistor R\nNeed to find condition for maximum power transfer\n\nSolution:\nStep 1: Set up power equation\nCurrent in circuit: I = E/(R + r)\nWhere E = EMF of cell\nPower delivered to external resistor:\nP = I²R = [E/(R + r)]² × R\nP = E²R/(R + r)²\nStep 2: Find maximum power condition\nFor maximum power, take derivative dP/dR and set equal to zero:\ndP/dR = E²[(R + r)² - R × 2(R + r)]/(R + r)⁴ = 0\nSimplifying the numerator:\n(R + r)² - 2R(R + r) = 0\n(R + r)[(R + r) - 2R] = 0\n(R + r)(r - R) = 0\nStep 3: Solve for R\nSince R + r ≠ 0:\nr - R = 0\nR = r\nStep 4: Maximum Power Transfer Theorem\nThis result is known as the Maximum Power Transfer Theorem: Maximum power is transferred from a source to a load when the load resistance equals the source's internal resistance.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 709,
     "question": "The production and type of charge of a body can only be accounted for by the?",
     "option": {
@@ -15660,6 +15676,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nVolume of object (V) = 1 m³\nMass of object (m) = 2 kg\nDensity of liquid (ρ_liquid) = 1 kg/m³\ng = 10 m/s² (assumed)\nApparent weight = ?\n\nUnderstanding apparent weight:\nApparent weight = Actual weight - Upthrust (buoyant force)\nStep 1: Calculate actual weight\nWeight = mg\nWeight = 2 × 10\nWeight = 20 N\nStep 2: Calculate upthrust (buoyant force)\nUpthrust = Weight of liquid displaced\nUpthrust = ρ_liquid × V × g\nSubstituting values:\nUpthrust = 1 × 1 × 10\nUpthrust = 10 N\nStep 3: Calculate apparent weight\nApparent weight = Actual weight - Upthrust\nApparent weight = 20 - 10\nApparent weight = 10 N",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1011,
+    "question": "The pressure at any point in a liquid at rest depends only on the",
+    "option": {
+      "a": "Depth and the density",
+      "b": "Mass and the volume",
+      "c": "Quantity and the surface area",
+      "d": "Surface area and the viscosity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The pressure at any point in a liquid at rest depends only on the depth below the surface and the density of the liquid. This relationship is given by P = P₀ + ρgh, where deeper points and denser liquids result in higher pressure.\nExample: At 10 m depth:\n\nIn water (ρ = 1000 kg/m³): P = 1.0 × 10⁵ + 1000 × 10 × 10 = 2.0 × 10⁵ Pa\nIn mercury (ρ = 13,600 kg/m³): P = 1.0 × 10⁵ + 13,600 × 10 × 10 = 14.6 × 10⁵ Pa",
     "examtype": "utme",
     "examyear": "2012"
   },

@@ -2560,6 +2560,22 @@
     "examyear": "4"
   },
   {
+    "id": 211,
+    "question": "An insurance contract where both parties signed the agreement which involve mutuality of agreement is known as",
+    "option": {
+      "a": "unilateral contract",
+      "b": "multilateral contract",
+      "c": "bilateral contract",
+      "d": "united contract"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 212,
     "question": "An insurance contract which does not involve mutuality of agreement in which only one of the parties involved in the contract makes promises that are legally binding is called",
     "option": {
@@ -2715,6 +2731,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 225,
+    "question": "The process of evaluating and minimizing risk is",
+    "option": {
+      "a": "risk management",
+      "b": "risk certainty",
+      "c": "risk insurance",
+      "d": "risk re-grouping"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -2955,6 +2987,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 243,
+    "question": "The process of changing what is wrong in the policy is called",
+    "option": {
+      "a": "specification",
+      "b": "attestation clause",
+      "c": "rectification",
+      "d": "justification"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "4"
@@ -3792,6 +3840,22 @@
     "examyear": "2015"
   },
   {
+    "id": 312,
+    "question": "In a life assurance contract, when does  the  principle of insurable interest arise?",
+    "option": {
+      "a": "At the beginning of the contract",
+      "b": "At the time of claim",
+      "c": "At the middle of the contract",
+      "d": "At the time of payment of premium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 313,
     "question": "Which class of life assurance would a young couple who desires to start a new business in five years time purchase?",
     "option": {
@@ -3879,6 +3943,22 @@
       "b": "Sum insured",
       "c": "Franchise",
       "d": "Excess"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 321,
+    "question": "A policy taken for full protection against fire and other risks such as flood, tempest, riot and civil commotion is",
+    "option": {
+      "a": "consequential loss",
+      "b": "fire and all risks policy",
+      "c": "combined householder’s policy",
+      "d": "fire and special perils"
     },
     "section": "",
     "image": "",
@@ -3995,6 +4075,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 332,
+    "question": "One of the benefits payable under personal accident insurance policy is",
+    "option": {
+      "a": "retirement benefit",
+      "b": "surrender benefit",
+      "c": "death benefit",
+      "d": "transfer benefit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

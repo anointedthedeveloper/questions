@@ -5152,6 +5152,22 @@
     "examyear": "2019"
   },
   {
+    "id": 345,
+    "question": "The distance between an object and its real image in a convex lens is 40cm. If the magnification of the image is 3, calculate the focal length of the lens\n",
+    "option": {
+      "a": "6.5 cm",
+      "b": "7.5 cm",
+      "c": " 8.5 cm",
+      "d": " 4.5 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDistance between object and image = 40 cm\nMagnification (m) = 3\nFocal length (f) = ?\n\nStep 1: Use magnification formula\nFor real image: m = v/u = 3 (taking magnitudes)\nTherefore: v = 3u\nStep 2: Use distance between object and image\nDistance = u + v (both on opposite sides of lens)\n40 = u + v\n40 = u + 3u\n40 = 4u\nu = 10 cm\nStep 3: Calculate image distance\nv = 3u = 3 × 10 = 30 cm\nStep 4: Use lens formula\n1/f = 1/v - 1/u\nFor real image with sign convention (u = -10, v = +30):\n1/f = 1/30 - 1/(-10)\n1/f = 1/30 + 1/10\n1/f = 1/30 + 3/30\n1/f = 4/30\nf = 30/4 = 7.5 cm",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 346,
     "question": "A ray of light passes through the centre of curvature of a concave mirror and strikes the mirror. At what angle is the ray reflected?",
     "option": {
@@ -10940,6 +10956,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nMass (m) = 1500 kg\nRadius (r) = 50 m\nSpeed (v) = 40 m/s\nCentripetal force (F) = ?\n\nFormula for centripetal force:\nF = mv²/r\nSubstituting values:\nF = (1500 × 40²)/50\nF = (1500 × 1600)/50\nF = 2,400,000/50\nF = 48,000 N\nF = 4.8 × 10⁴ N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 753,
+    "question": "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them? [G = 6.67 × 10⁻¹¹ Nm² Kg⁻²]",
+    "option": {
+      "a": "3.50 × 10⁻¹⁰ N",
+      "b": "3.71 × 10⁻⁸ N",
+      "c": "3.57 × 10⁻² N",
+      "d": "4.00 × 10² N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMass 1 (m₁) = 5.0 kg\nMass 2 (m₂) = 10.0 kg\nDistance (r) = 0.3 m\nGravitational constant (G) = 6.67 × 10⁻¹¹ Nm²/kg²\nForce (F) = ?\n\nUsing Newton's Law of Universal Gravitation:\nF = G(m₁m₂)/r²\nSubstituting values:\nF = (6.67 × 10⁻¹¹ × 5.0 × 10.0)/(0.3)²\nF = (6.67 × 10⁻¹¹ × 50)/0.09\nF = (333.5 × 10⁻¹¹)/0.09\nF = 3335 × 10⁻¹¹/0.09\nF = 3.71 × 10⁻⁸ N",
     "examtype": "utme",
     "examyear": "2007"
   },

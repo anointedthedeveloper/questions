@@ -11536,6 +11536,22 @@
     "examyear": "2013"
   },
   {
+    "id": 813,
+    "question": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = 1/12 Calculate the value of",
+    "option": {
+      "a": "√108 cm",
+      "b": "9 cm",
+      "c": "√92 cm",
+      "d": " 10 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Using the cosine rule, we have\n\np<sup>2</sup> = q<sup>2</sup> + r<sup>2</sup> − 2qrcosP\np<sup>2</sup> = 8<sup>2</sup> + 6<sup>2</sup> − 2(8)(6)(1/12)\n= 64 + 36 − 8\np<sup>2</sup> = 92∴ p = √9cm",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 814,
     "question": "If tanθ=3/4, find the value of sinθ + cosθ\n.",
     "option": {

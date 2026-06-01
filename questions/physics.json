@@ -1680,6 +1680,22 @@
     "examyear": "2017"
   },
   {
+    "id": 261,
+    "question": "Which of the following is a semiconductor",
+    "option": {
+      "a": "copper",
+      "b": "silicon",
+      "c": "plastic",
+      "d": "Iron"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Semi-conductor have an elecctric conductivity intermediate in value between that of a pure metal and a good insulator. Silicon is an example",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 264,
     "question": "The instrument to measure the relative density of liquid is",
     "option": {
@@ -6572,6 +6588,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nTemperature in Kelvin, T(K) = 20 K\n\nSolution:\n\nStep 1: Relation between Kelvin and Celsius\nThe Celsius temperature T(°C) is given by:\nT(°C) = T(K) – 273.15\nFor rough conversion, 273 is often used.\n\nStep 2: Substitute the value\nT(°C) = 20 – 273 = –253 °C",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1100,
+    "question": "Heat transfer by convection in a liquid is due to the",
+    "option": {
+      "a": "Latent heat of vaporization of the liquid",
+      "b": " Increased vibration of the molecules of the liquid about theit mean position",
+      "c": " Variation of density of the liquid",
+      "d": "Expansion of the liquid as it is heated"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Liquids and gases expand when they are heated. The liquid or gas in hot areas is less dense than the liquid or gas in cold areas, so it rises into the cold areas.",
     "examtype": "utme",
     "examyear": "2014"
   },

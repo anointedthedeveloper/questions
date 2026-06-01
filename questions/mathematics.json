@@ -1344,6 +1344,22 @@
     "examyear": "2003"
   },
   {
+    "id": 275,
+    "question": "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm 2, find the area of the trapezium PQRU",
+    "option": {
+      "a": "60 cm2",
+      "b": "72 cm2",
+      "c": "48 cm2",
+      "d": "24 cm2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700535/ALOC-Questions/Mathematics/2004/math_2004_q4_fsnzjv.jpg",
+    "answer": "b",
+    "solution": "Area of parallelogram PQTU = base * height\n32 = 4 * h\nw = 32/4\nw = 8\n∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8\n= 1/2 * (18 * 8)\n= 72 cm2",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 277,
     "question": "Find the value of x in the figure above",
     "option": {
@@ -4032,6 +4048,22 @@
     "examyear": "2013"
   },
   {
+    "id": 776,
+    "question": "Simplify (√5(√147-√12)/√15",
+    "option": {
+      "a": "5",
+      "b": "1/5",
+      "c": "1/9",
+      "d": "9"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msqrt>\n        <mn>5</mn>\n      </msqrt>\n      <mo stretchy=\"false\">(</mo>\n      <msqrt>\n        <mn>147</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>12</mn>\n      </msqrt>\n    </mrow>\n    <msqrt>\n      <mn>15</mn>\n    </msqrt>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(√5(√147-√12)/√15           = (√5(√(49×3)-√(4×3))/√(5×3) = (√5(7√3-2√3)/(√5×√3) = (√3(7-2)/√3 = 5",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 778,
     "question": "If S = √(t<sup>2</sup>-4t+4), find t in terms of s",
     "option": {
@@ -4236,6 +4268,22 @@
     "image": "",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 811,
+    "question": "If the midpoint of the line PQ is (2,3) and the point P is (-2, 1), find the coordinate of the point Q.",
+    "option": {
+      "a": " (8,6)",
+      "b": "(5,6)",
+      "c": "(0,4)",
+      "d": "(6,5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Midpoint of a line PQ where P has coordinates (x<sub>1</sub>, y<sub>1</sub>) and Q has coordinates (x<sub>2</sub>,y<sub>2</sub>) is given as \n\n(x1<sub>1</sub> + x<sub>2</sub>/2, y<sub>1</sub> + y<sub>2</sub>/2).\n\n∴ If Q has coordinates (r, s), then\n\n−2+r/2 = 2 and 1+s/2 = 3\n−2 + r = 4 ⟹ r = 6\n1 + s = 6 ⟹ s = 5\nQ = (6, 5)",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -5276,6 +5324,22 @@
     "image": "",
     "answer": "d",
     "solution": "d/dx [log(4x<sup>3</sup> - 2x) ]   ... (1)\n\nLet u = 4x<sup>3</sup - 2x.\n\nd/dx(log(4x<sup>3</sup> − 2x)) = (d/du)(du/dx)\nd/du(logu) = 1/u\ndu/dx = 12x<sup>2</sup> − 2\n∴d/dx[log(4x<sup>3</sup> − 2x) ]= (12x<sup>2</sup> − 2)/u\n= (12x<sup>2</sup> − 2)/(4x<sup>3</sup> − 2x)",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 994,
+    "question": "Solve for x in (4x-6)/3 ≤ (3 + 2x)/2",
+    "option": {
+      "a": "x≤1(1/2)",
+      "b": "x≤(21/2)",
+      "c": "x≥21/2",
+      "d": "x≥1(1/2)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>4</mn>\n      <mi>x</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>6</mn>\n    </mrow>\n    <mn>3</mn>\n  </mfrac>\n  <mo>&#x2264;<!-- ≤ --></mo>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>+</mo>\n      <mn>2</mn>\n      <mi>x</mi>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(4x-6)/3≤(3+2x)/2.   2(4x - 6) ≤ 3(3 + 2x)\n\n8x - 12 ≤ 9 + 6x\n\n8x - 6x ≤ 9 + 12\n\n2x ≤ 21\n\nx≤21/2",
     "examtype": "utme",
     "examyear": "2019"
   },

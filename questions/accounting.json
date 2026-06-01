@@ -1648,6 +1648,22 @@
     "examyear": "2019"
   },
   {
+    "id": 735,
+    "question": "Given the following manufacturing information: stock of finished goods on January 1st was ₦50,640 and on December 31st was ₦71,380; stock of raw materials on January 1st was ₦32,160 and on December 31st was ₦29,640; purchase of raw materials was ₦145,000; manufacturing wages were ₦52,000; depreciation on factory equipment was ₦16,500; direct expenses were ₦12,500; factory fuel cost ₦7,000; and carriage inwards on raw materials was ₦7,000, what is the cost of raw materials consumed?",
+    "option": {
+      "a": "₦154,520.",
+      "b": "₦53,000",
+      "c": "₦150,000",
+      "d": "₦152,120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To calculate the cost of raw materials consumed, use the formula:\nCost of Raw Materials Consumed = Opening Stock of Raw Materials + Purchases + Carriage Inwards - Closing Stock of Raw Materials\nCalculation:\nCost of Raw Materials Consumed = ₦32,160 + ₦145,000 + ₦7,000 - ₦29,640\nCost of Raw Materials Consumed = ₦184,160 - ₦29,640 = ₦154,520\nTherefore, the cost of raw materials consumed is ₦154,520.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 741,
     "question": "Goods can be charged to branches using any of these pricing methods except",
     "option": {
@@ -1824,6 +1840,22 @@
     "examyear": "2020"
   },
   {
+    "id": 809,
+    "question": "Using the data below, calculate the total factory overhead cost for the period.\n\nDepreciation of plant and machinery: ₦1,600\n\nFactory rent: ₦650\n\nIndirect wages: ₦695\n\nGeneral indirect expenses: ₦726\n\nLubricants: ₦1,235\n\nFactory power: ₦350",
+    "option": {
+      "a": "₦4,485",
+      "b": "₦6,085",
+      "c": " ₦6,556",
+      "d": " ₦5,256"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Total factory overhead = ₦1,600 + ₦650 + ₦695 + ₦726 + ₦1,235 + ₦350 = ₦5,256.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 810,
     "question": "The excess of income over expenditure is usually transferred to the",
     "option": {
@@ -1964,6 +1996,22 @@
     "image": "",
     "answer": "b",
     "solution": "Gross profit = 20% of sales = 0.20 × ₦10,600 = ₦2,120\nCost of Goods Sold = Sales − Gross Profit = ₦10,600 − ₦2,120 = ₦8,480.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 864,
+    "question": "The folio in the ledger is used for referencing purposes. It helps in cross-referencing between the ledger and the journal, making it easier to track transactions and locate specific entries.",
+    "option": {
+      "a": "branch expense account and credited to branch debtors' accoount\n",
+      "b": "branch stock account account and credited to the goods sent to branch account\n",
+      "c": "branch debtors' account and credited to branch expense account\n",
+      "d": "goods sent to branch expense account\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When goods are invoiced and dispatched to a branch, the head office debits the Branch Stock Account (to record the branch’s inventory) and credits the Goods Sent to Branch Account (to show the transfer out of head office stock).",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -3004,6 +3052,22 @@
     "image": "",
     "answer": "a",
     "solution": "To find how much Chibuike paid, Calculate the price after applying both the trade discount and cash discount.\nGiven information:\n\n36 notebooks at ₦10 each\nTrade discount: 5%\nCash discount: 1% (taken)\n\nStep 1: Calculate gross amount\nGross amount = 36 × ₦10 = ₦360\nStep 2: Apply trade discount\nTrade discount = ₦360 × 5% = ₦18\nAmount after trade discount = ₦360 - ₦18 = ₦342\nStep 3: Apply cash discount\nCash discount = ₦342 × 1% = ₦3.42\nFinal amount paid = ₦342 - ₦3.42 = ₦338.58\nVerification:\n\nGross: ₦360\nLess trade discount (5%): ₦18\nNet: ₦342\nLess cash discount (1%): ₦3.42\nAmount paid: ₦338.58",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1334,
+    "question": "In dealing with incomplete records, fixed assets are posted to?",
+    "option": {
+      "a": "opening profit and loss as brought forward figures",
+      "b": "closing balance sheet as carried forward figures",
+      "c": "closing balance sheets as brought forward figures",
+      "d": "closing profit and loss as brought forward figures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In reconstructing accounts from incomplete records, fixed assets are included in the Statement of Affairs (i.e. the makeshift balance sheet) at their closing values. These closing balances on the balance sheet are then carried forward as the opening figures for the next period.",
     "examtype": "utme",
     "examyear": "1999"
   },

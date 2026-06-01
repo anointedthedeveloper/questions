@@ -15232,6 +15232,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1010,
+    "question": "An object of volume 1 m³ and mass 2 kg is totally immersed in a liquid of density 1 kgm⁻³. Calculate its apparent weight.",
+    "option": {
+      "a": "20 N",
+      "b": "10 N",
+      "c": "2 N",
+      "d": "1 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nVolume of object (V) = 1 m³\nMass of object (m) = 2 kg\nDensity of liquid (ρ_liquid) = 1 kg/m³\ng = 10 m/s² (assumed)\nApparent weight = ?\n\nUnderstanding apparent weight:\nApparent weight = Actual weight - Upthrust (buoyant force)\nStep 1: Calculate actual weight\nWeight = mg\nWeight = 2 × 10\nWeight = 20 N\nStep 2: Calculate upthrust (buoyant force)\nUpthrust = Weight of liquid displaced\nUpthrust = ρ_liquid × V × g\nSubstituting values:\nUpthrust = 1 × 1 × 10\nUpthrust = 10 N\nStep 3: Calculate apparent weight\nApparent weight = Actual weight - Upthrust\nApparent weight = 20 - 10\nApparent weight = 10 N",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1012,
     "question": "A balloon whose volume is 300 m³ is filled with hydrogen. If the density of air is 1.3 kg m⁻³, find the upthrust on the balloon. [g = 10 m s⁻²]",
     "option": {

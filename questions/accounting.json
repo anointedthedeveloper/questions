@@ -3200,6 +3200,22 @@
     "examyear": "2022"
   },
   {
+    "id": 858,
+    "question": "Given the following excerpt from incomplete records—Sales ₦10,600; Rent ₦200; Depreciation on a vehicle (cost ₦5,000) at 10%; and a uniform gross profit margin of 20%—what is the Cost of Goods Sold for the period?",
+    "option": {
+      "a": "₦4,800\n",
+      "b": "₦8,480\n",
+      "c": "₦2,320\n",
+      "d": "₦9,900\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Gross profit = 20% of sales = 0.20 × ₦10,600 = ₦2,120\nCost of Goods Sold = Sales − Gross Profit = ₦10,600 − ₦2,120 = ₦8,480.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 861,
     "question": "In the not-for-profit-making organization, the excess of income over expenditure is?",
     "option": {
@@ -4876,6 +4892,22 @@
     "image": "",
     "answer": "a",
     "solution": "Debit Cash: Increases the head office’s cash balance when it receives the remittance.\n\nCredit Branch Current Account: Reduces the receivable (or clears the liability) from the branch’s current account, since the branch has now funded that amount.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1261,
+    "question": "To account for expenses paid by head office on behalf of the branch, the branch should?",
+    "option": {
+      "a": "debit head office account and credit cash",
+      "b": "debit profit and loss account and credit headoffice account",
+      "c": " credit cash and debit profitand loss account",
+      "d": "credit profit and loss account and debit head office account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The branch should recognize the expense and record the head office as creditor:\n\nDebit Profit & Loss (Expense) Account\nCredit Head Office Account",
     "examtype": "utme",
     "examyear": "2001"
   },

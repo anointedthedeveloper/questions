@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 4,
+    "question": "If M and R are the mass and radius of the earth respectively and G is the universal gravitational constant, the earth’s gravitational potential at an altitude H above the ground level is: ",
+    "option": {
+      "a": "A.-GM/H ",
+      "b": "–GM/(R+H) ",
+      "c": "C. -GM/2H ",
+      "d": "D. –GM/(R-H)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 5,
     "question": "Which of the following statements is not true? ",
     "option": {
@@ -14012,6 +14028,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nGiven information:\n\nThreshold frequency (f₀) = 1.3 × 10¹⁵ Hz\nPlanck's constant (h) = 6.6 × 10⁻³⁴ Js\nWork function (φ or W) = ?\n\nUnderstanding work function:\nThe work function is the minimum energy required to remove an electron from the surface of a material.\nFormula:\nWork function = Planck's constant × Threshold frequency\nφ = hf₀\nSubstituting values:\nφ = 6.6 × 10⁻³⁴ × 1.3 × 10¹⁵\nφ = 8.58 × 10⁻³⁴⁺¹⁵\nφ = 8.58 × 10⁻¹⁹ J",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 988,
+    "question": "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis?",
+    "option": {
+      "a": "X is the anode and very high current is used",
+      "b": "X is the anode and Y is the cathode",
+      "c": " Y is the cathode and X is the anode",
+      "d": "Y is the anode and very high current is used"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Metals and hydrogen are deposited at the cathode, while non-metals and oxygen are deposited on the anode\n∴ metals Y will form the anode which is deposited at the cathode made of x",
     "examtype": "utme",
     "examyear": "2011"
   },

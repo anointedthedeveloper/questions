@@ -1311,6 +1311,25 @@
     "category": "others"
   },
   {
+    "id": 90,
+    "question": "I don’t coming home, is he?......... he is isn’t.",
+    "option": {
+      "a": "Yes",
+      "b": "No",
+      "c": "won",
+      "d": "now"
+    },
+    "section": "choose the option that best completes the gap(s).",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 91,
     "question": "………..as a federal capital only……….. the last twenty years.",
     "option": {
@@ -6391,6 +6410,25 @@
       "b": " He stole some bread from the shop but we could not stop him",
       "c": " He broke into the bread shop before our very eyes    ",
       "d": "He went quickly to the shop for some bread."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence. ",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 450,
+    "question": "In all ramifications, Chief Adeyemi was a successful principal of the school",
+    "option": {
+      "a": "He was partly a failure and partly a success    ",
+      "b": "Everyone admitted that he was largely successful during his tenure ",
+      "c": "He was not totally successful in the school  ",
+      "d": "His tenure witnessed a huge success "
     },
     "section": "select the option that best explains the information conveyed in the sentence. ",
     "image": "",

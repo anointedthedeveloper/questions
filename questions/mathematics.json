@@ -2528,6 +2528,7 @@
     "examyear": "2007"
   },
   {
+<<<<<<< Updated upstream
     "id": 430,
     "question": "In how many ways can 6 subjects be selected from 10 subjects for an examination",
     "option": {
@@ -2583,11 +2584,24 @@
       "b": "3.13",
       "c": " 0.313",
       "d": "3.12"
+=======
+    "id": 433,
+    "question": "Find the value of x for which the function f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x + 4 has a maximum value",
+    "option": {
+      "a": " 2/3",
+      "b": "1",
+      "c": " - 2/3",
+      "d": " - 1"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "b",
+<<<<<<< Updated upstream
     "solution": "((0.5652<sup>2</sup>-(0.4375)<sup>2</sup>)/0.04  ((0.5625+0.4375)(0.5625-0.4375))/0.04  (1.000×0.125)/0.04=3.125=3.13",
+=======
+    "solution": "f(x) = 2x<sup>3</sup> - x<sup>2</sup> - 4x – 4\nf’(x) = 6x<sup>2</sup> - 2x – 4\nAs f’(x) = 0\nImplies 6x<sup>2</sup> - 2x – 4 = 0\n3x – x – 2 = 0 (By dividing by 2)\n(3x – 2)(x + 1) = 0\n3x – 2 = 0 implies x = -2/3\nOr x + 1 = 0 implies x = -1\nf’(x) = 6x<sup>2</sup> - 2x – 4\nf’’(x) = 12x – 2\nAt max point f’’(x) < 0\n∴f’’(x) = 12x – 2 at x = -1\n= 12(-1) – 2\n= -12 – 2 = -14\n∴Max at x = 1",
+>>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -3392,6 +3406,7 @@
     "examyear": "2009"
   },
   {
+<<<<<<< Updated upstream
     "id": 564,
     "question": "In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included?",
     "option": {
@@ -3436,6 +3451,20 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547388/ALOC-Questions/Mathematics/2009/MATH_2009_Q45_SOLUTION_a2kkcx.jpg",
     "answer": "a",
     "solution": "Total number of students = 20                       \nP(passing) =12/20\n=3/5",
+=======
+    "id": 568,
+    "question": "The histogram above represents the number of candidates that sat for Mathematics examination in a school. How many candidate scored more than 50 marks?",
+    "option": {
+      "a": " 80",
+      "b": "95",
+      "c": "100",
+      "d": "115"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547431/ALOC-Questions/Mathematics/2009/JAMB_MATH_2009_Q47_kmqtw2.jpg",
+    "answer": "b",
+    "solution": "",
+>>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -6448,6 +6477,7 @@
     "examyear": "2022"
   },
   {
+<<<<<<< Updated upstream
     "id": 1117,
     "question": "A poultry farmer realized 200 eggs from his birds and sold 5(1/2) crates of eggs. What percentages of eggs are left?",
     "option": {
@@ -6460,6 +6490,20 @@
     "image": "",
     "answer": "c",
     "solution": "5 crates = 30 eggs * 5 = 150eggs\n\n1/2 crate = 15 eggs\n\nTotal sold = 165\n\nremainder = 200 - 165 = 35\n\nAnd 35 is equivalent 17.5% of the realized eggs ",
+=======
+    "id": 1115,
+    "question": "The locus of points equidistant from a fixed point.",
+    "option": {
+      "a": "circle",
+      "b": "perpendicular lines",
+      "c": " straight line",
+      "d": " bisector"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Definition of a circle",
+>>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -6528,6 +6572,7 @@
     "examyear": "2022"
   },
   {
+<<<<<<< Updated upstream
     "id": 1128,
     "question": "Let (*) be a binary operation on a natural number defined by a * b = a - b + (ab)<sup>2</sup>, then find 3 * 5",
     "option": {
@@ -6551,10 +6596,20 @@
       "b": "1",
       "c": "2",
       "d": "3"
+=======
+    "id": 1131,
+    "question": "Find x if the mean of 2x, 4x, 2x - 13 and 6x is 4.",
+    "option": {
+      "a": "1.5",
+      "b": "2.0",
+      "c": "1.0",
+      "d": " 0.5"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "b",
+<<<<<<< Updated upstream
     "solution": "y = 1/x; y = k/x\nk =xy → 3 * 4 = 12\n\nx = k/y\n \n\nx = 12/12 = 1",
     "examtype": "utme",
     "examyear": "2022"
@@ -6572,6 +6627,9 @@
     "image": "",
     "answer": "d",
     "solution": "The common difference is 6.\n\nJust add 6 to get the next term\n\n8, 14, 20 and 26",
+=======
+    "solution": "mean (4) =  2x+4x+2x−13+6x/4                                                           16 = 14x - 13\n\n16 + 13 = 14x\n\nx = 29/14 or 2.07",
+>>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -7036,6 +7094,22 @@
     "image": "",
     "answer": "b",
     "solution": "If log 7.5 = 0.8751\nThen 2log75 + log750\n= 2(1.8751) + 2.8751\n= 3.7502 + 2.8751\n= 6.6253",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1196,
+    "question": "If gt<sup>2</sup> - k - w = 0, make g the subject of the formula",
+    "option": {
+      "a": "k+w/t<sup>2</sup>",
+      "b": "k-w/t<sup>2</sup>",
+      "c": "k+w/t",
+      "d": "k-w/t"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "gt<sup>2</sup> - k - w = 0\n\ngt<sup>2</sup> = k + w\n\ng = k + w/t<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2014"
   },

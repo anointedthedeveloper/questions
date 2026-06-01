@@ -9984,6 +9984,22 @@
     "examyear": "2005"
   },
   {
+    "id": 685,
+    "question": "If the system above is in equilibrium, the tension in the string Q is",
+    "option": {
+      "a": "11N",
+      "b": " 9N",
+      "c": "4N",
+      "d": "6N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296718/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_36_c6g0fp.png",
+    "answer": "b",
+    "solution": "\nStep 1: Analyze forces on bottom block (5N)\nString R pulls upward on the 5N block.\nFor equilibrium:\nR = 5N\nStep 2: Analyze forces on middle block (4N)\nForces acting on middle block:\n\nWeight downward: 4N\nString Q pulling upward: Q\nString R pulling downward: R = 5N\n\nFor equilibrium:\nQ = 4N + R\nQ = 4 + 5\nQ = 9N",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 686,
     "question": "In the figure above, the work done by the force of 100N inclined at an angle of 60° to the object dragged horizontally to a distance of 8m is",
     "option": {
@@ -12156,6 +12172,22 @@
     "image": "",
     "answer": "b",
     "solution": "\nGiven information:\n\nFocal length (f) = +12 cm (positive for convex lens)\nMagnification (m) = -4 (negative because real images are inverted)\nObject distance (u) = ?\n\nStep 1: Use magnification formula\nm = v/u\n-4 = v/u\nv = -4u\n(Note: v is negative for real images in sign convention where object distance is negative)\nActually, using the proper sign convention where object is on left:\n\nu = -|u| (negative, object on left)\nv = +|v| (positive, real image on right)\nm = -v/u = -4\n\nSo: -v/u = -4\nv = 4u (in magnitude)\nStep 2: Use lens formula\n1/f = 1/v - 1/u\nUsing sign convention (u negative, v positive, f positive):\n1/12 = 1/v - 1/(-u)\n1/12 = 1/v + 1/u\nSince v = 4u:\n1/12 = 1/(4u) + 1/u\n1/12 = 1/(4u) + 4/(4u)\n1/12 = 5/(4u)\n4u = 60\nu = 15 cm",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 845,
+    "question": "Find the effective resistance in the diagram above",
+    "option": {
+      "a": "6 Ω",
+      "b": "12 Ω",
+      "c": "18 Ω",
+      "d": "24 Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432627/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_46_evqu3p.png",
+    "answer": "d",
+    "solution": "The resistors are in series\n∴ Reff = R1 + R2 + .....\n= 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω",
     "examtype": "utme",
     "examyear": "2008"
   },

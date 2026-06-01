@@ -928,6 +928,22 @@
     "examyear": "2002"
   },
   {
+    "id": 222,
+    "question": "Evaluate log<sub>√2</sub>4 + log1/2 16 − log<sub>4</sub>32",
+    "option": {
+      "a": "-5.5",
+      "b": "-2.5",
+      "c": "2.5",
+      "d": "5.5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Note that if we set log<sub>(√2)</sub>4 = x<sub>1</sub>, solving gives x<sub>1</sub> =4 if log <sub>1/2</sub>16= x<sub>2</sub>, ⇒ x<sub>2</sub> = −4 Also for log<sub>4</sub> 32= x<sub>3</sub> =2.5 Combining results, x<sub>1</sub> + x<sub>2</sub> +x<sub>3 </sub> = 4+ (−4) −2.5 = −2.5\n\nNote that the solution has been separated to simplify solving difficulty due to different bases.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 230,
     "question": "If 9<sup>2x−1</sup>/27<sup>x+1</sup> = 1\n, find the value of x.",
     "option": {
@@ -1360,6 +1376,22 @@
     "examyear": "2005"
   },
   {
+    "id": 333,
+    "question": "The time taken to do a piece of work is inversely proportional to the number of men employed. If it takes 30 men to do a piece of work in 6 days, how many men are required to do the work in 4 days?",
+    "option": {
+      "a": "20",
+      "b": "35",
+      "c": "45",
+      "d": "60"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "t = time taken and N = number of men\nt ∝ 1/N\nt = K/N\nK = Nt\nK = 30 * 6\nK = 180\n∴t = 180/N\n4 = 180/N\n4N = 180\nN = 180/4\n45 men",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 334,
     "question": "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 4(2/3) and L = 54, find d in terms of W and L.",
     "option": {
@@ -1564,6 +1596,22 @@
     "image": "",
     "answer": "b",
     "solution": "dy/dx = 2x + 7\ny = ∫2x + 7\ny = x2 + 7x + C at (2,0)\n0 = 22 + 7(2) + C\n0 = 4 + 14 + C\n0 = 18 + C\nC = -18\n∴ The equation is y = x<sup>2</sup> + 7x - 18",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 388,
+    "question": "Calculate the logarithm to base 9 of 3<sup>-4</sup> * 9<sup>2</sup> * (81)<sup>-1</sup>",
+    "option": {
+      "a": "2",
+      "b": "0",
+      "c": " -2",
+      "d": "-4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -1856,6 +1904,22 @@
     "examyear": "2007"
   },
   {
+    "id": 459,
+    "question": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus of P",
+    "option": {
+      "a": "It is a semi circle with ST as diameter",
+      "b": " It is a perpendicular bisector of St",
+      "c": "It is a quadrant of a circle with ST as diameter",
+      "d": "It is a straight line perpendicular to ST"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 460,
     "question": "If the lines 2y - kx + 2 = 0 and y + x - k/2 = 0 Intersect at (1, -2), find the value of k",
     "option": {
@@ -1980,6 +2044,22 @@
     "image": "",
     "answer": "a",
     "solution": "L=4/3 M√PQ=3/4M×L=√PQ=〖(3L/4M)〗<sup>2</sup>=(√PQ )<sup>2</sup>=(9L<sup>2</sup>)/(16M<sup>2</sup> )=PQ=Q=(9L<sup>2</sup>)/(16M<sup>2</sup> P)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 486,
+    "question": "If x - 3 is directly proportional to the square of y and x = 5 when y =2, find x when y = 6.",
+    "option": {
+      "a": "30",
+      "b": "21",
+      "c": "16",
+      "d": "12"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(x – 3) ∝ y<sup>2</sup>\nX-3 = Ky<sup>2</sup>\nK = X-3 / y<sup>2</sup>\n= 5-2/2<sup>2</sup>\n= 2/4\n= 1/2\n∴X-3 = 1/2y<sup>2</sup>\nX-3 = 1/2 (6)<sup>2</sup>\nX-3 = 1/2 x 36/1\nX-3 = 18\nX = 21",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -2444,6 +2524,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128511/ALOC-Questions/Mathematics/2010/MATH_2010_Q20_odkimk.jpg",
     "answer": "d",
     "solution": "Mean=∑fx∑f\n= 66/20\n= 3.3",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 602,
+    "question": "Solve for x and y if x - y = 2 and x<sup>2</sup>  - y<sup>2</sup>  = 8",
+    "option": {
+      "a": " (-1, 3)",
+      "b": "(3, 1)",
+      "c": " (-3, 1)",
+      "d": "(1, 3)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x - y = 2 ...........(1)\n\nx2 - y2 = 8 ........... (2)\n\nx - 2 = y ............ (3)\n\nPut y = x -2 in (2)\n\nx2 - (x - 2)2 = 8\n\nx2 - (x2 - 4x + 4) = 8\n\nx2 - x2 + 4x - 4 = 8\n\n4x = 8 + 4 = 12\n\nx = 12/4\n\n= 3\n\nfrom (3), y = 3 - 2 = 1\n\ntherefore, x = 3, y = 1",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -3664,6 +3760,22 @@
     "examyear": "2018"
   },
   {
+    "id": 960,
+    "question": "The figure above is a Venn diagram showing the elements arranged within sets A,B,C,ε.\nUse the figure to answer this question\n\nWhat is n(A U B)1 ?",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006518/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q42_jtocji.jpg",
+    "answer": "c",
+    "solution": "A = (p, q, r, t, u, v)\n\nB = (r, s, t, u)\n\nA U B = Elements in both A and B = (p, q, r, s, t, u, v)\n\n(A U B)1 = elements in the universal set E but not in (A U B)= (w, x, y, z)\n\nn(A U B) 1 = number of the elements in (A U B)1 = 4",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 961,
     "question": "What is the loci of a distance 4cm from a given point P?",
     "option": {
@@ -4636,6 +4748,22 @@
     "image": "",
     "answer": "c",
     "solution": "Let p(x)=−2x<sup>3</sup> + 6x<sup>2</sup> + 17x − 21\n\n\nUsing the remainder theorem\n\nLet x + 1 = 0\n\n\n∴ x = −1\n\n\nSince, (x+1) divides p(x), then, remainder will be p(-1)\n\n⇒ p(-1) = -2(-1)<sup>3</sup> +6(−1)<sup>2</sup>  + 17(-1) - 21\n\n∴ p(-1) = -30",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1173,
+    "question": "Solve the following quadratic inequality: x<sup>2</sup> − x - 4 ≤ 2",
+    "option": {
+      "a": "−3 < x < 2",
+      "b": "−2 ≤ x ≤ 3",
+      "c": "x ≤ −2, x ≤ 3",
+      "d": " −2 < x < 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x<sup>2</sup> − x − 4 ≤ 2\n\nSubtract two from both sides to rewrite it in the quadratic standard form:\n= x<sup>2</sup> − x −4 −2 ≤ 2 −2\n\n= x<sup>2</sup> − x − 6 ≤ 0\n\nNow set it = 0 and factor and solve like normal.\n= x<sup>2</sup> − x - 6 =0\n= (x − 3)(x + 2) = 0\nx + 2 = 0 or x - 3 = 0\nx = -2 or x = 3\nSo the two zeros are -2 and 3, and will mark the boundaries of our answer interval. To find out if the interval is between -2 and 3, or on either side, we simply take a test point between -2 and 3 (for instance, x = 0) and evaluate the original inequality.\n= x<sup>2</sup> − x − 4 ≤ 2\n\n= (0)<sup>2</sup> − (0) − 4 ≤ 2\n\n= 0 − 0 − 4 ≤ 2\n\n−4 ≤ 2\n\nSince the above is a true statement, we know that the solution interval is between -2 and 3, the same region where we picked our test point. Since the original inequality was less than or equal, we include the endpoints.\n∴ −2 ≤ x ≤ 3.",
     "examtype": "utme",
     "examyear": "2023"
   },

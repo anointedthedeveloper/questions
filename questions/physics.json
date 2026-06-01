@@ -1424,6 +1424,22 @@
     "examyear": "2018"
   },
   {
+    "id": 290,
+    "question": "What type of reaction is represented by the following scheme?\n²¹X + ²¹Y → ³²Z + ¹⁰n + energy",
+    "option": {
+      "a": "Fusion reaction",
+      "b": "Fission reaction",
+      "c": "Chain reaction",
+      "d": " Radioactive decay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Analyzing the reaction:\nReactants:\n\nTwo light nuclei: ²¹X and ²¹Y\n\nProducts:\n\nOne heavier nucleus: ³²Z\nNeutrons: ¹⁰n\nEnergy released\n\nCharacteristics observed:\n\nTwo lighter nuclei combine to form a heavier nucleus\nEnergy is released\nMass numbers: 21 + 21 ≈ 32 + 10 (conserved)\n\nThis is a fusion reaction where two light nuclei (²¹X and ²¹Y) combine to form a heavier nucleus (³²Z) with the release of neutrons and energy.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 291,
     "question": "The amount of heat needed to raise the temperature of 10kg of Copper by 1K is its",
     "option": {
@@ -2304,6 +2320,22 @@
     "examyear": "2022"
   },
   {
+    "id": 487,
+    "question": "In order to view the sun, the most suitable instrument to use is?",
+    "option": {
+      "a": "helioscope",
+      "b": "telescope",
+      "c": " stroboscope",
+      "d": " sun meter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A helioscope is specifically designed for safe solar observation with appropriate filters and protective features. Direct viewing of the sun with ordinary telescopes or other instruments can cause severe eye damage or blindness.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 489,
     "question": "The gravitational pull on the moon is 1/6 that of the earth. If a body weighs 6.0 N on the moon, what will be the weight on the earth?",
     "option": {
@@ -2864,6 +2896,22 @@
     "examyear": "2004"
   },
   {
+    "id": 608,
+    "question": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance X_L and X_C respectively are related as",
+    "option": {
+      "a": "X_L = X_C",
+      "b": "X_L = ½X_C",
+      "c": "X_L = 1/X_C",
+      "d": "X_L = 2X_C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nRLC series circuit at resonance\n\nSolution:\nKey formulas:\nInductive reactance: XL = ωL = 2πfL\nCapacitive reactance: XC = 1/(ωC) = 1/(2πfC)\nResonance condition:\nAt resonance in an RLC series circuit, the impedance is minimum and purely resistive.\nThis occurs when the inductive and capacitive reactances cancel each other:\nXL = XC\nStep 1: Mathematical proof\nAt resonance frequency f₀:\n2πf₀L = 1/(2πf₀C)\nThis confirms: XL = XC\nStep 2: Physical interpretation\nWhen XL = XC:\n\nInductive and capacitive effects cancel\nTotal impedance Z = R (minimum)\nCurrent is maximum\nCircuit is in resonance",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 621,
     "question": "If the angle between two vectors P and Q is 0°, the vectors are said to",
     "option": {
@@ -2956,6 +3004,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nFar point of the person = 200 cm\nDesired object distance = infinity\n\nStep 1: Identify the defect\nThe inability to see distant objects clearly indicates myopia (nearsightedness).\n\nStep 2: Principle of correction\nA corrective lens must form a virtual image of an object at infinity at the person’s far point (200 cm), so the eye can focus it.\n\nStep 3: Apply lens formula\nUsing the lens formula:\n1/f = 1/v - 1/u\nWhere:\nObject distance, u = infinity\nImage distance, v = -200 cm (virtual image, same side as object)\n1/f = 1/(-200) - 1/infinity = -1/200\nf = -200 cm\nNegative focal length indicates a diverging (concave) lens.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 636,
+    "question": "If u is the object distance and v the image distance, which of the following expressions gives the linear magnification produced by a convex lens of focal length f?",
+    "option": {
+      "a": "u/f - f",
+      "b": "u/v + f",
+      "c": "v/f + 1",
+      "d": "v/f - 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nObject distance = u\nImage distance = v\nFocal length = f (positive for convex lens)\n\nStep 1: Lens formula (real-is-positive convention)\n1/f = 1/u + 1/v\n\nStep 2: Relate magnification to v and f\nMagnification m = v/u\nFrom the lens formula:\n1/f = 1/u + 1/v\nMultiply both sides by v:\nv/f = v/u + 1\nv/f = m + 1\n\nStep 3: Solve for m\nm = v/f - 1",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4028,6 +4092,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nInitial number of atoms, N₀ = 10²⁰\nHalf‑life, T = 20 s\n\nSolution:\n\nStep 1: Calculate decay constant\nλ = ln 2 / T = 0.693 / 20 = 0.03465 s⁻¹\n\nStep 2: Initial activity\nActivity A₀ = λ N₀ = 0.03465 × 10²⁰ = 3.465 × 10¹⁸ s⁻¹\n\nStep 3: Number of disintegrations in first second\nSince the time interval (1 s) is much smaller than the half‑life, the activity remains nearly constant. Thus, the number of disintegrations ≈ A₀ × 1 s = 3.465 × 10¹⁸.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 893,
+    "question": "If a light wave has a wavelength of 500nm in air, what is the frequency of the wave? [c = 3 × 10⁸ ms⁻¹]",
+    "option": {
+      "a": " 3.0 × 10¹⁴ Hz",
+      "b": "6.0 × 10¹⁴ Hz",
+      "c": "6.0 × 10¹² Hz",
+      "d": "2.5 × 10¹⁴ Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nWavelength (λ) = 500 nm = 500 × 10⁻⁹ m = 5 × 10⁻⁷ m\nSpeed of light (c) = 3 × 10⁸ m/s\nFrequency (f) = ?\n\nFormula for wave equation:\nc = fλ\nRearranging for frequency:\nf = c/λ\nSubstituting values:\nf = (3 × 10⁸)/(5 × 10⁻⁷)\nf = (3/5) × 10⁸⁺⁷\nf = 0.6 × 10¹⁵\nf = 6.0 × 10¹⁴ Hz",
     "examtype": "utme",
     "examyear": "2009"
   },

@@ -208,6 +208,22 @@
     "examyear": "2016"
   },
   {
+    "id": 180,
+    "question": "In a partnership goodwill is recognized when",
+    "option": {
+      "a": "a new partner is admitted",
+      "b": "a partner is dormant",
+      "c": "the business is making huge profit",
+      "d": "the business has good customer relations"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 209,
     "question": "The amount of goodwill was",
     "option": {
@@ -944,6 +960,22 @@
     "examyear": "2018"
   },
   {
+    "id": 728,
+    "question": "Retained profits is an example of",
+    "option": {
+      "a": " Revenue reserve",
+      "b": " Capital reserves",
+      "c": "General reserves",
+      "d": "Loan capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Retained profit is part of the part of the profits of an organization not distributed as dividends but ploughed back into the business for expansion.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 731,
     "question": "Based on the Receipts and Payment Account extract showing: balance brought forward ₦3,650, subscription ₦7,500 less ₦2,000 equals ₦1,000, fees ₦8,500, insurance ₦900, rate ₦11,700, and balance carried down ₦8,050, with totals of ₦20,650 on both sides, and given the following additional information as at 1st January 1999 and 31st December 1999 respectively: rates owing ₦3,600 and ₦2,000, insurance prepaid ₦50 and ₦1,000, subscription in arrears ₦700 and ₦600, calculate the subscriptions in the Income and Expenditure Account.",
     "option": {
@@ -956,6 +988,22 @@
     "image": "",
     "answer": "b",
     "solution": "Subscriptions in Income and Expenditure Account = Cash received + Closing arrears - Opening arrears\nFrom the Receipts and Payment Account:\n\nCash received for subscriptions = ₦7,500\n\nFrom the additional information:\n\nOpening subscription in arrears (1/1/99) = ₦700\nClosing subscription in arrears (31/12/99) = ₦600\n\nCalculation:\nSubscriptions = ₦7,500 + ₦600 - ₦700 = ₦7,400\nTherefore, the subscriptions in the Income and Expenditure Account is ₦7,400.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 741,
+    "question": "Goods can be charged to branches using any of these pricing methods except",
+    "option": {
+      "a": " cost price",
+      "b": "cost plus percentage",
+      "c": " selling price",
+      "d": " selling plus percentage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "There are three different pricing methods which are used for charging goods to branches.\nThey are:\n1. At cost price\n2. At cost plus a percentage\n3. At selling price.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -2156,6 +2204,22 @@
     "image": "",
     "answer": "a",
     "solution": "Discount allowed is a reduction granted to customers for early payment. It:\n\nReduces the amount receivable from debtors (hence reduces the balance of the sales ledger control account).\n\nIt does not increase net profit (it actually reduces it),\n\nIt does not affect the value of sales,\n\nIt has nothing to do with purchases",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1449,
+    "question": "Accumulated fund on 1st January 1993 is",
+    "option": {
+      "a": "₦7,470",
+      "b": "₦8,470",
+      "c": "₦7,850",
+      "d": "₦7,520"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756671991/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q34-35_xtycy4.jpg",
+    "answer": "a",
+    "solution": "To calculate the Accumulated Fund on 1st January 1993, we prepare a Statement of Affairs using the opening balances (assets – liabilities).\n\nStep 1: Identify assets on 1/1/93\nCash/Bank balance (from Receipts & Payments b/d) = ₦720\n\nSubscriptions in arrears = ₦300\n\nFurniture = ₦7,000\n\nTotal Assets = ₦720 + ₦300 + ₦7,000 = ₦8,020\n\nStep 2: Identify liabilities on 1/1/93\nSubscriptions received in advance = ₦500\n\nRate owing = ₦50\n\nTotal Liabilities = ₦500 + ₦50 = ₦550\n\nStep 3: Accumulated Fund\n\nAccumulated Fund = Total Assets − Total Liabilities\nAccumulated Fund = ₦8,020 − ₦550 =₦7,470",
     "examtype": "utme",
     "examyear": "1997"
   },

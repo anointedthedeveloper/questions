@@ -15888,6 +15888,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1096,
+    "question": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+    "option": {
+      "a": "25",
+      "b": "19",
+      "c": "18",
+      "d": "17"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Let the three items be M, Y and P.\nn{M ∩ Y} only = 4-3 = 1\nn{M ∩ P) only = 5-3 = 2\nn{ Y ∩ P} only = 2\nn{M} only = 12-(1+3+2) = 6\nn{Y} only = 10-(1+2+3) = 4\nn{P} only = 14-(2+3+2) = 7\nn{M∩P∩Y} = 3\nNumber of women in the group = 6+4+7+(1+2+2+3) as above =25 women.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1097,
     "question": "If (x + 2) and (x - 1) are factors of the expression Lx+2kx<sup>2</sup>+24\n, find the values of L and k.",
     "option": {

@@ -3632,6 +3632,22 @@
     "examyear": "2016"
   },
   {
+    "id": 610,
+    "question": "The income and expenditure account differs from receipts and payments account because it",
+    "option": {
+      "a": "accounts for notional charges",
+      "b": "records transactions that relate to the period on cash basis",
+      "c": "records transactions that relate to the period on accrual basis",
+      "d": "accounts for balance of cash at bank"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 611,
     "question": "A business has the following information for a particular period:\nCreditors had an opening balance of ₦3,000 and a closing balance of ₦4,000. Debtors had a closing balance of ₦6,000 but the opening balance is not given. During the period, cash received from debtors was ₦35,000, cash paid to suppliers was ₦25,000, discount allowed to customers was ₦4,000, and discount received from suppliers was ₦4,200.\nWhat is the total sales for the period?",
     "option": {
@@ -4800,6 +4816,22 @@
     "examyear": "2020"
   },
   {
+    "id": 767,
+    "question": "In preparing accounting records, the owners of a business and the business are treated as",
+    "option": {
+      "a": "separate legal entities",
+      "b": "partners",
+      "c": "the same person",
+      "d": "having business relationship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Under the business entity (or separate entity) concept, the affairs of the owners and those of the business are kept completely distinct. Personal transactions of the owners are not recorded in the business’s books, and only business‑related transactions appear in the accounting records.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 768,
     "question": "Given the following list of balances: bank account ₦59,410, capital account ₦50,000, purchases account ₦20,000, rent ₦2,500, stationery ₦90, typewriter ₦6,500, and sales ₦38,500, in preparing a trial balance from this list of balances, what is the total in debit and credit columns?",
     "option": {
@@ -5084,6 +5116,22 @@
     "image": "",
     "answer": "c",
     "solution": "The depreciation to be charged to Department B can be calculated in two ways:\nMethod 1 - By difference:\nTotal depreciation - Department A's depreciation = ₦1,000 - ₦600 = ₦400\nMethod 2 - By proportion:\nDepartment B's share = 40% of ₦1,000 = ₦400",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 820,
+    "question": "Use the information below to answer this question\n\nA company advertised and issued 750,000, 12% preference shares of N1 each to be issued ₦1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on prorata basis.\n\nThe share premium account would be",
+    "option": {
+      "a": "credited with application and allotment ₦187,500",
+      "b": "debited with application and allotment ₦375,000",
+      "c": "debited with application and allotment ₦187,500",
+      "d": " credited with application and allotment ₦375,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Solution (linear):\nTotal shares issued = 750,000\nIssue price per share = ₦1.50 (₦1 ordinary + ₦0.50 premium)\nTotal share premium = 750,000 × ₦0.50 = ₦375,000\n\nSince the entire premium is called up (on allotment) and fully received, the Share Premium Account is credited with ₦375,000.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -8268,6 +8316,22 @@
     "image": "",
     "answer": "b",
     "solution": "When a partner contributes assets to a partnership, the assets should be recorded at their agreed valuation, not their original cost or book value.\nGiven information:\n\nOriginal cost of equipment: ₦20,000\nAccumulated depreciation: ₦12,500\nBook value: ₦20,000 - ₦12,500 = ₦7,500\nAgreed valuation by partners: ₦9,000\n\nKey principle:\nIn partnership accounting, contributed assets are recorded at their fair value as agreed by the partners, regardless of the contributor's original cost or book value.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1349,
+    "question": "The market price per ordinary share of a corporation listed on the stock exchange is most closely related to its?",
+    "option": {
+      "a": "earning per share",
+      "b": "redemption price per share",
+      "c": "book value per share",
+      "d": "call price per share"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The market price per ordinary share of a corporation is most closely tied to its Earnings Per Share (EPS) because:\n\nEPS indicates the company’s profitability on a per-share basis.\n\nInvestors and analysts use EPS as a key metric to assess how much profit a company is generating for each share owned.\n\nThe Price/Earnings (P/E) ratio, which is calculated using market price divided by EPS, is a fundamental tool used in stock valuation.",
     "examtype": "utme",
     "examyear": "1999"
   },

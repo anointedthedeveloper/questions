@@ -2208,6 +2208,22 @@
     "examyear": "3"
   },
   {
+    "id": 183,
+    "question": "Which of these is insurable?",
+    "option": {
+      "a": "Fire",
+      "b": "Inflation",
+      "c": "Bad publicity",
+      "d": "Riot and war"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 184,
     "question": "The principle that requires all material facts to be disclosed is known as",
     "option": {
@@ -2379,6 +2395,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 197,
+    "question": "Person who makes claim is called",
+    "option": {
+      "a": "Claimant",
+      "b": "Client",
+      "c": "Insured",
+      "d": "Insurer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "3"
@@ -3371,6 +3403,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 273,
+    "question": "A residential building built beside a petrol filling station is described as a",
+    "option": {
+      "a": "risk",
+      "b": "hazard",
+      "c": "peril",
+      "d": "liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "5"

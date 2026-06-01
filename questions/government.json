@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 30,
+    "question": "All but one of these is not a tactic adopted by pressure groups in the pursuit of their objectives ",
+    "option": {
+      "a": "propaganda ",
+      "b": "lobbying ",
+      "c": "assault ",
+      "d": "boycott"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 45,
     "question": "The amalgamation of the northern and southern protectorates and the colony of Lagos was in",
     "option": {
@@ -576,6 +592,22 @@
     "examyear": "2013"
   },
   {
+    "id": 307,
+    "question": "Which of the following is NOT a feature of the civil service?",
+    "option": {
+      "a": "Anonymity",
+      "b": "Expertise",
+      "c": "Impartiality",
+      "d": "Rigidity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 316,
     "question": "The separation of judicial, legislative and executive function is designed to",
     "option": {
@@ -1019,6 +1051,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 640,
+    "question": "Residual powers under the Nigerian independence constitution were the powers exercised by",
+    "option": {
+      "a": "the Federal Government",
+      "b": "the Regional Governments",
+      "c": "the Local Government",
+      "d": "both the Federal and Regional Governments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -1712,6 +1760,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1006,
+    "question": "Which of the following is a function of the Public Complaints Commission?",
+    "option": {
+      "a": "Managing public transportation",
+      "b": "Enforcing criminal laws",
+      "c": "Conducting investigations and enquiries",
+      "d": "Implementing foreign policies"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Public commissions are responsible for conducting investigations and enquiries. They are established to investigate matters of public concern and to make recommendations based on their findings. They do not implement foreign policies, enforce criminal laws, or manage public transportation.\n",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1023,
     "question": "Which political party was known for its socialist ideology and populist policies in the 1980s?",
     "option": {
@@ -1952,6 +2016,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1136,
+    "question": "The first Nigerian Permanent Representative to the United Nations was",
+    "option": {
+      "a": "Alhaji Yusuf Maitama Sule",
+      "b": "General Joseph Garba",
+      "c": "Professor Ibrahim Gambari",
+      "d": "Chief Simeon Adebo"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Among the four listed options, Chief Simeon Adebo served earliest as Nigeria’s Permanent Representative to the United Nations. He held this position from 1962 to 1967, which is before the tenures of Alhaji Yusuf Maitama Sule (1979–1983), General Joseph Garba (1984–1989), and Professor Ibrahim Gambari (1990–1999).\n\nAlthough Jaja Wachuku (1960–1961) and Muhammad Ngileruma (1961–1962) served before Adebo, they are not among the answer choices, making Chief Adebo the first among the listed options.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1147,
     "question": "Communism is a system which recognizes",
     "option": {
@@ -1996,6 +2076,22 @@
     "image": "",
     "answer": "d",
     "solution": "The abolition of the state ministries of local governments in 1989 entails that local governments are no longer subordinate to state governments.\n\nPreviously local governments in Nigeria were under the ministry of government. This means that all their activities were controlled by the ministries of Local Government. With this new development the local government is now a full fledged third tier of government. They can now take actions on any issue without reference to the ministry of local government.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1182,
+    "question": "The United Nations charter is an instrument that",
+    "option": {
+      "a": "sets out the rights and obligations of member states",
+      "b": "provides for funding of memeber states",
+      "c": "facilitates the resolution of disputes among member states",
+      "d": "determines the admission of member states"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The United Nations charter is an instrument that sets out the rights and obligations of member states.\n\nIt should be recalled that one of the aims and objectives of U.N.O is to promote respect for Fundamental Human Rights among Nations.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -2208,6 +2304,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1272,
+    "question": "The law of libel limits a citizen's right to freedom of",
+    "option": {
+      "a": "movement",
+      "b": "association",
+      "c": "expression",
+      "d": "worship"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The law of libel limits a citizen's right to freedom of expression.\n\nOthers are the laws of slander and sedition",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1278,
     "question": "The agent through which the state undertakes political socialization is the",
     "option": {
@@ -2220,6 +2332,22 @@
     "image": "",
     "answer": "d",
     "solution": "The school is the primary agent through which the state deliberately undertakes political socialization. As a state-controlled institution, schools systematically teach civic values, national history, and governance structures via curricula, textbooks, and activities like assemblies or patriotic events. For example, subjects like civics education or national pledge recitations directly instill loyalty to the state and its political norms.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1284,
+    "question": "One of the sources of a constitution is",
+    "option": {
+      "a": "common law",
+      "b": "corporate law",
+      "c": "statutory law",
+      "d": "constitutional law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "One of the sources of a constitution is common law, which consists of legal principles developed through judicial decisions and precedents over time. Many modern constitutions, including Nigeria’s, draw from common law traditions, especially in areas where statutes do not provide clear guidance.",
     "examtype": "utme",
     "examyear": "2004"
   },

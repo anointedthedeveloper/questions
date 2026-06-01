@@ -128,6 +128,22 @@
     "examyear": "2013"
   },
   {
+    "id": 75,
+    "question": " Impersonal accounts contain ",
+    "option": {
+      "a": "capital and cash account ",
+      "b": "nominal account and real account ",
+      "c": " real and cash account ",
+      "d": "capital and real act minis "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 78,
     "question": "  Which of the following is not part of the main uses of the journal ",
     "option": {
@@ -624,6 +640,22 @@
     "examyear": "2015"
   },
   {
+    "id": 352,
+    "question": "Which of the following transactions will result in disagreement between the cash book and the bank statement?",
+    "option": {
+      "a": "Selling of goods on credit to a customer",
+      "b": "Withdrawal of goods by the proprietor for his personal use",
+      "c": "Cheque paid directly into the bank account by a customer",
+      "d": "Omission of purchases received from a supplier on credit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 368,
     "question": "When an asset is sold, the entries for the accumulated depreciation are: debit",
     "option": {
@@ -923,6 +955,38 @@
     "section": "Use the information to answer questions: I.Operating machine II. Furniture  III .Fixtures and fittings IV.  Loan from friends V. Creditors",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 485,
+    "question": "The standing order is a payment instruction given by a",
+    "option": {
+      "a": "customer to the bank",
+      "b": "bank to the customers",
+      "c": "bank to an employee",
+      "d": "customer to a fellow customer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 506,
+    "question": "In partnership account, conversion of non-cash assets into cash \t\tis referred to as",
+    "option": {
+      "a": "realization",
+      "b": "disposal",
+      "c": "dissolution",
+      "d": "revaluation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -1312,6 +1376,22 @@
     "examyear": "2017"
   },
   {
+    "id": 664,
+    "question": "Which type of cashbook entry involves recording the same amount on both the debit and credit sides to offset each other?",
+    "option": {
+      "a": "Contra entry",
+      "b": "Compound entry",
+      "c": "Transfer entry",
+      "d": "Journal entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A contra entry in the cashbook is used when the business moves money between its own cash and bank accounts—such as depositing cash into the bank or withdrawing cash from the bank",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 666,
     "question": "Advertising expenses incurred on a product in a business organization should be charged to",
     "option": {
@@ -1536,6 +1616,22 @@
     "examyear": "2019"
   },
   {
+    "id": 752,
+    "question": "Majority of commercial transactions are termed credit transactions, which means",
+    "option": {
+      "a": "The buyers pay immediately for goods bought",
+      "b": "Settlement is deferred to a future date",
+      "c": "No account will be opened",
+      "d": "Item of expenditure increases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In credit transactions, the transfer of ownership takes place before payment to the supplier i.e settlement is at a future safe.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 753,
     "question": "Bought motor vehicle ₦60 paying by cheque. The effect of the transaction will be",
     "option": {
@@ -1740,6 +1836,22 @@
     "image": "",
     "answer": "d",
     "solution": "The double‐entry system mandates that every financial transaction is recorded with equal debits and credits. This built‑in check ensures that, when all ledger balances are extracted and totaled, the debit column equals the credit column—providing mathematical accuracy in the trial balance.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 844,
+    "question": "The basic role of accounting is to?\n",
+    "option": {
+      "a": "detect fraud",
+      "b": "attest to financial statements",
+      "c": "measure performance",
+      "d": "protect shareholders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The basic role of accounting is to measure and communicate the financial performance and position of an entity. ",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -2128,6 +2240,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1031,
+    "question": "A piece of equipment costing ₦120,000 was purchased on 1/1/1996. Depreciation was provided at 20% per annum on a straight-line basis. it was sold on 30/6/1999 for ₦31,500.\n\nThe net book value of the piece of equipment at the time of sale was?",
+    "option": {
+      "a": "₦96 000",
+      "b": " ₦48 000",
+      "c": "₦36 000",
+      "d": "₦24 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Cost                     120,000\nLess: Accumulated depr.   84,000\n-------------------------------\nNet book value            36,000",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1035,
     "question": "If the assets and liabilities of a firm were valued at ₦17,200 and ₦5,120 respectively, the capital of the firm would be?",
     "option": {
@@ -2412,6 +2540,22 @@
     "image": "",
     "answer": "b",
     "solution": "In single-entry systems you don’t have a full set of books, so the first step is to prepare a statement of affairs (a makeshift balance sheet) to determine opening balances and the proprietor’s capital. From that you can make the opening double-entry journal entries to set up the ledger.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1151,
+    "question": "Emeka Enterprises Statement of Affairs at start\nAssets:\n\nCash: ₦70,000\nInventory: ₦58,000\nMachines: ₦100,000\n\nLiabilities:\n\nCreditors: ₦85,000\nBank Loan: ₦60,000\n\nWhat is the capital at start?",
+    "option": {
+      "a": "₦53000",
+      "b": "₦63000",
+      "c": "₦73000",
+      "d": "₦83000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Assets:\n\nCash: ₦70,000\nInventory: ₦58,000\nMachines: ₦100,000\nTotal Assets = ₦70,000 + ₦58,000 + ₦100,000 = ₦228,000\n\nLiabilities:\n\nCreditors: ₦85,000\nBank Loan: ₦60,000\nTotal Liabilities = ₦85,000 + ₦60,000 = ₦145,000\n\nCalculation:\nCapital at start = Total Assets - Total Liabilities\nCapital at start = ₦228,000 - ₦145,000 = ₦83,000",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -2716,6 +2860,22 @@
     "image": "",
     "answer": "b",
     "solution": "Degree of averaging, ease of traceability and timing of charges\n\nDegree of averaging:  Valid (actual vs. standard/average costs)\nEase of traceability:  Valid (direct vs. indirect costs)\nTiming of charges:  Valid (historical vs. predetermined costs)",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1339,
+    "question": "Lawal and co makes blocks and sell to builders.\nIn computing prime cost, which of the following costs would be considered appropriate?",
+    "option": {
+      "a": "Cement, sand and carriage outwards",
+      "b": "Water carriage inwards and cement",
+      "c": " Sales boys'wages, cement and sand",
+      "d": "Carriage outwards,carriage inwards and cement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The prime cost refers to all direct costs involved in the production of goods. This includes:\n\nDirect materials (e.g., cement, sand, water)\n\nDirect labor (e.g., workers making the blocks)\n\nDirect expenses (e.g., carriage inwards, which brings materials to the factory)",
     "examtype": "utme",
     "examyear": "1999"
   },

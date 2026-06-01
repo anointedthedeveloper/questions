@@ -1472,6 +1472,22 @@
     "examyear": "2003"
   },
   {
+    "id": 273,
+    "question": "Find the value of α<sup>2</sup> + β<sup>2</sup> if α + β = 2 and the distance between points (1, α) and (β, 1)is 3 units",
+    "option": {
+      "a": "14",
+      "b": "3",
+      "c": "5",
+      "d": "11"
+    },
+    "section": "Solution: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>P</mi>\n  <mi>Q</mi>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>1</mn>\n    <msup>\n      <mo stretchy=\"false\">)</mo>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <mo stretchy=\"false\">(</mo>\n    <mn>1</mn>\n    <mo>&#x2212;<!-- − --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <msup>\n      <mo stretchy=\"false\">)</mo>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>3</mn>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <mn>1</mn>\n    <mo>+</mo>\n    <mn>1</mn>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mo>+</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B1;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo stretchy=\"false\">)</mo>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>3</mn>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B1;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mo>+</mo>\n    <mn>2</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mo>+</mo>\n    <mn>2</mn>\n    <mo stretchy=\"false\">)</mo>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>3</mn>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B1;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <mo stretchy=\"false\">(</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mo>+</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mo stretchy=\"false\">)</mo>\n    <mo>+</mo>\n    <mn>2</mn>\n    <mo stretchy=\"false\">)</mo>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>3</mn>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B1;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <mo>&#x2217;<!-- ∗ --></mo>\n    <mn>2</mn>\n    <mo>+</mo>\n    <mn>2</mn>\n    <mo stretchy=\"false\">)</mo>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>3</mn>\n  <mo>=</mo>\n  <msqrt>\n    <mo stretchy=\"false\">(</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B1;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>+</mo>\n    <msup>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mo>&#x3B2;</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>2</mn>\n    <mo stretchy=\"false\">)</mo>\n  </msqrt>\n  <mspace linebreak=\"newline\" />\n  <mn>9</mn>\n  <mo>=</mo>\n  <mo stretchy=\"false\">(</mo>\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>2</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mspace linebreak=\"newline\" />\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>=</mo>\n  <mn>9</mn>\n  <mo>+</mo>\n  <mn>2</mn>\n  <mspace linebreak=\"newline\" />\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B1;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <msup>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x3B2;</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>=</mo>\n  <mn>11</mn>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "PQ = √((β−1)<sup>2</sup>+(1−α)<sup>2</sup>).  3=√((β<sup>2</sup>−2β<sup>2</sup>+1+1−2α+α<sup>2</sup>)).   3=√((α<sup>2</sup>+β<sup>2</sup>−2α+2β+2)).       3=√((α<sup>2</sup>+β<sup>2</sup>−2(α+β)+2)).     3=√((α<sup>2</sup>+β<sup>2</sup>−2∗2+2)). 3=√((α<sup>2</sup>+β<sup>2</sup>−2)).  9=(α<sup>2</sup>+β<sup>2</sup>−2).       α<sup>2</sup>+β<sup>2</sup>=9+2. α<sup>2</sup>+β<sup>2</sup>=11.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 275,
     "question": "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm 2, find the area of the trapezium PQRU",
     "option": {
@@ -3406,6 +3422,22 @@
     "solution": " the 36th percentile i.e. 36% of the total frequency of 50.\n\n36/100 × 50 = 18\n\n= From the graph, 18 on the vertical axis corresponds to28 on the horizontal axis.\n\n∴ P<sub>36</sub> = 28%",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 575,
+    "question": "In a survey of 50 newspaper readers, 40 read Champion and 30 read Guardian, how many read both papers?",
+    "option": {
+      "a": "10",
+      "b": "5",
+      "c": "15",
+      "d": "20"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128158/ALOC-Questions/Mathematics/2010/MATH_2010_Q4_SOLUTION_ufwdkl.jpg",
+    "answer": "d",
+    "solution": "Let C n G = X\nn C only = 40 - x\nn G only = 30 - x\n40 - X + 30 - X + X  = 50\n70 - X = 50\nX = 70 - 50\nX = 20",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 578,

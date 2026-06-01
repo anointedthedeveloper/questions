@@ -640,6 +640,22 @@
     "examyear": "2012"
   },
   {
+    "id": 265,
+    "question": "The process of entering transaction from one book to another is",
+    "option": {
+      "a": "reading.",
+      "b": "posting.",
+      "c": "numbering",
+      "d": "listing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 270,
     "question": "Osa started business with Le40,000 cash. The accounting entry is debit",
     "option": {
@@ -1259,6 +1275,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 501,
+    "question": "What is the accumulated fund?",
+    "option": {
+      "a": "23,700",
+      "b": "27,750",
+      "c": "29,650",
+      "d": "51,650"
+    },
+    "section": "Given: Furniture and fittings [N 20,000]  Equipment [N15,000] Bank overdrafts [ N6,500] Bar creditors [ N4,800 ] Subscription in arrears [ N4,700 ] Subscription in advance [ N650]",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -3072,6 +3104,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1060,
+    "question": "The capital employed is",
+    "option": {
+      "a": "₦13 000",
+      "b": "₦9 900",
+      "c": "₦8 400",
+      "d": "₦9 000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661640/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q46_epm0o4.jpg",
+    "answer": "d",
+    "solution": "Method 1: Owner's Equity approach\nCapital Employed = Capital + ₦et Profit - Drawings\nCapital Employed = ₦8,400 + ₦1,500 - ₦900\nCapital Employed = ₦9,000\nMethod 2: Total Assets - Current Liabilities\nTotal Assets = ₦4,500 + ₦3,400 + ₦2,800 + ₦2,200 + ₦100 = ₦13,000\nCurrent Liabilities = Creditors + Accruals = ₦2,500 + ₦1,500 = ₦4,000\nCapital Employed = ₦13,000 - ₦4,000 = ₦9,000",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1063,
     "question": "The current ratio is",
     "option": {
@@ -3854,6 +3902,22 @@
     "solution": "Local governments in Nigeria maintain Advances Accounts (for tracking loans and advances made to staff and other parties). They do not operate for profit (so no profit account), nor do they typically prepare a commercial-style debtors ledger. While they do prepare statements of assets and liabilities, it isn’t called a “Balance Sheet” in the corporate sense.",
     "examtype": "utme",
     "examyear": "1999"
+  },
+  {
+    "id": 1375,
+    "question": "<b>Use the information below to answer questions 11 and 12.   The initial imprest as at July 1st was ₦500. Petty cash voucers with the custodian by July 15th added up to ₦394. An IOU slip received from a co-worker was ₦65 and there was a shorage of ₦5 cash. The co-worker made refund on July 18th just before the imprest was replenished.</b>\n\n\n\nWhat was the actual cash in the till as at 15th July?",
+    "option": {
+      "a": "₦106",
+      "b": "₦101",
+      "c": "₦70",
+      "d": "₦36"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To find the actual cash in the till as at July 15th, account for all the items in the petty cash box.\nGiven information:\n\nInitial imprest (July 1st): ₦500\nPetty cash vouchers by July 15th: ₦394\nIOU slip from co-worker: ₦65\nCash shortage: ₦5\n\nAnalysis of what should be in the till:\nThe imprest system means the total value of cash + vouchers + IOUs should equal the original imprest amount.\nExpected composition on July 15th:\n\nCash + Vouchers + IOU = ₦500\nCash + ₦394 + ₦65 = ₦500\nCash = ₦500 - ₦394 - ₦65 = ₦41\n\nActual cash in the till:\nExpected cash: ₦41\nLess: Cash shortage: ₦5\nActual cash in till: ₦41 - ₦5 = ₦36",
+    "examtype": "utme",
+    "examyear": "1998"
   },
   {
     "id": 1380,

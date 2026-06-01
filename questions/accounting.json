@@ -208,6 +208,22 @@
     "examyear": "2013"
   },
   {
+    "id": 78,
+    "question": "  Which of the following is not part of the main uses of the journal ",
+    "option": {
+      "a": " purchase and sale   of   fixed   assets   on  credit   ",
+      "b": "the  correction of errors ",
+      "c": "writing off bad debts ",
+      "d": "none of the above"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 86,
     "question": "A dishonoured cheque is",
     "option": {
@@ -944,6 +960,22 @@
     "examyear": "2015"
   },
   {
+    "id": 315,
+    "question": "The accounting entry to correct sales day book overcast is",
+    "option": {
+      "a": "debit Sales Account and credit Debtors Account",
+      "b": "debit Suspense Account and credit Sales Account",
+      "c": "debit Debtors Account and credit Suspense Account",
+      "d": "debit Sales Account and credit Suspense Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 317,
     "question": "When the invoice of a customer is overcast, the supplier will send to him a",
     "option": {
@@ -1612,6 +1644,22 @@
     "image": "",
     "answer": "b",
     "solution": "In a not-for-profit organization, income arises from voluntary receipts and charges related to its activities, such as:\n\nMembers’ subscriptions (I)\n\nFines levied on members (II)\n\nDonations (III)\n\nA loan from a bank (IV), by contrast, is not income but a liability that must be repaid.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 597,
+    "question": "Purchases can be ascertained through the preparation of a",
+    "option": {
+      "a": "stock account",
+      "b": "sales account",
+      "c": "total debtors control account",
+      "d": "total creditors control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The creditors control account summarizes all credit purchases (along with opening balance, payments, returns, etc.). By balancing this account, you can back into the total purchases for the period.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -2800,6 +2848,22 @@
     "examyear": "2024"
   },
   {
+    "id": 943,
+    "question": "The document used in making lodgments into a current account is",
+    "option": {
+      "a": "paying in -slip",
+      "b": "cheque book",
+      "c": "pass book",
+      "d": "credit card"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A paying-in slip, also sometimes called a deposit slip, is a crucial document used when making deposits into a current account, especially for cash and cheques.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 951,
     "question": "The basic accounting equation is",
     "option": {
@@ -3356,6 +3420,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given:\n\nBalance of Profit and Loss Account = ₦300\nProfit sharing ratio = Jumoke : Kunle = 3 : 2\n\nCalculate Kunle's share of the balance:\nTotal ratio = 3 + 2 = 5\nKunle's share = (2/5) × ₦300 = ₦120",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1110,
+    "question": "<b>Use the information below to answer questions 45 and 46</b>\n\nThe value of the owner's equity is",
+    "option": {
+      "a": "₦400,000",
+      "b": "₦900,000",
+      "c": "₦957,000",
+      "d": "₦1,357,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662647/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q45-46_utzntz.png",
+    "answer": "c",
+    "solution": "Calculate Owner's Equity:\nOwner's Equity = Share Capital + Reserves\nOwner's Equity = Issued shares + Capital reserves + Revenue reserves\nOwner's Equity = ₦500,000 + ₦250,000 + ₦207,000\nOwner's Equity = ₦957,000",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4316,6 +4396,22 @@
     "image": "",
     "answer": "c",
     "solution": "Source documents are the original records of business transactions (such as invoices, receipts, bank statements, purchase orders, etc.) from which accounting entries are made.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1420,
+    "question": "The effect of the payment of liability is that it",
+    "option": {
+      "a": "increase both assets and liabilities",
+      "b": "increase assets and decrease liabilities",
+      "c": "decrease assets and increase liabilities",
+      "d": "decrease both assets and liabilities"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When you pay off a liability (e.g., cash is paid to settle a creditor), your cash (an asset) goes down and your liability is extinguished (goes down) by the same amount.",
     "examtype": "utme",
     "examyear": "1997"
   },

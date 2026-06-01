@@ -1120,6 +1120,22 @@
     "examyear": "2010"
   },
   {
+    "id": 91,
+    "question": "The world’s longest river is ",
+    "option": {
+      "a": "Amazon  ",
+      "b": "Mississippi  ",
+      "c": "Nile  ",
+      "d": "Chang Jiang"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 94,
     "question": "Which of these is not a form of condensation? ",
     "option": {
@@ -1403,6 +1419,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 119,
+    "question": "Desert soils are usually deficient in ",
+    "option": {
+      "a": "fertility  ",
+      "b": "humus content ",
+      "c": "horizon ",
+      "d": "light grey colour   "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
@@ -1991,6 +2023,22 @@
       "b": "Barysphere",
       "c": "Mohocivic Discontinuity",
       "d": "Gutenburg discontinuity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 171,
+    "question": "Where is Sahel Savanna vegetation belt found in Nigeria?",
+    "option": {
+      "a": "Northwest   ",
+      "b": "Northeast",
+      "c": "Both Northwest and Northeast",
+      "d": "From the middle belt to the north"
     },
     "section": "",
     "image": "",

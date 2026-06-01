@@ -16,6 +16,22 @@
     "examyear": "2006"
   },
   {
+    "id": 15,
+    "question": "A bag contains 10 balls of which 3 are red and 7 are white. Two balls are drawn at random. Find the probability of none of the balls is red, if the draw is with replacement: ",
+    "option": {
+      "a": "0.9",
+      "b": "1",
+      "c": "0.47",
+      "d": "0.49"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 25,
     "question": "When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ",
     "option": {
@@ -71,6 +87,22 @@
       "b": "7cm ",
       "c": "8cm    ",
       "d": "9cm      "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 54,
+    "question": "Find the probability of selecting a figure which is parallelogram from a square, a rectangle, a rhombus, a kite and a trapezium  ",
+    "option": {
+      "a": "3/5 ",
+      "b": "2/5 ",
+      "c": "1/5 ",
+      "d": "1/5 "
     },
     "section": "",
     "image": "",
@@ -284,6 +316,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696651/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_42_dx7tih.jpg",
     "answer": "b",
     "solution": "n Δ PQT,\n∠PTQ = 25o(base ∠s of isosceles Δ)\nIn Δ QSR,\n∠RQS = ∠QPT + ∠QTP\n(Extr = sum of interior opposite ∠s)\n∠RQS = 25 + 25\n= 50°\nAlso in Δ QSR,\n75 + ∠RQS + ∠QSR = 180o\n(sum of ∠s of Δ)\n∴75 + 50 + ∠QSR = 180\n125 + ∠QSR = 180\n∠QSR = 180 - 125\n∠QSR = 55°\nBut ∠QSR and ∠RST are the same\n∠RST = 55°",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 167,
+    "question": "In the figure PQR a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, < SRQ is 75° and < QPT IS 25°. Calculate the value of < RST",
+    "option": {
+      "a": " 50°",
+      "b": "25°",
+      "c": "55°",
+      "d": "45°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696819/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_46_nhtrlx.jpg",
+    "answer": "c",
+    "solution": "< T = x/1\n = 25° (PQ = QT)\n\n< SQR = 2(25°) = 50° (sum of interior angle)\n\n< Q + < R + < S = 180°\n\n50° + 75° + < S = 180° = 125o + < S = 180°\n\n< S = 180° - 125° = 55°",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -752,6 +800,22 @@
     "examyear": "2006"
   },
   {
+    "id": 410,
+    "question": "Find the value of k if the expression kx3 + x2 - 5x - 2 leaves a remainder 2 when it is divided by 2x + 1",
+    "option": {
+      "a": "10",
+      "b": " 8",
+      "c": "-10",
+      "d": "-8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "F(x) = Q x D + R\nKx3 + x2 - 5x – 2 = Q(2x+1)+R\nIf 2x+1 = 0 implies x = -1/2\n∴k(-1/2)<sup>3</sup> + (-1/2)<sup>2</sup> -5(-1/2) -2\n= Q(2(-1/2) + 1) +2\nK(-1/8) + 1/4 + 5/2 - 2 = Q(-1+1)+2\n-k/8 + 1/4 + 5/2 - 2 = 0+2\n(-k+2+20-16) / 8 = 2\n(-k+6) / 8 = 2\n-k+6 = 2*8\n-k+6 = 16\n-k = 16-6\n-k = 10\n∴k = -10",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 449,
     "question": "Simplify 3/5÷(2/7×4/3÷4/9)",
     "option": {
@@ -780,6 +844,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715545089/ALOC-Questions/Mathematics/2007/JAMB_2007_Q40_solution_kjvuqf.jpg",
     "answer": "a",
     "solution": "Tan30=h/40  1/√3=h/40 h√3=40h=40/√3 h=40/√3×√3/√3 h=(40√3)/3",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 464,
+    "question": "Find the size of each exterior angle of a regular octagon",
+    "option": {
+      "a": " 51°",
+      "b": " 45°",
+      "c": "40°",
+      "d": " 36°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Each Exterior ∠ = 360/n\n= 360/8\n= 45°",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -908,6 +988,22 @@
     "image": "",
     "answer": "d",
     "solution": "P(pass) = 2/3\nP(not pass) = 1 - 2/3 = 1/3\nP(not passing any of the 3 Exams) = 1/3 x 1/3 x 1/3\n= 1/27",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 562,
+    "question": "5, 8, 6 and k occur with frequency 3, 2, 4, and 1 respectively and have a mean of 5.7. Find the value of k?",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547324/ALOC-Questions/Mathematics/2009/MATH_2009_Q41_SOLUTION_kripfc.jpg",
+    "answer": "c",
+    "solution": "\nMean =\t∑fx/∑fx\n \n\n\n5.7 =55+k/10\n\n57 = 55 + k\nk = 57 - 55\nk = 2",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -1152,6 +1248,22 @@
     "examyear": "2013"
   },
   {
+    "id": 810,
+    "question": "The locus of the points which is equidistant from the line PQ forms a",
+    "option": {
+      "a": "perpendicular line to PQ",
+      "b": "circle centre P",
+      "c": " circle centre Q",
+      "d": "pair of parallel lines to PQ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 812,
     "question": "Find the equation of the perpendicular bisector of the line joining P(2, -3) to Q(-5, 1)",
     "option": {
@@ -1292,6 +1404,22 @@
     "image": "",
     "answer": "b",
     "solution": "Locus is the path traced at by a point which moves in accordance with a certain law. It is also the set of all possible position occupied by an object The path traced from all possible location of 4cm from a given point P form a circle of radius 4cm with centre P.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 965,
+    "question": "Convert 0.04945 to two significant figures",
+    "option": {
+      "a": "0.040",
+      "b": "0.049",
+      "c": "0.050",
+      "d": "0.49"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "0.04945 to 2s.f is 0.049",
     "examtype": "utme",
     "examyear": "2018"
   },

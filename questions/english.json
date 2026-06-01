@@ -14345,6 +14345,25 @@
     "category": "others"
   },
   {
+    "id": 1242,
+    "question": "The meeting was organised at _______ instance ?",
+    "option": {
+      "a": "whom",
+      "b": "whose's",
+      "c": "whose",
+      "d": "whom's"
+    },
+    "section": "complete the statement from the options lettered A-D",
+    "image": "",
+    "answer": "c",
+    "solution": "Whose is the possessive form of the pronoun 'who'",
+    "examtype": "utme",
+    "examyear": "2021",
+    "questionNub": 49,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1243,
     "question": "Mr. Jude made the meeting _____his poor health",
     "option": {
@@ -19623,6 +19642,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 60,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1673,
+    "question": "My house is a BUNGALOW",
+    "option": {
+      "a": " Is my house a terrace ?",
+      "b": "was my house a bungalow?",
+      "c": " Is my house the bungalow?",
+      "d": "Is his house a bungalow?"
+    },
+    "section": "The words in capital letters have the emphatic stress. Choose the option to which the given sentence relates.",
+    "image": "",
+    "answer": "a",
+    "solution": "To answer question on emphatic stress, the sentence that doesn't have the emphatic word becomes the correct answer. From the question, the emphatic stress is the word ''BUNGALOW''. only one option does not have bungalow in it which is option A",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 61,
     "hasPassage": 0,
     "category": "others"
   },

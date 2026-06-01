@@ -80,6 +80,22 @@
     "examyear": "2006"
   },
   {
+    "id": 33,
+    "question": "The period of a simple pendulum will increase by what factor of its extensible length increased by a factor of four ",
+    "option": {
+      "a": "2",
+      "b": "4",
+      "c": "2",
+      "d": "¼"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 35,
     "question": "An electric cell has an internal resistance of 2Ω. A current of 0.5A was measured when a resistor of resistance 5Ω was connected across it. Determine the electromotive force of the cell",
     "option": {
@@ -334,6 +350,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
+  },
+  {
+    "id": 133,
+    "question": "What is the inductance (L) of an inductor whose reactance is 1Ω at 50/ π hertz (H)?",
+    "option": {
+      "a": " 100 H",
+      "b": "0.01H",
+      "c": "10H",
+      "d": "1H"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInductive reactance (Xₗ) = 1Ω\nFrequency (f) = 50/π Hz\nInductance (L) = ?\n\nFormula for Inductive Reactance:\nXₗ = 2πfL\nRearranging to find L:\nL = Xₗ/(2πf)\nSubstituting values:\nL = 1/(2π × 50/π)\nL = 1/(2 × 50)\nL = 1/100\nL = 0.01 H\nAnswer: B. 0.01H",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 142,
@@ -896,6 +928,22 @@
     "examyear": "2022"
   },
   {
+    "id": 467,
+    "question": "The relationship between the coefficient of linear expansion α and volumetric expansion (γ) is-----------------",
+    "option": {
+      "a": "γ = α⁻³",
+      "b": "γ = α",
+      "c": "γ = 3α",
+      "d": "γ = α³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Consider expansion in three dimensions\nFor a solid with initial dimensions L₀ × L₀ × L₀:\n\nInitial volume, V₀ = L₀³\n\nStep 2: Apply linear expansion to each dimension\nAfter temperature change ΔT:\n\nNew length in each dimension = L₀(1 + αΔT)\n\nStep 3: Calculate new volume\nV = [L₀(1 + αΔT)]³\nV = L₀³(1 + αΔT)³\nStep 4: Expand binomially (neglecting higher order terms)\nV = L₀³(1 + 3αΔT + 3α²ΔT² + α³ΔT³)\nSince α is very small (typically 10⁻⁵ to 10⁻⁶), higher powers can be ignored:\nV ≈ L₀³(1 + 3αΔT)\nV = V₀(1 + 3αΔT)\nStep 5: Compare with volumetric expansion formula\nStandard volumetric expansion: V = V₀(1 + γΔT)\nComparing both equations:\nγ = 3α",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 473,
     "question": "A person standing waist-deep in a swimming pool appears to have short legs because of light?",
     "option": {
@@ -1344,6 +1392,22 @@
     "examyear": "2006"
   },
   {
+    "id": 711,
+    "question": "An electric heater with a p.d of 240 V connected across its terminals has a total resistance of 960Ω. find the power rating of the heater.",
+    "option": {
+      "a": " 0.25 W",
+      "b": " 4.00 W",
+      "c": "38.40W",
+      "d": "60.00W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPotential difference, V = 240 V\nResistance, R = 960 Ω\nPower, P = ?\n\nSolution:\nStep 1: Formula for electrical power\nPower: P = V²/R\nAlternative formulas:\n\nP = VI\nP = I²R\n\nStep 2: Substitute values\nP = V²/R\nP = (240)²/960\nP = 57,600/960\nStep 3: Calculate\nP = 60 W",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 717,
     "question": "An ammeter of resistance 5Ω has a full-scale deflection when a current of 50 mA flows in it. The value of the resistor required to adapt it to measure a current of 5 A is?",
     "option": {
@@ -1728,6 +1792,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1021,
+    "question": "Which of the following factors will affect the velocity of sound?",
+    "option": {
+      "a": " An increase in the pitch of the sound",
+      "b": " An increase in the loudness of the sound",
+      "c": " Wind travelling in the same direction of the sound",
+      "d": " A change in the atmospheric pressure at constant temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Pitch, loudness, and atmospheric pressure do not affect sound velocity. Wind traveling in the same direction of sound affects its velocity. wind can slow down or accelerate the speed of sound, depending on whether it is blowing in the same direction or in the opposite direction to the sound signal.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1026,
     "question": "After reflection from the concave mirror, rays of light from the sun converges",
     "option": {
@@ -1772,6 +1852,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a brick is taken from the earth's surface to the moon, its mass remains constant. Mass is an intrinsic property of matter that doesn't change with location, although the weight (gravitational force) decreases to about 1/6 of its Earth value due to the moon's weaker gravity.\nRemember:\n\nMass = amount of matter (constant everywhere)\nWeight = gravitational force (varies with location)",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1043,
+    "question": "A simple pendulum of length 0.4m has a period of 2s. What is the period of a similar pendulum of length 0.8m at the same place?",
+    "option": {
+      "a": " 8 s",
+      "b": "4 s",
+      "c": "2√2 s",
+      "d": " √2 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\n\nInitial length (L₁) = 0.4 m\nInitial period (T₁) = 2 s\nNew length (L₂) = 0.8 m\nNew period (T₂) = ?\nSame location (same g)\n\nFormula for period of simple pendulum:\nT = 2π√(L/g)\nKey relationship:\nT ∝ √L (period is proportional to square root of length)\nMethod 1: Using ratio\nT₁/T₂ = √(L₁/L₂)\nRearranging:\nT₂ = T₁ × √(L₂/L₁)\nSubstituting values:\nT₂ = 2 × √(0.8/0.4)\nT₂ = 2 × √2\nT₂ = 2√2 s",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -1900,6 +1996,38 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nThe power of a lens is defined as the reciprocal of its focal length (in metres).\n\nSolution:\n\nStep 1: Formula for power of a lens\nPower P (in dioptres) = 1 / f, where f is the focal length in metres.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1127,
+    "question": "The emf of a cell is the potential difference across its terminals when it is in",
+    "option": {
+      "a": " series connection",
+      "b": "closed circuit",
+      "c": "open circuit",
+      "d": "parallel connection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "open circuit (EMF is maximum PD with no current drawn.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1128,
+    "question": "The thermometric property of mercury is best on the change in",
+    "option": {
+      "a": "density with temperature",
+      "b": "volume with temperature",
+      "c": " pressure with temperature",
+      "d": " resistance with temperature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "volume with temperature (Mercury thermometers rely on thermal expansion of volume.)",
     "examtype": "utme",
     "examyear": "2025"
   },

@@ -8640,6 +8640,22 @@
     "examyear": "2005"
   },
   {
+    "id": 651,
+    "question": "The sharpness of the boundary of the shadow of an object is determined by the",
+    "option": {
+      "a": "intensity of light striking the object",
+      "b": "rays of light passing through the object",
+      "c": "nature of the object",
+      "d": "opacity of the object"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The characteristics of a shadow are dependent on the intensity of the light source. A hard light will produce a shadow with a sharp edge, a soft light will produce a shadow with a more blurry edge.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 652,
     "question": "A thin converging lens has a power of 4.0 diopters determined its focal length.",
     "option": {
@@ -9004,6 +9020,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296692/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_35_esiic3.png",
     "answer": "a",
     "solution": "Step 1: Identify forces on hanging mass (6 kg)\nWeight downward: W = 6g = 60 N\nTension upward: T\nEquation: 6g - T = 6a\nStep 2: Identify forces on block (3 kg)\nTension rightward: T\nFriction leftward: f = μN = μ(3g) = 0.5 × 30 = 15 N\nNormal force: N = 3g = 30 N\nEquation: T - f = 3a\nT - 15 = 3a\nStep 3: Solve the system of equations\nFrom equation 1: 60 - T = 6a\nFrom equation 2: T - 15 = 3a\nAdding both equations:\n60 - T + T - 15 = 6a + 3a\n45 = 9a\nStep 4: Calculate acceleration\na = 45/9\na = 5 ms⁻²",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 687,
+    "question": "\nIn the circuit diagram of a transistor above, the terminal P, Q and R represent",
+    "option": {
+      "a": "EMITTER, BASE and COLLECTOR",
+      "b": "COLLECTOR, EMITTER and BASE",
+      "c": "BASE, COLLECTOR and EMITTER",
+      "d": " BASE, EMITTER and COLLECTOR"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296766/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_38_snlarm.png",
+    "answer": "a",
+    "solution": "Recognize transistor type\nThe arrow points FROM the center line TOWARD terminal P, indicating an NPN transistor.\nStep 3: Identify terminals\nIn a transistor symbol:\n\nBASE (B): The line that connects to the central vertical bar (terminal Q)\nCOLLECTOR (C): The line without an arrow (terminal R)\nEMITTER (E): The line with the arrow (terminal P)\nThe arrow always points from emitter, indicating current flow direction.\n\nP = EMITTER (has arrow)\nQ = BASE (center connection)\nR = COLLECTOR (top terminal without arrow)\n\nP, Q, R represent: EMITTER, BASE and COLLECTOR",
     "examtype": "utme",
     "examyear": "2005"
   },

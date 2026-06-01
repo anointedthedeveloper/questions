@@ -2912,6 +2912,22 @@
     "examyear": "2002"
   },
   {
+    "id": 202,
+    "question": "A solid hemisphere has a radius of 7 cm. Find the total surface area.",
+    "option": {
+      "a": "400 cm<sup>2</sup>",
+      "b": "462 cm<sup>2</sup>",
+      "c": "66 cm<sup>2</sup>",
+      "d": "308 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Total surface area of hemisphere = half of TSA of sphere + circumference of circle\n\n= 2πr<sup>2</sup> + πr<sup>2</sup> = 3πr<sup>2</sup>\n= 3 × (22)/7 × 7<sup>2</sup> = 462cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 203,
     "question": "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0",
     "option": {

@@ -816,6 +816,22 @@
     "examyear": "2006"
   },
   {
+    "id": 247,
+    "question": "Using the reducing balance method, the depreciation charged for year 2003 was",
+    "option": {
+      "a": "N  160,000",
+      "b": "N  150,000",
+      "c": "N   130,000",
+      "d": "N  120,000"
+    },
+    "section": "Motor vehicles (at cost) 1/1/2002   [N1,000,000],  Addition to motor vehicles 1/7/2003  [N  600,000] \tDepreciation rate 10%",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 248,
     "question": "Which of the following is not a revenue expenditure?",
     "option": {
@@ -1323,6 +1339,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 399,
+    "question": "The three-column cash book differs from the two-column cash book in",
+    "option": {
+      "a": "cash column",
+      "b": "discount column",
+      "c": "bank column",
+      "d": "folio column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -5136,6 +5168,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1315,
+    "question": "Accrual concept stipulates that?",
+    "option": {
+      "a": "revenue should be recognized when it is earned",
+      "b": "costs should be recognized when the expenditure is paid",
+      "c": "revenue should be recognized only when cash is paid",
+      "d": "costs should be recognized when the are incurred"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The accrual concept requires that revenue is recognized when it is earned, regardless of when cash is received.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1316,
     "question": "The basic role of accounting is to?",
     "option": {
@@ -5452,6 +5500,22 @@
     "image": "",
     "answer": "d",
     "solution": "To find the actual cash in the till as at July 15th, account for all the items in the petty cash box.\nGiven information:\n\nInitial imprest (July 1st): ₦500\nPetty cash vouchers by July 15th: ₦394\nIOU slip from co-worker: ₦65\nCash shortage: ₦5\n\nAnalysis of what should be in the till:\nThe imprest system means the total value of cash + vouchers + IOUs should equal the original imprest amount.\nExpected composition on July 15th:\n\nCash + Vouchers + IOU = ₦500\nCash + ₦394 + ₦65 = ₦500\nCash = ₦500 - ₦394 - ₦65 = ₦41\n\nActual cash in the till:\nExpected cash: ₦41\nLess: Cash shortage: ₦5\nActual cash in till: ₦41 - ₦5 = ₦36",
+    "examtype": "utme",
+    "examyear": "1998"
+  },
+  {
+    "id": 1376,
+    "question": "<b>Use the information below to answer questions 11 and 12.   The initial imprest as at July 1st was ₦500. Petty cash voucers with the custodian by July 15th added up to ₦394. An IOU slip received from a co-worker was ₦65 and there was a shorage of ₦5 cash. The co-worker made refund on July 18th just before the imprest was replenished.</b>\n\n\n\nThe amount required to replenish the payments made from the imprest was?",
+    "option": {
+      "a": "₦399",
+      "b": "₦394",
+      "c": "₦358",
+      "d": "₦101"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the amount required to replenish the imprest, determine what actual payments were made from the fund.\nGiven information:\n\nInitial imprest: ₦500\nPetty cash vouchers: ₦394\nIOU from co-worker: ₦65\nCash shortage: ₦5\nCo-worker made refund on July 18th (before replenishment)\n\nAnalysis:\nThe amount needed to replenish the imprest equals the actual payments made from the fund.\nActual payments made:\n\nPetty cash vouchers represent legitimate business expenses: ₦394\nCash shortage represents money that's missing/lost: ₦5\nIOU is NOT a payment - it's money lent to co-worker (and was refunded before replenishment)\n\nTotal amount to replenish:\n₦394 + ₦5 = ₦399\nSince the co-worker refunded the ₦65 before replenishment, this doesn't need to be included in the replenishment amount.",
     "examtype": "utme",
     "examyear": "1998"
   },

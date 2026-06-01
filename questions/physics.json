@@ -10960,6 +10960,22 @@
     "examyear": "2006"
   },
   {
+    "id": 703,
+    "question": "The thermometric property of a constant volume thermometer is?",
+    "option": {
+      "a": "change in volume",
+      "b": "differential expanssion",
+      "c": "change in pressure",
+      "d": "change in length"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The thermometric property of a constant volume thermometer is change in pressure with temperature",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 704,
     "question": "An immersion heater rated 2.0 A, 240 V is used to boil water from temperature 52 °C to 100 °C. The mass of the water is 2.5 kg. Determine the time taken to boil the water.\nSpecific heat capacity of water = 4.2 × 10³ J kg⁻¹ K⁻¹",
     "option": {

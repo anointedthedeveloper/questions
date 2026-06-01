@@ -400,6 +400,22 @@
     "examyear": "2016"
   },
   {
+    "id": 231,
+    "question": "Which of the following is not an electromagnetic radiation?",
+    "option": {
+      "a": "x - ray",
+      "b": "Radio waves",
+      "c": "sunlight",
+      "d": "sound waves"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Electromagnetic waves do not require any material medium, but sound waves is a mechanical wave that require a material medium",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 234,
     "question": "Calculate the upthrust on an object of volume 50cm³ which is immersed in liquid of density 10³ kgm⁻³ [g = 10ms⁻²]",
     "option": {
@@ -496,6 +512,22 @@
     "examyear": "2017"
   },
   {
+    "id": 318,
+    "question": "Calculate the effective capacitance of the circuit in the diagram given",
+    "option": {
+      "a": " 4μf",
+      "b": "3μf",
+      "c": "2μf",
+      "d": "1μf"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611754/ALOC-Questions/Physics/2018/2018_Q_39_zc5gfx.jpg",
+    "answer": "d",
+    "solution": "From the diagram:\n\nThree 2μF capacitors on the left are in parallel\nThis combination is in series with 2μF and 3μF capacitors\n\nStep 1: Calculate equivalent capacitance of parallel capacitors\nThree 2μF capacitors in parallel:\nC_parallel = 2 + 2 + 2 = 6μF\nStep 2: Calculate total capacitance (series combination)\nNow 6μF, 2μF, and 3μF are in series:\nFor series capacitors:\n1/C_T = 1/C₁ + 1/C₂ + 1/C₃\n1/C_T = 1/6 + 1/2 + 1/3\nFinding common denominator (6):\n1/C_T = 1/6 + 3/6 + 2/6\n1/C_T = (1 + 3 + 2)/6\n1/C_T = 6/6 = 1\nTherefore:\nC_T = 1μF",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 323,
     "question": "The force between the molecules of a liquid in contact with that of a solid is?",
     "option": {
@@ -524,6 +556,22 @@
     "image": "",
     "answer": "c",
     "solution": "The limiting frictional force depends only on the nature of the surfaces in contact",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 332,
+    "question": "When blue and green colours of light are mixed, the resultant colour is",
+    "option": {
+      "a": "cyan",
+      "b": "magenta",
+      "c": "black",
+      "d": "yellow"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When blue and green colors of light are mixed, the resultant color is cyan (a blue-green color).",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1088,6 +1136,22 @@
     "examyear": "2005"
   },
   {
+    "id": 685,
+    "question": "If the system above is in equilibrium, the tension in the string Q is",
+    "option": {
+      "a": "11N",
+      "b": " 9N",
+      "c": "4N",
+      "d": "6N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296718/ALOC-Questions/Physics/2005/PHYSICS_2005_Q_36_c6g0fp.png",
+    "answer": "b",
+    "solution": "\nStep 1: Analyze forces on bottom block (5N)\nString R pulls upward on the 5N block.\nFor equilibrium:\nR = 5N\nStep 2: Analyze forces on middle block (4N)\nForces acting on middle block:\n\nWeight downward: 4N\nString Q pulling upward: Q\nString R pulling downward: R = 5N\n\nFor equilibrium:\nQ = 4N + R\nQ = 4 + 5\nQ = 9N",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 688,
     "question": "²³⁵₉₂U + ¹₀n → ¹⁴⁴₅₆Ba + ⁹⁰₃₆Kr + 2X\nIn the reaction above, X is",
     "option": {
@@ -1388,6 +1452,22 @@
     "image": "",
     "answer": "d",
     "solution": "Step 1: Calculate actual weight (in air)\nWeight in air = mg = 30 × 10 = 300 N\nStep 2: Calculate apparent weight (in water)\nApparent weight in water = 22 × 10 = 220 N\nStep 3: Calculate upthrust\nUpthrust = Weight in air - Weight in water\nUpthrust = 300 - 220\nUpthrust = 80 N",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 962,
+    "question": "Which of the following could be effectively used to reduce friction?",
+    "option": {
+      "a": "kerosene",
+      "b": "grease",
+      "c": "water",
+      "d": "petrol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "grease is more viscous than the rest of the liquids",
     "examtype": "utme",
     "examyear": "2011"
   },

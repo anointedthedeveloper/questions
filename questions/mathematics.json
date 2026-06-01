@@ -48,6 +48,22 @@
     "examyear": "2008"
   },
   {
+    "id": 49,
+    "question": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?. ",
+    "option": {
+      "a": "6cm ",
+      "b": "7cm ",
+      "c": "8cm    ",
+      "d": "9cm      "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 61,
     "question": "The value of (0.303)3 – (0.02)3 is ",
     "option": {
@@ -286,6 +302,22 @@
     "solution": "Total: 2 + 5 + 3 + 11 + 9 = 30\n\nCassava: 330×360°=36°",
     "examtype": "utme",
     "examyear": "2002"
+  },
+  {
+    "id": 246,
+    "question": "If y = 3 sin(-4x), dy/dx is",
+    "option": {
+      "a": "12x cos (4x)",
+      "b": " -12x cos (-4x)",
+      "c": " -12 cos (-4x)",
+      "d": "12 sin (-4x)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "y = 3 sin(-4x)\ndy/dx = 3 x - 4 cos (-4x)\n= -12 cos (-4x)",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 247,
@@ -880,6 +912,22 @@
     "examyear": "2012"
   },
   {
+    "id": 751,
+    "question": "Evaluate ∫<sup>π/4</sup>, <sub>0</sub>sec<sup>2</sup>θdθ",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": " ∫<sup>π/4</sup>, <sub>0</sub>sec<sup>2</sup>θdθ\n \n= [tanθ]<sup>π/4</sup>, <sub>0</sub>\n= tanπ/4−tan0\n= 1 − 0\n= 1.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 755,
     "question": "Find the standard deviation of 2,3,8,10 and 12",
     "option": {
@@ -1452,6 +1500,22 @@
     "image": "",
     "answer": "a",
     "solution": "Sample space = {HHH, HHT, HTH, THH, TTH, THT, HTT, TTT}\n\nTotal number of possible outcomes = 2 x 2 x 2 = 8\n\nfavourable number of outcomes = 7\n\n∴Pr(at least one head) = 7/8",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1164,
+    "question": "In a group of 500 people, 350 people can speak English, and 400 people can speak French. Find how many people can speak both languages.",
+    "option": {
+      "a": "750",
+      "b": " 850",
+      "c": " 250",
+      "d": "150"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Let F be the set of people who can speak French and E be the set of people who can speak English. Then,\n\nn(F) = 400\n\nn(E) = 350\n\nn(F ∪ E) = 500\n\nWe have to find n(F ∩ E).\n\nNow, n(F ∪ E) = n(F) + n(E) – n(F ∩ E)\n\n⇒ 500 = 400 + 350 – n(F ∩ E)\n\n⇒ n(F ∩ E) = 750 – 500 = 250.\n\n∴ 250 people can speak both languages.",
     "examtype": "utme",
     "examyear": "2023"
   },

@@ -2448,6 +2448,22 @@
     "examyear": "2015"
   },
   {
+    "id": 179,
+    "question": "The dimension of universal gravitational constant is……….?",
+    "option": {
+      "a": "M⁻¹L³T⁻²",
+      "b": "ML³T²",
+      "c": "ML³",
+      "d": "MLT⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Formula for gravitational force:\nF = G(m₁m₂)/r²\nRearranging to find G:\nG = Fr²/(m₁m₂)\nStep 1: Write dimensional formulas\n\nForce (F) = [MLT⁻²]\nDistance (r) = [L]\nMass (m) = [M]\n\nStep 2: Substitute into formula\n[G] = [MLT⁻²][L²] / [M][M]\n[G] = [MLT⁻²L²] / [M²]\n[G] = [ML³T⁻²] / [M²]\n[G] = [M⁻¹L³T⁻²]\nAnswer: A. M⁻¹L³T⁻²",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 180,
     "question": "Myopic defects in the human eye can be corrected through the use of a",
     "option": {

@@ -3520,6 +3520,22 @@
     "examyear": "4"
   },
   {
+    "id": 251,
+    "question": "Insurance premium depends on the",
+    "option": {
+      "a": "amount of profit to be made by the insurer",
+      "b": "various insurance companies in a place",
+      "c": "extent of the possible loss and the frequency of risk",
+      "d": "supply and demand"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 252,
     "question": "Subrogation in insurance means that",
     "option": {
@@ -3607,6 +3623,22 @@
       "b": "capital",
       "c": "borrowing",
       "d": "insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 259,
+    "question": "When an insured person admits that he has been indemnified, he means that",
+    "option": {
+      "a": "the insurance company has accepted his claims",
+      "b": "the damaged property has been recovered",
+      "c": "He has paid his premium",
+      "d": "the insurance company has restored him to his former position"
     },
     "section": "",
     "image": "",

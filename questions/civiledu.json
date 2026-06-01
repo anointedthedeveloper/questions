@@ -912,6 +912,22 @@
     "examyear": "2012"
   },
   {
+    "id": 103,
+    "question": "Local government is the ............... tier of government",
+    "option": {
+      "a": "1st",
+      "b": "2nd",
+      "c": "3rd",
+      "d": "4th"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 104,
     "question": "Television and radio are example  of ......... media",
     "option": {
@@ -2811,6 +2827,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 329,
+    "question": "The NYSC was established in the year .................",
+    "option": {
+      "a": "May 22, 1973",
+      "b": "June 15, 1960",
+      "c": "May 22, 1963",
+      "d": "August 20,1993"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"

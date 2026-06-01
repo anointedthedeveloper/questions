@@ -48,6 +48,22 @@
     "examyear": "2011"
   },
   {
+    "id": 26,
+    "question": "Which of the following is not a book of original entry? ",
+    "option": {
+      "a": "Cash book  ",
+      "b": "Purchases journal  ",
+      "c": "Sales journal ",
+      "d": "Ledger"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 31,
     "question": "Final accounts of a company refers to: ",
     "option": {
@@ -94,6 +110,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2011"
+  },
+  {
+    "id": 44,
+    "question": "A company provided the following information about its balance sheet: Cash N100 Accounts receivable N500 Stockholders' equity 14700 Account payable N200 Bank loans Nl000 Based on the information provided, how much are Remington's liabilities?",
+    "option": {
+      "a": "N200   ",
+      "b": "N900   ",
+      "c": "N 1,200   ",
+      "d": "N 1,700"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
   },
   {
     "id": 50,
@@ -736,6 +768,22 @@
     "examyear": "2006"
   },
   {
+    "id": 239,
+    "question": "Prime cost is",
+    "option": {
+      "a": "D120,500",
+      "b": "D117,700",
+      "c": "D114,900",
+      "d": "D114,300."
+    },
+    "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 240,
     "question": "Cost of goods manufactured is",
     "option": {
@@ -747,6 +795,22 @@
     "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 244,
+    "question": "Which of the following is not a debit item in a creditor’s control \taccount?",
+    "option": {
+      "a": "Cash paid",
+      "b": "Returns outwards",
+      "c": "Purchases",
+      "d": "Discounts received"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -907,6 +971,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 291,
+    "question": "Shares of N3 nominal value were issued at a price of  N4. The difference of N1 is a",
+    "option": {
+      "a": "commission.",
+      "b": "discount.",
+      "c": "premium.",
+      "d": "bonus."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 293,
+    "question": "Which of the following is not part of the Central Processing Unit of a computer?",
+    "option": {
+      "a": "Arithmetical and Logical unit",
+      "b": "Memory unit",
+      "c": "Input unit",
+      "d": "Control unit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -1248,6 +1344,22 @@
     "examyear": "2004"
   },
   {
+    "id": 408,
+    "question": "Determine how much to be charged to profit and loss account.",
+    "option": {
+      "a": "N 606",
+      "b": "N 786",
+      "c": "N 791",
+      "d": "N 856"
+    },
+    "section": "Given: General expenses account Paid by cheque [ N671 ]; Paid by cash [N 70 ]; Accrued b/f [N 65 ] Accrued c/f [N 115 ]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 409,
     "question": "In converting single entry to final account, the balancing figures on the income and expenses accounts are transferred to the",
     "option": {
@@ -1323,6 +1435,22 @@
     "section": "On January 1, 2000, a club’s assets and liabilities were as follows: Club house [ N8,000 ]; Subscription in arrears [ N300]; Cash [N1,000]; Wages owed [N100]. The club has 50 members and annual subscription is N 100 per member. Subscription received is N 4,000 and this includes 1999 arrears of  N 200.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 417,
+    "question": "Where the debit side of the income and expenditure account is higher than the credit side, the difference is",
+    "option": {
+      "a": "deficit",
+      "b": "surplus",
+      "c": "gain",
+      "d": "loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -1431,6 +1559,38 @@
       "b": "debited to the realization account",
       "c": "debited to the cash account.",
       "d": "credited to the realization account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 449,
+    "question": "Osei and Yabo were in partnership sharing profits and losses in the ratio of 3:2. On admitting Takwa, the profit and loss sharing ratio was changed to 1:1:1  Suppose Takwa paid N  30 000 for goodwill this amount would be",
+    "option": {
+      "a": "credited to Takwa’s current account",
+      "b": "debited to goodwill account",
+      "c": "shared to all the partners’ capital account",
+      "d": "credited to the old partners’ capital account."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 450,
+    "question": "The amount of subscriptions accrued is reported in the balance sheet under",
+    "option": {
+      "a": "fixed asset",
+      "b": "long-term liability",
+      "c": "current asset",
+      "d": "current liability."
     },
     "section": "",
     "image": "",
@@ -1566,6 +1726,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 478,
+    "question": "The process of bookkeeping includes records produced from",
+    "option": {
+      "a": "ledgers",
+      "b": "source documents",
+      "c": "minutes of meeting",
+      "d": "intuitive reasoning"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
   },
   {
     "id": 480,
@@ -2112,6 +2288,22 @@
     "examyear": "2016"
   },
   {
+    "id": 606,
+    "question": "The difference between book keeping and accounting is that while",
+    "option": {
+      "a": "book keeping interprets data, accounting records it",
+      "b": "book keeping is regarded as the language of the business accounting ascertians its strength and weakness",
+      "c": "book keeping records data accounting interprets it",
+      "d": "book keeping summaries information accounting communicatesit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In the simplest of terms, bookkeeping is responsible for the recording of financial transactions whereas accounting is responsible for interpreting, classifying, analyzing, reporting, and summarizing the financial data.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 610,
     "question": "The income and expenditure account differs from receipts and payments account because it",
     "option": {
@@ -2124,6 +2316,22 @@
     "image": "",
     "answer": "b",
     "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 613,
+    "question": "The ratio that gives the indication of the efficiency of a firm's sales with respect to cost of goods sold is a",
+    "option": {
+      "a": "return on capital employed ",
+      "b": "gross profit margin",
+      "c": "net profit margin",
+      "d": "return on equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Return on capital employed or ROCE is a profitability ratio that measures how efficiently a company can generate profits from its capital employed by comparing net operating profit to capital employed.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -2784,6 +2992,22 @@
     "examyear": "2020"
   },
   {
+    "id": 782,
+    "question": "Using the information provided: total current assets ₦2,000, total fixed assets ₦4,000, current liabilities ₦1,200, drawings ₦200, and long term loan ₦2,000, What is the net working capital?",
+    "option": {
+      "a": " ₦1,800",
+      "b": "₦800",
+      "c": " ₦2,600",
+      "d": " ₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Current Assets−Current Liabilities=₦2,000−₦1,200=₦800",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 784,
     "question": "The major feature of a journal is that it has",
     "option": {
@@ -3360,6 +3584,22 @@
     "examyear": "2023"
   },
   {
+    "id": 924,
+    "question": "Given:\n\nI. Settlement of debts\nII. Cessation of business\nIII. Introduction of assets\nIV. Disposal of assets\n\nWhich of these constitutes dissolution of partnership?",
+    "option": {
+      "a": "I, II and III only",
+      "b": "I, II and IV only",
+      "c": ". II and IV only",
+      "d": "II and III and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Dissolution involves wrapping up operations, paying debts, and selling assets—not introducing new ones.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 926,
     "question": "Goods bought on credit are first entered in the",
     "option": {
@@ -3484,6 +3724,38 @@
     "image": "",
     "answer": "d",
     "solution": "This method distributes shares proportionally to the number of shares applied for by each investor. For example\nif an investor applied for 100 shares and the overall subscription is 200% (twice the offered amount), they migh receive a prorated allocation of 50 shares (100 shares requested / 2 (oversubscription factor) = 50 shares allocated).",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 947,
+    "question": "A list of all debit and credit balances from the ledger accounts are made in the",
+    "option": {
+      "a": "cash book",
+      "b": "trial balance",
+      "c": " balance sheet",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A trial balance is a worksheet that summarizes the ending balances of all ledger accounts after a specific accounting period. It lists each account title and its corresponding debit or credit balance.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 953,
+    "question": "The ledger containing the accounts of debtors and creditors is",
+    "option": {
+      "a": "impersonal",
+      "b": "personal",
+      "c": "nominal",
+      "d": "real"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Personal accounts represent people or entities with whom a business has transactions. This includes debtors (who owe money to the business) and creditors (to whom the business owes money).",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -3680,6 +3952,38 @@
     "examyear": "2008"
   },
   {
+    "id": 1005,
+    "question": "Which of the following is among the categories of government cash book?",
+    "option": {
+      "a": "Receipt cash book",
+      "b": " Payment cash book",
+      "c": "Petty cash book",
+      "d": "Treasury cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In government accounting, the main categories of cash books include:\n\nTreasury cash book - Maintained by the treasury to record all government receipts and payments\nMinistry cash book - Maintained by individual ministries\nDepartment cash book - Maintained by government departments\nSub-treasury cash book - For regional treasury offices",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1012,
+    "question": "<b>Use the information below to answer question 47 to 48.</b>\n\nWhich of the following is true of Uju Nig.Ltd?",
+    "option": {
+      "a": "It is a highly geared company",
+      "b": "It has no liquidity problem in the short term",
+      "c": " It is adequately secured in fixed assets",
+      "d": " It's working capital is zero"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756660709/ALOC-Questions/Accounting/UTME/2008/Accounting_JAMB_2008_Q47-48_IMAGES_ns5goz.jpg",
+    "answer": "b",
+    "solution": "Current assets = Stock + Debtors + Bank = 20,000 + 50,000 + 50,000 = ₦120,000\nCurrent liabilities = Creditors = ₦80,000\n\nCurrent ratio = 120,000 : 80,000 = 1.5 : 1\nWorking capital = 120,000 − 80,000 = ₦40,000 (positive)",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1014,
     "question": "<b>Use the information below to answer question 49 to 50.</b>\n\nGoods worth ₦300 was transferred from department Q to P Similarly, P's total expenses for the period was ₦200\n\nDepartment P's net profit was",
     "option": {
@@ -3872,6 +4176,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1072,
+    "question": "The receipt whose name appears on a cheque is called a?",
+    "option": {
+      "a": "payer",
+      "b": "drawer",
+      "c": "drawee",
+      "d": "payee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The drawer writes the cheque, the drawee is the bank, and the payee is the person or entity whose name appears on the cheque — i.e., the recipient.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1076,
     "question": "The balance on the provision for depreciation account is?",
     "option": {
@@ -4000,6 +4320,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1103,
+    "question": "<b>Use the information below to answer questions 39 and 40</b>\n\nJumoke and Kunle have an original investment of ₦25,000 and ₦15,000 respectively in a partnership. The articles of partnership provides 3% interest on capital and salaries of ₦1,500 and ₦1,000 respectively for the partners. The profits and losses are to be shared in the ratio 3:2.\nMiscellaneous expenses of ₦2,500 were incurred with gross profit of ₦6,500 during the financial year.\n\nThe balance of profit and loss account will be?",
+    "option": {
+      "a": "₦4,000",
+      "b": "₦2,800",
+      "c": "₦1,500",
+      "d": "₦300"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate ₦et Profit\n₦et Profit = Gross Profit - Miscellaneous Expenses\n₦et Profit = ₦6,500 - ₦2,500 = ₦4,000\nStep 2: Calculate Interest on Capital\nJumoke's interest = 3% × ₦25,000 = ₦750\nKunle's interest = 3% × ₦15,000 = ₦450\nTotal interest on capital = ₦750 + ₦450 = ₦1,200\nStep 3: Calculate Total Appropriations\nTotal appropriations = Interest on capital + Salaries\nTotal appropriations = ₦1,200 + ₦1,500 + ₦1,000 = ₦3,700\nStep 4: Calculate Balance of Profit and Loss Account\nBalance = ₦et Profit - Total Appropriations\nBalance = ₦4,000 - ₦3,700 = ₦300\nTherefore, the balance of profit and loss account is ₦300",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1104,
     "question": "<b>Use the information below to answer questions 39 and 40</b>\n\nJumoke and Kunle have an original investment of ₦25,000 and ₦15,000 respectively in a partnership. The articles of partnership provides 3% interest on capital and salaries of ₦1,500 and ₦1,000 respectively for the partners. The profits and losses are to be shared in the ratio 3:2.\nMiscellaneous expenses of ₦2,500 were incurred with gross profit of ₦6,500 during the financial year.\n\nWhat is Kunle's share of the profit?",
     "option": {
@@ -4060,6 +4396,38 @@
     "image": "",
     "answer": "c",
     "solution": "Reason: verifiability depends on original evidence (invoices, receipts, vouchers, etc.) that support and prove transactions — without source documents you can't reliably verify accounting records.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1118,
+    "question": "<b>Use the information below to answer questions 4 and 5</b>\n\nCapital ...................₦2000\nBank ......................₦1200\nPurchase ..................₦2500\nSales .....................₦6700\nStock .....................₦1300\nCreditors .................₦1000\nFixed assets...............₦3700\nDrawings ..................₦?\n\n\nDrawings are always estimated at 50% of capital.\n\nThe trial balance total is?",
+    "option": {
+      "a": "₦9700",
+      "b": "₦8700",
+      "c": "₦7900",
+      "d": "₦7800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Drawings = 50% of capital = 0.5 × ₦2,000 = ₦1,000\n\nDebits: Bank ₦1,200 + Purchases ₦2,500 + Stock ₦1,300 + Fixed assets ₦3,700 + Drawings ₦1,000\n= ₦1,200 + ₦2,500 = ₦3,700\n₦3,700 + ₦1,300 = ₦5,000\n₦5,000 + ₦3,700 = ₦8,700\n₦8,700 + ₦1,000 = ₦9,700\n\nCredits: Capital ₦2,000 + Sales ₦6,700 + Creditors ₦1,000 = ₦9,700\n\nSo the trial balance total is ₦9,700.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1119,
+    "question": "<b>Use the information below to answer questions 4 and 5</b>\n\nCapital ...................₦2000\nBank ......................₦1200\nPurchase ..................₦2500\nSales .....................₦6700\nStock .....................₦1300\nCreditors .................₦1000\nFixed assets...............₦3700\nDrawings ..................₦?\n\n\nDrawings are always estimated at 50% of capital.\n\nCompute the amountwithdrawn",
+    "option": {
+      "a": "₦2 000",
+      "b": "₦ 1 500",
+      "c": "₦1 200",
+      "d": "₦1000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Amount withdrawn (drawings) = 50% of capital = 0.5 × ₦2,000 = ₦1,000.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -4432,6 +4800,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1239,
+    "question": "<b>Use the information below to answer question 25 and 26.</b>\nBar opening stock ₦10,000\nAmount owed to bar suppliers at\nthe end the beginning of the year ₦10,000\nBar sales ₦50,000\nBar credit purchases ₦40,000\nPayment to suppliers ₦30,000\nBar expenses ₦1,000\nBar closing stock ₦15,000\n\nWhat is the bar profits?",
+    "option": {
+      "a": "₦20,000",
+      "b": "₦15,000",
+      "c": "₦14,000",
+      "d": "₦10,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To calculate bar profit, Prepare a Trading and Profit & Loss Account:\nStep 1: Calculate Cost of Goods Sold\nCost of Goods Sold = Opening Stock + Purchases - Closing Stock\nCost of Goods Sold = ₦10,000 + ₦40,000 - ₦15,000 = ₦35,000\nStep 2: Calculate Gross Profit\nGross Profit = Sales - Cost of Goods Sold\nGross Profit = ₦50,000 - ₦35,000 = ₦15,000\nStep 3: Calculate Net Profit (Bar Profit)\nNet Profit = Gross Profit - Expenses\nNet Profit = ₦15,000 - ₦1,000 = ₦14,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1243,
     "question": "<b>Use the information below to answer questions 28 and\n29</b>\n\nSubscription received during the year ₦30,000\nSubscription owed last year ₦4,000\nSubscription received for next year ₦6,000\n\nWhat is the subscription to be charged to income and expenditure account?",
     "option": {
@@ -4544,6 +4928,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1278,
+    "question": "The accounting convention which stipulates that money or goods taken from the business by the owner for personal use should be treated as deductions from capital is",
+    "option": {
+      "a": "cost",
+      "b": "prudence",
+      "c": "consistency",
+      "d": "entity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The convention is the Entity concept, which treats the business as separate from its owner. Withdrawals by the owner are therefore recorded as drawings, reducing the owner’s capital in the business.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1289,
     "question": "One of the shortcomings of single entry procedures is that?",
     "option": {
@@ -4620,6 +5020,22 @@
     "image": "",
     "answer": "c",
     "solution": "The “Accumulated Fund” in a non‐trading concern is the same as its General Fund, representing the net assets built up over time.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1305,
+    "question": "A business is required at par when the?",
+    "option": {
+      "a": "purchase consideration equals goodwill",
+      "b": "purchase consideration equals net value",
+      "c": "purchase consideration is greater than the net value",
+      "d": "net assets is greater than the liabilitties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "At par acquisition means the price paid for the business exactly equals the fair value of its net assets (i.e., assets minus liabilities).\n\nIn this case, no goodwill is recognized because there is neither a premium paid nor a discount received on the net assets.\n\nHence, the business is acquired “at par” when the purchase consideration equals the net asset value.",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -4716,6 +5132,22 @@
     "image": "",
     "answer": "b",
     "solution": "Bank service charges should not be added to or subtracted from the bank statement balance; they are already reflected on the statement and instead are used to adjust the book balance.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1328,
+    "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\t\t\t\t  ₦\nCapital: Opening balance \t307,000\nClosing balance \t\t342,000\n₦et profit for the period \t121,600\nOpening stock \t\t\t98,800\nPurchases \t\t\t706,000\nCarriage inwards \t\t17,500\nCost of goods sold \t\t740,700\nTotal selling, general and\nAdministrative expenses  \t526,000\nDiscount received \t\t9,650\n\n\nWhat is the closing stock for the period?",
+    "option": {
+      "a": "₦ 69,300",
+      "b": " ₦81,300",
+      "c": "₦81,600",
+      "d": "₦106,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "COGS = Opening Stock + Purchases + Carriage Inwards − Closing Stock\nRearrange to find Closing Stock:\n\nClosing Stock = Opening Stock + Purchases + Carriage Inwards − COGS\nSubstitute the numbers:\n\nClosing Stock = 98,800 + 706,000 +17,500 − 740,700 = 81,600",
     "examtype": "utme",
     "examyear": "1999"
   },

@@ -11648,6 +11648,22 @@
     "examyear": "2009"
   },
   {
+    "id": 856,
+    "question": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal, its velocity ratio will be?",
+    "option": {
+      "a": "3.0",
+      "b": "3.1",
+      "c": "3.2",
+      "d": "2.0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nInclined plane angle, θ = 30°\n\nSolution:\n\nStep 1: Velocity ratio for an inclined plane\nFor an inclined plane, when the effort is applied parallel to the plane, the velocity ratio (VR) is the ratio of the distance moved by the effort (length of the incline, L) to the distance moved by the load (vertical height, h).\nVR = L / h = 1 / sin θ\n\nStep 2: Calculate sin 30°\nsin 30° = 0.5\n\nStep 3: Compute VR\nVR = 1 / 0.5 = 2.0",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 857,
     "question": "I. Density of the liquid.\nII. Acceleration due to gravity.\nIII. Type of container of the liquid.\nIV. The constituents of the liquid.\n\n\nWhich of the above conditions will NOT affect the pressure of fluid?",
     "option": {

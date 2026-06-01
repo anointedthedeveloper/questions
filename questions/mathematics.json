@@ -8992,6 +8992,22 @@
     "examyear": "2010"
   },
   {
+    "id": 600,
+    "question": "Make Q the subject of formula if p = M/5(X + Q) + 1",
+    "option": {
+      "a": "5P−MX+5/M",
+      "b": "5P−MX−5/M",
+      "c": "5P+MX+5/M",
+      "d": "÷(5P+MX-5)/M"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "p = M/5(X + Q) + 1\n\nP - 1 = M/5(X + Q)\n\n5/M(p - 1) = X + Q\n\n5/M(p - 1)- x = Q\n\nQ = 5(p−1)−Mx/M\n\n= 5p−5−Mx/M\n\n= 5p−Mx−5/M",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 601,
     "question": "If 9x<sup>2</sup>  + 6xy + 4y<sup>2</sup>  is a factor of 27x<sup>3</sup>  - 8y<sup>3</sup> , find the other factor.",
     "option": {

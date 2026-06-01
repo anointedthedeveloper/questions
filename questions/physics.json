@@ -7296,6 +7296,22 @@
     "examyear": "2023"
   },
   {
+    "id": 503,
+    "question": "A missile is launched with a speed of 75 ms-1 at an angle of 22° above the surface of a warship. Find the horizontal range achieved by the missile. Ignore the effects of air resistance.\n\n[Take g = 10 ms⁻²]",
+    "option": {
+      "a": "195",
+      "b": " 271 m",
+      "c": "391 m",
+      "d": "136 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nInitial velocity, u = 75 m/s\nAngle of projection, θ = 22°\nAcceleration due to gravity, g = 10 m/s²\nHorizontal range, R = ?\n\nSolution:\nUsing the range formula for projectile motion:\nR = (u² sin 2θ)/g\nStep 1: Calculate sin 2θ\n2θ = 2 × 22° = 44°\nsin 44° = 0.6947\nStep 2: Substitute values into the range formula\nR = (75² × sin 44°)/10\nR = (5625 × 0.6947)/10\nR = 3907.4/10\nR = 390.74 m\nR ≈ 391 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 504,
     "question": "On a particular hot day, the temperature is 40°C and the partial pressure of water vapor in the air is 38.8 mmHg. What is the relative humidity?",
     "option": {
@@ -10752,6 +10768,22 @@
     "examyear": "2007"
   },
   {
+    "id": 761,
+    "question": "I. Mass\nII. Density\nIII. Temperature\nIV. Nature of substance\n\n\nwhich of the above affect diffusion?",
+    "option": {
+      "a": " I and II only",
+      "b": "I,II and IV only",
+      "c": "II, III and IV only",
+      "d": " I, II, III and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Diffusion rates of a substance generally depend on mass, density, and temperature. and nature of substances I II, III, and IV",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 762,
     "question": "The blade of a hoe feel colder to touch in the morning than the wooden handle because the",
     "option": {
@@ -12972,6 +13004,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nGround state energy = -5.44 × 10⁻¹⁹ J (negative, bound state)\nInitial energy (zero energy level) = 0 J\nPlanck's constant (h) = 6.6 × 10⁻³⁴ Js\nFrequency of emitted radiation (f) = ?\n\nUnderstanding the process:\nWhen an electron drops from zero energy (ionization level) to the ground state, it emits a photon.\nStep 1: Calculate energy of emitted photon\nEnergy of photon = Initial energy - Final energy\nE = 0 - (-5.44 × 10⁻¹⁹)\nE = 5.44 × 10⁻¹⁹ J\nStep 2: Calculate frequency using Planck's equation\nE = hf\nRearranging for frequency:\nf = E/h\nSubstituting values:\nf = (5.44 × 10⁻¹⁹)/(6.6 × 10⁻³⁴)\nf = 0.824 × 10⁻¹⁹⁺³⁴\nf = 0.824 × 10¹⁵\nf = 8.24 × 10¹⁴ Hz",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 932,
+    "question": "Transistors are used for the?",
+    "option": {
+      "a": "rectification of signals",
+      "b": " conversion of a.c to d.c",
+      "c": "amplification of signals",
+      "d": "conversion of d.c to a.c"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "transistor serve the same purpose as triode valve, which is amplification of signals.",
     "examtype": "utme",
     "examyear": "2010"
   },

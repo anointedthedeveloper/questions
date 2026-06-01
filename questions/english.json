@@ -342,6 +342,25 @@
     "category": "others"
   },
   {
+    "id": 19,
+    "question": "The sergeant spoke to me in a ……………  manner",
+    "option": {
+      "a": "Coarse",
+      "b": "causal     ",
+      "c": "coerce    ",
+      "d": "course "
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 20,
     "question": "Idakwo ran……………. miss the train",
     "option": {
@@ -11552,6 +11571,25 @@
     "category": "others"
   },
   {
+    "id": 681,
+    "question": "The solution lies in choosing between various negative alternatives?",
+    "option": {
+      "a": "the solution can be found in one of negative options",
+      "b": "the solution lies in choosing between the positively and the negative and the negative",
+      "c": "the solutions are many",
+      "d": " the solution is a negative one"
+    },
+    "section": "<b>In each of questions 81 to 85, select the option that best explains the information conveyed in the sentence.</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 85,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 682,
     "question": "I cannot understand why Ali should serve in that <u>moribund</u> administration?",
     "option": {
@@ -16830,6 +16868,25 @@
     "examtype": "utme",
     "examyear": "2012",
     "questionNub": 76,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1071,
+    "question": "The woman would not part with her..........pot",
+    "option": {
+      "a": "dicarded earthen black",
+      "b": "discarded black earthen",
+      "c": "earthen discarded black",
+      "d": "black earthen discarded"
+    },
+    "section": "<b>In each of the question 66 to 85 choose the option that best completes the gap(s)</b>",
+    "image": "",
+    "answer": "b",
+    "solution": "The woman would not part with her discarded black earthen pot",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 77,
     "hasPassage": 0,
     "category": "others"
   },

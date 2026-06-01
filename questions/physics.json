@@ -9424,6 +9424,22 @@
     "examyear": "2007"
   },
   {
+    "id": 779,
+    "question": "The ratio of the coefficient of linear expansion of two metals ∝₁/∝₂ is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals, e₁/e₂ is 1:2, the ratio of the original lengths l₁/l₂ is",
+    "option": {
+      "a": " 8/3",
+      "b": "3/2",
+      "c": "2/3",
+      "d": "3/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nα₁ / α₂ = 3/4\nΔL₁ / ΔL₂ = 1/2\nTemperature change ΔT is the same for both.\n\nSolution:\n\nStep 1: Linear expansion formula\nFor each metal: ΔL = α L ΔT\n\nStep 2: Ratio of expansions\nΔL₁ / ΔL₂ = (α₁ L₁ ΔT) / (α₂ L₂ ΔT) = (α₁/α₂) × (L₁/L₂)\n\nStep 3: Substitute known ratios\n1/2 = (3/4) × (L₁/L₂)\n\nStep 4: Solve for L₁/L₂\nL₁/L₂ = (1/2) ÷ (3/4) = (1/2) × (4/3) = 4/6 = 2/3",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 780,
     "question": "The fundamental frequency of a plucked wire under a tension of 400N is 250Hz. When the frequency is changed to 500 Hz at constant length, the tension is",
     "option": {
@@ -9980,6 +9996,22 @@
     "image": "",
     "answer": "a",
     "solution": "\nGiven information:\nOutput power = 50 W\nEfficiency = 80% = 0.8\nPrimary voltage = 200 V\n\nSolution:\n\nStep 1: Efficiency formula\nEfficiency = Output power / Input power\n0.8 = 50 W / Input power\n\nStep 2: Solve for input power\nInput power = 50 W / 0.8 = 62.5 W\n\nStep 3: Relationship between input power, primary voltage, and primary current\nInput power = Primary voltage × Primary current\n62.5 W = 200 V × Primary current\n\nStep 4: Solve for primary current\nPrimary current = 62.5 W / 200 V = 0.3125 A ≈ 0.31 A",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 832,
+    "question": "Caesium has a work function of 3 x 10⁻¹⁹ J. The maximum energy of liberated electrons when it is illuminated by light of frequency 6.7 x 10¹⁴ Hz is? [h = 6.6 x 10⁻³⁴ Js]",
+    "option": {
+      "a": "1.42 x 10⁻¹⁹ J",
+      "b": "3.00 x 10⁻¹⁹ J",
+      "c": "4.42 x 10⁻¹⁹ J",
+      "d": "7.42 x 10⁻¹⁹ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Max kinetic energy = Energy of incident electron - work function. EK = hf - w\n= 6.6 x 10-34 x 6.7 x 1014 - 3 x 10-19\n= 4.422 x 10-19 - 3 x 10-19\n= 1.422 x 10-19J",
     "examtype": "utme",
     "examyear": "2008"
   },

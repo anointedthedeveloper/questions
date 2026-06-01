@@ -1,24 +1,88 @@
 {
   "locks": {
-    "government": {
-      "machine": "A-Server",
-<<<<<<< Updated upstream
-      "time": 1780300990.0809758
-=======
-      "time": 1780299020.8198571
-    },
     "english": {
       "machine": "A-Server",
-      "time": 1780299009.9346836
-    },
-    "chemistry": {
-      "machine": "A-Server",
-      "time": 1780299020.4396074
+      "time": 1780301066.2482693
     },
     "physics": {
       "machine": "A-Server",
-      "time": 1780299009.764371
->>>>>>> Stashed changes
+      "time": 1780301066.274197
+    },
+    "economics": {
+      "machine": "A-Server",
+      "time": 1780301066.3174725
+    },
+    "government": {
+      "machine": "A-Server",
+      "time": 1780301066.3383157
+    },
+    "englishlit": {
+      "machine": "A-Server",
+      "time": 1780301066.3653717
+    },
+    "geography": {
+      "machine": "A-Server",
+      "time": 1780301066.4093494
+    },
+    "commerce": {
+      "machine": "A-Server",
+      "time": 1780301066.3861628
+    },
+    "accounting": {
+      "machine": "A-Server",
+      "time": 1780301066.4334867
+    },
+    "civiledu": {
+      "machine": "A-Server",
+      "time": 1780301066.4546354
+    },
+    "agricultural-science": {
+      "machine": "A-Server",
+      "time": 1780301066.4737072
+    },
+    "crk": {
+      "machine": "A-Server",
+      "time": 1780301066.4973617
+    },
+    "irk": {
+      "machine": "A-Server",
+      "time": 1780301066.5168393
+    },
+    "further-mathematics": {
+      "machine": "A-Server",
+      "time": 1780301066.611701
+    },
+    "computer-studies": {
+      "machine": "A-Server",
+      "time": 1780301067.009298
+    },
+    "home-economics": {
+      "machine": "A-Server",
+      "time": 1780301067.1673658
+    },
+    "yoruba": {
+      "machine": "A-Server",
+      "time": 1780301067.1879783
+    },
+    "igbo": {
+      "machine": "A-Server",
+      "time": 1780301067.2071698
+    },
+    "hausa": {
+      "machine": "A-Server",
+      "time": 1780301067.3239086
+    },
+    "currentaffairs": {
+      "machine": "A-Server",
+      "time": 1780301067.363828
+    },
+    "history": {
+      "machine": "A-Server",
+      "time": 1780301067.3815813
+    },
+    "insurance": {
+      "machine": "A-Server",
+      "time": 1780301067.4006748
     }
   }
 }

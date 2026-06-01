@@ -320,6 +320,22 @@
     "examyear": "2012"
   },
   {
+    "id": 142,
+    "question": "In which of the following device is the expansion of solid not required?\n\nI. Simple pendulum\nII. Fire alarms\nIII. Thermostat\nIV. Bimetallic thermometer",
+    "option": {
+      "a": "III only",
+      "b": " II & III only",
+      "c": "I only",
+      "d": " II, III & IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Simple pendulum does not depend on thermal expansion\n\nFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 165,
     "question": "For a best result using temperature to achieve an accurate measurement, it is best to use",
     "option": {
@@ -364,6 +380,22 @@
     "image": "",
     "answer": "a",
     "solution": "When a charged particle moves parallel to a magnetic field, it experiences no magnetic force and continues in a straight line.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 184,
+    "question": "I. Chemical II. Sound III. Electricity\n\nWhich of the above forms of energy can directly be converted to light energy?",
+    "option": {
+      "a": " I and II only",
+      "b": " II and III only",
+      "c": "I, II and III",
+      "d": " I and III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Chemical and electrical energy can be directly converted to light energy, but sound energy cannot.",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -492,6 +524,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nFrequency (f) = 50 cycles per second = 50 Hz\nAngular speed (ω) = ?\n\n\nFormula:\nω = 2πf\nSubstituting values:\nω = 2π × 50\nω = 100π rad/s",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 268,
+    "question": "If silicon is doped with phosphorus, what type of semiconductor material will be formed?",
+    "option": {
+      "a": "Zener material",
+      "b": "P-n junction",
+      "c": "n-type",
+      "d": "p-type"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When silicon is doped with phosphorus, an n-type semiconductor material is formed due to the extra free electrons provided by phosphorus atoms.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -640,6 +688,22 @@
     "examyear": "2019"
   },
   {
+    "id": 371,
+    "question": "A mixture of blue and red pigment when illuminated by white light will appear",
+    "option": {
+      "a": "green",
+      "b": "orange",
+      "c": "yellow",
+      "d": "magenta"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A mixture of blue and red pigment when illuminated by white light will appear magenta (purple), as both red and blue wavelengths are reflected while other colors are absorbed.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 373,
     "question": "A man on a bench will exert the greatest pressure on the bench when he",
     "option": {
@@ -684,6 +748,22 @@
     "image": "",
     "answer": "b",
     "solution": "When sound passes from air into water, its speed and wavelength both increase while its frequency remains constant.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 399,
+    "question": "Two mirrors of the same length are arranges as show in the diagram. A ray of light NO strikes the system at O and emerges along PQ. The emergent ray has been deviated through ",
+    "option": {
+      "a": "220°",
+      "b": "200°",
+      "c": "210°",
+      "d": "180°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612628/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_20_dsjmk2.jpg",
+    "answer": "d",
+    "solution": "The ray deviates by certain angles at each reflection, and when you sum all the angular changes (50° + 50° + 40° + 40°), the total deviation from the original direction is 180°.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -766,6 +846,22 @@
     "solution": "Given information:\n\nMass of copper (m_c) = 2 kg\nTemperature change (ΔT) = 100 - 0 = 100°C\nSpecific heat capacity of copper (c) = 400 J/(kg·K)\nLatent heat of fusion of ice (L_f) = 3.3 × 10⁵ J/kg\nMass of ice melted (m) = ?\n\nEnergy conservation:\nHeat lost by copper = Heat gained by ice melting\nm_c × c × ΔT = m × L_f\nSubstituting values:\n2 × 400 × 100 = m × (3.3 × 10⁵)\n80,000 = m × 330,000\nSolving for m:\nm = 80,000 / 330,000\nm = 80/330\nm = 8/33 kg\nConverting to decimal:\nm = 8/33 ≈ 0.242 kg",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 464,
+    "question": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
+    "option": {
+      "a": " the magnet is moved towards the stationary solenoid",
+      "b": "there is no relative motion ",
+      "c": "the magnet is moved away from the stationary solenoid",
+      "d": "the solenoid is moved away from the stationary magnet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If both the coil and the magnet are stationary, then there is no change in the magnetic flux and hence no current is induced in the coil.",
+    "examtype": "utme",
+    "examyear": "2022"
   },
   {
     "id": 473,
@@ -1488,6 +1584,22 @@
     "examyear": "2011"
   },
   {
+    "id": 971,
+    "question": "I. Change of state\nII. Diffusion\nIII. Radiation\nIV. Osmosis\nWhich of the processes above can be explained using the kinetic theory?",
+    "option": {
+      "a": "I, II, III and IV",
+      "b": " I, II and III",
+      "c": "I, III and IV",
+      "d": " I, II and IV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The processes that can be explained using kinetic theory are change of state (I), diffusion (II), and osmosis (IV). Radiation (III) involves electromagnetic waves and requires different theoretical frameworks beyond simple kinetic theory of particles.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 1002,
     "question": "Calculate the total distance covered by a train before coming to rest if its initial speed is 30ms⁻¹ with a constant retardation of 0.1ms⁻²",
     "option": {
@@ -1662,6 +1774,38 @@
     "solution": "Given information:\nGround state energy, E₁ = -24.8 eV\nLevel number, n = 3\n\nSolution:\n\nStep 1: Energy level formula for hydrogen-like atoms\nFor an atom with a single electron, the energy of the nth level is given by:\nEₙ = E₁ / n²\n\nStep 2: Substitute values\nE₃ = -24.8 eV / 3² = -24.8 / 9 = -2.7556 eV ≈ -2.75 eV",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 1101,
+    "question": "The distance between two successive crests of a wave is 15 cm and the velocity 300 m s⁻¹. Calculate the frequency.",
+    "option": {
+      "a": " 2.0 × 10² Hz",
+      "b": "4.5 × 10³ Hz",
+      "c": "2.0 × 10³ Hz",
+      "d": "4.5 × 10² Hz"
+    },
+    "section": "    ",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nWavelength, λ = 15 cm = 0.15 m\nWave velocity, v = 300 m s⁻¹\n\nSolution:\n\nStep 1: Wave equation\nThe relationship between velocity, frequency, and wavelength is:\nv = f × λ\n\nStep 2: Rearrange for frequency\nf = v / λ\n\nStep 3: Substitute the values\nf = 300 / 0.15 = 2000 Hz\n\nStep 4: Express in scientific notation\n2000 Hz = 2.0 × 10³ Hz",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1107,
+    "question": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf",
+    "option": {
+      "a": "Remains the same",
+      "b": "Collapses",
+      "c": "Collapses and diverges again",
+      "d": "Diverges"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a negatively charged rod is brought near the cap of a charged gold leaf electroscope which has positive charges, the leaf collapses.",
+    "examtype": "utme",
+    "examyear": "2014"
   },
   {
     "id": 1112,

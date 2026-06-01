@@ -1,5 +1,21 @@
 [
   {
+    "id": 4,
+    "question": "In how many different ways can the letters of the word GEOLOGY be arranged in order? ",
+    "option": {
+      "a": "720",
+      "b": "1260",
+      "c": "2520",
+      "d": "5040"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 25,
     "question": "When the price of egg was raised by N2 an egg, the number of eggs which can be bought for N 120 is reduced by 5. The present price of an egg is ",
     "option": {
@@ -128,6 +144,22 @@
     "examyear": "2000"
   },
   {
+    "id": 85,
+    "question": "if (x - 1), (x + 1) and (x - 2) are factors of the polynomial ax<sup>3</sup> + bx<sup>2</sup> + cx - 1, find a, b, c in that order.\n",
+    "option": {
+      "a": "-1/2, 1., 1/2",
+      "b": "1/2, 1, 1/2",
+      "c": " 1/2, 1, -1/2",
+      "d": " 1/2, -1, 1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This is a polynomial of the 3rd order, thus x should have three answers. Use the factors given to get values of x as 1, -1 and -2.\nForm three equations, and carry out elimination and subsequent substitution to get a = -1/2, b = 1, and c = 1/2",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 94,
     "question": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon.",
     "option": {
@@ -252,6 +284,22 @@
     "image": "",
     "answer": "a",
     "solution": "(√0.7 + √70)<sup>2</sup>\n \n= (√0.7 + √70)(√0.7 + √70)\n= 0.7+2√(0.7×70) + 70\n= 0.7 + 14 + 70\n= 84.7",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 180,
+    "question": "The slope of the tangent to the curve y = 3x<sup>2</sup>\n - 2x + 5 at the point (1, 6) is",
+    "option": {
+      "a": "4",
+      "b": "1",
+      "c": "6",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "y = 3x<sup>2</sup> - 2x + 5\n\nSlope = dy/dx = 6x − 2\nAt x = 1,\n\nSlope : 6(1) - 2 = 4.",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -464,6 +512,22 @@
     "examyear": "2004"
   },
   {
+    "id": 310,
+    "question": "The shaded region in the Venn diagram above is",
+    "option": {
+      "a": " Pc ∪ (Q ∩ R)",
+      "b": " Pc ∩ (Q ∪ R)",
+      "c": " P ∩ Q",
+      "d": "Pc ∩ (Q ∩ R)"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700796/ALOC-Questions/Mathematics/2004/math_2004_q39_uuly9k.jpg",
+    "answer": "d",
+    "solution": "The shaded portion shows the elements in Q and R, but not in P, Q n R n P'",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 319,
     "question": "In the diagram above, PQ = 4cm and TS = 6cm. If the area of parallelogram PQTU is 32cm<sup>2</sup>, find the area of trapezium PQRU",
     "option": {
@@ -512,6 +576,22 @@
     "examyear": "2005"
   },
   {
+    "id": 336,
+    "question": "The diagram above is the graph of the function f(x). Determined the range of values of x for which f(x) ≤ 0",
+    "option": {
+      "a": "x ≤ 2",
+      "b": "0 ≤\n x ≤\n 2",
+      "c": "-2 ≤\n x ≤\n 0, x ≥\n 2",
+      "d": " x ≤\n -2, 0 ≤\n x ≤\n 2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702037/ALOC-Questions/Mathematics/2005/math_2005_q15_h5gfn6.jpg",
+    "answer": "c",
+    "solution": "The graph of the function f(x) is a curve that starts at (-2,0) and ends at (2,0) with a peak at (0,1). The range of values of x for which f(x) ≥ 0 is the interval where the graph of the function is above or touches the x-axis. From the given graph, we can see that this interval is [-2, 2]. Therefore, the correct answer is -2 ≤ x ≤ 0, x ≥ 2",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 337,
     "question": "If the 7th term of an AP is twice the third term and the sum of the first four terms is 42, find the common difference.",
     "option": {
@@ -524,6 +604,22 @@
     "image": "",
     "answer": "b",
     "solution": "U7 = a + (7 - 1)d\n= a + 6d\nU3 = a + (3 - 1)d\n= a + 2d\nBut U7 = 2(U3)\n∴a + 6d = 2(a + 2d)\na + 6d = 2a + 4d\n2a - a + 4d - 6d = 0\na - 2d = 0 → eqn1\nSn = n/2 (2a + (n - 1)d)\n42 = 4/2 (2a + (4 - 1)d)\n42 = 2(2a + 3d)\n21 = 2a + 3d → eqn2\neqn1 * eqn2 0 = 2a - 4d\n21 = 7d\n∴d = 21/7\nd = 3",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 350,
+    "question": "If y = (1 - 2x)<sup>3</sup>\n, find the value of dy/dx at x = -1",
+    "option": {
+      "a": "57",
+      "b": "27",
+      "c": "-6",
+      "d": "-54"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "y = (1 - 2x)<sup>3</sup>\n\nlet u = 1-2x\ndu/dx = -2\n∴y = u<sup>3</sup>\n\ndy/du = 3u<sup>2</sup>\n\nBut dy/dx = du/dx * dy/du\n= -2 * 3u<sup>2</sup>\n\n= -6u<sup>2</sup>\n\n= -6(1-2x)<sup>2</sup>\n\nAt x = -1: dy/dx = -6(1 - 2(-1))<sup>2</sup>\n\ndy/dx = -6(1 + 2)<sup>2</sup>\n\n= -6 * 3<sup>2</sup>\n\n= -6 * 9\n= -54\n",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -764,6 +860,22 @@
     "image": "",
     "answer": "c",
     "solution": "m * n = n - (m+2)\n= -5 - (3+2)\n= -5-5\n= -10",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 559,
+    "question": "The distribution above shows the number of days a group of 260 students were absent from school in a particular term. How many students were absent for at least four days in the term?",
+    "option": {
+      "a": "180",
+      "b": "120",
+      "c": "110",
+      "d": "40"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547266/ALOC-Questions/Mathematics/2009/MATH_2009_Q38_ehu03j.jpg",
+    "answer": "b",
+    "solution": "20 + 2x + 60 + 40 + x + 50 = 260\n170 + 3x = 260\n3x = 260 - 170\n3x = 90\nx = 90/3 = 30\nAt least 4 days\n4 days = 40\n5 days = 30\n6 days = 50\nTotal = 120",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -1328,6 +1440,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1036,
+    "question": "Find the equation of the line through the points (5, 7) parallel to the line 7x + 5y = 12.",
+    "option": {
+      "a": "5x + 7y = 120",
+      "b": "7x + 5y = 70",
+      "c": "x + y = 7",
+      "d": "15x + 17y = 90"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Equation through (5,7) parallel to the line \n\n7x + 5y = 12\n\n5y = 7x + 12 \n\ny = −7x/5 + 12/5\nGradient = −7/5\n \nRequired equation = (y−7)/(x − 5) = −7/5\ni.e. 5y - 35 = -7x + 35\n\n5y + 7x = 70",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1048,
     "question": "The chord ST of a circle is equal to the radius r of the circle. Find the length of arc ST",
     "option": {
@@ -1340,6 +1468,22 @@
     "image": "",
     "answer": "a",
     "solution": "(r/2)/r Sin θ = 1/2\nθ = sin<sp>(−1)</sup> (1/2) = 30°\n = 60°\n \n\nLength of arc (minor)\n\nST = θ/360 x 2πr\n \n\n60/360 × 2π × r = π/3\n ",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
+    "id": 1052,
+    "question": "Three consecutive terms of a geometric progression are give as n - 2, n and n + 3. Find the common ratio ",
+    "option": {
+      "a": "3/2",
+      "b": "2/3",
+      "c": "1/2",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "h/(n − 2) = (n + 3)/n\nn<sup>2</sup> = (n + 3) (n - 2) \n\nn<sup>2</sup> = n<sup>2</sup> + n - 6\n\nn2<sup>2</sup> + n - 6 - n<sup>2</sup> = 0\n\nn - 6 = 0\n\nn = 6\n\nCommon ratio: n/(n−2) = 6/(6 −2) = 6/4 = 3/2\n ",
     "examtype": "2020",
     "examyear": "utme"
   },

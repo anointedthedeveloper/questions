@@ -14608,6 +14608,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1052,
+    "question": "A wire of length 100.0m at 30°C has linear expansivity of 2 × 10⁻⁵ K⁻¹. Calculate the length of the wire at a temperature of -10°C",
+    "option": {
+      "a": ". 100.08 m",
+      "b": " 100.04 m",
+      "c": "99.96 m",
+      "d": " 99.92 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nOriginal length (L₀) = 100.0 m (at 30°C)\nInitial temperature (T₁) = 30°C\nFinal temperature (T₂) = -10°C\nLinear expansivity (α) = 2 × 10⁻⁵ K⁻¹\nFinal length (L) = ?\n\nStep 1: Calculate temperature change\nΔT = T₂ - T₁\nΔT = -10 - 30\nΔT = -40°C = -40 K\n(Negative indicates temperature decrease → contraction)\nStep 2: Use linear expansion formula\nΔL = L₀αΔT\nSubstituting values:\nΔL = 100.0 × (2 × 10⁻⁵) × (-40)\nΔL = 100.0 × 2 × 10⁻⁵ × (-40)\nΔL = -8.0 × 10⁻³ m\nΔL = -0.08 m\nΔL = -8.0 cm\n(Negative indicates contraction)\nStep 3: Calculate final length\nL = L₀ + ΔL\nL = 100.0 + (-0.08)\nL = 100.0 - 0.08\nL = 99.92 m",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1053,
     "question": "A gas at a pressure of 10⁵ Nm⁻² expands from 0.6 m³ to 1.2 m³ at constant temperature, the work done is",
     "option": {

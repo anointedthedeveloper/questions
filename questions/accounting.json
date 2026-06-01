@@ -144,6 +144,22 @@
     "examyear": "2006"
   },
   {
+    "id": 239,
+    "question": "Prime cost is",
+    "option": {
+      "a": "D120,500",
+      "b": "D117,700",
+      "c": "D114,900",
+      "d": "D114,300."
+    },
+    "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 247,
     "question": "Using the reducing balance method, the depreciation charged for year 2003 was",
     "option": {
@@ -174,6 +190,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
+  },
+  {
+    "id": 280,
+    "question": "The term used to denote the capital of a not-for-profit making \torganization is",
+    "option": {
+      "a": "annuity fund.",
+      "b": "nominal capital.",
+      "c": "circulating capital.",
+      "d": "cumulated fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
   },
   {
     "id": 286,
@@ -304,6 +336,38 @@
     "examyear": "2014"
   },
   {
+    "id": 368,
+    "question": "When an asset is sold, the entries for the accumulated depreciation are: debit",
+    "option": {
+      "a": "Asset Disposal Account; credit Provision for Depreciation Account.",
+      "b": "Provision for Depreciation Account; Credit Asset Disposal Account",
+      "c": "Fixed Asset Account; Credit Asset Disposal Account",
+      "d": "Asset Disposal Account; Credit Fixed Asset Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 399,
+    "question": "The three-column cash book differs from the two-column cash book in",
+    "option": {
+      "a": "cash column",
+      "b": "discount column",
+      "c": "bank column",
+      "d": "folio column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 403,
     "question": "Where closing stock is undervalued, the effect is",
     "option": {
@@ -352,6 +416,22 @@
     "examyear": "2004"
   },
   {
+    "id": 454,
+    "question": "Partners’ share of profit is credited to",
+    "option": {
+      "a": "a partner’s current account",
+      "b": "a partner’s capital account",
+      "c": "the profit and loss account",
+      "d": "the profit and loss appropriation account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 466,
     "question": "Find the value of the total assets?",
     "option": {
@@ -398,6 +478,22 @@
     "solution": "In a not-for-profit organization, income arises from voluntary receipts and charges related to its activities, such as:\n\nMembers’ subscriptions (I)\n\nFines levied on members (II)\n\nDonations (III)\n\nA loan from a bank (IV), by contrast, is not income but a liability that must be repaid.",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 683,
+    "question": "Profit or loss in a partnership is usually arrived at after deducting from gross profit all expenses including____________",
+    "option": {
+      "a": " Partners salaries",
+      "b": "Interest on capital",
+      "c": " Interest on loans",
+      "d": "Partners drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "is charged in the profit and loss account as finance expenses",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 714,
@@ -480,6 +576,22 @@
     "examyear": "2021"
   },
   {
+    "id": 892,
+    "question": "Accounting entry for dissolution expenses is",
+    "option": {
+      "a": "Dr : Partnership account ;Cr: Realization account",
+      "b": "Dr: Revaluation account; Cr: Partnership account",
+      "c": "Dr: Realization account; Cr: Cash account",
+      "d": "Dr: Partners current account; Cr: Realization account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When dissolution expenses are paid, the Realization account is debited because it represents the expenses related to the dissolution of the partnership. The Cash account is credited because cash is going out of the business to pay for these expenses. Hence, the correct accounting entry is 'Dr: Realization account; Cr: Cash account'.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 923,
     "question": "Which fund is used to meet unforeseen or urgent expenditure",
     "option": {
@@ -542,6 +654,22 @@
     "solution": "The cash book is unique because it eliminates the need for a separate cash account in the ledger, as it functions as both the book of original entry for cash transactions and as the actual cash ledger account itself.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 975,
+    "question": "Abba offers 5% cash discount on goods worth ₦10 000, The discount allowed account is to be?",
+    "option": {
+      "a": "debited with ₦10 000",
+      "b": "credited with ₦10 000",
+      "c": "debited with ₦500",
+      "d": "credited with ₦500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When Abba offers a 5% cash discount on goods worth ₦10,000:\nCalculate the discount:\nDiscount = 5% × ₦10,000 = ₦500\nAccounting treatment:\nWhen a business gives a discount to customers, it's an expense for the business.\nRule for expenses:\n\nExpenses are always debited\n\"Discount Allowed\" is an expense account\n\nTherefore:\nThe Discount Allowed Account should be debited with ₦500",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 1017,
@@ -780,6 +908,22 @@
     "image": "",
     "answer": "b",
     "solution": "At par acquisition means the price paid for the business exactly equals the fair value of its net assets (i.e., assets minus liabilities).\n\nIn this case, no goodwill is recognized because there is neither a premium paid nor a discount received on the net assets.\n\nHence, the business is acquired “at par” when the purchase consideration equals the net asset value.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1310,
+    "question": "The channel through which all government borrowing and domestic lending transactions pass is called?",
+    "option": {
+      "a": "special trust fund",
+      "b": "agency fund",
+      "c": "national loan fund",
+      "d": "contingency fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The National Loan Fund serves as the central channel for all government borrowing and domestic lending transactions, ensuring that loans raised and lent by the government are properly accounted for in one consolidated fund.",
     "examtype": "utme",
     "examyear": "2000"
   },

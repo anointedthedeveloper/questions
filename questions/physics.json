@@ -3952,6 +3952,22 @@
     "examyear": "2017"
   },
   {
+    "id": 262,
+    "question": "Which of the following surfaces will absorb radiant heat energy?",
+    "option": {
+      "a": "white",
+      "b": "red",
+      "c": "black",
+      "d": "blue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A black solution is a better radiator of heat and allow a better absorber of heat.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 263,
     "question": "It is known that a neutron exists in a light atomic nucleus\nWhich of the following also exists in the nucleus?",
     "option": {
@@ -11980,6 +11996,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nSpring constant (k) = 500 Nm⁻¹\nCompression (x) = 5 cm = 0.05 m\nEnergy stored (E) = ?\n\nFormula for elastic potential energy stored in a spring:\nE = ½kx²\nSubstituting values:\nE = ½ × 500 × (0.05)²\nE = ½ × 500 × 0.0025\nE = ½ × 1.25\nE = 0.625 J",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 809,
+    "question": "In the hare's apparatus, water rises to a height of 26.5 cm in one limb. if a liquid rises to a height of 20.4 cm in the other limb, what is the relative density of the liquid?",
+    "option": {
+      "a": "0.8",
+      "b": "1.1",
+      "c": "1.2",
+      "d": "1.3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nHeight of water (h_w) = 26.5 cm\nHeight of liquid (h_l) = 20.4 cm\nRelative density of liquid = ?\n\nUnderstanding Hare's apparatus:\nHare's apparatus works on the principle that at equal pressure (atmospheric pressure minus suction pressure):\nPressure at bottom of each limb is equal:\nρ_w × g × h_w = ρ_l × g × h_l\nRelative density formula:\nRelative density = ρ_l/ρ_w = h_w/h_l\nThis is because:\n\nSame pressure difference applied to both limbs\nLower density liquid rises higher\nHigher density liquid rises lower\n\nCalculating relative density:\nR.D = h_w/h_l\nR.D = 26.5/20.4\nR.D = 1.299\nR.D ≈ 1.3",
     "examtype": "utme",
     "examyear": "2008"
   },

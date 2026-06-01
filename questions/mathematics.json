@@ -10096,6 +10096,22 @@
     "examyear": "2012"
   },
   {
+    "id": 736,
+    "question": "Find the range of values of m which satisfy (m - 3)(m - 4) < 0",
+    "option": {
+      "a": " 2 < m < 5",
+      "b": "-3 < m < 4",
+      "c": "3 < m < 4",
+      "d": " -4 < m < 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "(m - 3)(m - 4) < 0\n\n(m - 3) < 0 ; (m - 4) < 0\n\nm < 3 ; m < 4\n\n3 < m < 4",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 737,
     "question": "The nth term of a sequence is n2 - 6n - 4. Find the sum of the 3rd and 4th terms",
     "option": {
@@ -12796,6 +12812,22 @@
     "image": "",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 928,
+    "question": "Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm",
+    "option": {
+      "a": "1920cm<sup>2</sup>",
+      "b": "592cm<sup>2</sup>",
+      "c": "296cm<sup>2</sup>",
+      "d": "148cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Total surface area of a cupboard is given by the equation A = 2(lb + bh + lh) L = 12, b = 10, h = 8\n\n  A = 2((12 x 10) + (10 x 8) + (12 x 8))\n\n  A = 2(120 + 80 + 96)\n\n  A = 2 x 296\n\nA = 592cm<sup>2</sup>",
     "examtype": "utme",
     "examyear": "2018"
   },

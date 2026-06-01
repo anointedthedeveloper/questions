@@ -1264,6 +1264,22 @@
     "examyear": "2010"
   },
   {
+    "id": 89,
+    "question": "When three coplanar non-parallel forces are in equilibrium i. they can be represented in magnitude and direction by the three sides of a triangle taken in order ii. The lines of action meet at a point iii. The magnitude of any one force equals the magnitude of the other two forces iv. Any one force is the equivalent of the other two. Which of the following statements above are correct? ",
+    "option": {
+      "a": "i and iii only ",
+      "b": "i and ii only",
+      "c": "i, ii,iii and iv ",
+      "d": "none of them"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 90,
     "question": "Which of the following statements is not true about a body performing simple harmonic motion? ",
     "option": {
@@ -4816,6 +4832,22 @@
     "examyear": "2019"
   },
   {
+    "id": 338,
+    "question": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce temperature increase because",
+    "option": {
+      "a": " all the heat is used to break the bonds holding the molecules of the solid together",
+      "b": "the heat capacity has become very large as the substance melts",
+      "c": "the heat energy is quickly conducted away",
+      "d": "the heat gained is equal to the heat lost by the substance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "During the transformation of the matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because all the heat is used to break the bonds holding the molecules of the solid together",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 339,
     "question": "In a slide wire bridge, the balance is obtained at a point 25cm from one end of wire 1m long. The resistance to be tested is connected to that end and a standard resistance of 3.6Ω\n is connected to the other end of the wire. Determine the value of the unknown resistance",
     "option": {
@@ -7200,6 +7232,22 @@
     "examyear": "2023"
   },
   {
+    "id": 524,
+    "question": "A simple pendulum, has a period of 5.77 seconds. When the pendulum is shortened by 3 m, the period is 4.60 seconds. Calculate the new length of the pendulum",
+    "option": {
+      "a": " 5.23 m",
+      "b": "6.42 m",
+      "c": "4.87 m",
+      "d": "7.26 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nInitial period, T₁ = 5.77 s\nFinal period, T₂ = 4.60 s\nChange in length = 3 m (shortened)\nInitial length, L₁ = ?\nFinal length, L₂ = L₁ - 3\ng = 10 m/s² (or 9.8 m/s²)\n\nSolution:\nStep 1: Write period formula for both cases\nFor a simple pendulum:\nT = 2π√(L/g)\nInitial pendulum:\nT₁ = 2π√(L₁/g)  -----(1)\nShortened pendulum:\nT₂ = 2π√(L₂/g) = 2π√[(L₁-3)/g]  -----(2)\nStep 2: Form ratio to eliminate constants\nDividing equation (1) by equation (2):\nT₁/T₂ = √(L₁/(L₁-3))\n5.77/4.60 = √(L₁/(L₁-3))\n1.254 = √(L₁/(L₁-3))\nStep 3: Square both sides\n(1.254)² = L₁/(L₁-3)\n1.573 = L₁/(L₁-3)\nStep 4: Solve for L₁\n1.573(L₁-3) = L₁\n1.573L₁ - 4.719 = L₁\n1.573L₁ - L₁ = 4.719\n0.573L₁ = 4.719\nL₁ = 8.23 m\nStep 5: Calculate new length\nL₂ = L₁ - 3\nL₂ = 8.23 - 3\nL₂ = 5.23 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 525,
     "question": "Three forces with magnitudes 16 N, 12 N and 21 N are shown in the diagram below. Determine the magnitude of their resultant force and angle with the x-axis",
     "option": {
@@ -7420,6 +7468,22 @@
     "image": "",
     "answer": "c",
     "solution": "Mechanics is the branch of physics that deals with the motion of objects and the forces acting on them. It is the foundation of all other branches of physics, and it is used to study everything from the motion of planets to the motion of electrons.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 544,
+    "question": "The working of the beam balance is based on the principle of",
+    "option": {
+      "a": "moments",
+      "b": "conservation of energy",
+      "c": "equivalence",
+      "d": "floatation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A beam balance operates on the principle of moments (torques). When the beam is balanced, the clockwise and anticlockwise moments about the fulcrum are equal. This allows us to compare masses by achieving rotational equilibrium.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7728,6 +7792,22 @@
     "examyear": "2024"
   },
   {
+    "id": 571,
+    "question": "If a sheet of an insulating material is inserted between the plates of an air capacitor, the capacitance will",
+    "option": {
+      "a": "become zero",
+      "b": "decrease",
+      "c": "increase",
+      "d": "remain unchanged"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "If a sheet of an insulating material (dielectric) is inserted between the plates of an air capacitor, the capacitance will increase.\n\nWhen a dielectric material is inserted: The permittivity ϵ\n increases (since the permittivity of the dielectric is greater than that of air),\nThis results in an increase in capacitance.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 572,
     "question": "288KJ is conducted across two opposite faces of a 3m cube of temperature gradient 90°Cm⁻¹ in 7200s. Calculate the thermal conductivity.",
     "option": {
@@ -7900,6 +7980,22 @@
     "image": "",
     "answer": "c",
     "solution": "The process of adding impurities to a semiconductor material to increase its conductivity is called doping. This is fundamental to creating functional semiconductor devices like diodes, transistors, and integrated circuits.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 585,
+    "question": "A load of 300N is to be lifted by a machine with a velocity ratio of 2 and an efficiency of 60%. What effort will be applied to lift the load?\n",
+    "option": {
+      "a": "100N",
+      "b": "150N",
+      "c": "250N",
+      "d": "400N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nLoad (L) = 300 N\nVelocity Ratio (V.R) = 2\nEfficiency = 60% = 0.60\nEffort (E) = ?\n\nStep 1: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A / V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.60 × 2\nM.A = 1.2\nStep 2: Calculate Effort using M.A\nM.A = Load / Effort\nRearranging:\nEffort = Load / M.A\nEffort = 300 / 1.2\nEffort = 250 N",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -8108,6 +8204,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nDecay constant (λ) = 10⁻⁷ s⁻¹\nAverage life (mean life) = ?\n\nUnderstanding average life:\nThe average (mean) life of a radioisotope is the average time a nucleus exists before decaying.\nFormula for average life:\nAverage life (τ) = 1/λ\nNote: This is different from half-life:\n\nHalf-life: T₁/₂ = 0.693/λ = ln(2)/λ\nAverage life: τ = 1/λ\n\nCalculating average life:\nτ = 1/λ\nτ = 1/(10⁻⁷)\nτ = 10⁷ s\nτ = 1.00 × 10⁷ s\nVerification:\nThe relationship between average life and half-life:\nτ = T₁/₂/0.693 = 1.44 × T₁/₂",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 602,
+    "question": "An a.c circuit of e.m.f 12V has a resistor of resistance 8Ω connected in series to an inductor of inductive reactance 16Ω and a capacitor of capacitive reactance 10Ω. The current flow in the circuit is",
+    "option": {
+      "a": "1.4A",
+      "b": "1.2A",
+      "c": "12.0A",
+      "d": " 14.0A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nEMF (V) = 12V\nResistance (R) = 8Ω\nInductive reactance (X_L) = 16Ω\nCapacitive reactance (X_C) = 10Ω\nCurrent (I) = ?\n\nUnderstanding series RLC circuit:\nIn a series RLC circuit, the impedance (Z) is:\nZ = √[R² + (X_L - X_C)²]\nStep 1: Calculate net reactance\nNet reactance = X_L - X_C\nNet reactance = 16 - 10 = 6Ω\nStep 2: Calculate impedance\nZ = √[R² + (X_L - X_C)²]\nZ = √[8² + 6²]\nZ = √[64 + 36]\nZ = √100\nZ = 10Ω\nStep 3: Calculate current using Ohm's law\nI = V/Z\nI = 12/10\nI = 1.2A",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -11632,6 +11744,22 @@
     "examyear": "2009"
   },
   {
+    "id": 896,
+    "question": "A progressive wave is represented by y = 10sin(1000πt - πx/34). Two layers of the wave separated by 153cm have a phase difference of?",
+    "option": {
+      "a": "270°",
+      "b": "45°",
+      "c": " 90°",
+      "d": " 180°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given wave equation:\ny = 10sin(1000πt - πx/34)\nStandard form:\ny = A sin(ωt - kx)\nComparing:\n\nAmplitude (A) = 10\nAngular frequency (ω) = 1000π\nWave number (k) = π/34\n\nStep 1: Calculate wavelength\nk = 2π/λ\nπ/34 = 2π/λ\nλ = 2π × 34/π = 68 cm\nStep 2: Calculate phase difference for separation of 153 cm\nPhase difference formula:\nΔφ = 2π × (distance/wavelength)\nΔφ = 2π × (153/68)\nΔφ = 2π × 2.25\nΔφ = 4.5π radians\nStep 3: Convert to degrees\nΔφ = 4.5π × (180°/π)\nΔφ = 4.5 × 180°\nΔφ = 810°\nStep 4: Reduce to equivalent angle (0° to 360°)\n810° = 2 × 360° + 90°\nEquivalent phase difference = 90°",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 897,
     "question": "which of the diagrams above shows the position at which a small ball-bearing is in neutral equilibrium?",
     "option": {
@@ -13248,6 +13376,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1032,
+    "question": "The fuse in an electric device is always connected to the",
+    "option": {
+      "a": "neutral side of an electric supply",
+      "b": "earth side of an electric supply",
+      "c": "live side of an electric supply",
+      "d": "terminal side of an electric supply"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The fuse in an electric device is always connected to the live side of an electric supply to ensure that when the fuse blows due to overcurrent, the dangerous high-voltage supply is completely disconnected from the appliance, making it safe.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1035,
     "question": "A conductor of length 1 m moves with a velocity of 50 m s⁻¹ at an angle of 30° to the direction of a uniform magnetic field of flux density 1.5 Wb m⁻². What is the e.m.f induced in the conductor?",
     "option": {
@@ -14396,6 +14540,22 @@
     "image": "",
     "answer": "a",
     "solution": "cornea and lens (Main refractive structures.)",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1131,
+    "question": "The diagram above shows a magnetic field due to a",
+    "option": {
+      "a": "solenoid",
+      "b": "circular coil",
+      "c": "current-carrying straight conductor",
+      "d": "the earth's meridian"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774443698/ALOC-Questions/Physics/2025/PHYSICS_2025_Q_12_cib4tb.png",
+    "answer": "c",
+    "solution": "current carrying straight conductor (Concentric circles typical of straight wire magnetic field.)\n\n(Diagram: concentric circular field lines around a central point on a vertical line, arrows clockwise, indicating field around a wire.)",
     "examtype": "utme",
     "examyear": "2025"
   },

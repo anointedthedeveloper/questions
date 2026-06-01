@@ -20765,5 +20765,43 @@
     "questionNub": 4,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 934,
+    "question": "The girl is angry with her friend who had <u>ensnared</u> her into this relationship?",
+    "option": {
+      "a": "tricked",
+      "b": "encourage",
+      "c": "forced",
+      "d": "enslaved"
+    },
+    "section": "<b>In each of the questions 34 to 48, Choose the option nearest in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "Ensnared;   to trap or gain power over (someone) by dishonest or underhand means.",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 39,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1465,
+    "question": "I know my onions",
+    "option": {
+      "a": "I know my job very well",
+      "b": "I know my rights",
+      "c": "I am clever because of experience",
+      "d": "I am aware of my position"
+    },
+    "section": "Choose the correct interpretations of the statement given, for the question",
+    "image": "",
+    "answer": "a",
+    "solution": "To know one's onions' is to be fully acquainted with a subject or the parctice in a field.",
+    "examtype": "utme",
+    "examyear": "2019",
+    "questionNub": 92,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

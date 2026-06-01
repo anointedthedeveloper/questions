@@ -622,5 +622,69 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2006"
+  },
+  {
+    "id": 36,
+    "question": "The speed of light in air is 3 x 108ms-1. If the refractive index of light from air to water is 4/3, calculate the speed of light in water ",
+    "option": {
+      "a": "2.25 x 108ms-2 ",
+      "b": "2.25ms-1 ",
+      "c": "4.00ms-1 ",
+      "d": "4.33ms-1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 859,
+    "question": "A plastic sphere floats in water with 50% of its volume submerged. If it floats in glycerine with 40% of its volume submerged, the density of the glycerine is?",
+    "option": {
+      "a": "1400 kg m⁻³",
+      "b": "1250 kg m⁻³",
+      "c": "500 kg m⁻³",
+      "d": "1000 kg m⁻³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nIn water: fraction submerged = 50% = 0.5\nIn glycerine: fraction submerged = 40% = 0.4\nDensity of water, ρ_w = 1000 kg m⁻³\n\nSolution:\n\nStep 1: Density of the sphere from water data\nFor a floating object, the fraction submerged equals the ratio of the object's density to the fluid's density.\nρ_sphere / ρ_w = fraction submerged in water\nρ_sphere / 1000 = 0.5\nρ_sphere = 500 kg m⁻³\n\nStep 2: Use glycerine data to find its density\nρ_sphere / ρ_g = fraction submerged in glycerine\n500 / ρ_g = 0.4\nρ_g = 500 / 0.4 = 1250 kg m⁻³",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 1044,
+    "question": "A train with an initial velocity of 20 ms⁻¹ is subjected to a uniform deceleration of 2 ms⁻². The time required to bring the train to a complete halt is?",
+    "option": {
+      "a": "5 s",
+      "b": " 10 s",
+      "c": "20 s",
+      "d": "40 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial velocity (u) = 20 m/s\nFinal velocity (v) = 0 m/s (complete halt)\nDeceleration (a) = -2 m/s² (negative because it's slowing down)\nTime (t) = ?\n\nUsing equation of motion:\nv = u + at\nRearranging for time:\nt = (v - u)/a\nSubstituting values:\nt = (0 - 20)/(-2)\nt = -20/(-2)\nt = 10 s",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 425,
+    "question": "Which of the following is not correct about the molecules of a substance in a gaseous state. They?",
+    "option": {
+      "a": "are in a constant state of motion",
+      "b": "have different speeds",
+      "c": "have a temperature which is measured by the average kinetic energy",
+      "d": "The collision between the gases is perfectly elastic"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The collision between the gases is perfectly inelastic",
+    "examtype": "utme",
+    "examyear": "2021"
   }
 ]

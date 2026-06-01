@@ -13696,6 +13696,22 @@
     "examyear": "2018"
   },
   {
+    "id": 957,
+    "question": "Evaluate log<sup>2</sup>\n 8 – log<sup>3</sup> 1/9",
+    "option": {
+      "a": "-11(1/2)",
+      "b": "-1",
+      "c": "1",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "log<sub>2</sub> 8 – log<sub>3</sub> 1/9\n  = log<sub>2</sub> 2<sup>3</sup> – log<sub>3</sub> 9<sup>−1</sup>\n= log<sub>2</sub>2<sup>3</sup>\n – log<sub>3</sub> 3<sup>−2</sup>\n  Based on law of logarithm\n\n  = 3 log<sub>2</sub> 2 – (-2 log<sub>3</sub> 3)\n\n  Butlog<sub>2</sub> 2 = 1,\n\nlog<sub>3</sub> 3= 1\n\n  So, = 3 + 2\n\n  = 5",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 958,
     "question": "Tanθ is positive and Sinθ is negative. In which quadrant does θ lies",
     "option": {

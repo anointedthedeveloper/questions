@@ -6848,6 +6848,22 @@
     "examyear": "2022"
   },
   {
+    "id": 461,
+    "question": "A bar magnet is divided into two pieces, which of the following statement is correct?",
+    "option": {
+      "a": "two new magnets are created",
+      "b": "the magnetic field of each separate piece becomes stronger",
+      "c": "the electric field is created",
+      "d": "the bar magnet is demagnetized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When it is cut into two, the two cut pieces will have their own north and south poles.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 462,
     "question": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is?",
     "option": {
@@ -14604,6 +14620,22 @@
     "image": "",
     "answer": "c",
     "solution": "The conditions for total internal reflection are II and III only.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1029,
+    "question": "The use of lenses is Not applicable in the",
+    "option": {
+      "a": "projector",
+      "b": " human eye",
+      "c": "periscope",
+      "d": "telescope"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Lenses are not applicable in a periscope.",
     "examtype": "utme",
     "examyear": "2012"
   },

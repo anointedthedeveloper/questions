@@ -1376,6 +1376,22 @@
     "examyear": "1"
   },
   {
+    "id": 91,
+    "question": "A financial compensation sufficient to return the insured back to the original position after loss is known as",
+    "option": {
+      "a": "deposit",
+      "b": "loan",
+      "c": "indemnity",
+      "d": "profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 92,
     "question": "Another name for business interruption insurance is",
     "option": {
@@ -3691,6 +3707,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 239,
+    "question": "The part of a policy form that shows the name and address of the company is known as",
+    "option": {
+      "a": "heading",
+      "b": "conclusion",
+      "c": "condition",
+      "d": "preamble"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "4"

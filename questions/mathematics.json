@@ -14864,6 +14864,22 @@
     "examyear": "utme"
   },
   {
+    "id": 1027,
+    "question": "In a class of 150 students, the sector in a pie chart representing the students offering physics has angle 12°. How many students are offering physics? ",
+    "option": {
+      "a": "18",
+      "b": "15",
+      "c": "10",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "No of students offering physics are \n\n12/360 x 150 = 5",
+    "examtype": "2020",
+    "examyear": "utme"
+  },
+  {
     "id": 1028,
     "question": "If log<sub>10</sub> 2 = 0.3010 and log<sub>10</sub> 3 = 0.4771, eventually without using the logarithm tables, log<sub>10</sub> 4.5",
     "option": {

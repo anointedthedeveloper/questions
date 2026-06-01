@@ -12192,6 +12192,22 @@
     "examyear": "2008"
   },
   {
+    "id": 807,
+    "question": "A motorcycle of mass 100kg moves round in a circle of radius 10m with a velocity of 5 ms⁻¹. Find the coefficient of friction between the road and the tyres.",
+    "option": {
+      "a": "25",
+      "b": "2.5",
+      "c": "0.5",
+      "d": "0.25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 100 kg\nRadius (r) = 10 m\nVelocity (v) = 5 m/s\ng = 10 m/s²\nCoefficient of friction (μ) = ?\n\nUnderstanding the physics:\nFor a motorcycle moving in a circle on a flat road:\n\nCentripetal force is provided by friction between tyres and road\nFriction force = Centripetal force\n\nSetting up equation:\nFriction force = Centripetal force\nμmg = mv²/r\nCancelling mass (m) from both sides:\nμg = v²/r\nSolving for μ:\nμ = v²/(rg)\nSubstituting values:\nμ = (5)²/(10 × 10)\nμ = 25/100\nμ = 0.25",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 808,
     "question": "A spring of force constant 500 Nm⁻¹ is compressed such that its length shortens by 5cm. The energy stored in the spring is?",
     "option": {

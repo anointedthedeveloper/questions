@@ -560,6 +560,22 @@
     "examyear": "2006"
   },
   {
+    "id": 251,
+    "question": "Which of the following columns of a three column cash book \tare memoranda?  I. Discount received  II. Discount allowed III. Cash IV. Bank",
+    "option": {
+      "a": "I and II only",
+      "b": "I and III only",
+      "c": "II and III only",
+      "d": "ll and IV only."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 253,
     "question": "The balance as per bank statement is",
     "option": {
@@ -1067,6 +1083,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 432,
+    "question": "The budget statement presented to the legislature by the Chief Executive is called",
+    "option": {
+      "a": "an appropriation act",
+      "b": "a budget bill",
+      "c": "an appropriation bill",
+      "d": "a budget proposal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -2448,6 +2480,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1067,
+    "question": "A source document is used for verifying the?",
+    "option": {
+      "a": "amount due to creditors",
+      "b": "actual cost of an asset",
+      "c": "selling price of goods",
+      "d": " amount due from debtors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Reason: A source document (e.g., supplier’s invoice) provides the original evidence of a transaction and is used to verify the cost at which an asset was acquired before it’s recorded in the books.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1073,
     "question": "The imprest account is subsidiary to the?",
     "option": {
@@ -2572,6 +2620,22 @@
     "image": "",
     "answer": "d",
     "solution": "When a branch gives a discount to its customers:\nWhat happens:\n\nThe branch is giving up some money (discount expense)\nThe customer owes less money to the branch\n\nAccounting treatment:\n\nDebit Branch Discount Account = record the expense/cost of giving the discount\nCredit Branch Debtors' Account = reduce what the customer owes\n\nThis follows the basic principle: when you give a discount, it's an expense to you and reduces what the customer owes.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1111,
+    "question": "Share premium is an example of?",
+    "option": {
+      "a": "revenue reserve",
+      "b": "capital reserve",
+      "c": "general reserve",
+      "d": "loan capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation: Share premium arises from issuing shares above their nominal value and is treated as a capital reserve, not available for distribution as dividend like revenue/general reserves.",
     "examtype": "utme",
     "examyear": "2004"
   },

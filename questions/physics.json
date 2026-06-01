@@ -15392,6 +15392,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1077,
+    "question": "If a current of 2.5A flows through an electrolyte for 3 hours and 1.8g of a substance is deposited, what is the mass of the substance that will be deposited if a current of 4A flows through it for 4.8 hours?",
+    "option": {
+      "a": " 2.4g",
+      "b": "3.2g",
+      "c": "4.6g",
+      "d": "4.8g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nFirst case: current I₁ = 2.5 A, time t₁ = 3 h, mass m₁ = 1.8 g\nSecond case: current I₂ = 4 A, time t₂ = 4.8 h\n\nSolution:\n\nStep 1: Faraday's law of electrolysis\nThe mass deposited is proportional to the total charge passed: m ∝ I × t.\n\nStep 2: Set up the ratio\nm₂ / m₁ = (I₂ × t₂) / (I₁ × t₁)\n\nStep 3: Substitute values\nI₁ × t₁ = 2.5 × 3 = 7.5 A h\nI₂ × t₂ = 4 × 4.8 = 19.2 A h\nm₂ / 1.8 = 19.2 / 7.5 = 2.56\n\nStep 4: Calculate m₂\nm₂ = 1.8 × 2.56 = 4.608 g ≈ 4.6 g",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1078,
     "question": "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV",
     "option": {
@@ -16412,6 +16428,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nEfficiency η = 80% = 0.8\nInput work, W_in = 200 J\n\nSolution:\n\nStep 1: Efficiency formula\nEfficiency = (Output work) / (Input work)\n\nStep 2: Rearrange for output work\nOutput work = Efficiency × Input work\n\nStep 3: Substitute values\nOutput work = 0.8 × 200 J = 160 J",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1153,
+    "question": "A wooden block of relative density 0.4 floats in a liquid of density 1600 kg m⁻³. What fraction of its volume is immersed?",
+    "option": {
+      "a": "0.15",
+      "b": "0.1",
+      "c": "0.25",
+      "d": "0.2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nRelative density of wood = 0.4\nDensity of wood = 0.4 × 1000 = 400 kg m⁻³\nDensity of liquid = 1600 kg m⁻³\n\nSolution:\n\nStep 1: Condition for floating\nFor a floating object, weight = upthrust.\nWeight = ρ_wood × V × g\nUpthrust = ρ_liquid × V_immersed × g\n\nStep 2: Cancel g and rearrange\nρ_wood × V = ρ_liquid × V_immersed\nV_immersed / V = ρ_wood / ρ_liquid\n\nStep 3: Substitute values\nV_immersed / V = 400 / 1600 = 0.25",
     "examtype": "utme",
     "examyear": "2025"
   },

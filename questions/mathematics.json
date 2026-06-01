@@ -7856,6 +7856,22 @@
     "examyear": "2008"
   },
   {
+    "id": 518,
+    "question": "( −2 2 1 3 ) ( p r q s ) = ( 1 0 0 1 ) . What is the value of r?",
+    "option": {
+      "a": "-1/8",
+      "b": "3/8",
+      "c": "5/8",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546423/ALOC-Questions/Mathematics/2008/MATH_2008_Q47_nqccri.jpg",
+    "answer": "d",
+    "solution": "-2p + r = 1.......(i)\n\n2p + 3r = 0.......(ii)\n\nr - 1 + 2p ........(iii)\n\n2p + 3(1 + 2p) = 0\n\n2p + 3(1 + 2p) = 0\n\n2p + 3 + 6p = 0\n\n3 - 8p = 0 → 8p = 3\n\np = 3/8\n\n6 = 1 - 2 (3/8)\n\n= 1 - 6/8\n\n8−6/8 = 2/8\n\n= 1/4",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 519,
     "question": "Calculate the distance between points L(-1, -6) and M(-3, -5)",
     "option": {
@@ -13580,6 +13596,22 @@
     "image": "",
     "answer": "c",
     "solution": "The word LEADER has 1L 2E 1A 1D and 1R making total of 6! 6/1!2!1!1!1!\n = 6!/2!\n  = (6×5×4×3×2×1)/(2×1)\n  = 360",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 952,
+    "question": "In the figure below, /MX/ = 8cm, /XN/ = 12cm, /NZ/ = 4cm and ∠ XMN = ∠ XZY. Calculate /YM/",
+    "option": {
+      "a": "32 cm",
+      "b": "24 cm",
+      "c": "16 cm",
+      "d": "12 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006456/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q34_f4jaaq.jpg",
+    "answer": "c",
+    "solution": "From the figure,\n\n  ∠ XMN = ∠ XZY\n\n  Angle X is common\n\n  So, ∠ XNM = ∠ XYZ\n\nThen from the angle relationship\n\nXM/XZ = XN/XY = MN/ZY\nXM = 8, XZ = 12 + 4 = 16,\n\nXN = 12, XY = 8 + YM\n\n8/16 = 12/(8+YM)\nCross multiply\n\n 8(8 + YM) = 192\n\n 64 + 8YM = 192\n\n 8YM = 128\n\n YM = 128/8\n = 16cm",
     "examtype": "utme",
     "examyear": "2018"
   },

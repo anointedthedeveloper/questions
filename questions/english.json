@@ -6232,6 +6232,25 @@
     "category": "others"
   },
   {
+    "id": 364,
+    "question": "My advice to Tolu was: 'Look before you leap.'",
+    "option": {
+      "a": "Tolu was advised to consider her opinions before reaching any decisions.",
+      "b": "Tolu was advised to consider the possible consequences before taking action.",
+      "c": "Tolu was advised to weigh her decisions by looking and leaping.  ",
+      "d": "Tolu was advised to leap only after looking."
+    },
+    "section": "select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 365,
     "question": "The official had allegedly been taking bribes.",
     "option": {
@@ -10978,6 +10997,25 @@
     "examtype": "utme",
     "examyear": "2001",
     "questionNub": 68,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 665,
+    "question": "Amina's performance in the examination <u>surpassed</u> my expectations?",
+    "option": {
+      "a": "was disappointing",
+      "b": "lacked merit",
+      "c": "was extraordinarily good",
+      "d": "amazed everyone"
+    },
+    "section": "<b>In each of questions 63 to 77,choose the option opposite in meaning to the underlined word(s).</b>\n",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2001",
+    "questionNub": 69,
     "hasPassage": 0,
     "category": "others"
   },

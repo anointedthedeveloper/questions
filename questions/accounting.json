@@ -96,6 +96,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1033,
+    "question": "Given:\npurchases ledger balance..............₦4000\npurchases for the period..............₦50000\nCash refunded by suppliers............₦290\nCheques paid to suppliers..............₦42300\nReturns outwards.......................₦2000\nDiscount received from suppliers.......₦400\n\nThe balance of the purchases ledger control account is?",
+    "option": {
+      "a": "₦10390",
+      "b": "₦9990",
+      "c": "₦9590",
+      "d": "₦9010"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Workings (step-by-step):\n\nCredit side\n\nOpening balance = ₦4,000\n\nPurchases = ₦50,000\nTotal credit = ₦54,000\n\nDebit side\n\nCheques paid to suppliers = ₦42,300\n\nReturns outwards = ₦2,000\n\nDiscount received = ₦400\n\nCash refunded by suppliers = ₦290\nTotal debit = ₦42,300 + ₦2,000 + ₦400 + ₦290 = ₦44,990\n\nClosing (balance) = Total credit − Total debit = ₦54,000 − ₦44,990 = ₦9,010.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1248,
     "question": "Marhumu and Yusuf are in partnership sharing profits and losses in the ratio of 2:1. On 31/3/2000, the partnership decided to admit Idris who is to take 1/4 of future profits without changing the ratio of Marhumu and Yusuf.\nWhat is the new profit-sharing ratio of Marhumu and Yusuf?",
     "option": {

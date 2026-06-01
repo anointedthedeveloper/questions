@@ -15264,6 +15264,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1103,
+    "question": "If sin θ = -  3/5\n and θ lies in the third quadrant, find cos θ",
+    "option": {
+      "a": " 4/5",
+      "b": "-1 1/4",
+      "c": " 5/4",
+      "d": " - 4/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Where sin θ = opp/hyp\n → −3/5\n\nopp = -3, hyp = 5\n\nusing pythagoras formula \n\nhyp<sup>2</sup>\n = adj<sup>2</sup>\n + opp<sup>2</sup>\n\nadj<sup>2</sup>\n = hyp<sup>2</sup>\n - opp<sup>2</sup>\n\nadj<sup>2</sup>\n = 5<sup>2</sup>\n - 3<sup>2</sup>\n → 25 - 9\n\nadj<sup>2</sup>\n = 16\n\nadj = 4\n\ncos θ = adj/hyp\n → - 4/5\n\nIn third quadrant: cos θ is negative → - 45",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1104,
     "question": "Simplify 1/(3−√2)\n in the form of p + q√2",
     "option": {

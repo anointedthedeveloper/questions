@@ -9024,6 +9024,22 @@
     "examyear": "2004"
   },
   {
+    "id": 628,
+    "question": "The diagram above shows forces 4N, 6N, 10N and 8N which act at a point O in the directions indicated. The net horizontal force is",
+    "option": {
+      "a": "13N",
+      "b": "17N",
+      "c": "3N",
+      "d": "7√3N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296034/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_29_hfrs8z.png",
+    "answer": "a",
+    "solution": "Given information:\n\nForce 1: 4N (horizontal, pointing left)\nForce 2: 10N (horizontal, pointing right)\nForce 3: 8N (at 60° above horizontal, pointing right-upward)\nForce 4: 6N (at 60° below horizontal, pointing right-downward)\n\nSolution:\nStep 1: Resolve forces into horizontal components\nTaking rightward as positive direction:\n4N force (horizontal left):\nHorizontal component = -4 N\n10N force (horizontal right):\nHorizontal component = +10 N\n8N force (at 60° above horizontal):\nHorizontal component = 8 cos(60°) = 8 × 0.5 = 4 N\n6N force (at 60° below horizontal):\nHorizontal component = 6 cos(60°) = 6 × 0.5 = 3 N\nStep 2: Calculate net horizontal force\nNet horizontal force = -4 + 10 + 4 + 3\nNet horizontal force = 13 N (rightward)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 629,
     "question": "The earth is four times the size of the moon and the acceleration due to gravity on the earth is 80 times that on the moon. The ratio of the mass of the moon to that of the earth is",
     "option": {
@@ -15484,6 +15500,22 @@
     "image": "",
     "answer": "c",
     "solution": "A compound microscope uses two convex lenses: an objective lens (near the object) and an eyepiece lens (near the eye). To achieve high magnification, both lenses need to have short focal lengths.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1106,
+    "question": "When a telescope is in normal use, the final image is at",
+    "option": {
+      "a": "Infinity",
+      "b": "The focus",
+      "c": "The radius of curvature",
+      "d": "The near point"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A refracting telescope consists of an objective lens and an eyepiece. In normal adjustment, the telescope is set so that the final image is formed at infinity, allowing relaxed viewing.",
     "examtype": "utme",
     "examyear": "2014"
   },

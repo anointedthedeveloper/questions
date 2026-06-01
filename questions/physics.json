@@ -11856,6 +11856,22 @@
     "examyear": "2008"
   },
   {
+    "id": 838,
+    "question": "A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled?",
+    "option": {
+      "a": " 4.0 ms-1",
+      "b": "6.6 m s⁻¹",
+      "c": "12.1 m s⁻¹",
+      "d": "21.0 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nMass m = 5 kg\nRadius r = 3.5 m\nInitial speed v₁ = 7 m s⁻¹\nInitial force = F\nNew force = 3F\n\nSolution:\n\nStep 1: Centripetal force formula\nFor circular motion, centripetal force F = mv² / r\n\nStep 2: Set up ratio for two conditions\nSince m and r are constant, F ∝ v²\nTherefore, F₁ / F₂ = (v₁)² / (v₂)²\n\nStep 3: Substitute known values\nF / (3F) = (7)² / (v₂)²\n1/3 = 49 / (v₂)²\n\nStep 4: Solve for v₂\n(v₂)² = 49 × 3 = 147\nv₂ = √147 ≈ 12.124 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 839,
     "question": "A body of mass 4 kg resting on a smooth horizontal plane is simultaneously acted upon by two perpendicular forces 6 N and 8 N. Calculate the acceleration of the motion",
     "option": {

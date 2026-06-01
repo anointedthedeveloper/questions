@@ -992,6 +992,22 @@
     "examyear": "2013"
   },
   {
+    "id": 85,
+    "question": "The order of financial accounting process involves: (I) recording; (II) presenting; (III) collecting; (IV) analyzing.",
+    "option": {
+      "a": "I, II. Ill and IV",
+      "b": "II, III, I and IV",
+      "c": "Ill, I, II and IV",
+      "d": "IV, III, II and I"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 86,
     "question": "A dishonoured cheque is",
     "option": {
@@ -1867,6 +1883,22 @@
     "section": "I.   Members subscription II.  Fines  from members  III. Donation  IV.  Loan from bank",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 160,
+    "question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled N800,000. A provision of 2% was made for discount and 5% provision for bad and doubtful debts.  Find the amount for sundry debtors after provision.",
+    "option": {
+      "a": "N744,800",
+      "b": "N 760,000",
+      "c": "N784, 000",
+      "d": "N744, 000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -2880,6 +2912,22 @@
     "examyear": "2006"
   },
   {
+    "id": 240,
+    "question": "Cost of goods manufactured is",
+    "option": {
+      "a": "D138,000",
+      "b": "D131,800",
+      "c": "D130,500",
+      "d": "D123,000."
+    },
+    "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 241,
     "question": "A set of instructions fed into a computer for accomplishing a given task is a/an",
     "option": {
@@ -2950,6 +2998,22 @@
       "a": "N 160,000",
       "b": "N  130.000",
       "c": "N  100,000",
+      "d": "N  60,000"
+    },
+    "section": "Motor vehicles (at cost) 1/1/2002   [N1,000,000],  Addition to motor vehicles 1/7/2003  [N  600,000] \tDepreciation rate 10%",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 246,
+    "question": "Using the reducing balance method, the depreciation charged for year 2002 was",
+    "option": {
+      "a": "N 100,000",
+      "b": "N  90,000",
+      "c": "N  80,000",
       "d": "N  60,000"
     },
     "section": "Motor vehicles (at cost) 1/1/2002   [N1,000,000],  Addition to motor vehicles 1/7/2003  [N  600,000] \tDepreciation rate 10%",
@@ -4064,6 +4128,22 @@
     "examyear": "2015"
   },
   {
+    "id": 332,
+    "question": "Which of the following is not stated in the partnership agreement?",
+    "option": {
+      "a": "Profit sharing ratio",
+      "b": "Interest on capital",
+      "c": "Interest on fixed asset",
+      "d": "Purpose of partnership"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 334,
     "question": "The double entry to record the goodwill in the books is debit",
     "option": {
@@ -5152,6 +5232,22 @@
     "examyear": "2004"
   },
   {
+    "id": 421,
+    "question": "Discounts granted to branch customers are treated as a debit to branch",
+    "option": {
+      "a": "stock account and a credit to branch debtors’ account",
+      "b": "discount account and a credit to branch bank account",
+      "c": "stock account and a credit to branch bank account",
+      "d": "discount account and a credit to branch debtors’ account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 422,
     "question": "Transfers from the head office to branches are best carried out at",
     "option": {
@@ -5467,6 +5563,22 @@
     "section": "A company’s authorized share capital was one million ordinary shares at N 1 each. It issued 80% of its shares at N 1.10 per share. 70k was payable on application, 25k on allotment, 10k due on first call and the balance on second call. ",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 446,
+    "question": "The total amount of money received on application was",
+    "option": {
+      "a": "N  5600,00",
+      "b": "N  220,000",
+      "c": "N  800, 000",
+      "d": "N  1 000 000"
+    },
+    "section": "A company’s authorized share capital was one million ordinary shares at N 1 each. It issued 80% of its shares at N 1.10 per share. 70k was payable on application, 25k on allotment, 10k due on first call and the balance on second call. ",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -6432,6 +6544,22 @@
     "examyear": "2015"
   },
   {
+    "id": 529,
+    "question": "When the invoice of a customer is overcast, the supplier will send to him a",
+    "option": {
+      "a": "debit note",
+      "b": "cheque",
+      "c": "credit note",
+      "d": "payment voucher"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A credit note is a letter sent by the supplier to the customer notifying the customer that he or she has been credited a certain amount due to an error in the original invoice or other reasons.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 531,
     "question": "In a bank reconciliation statement, Dishonoured cheques is added to",
     "option": {
@@ -6992,6 +7120,22 @@
     "examyear": "2016"
   },
   {
+    "id": 577,
+    "question": "Given the following information:\n\nDrawings: ₦3,500\nNet loss: ₦2,500\nCapital as at 1.1.2007: ₦35,000\nAdditional capital: ₦10,000\n\nThe adjusted capital as at 31.12.2007 is:",
+    "option": {
+      "a": "₦45,000",
+      "b": "₦39, 000",
+      "c": "₦35,000",
+      "d": "₦46,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find the adjusted capital as at 31.12.2007, start with the opening capital and adjust for all changes during the year.\nGiven:\n\nCapital 1.1.2007: 35,000\nAdditional capital: 10,000\nNet loss: 2,500\nDrawings: 3,500\n\nCapital Account Movement:\nStarting capital (1.1.2007): 35,000\nAdd:\n\nAdditional capital: +10,000\n\nLess:\n\nNet loss: -2,500\nDrawings: -3,500\n\nCalculation:\nAdjusted capital as at 31.12.2007 = 35,000 + 10,000 - 2,500 - 3,500\n= 45,000 - 6,000\n= 39,000",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 578,
     "question": "A receipt is an evidence of",
     "option": {
@@ -7228,6 +7372,22 @@
     "image": "",
     "answer": "b",
     "solution": "When an owner withdraws stock for personal use, the business’s inventory decreases (credit Stock/Inventory), and the owner’s drawings (a personal account) increase (debit Drawings). This entry reflects the transfer of business assets to the owner.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 599,
+    "question": "Sundry debtors in the balance sheet of Onoja Bakery and Sons totaled ₦800,000. A provision for bad and doubtful debts.\nFind the amount for sundry debtors after provision.",
+    "option": {
+      "a": "₦744,800",
+      "b": " ₦760,000",
+      "c": "₦784,000",
+      "d": "₦744,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Assuming the provision for bad and doubtful debts is set at 7% of sundry debtors (a common rate):\n\nGross debtors = ₦800,000\n\nProvision = 7% of ₦800,000 = ₦56,000\n\nNet debtors = ₦800,000 – ₦56,000 = ₦744,000",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -9660,6 +9820,22 @@
     "image": "",
     "answer": "c",
     "solution": "One of the core purposes of bookkeeping is to systematically record and maintain an ongoing, permanent record of every financial transaction of the business. This ensures accuracy, auditability, and continuity in the accounting process.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 781,
+    "question": "Using the information provided: total current assets ₦2,000, total fixed assets ₦4,000, current liabilities ₦1,200, drawings ₦200, and long term loan ₦2,000, calculate the capital of the business.",
+    "option": {
+      "a": "₦2,800.",
+      "b": "₦9,400",
+      "c": " ₦3,400",
+      "d": "₦6,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To calculate capital, use the accounting equation:\nAssets = Liabilities + Capital\nFirst, calculate total assets and total liabilities:\nTotal Assets = Current Assets + Fixed Assets\nTotal Assets = ₦2,000 + ₦4,000 = ₦6,000\nTotal Liabilities = Current Liabilities + Long Term Loan\nTotal Liabilities = ₦1,200 + ₦2,000 = ₦3,200\nUsing the accounting equation:\nCapital = Total Assets - Total Liabilities\nCapital = ₦6,000 - ₦3,200 = ₦2,800\nNote: Drawings represent owner's withdrawals and don't affect the capital calculation using the accounting equation method.\nTherefore, the capital of the business is ₦2,800.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -12800,6 +12976,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1029,
+    "question": "Goods withdraw from business for private use are credited to?",
+    "option": {
+      "a": "drawings",
+      "b": "purchases",
+      "c": "sales",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation: the journal entry is Debit Drawings (owner's use) and Credit Purchases (or Inventory) to remove the goods from business stock.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1030,
     "question": "A piece of equipment costing ₦120,000 was purchased on 1/1/1996. Depreciation was provided at 20% per annum on a straight-line basis. it was sold on 30/6/1999 for ₦31,500.\n\nThe accumulated depreciation provision at the time of sale was?",
     "option": {
@@ -13248,6 +13440,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1064,
+    "question": "The quick ratio is",
+    "option": {
+      "a": "1:2",
+      "b": "1:3:1",
+      "c": "1.7:1",
+      "d": "3:1"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661739/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q49-50_zwwc7b.jpg",
+    "answer": "b",
+    "solution": "Formula:\nQuick Ratio = (Current Assets - Stock) ÷ Current Liabilities\nQuick Assets (Current Assets excluding Stock):\n\nDebtors = ₦15,000\nCash = ₦5,000\nTotal Quick Assets = ₦20,000\n\nCurrent Liabilities:\n\nCreditors = ₦8,000\nWages owed = ₦4,000\nRent owed = ₦3,000\nTotal Current Liabilities = ₦15,000\n\nQuick Ratio:\nQuick Ratio = ₦20,000 ÷ ₦15,000 = 1.33:1\nTherefore, the quick ratio is 1.33:1 (or approximately 1.3:1)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1065,
     "question": "The accounting principle that is applied to check arbitrary actions on the part of accountants is?",
     "option": {
@@ -13372,6 +13580,22 @@
     "image": "",
     "answer": "a",
     "solution": "The three-column cash book differs from the two-column cash book by having an additional discount column.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1075,
+    "question": "Zakari started a business in January 2000. He bought a shop costing ₦54,000 and stock worth ₦7,600. Profit for the year amounted to 22,100. His closing capital was ₦73,800.\nZakari's personal drawings amounted to?",
+    "option": {
+      "a": "₦2,300",
+      "b": "₦9,900",
+      "c": "₦17,100",
+      "d": "₦19,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Opening capital = Shop + Stock = ₦54,000 + ₦7,600 = ₦61,600\nClosing capital = Opening + Profit − Drawings\n₦73,800 = ₦61,600 + ₦22,100 − Drawings\nDrawings = ₦61,600 + ₦22,100 − ₦73,800 = ₦9,900",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -13728,6 +13952,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1102,
+    "question": "On dissolution, the final distribution of cash to partners is based on?",
+    "option": {
+      "a": " patnership agreement",
+      "b": "Articles os asssociation",
+      "c": "goodwill",
+      "d": "capital balances"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The capital balances represent what each partner is entitled to after all partnership affairs are settled.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1103,
     "question": "<b>Use the information below to answer questions 39 and 40</b>\n\nJumoke and Kunle have an original investment of ₦25,000 and ₦15,000 respectively in a partnership. The articles of partnership provides 3% interest on capital and salaries of ₦1,500 and ₦1,000 respectively for the partners. The profits and losses are to be shared in the ratio 3:2.\nMiscellaneous expenses of ₦2,500 were incurred with gross profit of ₦6,500 during the financial year.\n\nThe balance of profit and loss account will be?",
     "option": {
@@ -13948,6 +14188,22 @@
     "image": "",
     "answer": "a",
     "solution": "Reason: bookkeeping is the stage where transactions are recorded (journals, ledgers, subsidiary books). Trial balancing, ledger accounting and final accounting are later stages.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1128,
+    "question": "Given:\n(i) Order of performance\n(ii) Order of liquidity\n(iii)Vertical order\n(iv) Horizontal order\n\n\nThe order in which a balance assets is arranged are?",
+    "option": {
+      "a": " i and ii",
+      "b": "i and iv",
+      "c": "ii and iii",
+      "d": " iii and iv"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a balance sheet, assets can be arranged:\n\nOrder of liquidity → listing assets based on how quickly they can be converted into cash.\n\nVertical order → presenting the items in a top-to-bottom format.\n\nSo, the order in which assets are arranged is order of liquidity and vertical order.",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -14908,6 +15164,22 @@
     "image": "",
     "answer": "a",
     "solution": "Step 1: Track issues using LIFO\n\nJanuary 9th issue (300 units): From January 2nd purchase (500 units available)\nFebruary 14th issue (200 units): From January 2nd purchase (200 units remaining)\nMarch 11th issue (200 units): From March 7th purchase (250 units available)\n\nStep 2: Calculate remaining stock\nAfter March 11th:\n\nFrom January 2nd purchase: 500 - 300 - 200 = 0 units remaining\nFrom March 7th purchase: 250 - 200 = 50 units remaining\n\nClosing stock = 50 units at ₦28 = ₦1,400",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1205,
+    "question": "<b>Use the information below to answer questions 40 and 41.</b>\n\nPurchases:\n\nDate: January 2nd, Qty (units): 500, Rate (₦): 25, Total (₦): 12,500\nDate: March 7th, Qty (units): 250, Rate (₦): 28, Total (₦): 7,000\n\nIssues were made as follow:\n\nDate: January 9th, Qty (units): 300\nDate: February 14th, Qty (units): 200\nDate: March 11th, Qty (units): 200\n\nThe value of closing stock as at February 14th by simple average method is?",
+    "option": {
+      "a": "₦6,625",
+      "b": "₦2,500",
+      "c": "₦4,100",
+      "d": "₦2,700."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1: Calculate simple average cost\nAverage cost = (₦25 + ₦28) ÷ 2 = ₦26.50 per unit\nStep 2: Determine remaining units as at February 14th\n\nTotal purchased: 500 + 250 = 750 units\nTotal issued by Feb 14th: 300 + 200 = 500 units\nRemaining: 750 - 500 = 250 units\n\nStep 3: Calculate closing stock value\nClosing stock = 250 units × ₦26.50 = ₦6,625",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -16156,6 +16428,38 @@
     "image": "",
     "answer": "c",
     "solution": "The earnings yield is calculated as:\n\nEarnings Yield = Earnings per Share/Market Price per Share × 100%\n\nGiven:\n\nEarnings per share (EPS) = ₦0.47\n\nMarket price per share = ₦1.50\n\nEarnings Yield = 0.47/1.50 × 100% ≈ 31.33%",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1298,
+    "question": "<b>Use the information below to answer question 33 and 34</b>\n\nMaimalari Ltd had (i) Earning per share 47k\n(ii) Dividend per share 30k\n(iii) Par value of each share ₦1.20\n(iv) Market price per share ₦1.50\n\nWhat will be the price earnings ratio of the company?",
+    "option": {
+      "a": "3.91",
+      "b": "3.19",
+      "c": "2.95",
+      "d": "2.55"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Price‐Earnings (P/E) ratio is calculated as:\n\nP/E Ratio = Market Price per Share/Earnings per Share = ₦1.50/₦0.47 ≈ 3.19",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1299,
+    "question": "The Partnership Deed normally specifies?",
+    "option": {
+      "a": "how profit or losses are to be shared",
+      "b": " the capital to be contributed annually",
+      "c": " how salaries are paid to employees",
+      "d": "the profit that should be earned annually"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Partnership Deed typically sets out the partners’ profit-and-loss sharing ratio",
     "examtype": "utme",
     "examyear": "2000"
   },

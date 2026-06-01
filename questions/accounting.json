@@ -400,6 +400,22 @@
     "examyear": "2016"
   },
   {
+    "id": 154,
+    "question": "Which of the followings is a credit item in creditors ledger control account?",
+    "option": {
+      "a": "Returns outwards.",
+      "b": "Discount Received.",
+      "c": "Bad debts.",
+      "d": "Purchases."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 180,
     "question": "In a partnership goodwill is recognized when",
     "option": {
@@ -427,6 +443,22 @@
     "section": "A company charges out goods to a branch at cost plus 25 percent.  It invoiced  N 12,000 worth of goods",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 197,
+    "question": "A cash discount is a",
+    "option": {
+      "a": "Trading Account item",
+      "b": "Profit and Loss Account item",
+      "c": "Appropriation Account item",
+      "d": "Receipts and Payments Account item"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
@@ -1664,6 +1696,22 @@
     "examyear": "2016"
   },
   {
+    "id": 601,
+    "question": "When the purchase consideration is lower ttan the net asset, the buyer has gained the advantage of",
+    "option": {
+      "a": "capital reserve",
+      "b": "revenue reserve",
+      "c": "net income",
+      "d": "net loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Capital Reserve is a type of profit that is earned on capital transactions - an example would be the profit arising from the forfeiture of shares, sales of assets etc",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 605,
     "question": "Which of the following expenses relate to the profit and loss account of a manufacturing firm?",
     "option": {
@@ -2220,6 +2268,22 @@
     "image": "",
     "answer": "c",
     "solution": "From the given information:\n\nOpening Stock (1/4/94) = ₦800\nPurchases of flour = ₦2,450\nWages of bakery staff (direct labor) = ₦675\nClosing Stock (31/3/95) = ₦940\n\nCost of Goods Sold = ₦800 + ₦2,450 + ₦675 - ₦940\nCost of Goods Sold = ₦3,925 - ₦940 = ₦2,985\nTherefore, the cost of goods sold is ₦2,985.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 791,
+    "question": "The major distinguishing element between the final accounts of a partnership and a sole trader is the",
+    "option": {
+      "a": "drawings account",
+      "b": "appropriation account",
+      "c": "capital account",
+      "d": "creditors account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a sole trader’s final accounts, after the Trading and Profit & Loss Account, the net profit is simply transferred to the proprietor’s capital account. A partnership, however, requires an additional Appropriation Account to show how the net profit is distributed among partners (interest on capital, salaries, profit shares, etc.). This “profit distribution” step is unique to partnerships.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -4076,6 +4140,22 @@
     "image": "",
     "answer": "b",
     "solution": "Book value per share is calculated as:\n\nBook value per share = Net assets/Shares outstanding = ₦600,000/30,000 = ₦20\nSo the corporation has a book value of ₦20 per share.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1414,
+    "question": "If a monthly insurance premium is remitted to a company by the state government, the initial deductions from employees are recorded in?",
+    "option": {
+      "a": "the general fund",
+      "b": "agency fund",
+      "c": "special fund",
+      "d": "general long-term fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a government entity (like the state) collects and remits insurance premiums on behalf of employees, it’s acting as an agent, not as the principal. These collections are recorded in an agency fund, which tracks resources held temporarily for others and ensures they’re remitted properly without affecting the government’s own operating results.",
     "examtype": "utme",
     "examyear": "199"
   },

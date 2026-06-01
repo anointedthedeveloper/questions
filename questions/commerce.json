@@ -1184,7 +1184,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 79,
     "question": "The availability of goods and services is brought to the notice of consumers through",
     "option": {
@@ -1233,8 +1232,6 @@
     "examyear": "2005"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 82,
     "question": "A type of credit offered by both commercial and merchant banks in Nigeria is ",
     "option": {
@@ -1523,7 +1520,6 @@
     "examyear": "2005"
   },
   {
-<<<<<<< Updated upstream
     "id": 100,
     "question": "Given\n    N\n Sales    15 000\n Opening stock  5 600\n Purchases   9 700\n Closing stock  4 400\n Gross profit  4 500\n Net profit   2 000\nFrom the data above, calculate the rate of turnover \n",
     "option": {
@@ -1572,8 +1568,6 @@
     "examyear": "2006"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 103,
     "question": "The input, output and central processing units are the basic components of a computer's",
     "option": {
@@ -2470,7 +2464,6 @@
     "examyear": "2007"
   },
   {
-<<<<<<< Updated upstream
     "id": 159,
     "question": "Public relations and advertising are similar in terms of",
     "option": {
@@ -2487,8 +2480,6 @@
     "examyear": "2007"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 160,
     "question": "A major function of an entrepreneur is",
     "option": {
@@ -2665,7 +2656,6 @@
     "examyear": "2007"
   },
   {
-<<<<<<< Updated upstream
     "id": 173,
     "question": "One of the functions of the Nigeria Ports Authority is the provision of  ",
     "option": {
@@ -2682,8 +2672,6 @@
     "examyear": "2007"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 174,
     "question": "The   World   Tourism   Organization   has   its headquarters in ",
     "option": {
@@ -3660,7 +3648,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 236,
     "question": "An example of a non-insurable risk is ",
     "option": {
@@ -3693,8 +3680,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 238,
     "question": "An agreement between two parties which is enforceable by law is a ",
     "option": {
@@ -3727,7 +3712,6 @@
     "examyear": "2008"
   },
   {
-<<<<<<< Updated upstream
     "id": 240,
     "question": "When an employee incurs expenses while executing his normal duty, the employer is responsible for his ",
     "option": {
@@ -3760,8 +3744,6 @@
     "examyear": "2008"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 242,
     "question": "The practice whereby government relinquishes its ownership interest in a public enterprises is ",
     "option": {
@@ -4114,7 +4096,6 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 265,
     "question": "The transmission of telephone services from one country to another is facilitated by ",
     "option": {
@@ -4131,8 +4112,6 @@
     "examyear": "2009"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 266,
     "question": "The principle of insurance which entitles an insurance company to take any advantage due to the insured after full indemnity is ",
     "option": {
@@ -4485,7 +4464,6 @@
     "examyear": "2009"
   },
   {
-<<<<<<< Updated upstream
     "id": 289,
     "question": "Unresolved disputes between the employer and employees are usually referred to the ",
     "option": {
@@ -4518,8 +4496,6 @@
     "examyear": "2009"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 291,
     "question": "The primary memory component of a computer is the ",
     "option": {
@@ -4792,7 +4768,6 @@
     "examyear": "2010"
   },
   {
-<<<<<<< Updated upstream
     "id": 308,
     "question": "Entrepot trade usually occurs in ",
     "option": {
@@ -4809,8 +4784,6 @@
     "examyear": "2010"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 309,
     "question": "The document issued to a port authority when goods are deposited is a ",
     "option": {
@@ -5291,7 +5264,6 @@
     "examyear": "2010"
   },
   {
-<<<<<<< Updated upstream
     "id": 340,
     "question": "The major problem confronting Cyber Café operators is ",
     "option": {
@@ -5324,8 +5296,6 @@
     "examyear": "2010"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 343,
     "question": "One way by which a business can discharge its social responsibility to its community is to ",
     "option": {
@@ -5865,6 +5835,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 377,
+    "question": "The arrangement and interrelationship of the various components and positions of a business is referred to as ",
+    "option": {
+      "a": "organizational structure ",
+      "b": "clarity of objective ",
+      "c": "unity of direction ",
+      "d": "line structure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -6494,22 +6480,6 @@
     "examyear": "2012"
   },
   {
-    "id": 418,
-    "question": "A business organization can obtain long-term financing through ",
-    "option": {
-      "a": "bank overdraft ",
-      "b": "the sale of shares ",
-      "c": "credit purchases ",
-      "d": "bureau de change "
-    },
-    "section": "",
-    "image": "",
-    "answer": "b",
-    "solution": "",
-    "examtype": "utme",
-    "examyear": "2012"
-  },
-  {
     "id": 419,
     "question": "The portion of the authorized share capital given out to the public for subscription is ",
     "option": {
@@ -6585,6 +6555,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 425,
+    "question": "Dealing in quoted securities on the Nigeria Stock Exchange is restricted to authorized ",
+    "option": {
+      "a": "companies ",
+      "b": "brokers ",
+      "c": "investors ",
+      "d": "principals"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -8366,6 +8352,22 @@
     "examyear": "2013"
   },
   {
+    "id": 540,
+    "question": "Obtaining feedback on the quality and performance of competing products of different manufacturers, explains the retailer’s function of",
+    "option": {
+      "a": "after sales service",
+      "b": "granting to credits to consumers",
+      "c": "market research",
+      "d": "stocking variety of goods"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 541,
     "question": "The direct contact of a seller with potential buyers with a view to making sales is called",
     "option": {
@@ -9550,7 +9552,6 @@
     "examyear": "1990"
   },
   {
-<<<<<<< Updated upstream
     "id": 617,
     "question": "A business is in existence primarily to",
     "option": {
@@ -9558,15 +9559,6 @@
       "b": "provide goods and services",
       "c": "provide employment",
       "d": "compete with others in business"
-=======
-    "id": 616,
-    "question": "Which of the following statements best describes net profit? The excess of",
-    "option": {
-      "a": "total revenue over total expenditure",
-      "b": "total capital income over expenditure",
-      "c": "sales over purchases",
-      "d": "total capital formation over capital consumption"
->>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -10536,7 +10528,6 @@
     "examyear": "2016"
   },
   {
-<<<<<<< Updated upstream
     "id": 682,
     "question": "Labour as an input in production can be motivated by",
     "option": {
@@ -10553,8 +10544,6 @@
     "examyear": "2016"
   },
   {
-=======
->>>>>>> Stashed changes
     "id": 683,
     "question": "Discharging certain duties by an organization to the public to gain high patronage is a concern of financial responsibility",
     "option": {

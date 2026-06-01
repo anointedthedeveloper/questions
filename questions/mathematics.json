@@ -4192,6 +4192,22 @@
     "examyear": "2004"
   },
   {
+    "id": 286,
+    "question": "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white balls from the baskets is 3/7, how many white balls were introduced?",
+    "option": {
+      "a": " 12",
+      "b": "21",
+      "c": "28",
+      "d": "32"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Number of white balls = x\nNumber of red balls = 12\nNumber of black balls = 16\nTotal number of balls        = 28 + x\nP(white balls) = 3/7\nBut P(white balls)               = x/(28+x)=3/7=x/(28+x) 3(28+x)=7x84+3x=7x7x-3x=844x=84x=21",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 287,
     "question": "find the mean deviation of 1, 2, 3 and 4",
     "option": {

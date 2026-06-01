@@ -2768,6 +2768,22 @@
     "examyear": "2016"
   },
   {
+    "id": 183,
+    "question": "A satellite moves in a circular orbit of radius 4R round the earth. The acceleration of the satellite in terms of g is",
+    "option": {
+      "a": "g/16",
+      "b": "g/4",
+      "c": "4/g",
+      "d": "16/g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The acceleration of the satellite is g/16, where g is the acceleration due to gravity at Earth's surface.\nExplanation: Gravitational acceleration decreases with the square of distance. At 4 times Earth's radius, acceleration is (1/4²) = 1/16 of surface gravity.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 184,
     "question": "I. Chemical II. Sound III. Electricity\n\nWhich of the above forms of energy can directly be converted to light energy?",
     "option": {

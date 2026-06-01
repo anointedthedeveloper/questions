@@ -1,5 +1,21 @@
 [
   {
+    "id": 14,
+    "question": "Money set aside for the saving of business overheads    is    referred    to   ",
+    "option": {
+      "a": "Capital Expenditure  ",
+      "b": "Revenue  Expenditure ",
+      "c": "Revenue receipts",
+      "d": ""
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 26,
     "question": "Which of the following is not a book of original entry? ",
     "option": {
@@ -155,6 +171,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 142,
+    "question": "A proprietor started business with N13, 000.  Assets and liabilities at the end of the year; fixed assets N8, 800, stock N2, 600, debtors  N1 , 000, cash N3, 000 and creditors N1 , 000. Determine the profit for the year?",
+    "option": {
+      "a": "N2, 400",
+      "b": "N3, 000",
+      "c": "N9, 800",
+      "d": "N 1 , 400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -430,6 +462,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
+  },
+  {
+    "id": 274,
+    "question": "A partner who only makes capital contribution but does not take part in the management of the partnership business is a/an",
+    "option": {
+      "a": "ordinary partner",
+      "b": "limited partner",
+      "c": "dormant partner",
+      "d": "nominal partner"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
   },
   {
     "id": 280,
@@ -848,6 +896,22 @@
     "examyear": "2015"
   },
   {
+    "id": 557,
+    "question": "If a trail balance is in agreement, one of the statement is untrue",
+    "option": {
+      "a": " the accounting system is error free",
+      "b": "equal debit entries and credit entries were recorded for each transaction",
+      "c": "the debit and credit from the journal were posted to the accounts",
+      "d": "account balances were correctly computed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "agreement of trial balance does mean it is error free. Some errors might not be disclosed by mere agreement",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 561,
     "question": "An advantage of using accounting ratios is that",
     "option": {
@@ -1136,6 +1200,22 @@
     "examyear": "2020"
   },
   {
+    "id": 774,
+    "question": "In a control account, provision for bad debts is found on the",
+    "option": {
+      "a": "credit side of the sales ledger control account",
+      "b": "debit side of the purchases ledger control açcount",
+      "c": "debit side of the sales ledger control account",
+      "d": " credit side of the purchases ledger control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The provision for bad debts reduces the net amount owed by customers, so it is recorded as a credit in the Sales Ledger Control Account to offset (reduce) the balance of debtors.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 780,
     "question": "One of the major features of book keeping is that it",
     "option": {
@@ -1232,6 +1312,22 @@
     "examyear": "2021"
   },
   {
+    "id": 839,
+    "question": "The interest on partner's loan is",
+    "option": {
+      "a": " credited in current account",
+      "b": " debited in profit and loss account",
+      "c": " credited in profit and loss account",
+      "d": "debited in current account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Interest on a partner’s loan is an expense to the business and is therefore charged to the Profit and Loss Account (debited), with the corresponding credit going to the partner’s current account.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 857,
     "question": "Use the information below to answer question\n\nAn asset was purchase for ₦343m in 2003.\nThe estimated life of the asset was 3 years with a residual value of ₦28m.\n\nWhat was the asset value at the beginning of the third year?",
     "option": {
@@ -1260,6 +1356,22 @@
     "image": "",
     "answer": "c",
     "solution": "The fundamental accounting equation is:\nAssets = Capital + Liabilities\nGiven:\n\nCapital = ₦1,000\nLiabilities = ₦500\nAssets = ₦1,500\n\nSubstituting into the equation:\n₦1,500 = ₦1,000 + ₦500\n₦1,500 = ₦1,500",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 875,
+    "question": "Sule and Ahmed are in partnership sharing profit and losses equally. If Khadija is admitted as a new partner to take 1/5 th as her share. What is the new profit or loss sharing?",
+    "option": {
+      "a": "Sule1/3, Ahmed1/3, Khadija 1/3",
+      "b": "Sule1/3, Ahmed1/3, Khadija 1/3",
+      "c": "Sule1/5, Ahmed1/5, Khadija3/5",
+      "d": "Sule2/5, Ahmed2/5, Khadija1/5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The new partners’ profit‐sharing becomes:\n\nKhadija takes 1/5\n\nThe remaining 4/5, is shared equally between Sule and Ahmed, so each gets\n\n4/5 × 1/2 = 2/5.\n\nNew ratio:\n\nSule: 2/5\n\nAhmed: 2/5\n\nKhadija: 1/5",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -1374,6 +1486,54 @@
     "solution": "Contigency fund is established by the constitution of 1979 to take care of any nation disaster or unforeseen circumstances.",
     "examtype": "utme",
     "examyear": "2023"
+  },
+  {
+    "id": 925,
+    "question": "The amount by which assets exceeds liabilities is",
+    "option": {
+      "a": "capital",
+      "b": "premium",
+      "c": "bonus",
+      "d": "provision"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Owner's equity (also known as shareholder's equity or capital) represents the remaining value that belongs to the company's owners after all liabilities are settled. It essentially reflects the net worth of the business from th owners' perspective.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 930,
+    "question": "Tolu purchased a machine for ₦6,000 on credit. The effect is to debit.. supplier\nand credit the account of the",
+    "option": {
+      "a": "machinery",
+      "b": "creditor",
+      "c": "cash",
+      "d": "debtor"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The complete journal entry would be:\n\nDebit: Machinery ₦6,000\nCredit: Creditor/Supplier ₦6,000\n\nThis follows the accounting principle that when you acquire an asset on credit, you debit the asset account and credit the creditor's account.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 936,
+    "question": "Pending the location of an error, the difference in the Trial Balance is posted to a __",
+    "option": {
+      "a": "control",
+      "b": " profit and loss appropriation",
+      "c": "profit and loss",
+      "d": "suspense"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When a trial balance doesn't balance (meaning the total debits don't equal the total credits), there's an error somewhere in the accounting records. Until the error is identified and corrected, accountants use a suspense account to temporarily hold the difference.",
+    "examtype": "utme",
+    "examyear": "2024"
   },
   {
     "id": 939,
@@ -1548,6 +1708,22 @@
     "image": "",
     "answer": "a",
     "solution": "Explanation: Rent received from subletting is other income and is added after gross profit when calculating net profit.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1038,
+    "question": "A component of an overhead manufacturing cost is?",
+    "option": {
+      "a": "cost of work-in-progress",
+      "b": "cost of finished goods",
+      "c": "labour",
+      "d": "rent"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Explanation: Manufacturing overheads are indirect costs of production (e.g., rent, utilities, indirect labour, depreciation) — costs that can’t be directly traced to specific units produced.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -1772,6 +1948,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Total direct labour hours\nEach worker: 40 hours/week × 50 weeks/year = 2,000 hours/year\n3 workers: 2,000 × 3 = 6,000 hours/year\n\nStep 2: Overhead rate\nOverhead rate = Total factory overhead ÷ Total direct labour hours\n= ₦60,000 ÷ 6,000 hours\n= ₦10 per hour",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1193,
+    "question": "<b>Use the information below to answer questions 28 and 29.</b>\n\n<b>It is the tradition of the club to write off an amount equal to 25% of the subscriptions received as other expenses.</b>\n\nDetermine the club’s excess ofincome over expenditure",
+    "option": {
+      "a": "₦12,000",
+      "b": "₦15,000.",
+      "c": "₦10,000",
+      "d": "₦14,500"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665518/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q28-29_mt0snk.png",
+    "answer": "a",
+    "solution": "Given Information from the Account:\n\nTotal for both sides: ₦35,000\nOther expenses = ₦5,000 (25% of ₦20,000 subscriptions as calculated in the previous question)\n\nIncome Side:\n\nSubscriptions received: ₦20,000\nDonations received: ₦10,000\nProfits on sale of investment: ₦5,000\nTotal Income = ₦35,000\n\nExpenditure Side:\n\nWaged: ₦12,000\nElectricity: ₦5,000\nDepreciation - Furniture: ₦1,000\nOther expenses: ₦5,000 (calculated as 25% of subscriptions)\nExcess of income over expenditure: ?\n\nCalculation:\nTotal Expenditure (excluding excess) = ₦12,000 + ₦5,000 + ₦1,000 + ₦5,000 = ₦23,000\nSince both sides must balance at ₦35,000:\nExcess of income over expenditure = ₦35,000 - ₦23,000 = ₦12,000",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -2016,6 +2208,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1316,
+    "question": "The basic role of accounting is to?",
+    "option": {
+      "a": "detect fraud",
+      "b": "attest to finacial statements",
+      "c": "measure performance",
+      "d": "protect sharehlders"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The fundamental purpose of accounting is to measure and communicate an entity’s financial performance and position.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1319,
     "question": "When a proprietor withdraws cash from the business for private use, he?",
     "option": {
@@ -2192,6 +2400,38 @@
     "examyear": "199"
   },
   {
+    "id": 1394,
+    "question": "The limitations of the receipts and payments account arise mainly because of the reliance on?",
+    "option": {
+      "a": "cash movement as evidence of transaction",
+      "b": "the acconuting officer to report",
+      "c": " the capital account of the organization",
+      "d": "the transaction papers as evidence of transaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The primary limitation of a receipts and payments account is its reliance on actual cash movements as the sole evidence of transactions. Because it’s prepared on a cash basis and ignores accruals, it:\n\nOmits non-cash items (e.g., depreciation, accrued expenses)\n\nDoes not match income and related expenses to the same period\n\nFails to show true surplus or deficit",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1406,
+    "question": "Under which of these conditions can a company issue shares at discount? (i)A resolution must be passed at a general meeting (ii) The amount of discount must be stated in the resolution (iii) The share must have existed for at least six years (iv) On the order of a court.",
+    "option": {
+      "a": "i, ii and iii only",
+      "b": " i, ii and iv only",
+      "c": " i, iii, and iv only",
+      "d": " ii, iii and iv only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The issuance of shares at a discount in Nigeria is only permissible when:\n\nA special resolution of the shareholders is passed approving the issue at a discount, and\n\nThe amount of the discount is specifically stated in that resolution, and\n\nA court order (from the Federal High Court) sanctions the proposed issue at a discount.\n\nThere is no requirement that the share must have existed for a minimum number of years.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1425,
     "question": "Which of the following demonstrates the imprest system?",
     "option": {
@@ -2224,6 +2464,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1435,
+    "question": "The process of allocating the cost of an intangible assets over its useful life is known as",
+    "option": {
+      "a": "depreciation",
+      "b": "extraction",
+      "c": "depletion",
+      "d": "amortization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Amortization is the systematic allocation of the cost of an intangible asset (like patents, copyrights, or trademarks) over its useful life.\n\nDepreciation is used for tangible assets.\n\nDepletion is used for natural resources.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1438,
     "question": "which of the following conditions best represents the net effect of discount allowed on credit sales on the accounts of the business?",
     "option": {
@@ -2236,6 +2492,22 @@
     "image": "",
     "answer": "a",
     "solution": "Discount allowed is a reduction granted to customers for early payment. It:\n\nReduces the amount receivable from debtors (hence reduces the balance of the sales ledger control account).\n\nIt does not increase net profit (it actually reduces it),\n\nIt does not affect the value of sales,\n\nIt has nothing to do with purchases",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1450,
+    "question": "Adamu Babaji and Chukwu are in partnership and\nthey share profit and losses on ratio 3:2:1. Their\nrespective capitals are ₦20,000, ₦15,000 and ₦5,000\non which they are entitled to interest at 5% per\nannum. The profit for the year before charging interest\non capital amounted to ₦5,500. Calculate the profit\nfor Adamu.",
+    "option": {
+      "a": "₦583",
+      "b": "₦1,000",
+      "c": "₦1,167",
+      "d": "₦1,750"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Calculate interest on capita\n\nAdamu: ₦20,000 × 5% = ₦1,000\nBabaji: ₦15,000 × 5% = ₦750\nChukwu: ₦5,000 × 5% = ₦250\n\nTotal interest = ₦1,000 + ₦750 + ₦250 = ₦2,000\n\nStep 2: Remaining profit after interest on capital\n\nProfit before interest = ₦5,500\n\n{Remaining profit} = ₦5,500 - ₦2,000 = ₦3,500\n\n\nStep 3: Share remaining profit in ratio 3:2:1\n\nTotal ratio = 3 + 2 + 1 = 6\n\nAdamu: {3/6} × ₦3,500 = ₦1,750\nBabaji:{2/6} × ₦3,500 = ₦1,167\nChukwu: {1/6} × ₦3,500 = ₦583\n\nStep 4: Adamu’s total profit\n\nAdamu's total profit = Interest on capital + Share of remaining profit\n\n\n₦1,000 + ₦1,750 = ₦2,750\n\n\nonly for Adamu’s share of the remaining profit (Step 3) after interest on capital is charged.\n\nAdamu’s share of remaining profit = ₦1,750\n",
     "examtype": "utme",
     "examyear": "1997"
   },

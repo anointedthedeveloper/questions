@@ -1072,6 +1072,22 @@
     "examyear": "2002"
   },
   {
+    "id": 216,
+    "question": "In the diagram above, a cylinder is summounted by a hemisphere bowl. Calculate the volume of the solid.",
+    "option": {
+      "a": "180 πcm<sup>3</sup>",
+      "b": "162 πcm<sup>3</sup>",
+      "c": "216 πcm<sup>3</sup>",
+      "d": "198 πcm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710698127/ALOC-Questions/Mathematics/2002/math_2000_q45_lfrxg3.jpg",
+    "answer": "d",
+    "solution": "Volume of cylinder = πr<sup>2</sup>h\n= π x 3<sup>2</sup> x 20\n= π x 9 x 20\n= 180 πcm<sup>3</sup>\nVolume of hemisphere = 2/3πr<sup>3</sup>\n= 2/3 x π x 3<sup>2</sup>\n= 2 x π x 3<sup>2</sup>\n= 2 x π x 9\n= 18π\n= Volume of the solid = 180π x 18π\n= 198πcm<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 220,
     "question": "Use the graph find the values of p and q if px + qy ≥\n 4",
     "option": {
@@ -1120,6 +1136,22 @@
     "examyear": "2003"
   },
   {
+    "id": 231,
+    "question": "The sum of four numbers is 1214<sub>5</sub>\n. What is the average expressed in base five?",
+    "option": {
+      "a": " 114",
+      "b": "141",
+      "c": "401",
+      "d": "411"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Convert to base 10, divide and then re-convert to base 5.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 239,
     "question": "Triangle OPQ above is the solution of the inequalities",
     "option": {
@@ -1132,6 +1164,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699241/ALOC-Questions/Mathematics/2003/math_2003_q18_hgssa8.jpg",
     "answer": "a",
     "solution": "Lines bounding Δ OPQ\nOQ; y - x = 0\ny - x ≥ 0\nPQ; x + 1 = 0\nx + 1 ≥ = 0\nPO; y + x = 0\ny + x ≤ 0\n∴ x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 241,
+    "question": "The sum of the first n terms of an arithmetic progresssion is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
+    "option": {
+      "a": "6",
+      "b": "7",
+      "c": "8",
+      "d": "9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "S<sub>n</sub> =252, a = −16 and l =72 S<sub>n</sub> =n/2 (−16 +72 ). 252 = n/2 (−16 + 72). N = 504/56. n=9",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -3536,6 +3584,22 @@
     "examyear": "2012"
   },
   {
+    "id": 732,
+    "question": "Solve for x and y in the equations below\nx<sup>2</sup>  - y<sup>2</sup>  = 4\nx + y = 2",
+    "option": {
+      "a": "x = 0, y = -2",
+      "b": "x = 0, y = 2",
+      "c": " x = 2, y = 0",
+      "d": " x = -2, y = 0"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "x<sup>2</sup>  - y<sup>2</sup>  = 4 .... (1)\nx + y = 2 .... (2)\n\nSimplify eqn (1)\n\n(x + y)(x - y) = 4\n\nFrom eqn (2)\nx + y = 2 so substitute it into simplified eqn (1), we have\n\n2 (x - y) = 4\n\ntherefore,\nx - y = 2 ... (1)\nx + y = 2\n---------\n2x = 4\n---------\n\nx = 2, when y = 0",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 734,
     "question": "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3",
     "option": {
@@ -4252,6 +4316,22 @@
     "image": "",
     "answer": "b",
     "solution": "1 - (1/7 x 3(1/2) ÷ 3/4\n\n\n1 - (1/7 x 7/2) x 4/3\n\n\n1 - 1/2 x 4/3\n\n\n1 - 2/3 = 1/3",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 862,
+    "question": "In the cyclic quadrilateral above . Find < PRO",
+    "option": {
+      "a": "70°",
+      "b": "20°",
+      "c": "50°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003216/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q44_ogwfpl.jpg",
+    "answer": "b",
+    "solution": "< PRO = 180° - (110 + 50)°\n= 180 - 160 = 20°",
     "examtype": "utme",
     "examyear": "2016"
   },

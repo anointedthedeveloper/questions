@@ -1072,6 +1072,22 @@
     "examyear": "2015"
   },
   {
+    "id": 156,
+    "question": "Heat transfer in the surrounding without a material medium is possible through?  ",
+    "option": {
+      "a": "Conduction",
+      "b": "Convection",
+      "c": "Radiation",
+      "d": "Expansion"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Conduction, convection of heat or electricity through a material medium is required but radiation requires no material medium for heat transfer ",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 159,
     "question": "What type of electromagnetic radiation can be used to take photographs in the haze?",
     "option": {
@@ -3552,6 +3568,22 @@
     "examyear": "2024"
   },
   {
+    "id": 598,
+    "question": "The property by which a material returns to its original shape after the removal of force is called ",
+    "option": {
+      "a": "Elasticity",
+      "b": "Ductility",
+      "c": "Malleability",
+      "d": "Plasticity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The property described in this question is called Elasticity which is the ability of a substance to regain its original shape and size after the removal of the distorting force.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 600,
     "question": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
     "option": {
@@ -4368,6 +4400,22 @@
     "examyear": "2006"
   },
   {
+    "id": 744,
+    "question": "An engine of a car of power 80 kW moves on a rough road with a velocity of 32 m/s. The force required to bring it to rest is?",
+    "option": {
+      "a": "2.56 × 10⁶ N",
+      "b": "2.50 × 10⁶ N",
+      "c": "2.80 × 10³ N",
+      "d": "2.50 × 10³ N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nPower P = 80 kW = 80 000 W\nVelocity v = 32 m s⁻¹\n\nSolution:\n\nStep 1: Relationship between power, force, and velocity\nAt constant velocity, the engine’s power equals the product of the driving force and velocity:\nP = F × v\n\nStep 2: Solve for the force\nF = P / v = 80 000 W / 32 m s⁻¹ = 2 500 N\n\nStep 3: Express in scientific notation\n2 500 N = 2.50 × 10³ N",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 746,
     "question": "The frequency of the wave in the diagram above is",
     "option": {
@@ -4572,6 +4620,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431541/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_36_mzam4o.png",
     "answer": "d",
     "solution": "The inductive reactance is given as\nXl = 2πfl\n= 2 x 50/π x 0.1\n= 10Ω\nAgain from ohms law,\nR = V/I = 75/1.5 = 50Ω\n∴ Thus the inductive reactance and the resistance are respectively 10Ω, and 50Ω",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 793,
+    "question": "A 40kW electric cable was used to transmit electricity through a resistor of resistance 2.00Ω at 800V. The power loss as internal energy is",
+    "option": {
+      "a": " 4.0 × 10² W",
+      "b": "5.0 × 10² W",
+      "c": " 4.0 × 10³ W",
+      "d": "5.0 × 10³ W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nPower transmitted (P) = 40 kW = 40,000 W\nResistance of cable (R) = 2.00 Ω\nVoltage (V) = 800 V\nPower loss = ?\n\nStep 1: Calculate current in the cable\nUsing P = VI:\nI = P/V\nI = 40,000/800\nI = 50 A\nStep 2: Calculate power loss in the resistor\nPower loss occurs due to the resistance of the cable:\nP_loss = I²R\nSubstituting values:\nP_loss = (50)² × 2.00\nP_loss = 2500 × 2.00\nP_loss = 5000 W\nP_loss = 5.0 × 10³ W",
     "examtype": "utme",
     "examyear": "2007"
   },

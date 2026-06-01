@@ -384,6 +384,22 @@
     "examyear": "3"
   },
   {
+    "id": 159,
+    "question": "The price of insurance is known as",
+    "option": {
+      "a": "Rate",
+      "b": "Interest",
+      "c": "Premium",
+      "d": "Profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 161,
     "question": "------------- is a policy designed to place the insured in the same financial position as he was immediately before the happening of the event insured against",
     "option": {
@@ -1136,6 +1152,22 @@
     "examyear": "2015"
   },
   {
+    "id": 338,
+    "question": "The amount charged when a ship overstays at the port under a marine contract is",
+    "option": {
+      "a": "penalty",
+      "b": "fine",
+      "c": "overcharge",
+      "d": "demurrage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 339,
     "question": "Which of the following documents forms the basis of a contract in insurance business?",
     "option": {
@@ -1147,6 +1179,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 340,
+    "question": "The  difference  between  theft  and burglary insurance lies in evidence of",
+    "option": {
+      "a": "pilfering  of insured items",
+      "b": "removal of insured items by tricks",
+      "c": "forceful violent entry or exit affecting insured items",
+      "d": "threat leading to loss of insured items"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

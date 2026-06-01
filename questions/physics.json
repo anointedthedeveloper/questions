@@ -10928,6 +10928,22 @@
     "examyear": "2006"
   },
   {
+    "id": 725,
+    "question": "The process through which free electrons leave the surface of hot metal is known as?",
+    "option": {
+      "a": "photon emission",
+      "b": "photo emission",
+      "c": "thermionic emission",
+      "d": " electron emission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Thermionic emission occurs when heat provides sufficient energy to electrons in a metal to overcome the work function, allowing them to escape from the surface.",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 726,
     "question": "The battery connection that permits current to flow across a p-n junction is called?",
     "option": {

@@ -912,6 +912,38 @@
     "examyear": "2022"
   },
   {
+    "id": 868,
+    "question": "Given:\n\nCapital ...........₦1000\nLiabilities........₦500\nAssets.............₦1500\nThe accounting equation can be expressed as?",
+    "option": {
+      "a": "₦1000 + ₦500 + ₦1500 = ₦3000\n",
+      "b": "₦1000 - ₦500 + ₦1500 = ₦2000\n",
+      "c": "₦1000 + ₦500 = ₦1500\n",
+      "d": "₦1500 + ₦500 = ₦2000\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The fundamental accounting equation is:\nAssets = Capital + Liabilities\nGiven:\n\nCapital = ₦1,000\nLiabilities = ₦500\nAssets = ₦1,500\n\nSubstituting into the equation:\n₦1,500 = ₦1,000 + ₦500\n₦1,500 = ₦1,500",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 877,
+    "question": "Which of these is the main source document for recording cash paid into bank?",
+    "option": {
+      "a": "invoice",
+      "b": "credit note",
+      "c": "cheque book",
+      "d": "pay-in-slip"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The main source document for recording cash paid into the bank is a pay-in-slip.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 885,
     "question": "The following are importance of branch account except",
     "option": {
@@ -1200,6 +1232,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1098,
+    "question": "<b>Use the information below to answer questions 33 and 34</b>\n\nThe depreciation to be charged to department T is ?",
+    "option": {
+      "a": "₦300",
+      "b": "₦400",
+      "c": "₦500",
+      "d": "₦940"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756662591/ALOC-Questions/Accounting/UTME/2004/Accounting_JAMB_2004_Q33-34_if0cr9.png",
+    "answer": "d",
+    "solution": " 1,000  (Total depreciation)\n-   60  (Depreciation for S)\n──────\n   940",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1100,
     "question": "Discounts granted branch customers are treated as a debit to branch?",
     "option": {
@@ -1228,6 +1276,22 @@
     "image": "",
     "answer": "b",
     "solution": "Advertising expenses are directly related to promoting and selling the product.\n\nThey are part of selling and distribution expenses, which fall under the responsibility of the sales department.\n\nProduction handles manufacturing, administration handles general office and management expenses, and purchases deals with acquiring raw materials, none of which cover advertising costs.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1160,
+    "question": "The amount of each invoiced goods sent to the branch is debited to?",
+    "option": {
+      "a": "branch expense account and credited to branch debtors' accoount",
+      "b": "branch stock account account and credited to the goods sent to branch account",
+      "c": "branch debtors' account and credited to branch expense account",
+      "d": "goods sent to branch expense account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "This entry correctly reflects that stock (an asset) is being transferred to the branch, with the corresponding credit to goods sent to branch account.",
     "examtype": "utme",
     "examyear": "2003"
   },

@@ -17024,6 +17024,22 @@
     "examyear": "2014"
   },
   {
+    "id": 1108,
+    "question": "What charge is stored in a 0.1 F capacitor when a 10 V supply is connected across it?",
+    "option": {
+      "a": "1 C",
+      "b": "5 C",
+      "c": "4 C",
+      "d": "2 C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nCapacitance, C = 0.1 F\nVoltage, V = 10 V\n\nSolution:\n\nStep 1: Formula for charge stored in a capacitor\nThe charge Q stored in a capacitor is given by:\nQ = C × V\n\nStep 2: Substitute the values\nQ = 0.1 F × 10 V = 1 C",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
     "id": 1109,
     "question": "The maximum power transfer occur in a cell when the external resistance is",
     "option": {

@@ -11072,6 +11072,22 @@
     "examyear": "2013"
   },
   {
+    "id": 801,
+    "question": "The graph above is correctly represented by",
+    "option": {
+      "a": "y = x<sup>2</sup> - x - 2",
+      "b": "y = x<sup>2</sup> - 3x + 2",
+      "c": "y = x<sup>2</sup> - x - 1",
+      "d": "y = x<sup>2</sup> + x - 2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131324/ALOC-Questions/Mathematics/2013/2013_MATH_JAMB_Q32_kr4at1.jpg",
+    "answer": "a",
+    "solution": "The graph crosses the x-axis at x = -1 and x = 2\n\nThus, x + 1 = 0 and x - 2 = 0\n\nx<sup>2</sup> - 2x + x - 2 = 0\n\nx<sup>2</sup> - x - 2 = 0\n\ngiving y =x<sup>2</sup> - x - 2",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 802,
     "question": "In the diagram given, find the value of x.",
     "option": {

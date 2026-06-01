@@ -544,6 +544,22 @@
     "examyear": "2013"
   },
   {
+    "id": 117,
+    "question": "The cost of raw materials consumed is",
+    "option": {
+      "a": "GHc 58,000.",
+      "b": "GHc 52,500.",
+      "c": "GHc 52,000.",
+      "d": "GHc 50,000."
+    },
+    "section": "Use the following information to answer question:  Stock of raw materials 1/1/09  [ 5,000 ], Stock of raw materials 31/12/09   [ 5,500], Purchase of raw materials [ 50,000], Carriage inwards [3,000], Direct labour [ 12,000], Factory overhead [17,500]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 118,
     "question": "The prime cost is",
     "option": {
@@ -983,6 +999,22 @@
       "b": "Debtors",
       "c": "Creditors",
       "d": "Salaries"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
+    "id": 188,
+    "question": "A financial plan of action expressed in monetary terms is known as",
+    "option": {
+      "a": "imprest",
+      "b": "consolidated fund",
+      "c": "warrant",
+      "d": "budget"
     },
     "section": "",
     "image": "",
@@ -1515,6 +1547,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 271,
+    "question": "Branch Stock Account is used to determine the",
+    "option": {
+      "a": "net value of goods sent to branch.",
+      "b": "gross profit of the branch.",
+      "c": "branch credit sales.",
+      "d": "branch net profit or loss."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -2844,6 +2892,22 @@
     "image": "",
     "answer": "b",
     "solution": "An average method which accommodate all the prices and then divide (inform of mean) is well acceptable in either of the two situation.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 524,
+    "question": "Buhari and Osinbajo entered into a partnership in which Buhari contributed a capital of ₦40,000 and is entitled to a salary allowance of ₦10,000, while Osinbajo contributed ₦70,000 of capital and is entitled to a salary allowance of ₦15,000. Both partners earn interest on their capital at 5% per annum, and any remaining profit or loss is to be shared between them in the ratio of 40 : 60 (Buhari : Osinbajo). For the year ended, the business realized a net profit of ₦80,000, and during the year Buhari withdrew ₦80,000 while Osinbajo withdrew ₦12,000. What is Osinbajo share of profit?\n",
+    "option": {
+      "a": "₦19, 800",
+      "b": "₦49, 500",
+      "c": "₦48, 000",
+      "d": "₦29, 700"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To calculate Osinbajo’s share of profit:\n\nDeduct salary allowances: ₦80,000 – (₦10,000 + ₦15,000) = ₦55,000\n\nDeduct interest on capital:\n\nBuhari: 5% of ₦40,000 = ₦2,000\n\nOsinbajo: 5% of ₦70,000 = ₦3,500\n\nTotal interest = ₦5,500\n⇒ ₦55,000 – ₦5,500 = ₦49,500\n\nApply profit-sharing ratio:\n\nOsinbajo’s share = 60% of ₦49,500 = ₦29,700\n\nTherefore, Osinbajo’s share of the profit for the year is ₦29,700.",
     "examtype": "utme",
     "examyear": "2015"
   },

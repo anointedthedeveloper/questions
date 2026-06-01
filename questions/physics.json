@@ -12672,6 +12672,22 @@
     "examyear": "2009"
   },
   {
+    "id": 869,
+    "question": "I. Moon.\nII. Sun.\nIII.street light.\nIV. stars.\n\n\nWhich of these are natural sources of light?",
+    "option": {
+      "a": "II, III, and IV only",
+      "b": "I, II and III only",
+      "c": "III and IV only",
+      "d": " II and IV only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The sun and stars are self luminous object.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 870,
     "question": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?",
     "option": {
@@ -12796,6 +12812,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nNumber of turns, N = 500\nArea, A = 20 cm × 20 cm = 0.2 m × 0.2 m = 0.04 m²\nInitial magnetic field, B₁ = 1.0 T\nFinal magnetic field, B₂ = 0.4 T\nTime interval, Δt = 5 s\n\nSolution:\n\nStep 1: Change in magnetic flux\nΔΦ = N × A × (B₂ – B₁) = 500 × 0.04 × (0.4 – 1.0) = 500 × 0.04 × (–0.6) = –12 Wb\n\nStep 2: Induced e.m.f.\nMagnitude of induced e.m.f. = |ΔΦ| / Δt = 12 Wb / 5 s = 2.4 V",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 880,
+    "question": "If the decay constant of a radioactive substance is 0.231 s⁻¹, the half-life is?",
+    "option": {
+      "a": "3.00 s",
+      "b": "0.12 s",
+      "c": "0.33 s",
+      "d": "1.50 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nDecay constant, λ = 0.231 s⁻¹\n\nSolution:\n\nStep 1: Relationship between half-life and decay constant\nHalf-life T₁/₂ = ln 2 / λ\n\nStep 2: Substitute the value of ln 2\nln 2 ≈ 0.693\n\nStep 3: Calculate half-life\nT₁/₂ = 0.693 / 0.231 = 3.00 s",
     "examtype": "utme",
     "examyear": "2009"
   },

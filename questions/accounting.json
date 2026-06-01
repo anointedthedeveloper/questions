@@ -3424,6 +3424,22 @@
     "examyear": "2023"
   },
   {
+    "id": 890,
+    "question": "The principle of double entry developed from the axioms of accounting equation is given as",
+    "option": {
+      "a": " Liabilties + Equity = Net assets",
+      "b": "Assets + Equity = Liabilities",
+      "c": "Liabilities + Equity = Assets",
+      "d": " Assets + Liability = Equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The accounting equation states that:\n- Capital( Equity) = Assets - Liabilities\n- Assets = Capital (Equity) - Liabilties\n- Liabilties = Assets - Capital (Equity)\n- Equity(Capital ) = Assets",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 892,
     "question": "Accounting entry for dissolution expenses is",
     "option": {
@@ -4892,6 +4908,22 @@
     "image": "",
     "answer": "a",
     "solution": "To find the total fixed assets from the opening balance sheet (31/12/98), I Identify which items are fixed assets.\nFixed Assets as at 31/12/98:\n\nPlant & Machinery: ₦1,500\nFixtures: ₦700\n\nTotal Fixed Assets = ₦1,500 + ₦700 = ₦2,200\nNote: Stock, Debtors, and Cash are current assets, not fixed assets. Creditors and Loan are liabilities.\nTherefore, the total fixed assets from the opening balance sheet is ₦2,200.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1239,
+    "question": "<b>Use the information below to answer question 25 and 26.</b>\nBar opening stock ₦10,000\nAmount owed to bar suppliers at\nthe end the beginning of the year ₦10,000\nBar sales ₦50,000\nBar credit purchases ₦40,000\nPayment to suppliers ₦30,000\nBar expenses ₦1,000\nBar closing stock ₦15,000\n\nWhat is the bar profits?",
+    "option": {
+      "a": "₦20,000",
+      "b": "₦15,000",
+      "c": "₦14,000",
+      "d": "₦10,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "To calculate bar profit, Prepare a Trading and Profit & Loss Account:\nStep 1: Calculate Cost of Goods Sold\nCost of Goods Sold = Opening Stock + Purchases - Closing Stock\nCost of Goods Sold = ₦10,000 + ₦40,000 - ₦15,000 = ₦35,000\nStep 2: Calculate Gross Profit\nGross Profit = Sales - Cost of Goods Sold\nGross Profit = ₦50,000 - ₦35,000 = ₦15,000\nStep 3: Calculate Net Profit (Bar Profit)\nNet Profit = Gross Profit - Expenses\nNet Profit = ₦15,000 - ₦1,000 = ₦14,000",
     "examtype": "utme",
     "examyear": "2001"
   },

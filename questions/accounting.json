@@ -32,6 +32,22 @@
     "examyear": "2011"
   },
   {
+    "id": 71,
+    "question": " On December 31, 2012, Infinite Grace had a note payable due on August 1, 2013. On January 20, 2013, Infinite Grace signed a financing agreement to borrow the balance of the note payable from a lending institution to refinance the note. The agreement does not expire within one year, and no violation of any provision in the financing agreement exists. On  February 1, 2013. Infinite Grace was informed by its financial advisor that the lender is not expected to be financially capable of honouring the agreement. Infinite Grace's financial statements were issued on March 31, 2013. How should Infinite Grace classify the note on its balance sheet at December 31,2012? ",
+    "option": {
+      "a": "as a current liability because the financing agreement was signed after the balance sheet datecapable of honouring the agreement   ",
+      "b": "as a current liability because the leader is not expected to be financially ",
+      "c": " as   a   long-term   liability because  the agreement  does   not  expire within one year ",
+      "d": " as a long-term liability because no violation of any provision in the financing agreement exists."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 308,
     "question": "Goods returned to a supplier is",
     "option": {
@@ -39,6 +55,22 @@
       "b": "credited to Returns outwards account",
       "c": "debited to Returns inwards account",
       "d": "credited to Returns inwards account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 336,
+    "question": "A person who has applied to purchase shares in a company is referred to as",
+    "option": {
+      "a": "a promoter",
+      "b": "a subscriber",
+      "c": "an allottee",
+      "d": "an underwriter"
     },
     "section": "",
     "image": "",
@@ -62,6 +94,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
+  },
+  {
+    "id": 512,
+    "question": "Replacement and renewal of fixed assets are",
+    "option": {
+      "a": "revenue receipt",
+      "b": "capital receipt",
+      "c": "capital expenditure",
+      "d": "revenue expenditure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
   },
   {
     "id": 515,
@@ -144,6 +192,22 @@
     "examyear": "2017"
   },
   {
+    "id": 689,
+    "question": "What act generally includes completing unfinished partnership business, collecting and paying debts, collecting partnership assets to be turned into cash and taking inventory?",
+    "option": {
+      "a": "Formation",
+      "b": "dissolution",
+      "c": " winding up",
+      "d": " termination"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "It is the first step in termination process",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 753,
     "question": "Bought motor vehicle ₦60 paying by cheque. The effect of the transaction will be",
     "option": {
@@ -158,6 +222,22 @@
     "solution": "The motor vehicle account is the receiver while bank account is giving out. Therefore, there will be an increase in motor account and a decrease in bank account.",
     "examtype": "utme",
     "examyear": "2019"
+  },
+  {
+    "id": 771,
+    "question": "Which of the following errors will affect the trial balance total?",
+    "option": {
+      "a": "omission of sales of ₦3000 and purchases of ₦2000",
+      "b": " Posting discount allowed to the debit side of discount allowed account",
+      "c": " omission of one account from the list when extracting the ledgers",
+      "d": "failure to post sales of ₦2000 and purchases of ₦2000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": " Omission of sales of ₦3,000 and purchases of ₦2,000:\n\nSales (credit) ₦3,000 missing and purchases (debit) ₦2,000 missing\nNet effect: Credit side short by ₦1,000\nThis affects the trial balance total",
+    "examtype": "utme",
+    "examyear": "2020"
   },
   {
     "id": 810,

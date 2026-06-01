@@ -6016,6 +6016,22 @@
     "examyear": "2020"
   },
   {
+    "id": 409,
+    "question": "\nHeat is supplied uniformly at the rate of 100W to 1.0 × 10⁻² kg of a liquid for 20 seconds. If the temperature of the liquid rises by 5°C, then the specific heat capacity of the liquid is",
+    "option": {
+      "a": "2.0 × 10² Jkg⁻¹K⁻¹",
+      "b": "2.0 × 10² Jkg⁻¹",
+      "c": "4.0 × 10⁴ Jkg⁻¹K⁻¹",
+      "d": "4.0 × 10⁴ Jkg⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nPower (P) = 100 W\nMass (m) = 1.0 × 10⁻² kg = 0.01 kg\nTime (t) = 20 seconds\nTemperature rise (ΔT) = 5°C = 5 K\nSpecific heat capacity (c) = ?\n\nStep 1: Calculate total heat energy supplied\nEnergy = Power × Time\nQ = P × t\nQ = 100 × 20\nQ = 2000 J\nStep 2: Use heat capacity formula\nQ = mcΔT\nRearranging to find c:\nc = Q/(mΔT)\nSubstituting values:\nc = 2000/(0.01 × 5)\nc = 2000/0.05\nc = 40,000 J/(kg·K)\nc = 4.0 × 10⁴ Jkg⁻¹K⁻¹",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 410,
     "question": "Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is P₁ while the pressure on H is P₂. If the atmospheric pressure is equivalent to 10m of water, then the value of P₂/P₁ is?",
     "option": {
@@ -6908,6 +6924,22 @@
     "image": "",
     "answer": "c",
     "solution": "If the zinc used in the simple cell is of the impure commercial variety bubbles of hydrogen will be seen coming off the zinc. This is called local action.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 469,
+    "question": "A cell whose internal resistance is 0.55Ω\n delivers a current of 4 A to an external resistor. The lost voltage of the cell is?",
+    "option": {
+      "a": "4.00 V",
+      "b": " 2.20 V",
+      "c": " 0.15 V",
+      "d": "8.00 V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Lost voltage = I x R\n\n= 4 x 0.55\n\n= 2.2V",
     "examtype": "utme",
     "examyear": "2022"
   },

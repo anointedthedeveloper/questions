@@ -3360,6 +3360,22 @@
     "examyear": "2017"
   },
   {
+    "id": 252,
+    "question": "A radio station broadcasts at a frequency of 600KHz. If the speed of light in air is 3 × 10⁸ ms⁻¹. Calculate the wavelength of the radio wave",
+    "option": {
+      "a": "2.20 × 10³m",
+      "b": "5.0 × 10²m",
+      "c": "5.0 × 10⁵m",
+      "d": "11.8 × 10¹¹m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nFrequency (f) = 600 KHz = 600 × 10³ Hz = 6 × 10⁵ Hz\nSpeed of light (v) = 3 × 10⁸ m/s\nWavelength (λ) = ?\n\nFormula:\nv = fλ\nRearranging to find wavelength:\nλ = v/f\nSubstituting values:\nλ = (3 × 10⁸)/(6 × 10⁵)\nλ = (3/6) × 10⁸⁻⁵\nλ = 0.5 × 10³\nλ = 5.0 × 10² m",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 253,
     "question": "Which of the following is a scalar quantity?",
     "option": {
@@ -7376,6 +7392,22 @@
     "examyear": "2024"
   },
   {
+    "id": 581,
+    "question": "In a series resonant circuit, the current flowing in the circuit is ",
+    "option": {
+      "a": "maximum",
+      "b": "minimum",
+      "c": "zero",
+      "d": "unaffected"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "At resonance, the circuit's impedance is at its lowest (equal to the resistance), which results in the highest current flow. This condition is achieved when the inductive reactance and capacitive reactance are equal, causing them to cancel each other out.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 583,
     "question": "Which of these gas laws is equivalent to workdone",
     "option": {
@@ -8992,6 +9024,22 @@
     "examyear": "2006"
   },
   {
+    "id": 734,
+    "question": "A submarine is observed to rise from a real depth of 80 m to 60 m in water. Calculate the change in apparent depth.\n[Refractive index of water = 4/3]",
+    "option": {
+      "a": "45 m",
+      "b": " 80 m",
+      "c": "15 m",
+      "d": "60 m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nInitial real depth, h₁ = 80 m\nFinal real depth, h₂ = 60 m\nRefractive index of water, n = 4/3\n\nSolution:\n\nStep 1: Formula for apparent depth\nFor near‑vertical viewing, apparent depth d ≈ real depth / n.\n\nStep 2: Compute initial apparent depth\nd₁ = h₁ / n = 80 m / (4/3) = 80 m × 3/4 = 60 m\n\nStep 3: Compute final apparent depth\nd₂ = h₂ / n = 60 m / (4/3) = 60 m × 3/4 = 45 m\n\nStep 4: Calculate change in apparent depth\nChange = d₁ – d₂ = 60 m – 45 m = 15 m",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 735,
     "question": "Non-luminous object can be seen because they",
     "option": {
@@ -9836,6 +9884,22 @@
     "image": "",
     "answer": "d",
     "solution": "All three conditions must hold for a body acted upon by three coplanar forces to be in equilibrium: the forces must be concurrent (I), upward forces must equal downward forces (II), and the algebraic sum of moments about any point must be zero (III).",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 804,
+    "question": "What is the frequency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s?",
+    "option": {
+      "a": "0.01 Hz",
+      "b": "0.04 Hz",
+      "c": "2.27 Hz",
+      "d": "3.60 Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nNumber of revolutions = 90\nTime (t) = 25 s\nFrequency (f) = ?\n\nFormula for frequency:\nFrequency = Number of revolutions / Time taken\nf = N/t\nSubstituting values:\nf = 90/25\nf = 3.6 Hz",
     "examtype": "utme",
     "examyear": "2008"
   },

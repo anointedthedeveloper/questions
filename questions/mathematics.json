@@ -5440,6 +5440,22 @@
     "examyear": "2006"
   },
   {
+    "id": 374,
+    "question": "If the mean of five consecutive integers is 30, find the largest of the numbers",
+    "option": {
+      "a": "28",
+      "b": "30",
+      "c": "32",
+      "d": "34"
+    },
+    "section": "Solution: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>a</mi>\n      <mo>+</mo>\n      <mi>a</mi>\n      <mo>+</mo>\n      <mn>1</mn>\n      <mo>+</mo>\n      <mi>a</mi>\n      <mo>+</mo>\n      <mn>2</mn>\n      <mo>+</mo>\n      <mi>a</mi>\n      <mo>+</mo>\n      <mn>3</mn>\n      <mo>+</mo>\n      <mi>a</mi>\n      <mo>+</mo>\n      <mn>4</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>5</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mn>30</mn>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mi>a</mi>\n      <mo>+</mo>\n      <mn>10</mn>\n    </mrow>\n    <mn>5</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mn>30</mn>\n  <mo>&#xD7;</mo>\n  <mn>5</mn>\n  <mo>=</mo>\n  <mn>5</mn>\n  <mi>a</mi>\n  <mo>+</mo>\n  <mn>10</mn>\n  <mspace linebreak=\"newline\"></mspace>\n  <mn>5</mn>\n  <mi>a</mi>\n  <mo>=</mo>\n  <mn>150</mn>\n  <mo>&#x2212;</mo>\n  <mn>10</mn>\n  <mspace linebreak=\"newline\"></mspace>\n  <mn>5</mn>\n  <mi>a</mi>\n  <mo>=</mo>\n  <mn>140</mn>\n  <mspace linebreak=\"newline\"></mspace>\n  <mi>a</mi>\n  <mo>=</mo>\n  <mn>28</mn>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>&#x2234;</mo>\n  <mi>a</mi>\n  <mo>+</mo>\n  <mn>4</mn>\n  <mo>=</mo>\n  <mn>28</mn>\n  <mo>+</mo>\n  <mn>4</mn>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mn>32</mn>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "((a+a+1+a+2+a+3+a+4))/5 30=(5a+10)/5 30×5=5a+105a=150-105a=140a=28∴a+4=28+4=32",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 375,
     "question": "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/3, find the value of x",
     "option": {

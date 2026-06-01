@@ -7936,6 +7936,22 @@
     "examyear": "2023"
   },
   {
+    "id": 521,
+    "question": "Which of the following thermometers measures temperature from the thermal radiation emitted by objects?",
+    "option": {
+      "a": " Pyrometer thermometer",
+      "b": "Platinum resistance thermometer",
+      "c": "Thermocouple thermometer",
+      "d": "Constant pressure gas thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A pyrometer is a type of remote-sensing thermometer used to measure the temperature of a surface. It does this by measuring the thermal radiation or infrared energy being emitted from the object. Therefore, a pyrometer thermometer measures temperature from the thermal radiation emitted by objects.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 522,
     "question": "A 400 N box is being pushed across a level floor at a constant speed by a force P of 100 N at an angle of 30.0° to the horizontal, as shown in the the diagram below. What is the coefficient of kinetic friction between the box and the floor?",
     "option": {

@@ -1136,6 +1136,22 @@
     "examyear": "2015"
   },
   {
+    "id": 158,
+    "question": "Calorimeter is an apparatuses used for measuring the heat (Q) generated or absorbed by change of phase (state) or other physical change",
+    "option": {
+      "a": "N – W when suspended freely",
+      "b": "N–S when suspended freely",
+      "c": "S – E when suspended freely",
+      "d": "S–W when suspended freely"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Lodestone is a natural magnet it points approximate at N – S when suspended freely",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 159,
     "question": "What type of electromagnetic radiation can be used to take photographs in the haze?",
     "option": {
@@ -1628,6 +1644,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610999/ALOC-Questions/Physics/2017/2017_Q_20_jqc9yc.png",
     "answer": "d",
     "solution": "Series arrangement:\nIf the two 2µF are in parallel first: 2 + 2 = 4µF\nThen this 4µF is in series with the other 4µF:\n1/C_total = 1/4 + 1/4 = 2/4\nC_total = 2µF",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 253,
+    "question": "Which of the following is a scalar quantity?",
+    "option": {
+      "a": "Tension",
+      "b": "Weight",
+      "c": "Impulse",
+      "d": "Mass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Mass is a scalar quantity because it has magnitude only and no direction.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -6380,6 +6412,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nVolume of petrol (V_petrol) = 4.2 m³\nDensity of alcohol (ρ_alcohol) = 8.4 × 10² kg/m³ = 840 kg/m³\nDensity of petrol (ρ_petrol) = 7.2 × 10² kg/m³ = 720 kg/m³\nVolume of alcohol (V_alcohol) = ?\n\nCondition: Same mass\nStep 1: Calculate mass of petrol\nMass = Density × Volume\nm_petrol = ρ_petrol × V_petrol\nm_petrol = 720 × 4.2\nm_petrol = 3024 kg\nStep 2: Calculate volume of alcohol with same mass\nm_alcohol = m_petrol = 3024 kg\nm_alcohol = ρ_alcohol × V_alcohol\nRearranging:\nV_alcohol = m_alcohol / ρ_alcohol\nV_alcohol = 3024 / 840\nV_alcohol = 3.6 m³",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1054,
+    "question": "Two liquids X and Y having the same mass are supplied with the same quantity of heat. If the temperature rise in X is twice that of Y, the ratio of specific heat capacity of X to that of Y is",
+    "option": {
+      "a": "2:1",
+      "b": "1:2",
+      "c": "4:1",
+      "d": "1:4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\nGiven information:\n\nSame mass: m_X = m_Y = m\nSame heat supplied: Q_X = Q_Y = Q\nTemperature rise: ΔT_X = 2ΔT_Y\nRatio c_X : c_Y = ?\n\nFormula for heat energy:\nQ = mcΔT\nwhere:\n\nQ = heat energy\nm = mass\nc = specific heat capacity\nΔT = temperature change\n\nSetting up equations:\nFor liquid X:\nQ = mc_X ΔT_X\nFor liquid Y:\nQ = mc_Y ΔT_Y\nSince Q is same for both:\nmc_X ΔT_X = mc_Y ΔT_Y\nSimplifying (m cancels):\nc_X ΔT_X = c_Y ΔT_Y\nRearranging:\nc_X / c_Y = ΔT_Y / ΔT_X\nSubstituting ΔT_X = 2ΔT_Y:\nc_X / c_Y = ΔT_Y / (2ΔT_Y)\nc_X / c_Y = 1/2\nTherefore:\nc_X : c_Y = 1:2",
     "examtype": "utme",
     "examyear": "2013"
   },

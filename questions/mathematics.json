@@ -960,6 +960,22 @@
     "examyear": "2002"
   },
   {
+    "id": 199,
+    "question": "The sum of the interior angles of a polygon is 20 right angles. How many sides does the polygon have?",
+    "option": {
+      "a": "12",
+      "b": " 20",
+      "c": " 40",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The formula for the sum of the interior angles of a regular polygon = (2n - 4) x 90°\n\nGiven: Sum = 20 right angles\n\n(2n - 4) x 90° = 20 times 90°\n\n⇒ 2n - 4 = 20\n\n2n = 24; n = 12.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 200,
     "question": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8",
     "option": {
@@ -2412,6 +2428,22 @@
     "image": "",
     "answer": "c",
     "solution": "1011<sup>2</sup><sub>2</sub> - 101<sup>2</sup><sub>2</sub> = (1x2<sup>3</sup> + 0x2<sup>2</sup> + 1x2<sup>1</sup> + 1x2<sup>0</sup>)<sup>2</sup> - (1x2<sup>2</sup> + 0x2<sup>1</sup> + 1x2<sup>2</sup>)2\n(1x8 + 0x4 + 1x2 + 1x1)<sup>2</sup> - (1x4 + 0x2 + 1x1)<sup>2</sup>)\n= (8 + 0 + 2 + 1) <sup>2</sup> - (4 + 0 + 1) <sup>2</sup>\n= 11<sup>2</sup>- 5<sup>2</sup>\n= 16 x 6 = 96\n9610 to base 2\n2/96 = 48 R 0\n2/48 = 24 R 0\n2/24 = 12 R 0\n2/12 = 6 R 0\n2/6 = 3 R 0\n2/3 = 1 R 1\n2/1 = 0 R 1\n1100000<sub>2</sub>",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 454,
+    "question": "If X = {all the perfect squares less than 40}\nY = {all the odd numbers fro, 1 to 15}. Find X ∩ Y.",
+    "option": {
+      "a": "{3, 9}",
+      "b": "{9}",
+      "c": "{9, 25}",
+      "d": "{1, 9}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "All the perfect squares < 40\nX = {1, 4, 9, 16, 25, 36}\nAll the odd numbers from 1 to 15\nY = {1, 3, 5, 7, 9, 11, 13, 15}\nX ∩ Y = {1, 9}",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -4000,6 +4032,22 @@
     "examyear": "2012"
   },
   {
+    "id": 768,
+    "question": "Find dy/dx if y = cosx\n.",
+    "option": {
+      "a": " sinx",
+      "b": "−sinx",
+      "c": "tanx",
+      "d": "−tanx"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If y = cosx                            dy/dx =—sinx",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 770,
     "question": "Convert 27<sub>10</sub>  to another number in base three",
     "option": {
@@ -4862,6 +4910,22 @@
     "solution": "Total marks scored = 75+45+60+30 = 210",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 924,
+    "question": "Find the value of x in the diagram",
+    "option": {
+      "a": "10°",
+      "b": "28°",
+      "c": "36°",
+      "d": " 40°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006328/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q6_ki6g4i.jpg",
+    "answer": "d",
+    "solution": "The diagram shows angles at a point, the total angle at a point is 360\n\n  x - 10 + 4x - 50 + 2x + 3x + 20 = 360\n\n  10x - 40 = 360\n\n  10x = 360 + 40\n\n  10x = 400\n\n  x = 400/10\n  x = 40\n",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 933,
@@ -6076,6 +6140,22 @@
     "image": "",
     "answer": "b",
     "solution": "y = 1/x; y = k/x\nk =xy → 3 * 4 = 12\n\nx = k/y\n \n\nx = 12/12 = 1",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1130,
+    "question": "If 8, p, q and 26 is an A.P. Find the values of p and q",
+    "option": {
+      "a": "p = 14 and q = 14",
+      "b": " p = 20 and q = 14",
+      "c": " p = 20 and q = 20",
+      "d": " p = 14 and q = 20"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The common difference is 6.\n\nJust add 6 to get the next term\n\n8, 14, 20 and 26",
     "examtype": "utme",
     "examyear": "2022"
   },

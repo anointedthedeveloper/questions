@@ -1,0 +1,13 @@
+economics: WARNING - 4 conflict markers still remain
+'\n    "solution": "",\n    "examtype": "post-utme",\n<<<<<<< Updated upstream\n    "examyear": "2011"\n  },\n  {\n    "id": 133,\n    "question": "In the ownership structure of joint stock company the following is correct;  ",\n    "option": {\n      "a": "Ord'
+mathematics: WARNING - 2 conflict markers still remain
+'section": "",\n    "image": "",\n    "answer": "d",\n<<<<<<< Updated upstream\n    "solution": "No of students offering physics are \\n\\n12/360 x 150 = 5",\n    "examtype": "2020",\n    "examyear": "utme"\n  },\n  {\n    "id": 924,\n    "question": "Find the va'
+physics: WARNING - 4 conflict markers still remain
+Traceback (most recent call last):
+  File "c:\Users\Admin\Desktop\questions-1\fix_corrupt.py", line 28, in <module>
+    print(repr(cleaned[max(0,idx-50):idx+200]))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u207b' in position 205: character maps to <undefined>

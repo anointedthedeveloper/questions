@@ -1786,6 +1786,25 @@
     "category": "others"
   },
   {
+    "id": 122,
+    "question": "The player <i>writhed in pain</i> after the fall.",
+    "option": {
+      "a": "remained still",
+      "b": "cried out",
+      "c": "walked out",
+      "d": "shook violently"
+    },
+    "section": "choose the option opposite in meaning to the word or phrase in italics.",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 124,
     "question": "The team got <i>an ecstatic</i> welcome from the crowd.",
     "option": {
@@ -23157,6 +23176,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 61,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1821,
+    "question": "Conspiracy.",
+    "option": {
+      "a": "CONspiracy.",
+      "b": "conspiRAcy.",
+      "c": "conspiraCY",
+      "d": "conSPIracy."
+    },
+    "section": "choose the most appropriate stress pattern from the options.\n",
+    "image": "",
+    "answer": "d",
+    "solution": "conspiracy; /kənˈspɪrəsi/",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 62,
     "hasPassage": 0,
     "category": "others"
   },

@@ -752,6 +752,22 @@
     "examyear": "2006"
   },
   {
+    "id": 378,
+    "question": "The pie chart above shows the expenditure of a family whose income is N30,000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food?",
+    "option": {
+      "a": "N 28 000",
+      "b": "N 25 500",
+      "c": "N15 000s",
+      "d": "N 12 500s"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542610/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q7_zufgaf.jpg",
+    "answer": "d",
+    "solution": "Expenditure on housing = x\nExpenditure on food = 2x\nExpenditure on school fees = 90o\nExpenditure on transport = 45o\nx + 2x + 90 + 45 = 360o\n3x + 135 = 360o\n3x = 360 - 135\n3x = 225\nx = 225/3 = 75o\n∴∠ for food = 2x = 2 * 75\n= 150\n360o = N30,000\n1o = ?\n1o = 30,000/360\n150o = (30000/360) * (150/1)\n= N12500",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 394,
     "question": "Simplify (25)<sup>-1/2 </sup>x (27)<sup>1/3</sup>+ (121)<sup>-1/2</sup> x (625)<sup>-1/4</sup>",
     "option": {
@@ -1392,6 +1408,38 @@
     "examyear": "2016"
   },
   {
+    "id": 864,
+    "question": "Rationalize(√6−√4)/(√6 + √4)",
+    "option": {
+      "a": "5 + 2√6",
+      "b": "5 - 4√6",
+      "c": "5 + 4√6",
+      "d": "5 - 2√6"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msqrt>\n        <mn>6</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>4</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <msqrt>\n        <mn>6</mn>\n      </msqrt>\n      <mo>+</mo>\n      <msqrt>\n        <mn>4</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "(√6−√4)/(√6+√4)\n = (6−2√6−2√6+4)/6 − 4\n\n\n10−4√6/2 = 5 - 2√6",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 902,
+    "question": "Find ∫(x<sup>2</sup>  + 3x − 5)dx",
+    "option": {
+      "a": "x3/3  - 3x2/2 - 5x + k",
+      "b": "x3/3 - 3x2/2\n + 5x + k",
+      "c": "x3/3  + 3x2/2 - 5x + k",
+      "d": "x3/3  + 3x2/2\n + 5x + k"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "∫x<sup>n</sup>dx = x<sub>n+1</sub>/n+1\n\n\n∫dx = x + k\n\nwhere k is constant\n\n∫(x<sup>2</sup>  + 3x − 5)dx\n\n∫x<sup>2</sup>  dx + ∫3xdx − ∫5dx\n\n(2<sub>2</sub> + 1)/(2 + 1)\n + 3x<sup>1+1</sup>/(1+1)\n − 5x + k\n\nx<sub>3</sub>/3 + 3x<sub>2</sub>/2 − 5x + k",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 915,
     "question": "The time taken to a piece of work is inversely proportional to the number of men employed. If it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
     "option": {
@@ -1532,6 +1580,22 @@
     "image": "",
     "answer": "b",
     "solution": "0.04945 to 2s.f is 0.049",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 968,
+    "question": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?",
+    "option": {
+      "a": "1/16",
+      "b": "1/6",
+      "c": "1/4",
+      "d": "3/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "P( tail on a coin) = 1/2\nEven numbers on a care 2, 4 and 6\n\n  P( even number on a die) = 3/6 = 1/2\nP( tail on a coin and even number on a die) = 1/2 x 1/2\n = 1/4",
     "examtype": "utme",
     "examyear": "2018"
   },

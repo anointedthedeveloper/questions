@@ -816,6 +816,22 @@
     "examyear": "2020"
   },
   {
+    "id": 390,
+    "question": "If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called?",
+    "option": {
+      "a": "doppler effect",
+      "b": "resonance",
+      "c": "ultra sound",
+      "d": "rarefaction"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Doppler effect or Doppler shift is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.\n\nThe drop in pitch of ambulance sirens as they pass by and the shift in red light are common examples of the Doppler Effect. ",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 397,
     "question": "When a sound wave passes from air into water its ",
     "option": {
@@ -1312,6 +1328,22 @@
     "examyear": "2004"
   },
   {
+    "id": 656,
+    "question": "An object is projected from a height of 80 m above the ground with a velocity of 40ms⁻¹ at an angle of 30° to the horizontal. The time of flight [g ≈ 10m/s²]",
+    "option": {
+      "a": "8 s",
+      "b": "6.5 s",
+      "c": "16 s",
+      "d": " 10 s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial height, h = 80 m\nInitial velocity, u = 40 ms⁻¹\nAngle of projection, θ = 30°\nAcceleration due to gravity, g = 10 ms⁻²\nTime of flight, t = ?\n\nSolution:\nStep 1: Resolve initial velocity into components\nVertical component: uᵧ = u sin θ\nuᵧ = 40 × sin 30°\nuᵧ = 40 × 0.5\nuᵧ = 20 ms⁻¹ (upward)\nStep 2: Apply vertical motion equation\nUsing: s = uᵧt - ½gt²\nThe object starts at height 80 m and ends at ground level (0 m).\nTaking downward as negative displacement:\ns = -80 m (final position relative to starting point)\nStep 3: Substitute into equation\n-80 = 20t - ½(10)t²\n-80 = 20t - 5t²\n5t² - 20t - 80 = 0\nStep 4: Simplify\nDivide by 5:\nt² - 4t - 16 = 0\nStep 5: Solve quadratic equation\nUsing quadratic formula: t = [-b ± √(b² - 4ac)] / 2a\nWhere a = 1, b = -4, c = -16\nt = [4 ± √(16 + 64)] / 2\nt = [4 ± √80] / 2\nt = [4 ± 8.94] / 2\nt = (4 + 8.94) / 2  or  t = (4 - 8.94) / 2\nt = 6.47 s  or  t = -2.47 s (rejected, negative time)\nt ≈ 6.5 s",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 662,
     "question": "The charge carriers in gasses are",
     "option": {
@@ -1664,6 +1696,22 @@
     "examyear": "2009"
   },
   {
+    "id": 862,
+    "question": "An electric heater rated 220 V, 1000 W is immersed into a bucket full of water. Calculate the mass of water if the temperature changes from 30 °C to 100 °C and the current flows for 300 seconds. [specific heat capacity of water = 4200 J kg⁻¹ K⁻¹]",
+    "option": {
+      "a": "4.28 kg",
+      "b": "42.86 kg",
+      "c": "1.02 kg",
+      "d": "7.14 kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nHeater power P = 1000 W\nTime t = 300 s\nInitial temperature = 30 °C\nFinal temperature = 100 °C\nTemperature change Δθ = 70 K\nSpecific heat capacity c = 4200 J kg⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Calculate electrical energy supplied\nEnergy E = P × t = 1000 W × 300 s = 300 000 J\n\nStep 2: Relate energy to heat absorbed by water\nE = m × c × Δθ\n\nStep 3: Solve for mass m\nm = E / (c × Δθ) = 300 000 / (4200 × 70)\n\nStep 4: Compute denominator\n4200 × 70 = 294 000\n\nStep 5: Compute mass\nm = 300 000 / 294 000 ≈ 1.0204 kg",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 896,
     "question": "A progressive wave is represented by y = 10sin(1000πt - πx/34). Two layers of the wave separated by 153cm have a phase difference of?",
     "option": {
@@ -1856,6 +1904,22 @@
     "examyear": "2011"
   },
   {
+    "id": 998,
+    "question": "Two resistors 5Ω and 10Ω are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is",
+    "option": {
+      "a": "1:3",
+      "b": "2:9",
+      "c": "3:1",
+      "d": "9:1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nR₁ = 5Ω\nR₂ = 10Ω\nVoltage (V) = 24V\n\nPower in Series Arrangement:\nTotal Resistance:\nR_series = R₁ + R₂ = 5 + 10 = 15Ω\nTotal Power:\nP_series = V²/R = (24)²/15 = 576/15 = 38.4 W\nPower in Parallel Arrangement:\nTotal Resistance:\nR_parallel = (R₁ × R₂)/(R₁ + R₂) = (5 × 10)/(5 + 10) = 50/15 = 10/3 ≈ 3.33Ω\nTotal Power:\nP_parallel = V²/R = (24)²/(10/3) = 576 × (3/10) = 1728/10 = 172.8 W\nRatio of Powers:\nP_series : P_parallel = 38.4 : 172.8\nSimplifying:\n= 38.4/172.8\n= 1/4.5\n= 2/9",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 1002,
     "question": "Calculate the total distance covered by a train before coming to rest if its initial speed is 30ms⁻¹ with a constant retardation of 0.1ms⁻²",
     "option": {
@@ -1980,6 +2044,22 @@
     "image": "",
     "answer": "c",
     "solution": "The conditions for total internal reflection are II and III only.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1032,
+    "question": "The fuse in an electric device is always connected to the",
+    "option": {
+      "a": "neutral side of an electric supply",
+      "b": "earth side of an electric supply",
+      "c": "live side of an electric supply",
+      "d": "terminal side of an electric supply"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The fuse in an electric device is always connected to the live side of an electric supply to ensure that when the fuse blows due to overcurrent, the dangerous high-voltage supply is completely disconnected from the appliance, making it safe.",
     "examtype": "utme",
     "examyear": "2012"
   },

@@ -416,6 +416,22 @@
     "examyear": "2010"
   },
   {
+    "id": 96,
+    "question": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)  ",
+    "option": {
+      "a": "142.90C  ",
+      "b": "63.60C  ",
+      "c": "43.00C  ",
+      "d": "00C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 108,
     "question": "Which of the following is not true about a chemical cell?   ",
     "option": {
@@ -1552,6 +1568,22 @@
     "examyear": "2020"
   },
   {
+    "id": 415,
+    "question": "Which of the following instruments in the image consumes the highest current?",
+    "option": {
+      "a": "I",
+      "b": "II only",
+      "c": "III only",
+      "d": "IV"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612922/ALOC-Questions/Physics/2020/Screenshot_2025-12-13_at_9.01.44_AM_muuzw3.png",
+    "answer": "c",
+    "solution": "Formula:\nCurrent (I) = Power (P) / Voltage (V)\nCalculating current for each instrument:\nI. Electric iron:\nI = 1000W / 250V = 4A\nII. Television set:\nI = 110W / 220V = 0.5A\nIII. Torchlight:\nI = 30W / 6V = 5A\nIV. Immersion heater:\nI = 500W / 110V = 4.55A\nComparing currents:\n\nElectric iron: 4A\nTelevision set: 0.5A\nTorchlight: 5A (highest)\nImmersion heater: 4.55A",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 416,
     "question": "In which of the following diagrams is the length of the tube equal to one wavelength? ",
     "option": {
@@ -1632,6 +1664,22 @@
     "examyear": "2021"
   },
   {
+    "id": 438,
+    "question": "Two bodies have masses in the ratio 3:1. They experience forces which impart to them, acceleration in the ratio 2:9 respectively. Find the ratio of forces the masses experienced",
+    "option": {
+      "a": "1:04",
+      "b": "2:01",
+      "c": "2:03",
+      "d": "2:05"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass ratio: m₁ : m₂ = 3 : 1\nAcceleration ratio: a₁ : a₂ = 2 : 9\nForce ratio: F₁ : F₂ = ?\n\nUsing Newton's Second Law:\nF = ma\nFor body 1:\nF₁ = m₁a₁\nFor body 2:\nF₂ = m₂a₂\nFinding the ratio of forces:\nF₁/F₂ = (m₁a₁)/(m₂a₂)\nF₁/F₂ = (m₁/m₂) × (a₁/a₂)\nSubstituting the given ratios:\nF₁/F₂ = (3/1) × (2/9)\nF₁/F₂ = 6/9\nF₁/F₂ = 2/3\nTherefore:\nF₁ : F₂ = 2 : 3",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 446,
     "question": "When the temperature of a liquid increases, its surface tension",
     "option": {
@@ -1662,6 +1710,22 @@
     "solution": "Given information:\n\nMass of copper (m_c) = 2 kg\nTemperature change (ΔT) = 100 - 0 = 100°C\nSpecific heat capacity of copper (c) = 400 J/(kg·K)\nLatent heat of fusion of ice (L_f) = 3.3 × 10⁵ J/kg\nMass of ice melted (m) = ?\n\nEnergy conservation:\nHeat lost by copper = Heat gained by ice melting\nm_c × c × ΔT = m × L_f\nSubstituting values:\n2 × 400 × 100 = m × (3.3 × 10⁵)\n80,000 = m × 330,000\nSolving for m:\nm = 80,000 / 330,000\nm = 80/330\nm = 8/33 kg\nConverting to decimal:\nm = 8/33 ≈ 0.242 kg",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 462,
+    "question": "Consider the wave equation y = 5mm sin[1cm⁻¹x - 60s⁻¹t]. The wave number is?",
+    "option": {
+      "a": " 0.1 cm⁻¹",
+      "b": "10 cm⁻¹",
+      "c": " 1.0 cm⁻¹",
+      "d": "2 cm⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given wave equation:\ny = 5 mm sin[1 cm⁻¹x - 60 s⁻¹t]\nStandard form of wave equation:\ny = A sin(kx - ωt)\nwhere:\n\nA = amplitude\nk = wave number\nω = angular frequency\nx = position\nt = time\n\nComparing given equation with standard form:\ny = 5 mm sin[1 cm⁻¹x - 60 s⁻¹t]\ny = A sin(kx - ωt)\nIdentifying parameters:\n\nAmplitude (A) = 5 mm\nWave number (k) = 1 cm⁻¹\nAngular frequency (ω) = 60 s⁻¹\n\nThe coefficient of x in the wave equation is the wave number.",
+    "examtype": "utme",
+    "examyear": "2022"
   },
   {
     "id": 464,
@@ -1792,6 +1856,22 @@
     "examyear": "2022"
   },
   {
+    "id": 501,
+    "question": "Which of the following statements regarding the application of electrical conduction via gases is/are correct?\nElectrical conduction in gas is applied in:\n(i) The identification of gases\n(ii) Lighting/fluorescent tubes\n(iii) Neon signs/Advertising industry\n(iv) Cathode ray oscilloscope/T.V. tubes",
+    "option": {
+      "a": "(i), (iii) and (iv) only",
+      "b": "(i), (ii), (iii) and (iv)",
+      "c": "(ii), (iii) and (iv) only",
+      "d": "(i), (ii) and (iii) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Electrical conduction through gases is the principle behind gas identification (spectroscopy), fluorescent tubes, neon signs, and certain aspects of CRT technology. Photocells, however, work on the photoelectric effect, not gas conduction.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 503,
     "question": "A missile is launched with a speed of 75 ms-1 at an angle of 22° above the surface of a warship. Find the horizontal range achieved by the missile. Ignore the effects of air resistance.\n\n[Take g = 10 ms⁻²]",
     "option": {
@@ -1804,6 +1884,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nInitial velocity, u = 75 m/s\nAngle of projection, θ = 22°\nAcceleration due to gravity, g = 10 m/s²\nHorizontal range, R = ?\n\nSolution:\nUsing the range formula for projectile motion:\nR = (u² sin 2θ)/g\nStep 1: Calculate sin 2θ\n2θ = 2 × 22° = 44°\nsin 44° = 0.6947\nStep 2: Substitute values into the range formula\nR = (75² × sin 44°)/10\nR = (5625 × 0.6947)/10\nR = 3907.4/10\nR = 390.74 m\nR ≈ 391 m",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 506,
+    "question": "The terminals of a battery of emf 24.0 V and internal resistance of 1.0 Ω is connected to an external resistor 5.0 Ω. Find the terminal p.d.",
+    "option": {
+      "a": "18.0V",
+      "b": "12.0V",
+      "c": "16.0V",
+      "d": "20.0V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nEMF of battery, E = 24.0 V\nInternal resistance, r = 1.0 Ω\nExternal resistance, R = 5.0 Ω\nTerminal potential difference, V = ?\n\nSolution:\nStep 1: Calculate total resistance\nTotal resistance = R + r\nR_total = 5.0 + 1.0 = 6.0 Ω\nStep 2: Calculate current in the circuit\nUsing Ohm's law:\nI = E/R_total\nI = 24.0/6.0\nI = 4.0 A\nStep 3: Calculate terminal potential difference\nTerminal p.d. = EMF - voltage drop across internal resistance\nV = E - Ir\nV = 24.0 - (4.0 × 1.0)\nV = 24.0 - 4.0\nV = 20.0 V\nAlternative method:\nV = IR (voltage across external resistor)\nV = 4.0 × 5.0\nV = 20.0 V",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -2284,6 +2380,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296136/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_40_e7g2is.png",
     "answer": "d",
     "solution": "\nStep 1: Identify wave characteristics\nBoth waves are sinusoidal with:\n\nSame wavelength (period)\nSame amplitude\nDifferent starting positions (phase shift)\n\nStep 2: Determine the shift\nObserving the waves:\n\nWave P starts at zero and increases\nWave Q reaches its maximum when P is at zero\nThis represents a quarter-cycle shift\n\nStep 3: Express shift in terms of wavelength\nOne complete cycle = 2π radians = 360°\nQuarter cycle shift = 2π/4 = π/2 radians = 90°\nStep 4: Verify the phase difference\nWhen wave P is at:\n\nZero displacement (going up) → Wave Q is at maximum\nMaximum → Wave Q is at zero (going down)\nZero (going down) → Wave Q is at minimum\nMinimum → Wave Q is at zero (going up)\n\nThis confirms a 90° or π/2 phase difference.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 641,
+    "question": "Tea pots are often silver-coated to prevent heat loss by",
+    "option": {
+      "a": "conduction only",
+      "b": "convention only",
+      "c": " convection and conduction",
+      "d": "radiation only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Teapots are often silver-coated to prevent heat loss by reflecting infrared radiation. Silver is a good reflector of thermal radiation, which helps to minimize heat loss from the teapot, keeping the contents warm for a longer period.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3612,6 +3724,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nCharge (q) = 1.0 × 10⁻⁸ C\nVelocity (v) = 3.0 × 10⁻² m/s\nAngle (θ) = 90° (right angles to field)\nForce (F) = 1.8 × 10⁻⁸ N\nMagnetic field strength (B) = ?\n\nFormula for magnetic force on a moving charge:\nF = qvB sin θ\nSince θ = 90°, sin 90° = 1:\nF = qvB\nRearranging for B:\nB = F/(qv)\nSubstituting values:\nB = (1.8 × 10⁻⁸)/(1.0 × 10⁻⁸ × 3.0 × 10⁻²)\nB = (1.8 × 10⁻⁸)/(3.0 × 10⁻¹⁰)\nB = 1.8/3.0 × 10⁻⁸⁺¹⁰\nB = 0.6 × 10²\nB = 6.0 × 10¹ T\nB = 60 T",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1036,
+    "question": "The process of detecting a pin mistakenly swallowed by a child is X-ray",
+    "option": {
+      "a": "Diagnosis",
+      "b": "Therapy",
+      "c": "Crystallography",
+      "d": "Mammography"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "X-rays are used in medicine for various purposes including imaging, treatment, and analysis.",
     "examtype": "utme",
     "examyear": "2012"
   },

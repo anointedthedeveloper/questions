@@ -512,6 +512,22 @@
     "examyear": "2013"
   },
   {
+    "id": 102,
+    "question": "Which of the following accounts has a credit balance?",
+    "option": {
+      "a": "Returns Inwards Account",
+      "b": "Machinery Account",
+      "c": "Sales Account",
+      "d": "Cash Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 103,
     "question": "The accounting principle that states that, in the preparation of accounting statement, revenue are recognized as        soon as goods are passed on to the customer is the",
     "option": {
@@ -2176,6 +2192,22 @@
     "examyear": "2015"
   },
   {
+    "id": 326,
+    "question": "In the balance sheet of a social club, subscription owing is treated as a",
+    "option": {
+      "a": "current liability",
+      "b": "current asset",
+      "c": "tangible asset",
+      "d": "long-term liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 327,
     "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it will be used for more than one year is",
     "option": {
@@ -2928,6 +2960,22 @@
     "examyear": "2004"
   },
   {
+    "id": 439,
+    "question": "The value of goods sent to branch is",
+    "option": {
+      "a": "N 4 000",
+      "b": "N 6000",
+      "c": "N 8000",
+      "d": "N 2000"
+    },
+    "section": "Use the information below to answer questions: Stock (1/1/02) at selling price [N2, 000 ]; Goods sent to branch (selling price)    [  ?  ]; Sales by branch (selling price)   [4, 500 ]; Stock (31/12/02)   [  \t?    ] Opening stock is 1/4 of goods sent to branch.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 441,
     "question": "Expenses paid during the conversion of a partnership to a \tcompany are",
     "option": {
@@ -3239,6 +3287,22 @@
       "b": "disposal",
       "c": "dissolution",
       "d": "revaluation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 513,
+    "question": "Which of the following is credited to the consolidated revenue fund?",
+    "option": {
+      "a": "Recurrent expenditure",
+      "b": "Capital expenditure",
+      "c": "Transfers to revenue fund",
+      "d": "Internal revenue"
     },
     "section": "",
     "image": "",
@@ -4736,6 +4800,22 @@
     "examyear": "2019"
   },
   {
+    "id": 725,
+    "question": "Use the following to answer this question.\nIndustry ltd, issued 100,000 shares at ₦1 each out of its Authorized share capital of ₦200,000 at ₦1 each. At the of the first call, all shareholders paid in full, except for two shareholder who owes ₦20,000.\n\nThe company's paid-up capital is",
+    "option": {
+      "a": "₦70,000",
+      "b": " ₦80,000",
+      "c": "₦220,000",
+      "d": " ₦120,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Paid up capital is the total amount paid up or credited as paid up, on the issued share capital.\nFrom the question above, the issued share capital is ₦100,000 and two of the shareholder owes ₦20,000. Therefore, the paid up is 100,000 - 20,000 = ₦80,000.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 727,
     "question": "Given:\nOrdinary share dividend ₦100,000, General reserve ₦4,100, Net profit b/d ₦27,370, corporation tax ₦2,500, Profit and loss ₦28,200, Interim ordinary dividend ₦4,050, Goodwill 20,50 provide for preference Dividend ₦2100 and Final ordinary Dividend of 5% and also write off Goodwill at ₦1500.\nThe retained profit in the Appropriation account is",
     "option": {
@@ -4908,6 +4988,22 @@
     "image": "",
     "answer": "b",
     "solution": "Accounting standard is a statement issued by the appropriate standard - setting body locally or internationally on a specific area or topic in Financial Accounting.\nAccounting standards are issued at the International level by the International Accounting Standards Board (IASB) - formerly International Accounting Standards Committee (IASC).",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 750,
+    "question": "The method of stock valuation in which the issue price is obtained by dividing the value of stock in hand by unit of stock in hand is",
+    "option": {
+      "a": "FIFO",
+      "b": "LIFO",
+      "c": "SAP",
+      "d": "WAP"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Weighted Average Price (WAP): Under this method issues are priced at a weighted average price which is obtained by dividing the value by the unit of stock in hand. Issues will continue to be priced at this price until a new batch is received when a new weighted Average price is calculated.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -8112,6 +8208,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1251,
+    "question": "Bala Ltd acquired the business of Bello Ltd and caused the separate existence of the latter company to terminate. This situation is best described as?",
+    "option": {
+      "a": "absorption",
+      "b": "merger",
+      "c": "conversion",
+      "d": "dissolution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This situation is best described as absorption.\n\nAbsorption occurs when:\n\nOne existing company (Bala Ltd) takes over another existing company (Bello Ltd)\nThe acquired company (Bello Ltd) loses its separate legal identity and ceases to exist\nThe acquiring company (Bala Ltd) continues to exist and absorbs all assets and liabilities\nOnly one company survives the transaction",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1252,
     "question": "Where a company acquires controlling shares of another and the consideration is paid in cash, the entries in the books of the purchases are debit?`",
     "option": {
@@ -8124,6 +8236,22 @@
     "image": "",
     "answer": "a",
     "solution": "The correct entry is to debit Investment (to recognize the acquisition of the subsidiary’s shares) and credit Cash (to record the outflow of cash).",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1255,
+    "question": "<b>Use the information below to answer questions 41 and 42</b>\n\nGiven the following information: Authorized capital of ₦100,000 ordinary shares of ₦1 each, issued and fully paid 50,000 ordinary shares of ₦1 each amounting to ₦50,000, 10,000 8% preference shares of ₦1 each, reserves ₦10,000, creditors ₦25,000, debtors ₦13,000, and cash in hand ₦5,000. Determine the net current assets.",
+    "option": {
+      "a": " ₦43,000",
+      "b": "₦28,000",
+      "c": " -₦7,000",
+      "d": "₦3,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Current Assets:\n\nDebtors: ₦13,000\nCash in hand: ₦5,000\nTotal Current Assets = ₦18,000\n\nCurrent Liabilities:\n\nCreditors: ₦25,000\nTotal Current Liabilities = ₦25,000\n\nNet Current Assets = Current Assets - Current Liabilities\nNet Current Assets = ₦18,000 - ₦25,000 = -₦7,000\nThe net current assets is -₦7,000 (negative ₦7,000).",
     "examtype": "utme",
     "examyear": "2001"
   },
@@ -8432,6 +8560,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1307,
+    "question": "The body constitutionally charged with the responsibility of examining the audited accounts of the Federation and other reports as referred by the National Assembly is the?",
+    "option": {
+      "a": "Public Accounts Committee",
+      "b": "Public Audit Committee",
+      "c": " Internal Audit Committee",
+      "d": "External Audit Committee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The body is the Public Accounts Committee of the National Assembly, which reviews audited accounts and related reports.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1310,
     "question": "The channel through which all government borrowing and domestic lending transactions pass is called?",
     "option": {
@@ -8572,6 +8716,22 @@
     "image": "",
     "answer": "c",
     "solution": "To find the value of the asset after 3 years using the reducing balance method, Apply the 5% depreciation rate to the remaining balance each year.\nGiven information:\n\nOriginal cost: ₦20,000\nDepreciation rate: 5% per annum\nMethod: Reducing balance\nPeriod: 3 years\n\nYear-by-year calculation:\nYear 1:\n\nDepreciation = ₦20,000 × 5% = ₦1,000\nBook value = ₦20,000 - ₦1,000 = ₦19,000\n\nYear 2:\n\nDepreciation = ₦19,000 × 5% = ₦950\nBook value = ₦19,000 - ₦950 = ₦18,050\n\nYear 3:\n\nDepreciation = ₦18,050 × 5% = ₦902.50\nBook value = ₦18,050 - ₦902.50 = ₦17,147.50\n\nAlternative formula method:\nBook value = Original cost × (1 - depreciation rate)^number of years\nBook value = ₦20,000 × (1 - 0.05)³\nBook value = ₦20,000 × (0.95)³\nBook value = ₦20,000 × 0.857375\nBook value = ₦17,147.50",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1328,
+    "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\t\t\t\t  ₦\nCapital: Opening balance \t307,000\nClosing balance \t\t342,000\n₦et profit for the period \t121,600\nOpening stock \t\t\t98,800\nPurchases \t\t\t706,000\nCarriage inwards \t\t17,500\nCost of goods sold \t\t740,700\nTotal selling, general and\nAdministrative expenses  \t526,000\nDiscount received \t\t9,650\n\n\nWhat is the closing stock for the period?",
+    "option": {
+      "a": "₦ 69,300",
+      "b": " ₦81,300",
+      "c": "₦81,600",
+      "d": "₦106,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "COGS = Opening Stock + Purchases + Carriage Inwards − Closing Stock\nRearrange to find Closing Stock:\n\nClosing Stock = Opening Stock + Purchases + Carriage Inwards − COGS\nSubstitute the numbers:\n\nClosing Stock = 98,800 + 706,000 +17,500 − 740,700 = 81,600",
     "examtype": "utme",
     "examyear": "1999"
   },

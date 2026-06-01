@@ -2752,6 +2752,22 @@
     "examyear": "2017"
   },
   {
+    "id": 641,
+    "question": "Two departments A and B have the following information: Department A has Sales ₦250,000, Purchases ₦150,000, Discount received ₦24,000, and Discount allowed ₦15,000. Department B has Sales ₦500,000 and Purchases ₦250,000. Calculate the discount received in Department B.",
+    "option": {
+      "a": "₦12,000",
+      "b": "₦40,000",
+      "c": " ₦16,000",
+      "d": "₦9,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Department A’s discount‑received rate is ₦24 000 ÷ ₦150 000 = 16%. Applying this to Department B’s purchases (₦250 000) gives ₦250 000 × 16% = ₦40 000 as the discount received by Department B.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 644,
     "question": "Two departments A and B have the following information: Department A has Sales ₦250,000, Purchases ₦500,000, Discount received ₦24,000, and Discount allowed ₦15,000. Department B has Sales ₦150,000 and Purchases ₦250,000. Determine the discount allowed by Department A.",
     "option": {
@@ -2876,6 +2892,22 @@
     "image": "",
     "answer": "b",
     "solution": "Calculate Cost of Goods Sold\nCost of Goods Sold = Cost of Goods Available - Closing Stock\n= ₦71,000 - ₦9,000 = ₦62,000",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 672,
+    "question": "The amount called in respect of a share but not paid before or on the date fixed for payment is referred to as:",
+    "option": {
+      "a": "Call in advance",
+      "b": "call in arrears",
+      "c": "forfeiture",
+      "d": "shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "the amount called by the company which is not paid by the shareholders before the due date fixed for payment\n\n ",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5084,6 +5116,22 @@
     "image": "",
     "answer": "c",
     "solution": "Reason: bad debts are an expense (loss from trading) so the bad debts account is closed/ transferred to the profit & loss (income) account. (A provision for bad debts is a balance-sheet contra-asset, which is different.)",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1168,
+    "question": "Miscellaneous expenses is 10% of revenue.\nCalculate the net income",
+    "option": {
+      "a": "₦583,000",
+      "b": "₦563,000",
+      "c": "₦483,000",
+      "d": "₦683,000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665330/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q4_vqhypu.png",
+    "answer": "a",
+    "solution": "Step 1: Calculate Miscellaneous Expenses\nMiscellaneous expenses = 10% × ₦820,000 = ₦82,000\nStep 2: Calculate Total Expenses\nTotal Expenses = Office rent + NEPA + Salary + Miscellaneous expenses\nTotal Expenses = ₦20,000 + ₦15,000 + ₦120,000 + ₦82,000\nTotal Expenses = ₦237,000\nStep 3: Calculate Net Income\nNet Income = Revenue - Total Expenses\nNet Income = ₦820,000 - ₦237,000\nNet Income = ₦583,000",
     "examtype": "utme",
     "examyear": "2002"
   },

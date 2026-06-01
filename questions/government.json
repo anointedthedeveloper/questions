@@ -208,6 +208,22 @@
     "examyear": "2008"
   },
   {
+    "id": 52,
+    "question": "The European Union (EU) is an ",
+    "option": {
+      "a": "Economic organization ",
+      "b": "Association of former British colonies  ",
+      "c": "Organization of European states ",
+      "d": "Union  of European  organization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 53,
     "question": "What was the name of the highest ruling body during General Babangida’s rule?  ",
     "option": {
@@ -1083,6 +1099,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 299,
+    "question": "Who was the leader of the Northern Elements Progressive Union (NEPU)?",
+    "option": {
+      "a": "Alhaji Balarabe Musa",
+      "b": "Alhaji Umaru Dikko",
+      "c": "Mallam Aminu Kano",
+      "d": "Sir Abubakar Tafawa Balewa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -4656,6 +4688,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1218,
+    "question": "The Eastern and Western regions of Nigeria achieved the status of self-government is",
+    "option": {
+      "a": "1959",
+      "b": "1957",
+      "c": "1950",
+      "d": "1955"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Eastern and Western regions of Nigeria achieved the status of self-government in 1957.\n\nWestern Region: Attained self-government on August 8, 1957, under the leadership of Chief Obafemi Awolowo.\n\nEastern Region: Followed shortly after, gaining self-government on October 1, 1957, led by Dr. Nnamdi Azikiwe.\n\nThis milestone was part of Nigeria's gradual decolonization process under British rule, culminating in the country's full independence on October 1, 1960. The Northern Region achieved self-government later, in 1959, due to its more cautious approach to political reforms.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1219,
     "question": "One of the legacies of pre-colonial Nigeria destroyed by the British was the",
     "option": {
@@ -5820,6 +5868,22 @@
     "image": "",
     "answer": "c",
     "solution": "The council constituted by Lord Lugard in 1914, following the amalgamation of Northern and Southern Nigeria, had 36 members; 24 official and 12 unofficial members. This was part of his administrative structure aimed at unifying the two regions.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1493,
+    "question": "Nigeria’s withdrawal from the Edinburgh Commonwealth Games in July 1986 was in protest against British",
+    "option": {
+      "a": "supply of arms of Rhodesia",
+      "b": "failure to impose sanctions on South Africa",
+      "c": "negative utterances on Nigeria",
+      "d": "support for UNITA rebels in Angola"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Nigeria withdrew from the 1986 Edinburgh Commonwealth Games in protest against the British government's reluctance to impose sanctions on apartheid South Africa.",
     "examtype": "utme",
     "examyear": "2015"
   }

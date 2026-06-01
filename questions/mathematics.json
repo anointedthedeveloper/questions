@@ -944,6 +944,22 @@
     "examyear": "2002"
   },
   {
+    "id": 213,
+    "question": "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
+    "option": {
+      "a": " 0.38",
+      "b": "0.13",
+      "c": "0.50",
+      "d": " 0.25"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710697888/ALOC-Questions/Mathematics/2002/math_2000_q42_ikiy1n.jpg",
+    "answer": "d",
+    "solution": "30 - x + x + 40 - x = 80 - 20\n70 - x = 60\n- x = 60 - 70\n- x = - 10\n∴ x = 10\nMusic only = 30 - x\n= 30 - 10\n20\nP(music only) = 20/80\n= 1/4\n= 0.25",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 220,
     "question": "Use the graph find the values of p and q if px + qy ≥\n 4",
     "option": {
@@ -2800,6 +2816,22 @@
     "examyear": "2010"
   },
   {
+    "id": 624,
+    "question": "A man invested N5,000 for 9 months at 4%. What is the simple interest?",
+    "option": {
+      "a": "N150",
+      "b": "N220",
+      "c": "N130",
+      "d": "N250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "S.I. = P×R×T/100\n\n\nIf T = 9 months, it is equivalent to 9/12\n years\n\nS.I. = 5000×4×9/(100×12)\n\n\nS.I. = N150",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 625,
     "question": "If the numbers M, N, Q are in the ratio 5:4:3, find the value of 2N−Q/M",
     "option": {
@@ -3036,6 +3068,22 @@
     "image": "",
     "answer": "c",
     "solution": "1/5y + 1/5 < 1/2y + 2/5\n\n\nCollect like terms\n\ny/5 − y/2 < 2/5 − 1/5\n\n\n2y−5y/10 < 2−1/5\n\n\n−3y/10 < 1/5\n\n\ny > −2/3",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 737,
+    "question": "The nth term of a sequence is n2 - 6n - 4. Find the sum of the 3rd and 4th terms",
+    "option": {
+      "a": "24",
+      "b": "23",
+      "c": "-24",
+      "d": "-25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "n<sup>2</sup> - 6n - 4\n\nFor the 3rd term,\n3<sup>2</sup> - 6(3) - 4\n\n9 - 18 -4 = -13\n\nFor the 4th term,\n4<sup>2</sup> - 6(4) - 4\n\n16 - 24 - 4 = -12\n\nSum of both terms\n\n-13 - 12 = -25",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -4348,6 +4396,22 @@
     "image": "",
     "answer": "d",
     "solution": "81<sup>(−34)</sup>\n x 25<sup>(1/2)<?sub>\n x 243<sup>(2/5)</sup>\n= (4√81)<sup>−3</sup> × √25 × (5√243)<sup>2</sup>\n= 5×3<sup>2</sup>/3<sup>3</sup>= 5/3",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1003,
+    "question": "If S = (4t + 3)(t - 2), find ds/dt when t = 5 secs.",
+    "option": {
+      "a": "50 units per sec",
+      "b": "35 units per sec",
+      "c": "22 units per sec",
+      "d": "13 units per sec"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "s=(4t+3)(t−2)\n \nds/dt=(4t+3)(1)+(t−2)(4)\n= 4t+3+4t−8\n= 8t - 5\n\nds/dt(t=5secs)=8(5)−5\n= 40 - 5 \n\n= 35 units per sec",
     "examtype": "utme",
     "examyear": "2019"
   },

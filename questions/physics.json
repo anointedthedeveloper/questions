@@ -64,6 +64,22 @@
     "examyear": "2006"
   },
   {
+    "id": 11,
+    "question": "An object of height 3.00cm is placed 10cm from a biconvex lens of 15cm, the image of the object is ",
+    "option": {
+      "a": "real and 3.00cm tall ",
+      "b": "virtual and 3.00cm tall ",
+      "c": " virtual and 9.00cm tall ",
+      "d": "real and 9.00cm tall"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 12,
     "question": "The most suitable type of mirror used for the construction of search light is the: ",
     "option": {
@@ -940,6 +956,22 @@
     "image": "",
     "answer": "b",
     "solution": "A gas thermometers are more besting use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 167,
+    "question": "If an object whose mass is 3kg moves in a circular path of a radius 0.7m, records a speed at 2m/s. What is the result of the angular velocity?",
+    "option": {
+      "a": "4 rads⁻¹",
+      "b": "1rads–1⁻¹",
+      "c": "3⁻¹rads⁻¹",
+      "d": "4rads–1⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nMass (m) = 3 kg\nRadius (r) = 0.7 m\nLinear speed (v) = 2 m/s\nAngular velocity (ω) = ?\n\nFormula for circular motion:\nv = ωr\nwhere:\n\nv = tangential/linear speed\nω = angular velocity\nr = radius\n\nRearranging to find ω:\nω = v/r\nSubstituting values:\nω = 2/0.7\nω = 2.857 rad/s\nRounding to nearest whole number:\nω ≈ 3 rad/s\nAnswer: C. 3 rads⁻¹",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -3452,6 +3484,22 @@
     "image": "",
     "answer": "a",
     "solution": "The small reverse current (typically microamperes) in a reverse-biased junction is due to the drift of minority carriers across the junction, not majority carriers. This current is also called leakage current or reverse saturation current.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 667,
+    "question": "When the temperature difference between the wet and dry bulbs of a hygrometer is high, this indicates that",
+    "option": {
+      "a": "it is about to rain",
+      "b": "the relative humidity is high",
+      "c": "there is plenty of sunshine",
+      "d": "the relative humidity is low"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Large temperature difference indicates low relative humidity.",
     "examtype": "utme",
     "examyear": "2005"
   },

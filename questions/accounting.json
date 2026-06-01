@@ -1216,6 +1216,22 @@
     "examyear": "2015"
   },
   {
+    "id": 520,
+    "question": "Determine wage expenses from the given information, wages outstanding at the beginning, wages paid during the period 15000 and wages outstanding of the period 2,000",
+    "option": {
+      "a": " ₦16,000",
+      "b": " ₦17,000",
+      "c": " ₦13,000",
+      "d": "₦14,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Wage Expense=Wages Paid + Outstanding:\nWage Expense = 15,000 + 2,000 = 17,000",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 525,
     "question": "The major distinguishing element between the final account of a partnership and that of a sole trader is the",
     "option": {
@@ -2224,6 +2240,22 @@
     "examyear": "2022"
   },
   {
+    "id": 869,
+    "question": "An evidence of payment issued to a government ministry by a revenue collector is",
+    "option": {
+      "a": "treasury receipt",
+      "b": "receipt voucher",
+      "c": "payment voucher",
+      "d": "treasury card"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a government ministry makes a payment to a revenue collector, the official acknowledgment of that payment is issued in the form of a treasury receipt. This document serves as the evidence that funds have been collected and remitted to the government’s treasury.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 875,
     "question": "Sule and Ahmed are in partnership sharing profit and losses equally. If Khadija is admitted as a new partner to take 1/5 th as her share. What is the new profit or loss sharing?",
     "option": {
@@ -2640,6 +2672,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1028,
+    "question": "Given:\n...............................Jan.2003.........Dec. 2003\nProvision for bad debt........₦1000\nDebtors..........................................₦20000\nBad debt to be written off.......................₦2000\n\nThe provision for bad debt stands at 10% of debtors. How much is to be charged to profit and loss account as provision for bad debt?",
+    "option": {
+      "a": "₦800",
+      "b": "₦1000",
+      "c": "₦1800",
+      "d": "₦2000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Workings:\n\nRequired provision = 10% of ₦20,000 = ₦2,000\n\nExisting provision = ₦1,000\n\nAmount to charge to P&L as provision = ₦2,000 − ₦1,000 = ₦1,000\n\n(Notice the ₦2,000 bad debt to be written off is a separate bad debt expense, not the provision movement asked for.)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1029,
     "question": "Goods withdraw from business for private use are credited to?",
     "option": {
@@ -2764,6 +2812,22 @@
     "image": "",
     "answer": "b",
     "solution": "Reason: A source document (e.g., supplier’s invoice) provides the original evidence of a transaction and is used to verify the cost at which an asset was acquired before it’s recorded in the books.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1076,
+    "question": "The balance on the provision for depreciation account is?",
+    "option": {
+      "a": " added to fixed assets on the balance sheet",
+      "b": "deducted from the fixed assets on the balance sheet",
+      "c": " deducted from the profitand loss account",
+      "d": "added to current liabilities of the account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Reason: Provision for depreciation (accumulated depreciation) is a contra-asset account, it reduces the gross carrying amount of fixed assets to show their net book value on the balance sheet.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3628,6 +3692,22 @@
     "image": "",
     "answer": "d",
     "solution": "When you pay off a liability (e.g., cash is paid to settle a creditor), your cash (an asset) goes down and your liability is extinguished (goes down) by the same amount.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1430,
+    "question": "The receipt of cash from a customer who bought goods with ₦800 list price, 25% trade discount and 2/10, n/30 terms would, if paid within the discount period, amount to",
+    "option": {
+      "a": "₦576",
+      "b": "₦588",
+      "c": "₦600",
+      "d": "₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Net after trade discount:\n\n₦800 × (1−0.25) = ₦600\n\nThen 2% cash discount on ₦600:\n\n₦600 × 0.02 = ₦12\nAmount paid = ₦600 − ₦12 = ₦588",
     "examtype": "utme",
     "examyear": "1997"
   },

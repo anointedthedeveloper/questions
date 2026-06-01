@@ -256,6 +256,22 @@
     "examyear": "2010"
   },
   {
+    "id": 120,
+    "question": "Fascism originated from ",
+    "option": {
+      "a": "Greece ",
+      "b": "Italy  ",
+      "c": "China  ",
+      "d": "Germany"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 124,
     "question": "A human community that is usually cohesive and homogeneous is ",
     "option": {
@@ -619,6 +635,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 277,
+    "question": "The idea of federalism in Nigeria started with ______ constitution.",
+    "option": {
+      "a": "Clifford",
+      "b": "Independence",
+      "c": "Lyttleton",
+      "d": "Macpherson"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -2336,6 +2368,22 @@
     "examyear": "2024"
   },
   {
+    "id": 1078,
+    "question": "Which local government reform in Nigeria prevented traditional rulers from engaging in politics?",
+    "option": {
+      "a": " The 1960 Reform",
+      "b": " The 1963 Reform",
+      "c": "The 1976 Reform",
+      "d": " The 1979 Reform"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The 1976 Reform of the Local Government in Nigeria changed the multiple system of local government councils to a single-tier all-purpose local government. It also led to the exclusion of traditional rulers from local government councils. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1084,
     "question": "The fragmented nature of the Igbo pre-colonial political system qualified it to be described as",
     "option": {
@@ -2768,6 +2816,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1264,
+    "question": "Under the 1999 Constitution, the power to declare war is vested in the",
+    "option": {
+      "a": "National Security Council",
+      "b": "legislature",
+      "c": "executive",
+      "d": "National Council of States"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Under the 1999 Constitution, the power to declare war is vested in the Executive. This is with the approval of the National Assembly.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1265,
     "question": "The major motivation for British colonization of Nigeria was to",
     "option": {
@@ -2796,6 +2860,22 @@
     "image": "",
     "answer": "c",
     "solution": "The law of libel limits a citizen's right to freedom of expression.\n\nOthers are the laws of slander and sedition",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1275,
+    "question": "In a unitary system of government,power is concentrated at the center",
+    "option": {
+      "a": "with devolution",
+      "b": "without residual functions",
+      "c": "without devolution",
+      "d": "with residual functions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "In a unitary system of government,power is concentrated at the center with residual functions. Some examples of residual lists are markets and chieftancy affairs.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -2912,6 +2992,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1314,
+    "question": "In the First Republic,the official opposition party was the",
+    "option": {
+      "a": "Action Group",
+      "b": "Northern People's Congress",
+      "c": "Northern Elements Progressive Union",
+      "d": " National Council of Nigeria and the Cameroons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The official opposition party in the First Republic was the Action Group.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1326,
     "question": "On the basis of its structure,a political party can be classified as indirect if",
     "option": {
@@ -2976,6 +3072,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1349,
+    "question": "A key characteristics of the civil service is",
+    "option": {
+      "a": "transparency",
+      "b": "patriotism",
+      "c": "merit system",
+      "d": "quota system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "A key characteristic of the civil service is Merit System.\n\nRecruitment into the Civil Service should be based on merit and not on quota or favouritism.\n\nThis is to enable the Civil Servants to perform their functions very well and then ensure the success of the government.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1369,
     "question": "In the monarchical system of government, sovereignty is vested in the",
     "option": {
@@ -3036,6 +3148,22 @@
     "image": "",
     "answer": "b",
     "solution": "The Lyttleton Constitution of 1954, while introducing Nigeria’s first federal structure, faced criticism for failing to establish the office of a Prime Minister at the federal level. Instead, executive authority remained vested in the Governor-General, who chaired the Federal Executive Council and retained veto powers over legislation",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1389,
+    "question": "The arm of government mainly responsible for the implementing of law in Nigeria is the",
+    "option": {
+      "a": "judiciary",
+      "b": "police",
+      "c": "legislature",
+      "d": "executive"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The executive arm of government in Nigeria is responsible for implementing and enforcing laws. This includes:\n\nAdministrative Action: Ministries, agencies, and public servants (e.g., the police, immigration, customs) execute policies and laws enacted by the legislature.\n\nLaw Enforcement: Agencies like the Nigeria Police Force operate under the executive to maintain public order and ensure compliance with laws.\n\n",
     "examtype": "utme",
     "examyear": "2008"
   },

@@ -6064,6 +6064,22 @@
     "examyear": "2021"
   },
   {
+    "id": 433,
+    "question": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductors are 30V and 40V respectively. What is the voltage across the capacitor?",
+    "option": {
+      "a": "30V",
+      "b": "40V",
+      "c": "50V",
+      "d": "70V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nVoltage across resistor (V_R) = 30V\nVoltage across inductor (V_L) = 40V\nVoltage across capacitor (V_C) = ?\n\nAt resonance:\nSince X_L = X_C and the currents through all components are the same (series circuit):\nV_L = IX_L\nV_C = IX_C\nSince X_L = X_C:\nV_C = V_L = 40V",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 434,
     "question": "If the frequency of an emitted x-ray is 1.6 × 10¹⁶ Hz, the accelerating potential is?\n[e = 1.6 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ Js]",
     "option": {

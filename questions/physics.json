@@ -8032,6 +8032,22 @@
     "examyear": "2024"
   },
   {
+    "id": 586,
+    "question": "The average translational kinetic energy of gas molecules depends on ",
+    "option": {
+      "a": "Temperature only",
+      "b": "Number of moles and temperature",
+      "c": "Pressure and temperature",
+      "d": "Pressure only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The average translational kinetic energy of gas molecules depends on temperature only. This is expressed as Average KE = (3/2)kT, where temperature is the sole determining factor.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 587,
     "question": "The fourth overtone of a closed pipes is 900Hz, its fundamental frequency is \n",
     "option": {
@@ -8668,6 +8684,22 @@
     "image": "",
     "answer": "b",
     "solution": "Pitch depends on frequency.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 636,
+    "question": "If u is the object distance and v the image distance, which of the following expressions gives the linear magnification produced by a convex lens of focal length f?",
+    "option": {
+      "a": "u/f - f",
+      "b": "u/v + f",
+      "c": "v/f + 1",
+      "d": "v/f - 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nObject distance = u\nImage distance = v\nFocal length = f (positive for convex lens)\n\nStep 1: Lens formula (real-is-positive convention)\n1/f = 1/u + 1/v\n\nStep 2: Relate magnification to v and f\nMagnification m = v/u\nFrom the lens formula:\n1/f = 1/u + 1/v\nMultiply both sides by v:\nv/f = v/u + 1\nv/f = m + 1\n\nStep 3: Solve for m\nm = v/f - 1",
     "examtype": "utme",
     "examyear": "2004"
   },

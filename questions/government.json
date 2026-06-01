@@ -48,6 +48,54 @@
     "examyear": "2008"
   },
   {
+    "id": 59,
+    "question": "What does INEC stand for? ",
+    "option": {
+      "a": "Independent  National Elections Committee ",
+      "b": "Independent  Newspapers executive  Committee ",
+      "c": "Independent National Export Council ",
+      "d": "independent National Electoral Commission "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 141,
+    "question": "After the defeat of Germany in World War 1, her former colonies were administered under the League of Nations as: ",
+    "option": {
+      "a": "occupied territories ",
+      "b": "trust territories  ",
+      "c": "crown colonies ",
+      "d": "protectorates."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 149,
+    "question": "Which of the following does not described a party system? ",
+    "option": {
+      "a": "one dominant party system  ",
+      "b": "two party system  ",
+      "c": "three party system  ",
+      "d": "multi-party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 173,
     "question": "Which organ is referred to as ‘the last hope’ of the common man  ",
     "option": {
@@ -94,6 +142,22 @@
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2013"
+  },
+  {
+    "id": 230,
+    "question": "The powers allocated to the central government in a federation are contained in the",
+    "option": {
+      "a": "central legislative list",
+      "b": "exclusive legislative list",
+      "c": "residual legislative list",
+      "d": "concurrent legislative list."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2000"
   },
   {
     "id": 253,
@@ -158,6 +222,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 591,
+    "question": "One of the main duties of the Local Government Service Commission is to",
+    "option": {
+      "a": "supervise and manage the personnel of local governments",
+      "b": "conduct election into Local Council",
+      "c": "create an enabling working environment for council workers",
+      "d": "handle requests for the creation of more local governments"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2014"
   },
   {
     "id": 657,
@@ -256,6 +336,22 @@
     "examyear": "2018"
   },
   {
+    "id": 776,
+    "question": "The primary function of government in a state is to ___",
+    "option": {
+      "a": "build schools and hospitals",
+      "b": "provide transport services",
+      "c": "engage in campaigns and rallies",
+      "d": "maintain law and order."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": " The primary function of government is to ensure law and order, creating a stable society.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 840,
     "question": "Generally, a political party with only manifestoes without fulfilment is a/an _____",
     "option": {
@@ -302,6 +398,54 @@
     "solution": "One of the merits of a one-party system is that it helps to prevent economic waste. With only one party in a state, resources do not have to be diverted to conducting elaborate elections in the selection of leaders. ",
     "examtype": "utme",
     "examyear": "2022"
+  },
+  {
+    "id": 987,
+    "question": "On 1 October 1995, Abacha announced a three-year program for return to civilian rule. Parties were allowed to form in July 1998. Which of the following parties was not registered by the Provisional Ruling Council?",
+    "option": {
+      "a": "Alliance for Democracy",
+      "b": "Action Congress",
+      "c": "All People's partys",
+      "d": "People's Democratic Party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Three parties were registered by the Provisional Ruling Council for participation in local, state and national elections: the All People's Party or APP led by Mahmud Waziri; the People's Democratic Party or PDP led by Soloman Lar; and the Alliance for Democracy or AD, led by Ayo Adebanjo.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1000,
+    "question": "During the cold war, Nigeria's foreign policy was characterized by",
+    "option": {
+      "a": "alignment with the United States",
+      "b": "Neutrality and non-alignment",
+      "c": "Pursuit of colonial interest",
+      "d": " alignment with the Soviet Union"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "During the cold war, Nigeria's foreign policy was characterized by Neutrality and non-alignment. This is because Nigeria did not want to be seen as taking sides in the ideological war between the United States and the Soviet Union. Instead, Nigeria pursued a policy of neutrality and non-alignment, focusing on its own national interests and the promotion of peace and stability in Africa.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1034,
+    "question": "Which African country experienced a violent resistance movement against British colonial rule known as the Mau Mau rebellion?",
+    "option": {
+      "a": "Sudan",
+      "b": "Kenya",
+      "c": "Ghana",
+      "d": "Nigeria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The Mau Mau rebellion was a military conflict that took place in British Kenya between 1952 and 1960. It was a violent resistance movement against British colonial rule. The Mau Mau, a secret society that was predominantly Kikuyu, initiated the conflict with the goal of removing British rule and European settlers from the country.",
+    "examtype": "utme",
+    "examyear": "2023"
   },
   {
     "id": 1056,
@@ -460,6 +604,22 @@
     "image": "",
     "answer": "a",
     "solution": "On the basis of its structure,a political party can be classified as indirect if its membership is acquired through other groups",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1342,
+    "question": "In the present local government structure ,traditional rulers play",
+    "option": {
+      "a": "an advisory role",
+      "b": "an executive role",
+      "c": "a judicial role",
+      "d": "a legislative role"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The traditional rulers play advisory role in the present local government structure.\n\nSince the 1976 local government reform, the traditional rulers have maintained the position of advicers to local government councils. And this is mostly on traditional matters.",
     "examtype": "utme",
     "examyear": "2005"
   },

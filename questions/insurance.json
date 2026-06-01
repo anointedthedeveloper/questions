@@ -304,6 +304,22 @@
     "examyear": "2014"
   },
   {
+    "id": 45,
+    "question": "The consideration paid for insurance contract is",
+    "option": {
+      "a": "money",
+      "b": "commission",
+      "c": "premium",
+      "d": "fee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 46,
     "question": "The alternative to seeking for surrender value in a life assurance contract is",
     "option": {
@@ -2635,6 +2651,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 254,
+    "question": "If the insured does not want the contract to continue he receives",
+    "option": {
+      "a": "surrender value",
+      "b": "consideration",
+      "c": "premium",
+      "d": "commission"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "model",
     "examyear": "5"

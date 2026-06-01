@@ -64,6 +64,38 @@
     "examyear": "2013"
   },
   {
+    "id": 83,
+    "question": "Which of the following is not a characteristic of a Trial Balance?",
+    "option": {
+      "a": "It has columns for debit and credit balances",
+      "b": "Total of debit balance equals total of credit balance",
+      "c": "It is a statement",
+      "d": "It is an account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 92,
+    "question": "The double entry principle states that",
+    "option": {
+      "a": "every debit entry must have a corresponding credit entry",
+      "b": "every credit entry must have a corresponding double entry",
+      "c": "every debit entry must have a corresponding double entry",
+      "d": "every asset must have a corresponding liability."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 96,
     "question": "The accumulated fund of a not-for-profit making organization is",
     "option": {
@@ -94,6 +126,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
+  },
+  {
+    "id": 229,
+    "question": "Which of the following is not a source of revenue to a government?",
+    "option": {
+      "a": "Taxation",
+      "b": "Sale of goods",
+      "c": "Imposition of fines",
+      "d": "Grants"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
   },
   {
     "id": 261,
@@ -158,6 +206,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2014"
+  },
+  {
+    "id": 396,
+    "question": "A debit in the suspense account will appear in the balance sheet as",
+    "option": {
+      "a": "a current asset",
+      "b": "a current liability",
+      "c": "capital",
+      "d": "drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 419,
@@ -320,6 +384,22 @@
     "examyear": "2018"
   },
   {
+    "id": 693,
+    "question": "The cost price method is applicable when_____",
+    "option": {
+      "a": "Goods are sold at specific prices",
+      "b": " goods are perishable",
+      "c": " goods attract different gross profit percentage",
+      "d": "to disclose gross profit or loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "cost price method is used to enhance quick sales",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 751,
     "question": "One of these is not a similarity between Joint Venture and Partnership.",
     "option": {
@@ -428,6 +508,22 @@
     "image": "",
     "answer": "d",
     "solution": "A transaction file is used to hold data during transaction processing. The file is later used to update the master file and audit daily, weekly or monthly transactions.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 914,
+    "question": "When starting with the cash book balance in preparing the bank reconciliation statement, the followings are added except",
+    "option": {
+      "a": "uncredited cheque",
+      "b": "credit transfer",
+      "c": " dividend",
+      "d": "unpresented cheque"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When starting with balanace as per cash book, unpresented cheques, dividend, credit transfers are added while uncredited cheques, bank charges, dishonoured cheuqes, standing order are substracted.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -592,6 +688,38 @@
     "examyear": "2004"
   },
   {
+    "id": 1133,
+    "question": "<b>Use the information below to answer questions 18 and 19</b>\n\nUsing the periodic simple average method, the cost per unit is",
+    "option": {
+      "a": "₦2.50 ",
+      "b": " ₦3.25",
+      "c": " ₦2.25",
+      "d": "₦1.25"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663211/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q18-19_t9cj1m.png",
+    "answer": "a",
+    "solution": "Periodic Simple Average Method:\nThis method calculates the average of all the different purchase prices, regardless of the quantities purchased at each price.\nCalculation:\nSimple Average = Sum of all purchase prices ÷ Number of different prices\nSimple Average = (₦1.00 + ₦2.00 + ₦3.00 + ₦4.00) ÷ 4\nSimple Average = ₦10.00 ÷ 4\nSimple Average = ₦2.50 per unit",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1144,
+    "question": "Income and expenditure account is more informative than receipts and payments account because it discloses?",
+    "option": {
+      "a": "cash",
+      "b": "cheques",
+      "c": "debtors",
+      "d": "stocks"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The Income and Expenditure Account is more comprehensive because it includes debtors (amounts owed to the organization) and creditors (amounts the organization owes), giving a complete picture of the organization's financial performance regardless of whether cash has been exchanged.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1150,
     "question": "The first step in converting as single entry to a double entry system of bookkeeping is to prepare a?",
     "option": {
@@ -688,6 +816,22 @@
     "examyear": "1999"
   },
   {
+    "id": 1347,
+    "question": "Dele and Seun who are in partnership, have decided to covert their business into a limited liability company where both become directors. To convert the business?",
+    "option": {
+      "a": "they will simply continue since there are no new members",
+      "b": "the partnership is formally ended and new company books opened",
+      "c": "the shares and all other items will be shared equally and not in their former ratios",
+      "d": "computation of goodwill must be done as it is legally required"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a partnership is converted into a limited liability company (LLC), it is considered a new legal entity. Therefore:\n\nThe partnership must be legally dissolved.\n\nA new set of books of account must be opened for the new company.\n\nThe assets and liabilities of the former partnership are usually transferred to the new company.\n\nThe partners may become shareholders or directors in the new company.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
     "id": 1348,
     "question": "If a sole proprietorship is purchased for cash, then?",
     "option": {
@@ -702,6 +846,22 @@
     "solution": "The purchaser records the total purchase price in a \"Business Purchase Account\" or similar account, which is then analyzed and allocated to individual assets and goodwill.",
     "examtype": "utme",
     "examyear": "1999"
+  },
+  {
+    "id": 1385,
+    "question": "A powerful instrument of control over both the sales ledger and the clek whose duty is to post the ledger is the?",
+    "option": {
+      "a": "total debtors account",
+      "b": " purchase day book",
+      "c": "sales day book",
+      "d": "cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The Debtors Control Account (often called the Total Debtors Account) in the general ledger provides a summary total of all individual customer balances in the sales ledger. By reconciling the control account with the detail in the subsidiary (sales) ledger, management can ensure that the clerk has posted correctly and completely.",
+    "examtype": "utme",
+    "examyear": "199"
   },
   {
     "id": 1438,

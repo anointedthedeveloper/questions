@@ -3584,6 +3584,22 @@
     "examyear": "2019"
   },
   {
+    "id": 718,
+    "question": "The advantage of double entry is that",
+    "option": {
+      "a": " it is easy to prepare the final account",
+      "b": " it increase assets",
+      "c": "has cash and bank column",
+      "d": "It disburses cash"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Double-entry accounting is easy to prepare and helps guarantee accurate financial records by revealing data entry errors. Double-entry accounting provides a complete record of financial transactions for a business.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 719,
     "question": "Accounts can be classified into",
     "option": {
@@ -6576,6 +6592,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1279,
+    "question": "<b>Use the information below to answer questions 15 and 16</b>\nCost of raw materials consumed ₦300,600, carriage inwards ₦6,700, returns of raw materials ₦10,800, closing stock of raw materials ₦100,250, raw materials purchased during the year ₦350,000, manufacturing wages ₦27,000, and lighting, power, insurance and rent in relation to the factory are apportioned 1/3, 2/5, 1/6 and 1/7 with totals ₦30,000, ₦75,000, ₦36,000 and ₦56,000 respectively.\nWhat is the cost of the opening raw materials?",
+    "option": {
+      "a": "₦ 418,350",
+      "b": " ₦404,950",
+      "c": "₦54,950",
+      "d": "₦398,250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Raw Materials Consumed = Opening Stock + Purchases + Carriage Inwards - Returns - Closing Stock\nRearranging to find Opening Stock:\nOpening Stock = Raw Materials Consumed + Closing Stock + Returns - Purchases - Carriage Inwards\nSubstituting the values:\nOpening Stock = ₦300,600 + ₦100,250 + ₦10,800 - ₦350,000 - ₦6,700\nOpening Stock = ₦411,650 - ₦356,700 = ₦54,950",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1280,
     "question": "<b>Use the information below to answer questions 15 and 16</b>\nCost of raw materials consumed ₦300,600, carriage inwards ₦6,700, returns of raw materials ₦10,800, closing stock of raw materials ₦100,250, raw materials purchased during the year ₦350,000, manufacturing wages ₦27,000, and lighting, power, insurance and rent in relation to the factory are apportioned 1/3, 2/5, 1/6 and 1/7 with totals ₦30,000, ₦75,000, ₦36,000 and ₦56,000 respectively.\nThe production cost of finished goods is",
     "option": {
@@ -6924,6 +6956,22 @@
     "image": "",
     "answer": "a",
     "solution": "To find the net profit of the partnership, Add up all the appropriations from the Appropriation Account.\nGiven information from Appropriation Account:\n\nKudu's interest on capital: ₦750\nWale's interest on capital: ₦550\nKudu's salary: ₦800\nWale's salary: ₦600\nKudu's share of profits: ₦3,300\nWale's share of profits: ₦3,300\n\nCalculation:\nThe net profit equals the total of all appropriations:\nInterest on capital: ₦750 + ₦550 = ₦1,300\nSalaries: ₦800 + ₦600 = ₦1,400\nShare of profits: ₦3,300 + ₦3,300 = ₦6,600\nTotal net profit = ₦1,300 + ₦1,400 + ₦6,600 = ₦9,300",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1362,
+    "question": "Given:\n\nTotal cash received from debtors 30,000\nTotal purchases for the period 21,000\nAmount owed by debtors at the beginning of the period 4,000\nEquipment bought 2,500\nAmount owed by debtors at the end of the period 3,000\nDetermine the value of sales for the period",
+    "option": {
+      "a": " ₦29,000",
+      "b": " ₦ 31,500",
+      "c": "₦46,500",
+      "d": "₦50,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the value of sales for the period, use the debtors control account approach.\nGiven information:\n\nCash received from debtors: ₦30,000\nOpening debtors: ₦4,000\nClosing debtors: ₦3,000\nTotal purchases: ₦21,000 (not relevant for sales calculation)\nEquipment bought: ₦2,500 (not relevant for sales calculation)\n\nUsing the Debtors Control Account:\nOpening debtors + Sales - Cash received = Closing debtors\nCalculation:\n₦4,000 + Sales - ₦30,000 = ₦3,000\nSales = ₦3,000 - ₦4,000 + ₦30,000\nSales = ₦29,000",
     "examtype": "utme",
     "examyear": "1999"
   },

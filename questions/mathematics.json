@@ -8288,6 +8288,22 @@
     "examyear": "2009"
   },
   {
+    "id": 559,
+    "question": "The distribution above shows the number of days a group of 260 students were absent from school in a particular term. How many students were absent for at least four days in the term?",
+    "option": {
+      "a": "180",
+      "b": "120",
+      "c": "110",
+      "d": "40"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547266/ALOC-Questions/Mathematics/2009/MATH_2009_Q38_ehu03j.jpg",
+    "answer": "b",
+    "solution": "20 + 2x + 60 + 40 + x + 50 = 260\n170 + 3x = 260\n3x = 260 - 170\n3x = 90\nx = 90/3 = 30\nAt least 4 days\n4 days = 40\n5 days = 30\n6 days = 50\nTotal = 120",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 560,
     "question": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?\n",
     "option": {

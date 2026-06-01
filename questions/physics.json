@@ -3456,6 +3456,22 @@
     "examyear": "2017"
   },
   {
+    "id": 241,
+    "question": "Three 3ω resistance are connected in parallel what is the equivalent resistance?",
+    "option": {
+      "a": "1ω",
+      "b": "9ω",
+      "c": "3ω",
+      "d": "0.33ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nSolution:\nGiven information:\n\nThree resistors: R₁ = R₂ = R₃ = 3Ω\nConnected in parallel\nEquivalent resistance (Rₑq) = ?\n\nFormula for resistors in parallel:\n1/Rₑq = 1/R₁ + 1/R₂ + 1/R₃\nSubstituting values:\n1/Rₑq = 1/3 + 1/3 + 1/3\n1/Rₑq = 3/3\n1/Rₑq = 1\nTherefore:\nRₑq = 1Ω",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 242,
     "question": "Which of the following instruments helps to maintain the correct humidity and temperature of a building?",
     "option": {
@@ -11996,6 +12012,22 @@
     "image": "",
     "answer": "d",
     "solution": "Terminal velocity is reached when the velocity is uniform.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 890,
+    "question": "The pressure of two moles of an ideal gas at a temperature of 27 °C and volume 10⁻² m³ is?\n[R = 8.313 J mol⁻¹ K⁻¹]",
+    "option": {
+      "a": "4.99 × 10⁵ N m⁻²",
+      "b": "9.80 × 10³ N m⁻²",
+      "c": "4.98 × 10³ N m⁻²",
+      "d": "9.80 × 10⁵ N m⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nNumber of moles, n = 2 mol\nTemperature, T = 27 °C = 27 + 273 = 300 K\nVolume, V = 10⁻² m³\nGas constant, R = 8.313 J mol⁻¹ K⁻¹\n\nSolution:\n\nStep 1: Ideal gas equation\nPV = nRT\n\nStep 2: Rearrange for pressure P\nP = nRT / V\n\nStep 3: Substitute values\nP = (2 × 8.313 × 300) / 10⁻²\n\nStep 4: Calculate numerator\n2 × 8.313 = 16.626\n16.626 × 300 = 4987.8\n\nStep 5: Divide by volume\n4987.8 / 10⁻² = 4987.8 × 100 = 498780 N m⁻²\n\nStep 6: Express in scientific notation\n498780 = 4.9878 × 10⁵ ≈ 4.99 × 10⁵ N m⁻²",
     "examtype": "utme",
     "examyear": "2009"
   },

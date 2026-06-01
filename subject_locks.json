@@ -2,7 +2,23 @@
   "locks": {
     "economics": {
       "machine": "PCTOP",
+<<<<<<< Updated upstream
       "time": 1780297867.866154
+=======
+      "time": 1780297413.1655781
+    },
+    "english": {
+      "machine": "PCTOP",
+      "time": 1780297413.4537804
+    },
+    "physics": {
+      "machine": "PCTOP",
+      "time": 1780297402.0877445
+    },
+    "biology": {
+      "machine": "PCTOP",
+      "time": 1780297413.3651931
+>>>>>>> Stashed changes
     }
   }
 }

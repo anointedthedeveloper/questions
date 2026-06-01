@@ -1,5 +1,21 @@
 [
   {
+    "id": 4,
+    "question": "Which   of the   following   is   a  long  term liability ",
+    "option": {
+      "a": "bank overdraft ",
+      "b": "bank deposit ",
+      "c": "good will ",
+      "d": "debentures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 11,
     "question": "The journal is a book ",
     "option": {
@@ -59,6 +75,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 18,
+    "question": "Trading account is prepared to ascertain ",
+    "option": {
+      "a": "Gross profit ",
+      "b": "Net profit ",
+      "c": "Gross profit or Gross loss ",
+      "d": " Net profit or net loss"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -3520,6 +3552,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1061,
+    "question": "Determine the closing stock under LOFO method",
+    "option": {
+      "a": "₦575",
+      "b": "₦500",
+      "c": "₦375",
+      "d": "₦275"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661640/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q46_epm0o4.jpg",
+    "answer": "a",
+    "solution": "Using LIFO (Last-In, First-Out) Method:\nMarch Issue (80 units):\nIssue from most recent stock (Feb receipt):\n\n80 units from Feb @ ₦2.50\nRemaining after March: Feb = 110 - 80 = 30 units @ ₦2.50\n\nStock after March:\n\nJan: 100 units @ ₦2.00\nFeb: 30 units @ ₦2.50\n\nApril Receipt:\n\nReceived 200 units @ ₦3.00\n\nStock after April:\n\nJan: 100 units @ ₦2.00\nFeb: 30 units @ ₦2.50\nApril: 200 units @ ₦3.00\n\nMay Issue (100 units):\nIssue from most recent stock (April receipt):\n\n100 units from April @ ₦3.00\n\nClosing Stock:\n\nJan: 100 units @ ₦2.00 = ₦200\nFeb: 30 units @ ₦2.50 = ₦75\nApril: 200 - 100 = 100 units @ ₦3.00 = ₦300\n\nTotal Closing Stock Value = ₦200 + ₦75 + ₦300 = ₦575",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1067,
     "question": "A source document is used for verifying the?",
     "option": {
@@ -4016,6 +4064,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1202,
+    "question": "In a control account, discount received is found on the?",
+    "option": {
+      "a": " debit side of the purchase ledger control account",
+      "b": "debit side of the sales ledger control account",
+      "c": " credit side of the purchase ledger control account",
+      "d": "credit side of the sales ledger control account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reason: discount received reduces the amount owed to suppliers, so it is entered on the debit side of the purchase ledger (creditors) control account.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1207,
     "question": "Control accounts help to verify the arithmetic accuracy of the postings from the?",
     "option": {
@@ -4108,6 +4172,22 @@
     "image": "",
     "answer": "a",
     "solution": "This follows the fundamental principle of double-entry bookkeeping where every transaction must have equal debits and credits. When preparing journal entries:\n\nEach transaction must balance (total debits = total credits)\nThis ensures mathematical accuracy\nIt helps detect errors in recording transactions\nIt maintains the accounting equation balance",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1223,
+    "question": "A cash book had opening balance of ₦15,200 closing balance ₦18,400 and total cash received during the period ₦36,000. What was the amount of cash paid out during the same period?",
+    "option": {
+      "a": " ₦17,800",
+      "b": " ₦19,600",
+      "c": " ₦29,200",
+      "d": "₦32,800"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Opening Balance + Cash Received - Cash Paid = Closing Balance\nRearranging to find Cash Paid:\nCash Paid = Opening Balance + Cash Received - Closing Balance\nSubstituting the values:\nCash Paid = ₦15,200 + ₦36,000 - ₦18,400\nCash Paid = ₦51,200 - ₦18,400 = ₦32,800",
     "examtype": "utme",
     "examyear": "2001"
   },

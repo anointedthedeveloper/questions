@@ -32,6 +32,22 @@
     "examyear": "2010"
   },
   {
+    "id": 15,
+    "question": "Money spent on buying of plots of land by a firm is ",
+    "option": {
+      "a": "Capital Expenditure ",
+      "b": "capital receipts ",
+      "c": "Revenue Expenditure",
+      "d": " Revenue Receipts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 26,
     "question": "Which of the following is not a book of original entry? ",
     "option": {
@@ -267,6 +283,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 144,
+    "question": "When goods are sent to the branch at cost plus mark­up, it means that the branch should sell at",
+    "option": {
+      "a": "a price above or below the stipulated price",
+      "b": "any price but not below the transfer price",
+      "c": "cost price",
+      "d": "a price that is equal to the mark-up."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -1744,6 +1776,22 @@
     "examyear": "2019"
   },
   {
+    "id": 765,
+    "question": "Under which of the following conditions is a partnership dissolved?",
+    "option": {
+      "a": " change of the partnership's head office",
+      "b": " purchase of a large quantity of fixed assets",
+      "c": " admission of a new partner",
+      "d": "retirement of a manager who is not a partner"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Legally, the admission of a new partner brings about the dissolution of the existing partnership and the formation of a new one (even though the business may continue uninterrupted). None of the other events (moving the head office, buying fixed assets, or a manager’s retirement when they aren’t a partner) automatically dissolve the partnership.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 768,
     "question": "Given the following list of balances: bank account ₦59,410, capital account ₦50,000, purchases account ₦20,000, rent ₦2,500, stationery ₦90, typewriter ₦6,500, and sales ₦38,500, in preparing a trial balance from this list of balances, what is the total in debit and credit columns?",
     "option": {
@@ -2348,6 +2396,22 @@
     "image": "",
     "answer": "c",
     "solution": "The primary purpose of departmental accounting is to assess and compare the financial performance of different departments within an organization.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1003,
+    "question": "A source of revenue that is compulsory payment without any derived benefit is?",
+    "option": {
+      "a": "fees",
+      "b": "taxes",
+      "c": "fines",
+      "d": "rosyalties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Explanation:\nTaxes are compulsory payments made to the government without receiving any direct or specific benefit in return. Key characteristics:\n\nCompulsory - Must be paid by law\n₦o direct benefit - Taxpayers don't receive specific services in exchange for their tax payment\nGovernment revenue - Used to fund general government operations and public services",
     "examtype": "utme",
     "examyear": "2008"
   },

@@ -1472,6 +1472,22 @@
     "examyear": "2014"
   },
   {
+    "id": 349,
+    "question": "Which of the following subsidiary books involves cash movement?",
+    "option": {
+      "a": "Sales day book",
+      "b": "Purchases day book",
+      "c": "Returns inwards book",
+      "d": "Petty cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 358,
     "question": "Which of the following is entered in the general journal?",
     "option": {
@@ -4256,6 +4272,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1045,
+    "question": "The not-for-profit-making organizations generate their income mainly from?",
+    "option": {
+      "a": "bar sales",
+      "b": "subcriptions",
+      "c": "rents",
+      "d": "pools"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Non-profit organizations—like clubs and associations—usually rely mainly on subscriptions paid by members as their primary source of income, while other sources like bar sales or rent are supplementary.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1046,
     "question": "Gamji Memorial Club carried out an activity which yield a profit of ₦10000. This amount is to be transferred to the?",
     "option": {
@@ -5262,6 +5294,22 @@
     "solution": "Step 1: Calculate gain/loss on investments\n\nCost of investments (from trial balance): ₦3,000\nRealization value: ₦4,000\nGain on disposal = ₦4,000 - ₦3,000 = ₦1,000\n\nStep 2: Calculate ending fund balance\n\nOpening fund balance: ₦11,000\nAdd: Gain on disposal of investments: ₦1,000\nEnding fund balance = ₦11,000 + ₦1,000 = ₦12,000",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 1267,
+    "question": "In order to make the cash book balance equal to the bank statement, it is usual to add?",
+    "option": {
+      "a": "uncredited cheques",
+      "b": "direct payments by bank",
+      "c": "bank charges",
+      "d": "unpresented cheques"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "These are receipts the bank has credited directly to your account (e.g., interest, direct lodgments) that haven’t yet been recorded in your cash book, so you add them in when reconciling.",
+    "examtype": "utme",
+    "examyear": "2000"
   },
   {
     "id": 1272,

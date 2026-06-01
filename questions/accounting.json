@@ -304,6 +304,22 @@
     "examyear": "2012"
   },
   {
+    "id": 63,
+    "question": " An expenditure whose benefit is finished or enjoyed immediately is called: ",
+    "option": {
+      "a": "Expense   ",
+      "b": "Liability ",
+      "c": "Cost ",
+      "d": "Income"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 71,
     "question": " On December 31, 2012, Infinite Grace had a note payable due on August 1, 2013. On January 20, 2013, Infinite Grace signed a financing agreement to borrow the balance of the note payable from a lending institution to refinance the note. The agreement does not expire within one year, and no violation of any provision in the financing agreement exists. On  February 1, 2013. Infinite Grace was informed by its financial advisor that the lender is not expected to be financially capable of honouring the agreement. Infinite Grace's financial statements were issued on March 31, 2013. How should Infinite Grace classify the note on its balance sheet at December 31,2012? ",
     "option": {
@@ -365,6 +381,22 @@
     "answer": "d",
     "solution": "",
     "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 81,
+    "question": "The lodgment of business cash into the business bank account is an example of",
+    "option": {
+      "a": "contra entry",
+      "b": "bank reconciliation",
+      "c": "self balancing ledger",
+      "d": "reversal entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
     "examyear": "2013"
   },
   {
@@ -747,6 +779,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 136,
+    "question": "Which of the following is the capital reserve of a company?",
+    "option": {
+      "a": "Accumulated depreciation.",
+      "b": "Retained profit.",
+      "c": "Share premium",
+      "d": "Loss on forfeited shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -2096,6 +2144,22 @@
     "examyear": "2015"
   },
   {
+    "id": 341,
+    "question": "Which of the following relates to cash basis of accounting?",
+    "option": {
+      "a": "Accruals and prepayments are considered",
+      "b": "Debtors and creditors are recorded",
+      "c": "Fixed assets are written off in the year of purchase",
+      "d": "Profits are maximized"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 343,
     "question": "Which of the following is a spreadsheet application?",
     "option": {
@@ -2247,6 +2311,22 @@
       "b": "GHc/ 1440,000",
       "c": "GHc/ 1,080,000",
       "d": "GHc/ 720,000"
+    },
+    "section": "Use the following information to answer question: The total sales of a business was GHc/ 2,160,000. The average mark-up for the year was 50%.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 366,
+    "question": "The cost of sales is",
+    "option": {
+      "a": "GHc/  2,160,000t",
+      "b": "GHc/ 1440,000",
+      "c": "GHc/ 1,080,000",
+      "d": "GHc/  720,000"
     },
     "section": "Use the following information to answer question: The total sales of a business was GHc/ 2,160,000. The average mark-up for the year was 50%.",
     "image": "",
@@ -2539,6 +2619,22 @@
     "section": "Beginning inventory [ ? ]; Purchases [? ]; Ending inventory [ N4,800 ]; Sales [ N12,800 ]; Wages [ N1,040 ]; Gross profit [N 5,900]. The beginning inventory was estimated at 80% of sales.",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 415,
+    "question": "The accumulated fund is",
+    "option": {
+      "a": "N 9,400",
+      "b": "N 9,300",
+      "c": "N 9,200",
+      "d": "N 9,100"
+    },
+    "section": "On January 1, 2000, a club’s assets and liabilities were as follows: Club house [ N8,000 ]; Subscription in arrears [ N300]; Cash [N1,000]; Wages owed [N100]. The club has 50 members and annual subscription is N 100 per member. Subscription received is N 4,000 and this includes 1999 arrears of  N 200.",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -3520,6 +3616,22 @@
     "examyear": "2016"
   },
   {
+    "id": 584,
+    "question": "The income and expenditure account differs from receipts and payments account because it",
+    "option": {
+      "a": "accounts for notional charges",
+      "b": "records transactions that relate to the period on cash basis",
+      "c": "records transactions that relate to the period on accrual basis",
+      "d": "accounts for balance of cash at bank"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Receipts and payments account is a summary of cash transactions for a period and it is a real account. Income and expenditure account is a summary of expenditure and income like trading and profit and loss account and it is a nominal account.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 585,
     "question": "The major sources of revenue for the state and local governments is",
     "option": {
@@ -3904,6 +4016,22 @@
     "examyear": "2017"
   },
   {
+    "id": 645,
+    "question": "The accounting entries for goods stolen in branch will be to debit",
+    "option": {
+      "a": " The accounting entries for goods stolen in branch will be to debit",
+      "b": " branch stock account and credit branch adjustment account",
+      "c": "branch adjustment account and credit profit and loss account",
+      "d": "branch adjustment account and credit branch stock account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A branch account is a small part of business account operating with some degree of independence . It maintains its own personal/self accounting entries to determine the profit/loss made by a specific period of time\n\nThe accounting entries is to debit profit and loss account and credit branch stock. The profit and loss is debited because the cost of the stolen goods must be charged against the profit for the period to balance the account and the branch stock account is credited because the cost of the goods is out of the branch already.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 647,
     "question": "The following appears in trading account except",
     "option": {
@@ -3948,6 +4076,22 @@
     "image": "",
     "answer": "a",
     "solution": "A cash discount is a deduction allowed by the seller of goods or by the provider of services in order to motivate the customer to pay within a specified time",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 654,
+    "question": "The tier of government that uses financial memorandum",
+    "option": {
+      "a": "Federal government",
+      "b": " state government",
+      "c": " local government",
+      "d": "municipal government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In Nigeria, the Financial Memorandum is the guiding document issued by the State Accountant‑General that lays down the detailed rules and procedures for budget preparation, expenditure control, accounting, and reporting at the local government level. None of the other tiers use a standalone “financial memorandum” in the same way.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4014,6 +4158,22 @@
     "solution": "Receipt voucher is raised as evidence by revenue collector when government funds and property or received\n\nReceipt voucher: these are vouchers raised as evidence for the receipt of government funds and property. The revenue collected is prepared for the government ministry as a means that revenue has been collected",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 665,
+    "question": "Statement of Financial Position as at 31st Dec 2010 showing:\n\nNoncurrent assets: Plant and equipment ₦10,000\nCurrent assets: Stock ₦7,000, Receivables ₦5,000 (Total current assets ₦12,000)\nTotal assets ₦22,000\nCapital ₦15,000\nCurrent liabilities: Payables ₦7,000\nTotal ₦22,000\n\nWhat is the amount of capital employed?",
+    "option": {
+      "a": "₦7000",
+      "b": "₦10000",
+      "c": "₦22000",
+      "d": "₦15000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Capital employed can be calculated in two ways:\nMethod 1 (Asset approach):\nCapital Employed = Total Assets - Current Liabilities\n= ₦22,000 - ₦7,000 = ₦15,000\nMethod 2 (Financing approach):\nCapital Employed = Shareholders' Capital + Long-term Liabilities\n= ₦15,000 + ₦0 = ₦15,000",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 667,
@@ -8416,6 +8576,22 @@
     "examyear": "2000"
   },
   {
+    "id": 1274,
+    "question": "The most convenient cash book used by a petty trader operating in an area where there is no banking facility is?",
+    "option": {
+      "a": "four column",
+      "b": "three column",
+      "c": " single column",
+      "d": "two column"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "For a petty trader operating in an area where there is no banking facility, the most convenient cash book would be a single column cash book.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 1275,
     "question": "A general journal contains?",
     "option": {
@@ -8444,6 +8620,22 @@
     "image": "",
     "answer": "d",
     "solution": "The convention is the Entity concept, which treats the business as separate from its owner. Withdrawals by the owner are therefore recorded as drawings, reducing the owner’s capital in the business.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1280,
+    "question": "<b>Use the information below to answer questions 15 and 16</b>\nCost of raw materials consumed ₦300,600, carriage inwards ₦6,700, returns of raw materials ₦10,800, closing stock of raw materials ₦100,250, raw materials purchased during the year ₦350,000, manufacturing wages ₦27,000, and lighting, power, insurance and rent in relation to the factory are apportioned 1/3, 2/5, 1/6 and 1/7 with totals ₦30,000, ₦75,000, ₦36,000 and ₦56,000 respectively.\nThe production cost of finished goods is",
+    "option": {
+      "a": "₦ 524,600",
+      "b": "₦408,600",
+      "c": "₦381,600",
+      "d": "₦327,600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Production Cost = Raw Materials Consumed + Direct Labor + Factory Overheads\nStep 1: Raw Materials Consumed\n= ₦300,600\nStep 2: Direct Labor (Manufacturing Wages)\n= ₦27,000\nStep 3: Factory Overheads\nCalculate the factory portions of each overhead:\n\nLighting: 1/3 × ₦30,000 = ₦10,000\nPower: 2/5 × ₦75,000 = ₦30,000\nInsurance: 1/6 × ₦36,000 = ₦6,000\nRent: 1/7 × ₦56,000 = ₦8,000\n\nTotal Factory Overheads = ₦10,000 + ₦30,000 + ₦6,000 + ₦8,000 = ₦54,000\nStep 4: Calculate Total Production Cost\nProduction Cost = ₦300,600 + ₦27,000 + ₦54,000 = ₦381,600",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -8508,6 +8700,22 @@
     "image": "",
     "answer": "b",
     "solution": "The cash book records all cash receipts and payments\nSimple receivables/payables ledgers track what’s owed by customers and to suppliers without full double‐entry records",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1289,
+    "question": "One of the shortcomings of single entry procedures is that?",
+    "option": {
+      "a": "a trial balance is not available",
+      "b": "profits are overestimated",
+      "c": "there are no subsidiary books",
+      "d": "there are no control accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A key shortcoming of single‐entry systems is that no trial balance can be prepared, since transactions aren’t recorded in full double‐entry form.",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -9744,6 +9952,22 @@
     "examyear": "1997"
   },
   {
+    "id": 1439,
+    "question": "The total of the creditors at the beginning of the year was ₦4,600 and at the end of the year ₦5,250. During the year, ₦26,500 was paid to suppliers and ₦130 was received in discounts from these suppliers. The purchases for the year would be",
+    "option": {
+      "a": "₦26,630",
+      "b": "₦27,038",
+      "c": "₦27,150",
+      "d": "₦27,280"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using the creditors control account equation:\n\nOpening creditors+Purchases=Payments+Discounts received+Closing creditors\nGiven:\nOpening creditors = ₦4,600\n\nClosing creditors = ₦5,250\n\nPayments to suppliers = ₦26,500\n\nDiscounts received = ₦130\n\nSolve for Purchases:\nPurchases = Payments +  Discounts received + Closing creditors − Opening creditors\nPurchases = ₦26,500 + ₦130 + ₦5,250 − ₦4,600\nPurchases\nPurchases = ₦27,280",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
     "id": 1440,
     "question": "Given:\nCapital at the beginning...............₦20 000\nDrawings...............................₦3 000\nCapital................................₦30 000\n₦ew capital introduced.................₦8 000\n\nWhat is the profit for the period?",
     "option": {
@@ -9900,6 +10124,22 @@
     "image": "",
     "answer": "a",
     "solution": "The share premium account can only be used for purposes allowed by law, such as:\n\nWriting off discount on shares (i)\n\nPaying company’s formation (preliminary) expenses (iv)\n\nIssuing fully paid bonus shares",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1458,
+    "question": "In analyzing incomplete records, which of the following should be investigated?",
+    "option": {
+      "a": "The generalledger.",
+      "b": "The purchases daybook and sales day book",
+      "c": "The nature trading activities and the basis on which goods are sold.",
+      "d": "The asset register together with the\ndepreciation schedule"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When analyzing incomplete records (single-entry bookkeeping or missing information), understanding how the business operates and the basis on which goods are sold is crucial. This helps estimate missing figures such as sales, purchases, and gross profit.",
     "examtype": "utme",
     "examyear": "1997"
   },

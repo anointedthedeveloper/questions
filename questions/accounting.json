@@ -480,6 +480,22 @@
     "examyear": "2012"
   },
   {
+    "id": 304,
+    "question": "Which of the following is not a feature of accounting information?",
+    "option": {
+      "a": "Affordability",
+      "b": "Timeliness",
+      "c": "Accuracy",
+      "d": "Completeness"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 317,
     "question": "When the invoice of a customer is overcast, the supplier will send to him a",
     "option": {
@@ -681,6 +697,22 @@
       "d": "a decrease in purchases"
     },
     "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 410,
+    "question": "Determine the amount for the beginning inventory",
+    "option": {
+      "a": "N 20,140",
+      "b": "N10,240",
+      "c": "N 8,140",
+      "d": "N 7,240"
+    },
+    "section": "Beginning inventory [ ? ]; Purchases [? ]; Ending inventory [ N4,800 ]; Sales [ N12,800 ]; Wages [ N1,040 ]; Gross profit [N 5,900]. The beginning inventory was estimated at 80% of sales.",
     "image": "",
     "answer": "b",
     "solution": "",
@@ -1104,6 +1136,22 @@
     "examyear": "2020"
   },
   {
+    "id": 780,
+    "question": "One of the major features of book keeping is that it",
+    "option": {
+      "a": "is futuristic in nature",
+      "b": "accepts responsibility for all wrong postings",
+      "c": "provides permanent records for all financial transactions",
+      "d": "does not give room for double entry procedure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "One of the core purposes of bookkeeping is to systematically record and maintain an ongoing, permanent record of every financial transaction of the business. This ensures accuracy, auditability, and continuity in the accounting process.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 793,
     "question": "Four broad classifications of overheads are",
     "option": {
@@ -1436,6 +1484,22 @@
     "image": "",
     "answer": "c",
     "solution": "Explanation:\nA Receipts and Payments Account can disclose prepayments because when you make advance payments (like rent or insurance paid in advance), these cash outflows appear in the payments side of the account. By comparing these payments with the actual expenses for the period, prepayments can be identified.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 994,
+    "question": "The main reason for adopting a departmental account is to?",
+    "option": {
+      "a": "record transactions for each department for better documentation",
+      "b": "tackle any recording problem as a result of expansion",
+      "c": "continuously evaluate the profitability of different departments",
+      "d": "ensure that departmental mangers are adequately monitored"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The primary purpose of departmental accounting is to assess and compare the financial performance of different departments within an organization.",
     "examtype": "utme",
     "examyear": "2008"
   },

@@ -224,6 +224,22 @@
     "examyear": "2014"
   },
   {
+    "id": 49,
+    "question": "Which of  the  following  risks  are  covered  under engineering insurance?",
+    "option": {
+      "a": "Material damage and liability cover",
+      "b": "Boiler and special perils cover",
+      "c": "Computer and explosion cover",
+      "d": "Property damage and business interruption cover"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 50,
     "question": "Which of the following is not a function of an insurance broker?",
     "option": {
@@ -795,6 +811,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 132,
+    "question": "The transfer of risk already undertaken from one insurance company to another is",
+    "option": {
+      "a": "Over insurance",
+      "b": "Re insurance",
+      "c": "Under insurance",
+      "d": "Group insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "model",
     "examyear": "2"
@@ -1915,6 +1947,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
+    "id": 263,
+    "question": "Replacement of damaged property by the insurance company is",
+    "option": {
+      "a": "arbitration",
+      "b": "negotiation",
+      "c": "Re-instatement",
+      "d": "rectification"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "5"

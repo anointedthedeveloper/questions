@@ -272,6 +272,22 @@
     "examyear": "2013"
   },
   {
+    "id": 108,
+    "question": "The Public Accounts Committee is an organ of",
+    "option": {
+      "a": "military regime.",
+      "b": "parliament.",
+      "c": "presidency.",
+      "d": "councilors."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 126,
     "question": "A statement showing a trader’s financial position as at a particular date is a/an",
     "option": {
@@ -1392,6 +1408,22 @@
     "examyear": "2004"
   },
   {
+    "id": 433,
+    "question": "The statement of assets and liabilities in the public sector can be described as the",
+    "option": {
+      "a": "income and expenditure account of government",
+      "b": "appropriation account of government",
+      "c": "balance sheet of government",
+      "d": "funds flow statement of government"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 454,
     "question": "Partners’ share of profit is credited to",
     "option": {
@@ -1884,6 +1916,22 @@
     "image": "",
     "answer": "d",
     "solution": "Dividend is known as the kind of benefit enjoyed by the shareholder for investing their fund in a particular organisation",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 663,
+    "question": "When expenses are paid on behalf of the venture, the accounting entries is to debit",
+    "option": {
+      "a": "bank account and credit joint venture account",
+      "b": "expenses account and credit bank account",
+      "c": " joint venture account and credit expenses account",
+      "d": "joint venture account and credit bank account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Joint venture account is an account that all expenditure incurred for the venture is debited and all income is credited to.\nDebit joint venture and credit bank account because expenses incurred on behalf of the venture has to be debited to the joint venture account and since the money is joint out the bank must be credited to balance the account",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -3484,6 +3532,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Calculate total depreciation from purchase to sale date\nFrom January 1, 1998 to June 30, 2001 = 3.5 years\nAnnual depreciation = 25% × ₦1,000,000 = ₦250,000\nTotal depreciation = ₦250,000 × 3.5 years = ₦875,000\nStep 2: Calculate Net Book Value at disposal date\nNet Book Value = Cost - Accumulated Depreciation\nNet Book Value = ₦1,000,000 - ₦875,000 = ₦125,000\nStep 3: Calculate Profit/Loss on disposal\nProfit/Loss = Sale Proceeds - Net Book Value\nProfit/Loss = ₦700,000 - ₦125,000 = ₦575,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1128,
+    "question": "Given:\n(i) Order of performance\n(ii) Order of liquidity\n(iii)Vertical order\n(iv) Horizontal order\n\n\nThe order in which a balance assets is arranged are?",
+    "option": {
+      "a": " i and ii",
+      "b": "i and iv",
+      "c": "ii and iii",
+      "d": " iii and iv"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a balance sheet, assets can be arranged:\n\nOrder of liquidity → listing assets based on how quickly they can be converted into cash.\n\nVertical order → presenting the items in a top-to-bottom format.\n\nSo, the order in which assets are arranged is order of liquidity and vertical order.",
     "examtype": "utme",
     "examyear": "2003"
   },

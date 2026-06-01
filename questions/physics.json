@@ -2224,6 +2224,22 @@
     "examyear": "2022"
   },
   {
+    "id": 489,
+    "question": "The gravitational pull on the moon is 1/6 that of the earth. If a body weighs 6.0 N on the moon, what will be the weight on the earth?",
+    "option": {
+      "a": "6.0 N",
+      "b": "5.0 N",
+      "c": "12.0 N",
+      "d": "36.0 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Gravitational pull on moon = 1/6 × gravitational pull on Earth\nWeight on moon, Wₘ = 6.0 N\nWeight on Earth, Wₑ = ?\n\nSolution:\nUsing the relationship between weight and gravity:\nWeight = mass × gravitational acceleration\nStep 1: Establish the relationship\nSince gₘ = 1/6 gₑ\nFor the same mass:\nWₘ/Wₑ = gₘ/gₑ = 1/6\nStep 2: Rearrange the equation\nWₑ = 6 × Wₘ\nStep 3: Substitute the known values\nWₑ = 6 × 6.0\nWₑ = 36.0 N",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 501,
     "question": "Which of the following statements regarding the application of electrical conduction via gases is/are correct?\nElectrical conduction in gas is applied in:\n(i) The identification of gases\n(ii) Lighting/fluorescent tubes\n(iii) Neon signs/Advertising industry\n(iv) Cathode ray oscilloscope/T.V. tubes",
     "option": {
@@ -2300,6 +2316,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614783/ALOC-Questions/Physics/2023/physics_2023-Q11_nw4jov.jpg",
     "answer": "d",
     "solution": "Object A will undergo unstable equilibrium as it can move farther from its original position\n\nObject B will undergo stable equilibrium as it can return to its original position\n\nObject C will undergo neutral equilibrium as it can remain in a new position",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 511,
+    "question": "Rainbow formation is as a result of the combination of which of the following phenomena?\n(i) Reflection\n(ii) Dispersion\n(iii) Total internal reflection\n(iv) Refraction",
+    "option": {
+      "a": "(ii) and (iv) only",
+      "b": "(i), (iii) and (iv) only",
+      "c": "(ii), (iii) and (iv) only",
+      "d": "(i), (ii) and (iv) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Rainbow formation involves refraction of light entering and exiting water droplets, dispersion of white light into component colors, and reflection at the back surface of the droplets. While total internal reflection does occur, it's often grouped under general reflection in basic explanations, making option D the intended answer.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -3004,6 +3036,22 @@
     "image": "",
     "answer": "a",
     "solution": "Opposite deflections imply the charges must be of opposite sign.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 681,
+    "question": "The resistance of a piece of wire of length 20 m and cross‑sectional area 8 × 10⁻⁶ m² is?\n[Resistivity of the wire = 4 × 10⁻⁷ Ω·m]",
+    "option": {
+      "a": "5.0 Ω",
+      "b": "0.5 Ω",
+      "c": "10.0 Ω",
+      "d": "1.0 Ω"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nLength, L = 20 m\nCross‑sectional area, A = 8 × 10⁻⁶ m²\nResistivity, ρ = 4 × 10⁻⁷ Ω·m\n\nStep 1: Formula for resistance\nR = ρL / A\n\nStep 2: Substitute values\nR = (4 × 10⁻⁷ Ω·m × 20 m) / (8 × 10⁻⁶ m²)\n= (80 × 10⁻⁷ Ω·m) / (8 × 10⁻⁶ m²)\n\nStep 3: Simplify\n= (80 / 8) × 10⁻⁷⁻⁽⁻⁶⁾ Ω = 10 × 10⁻¹ Ω = 1.0 Ω",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -4460,6 +4508,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nInitial velocity (u) = 20 m/s\nFinal velocity (v) = 0 m/s (complete halt)\nDeceleration (a) = -2 m/s² (negative because it's slowing down)\nTime (t) = ?\n\nUsing equation of motion:\nv = u + at\nRearranging for time:\nt = (v - u)/a\nSubstituting values:\nt = (0 - 20)/(-2)\nt = -20/(-2)\nt = 10 s",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1045,
+    "question": "Calculate the apparent weight loss of a man weighing 70kg in an elevator moving downwards with an acceleration of 1.5 ms⁻². [g = 10 ms⁻²]",
+    "option": {
+      "a": " 686 N",
+      "b": "595 N",
+      "c": "581 N",
+      "d": "105 N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\n\nMass (m) = 70 kg\nAcceleration of elevator (a) = 1.5 m/s² (downward)\ng = 10 m/s²\nApparent weight loss = ?\n\nUnderstanding apparent weight:\nWhen elevator accelerates downward:\n\nMan experiences reduced normal force from floor\nFeels lighter than usual\nApparent weight < Actual weight\n\nStep 1: Calculate actual weight\nActual weight (W) = mg\nW = 70 × 10\nW = 700 N\nStep 2: Calculate apparent weight\nWhen elevator accelerates downward with acceleration a:\nApparent weight = m(g - a)\nApparent weight = 70(10 - 1.5)\nApparent weight = 70 × 8.5\nApparent weight = 595 N\nStep 3: Calculate apparent weight loss\nWeight loss = Actual weight - Apparent weight\nWeight loss = 700 - 595\nWeight loss = 105 N",
     "examtype": "utme",
     "examyear": "2013"
   },

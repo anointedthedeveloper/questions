@@ -9072,6 +9072,22 @@
     "examyear": "2005"
   },
   {
+    "id": 657,
+    "question": "In an a.c circuit that contains only a capacitor, the voltage lags behind the current by",
+    "option": {
+      "a": "180°",
+      "b": "90°",
+      "c": "60°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\n\nGiven information:\n\nA.C. circuit with only a capacitor (purely capacitive circuit)\nPhase relationship between voltage and current\nSolution:\nStep 1: Understand capacitor behavior in A.C. circuits\nIn a purely capacitive circuit:\n\nThe capacitor stores and releases charge\nCurrent flow depends on the rate of voltage change\n\nStep 2: Derive phase relationship\nFor a capacitor: Q = CV\nCurrent: I = dQ/dt = C(dV/dt)\nWhen voltage V = V₀ sin(ωt):\nCurrent I = C × d/dt[V₀ sin(ωt)]\nI = CV₀ω cos(ωt)\nI = CV₀ω sin(ωt + 90°)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 658,
     "question": "The time it will take a certain radioactive material with a half-life of 50 days to reduce to 1/32 of its original number is",
     "option": {

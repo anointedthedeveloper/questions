@@ -2048,6 +2048,22 @@
     "examyear": "2019"
   },
   {
+    "id": 379,
+    "question": "In semi-conductor, the carriers of current at room temperature are",
+    "option": {
+      "a": "electrons only",
+      "b": "electrons and holes",
+      "c": " holes only",
+      "d": " electron and ions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Electron and holes represents the negative and positive charge respectively.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 383,
     "question": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of four, its period is increased by a factor of?",
     "option": {
@@ -5148,6 +5164,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nLoad = 250 N\nDistance moved by load = 30 m\nWork against friction = 1500 J\n\nSolution:\n\nStep 1: Calculate useful work output\nWork output = Load × distance = 250 N × 30 m = 7500 J\n\nStep 2: Calculate total work input\nWork input = Work output + Work against friction = 7500 J + 1500 J = 9000 J\n\nStep 3: Calculate efficiency\nEfficiency = (Work output / Work input) × 100%\nEfficiency = (7500 / 9000) × 100% = 0.8333 × 100% = 83.33%",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1009,
+    "question": "If a load of 1 kg stretches a cord by 1.2 cm, what is the force constant of the cord? {g = 10 m s⁻²}",
+    "option": {
+      "a": "866 N m⁻¹",
+      "b": "833 N m⁻¹",
+      "c": "769 N m⁻¹",
+      "d": "667 N m⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "iven information:\nMass m = 1 kg\nExtension x = 1.2 cm = 0.012 m\nAcceleration due to gravity g = 10 m s⁻²\n\nSolution:\n\nStep 1: Calculate the force stretching the cord\nThe force is the weight of the load:\nF = m × g = 1 kg × 10 m s⁻² = 10 N\n\nStep 2: Apply Hooke's law\nHooke's law: F = k × x, where k is the force constant.\nTherefore, k = F / x\n\nStep 3: Substitute values\nk = 10 N / 0.012 m = 833.33 N m⁻¹",
     "examtype": "utme",
     "examyear": "2012"
   },

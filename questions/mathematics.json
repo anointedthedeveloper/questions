@@ -2784,6 +2784,22 @@
     "examyear": "2010"
   },
   {
+    "id": 597,
+    "question": "The 3rd term of an arithmetic progression is -9 and the 7th term is -29. Find the 10th term of the progression",
+    "option": {
+      "a": "-44",
+      "b": " -165",
+      "c": "165",
+      "d": "44"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "3rd term : a + 2d = -9 .......(1)\n7th term : a + 6d = -29 ......(2)\n(2) - (1): 4d = -20\n:. d = -20/4 = -5\nFrom (1) : a + 2(-5) = -9\na - 10 = -9\n:. a = -9 + 10 = 1\n:. 10th term of A.P is a + 9d = 1 + 9 (-5)\n= 1 - 45 = -44",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
     "id": 602,
     "question": "Solve for x and y if x - y = 2 and x<sup>2</sup>  - y<sup>2</sup>  = 8",
     "option": {
@@ -3886,6 +3902,22 @@
     "solution": "The required roots/region of x is -1≤x≤4",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 881,
+    "question": "Given the quadrilateral RSTO inscribed in the circle with O as centre. Find the size angle x and given RST = 60°",
+    "option": {
+      "a": "100o",
+      "b": "140°",
+      "c": "120°",
+      "d": "10°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005763/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q13_ynoyk0.jpg",
+    "answer": "c",
+    "solution": "If RST = 60°\n\nRXT = 2 × RST\n\n(angle at the centre twice angle at the circumference)\n\nRXT = 2 × 60\n\n= 120°",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 890,
@@ -5424,6 +5456,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1179,
+    "question": "An article when sold for ₦230.00 makes a 15% profit. Find the profit or loss % if it was sold for ₦180.00",
+    "option": {
+      "a": "10% gain",
+      "b": " 10% loss",
+      "c": "12% loss",
+      "d": " 12% gain"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "First S.P = ₦230.00\n\n% profit = 15%\n\n% profit = S.P−C.P/C.P  x 100%\n\n⇒ 15% = 230−C.P/C.P x 100%\n\n⇒ 15/100 = (230 − C.)P/C.P\n⇒15C.P = 100 (230 - C.P)\n\n⇒15C.P = 23000 - 100C.P\n\n⇒ 15C.P + 100C.P = 23000\n\n⇒115C.P = 23000\n\n⇒ C.P = 23000/115 = ₦200.00\n\nSecond S.P = ₦180.00\n\nSince C.P is greater than S.P, therefore it's a loss\n\n% loss = C.P−S.P/C.P x 100%\n\n⇒ 200−180/200 x 100%\n\n⇒ 20/200 x 100%\n\n⇒ 1/10 x 100% = 10%\n\n∴ It's a loss of 10%",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1180,
     "question": "Calculate, correct to three significant figures, the length of the arc AB in the diagram above.[Take π=22/7]",
     "option": {
@@ -5644,6 +5692,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206670/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q36_vu08au.jpg",
     "answer": "d",
     "solution": "The number with the highest frequency = 4",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1231,
+    "question": "Find the value of x in the figure above",
+    "option": {
+      "a": "20√3cm",
+      "b": "10√3cm",
+      "c": "5√3cm",
+      "d": "4√3cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1725206915/ALOC-Questions/Mathematics/2014/MATH_JAMB_2014_Q46_z6rziz.jpg",
+    "answer": "b",
+    "solution": "In the figure above, x/sin 60° =10/sin30° (Sine rule)\n\nx = 10sin60°/sin30°\n\n\n= 10 x √3/2 × 1/2\n\n\n= 10 x √3/2 × 2/1\n\n\n= 10√3cm",
     "examtype": "utme",
     "examyear": "2014"
   },

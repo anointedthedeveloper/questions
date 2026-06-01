@@ -80,6 +80,22 @@
     "examyear": "2006"
   },
   {
+    "id": 19,
+    "question": "What is the dimension of pressure? ",
+    "option": {
+      "a": "ML-1T-2 ",
+      "b": "MLT-2 ",
+      "c": "ML2T-3 ",
+      "d": "ML-3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2007"
+  },
+  {
     "id": 22,
     "question": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v. ",
     "option": {
@@ -1084,6 +1100,38 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nVolume of object (V) = 50 cm³ = 50 × 10⁻⁶ m³\nDensity of liquid (ρ) = 10³ kg/m³\nAcceleration due to gravity (g) = 10 m/s²\nUpthrust = ?\n\nFormula for upthrust (Archimedes' Principle):\nUpthrust = Weight of liquid displaced\nUpthrust = ρVg\nSubstituting values:\nUpthrust = 10³ × 50 × 10⁻⁶ × 10\nUpthrust = 10³ × 50 × 10⁻⁵\nUpthrust = 50 × 10⁻²\nUpthrust = 0.5 N",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 235,
+    "question": "Under what conditions are cathode rays produced in a discharge tube?",
+    "option": {
+      "a": " High pressure and low voltage",
+      "b": " High pressure and high voltage",
+      "c": " Low pressure and low voltage",
+      "d": " Low pressure and high volatge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cathode rays are produced in a discharge tube under Low pressure and high voltage",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 242,
+    "question": "Which of the following instruments helps to maintain the correct humidity and temperature of a building?",
+    "option": {
+      "a": "A compressor",
+      "b": "A refrigerator",
+      "c": " Air blower",
+      "d": "Air conditioner"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An air conditioner maintains the correct humidity and temperature of a building by cooling/heating the air and controlling moisture levels.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -2720,6 +2768,22 @@
     "examyear": "2024"
   },
   {
+    "id": 594,
+    "question": "In electrolysis, when same quantity of electricity is passed through different electrolytes, mass of substances deposited is proportional to ",
+    "option": {
+      "a": "Molecular weight",
+      "b": "Chemical equivalent",
+      "c": "Atomic number",
+      "d": "Chemical equivalent per valency"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Faraday's second law states that the masses of different substances deposited or liberated by the same quantity of electricity are directly proportional to the chemical equivalents of the substances.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 595,
     "question": "If the rate of evaporation is y, and the rate of condensation is x, then, a vapour is saturated when",
     "option": {
@@ -2764,6 +2828,22 @@
     "image": "",
     "answer": "d",
     "solution": "\nGiven information:\nCurrent, I = 3 A\nDeflection angle, θ = 30°\n\nSolution:\nFormula:\nSensitivity of galvanometer = θ/I\nWhere:\n\nθ = deflection angle (in degrees)\nI = current (in amperes)\n\nStep 1: Substitute values\nSensitivity = 30°/3 A\nStep 2: Calculate\nSensitivity = 10 degrees per ampere (°/A)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 621,
+    "question": "If the angle between two vectors P and Q is 0°, the vectors are said to",
+    "option": {
+      "a": " intersect at the angle 45°",
+      "b": "intersect at the angle 60°",
+      "c": "be parallel",
+      "d": "be perpendicular"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Vector relationship:\nWhen the angle between two vectors is 0°, both vectors point in the same direction.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -3420,6 +3500,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\nα₁ / α₂ = 3/4\nΔL₁ / ΔL₂ = 1/2\nTemperature change ΔT is the same for both.\n\nSolution:\n\nStep 1: Linear expansion formula\nFor each metal: ΔL = α L ΔT\n\nStep 2: Ratio of expansions\nΔL₁ / ΔL₂ = (α₁ L₁ ΔT) / (α₂ L₂ ΔT) = (α₁/α₂) × (L₁/L₂)\n\nStep 3: Substitute known ratios\n1/2 = (3/4) × (L₁/L₂)\n\nStep 4: Solve for L₁/L₂\nL₁/L₂ = (1/2) ÷ (3/4) = (1/2) × (4/3) = 4/6 = 2/3",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 781,
+    "question": "Three cells each of e.m.f 1.5 V and internal resistance 2.5 Ω are connected as shown in the diagram above. Find the net e.m.f and the internal resistance.",
+    "option": {
+      "a": "1.5 V, 7.50 Ω",
+      "b": "1.5 V, 0.83 Ω",
+      "c": "4.5 V, 7.50 Ω",
+      "d": "4.5 V, 0.83 Ω"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774431480/ALOC-Questions/Physics/2007/PHYSICS_2007_Q_32_iriuvb.png",
+    "answer": "b",
+    "solution": "Given information:\nEach cell: e.m.f = 1. V, internal resistance r = 2.5 Ω\nThree cells connected as shown.\n\nSolution:\n\nStep 1: Interpret the diagram\nThe diagram indicates a parallel connection of the three cells. In a parallel combination of identical cells, the net e.m.f is the same as that of one cell, and the internal resistance is the parallel combination of the individual internal resistances.\n\nStep 2: Calculate net e.m.f\nFor cells in parallel, net e.m.f E = 1.5 V.\n\nStep 3: Calculate net internal resistance\nFor identical resistors in parallel:\n1/R = 1/r + 1/r + 1/r = 3/r\nR = r/3 = 2.5 Ω / 3 ≈ 0.833 Ω",
     "examtype": "utme",
     "examyear": "2007"
   },

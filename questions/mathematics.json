@@ -688,6 +688,22 @@
     "examyear": "2002"
   },
   {
+    "id": 176,
+    "question": "Evaluate: 0.21×0.072×0.00054/0.006×1.68×0.063",
+    "option": {
+      "a": "0.01286",
+      "b": "0.01285",
+      "c": "0.1286",
+      "d": "0.1285"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>0.21</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.072</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.00054</mn>\n    </mrow>\n    <mrow>\n      <mn>0.006</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1.68</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.063</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "0.21×0.072×0.00054/0.006×1.68×0.063\n \n= 9×10<sup>−10</sup>/7×10<sup>−8</sup>\n= 1.2857 × 10<sup>-2</sup>\n= 0.012857 ≊ 0.01286\n (to 4 s.f)",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 177,
     "question": "A trader bought goats for N4000 each. He sold them for N180,000 at a loss of 25%. How many goats did he buy?",
     "option": {
@@ -1104,6 +1120,22 @@
     "examyear": "2004"
   },
   {
+    "id": 299,
+    "question": "If the operation * on the set of integers is defined by P * Q = √PQ\n, find the value of 4 * ( 8 * 32).",
+    "option": {
+      "a": "8",
+      "b": "3",
+      "c": "16",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "P×Q=√PQ 4×(8×32)=4×√(8×32)=4×√256=4×16=√(4×16)=√64=8",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 304,
     "question": "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec",
     "option": {
@@ -1212,6 +1244,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710701126/ALOC-Questions/Mathematics/2004/math_2004_q48_pxbs9z.jpg",
     "answer": "a",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 320,
+    "question": "The pie chart above shoes the distribution of the corps harvested from a farmland in a year, If 3,000 tonnes of millet is harvested, what amount of beans is harvested?",
+    "option": {
+      "a": "9000 tonnes",
+      "b": "6000 tonnes",
+      "c": "1500 tonnes",
+      "d": "1200tonnes"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710701186/ALOC-Questions/Mathematics/2004/math_2004_q49_lqap9i.jpg",
+    "answer": "d",
+    "solution": "beans angle = 360° - (60° + 90° + 150°)\n\n360° - 300° = 60°\n\n150° - 3000 tonnes\n\n60° - 60/150 x 3000 tonnes\n\n= 1,200 tonnes",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -1488,6 +1536,22 @@
     "examyear": "2006"
   },
   {
+    "id": 396,
+    "question": "In the diagram above, QR is in the diameter of the semicircle QR. Find the areas of the figure to the nearest whole number.",
+    "option": {
+      "a": "89 cm<sup>2</sup>",
+      "b": "70 cm<sup>2</sup>",
+      "c": "90 cm<sup>2</sup>",
+      "d": "80 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715542656/ALOC-Questions/Mathematics/2006/MATH_JAMB_2006_Q25_vybvn4.jpg",
+    "answer": "c",
+    "solution": "Area of rectangle PQRS\n= 10 x 7 = 70 cm2\nArea of semi circle\nQR = Dπ = 7 x 22/7 = 22cm2\n∴Area of the figure = 70 + 22\n= 92cm<sup>2</sup>\n= 90cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 397,
     "question": "If tan θ = 5/4, find sin<sup>2</sup>θ - cos<sup>2</sup>θ.",
     "option": {
@@ -1628,6 +1692,22 @@
     "image": "",
     "answer": "b",
     "solution": "Number of itineraries = <sup>7</sup>P<sub>4</sub>. 7!/((7-4)!)=7!/3!=(7×6×5×4×3!)/3!=840",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 430,
+    "question": "In how many ways can 6 subjects be selected from 10 subjects for an examination",
+    "option": {
+      "a": "218",
+      "b": "216",
+      "c": "215",
+      "d": "210"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mi></mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>10</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mn>6</mn>\n  </msub>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>10</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>10</mn>\n      <mo>&#x2212;</mo>\n      <mn>6</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>10</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mo>!</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>10</mn>\n      <mo>&#xD7;</mo>\n      <mn>9</mn>\n      <mo>&#xD7;</mo>\n      <mn>8</mn>\n      <mo>&#xD7;</mo>\n      <mn>7</mn>\n      <mo>&#xD7;</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mo>&#xD7;</mo>\n      <mn>3</mn>\n      <mo>&#xD7;</mo>\n      <mn>2</mn>\n      <mo>&#xD7;</mo>\n      <mn>1</mn>\n      <mo>&#xD7;</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mn>210</mn>\n</math><math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mi></mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>10</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mn>6</mn>\n  </msub>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>10</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>10</mn>\n      <mo>&#x2212;</mo>\n      <mn>6</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>10</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mo>!</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>10</mn>\n      <mo>&#xD7;</mo>\n      <mn>9</mn>\n      <mo>&#xD7;</mo>\n      <mn>8</mn>\n      <mo>&#xD7;</mo>\n      <mn>7</mn>\n      <mo>&#xD7;</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>4</mn>\n      <mo>&#xD7;</mo>\n      <mn>3</mn>\n      <mo>&#xD7;</mo>\n      <mn>2</mn>\n      <mo>&#xD7;</mo>\n      <mn>1</mn>\n      <mo>&#xD7;</mo>\n      <mn>6</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\"></mspace>\n  <mo>=</mo>\n  <mn>210</mn>\n</math>",
+    "image": "",
+    "answer": "d",
+    "solution": "<sup>10</sup>C<sup>6</sup>=10!/((10-6)!6!)=10!/4!6!=((10×9×8×7×6!))/(4×3×2×1×6!)=210",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -3152,6 +3232,22 @@
     "examyear": "2016"
   },
   {
+    "id": 890,
+    "question": "In the figure, find x",
+    "option": {
+      "a": "40°",
+      "b": "55°",
+      "c": "50°",
+      "d": "60°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005818/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q22_hjbo4i.jpg",
+    "answer": "a",
+    "solution": "Sum of angle at a point = 360°\n\n2x + 3x + 4x = 360\n\n9x = 360\n\nx = 360/9\n\n\nx = 40°",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 891,
     "question": "Divide 4x<sup>23</sup>  - 3x + 1 by 2x - 1",
     "option": {
@@ -4320,6 +4416,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1166,
+    "question": "If A = { 1, 2, 3, 4, 5, 6}, B = { 2, 4, 6, 8 }. Find (A – B) ⋃ (B – A).",
+    "option": {
+      "a": "{1, 3, 5, 8}",
+      "b": "{8}",
+      "c": " {1, 2, 3, 4, 5, 6, 8}",
+      "d": "{1, 3, 5}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A = { 1, 2, 3, 4, 5, 6}\n\nB = { 2, 4, 6, 8 }\n\nA - B = { 1, 3, 5 }\n\nB - A = { 8 }\n\n∴ (A - B) ⋃ (B - A) = {1, 3, 5, 8}",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1169,
     "question": "Find the matrix A",
     "option": {
@@ -4590,6 +4702,22 @@
     "solution": "The number with the highest frequency = 4",
     "examtype": "utme",
     "examyear": "2014"
+  },
+  {
+    "id": 1248,
+    "question": "Find the equation of a line which is form origin and passes through the point (−3, −4)",
+    "option": {
+      "a": "y = 3x/4",
+      "b": "y = 4x/3",
+      "c": " y = 2x/3",
+      "d": " y = x/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The slope of the line from (0, 0) passing through (-3, -4) = (−4−0)/(−3−0) = 4/3\nEquation of a line is given as y=mx+b, where m = slope and b = intercept.\n\nTo get the value of b, we use a point on the line, say (0, 0).\n\ny=4/3x+b\n0=4/3(0)+b\nb = 0\nThe equation of the line is y = 4/3x",
+    "examtype": "utme",
+    "examyear": "2015"
   },
   {
     "id": 1251,

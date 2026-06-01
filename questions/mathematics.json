@@ -1712,6 +1712,22 @@
     "examyear": "2005"
   },
   {
+    "id": 363,
+    "question": "A box contains 5 blue balls, 3 red balls and 2 white balls. Two balls are selected from the box with replacement. Find the probability of obtaining two blue or two red balls",
+    "option": {
+      "a": "17/50",
+      "b": "3/25",
+      "c": "1/50",
+      "d": "3/250"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Blue balls = 5\nRed balls = 3\nWhite balls = 2\nTotal = 10\nP(Two blue) = 5/10 * 5/10 = 25/100\nP(Two Red) = 3/10 * 3/10 = 9/100\n∴P(Two blue or two red balls)\n= 25/100 + 9/100\n= 34/100\n= 17/50",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 369,
     "question": "The histogram above shows the distribution of the distribution of the monthly incomes of the workers in a company. How many workers earn more than N700.000?",
     "option": {
@@ -2924,6 +2940,22 @@
     "image": "",
     "answer": "a",
     "solution": "3rd term : a + 2d = -9 .......(1)\n7th term : a + 6d = -29 ......(2)\n(2) - (1): 4d = -20\n:. d = -20/4 = -5\nFrom (1) : a + 2(-5) = -9\na - 10 = -9\n:. a = -9 + 10 = 1\n:. 10th term of A.P is a + 9d = 1 + 9 (-5)\n= 1 - 45 = -44",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 601,
+    "question": "If 9x<sup>2</sup>  + 6xy + 4y<sup>2</sup>  is a factor of 27x<sup>3</sup>  - 8y<sup>3</sup> , find the other factor.",
+    "option": {
+      "a": "2y + 3x",
+      "b": " 2y - 3x",
+      "c": "3x + 2y",
+      "d": " 3x - 2y"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "27x<sup>3</sup>  - 8y<sup>3</sup> = (3x - 2y)3\n\nBut 9x<sup>2</sup>  + 6xy + 4y<sup>2</sup>  = (3x +2y)2\n\nSo, 27x<sup>3</sup>  - 8y<sup>3</sup>  = (3x - 2y)(3x - 2y)<sup>2</sup> \n\nHence the other factor is 3x - 2y",
     "examtype": "utme",
     "examyear": "2010"
   },

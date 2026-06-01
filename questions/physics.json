@@ -784,6 +784,22 @@
     "examyear": "2012"
   },
   {
+    "id": 122,
+    "question": "A 25N force pulls a 2.0kg body up a 300 inclined plane. If force is parallel to the plane and the body moves up the plane at constant velocity. Calculate the magnitude of the frictional force between the body and the plane. [g =10m/s2]",
+    "option": {
+      "a": "25N",
+      "b": "10N",
+      "c": "5N",
+      "d": "15N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 124,
     "question": "A coin is at the bottom of a bucket filled with a liquid whose refractive index is 1.35. The coin appears to be 12.0cm below the surface of the liquid. Calculate the depth of the liquid.",
     "option": {
@@ -2752,6 +2768,22 @@
     "examyear": "2022"
   },
   {
+    "id": 498,
+    "question": "The mercury column in the barometer at notational  atmospheric pressure has a height of?",
+    "option": {
+      "a": " 0.76 cm at see level",
+      "b": "760 cm at sea level",
+      "c": " 7.6 cm at sea level",
+      "d": "76 cm at sea level"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Step 1: Recall standard atmospheric pressure\nStandard atmospheric pressure at sea level:\n\n1 atmosphere (atm)\n101,325 Pa\n760 mmHg (millimeters of mercury)\n\nStep 2: Convert to appropriate units\n760 mmHg = 760 mm\nConvert to centimeters:\n760 mm = 760/10 cm = 76 cm",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 501,
     "question": "Which of the following statements regarding the application of electrical conduction via gases is/are correct?\nElectrical conduction in gas is applied in:\n(i) The identification of gases\n(ii) Lighting/fluorescent tubes\n(iii) Neon signs/Advertising industry\n(iv) Cathode ray oscilloscope/T.V. tubes",
     "option": {
@@ -3326,6 +3358,22 @@
     "solution": "A vapour is saturated when the rate of condensation (x) equals the rate of evaporation (y), establishing a dynamic equilibrium where there is no net change in the amount of vapour present.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 600,
+    "question": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
+    "option": {
+      "a": "armature coil should be made of silver",
+      "b": " commutator should be replaced with slip ring",
+      "c": "commutator should be replaced with split rings",
+      "d": "armature coil should be made of aluminium"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To convert a DC dynamo to an AC dynamo, the split-ring commutator must be replaced with slip rings. This allows the alternating current generated in the rotating coil to be delivered to the external circuit without rectification.",
+    "examtype": "utme",
+    "examyear": "2004"
   },
   {
     "id": 603,
@@ -5644,6 +5692,22 @@
     "image": "",
     "answer": "d",
     "solution": "\nGiven information:\n\nMass (m) = 70 kg\nAcceleration of elevator (a) = 1.5 m/s² (downward)\ng = 10 m/s²\nApparent weight loss = ?\n\nUnderstanding apparent weight:\nWhen elevator accelerates downward:\n\nMan experiences reduced normal force from floor\nFeels lighter than usual\nApparent weight < Actual weight\n\nStep 1: Calculate actual weight\nActual weight (W) = mg\nW = 70 × 10\nW = 700 N\nStep 2: Calculate apparent weight\nWhen elevator accelerates downward with acceleration a:\nApparent weight = m(g - a)\nApparent weight = 70(10 - 1.5)\nApparent weight = 70 × 8.5\nApparent weight = 595 N\nStep 3: Calculate apparent weight loss\nWeight loss = Actual weight - Apparent weight\nWeight loss = 700 - 595\nWeight loss = 105 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1049,
+    "question": "Calculate the work done when a force of 20N stretches a spring by 50mm.",
+    "option": {
+      "a": "0.5J",
+      "b": "1.5J",
+      "c": " 2.0J",
+      "d": "2.5J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "\nGiven information:\n\nForce (F) = 20 N\nExtension (x) = 50 mm = 0.05 m\nWork done (W) = ?\n\nUnderstanding work done on a spring:\nWhen stretching a spring, the force varies from 0 to maximum F.\nThe work done is NOT simply F × x, but rather the average force times distance.\nFormula for work done in stretching a spring:\nW = ½Fx\nor equivalently:\nW = ½kx²  (where F = kx from Hooke's Law)\nWhy ½Fx?\n\nInitial force = 0 (unstretched)\nFinal force = F\nAverage force = (0 + F)/2 = F/2\nWork = Average force × distance = (F/2) × x = ½Fx\n\nCalculating work done:\nW = ½Fx\nW = ½ × 20 × 0.05\nW = ½ × 1.0\nW = 0.5 J",
     "examtype": "utme",
     "examyear": "2013"
   },

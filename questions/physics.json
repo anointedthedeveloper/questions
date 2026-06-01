@@ -8928,6 +8928,22 @@
     "examyear": "2004"
   },
   {
+    "id": 621,
+    "question": "If the angle between two vectors P and Q is 0°, the vectors are said to",
+    "option": {
+      "a": " intersect at the angle 45°",
+      "b": "intersect at the angle 60°",
+      "c": "be parallel",
+      "d": "be perpendicular"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Vector relationship:\nWhen the angle between two vectors is 0°, both vectors point in the same direction.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 622,
     "question": "A body of mass 4kg is acted on by a constant force of 12N for 3 seconds. The kinetic energy gained by the body at the end of the time is",
     "option": {

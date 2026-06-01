@@ -976,6 +976,185 @@
     "examyear": "2013"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 174,
+    "question": "Israel went into Assyria captivity in",
+    "option": {
+      "a": "720BC  ",
+      "b": "730 AD   ",
+      "c": "750BC",
+      "d": "722 BC"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 176,
+    "question": "One of the following was not among the religious sects in the New Testament  ",
+    "option": {
+      "a": "The Pharisees   ",
+      "b": "The Nazarenes",
+      "c": "The Essenes",
+      "d": "The Sadducees"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 177,
+    "question": "“Talitha cumi” means",
+    "option": {
+      "a": "Dorcas, Arise   ",
+      "b": "Little girl, I say to you, arise  ",
+      "c": "Thy will be done",
+      "d": "Jesus is coming"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 180,
+    "question": "The son of Solomon who made unwise decisions was ….",
+    "option": {
+      "a": "Jeroboam      ",
+      "b": "Rechoboam",
+      "c": "Rehoboam    ",
+      "d": "Asa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 181,
+    "question": "The book of ____ mostly emphasized social justice",
+    "option": {
+      "a": "Amos   ",
+      "b": "Ezekiel   ",
+      "c": "Hoshea",
+      "d": "Isaiah"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 182,
+    "question": "In one of the missionary journeys, Paul was stoned   to a state of coma in  ",
+    "option": {
+      "a": "Antioch in Pisidia   ",
+      "b": "Iconium  ",
+      "c": "Lystra   ",
+      "d": "Antioch of Syria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 183,
+    "question": "Moses spoke  to the Israelites to fear not, but be calm, confident and see the salvation of God at  ",
+    "option": {
+      "a": "Pi-Hahirotti   ",
+      "b": "Meribah   ",
+      "c": "Wilderness of Sinai ",
+      "d": "d.Elim"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 184,
+    "question": "One of the following is not in the Pentateuch  ",
+    "option": {
+      "a": "Exodus    ",
+      "b": "Judges     ",
+      "c": "Leviticus   ",
+      "d": "Numbers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 185,
+    "question": "The sons of Samuel who did not walk in his ways were:",
+    "option": {
+      "a": "Phinehas and Hophni    ",
+      "b": "Hophni and Amos  ",
+      "c": "Joel and Phinehas        ",
+      "d": "Abijah and Joel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 186,
+    "question": "What was the second temptation of Jesus according to the Gospel according to Luke?",
+    "option": {
+      "a": "The Devil wanted Jesus to worship him  ",
+      "b": "The Devil wanted Jesus to deny God",
+      "c": "The Devil wanted Jesus to jump from the pinnacle of the Temple    ",
+      "d": "The devil wanted Jesus to turn stones to bread"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 187,
+    "question": "Jonah refused to go to Nineveh because  ",
+    "option": {
+      "a": "Ninevites were in human and wicked",
+      "b": "God was merciful, gracious and could forgive them  ",
+      "c": "he was timid to deliver the message  ",
+      "d": "he did not want to endanger his life"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 190,
     "question": "Amos explained true religion as  ",
     "option": {
@@ -1043,10 +1222,97 @@
     "id": 215,
     "question": "“How is it that you, a Jew, ask a drink of me, a woman of \tSamaria?” The speaker was surprised because",
     "option": {
+<<<<<<< Updated upstream
       "a": "Jesus was God and not human",
       "b": "the Jews could only buy water from Samaria",
       "c": "the Jews had no dealings with Samaria",
       "d": "it was unlawful for a man to receive water from a woman"
+=======
+      "a": "Samuel",
+      "b": "Eli",
+      "c": "David",
+      "d": "Asa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 211,
+    "question": "Who among the prophets was referred to as a prophet of doom?",
+    "option": {
+      "a": "Isaiah",
+      "b": "Ezekiel",
+      "c": "Amos",
+      "d": "Jeremiah"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 212,
+    "question": "Jonah typified Jesus Christ when he",
+    "option": {
+      "a": "surrendered himself to be swallowed by the fish",
+      "b": "offered to lose his life that others might be saved",
+      "c": "rejected the message of God",
+      "d": "announced destruction for the Ninevites"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 218,
+    "question": "Instead of being unnecessarily anxious about life and the affairs of this world, Jesus taught us to",
+    "option": {
+      "a": "relax our minds and wait for the manna from above",
+      "b": "seek first the kingdom of God and its righteousness",
+      "c": "seek water baptism and qualify for divine healing",
+      "d": "repent of our sins and preach the gospel."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 219,
+    "question": "According to Jesus, the seventy disciples who returned from a successful missionary work should rejoice because",
+    "option": {
+      "a": "the demons were subject to them",
+      "b": "the sick were healed through their ministry",
+      "c": "the lame walked just at their command",
+      "d": "their names were written in heaven"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 220,
+    "question": "The seeds that fell among thorns represent those who hear the word of God but lose it because",
+    "option": {
+      "a": "they refuse to be baptized in water",
+      "b": "their parental background does not allow them to believe",
+      "c": "the cares of the world and delight in riches choke the word",
+      "d": "the unbelievers do not permit new converts to receive the word"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -1168,6 +1434,22 @@
     "examyear": "2005"
   },
   {
+    "id": 241,
+    "question": "At the coming of the Lord, unbelievers will",
+    "option": {
+      "a": "be condemned",
+      "b": "have a desolate land",
+      "c": "be hit by famine",
+      "d": "die in divine war"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 242,
     "question": "Paul compares the manifestations of spiritual gifts in individual members of the Church to the",
     "option": {
@@ -1184,6 +1466,41 @@
     "examyear": "2005"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 243,
+    "question": "Paul wrote to the Thessalonians about idleness because he \tlearnt that they were",
+    "option": {
+      "a": "among the idlest people in Asia",
+      "b": "forcing Christians to work in the Church",
+      "c": "unwilling to give offerings",
+      "d": "expecting the second coming of Christ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+    "id": 244,
+    "question": "Paul appealed to Philemon to forgive Onesimus on the basis of",
+    "option": {
+      "a": "equality",
+      "b": "righteousness",
+      "c": "love",
+      "d": "faith"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 245,
     "question": "James recommends the anointing oil of the elders because such anointing",
     "option": {
@@ -1328,8 +1645,29 @@
     "examyear": "2009"
   },
   {
+<<<<<<< Updated upstream
     "id": 268,
     "question": "“Can any one forbid water for baptizing these people who have received the Holy Spirit just as we have?” The statement above was made by Peter at the conversion of",
+=======
+    "id": 267,
+    "question": "Jesus: stilling of the storm was to",
+    "option": {
+      "a": "escape from danger",
+      "b": "impress His disciples",
+      "c": "demonstrate His power",
+      "d": "help the fishermen."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 269,
+    "question": "The disciple who replaced Judas Iscariot was",
+>>>>>>> Stashed changes
     "option": {
       "a": "Herod",
       "b": "Lydia",
@@ -1746,6 +2084,25 @@
   {
     "id": 366,
     "question": "“Blessed are the peace makers for",
+<<<<<<< Updated upstream
+=======
+    "option": {
+      "a": "theirs is the kingdom of God”",
+      "b": "they shall be called sons of God”",
+      "c": "they shall inherit the earth”",
+      "d": "they shall be comforted”."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
+    "id": 369,
+    "question": "According to Matthew, the disciples were sent out with the charge to go nowhere among the Gentiles nor enter any town of the",
+>>>>>>> Stashed changes
     "option": {
       "a": "theirs is the kingdom of God”",
       "b": "they shall be called sons of God”",
@@ -1971,10 +2328,65 @@
     "id": 408,
     "question": "Saul relied on a medium because God did not answer him through",
     "option": {
+<<<<<<< Updated upstream
       "a": "dreams, visions and prophets",
       "b": "inspiration, tambourines and prophets",
       "c": "dreams, urim and prophets",
       "d": "lyre, urim and prophets."
+=======
+      "a": "prayed and fasted daily",
+      "b": "employed the service of seers",
+      "c": "judged difficult cases",
+      "d": "got his wisdom from God."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 409,
+    "question": "When Naboth refused to exchange his vineyard with King Ahab, Ahab reacted by",
+    "option": {
+      "a": "taking to prayers and fasting",
+      "b": "going to his house vexed and sullen",
+      "c": "ordering the killing of Naboth",
+      "d": "forcefully taking it from him."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 410,
+    "question": "The sins of Israel during the reign of Ahab consisted of",
+    "option": {
+      "a": "worship of the king",
+      "b": "trampling upon the poor",
+      "c": "worship of idols",
+      "d": "desecrating the Temple"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 412,
+    "question": "King Josiah was killed by Pharaoh Neco in a battle at",
+    "option": {
+      "a": "Syria",
+      "b": "Meggiddo",
+      "c": "Megiddo",
+      "d": "Egypt."
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -2384,6 +2796,89 @@
     "examyear": "2009"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 478,
+    "question": "Jesus said “I am the bread of life; he who comes to me shall not hunger...” ‘Bread of life’ in this context means the",
+    "option": {
+      "a": "body of Jesus Christ.",
+      "b": "manna given to the Israelites.",
+      "c": "holy bread of life.",
+      "d": "spiritual food through Jesus."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 479,
+    "question": "John’s summary of God’s love for the world is that He",
+    "option": {
+      "a": "sent his son to judge the world righteously.",
+      "b": "created man in his own image with authority.",
+      "c": "made light that the world might walk in it.",
+      "d": "gave his only son to save all believers."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 481,
+    "question": "Jesus said to Martha, “...and whoever live and believes in me shall never die...” Jesus talks about",
+    "option": {
+      "a": "physical death.",
+      "b": "spiritual death.",
+      "c": "emotional death.",
+      "d": "natural death."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 483,
+    "question": "Paul wished to retain Onesimus with him but did not do so because",
+    "option": {
+      "a": "Onesimus was unwilling to stay with him.",
+      "b": "he was afraid of Philemon’s reaction.",
+      "c": "he did not like such a favour to be imposed on Philemon.",
+      "d": "Onesimus would soon be released from jail."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 485,
+    "question": "Peter urged all Christians to endure sufferings in faith conscious of the fact that",
+    "option": {
+      "a": "Jesus, himself also resisted suffering",
+      "b": "the devil could lure them from faith with suffering.",
+      "c": "only the physical body is affected.",
+      "d": "suffering is temporary and leads to eternal glory."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 487,
     "question": "According to Peter, God set up the state for the purpose of",
     "option": {
@@ -2418,6 +2913,25 @@
   {
     "id": 489,
     "question": "The two major obstacles against Abraham’s hope for a son were",
+<<<<<<< Updated upstream
+=======
+    "option": {
+      "a": "impotency and old age",
+      "b": "faithlessness and unbelief.",
+      "c": "old age and barrenness.",
+      "d": "sin and doubt."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 490,
+    "question": "The theme justification by faith can only be achieved through",
+>>>>>>> Stashed changes
     "option": {
       "a": "impotency and old age",
       "b": "faithlessness and unbelief.",
@@ -2546,6 +3060,25 @@
   {
     "id": 507,
     "question": "When Ezekiel ate the scroll that was given to him his call. it signified that",
+<<<<<<< Updated upstream
+=======
+    "option": {
+      "a": "God would always go before him",
+      "b": "his sins were forgiven",
+      "c": "he would never be hungry",
+      "d": "he was filled with God’s word"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 508,
+    "question": "“ ..... I will surely tear the kingdom from you and will give it to your servant .....” An unwise decision of Solomon that resulted in God making the pronouncement above was his",
+>>>>>>> Stashed changes
     "option": {
       "a": "God would always go before him",
       "b": "his sins were forgiven",
@@ -2736,6 +3269,7 @@
     "examyear": "2015"
   },
   {
+<<<<<<< Updated upstream
     "id": 540,
     "question": "One of the prophets that prophesied hope for Israel in spite of God’s promise of punishment was",
     "option": {
@@ -2768,6 +3302,8 @@
     "examyear": "2015"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 542,
     "question": "“........ I am the Lord, and there is no other, besides me \tthere is no God....” God’s statement above through Isaiah depicts",
     "option": {
@@ -2976,6 +3512,121 @@
     "examyear": "2010"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 575,
+    "question": "At whose well did Jesus meet the Samaritan woman?",
+    "option": {
+      "a": "Abraham",
+      "b": "Isaac",
+      "c": "Jacob",
+      "d": "Joseph"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 576,
+    "question": "The lame man who was healed at the pool of Bethizatha was charged by the Jews for breaking the law of the Sabbath \tbecause he",
+    "option": {
+      "a": "consulted Jesus on the Sabbath day.",
+      "b": "was carrying his pallet on a Sabbath day.",
+      "c": "was on a journey on a Sabbath day.",
+      "d": "was seen with Jesus on a Sabbath day."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 578,
+    "question": "When the apostles in Jerusalem heard that Samaria had received the gospel, they sent to them",
+    "option": {
+      "a": "Mark and Barnabas.",
+      "b": "Peter and John.",
+      "c": "Paul and John.",
+      "d": "Peter and Paul."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 579,
+    "question": "The conversion of the Ethiopian eunuch confirms the",
+    "option": {
+      "a": "universality of the gospel.",
+      "b": "work of the Apostles.",
+      "c": "work of Philip in Samaria",
+      "d": "the love of God for the eunuch."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 580,
+    "question": "After his conversion, Paul was introduced to the disciples in Jerusalem by",
+    "option": {
+      "a": "Peter",
+      "b": "Ananias.",
+      "c": "Barnabas.",
+      "d": "Philip"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 581,
+    "question": "Before Barnabas and Saul were sent on missionary journey, the elders, laid hands on them. The laying on of  hands signifies",
+    "option": {
+      "a": "confirmation.",
+      "b": "selection.",
+      "c": "commissioning.",
+      "d": "protection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 583,
+    "question": "Why according to Paul must Christians be subject to civil authority?",
+    "option": {
+      "a": "To receive God’s approval",
+      "b": "To avoid God’s wrath",
+      "c": "God has commanded it",
+      "d": "It is an Old Testament law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 584,
     "question": "In the Epistle to the Romans, justification is received through",
     "option": {
@@ -3040,8 +3691,29 @@
     "examyear": "2010"
   },
   {
+<<<<<<< Updated upstream
     "id": 601,
     "question": "God guided the Israelites on their way from Egypt to the Promised Land by",
+=======
+    "id": 591,
+    "question": "In Philippians, Paul taught that Jesus ‘humility and death on the cross earned Him",
+    "option": {
+      "a": "salvation for Israel.",
+      "b": "adoption as son of God.",
+      "c": "exaltation as Lord.",
+      "d": "eternal life in the kingdom."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 592,
+    "question": "Why did Paul wish to retain Onesimus?",
+>>>>>>> Stashed changes
     "option": {
       "a": "the work of two angels",
       "b": "dividing the Red Sea",
@@ -3440,8 +4112,29 @@
     "examyear": "2011"
   },
   {
+<<<<<<< Updated upstream
     "id": 670,
     "question": "Peter called for the construction of three booths for Jesus, Moses and Elijah, respectively during",
+=======
+    "id": 675,
+    "question": "On the day of Ascension, Jesus promised his disciples",
+    "option": {
+      "a": "peace in the kingdom of God.",
+      "b": "amazing grace.",
+      "c": "power of  the Holy Ghost.",
+      "d": "His abiding physical presence."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 676,
+    "question": "On Ascension Day two men in white robes inform the disciples that Jesus would",
+>>>>>>> Stashed changes
     "option": {
       "a": "the transfiguration.",
       "b": "the Ascension.",
@@ -3483,6 +4176,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 680,
+    "question": "Paul was stoned and dragged out of the city by",
+    "option": {
+      "a": "the Lyconians and the Ephesians.",
+      "b": "enemies of the healed lame man",
+      "c": ". \nJews from Antioch and Iconium.",
+      "d": "Jews in the Synagogue."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -3568,6 +4277,7 @@
     "examyear": "2011"
   },
   {
+<<<<<<< Updated upstream
     "id": 689,
     "question": "Paul asked the Thessalonians to imitate his action of",
     "option": {
@@ -3579,6 +4289,19 @@
     "section": "",
     "image": "",
     "answer": "d",
+=======
+    "id": 688,
+    "question": "According to Paul in Corinthians the gospel message could only be lifeless when Christians",
+    "option": {
+      "a": "deny the resurrection message.",
+      "b": "persecute one another.",
+      "c": "gossip among themselves.",
+      "d": "entertain idolatrous practices."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+>>>>>>> Stashed changes
     "solution": "",
     "examtype": "wassce",
     "examyear": "2011"
@@ -3602,6 +4325,25 @@
   {
     "id": 691,
     "question": "Paul, pleaded with Philemon to forgive",
+<<<<<<< Updated upstream
+=======
+    "option": {
+      "a": "Barnabas.",
+      "b": "Timothy.",
+      "c": "Onesimus.",
+      "d": "Silas"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
+    "id": 694,
+    "question": "According to Paul in Galatians, law ceased to be our custodian as soon as",
+>>>>>>> Stashed changes
     "option": {
       "a": "Barnabas.",
       "b": "Timothy.",
@@ -3632,6 +4374,73 @@
     "examyear": "2019"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 704,
+    "question": " Which one of the following is the man associated with prayers?",
+    "option": {
+      "a": "Elisha",
+      "b": "Elijah",
+      "c": "Eli",
+      "d": "Ezekiah"
+    },
+    "section": "",
+    "image": "",
+    "answer": " b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 705,
+    "question": "For our prayers to manifest, we must be ________.",
+    "option": {
+      "a": "caring",
+      "b": "careful",
+      "c": "cheerful",
+      "d": "carefree"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 706,
+    "question": "In the Gospel of Matthew, Jesus sent the twelve to ___________.",
+    "option": {
+      "a": "the Jews",
+      "b": "the Gentiles and Samaritans",
+      "c": "Tyre and Sidon",
+      "d": "the Region of Gadarenes"
+    },
+    "section": "",
+    "image": "",
+    "answer": " a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 708,
+    "question": "Who among the following disciples of Jesus was a tax collector?",
+    "option": {
+      "a": "Levi",
+      "b": "Judas Iscariot",
+      "c": "John",
+      "d": "James"
+    },
+    "section": "",
+    "image": "",
+    "answer": " a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 709,
     "question": "In St. Luke’s record, Jesus specially sent the seventy disciples on mission to _____________.",
     "option": {
@@ -3920,6 +4729,22 @@
     "examyear": "2019"
   },
   {
+    "id": 769,
+    "question": "\"Do not be afraid; for I know what you seek, Jesus who was crucified...\" This statement was made__________",
+    "option": {
+      "a": "by Joseph of Arimathea",
+      "b": "to Mary Magdalene and Mary the mother of James",
+      "c": "to Mary Salome, Mary Magdalene and Mary the mother of James",
+      "d": "by Peter, James and John"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 770,
     "question": "\"What you sow does not come to life unless it dies\". This was______",
     "option": {
@@ -3943,6 +4768,22 @@
       "b": "Stock",
       "c": "Replenish",
       "d": "Fill"
+    },
+    "section": "",
+    "image": "",
+    "answer": " c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 775,
+    "question": "... updated Nehemiah about the state of Jerusalem while he was ...",
+    "option": {
+      "a": "Ezra, a captive in Babylon",
+      "b": "Ezekiah, an Emperor in Babylon",
+      "c": "Hanai, a captive in Babylon",
+      "d": "Zerubbabel, an Emperor in Babylon"
     },
     "section": "",
     "image": "",
@@ -4720,6 +5561,233 @@
     "examyear": "2013"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "id": 921,
+    "question": "According to Jesus, the following are true about the Good Shepherd except that he ",
+    "option": {
+      "a": "lays down his life for the sheep. ",
+      "b": "has no sheep out of die fol",
+      "c": "does not abandon the sheep to the wolf. ",
+      "d": "knows the sheep and they know him."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 922,
+    "question": "In his teaching as the True Vine, Jesus maintained that prayers could be answered if the disciples ",
+    "option": {
+      "a": "confess their sins. ",
+      "b": "abide in him.",
+      "c": "pray constantly. ",
+      "d": "ask for edifying things"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 923,
+    "question": "On the day of Pentecost, the Apostles were filled with the Holy Spirit and they all",
+    "option": {
+      "a": "prophesied.",
+      "b": "          spoke in tongues.",
+      "c": "baptised the converts.      ",
+      "d": "preached to the multitudes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 924,
+    "question": "The Jewish religious sect which did not believe in resurrection were the",
+    "option": {
+      "a": "Pharisees. .    ",
+      "b": "  Zealots",
+      "c": "  Sadducees. ",
+      "d": " Essenes"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 925,
+    "question": "“...yet the most high does not dwell in houses made with hands..,” This defence of Stephen meant that God is",
+    "option": {
+      "a": "Omnipotent.",
+      "b": "Omnipresent.",
+      "c": "Alpha.",
+      "d": "Omega."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 927,
+    "question": "“Tabitha, arise”. These were said by Peter during the ",
+    "option": {
+      "a": "healing of Aeneas from paralysis. ",
+      "b": "raising of Dorcas from death.",
+      "c": "healing of the lame man. ",
+      "d": "converting of Simeon the magician"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 928,
+    "question": "Luke described Cornelius as a devout man who feared God because he was a ",
+    "option": {
+      "a": "Hellenist of the Italian Cohort. ",
+      "b": "Proselyte of Jewish descent. ",
+      "c": "Greek who favoured Jewish religion. ",
+      "d": "Proselyte in sympathy with Jewish faith."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 929,
+    "question": "Prior to the day of Pentecost, members that constituted the early Church were",
+    "option": {
+      "a": "120",
+      "b": "1,200.00",
+      "c": "3,000.00",
+      "d": "4,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 930,
+    "question": "Paul’s letter to Philemon emphasizes",
+    "option": {
+      "a": "humility.         love.          forgiveness.     sincerity",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 931,
+    "question": "Paul believes that spiritual gifts are of great advantage to the Church because they ",
+    "option": {
+      "a": "enhance the beauty of the Church. ",
+      "b": "promote growth in diverse ways. ",
+      "c": "lead to talent development. ",
+      "d": "help the individual to be active"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 932,
+    "question": "The Philippians showed their solidarity with Paul while in prison by ",
+    "option": {
+      "a": "using Ephraphroditus to appeal for his release. ",
+      "b": "sending gifts to him through Ephaphroditus. ",
+      "c": "sending envoys from Corinth to defend him. ",
+      "d": "offering regular sacrifices on his behalf"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 933,
+    "question": "All the following describe Christians in first Peter except",
+    "option": {
+      "a": "holy nation. ",
+      "b": "people living together. ",
+      "c": "God’s own people.            ",
+      "d": "  chosen race"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 934,
+    "question": "In Corinthians, Paul stated that he was unfit to be called an apostle because he",
+    "option": {
+      "a": "could not speak in tongues.",
+      "b": "  persecuted the Church.",
+      "c": "was not one of the twelve.",
+      "d": "  was a Pharisee."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 935,
+    "question": "According to Paul in second Thessalonians, one of the signs of the second coming would be ",
+    "option": {
+      "a": "revelation of the man of lawlessness. ",
+      "b": "an explosion of world population. ",
+      "c": "increasing rate of fake disciples. ",
+      "d": "flagrant violation of God’s law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+>>>>>>> Stashed changes
     "id": 937,
     "question": "According to Paul’s teaching in Galatians, Christian become sons of God by ",
     "option": {
@@ -5136,6 +6204,22 @@
     "examyear": "2011"
   },
   {
+    "id": 1012,
+    "question": " “And I asked them concerning the Jews that survived, who has escaped exile, and concerning Jerusalem...” These were   the words of ",
+    "option": {
+      "a": "Jeremiah. ",
+      "b": "  Nehemiah ",
+      "c": " Ezr",
+      "d": "Hanani"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 1014,
     "question": "“My son your sins are forgiven”. These were the words of  Jesus to the   ",
     "option": {
@@ -5399,6 +6483,22 @@
       "b": "go and settle in Judah ",
       "c": "live only on bread in Judah ",
       "d": "run to Judah and bake bread"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1067,
+    "question": " “Don’t be afraid, henceforth you will be catching men”. “Catching men” means capturing men ",
+    "option": {
+      "a": "to the new faith         ",
+      "b": "    who oppose the Gospel ",
+      "c": "who are sinful ",
+      "d": "who are spiritual"
     },
     "section": "",
     "image": "",

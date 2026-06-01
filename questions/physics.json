@@ -1376,6 +1376,22 @@
     "examyear": "2017"
   },
   {
+    "id": 243,
+    "question": "An element and its isotope only differ in the number of",
+    "option": {
+      "a": "protons",
+      "b": "electrons",
+      "c": "ions",
+      "d": "neutrons"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Isotopy is due to difference in mass number, what causes the difference is the difference in the number of neutrons present",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 246,
     "question": "When two objects P and Q are supplied with the same quantity of heat, the temperature change in P is observed to be twice that of Q. The mass of P is half that of Q. The ratio of the specific heat capacity pf P to Q is",
     "option": {
@@ -3632,6 +3648,22 @@
     "examyear": "2005"
   },
   {
+    "id": 654,
+    "question": "The pair of physical quantities consisting of vectors only are",
+    "option": {
+      "a": "momentum and power",
+      "b": "velocity and distance",
+      "c": "displacement and torque",
+      "d": "accelaration and speed"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Displacement: Has magnitude and direction (e.g., 5m north)\nTorque: Has magnitude and direction (clockwise/counterclockwise, follows right-hand rule)\n\nBoth displacement and torque are vectors.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 656,
     "question": "An object is projected from a height of 80 m above the ground with a velocity of 40ms⁻¹ at an angle of 30° to the horizontal. The time of flight [g ≈ 10m/s²]",
     "option": {
@@ -5152,6 +5184,22 @@
     "examyear": "2010"
   },
   {
+    "id": 951,
+    "question": "Two balls X and Y weighing 5 g and 50 kg respectively were thrown up vertically at the same time with a velocity of 100 ms⁻¹. How will their positions be one second later?",
+    "option": {
+      "a": " X and Y will be 500 m from each other",
+      "b": "Y will be 500 m ahead of X",
+      "c": " X will be 500 m ahead of Y",
+      "d": " X and Y both be 500 m from the point of throw"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Using v² = u² - 2gs at maximum height (v = 0):\n\n0 = 100² - 2(10)s\ns = 10,000/20 = 500 m",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 954,
     "question": "A carpenter on top of a roof of 20.0m high dropped a hammer of mass 1.5 kg and it fell directly to the ground. The kinetic energy of the hammer just before hitting the ground is? [g = 10 ms⁻²]",
     "option": {
@@ -5964,6 +6012,22 @@
     "image": "",
     "answer": "d",
     "solution": "Solenoid method: This involves placing the magnet inside a solenoid (an electromagnet) and gradually reducing the current. It provides a controlled environment for effective demagnetization.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1114,
+    "question": "When an atom undergoes a beta decay, the atomic number of the nucleus",
+    "option": {
+      "a": "Remains unchanged",
+      "b": "Decreases by one",
+      "c": "Increases by one",
+      "d": "Becomes zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The atomic number (number of protons) increases by one because a neutron is replaced by a proton. The mass number remains the same.",
     "examtype": "utme",
     "examyear": "2014"
   },

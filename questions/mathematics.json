@@ -1136,6 +1136,22 @@
     "examyear": "2003"
   },
   {
+    "id": 255,
+    "question": "Find the number of committees of three that can be formed consisting of two men and one woman from four men and three women",
+    "option": {
+      "a": " 3",
+      "b": "6",
+      "c": "18",
+      "d": "24"
+    },
+    "section": "Solution: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mi></mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>4</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mn>2</mn>\n  </msub>\n  <msup>\n    <mo>&#x00D7;<!-- × --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>3</mn>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mn>1</mn>\n  </msub>\n  <mo>=</mo>\n  <mrow>\n    <mo>(</mo>\n    <mfrac>\n      <mrow>\n        <mn>4</mn>\n        <mo>!</mo>\n      </mrow>\n      <mrow>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>2</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>!</mo>\n        <mn>2</mn>\n        <mo>!</mo>\n      </mrow>\n    </mfrac>\n    <mo>)</mo>\n  </mrow>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mrow>\n    <mo>(</mo>\n    <mfrac>\n      <mrow>\n        <mn>3</mn>\n        <mo>!</mo>\n      </mrow>\n      <mrow>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>1</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>!</mo>\n        <mn>1</mn>\n        <mo>!</mo>\n      </mrow>\n    </mfrac>\n    <mo>)</mo>\n  </mrow>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>4</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>!</mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>4</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>3</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>18</mn>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 259,
     "question": "An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc.",
     "option": {
@@ -1452,6 +1468,22 @@
     "image": "",
     "answer": "d",
     "solution": "Tan θ = 5√3/5\nTan θ = √3\nθ = 60°",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 318,
+    "question": "P, R and S lie on a circle centre O as shown in the diagram while Q lies outside the circle. Find < PSO",
+    "option": {
+      "a": "35°",
+      "b": "40°",
+      "c": "45°",
+      "d": "55°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710701048/ALOC-Questions/Mathematics/2004/math_2004_q47_hqamwu.jpg",
+    "answer": "a",
+    "solution": "< PRS = 20° + 35° = 55°\n\n< POS = 2 < PRS\n\n2 x 55° = 10°\n\n< OPS = < PSO = x\n\nIn △\nPOS\n\nOP = OS(radii)\n\n△POS is an isosceles\n\n2x + 110° = 180°\n\n2x = 180° - 110° = 70°\n\nx = 70°/2\n \n\n\n= 35",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -2124,6 +2156,22 @@
     "image": "",
     "answer": "b",
     "solution": "3/5÷(2/7×4/3÷4/9)=3/5÷(2/7×4/3×9/4)=3/5÷6/7=3/5×7/6=7/10",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 456,
+    "question": "If the lines 3y = 4x - 1 and qy = x + 3 are parallel to each other, the value of q is",
+    "option": {
+      "a": " -4/3",
+      "b": "-3/4",
+      "c": "4/3",
+      "d": "3/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "If the line 3y = 4x – 1 is parallel t[ line qy = x + 3\nImplies gradient of 3y = 4x – 1\nY = 4/3x - 1/3\n∴Gradient = 4/3\nGradient of line qy = x + 3\nY = 1/qx + 3/q\n∴ Gradient = 1/q\n4/3 = 1/q\n4q = 3\nQ = 3/4",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -4236,6 +4284,22 @@
     "image": "",
     "answer": "c",
     "solution": "∫x<sup>n</sup>dx = x<sub>n+1</sub>/n+1\n\n\n∫dx = x + k\n\nwhere k is constant\n\n∫(x<sup>2</sup>  + 3x − 5)dx\n\n∫x<sup>2</sup>  dx + ∫3xdx − ∫5dx\n\n(2<sub>2</sub> + 1)/(2 + 1)\n + 3x<sup>1+1</sup>/(1+1)\n − 5x + k\n\nx<sub>3</sub>/3 + 3x<sub>2</sub>/2 − 5x + k",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 903,
+    "question": "In the diagram above MN is a chord of a circle KMN centre O and radius 10cm. If < MON = 140°, find, to the nearest cm, the length of the chord MN.",
+    "option": {
+      "a": "10cm",
+      "b": "19cm",
+      "c": "17cm",
+      "d": "12cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005931/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q35_znubyc.png",
+    "answer": "b",
+    "solution": "Find the diagram\nSin 70°\n\nx = 10 Sin 70°\n\n= 9.3969\n\nHence, length of chord MN = 2x\n\n= 2 × 9.3969\n\n= 18.79\n\n= 19cm (nearest cm)",
     "examtype": "utme",
     "examyear": "2017"
   },

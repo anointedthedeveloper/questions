@@ -2960,6 +2960,22 @@
     "examyear": "2019"
   },
   {
+    "id": 766,
+    "question": "Which of the following accounting records are source documents?",
+    "option": {
+      "a": " journals and ledgers",
+      "b": "sales invoice and debit note",
+      "c": "sales invoice and cashbook",
+      "d": " cashbook and debit note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Source documents are the original vouchers evidencing that a transaction has occurred. A sales invoice and a debit note are both such vouchers. In contrast, journals, ledgers, and the cashbook are accounting records prepared from those source documents.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 768,
     "question": "Given the following list of balances: bank account ₦59,410, capital account ₦50,000, purchases account ₦20,000, rent ₦2,500, stationery ₦90, typewriter ₦6,500, and sales ₦38,500, in preparing a trial balance from this list of balances, what is the total in debit and credit columns?",
     "option": {
@@ -3036,6 +3052,22 @@
     "image": "",
     "answer": "a",
     "solution": "A typical journal entry usually has four columns: the date of the transaction, the particulars, and columns for the debits and credits.\n\nSometimes, the folio column can be included, but is it not a compulsory requirement.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 785,
+    "question": "In the head office ledger, the value of goods sent to the branch are",
+    "option": {
+      "a": "debited to the branch current account",
+      "b": "debited to the head office current account",
+      "c": " credited to the head office current account",
+      "d": "credited to the branch current account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "In the head office’s ledger, each branch has its own current (or “branch”) account. When goods are sent from head office to a branch, the head office debited the Branch Current Account (reflecting an asset transfer to the branch) and credited the Head Office’s Inventory or Stock Account. This debit entry increases the branch’s account balance, showing the value of goods supplied.",
     "examtype": "utme",
     "examyear": "2020"
   },

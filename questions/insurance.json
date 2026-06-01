@@ -1280,6 +1280,22 @@
     "examyear": "2"
   },
   {
+    "id": 111,
+    "question": "Which of the following is a temporary document given to the insured in an insurance contract?",
+    "option": {
+      "a": "Cover note",
+      "b": "Subrogation",
+      "c": "Policy document",
+      "d": "Reinsurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
     "id": 112,
     "question": "Hazard that deals with the human habits and character that arises from human attitude and the conduct of people is called",
     "option": {
@@ -1431,6 +1447,22 @@
       "b": "Certificate",
       "c": "Insurance card",
       "d": "visa card"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 126,
+    "question": "Uncertainty of loss is known as",
+    "option": {
+      "a": "Risk",
+      "b": "Certainty",
+      "c": "Insurance",
+      "d": "Hazard"
     },
     "section": "",
     "image": "",
@@ -1979,6 +2011,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
+    "id": 164,
+    "question": "Change for the transportation of goods by water is called",
+    "option": {
+      "a": "Bill",
+      "b": "Ticket",
+      "c": "Freight",
+      "d": "Consideration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "3"

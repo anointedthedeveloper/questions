@@ -688,6 +688,22 @@
     "examyear": "2015"
   },
   {
+    "id": 339,
+    "question": "Which of the following is a source of revenue for a local government?",
+    "option": {
+      "a": "Personal income tax",
+      "b": "Company registration fees",
+      "c": "Royalties",
+      "d": "Market tolls"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 343,
     "question": "Which of the following is a spreadsheet application?",
     "option": {
@@ -795,6 +811,38 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 397,
+    "question": "The recipient whose name appears on a cheque is called a",
+    "option": {
+      "a": "payee",
+      "b": "drawer",
+      "c": "drawee",
+      "d": "payee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 403,
+    "question": "Where closing stock is undervalued, the effect is",
+    "option": {
+      "a": "an increase in gross profit",
+      "b": "a decrease in gross profit",
+      "c": "an increase in purchases",
+      "d": "a decrease in purchases"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2004"
@@ -1998,6 +2046,22 @@
     "solution": "The basic role of accounting is to measure and communicate the financial performance and position of an entity. ",
     "examtype": "utme",
     "examyear": "2021"
+  },
+  {
+    "id": 848,
+    "question": "Zazzau Company:\n\nCash in hand................₦50\nCash in bank................₦1 250\nStock.......................₦4 880\nFurniture...................₦9 60\nBuilding....................₦5 500\nDebtor......................₦1 750\nCreditors...................₦2 150\n\nDrawings of ₦125 were made by the shareholders of the company.\n\nThey company's net current assets amount to?",
+    "option": {
+      "a": "₦5,780",
+      "b": "₦570",
+      "c": "₦6,580",
+      "d": "₦7,930"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Net current assets (also known as working capital) = Current Assets - Current Liabilities\nCurrent Assets:\n\nCash in hand: ₦50\nCash in bank: ₦1,250\nStock: ₦4,880\nDebtors: ₦1,750\nTotal Current Assets = ₦7,930\n\nCurrent Liabilities:\n\nCreditors: ₦2,150\n\nNet Current Assets = ₦7,930 - ₦2,150 = ₦5,780\nThe company's net current assets amount to ₦5,780.",
+    "examtype": "utme",
+    "examyear": "2022"
   },
   {
     "id": 852,

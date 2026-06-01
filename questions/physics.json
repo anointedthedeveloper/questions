@@ -2736,6 +2736,22 @@
     "examyear": "2016"
   },
   {
+    "id": 195,
+    "question": "Semiconductor is a class of solid whose conductivity increases with an increase in",
+    "option": {
+      "a": "Pressure",
+      "b": "Temperature",
+      "c": "Current",
+      "d": "Voltage"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Semiconductors have a unique property:\nIn semiconductors (like silicon and germanium):\n\nAt low temperatures, few electrons have enough energy to conduct\nAs temperature increases, more electrons gain enough energy to break free\nThese free electrons increase conductivity\n\nEffect of temperature:\nHigher temperature → More free charge carriers → Higher conductivity\nThis is opposite to conductors (metals):\n\nMetals: Higher temperature → Lower conductivity\n\nOther options:\n\nPressure = minimal effect on conductivity\nCurrent/Voltage = are results of conductivity, not causes\n\nAnswer: B. Temperature\nSemiconductor conductivity increases with an increase in temperature.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 196,
     "question": "Which of the following statements is NOT correct?",
     "option": {
@@ -10668,6 +10684,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nPower (P) = 25 W\nTemperature rise (ΔT) = 10°C = 10 K\nTime (t) = 5 minutes = 5 × 60 = 300 seconds\nHeat capacity (C) = ?\n\nStep 1: Calculate total heat energy supplied\nEnergy = Power × Time\nQ = P × t\nQ = 25 × 300\nQ = 7500 J\nStep 2: Calculate heat capacity\nHeat capacity is the heat required to raise the temperature of an object by 1K:\nQ = CΔT\nRearranging for C:\nC = Q/ΔT\nSubstituting values:\nC = 7500/10\nC = 750 JK⁻¹",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 816,
+    "question": "If the partial pressure of water vapour at 27°C is 18 mm Hg and the saturated vapour pressure of the atmosphere at the same temperature is 24 mm Hg, the relative humidity at this temperature is?",
+    "option": {
+      "a": "25%",
+      "b": "33%",
+      "c": "75%",
+      "d": "82%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nPartial pressure of water vapour (P) = 18 mm Hg\nSaturated vapour pressure (P_s) = 24 mm Hg\nRelative humidity (R.H) = ?\n\nFormula for relative humidity:\nRelative Humidity = (Partial pressure of water vapour / Saturated vapour pressure) × 100%\nR.H = (P/P_s) × 100%\nSubstituting values:\nR.H = (18/24) × 100%\nR.H = 0.75 × 100%\nR.H = 75%",
     "examtype": "utme",
     "examyear": "2008"
   },

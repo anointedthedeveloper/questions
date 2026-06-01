@@ -320,6 +320,22 @@
     "examyear": "2009"
   },
   {
+    "id": 57,
+    "question": "If 7 and 189 are the first and fourth terms of a geometric progression respectively find the sum of the first three terms of the progression ",
+    "option": {
+      "a": "182",
+      "b": "180",
+      "c": "91",
+      "d": "63"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 58,
     "question": "Find the positive number n such that thrice its square is equal to twelve time the number ",
     "option": {
@@ -524,6 +540,22 @@
     "image": "",
     "answer": "d",
     "solution": "Angle corresponding to 4 is 40/240 x 360/1 = 60°\nNote that total angle in a circle is 360°.\nNote also that sum of the frequencies given is 240.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 106,
+    "question": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5 ",
+    "option": {
+      "a": "16",
+      "b": "14",
+      "c": "12",
+      "d": "10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Range = Highest - lowest number => 10-4 = 6\nMode is the number with highest occurrence => Mode = 10\n\nSum = 6 + 10 = 16",
     "examtype": "utme",
     "examyear": "2000"
   },
@@ -1184,6 +1216,22 @@
     "examyear": "2004"
   },
   {
+    "id": 290,
+    "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+    "option": {
+      "a": "25 ways",
+      "b": "10 ways",
+      "c": "15 ways",
+      "d": "20 ways"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In<sup>2</sup> C<sub>2</sub> ways=5!/((5-2)!2!)=5!/3!2!=(5×4×3!)/(3!×2×1)=10ways",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 294,
     "question": "The weight of 10 pupils in a class are 15 kg, 16 kg, 17 kg, 18 kg, 16 kg, 17 kg, 17 kg, 17 kg, 18 kg, and 16 kg. What is the range of this distribution?",
     "option": {
@@ -1664,6 +1712,22 @@
     "examyear": "2006"
   },
   {
+    "id": 375,
+    "question": "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/3, find the value of x",
+    "option": {
+      "a": "8",
+      "b": "10",
+      "c": "4",
+      "d": "6"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Black = 5\nWhite = 4\nRed = x\nTotal = 9+x\nP(red) = 2/3\nx / (9+x) = 2/5\n5x = 2(9+x)\n5x = 18+2x\n5x-2 = 18\n3x = 18\nx = 6",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 378,
     "question": "The pie chart above shows the expenditure of a family whose income is N30,000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food?",
     "option": {
@@ -1692,6 +1756,22 @@
     "image": "",
     "answer": "b",
     "solution": "dy/dx = 2x + 7\ny = ∫2x + 7\ny = x2 + 7x + C at (2,0)\n0 = 22 + 7(2) + C\n0 = 4 + 14 + C\n0 = 18 + C\nC = -18\n∴ The equation is y = x<sup>2</sup> + 7x - 18",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 383,
+    "question": "If dy/dx = x + cos x, find y",
+    "option": {
+      "a": "x<sup>2</sup> - sin x + c",
+      "b": "x<sup>2</sup> + sin x + c",
+      "c": "x<sup>2</sup>/2 - sin x + c",
+      "d": "x<sup>2</sup>/2 + sin x + c"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "dy/dx = x + cos x\ny = ∫(x + cos x)dx\ny = 1/2x<sup>2</sup> + sin x + C",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -2624,6 +2704,22 @@
     "examyear": "2009"
   },
   {
+    "id": 566,
+    "question": "The table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5?",
+    "option": {
+      "a": "\n3/5",
+      "b": "2/5",
+      "c": "7/20",
+      "d": "1/5"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547388/ALOC-Questions/Mathematics/2009/MATH_2009_Q45_SOLUTION_a2kkcx.jpg",
+    "answer": "a",
+    "solution": "Total number of students = 20                       \nP(passing) =12/20\n=3/5",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 569,
     "question": "The cumulative frequency curve above shows the distribution of the scores of 50 students in an examination. Find the 36th percentile scores?",
     "option": {
@@ -2956,6 +3052,22 @@
     "image": "",
     "answer": "c",
     "solution": "∫<sup>1</sup><sub>0</sub>(3 - 2x)dx   [3x - x2]<sup>1</sup<sub>0</sub>\n\n\n[3(1) - (1)<sup>2</sup>] - [3(0) - (0)<sup>2</sup>]\n\n(3 - 1) - (0 - 0) = 2 - 0\n\n= 2",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 662,
+    "question": "In how many ways can five people sit round a circular table?",
+    "option": {
+      "a": "24",
+      "b": "60",
+      "c": "12",
+      "d": "120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The first person will sit down and the remaining will join.\n\ni.e. (n - 1)!\n\n= (5 - 1)! = 4!\n\n= 24 ways",
     "examtype": "utme",
     "examyear": "2011"
   },
@@ -3340,6 +3452,22 @@
     "image": "",
     "answer": "b",
     "solution": "S = √(t<sup>2</sup> −4t + 4)\n\n\nS<sup>2</sup> = t<sup>2</sup> - 4t + 4\n\nt<sup>2</sup> - 4t + 4 - S<sup>2</sup> = 0\n\nUsing t = −b ± √(b<sup>2</sup −4ac)/2a\n\n\nSubstituting, we have;\n\nUsing t = −(−4) ±)√(−4)<sup>2</sup> −4(1)(4−S<sup>2</sup.>/2(1)\n\n\nt = 4 ±√(16−4(4−S<sup>2</sup>)/2\n\n\nt = 4 ±√(16−16+4S<sup>2</sup>/2\n\n\nt = 4 ±√(4S<sup>2</sup>/2\n\n\nt = 2(2±S)/2\n\n\nHence t = 2 + S or t = 2 - S",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 781,
+    "question": "P varies jointly as m and u, and varies inversely as q. Given that p = 4, m = 3 and u = 2 and q = 1, find the value of p when m = 6, u = 4 and q = 8/5",
+    "option": {
+      "a": "12(8/5)",
+      "b": "15",
+      "c": "10",
+      "d": "28(8/5)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "P ∝ mu, p ∝1/q\n\n\np = muk ................ (1)\n\np = 1/qk... (2)\n\nCombining (1) and (2), we get\n\nP = (mu/q)k\n\n\n4 = (m × u/1)k\n\n\ngiving k = 4/6 = 2/3\n\n\nSo, P = mu/q × 2/3 =(2mu/3q)\n\n\nHence, P = (2 × 6 × 4)/(3 ×8/5)\n\n\nP = (2 × 6 × 4 × 5/3 × 8)\n\n\np = 10",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -5356,6 +5484,22 @@
     "image": "",
     "answer": "a",
     "solution": "x/2 + 3/4 ≤ 5x/6 −7/12\n\n\n12(x/2) + 12(3/4) ≤ 12(5x/6) −12(7/12)\n\n\n6x + 9 ≤ 10x - 7\n\n6x - 10x ≤ - 7 - 9\n\n-4x ≤ -16\n\n-4x/-4 ≥ -16/-4\n\nx ≥ 4",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1205,
+    "question": "A binary operation * is defined by x * y = xy. If x * 2 = 12 - x, find the possible values of x",
+    "option": {
+      "a": "3,4",
+      "b": "3,-4",
+      "c": "-3,4",
+      "d": "-3,-4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "x * y = xy\nx * 2 = 12 - x\n\nThus by comparison,\n\nx = x, y = 2\n\nBut x * y = x * 2\n\nxy = 12 - x\n\nx2 = 12 - x\n\nx2 + x - 12 = 0\n\nx2 + 4x - 3x - 12 = 0\n\nx(x + 4) - 3(x + 4) = 0\n\n(x - 3)(x + 4) = 0\n\nx - 3 = 0 or x + 4 = 0\n\nSo x = 3 or x = -4",
     "examtype": "utme",
     "examyear": "2014"
   },

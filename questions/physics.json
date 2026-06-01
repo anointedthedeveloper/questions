@@ -368,6 +368,22 @@
     "examyear": "2009"
   },
   {
+    "id": 65,
+    "question": "A man of mass 50kg ascends a flight of stair 5m high in 5 seconds. If acceleration due to gravity is 10ms-2 the power expanded is ",
+    "option": {
+      "a": "100W ",
+      "b": "300W ",
+      "c": "250W ",
+      "d": "500W"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 66,
     "question": "Two strings of the same length and under the same tension give notes of frequency in the ratio 4:1, the masses of the string are in the ratio of ",
     "option": {
@@ -2000,6 +2016,22 @@
     "examyear": "2019"
   },
   {
+    "id": 372,
+    "question": "A siren having a ring of 200 hole makes 132 rev/min. A jet of air is directed on the set of holes. Calculate the frequency and wavelength in air of the note produced (take v = 350m/s)",
+    "option": {
+      "a": "0.795m",
+      "b": " 0.625m",
+      "c": "0.335m",
+      "d": "0.125m"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nNumber of holes = 200\nRevolutions = 132 rev/min\nSpeed of sound (v) = 350 m/s\nWavelength (λ) = ?\n\nStep 1: Calculate frequency\nEach revolution produces 200 sound pulses (one per hole)\nFrequency = Number of holes × Revolutions per second\nFirst convert rev/min to rev/s:\n132 rev/min = 132/60 rev/s = 2.2 rev/s\nFrequency (f) = 200 × 2.2\nf = 440 Hz\nStep 2: Calculate wavelength\nUsing wave equation:\nv = fλ\nRearranging:\nλ = v/f\nλ = 350/440\nλ = 0.795 m",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 373,
     "question": "A man on a bench will exert the greatest pressure on the bench when he",
     "option": {
@@ -2764,6 +2796,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nMass, m = 2 kg\nRadius (rope length), r = 1.2 m\nFrequency, f = 120 rev/min\nTension, T = ?\n\nSolution:\nStep 1: Convert frequency to rev/s\nf = 120 rev/min = 120/60 rev/s\nf = 2 rev/s = 2 Hz\nStep 2: Calculate angular velocity\nω = 2πf\nω = 2 × π × 2\nω = 4π rad/s\nω = 12.566 rad/s\nStep 3: Calculate centripetal force (tension)\nFor horizontal circular motion, tension provides the centripetal force:\nT = mω²r\nT = 2 × (12.566)² × 1.2\nT = 2 × 157.914 × 1.2\nT = 2 × 189.497\nT = 378.99 N\nT ≈ 379 N",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 517,
+    "question": "A 200 kg load is raised using a 110 m long lever as shown in the diagram above. The load is 10m from the pivot P. If the efficiency of the lever is 80%, find the effort E required to lift the load. [Take g = 10ms⁻²]",
+    "option": {
+      "a": " 250 N",
+      "b": "300 N",
+      "c": "450 N",
+      "d": "200 N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614819/ALOC-Questions/Physics/2023/physics_2023-Q18_fexzla.jpg",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of load, m = 200 kg\nTotal lever length = 110 m\nLoad distance from pivot, d_load = 10 m\nEffort distance from pivot, d_effort = 110 - 10 = 100 m\nEfficiency, η = 80% = 0.8\nAcceleration due to gravity, g = 10 m/s²\nEffort required, E = ?\n\nSolution:\nStep 1: Calculate the load force (weight)\nLoad = mg\nLoad = 200 × 10\nLoad = 2000 N\nStep 2: Apply the principle of moments for ideal lever\nFor an ideal lever (100% efficiency):\nLoad × d_load = Effort × d_effort\n2000 × 10 = E_ideal × 100\n20,000 = E_ideal × 100\nE_ideal = 200 N\nStep 3: Account for efficiency\nSince efficiency = 80%, more effort is needed:\nEfficiency = (Ideal Effort/Actual Effort) × 100%\n0.8 = 200/E_actual\nE_actual = 200/0.8\nE_actual = 250 N",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -5116,6 +5164,22 @@
     "image": "",
     "answer": "d",
     "solution": "The higher the amplitude of sound the larger the loudness of sound and the lower the amplitude of sound waves the softer the loudness of sound by this we get to know that the amplitude of a sound wave decides the loudness of sound or we can call it the intensity of sound.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1023,
+    "question": "Where can a man place his face to get an enlarged image when using a concave mirror to shave?",
+    "option": {
+      "a": " Between the centre of curvature and the principal focus",
+      "b": " At the principal focus",
+      "c": " Between the principal focus and the pole",
+      "d": "At the centre of curvature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Shaving requires an enlarged, upright image (virtual). This occurs only when the object (face) is placed between the principal focus (F) and the pole (P) of the concave mirror.",
     "examtype": "utme",
     "examyear": "2012"
   },

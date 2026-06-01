@@ -13568,6 +13568,22 @@
     "examyear": "2009"
   },
   {
+    "id": 898,
+    "question": "The process of energy production in the sun is?",
+    "option": {
+      "a": "Nuclear fission",
+      "b": "Nuclear fusion",
+      "c": "Electron collision",
+      "d": "Radioactive decay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The process of energy production in the sun is nuclear fusion, where hydrogen nuclei combine under extreme temperature and pressure to form helium, releasing enormous amounts of energy in the process.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 899,
     "question": "A stone is dropped from the top of a tower 80m high. Calculate the time it takes to reach the ground. [g = 10 ms⁻²]",
     "option": {
@@ -15404,6 +15420,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nObject height = 2 cm\nObject distance = 10 cm\nMirror type: plane mirror\n\nSolution:\n\nStep 1: Magnification by a plane mirror\nFor a plane mirror, the image is always the same size as the object.\n\nStep 2: Formula for magnification\nMagnification = image height / object height = 1 (since image height = object height)\n\nStep 3: Value of magnification\nMagnification = 1.0",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1026,
+    "question": "After reflection from the concave mirror, rays of light from the sun converges",
+    "option": {
+      "a": "at the radius of curvature",
+      "b": " at the focus",
+      "c": "beyond the radius of curvature",
+      "d": " between the focus and radius of curvature"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "After reflection from a concave mirror, rays of light from the sun (which are parallel rays) converge at the focus. This is the fundamental property that defines the focal point of a concave mirror.\nPractical example: If you hold a concave mirror in sunlight and place paper at the focal point, the concentrated solar energy can ignite the paper, demonstrating how all the parallel sun rays converge at this single point.",
     "examtype": "utme",
     "examyear": "2012"
   },

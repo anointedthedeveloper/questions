@@ -352,6 +352,22 @@
     "examyear": "2013"
   },
   {
+    "id": 101,
+    "question": "The minimum number of persons required to form a partnership business is",
+    "option": {
+      "a": "2.",
+      "b": "3.",
+      "c": "5",
+      "d": "10."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 103,
     "question": "The accounting principle that states that, in the preparation of accounting statement, revenue are recognized as        soon as goods are passed on to the customer is the",
     "option": {
@@ -688,6 +704,22 @@
     "examyear": "1997"
   },
   {
+    "id": 197,
+    "question": "A cash discount is a",
+    "option": {
+      "a": "Trading Account item",
+      "b": "Profit and Loss Account item",
+      "c": "Appropriation Account item",
+      "d": "Receipts and Payments Account item"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 198,
     "question": "The amount of capital expenditure for 1995 was",
     "option": {
@@ -843,6 +875,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 238,
+    "question": "Cost of raw materials consumed is",
+    "option": {
+      "a": "D113,000",
+      "b": "D105,500",
+      "c": "D98,000",
+      "d": "D95,500."
+    },
+    "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -1415,6 +1463,22 @@
       "b": "Provision for Depreciation Account; Credit Asset Disposal Account",
       "c": "Fixed Asset Account; Credit Asset Disposal Account",
       "d": "Asset Disposal Account; Credit Fixed Asset Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
+    "id": 376,
+    "question": "The accounting ratio used to measure the average number of days for which suppliers remain unpaid is",
+    "option": {
+      "a": "stock turnover",
+      "b": "creditors’ payment period",
+      "c": "debtors collection period",
+      "d": "return on capital employed"
     },
     "section": "",
     "image": "",
@@ -2480,6 +2544,22 @@
     "examyear": "2018"
   },
   {
+    "id": 688,
+    "question": "In departmental accounting, which is not a transfer pricing_________",
+    "option": {
+      "a": "cost based transfer price",
+      "b": "market based transfer pricing",
+      "c": "Dual pricing system",
+      "d": "peak pricing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The standard transfer‐pricing methods used in departmental accounting are:\n\nCost‐based transfer pricing (using internal cost as the basis)\n\nMarket‐based transfer pricing (using external market prices)\n\nDual pricing system (charging one price to the selling division and another to the buying division)\n\nPeak pricing, on the other hand, is a demand‐management strategy for external customers (adjusting prices during high‐demand “peak” periods) and is not used for inter‐departmental transfer pricin",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 693,
     "question": "The cost price method is applicable when_____",
     "option": {
@@ -2492,6 +2572,22 @@
     "image": "",
     "answer": "b",
     "solution": "cost price method is used to enhance quick sales",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 695,
+    "question": "In dealing with incomplete record, fixed assets are posted to___________-\n",
+    "option": {
+      "a": "Profit and loss account as brought forward figure",
+      "b": "Closing balance sheet as carried forward figure",
+      "c": "Closing balance sheet as brought forward figure",
+      "d": "Profit and loss as carried forward figure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "fixed asset are brought forward in closing balance sheet",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -3100,6 +3196,22 @@
     "image": "",
     "answer": "b",
     "solution": "Annual depreciation = (₦343 m – ₦28 m) ÷ 3 = ₦105 m per year.\nBook value at start of year 3 = ₦343 m – 2 × ₦105 m = ₦133 million ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 861,
+    "question": "In the not-for-profit-making organization, the excess of income over expenditure is?",
+    "option": {
+      "a": "deducted from the capital",
+      "b": "added to the accumulated fund",
+      "c": "added to the capital",
+      "d": "deducted from the the accumulated fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "In a not‑for‑profit organization, any surplus (excess of income over expenditure) is credited to the Accumulated Fund, thereby increasing the fund available for future activities.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -4208,6 +4320,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1143,
+    "question": "<b>Use the information below to answer questions 28 and 29</b>\n\n...........PQ Manufacturing Company\n\nRaw materials (1/11/2001)...........₦3 500\nRaw materials (31/12/2001)..........₦4 900\nPurchase of raw materials...........₦56 000\nSalary .............................₦63 000\nWages...............................₦148 000\nFactory lighting ...................₦3 080\nPlant Depreciation..................₦2 800\nFactory Insurance ..................₦2 170\n\nThe company consumed raw materials worth?",
+    "option": {
+      "a": "₦54,600",
+      "b": "₦56,000",
+      "c": " ₦57,400",
+      "d": "59,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Consumption of raw materials = Opening + Purchases − Closing\n\nCopy code\n= ₦3,500 + ₦56,000 − ₦4,900\n= ₦59,500 − ₦4,900\n= ₦54,600",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1146,
     "question": "Given: \nRich Social Club \nCash................................>₦100,000\nLoan ...............................>₦30000\nSubscription in arrears.............>₦5,000\nSubscription in advance.............>₦15,000\n\nWhat is the accumulation fund?",
     "option": {
@@ -4828,6 +4956,22 @@
     "image": "",
     "answer": "a",
     "solution": "The Partnership Deed typically sets out the partners’ profit-and-loss sharing ratio",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1302,
+    "question": "An item of appropriation in partnership profit and loss account is?",
+    "option": {
+      "a": "interest on partners' capital",
+      "b": "interest on partners' loan",
+      "c": "employees' salaries",
+      "d": "partners' drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "An appropriation item in the partnership Profit & Loss Appropriation Account is one that deals with the distribution of net profit after it has been determined.\n\nInterest on partners’ capital is credited to the partners out of profit and is therefore an appropriation.\n\nInterest on partners’ loans, employees’ salaries, and partners’ drawings are expenses or withdrawals, not profit appropriations.",
     "examtype": "utme",
     "examyear": "2000"
   },

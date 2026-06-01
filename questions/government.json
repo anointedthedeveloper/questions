@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< Updated upstream
     "id": 4,
     "question": "In a parliamentary system of government, the function of the head of state and the head of government are vested in ",
     "option": {
@@ -48,6 +49,8 @@
     "examyear": "2006"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 14,
     "question": "Which of the following best describes French colonial policy in Africa? ",
     "option": {
@@ -64,6 +67,7 @@
     "examyear": "2006"
   },
   {
+<<<<<<< Updated upstream
     "id": 36,
     "question": "In which city was the ECOWAS Treaty signed ",
     "option": {
@@ -327,6 +331,15 @@
       "b": "109 senators and 350 members of the House of Representative  ",
       "c": "108 senators and 350 members of the House of Representative  ",
       "d": "100 senators and 250 members of the House of the Representative "
+=======
+    "id": 169,
+    "question": "A major factor that differentiates International politics from domestic politics is that International politics ",
+    "option": {
+      "a": "has no centralized institution of government ",
+      "b": "cannot enforce sanctions  ",
+      "c": "has centralized organs of administration  ",
+      "d": "has a central law making body"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -336,6 +349,7 @@
     "examyear": "2012"
   },
   {
+<<<<<<< Updated upstream
     "id": 158,
     "question": "The most important aspect of political participation in a democracy is  ",
     "option": {
@@ -371,6 +385,11 @@
     "id": 182,
     "question": "Which of these is not an instrument of foreign policy",
     "option": {
+=======
+    "id": 182,
+    "question": "Which of these is not an instrument of foreign policy",
+    "option": {
+>>>>>>> Stashed changes
       "a": "war    ",
       "b": "diplomacy  ",
       "c": "subversion   ",
@@ -384,6 +403,7 @@
     "examyear": "2013"
   },
   {
+<<<<<<< Updated upstream
     "id": 194,
     "question": "In judicial administration, the term ‘the bench’ refers to the  ",
     "option": {
@@ -391,11 +411,21 @@
       "b": "litigants    ",
       "c": "registrars",
       "d": "judges"
+=======
+    "id": 276,
+    "question": "An electoral officer charged with the responsibility of announcing election result at the local government level is known as",
+    "option": {
+      "a": "administrative secretary.",
+      "b": "chairman.",
+      "c": "polling clerk",
+      "d": "presiding officer"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
     "answer": "d",
     "solution": "",
+<<<<<<< Updated upstream
     "examtype": "post-utme",
     "examyear": "2013"
   },
@@ -627,6 +657,15 @@
     "id": 320,
     "question": "The process of learning the norms and values associated with a political system is referred to as political",
     "option": {
+=======
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 320,
+    "question": "The process of learning the norms and values associated with a political system is referred to as political",
+    "option": {
+>>>>>>> Stashed changes
       "a": "socialization",
       "b": "indoctrination",
       "c": "culture",
@@ -640,6 +679,7 @@
     "examyear": "1999"
   },
   {
+<<<<<<< Updated upstream
     "id": 323,
     "question": "Legislative control over delegated legislation can be performed through",
     "option": {
@@ -695,6 +735,15 @@
       "b": "Sir Donald Cameron",
       "c": "Sir Frederick Lugard",
       "d": "Sir Arthur Richards"
+=======
+    "id": 370,
+    "question": "A disadvantage of the one-party system is that it",
+    "option": {
+      "a": "emphasizes political differences",
+      "b": "makes accountability difficult",
+      "c": "negates freedom of association",
+      "d": "delays decision - making"
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -704,6 +753,7 @@
     "examyear": "2016"
   },
   {
+<<<<<<< Updated upstream
     "id": 370,
     "question": "A disadvantage of the one-party system is that it",
     "option": {
@@ -723,6 +773,11 @@
     "id": 403,
     "question": "A state with a hegemonic political party is one in which",
     "option": {
+=======
+    "id": 403,
+    "question": "A state with a hegemonic political party is one in which",
+    "option": {
+>>>>>>> Stashed changes
       "a": "there is one dominant party",
       "b": "there is no opposition party",
       "c": "there is only one party",
@@ -736,6 +791,7 @@
     "examyear": "2016"
   },
   {
+<<<<<<< Updated upstream
     "id": 406,
     "question": "Nigeria’s membership of the UN complements her foreign policy in the area of",
     "option": {
@@ -752,6 +808,8 @@
     "examyear": "2016"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 414,
     "question": "The legislative body of the United States of America is the",
     "option": {
@@ -768,6 +826,7 @@
     "examyear": "2010"
   },
   {
+<<<<<<< Updated upstream
     "id": 451,
     "question": "The prominent role Nigeria played in the UN in the 70’s earned her.",
     "option": {
@@ -791,6 +850,15 @@
       "b": "socialism",
       "c": "communalism",
       "d": "communism."
+=======
+    "id": 475,
+    "question": "An intra-party activity for the selection of candidates for elective positions is known as",
+    "option": {
+      "a": "primary election",
+      "b": "general election",
+      "c": "mid-term election",
+      "d": "bye-election."
+>>>>>>> Stashed changes
     },
     "section": "",
     "image": "",
@@ -800,6 +868,7 @@
     "examyear": "2012"
   },
   {
+<<<<<<< Updated upstream
     "id": 471,
     "question": "The bringing of a session of a parliament to an end through royal proclamation is known as",
     "option": {
@@ -1008,6 +1077,8 @@
     "examyear": "1988"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 629,
     "question": "In the Oyo traditional political system, the Alaafin of Oyo was elected or chosen by a group known as the",
     "option": {
@@ -1024,17 +1095,18 @@
     "examyear": "1988"
   },
   {
-    "id": 634,
-    "question": "The creation of the office of the Prime Minister in Nigeria was accomplished in",
+    "id": 741,
+    "question": "In 1987, Nigeria attained a federation of __",
     "option": {
-      "a": "1951",
-      "b": "1954",
-      "c": "1957",
-      "d": "1959"
+      "a": "19 states",
+      "b": "  12 states",
+      "c": "21 states",
+      "d": "30 states."
     },
     "section": "",
     "image": "",
     "answer": "c",
+<<<<<<< Updated upstream
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -1212,6 +1284,9 @@
     "image": "",
     "answer": "d",
     "solution": " In the Emirate system, the Emir of Gwandu controlled the western section.",
+=======
+    "solution": "In 1987, Nigeria had 21 states.",
+>>>>>>> Stashed changes
     "examtype": "UTME",
     "examyear": "2017"
   },
@@ -1232,6 +1307,7 @@
     "examyear": "2017"
   },
   {
+<<<<<<< Updated upstream
     "id": 773,
     "question": "Bills passed by the legislature usually requires the approval of the following except_______",
     "option": {
@@ -1392,6 +1468,8 @@
     "examyear": "2019"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 862,
     "question": "Amendment of the U. N. O. charter is the duty of the ........",
     "option": {
@@ -1424,6 +1502,7 @@
     "examyear": "2019"
   },
   {
+<<<<<<< Updated upstream
     "id": 888,
     "question": "A characteristic feature of communism is __________",
     "option": {
@@ -1440,6 +1519,8 @@
     "examyear": "2020"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 899,
     "question": "The application of the rule of law may be constrained by ________",
     "option": {
@@ -1452,6 +1533,7 @@
     "image": "",
     "answer": "d",
     "solution": "The rule of law can be constrained by invoking emergency powers. For instance, if there is a war, a state of emergency could be declared. Bad leaders may be enthroned and citizens may be denied of some of their rights.",
+<<<<<<< Updated upstream
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -1468,10 +1550,13 @@
     "image": "",
     "answer": "a",
     "solution": "Feudalism was a system that primarily relied on agriculture as its economic foundation, with the majority of the population engaged in farming to support their livelihoods and those of their lords.",
+=======
+>>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2020"
   },
   {
+<<<<<<< Updated upstream
     "id": 951,
     "question": "One of the duties of the legislature is to_______",
     "option": {
@@ -1488,6 +1573,8 @@
     "examyear": "2021"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 957,
     "question": "The Security Council of the United Nations Organization has",
     "option": {
@@ -1504,6 +1591,7 @@
     "examyear": "2022"
   },
   {
+<<<<<<< Updated upstream
     "id": 975,
     "question": "The basic unit of every political organization in the Igbo pre-colonial era was the",
     "option": {
@@ -1552,6 +1640,8 @@
     "examyear": "2022"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 1021,
     "question": "Which of the following was a significant trade commodity in the pre-colonial Kingdom of Benin?",
     "option": {
@@ -1568,6 +1658,7 @@
     "examyear": "2023"
   },
   {
+<<<<<<< Updated upstream
     "id": 1022,
     "question": "__________ was a major factor that contributed to the rise of the Sokoto Caliphate.",
     "option": {
@@ -1596,10 +1687,25 @@
     "image": "",
     "answer": "c",
     "solution": "The Kano riots were a series of violent clashes in Northern Nigeria in 1953. The riots were sparked by political and ethnic tensions over proposed reforms in the Northern House of Assembly. The British colonial authorities suspended Nigeria's constitution and declared a state of emergency to restore order, leading to the dissolution of democratic regional governments. The Kano riots highlighted the challenges Nigeria faced during the transition from colonial rule to self-governance.",
+=======
+    "id": 1030,
+    "question": "Nigeria shares its longest border with which West African country?",
+    "option": {
+      "a": "Niger",
+      "b": "Chad",
+      "c": "Ghana",
+      "d": "Benin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Nigeria shares its longest border with Niger. The border between Nigeria and Niger is approximately 1,497 kilometers long, making it Nigeria's longest international border.",
+>>>>>>> Stashed changes
     "examtype": "utme",
     "examyear": "2023"
   },
   {
+<<<<<<< Updated upstream
     "id": 1028,
     "question": "The civil service in Nigeria operates under the principle of",
     "option": {
@@ -1744,6 +1850,8 @@
     "examyear": "2001"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 1132,
     "question": "The major factor that influenced the formulation of Nigerian foreign policy in the First Republic was",
     "option": {
@@ -1760,6 +1868,7 @@
     "examyear": "2001"
   },
   {
+<<<<<<< Updated upstream
     "id": 1136,
     "question": "The first Nigerian Permanent Representative to the United Nations was",
     "option": {
@@ -1920,6 +2029,8 @@
     "examyear": "2003"
   },
   {
+=======
+>>>>>>> Stashed changes
     "id": 1219,
     "question": "One of the legacies of pre-colonial Nigeria destroyed by the British was the",
     "option": {
@@ -1934,6 +2045,7 @@
     "solution": "One of the legacies of pre-colonial Nigeria destroyed by the British was the indigenous cultures of the people.\n\nWhen British people first came to Nigeria, they saw and regarded many aspects of the peoples' way of life as crude and ungodly. They then destroyed and replaced them with their own. Such were religion, mode of dressing, etc.",
     "examtype": "utme",
     "examyear": "2003"
+<<<<<<< Updated upstream
   },
   {
     "id": 1232,
@@ -2254,5 +2366,7 @@
     "solution": "In many constitutional democracies, while citizens generally enjoy a wide range of rights, these rights can be curtailed in certain circumstances. One common legal provision is that upon conviction of a serious crime, certain rights (such as the right to vote or hold public office) may be withdrawn or limited for the duration of the sentence or as stipulated by law.",
     "examtype": "utme",
     "examyear": "2015"
+=======
+>>>>>>> Stashed changes
   }
 ]

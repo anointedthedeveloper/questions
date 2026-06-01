@@ -480,6 +480,22 @@
     "examyear": "2011"
   },
   {
+    "id": 94,
+    "question": "When a 2kg body is at a height 5m above the floor, its velocity  is 4m/s. What is its total energy  at this height? (acceleration due to gravity = 10m/s2)  ",
+    "option": {
+      "a": "80J  ",
+      "b": "00J  ",
+      "c": "  116J  ",
+      "d": " 180J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 96,
     "question": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)  ",
     "option": {
@@ -1968,6 +1984,22 @@
     "examyear": "2021"
   },
   {
+    "id": 454,
+    "question": "The lowest note emitted by a stretched string has a frequency of 40Hz. How many overtones are there between 40Hz and 180Hz?",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "There are 3 overtones between 40Hz and 180Hz (specifically at 80Hz, 120Hz, and 160Hz).",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 456,
     "question": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a?",
     "option": {
@@ -2732,6 +2764,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774296034/ALOC-Questions/Physics/2004/PHYSICS_2004_Q_29_hfrs8z.png",
     "answer": "a",
     "solution": "Given information:\n\nForce 1: 4N (horizontal, pointing left)\nForce 2: 10N (horizontal, pointing right)\nForce 3: 8N (at 60° above horizontal, pointing right-upward)\nForce 4: 6N (at 60° below horizontal, pointing right-downward)\n\nSolution:\nStep 1: Resolve forces into horizontal components\nTaking rightward as positive direction:\n4N force (horizontal left):\nHorizontal component = -4 N\n10N force (horizontal right):\nHorizontal component = +10 N\n8N force (at 60° above horizontal):\nHorizontal component = 8 cos(60°) = 8 × 0.5 = 4 N\n6N force (at 60° below horizontal):\nHorizontal component = 6 cos(60°) = 6 × 0.5 = 3 N\nStep 2: Calculate net horizontal force\nNet horizontal force = -4 + 10 + 4 + 3\nNet horizontal force = 13 N (rightward)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 634,
+    "question": "A person can focus an object only when it lies within 200cm from him. Which spectacles should be used to increase his maximum distance of distinct vision infinity",
+    "option": {
+      "a": "Convex lens",
+      "b": "Binoculars",
+      "c": "Concave lens",
+      "d": "Plane glasses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nFar point of the person = 200 cm\nDesired object distance = infinity\n\nStep 1: Identify the defect\nThe inability to see distant objects clearly indicates myopia (nearsightedness).\n\nStep 2: Principle of correction\nA corrective lens must form a virtual image of an object at infinity at the person’s far point (200 cm), so the eye can focus it.\n\nStep 3: Apply lens formula\nUsing the lens formula:\n1/f = 1/v - 1/u\nWhere:\nObject distance, u = infinity\nImage distance, v = -200 cm (virtual image, same side as object)\n1/f = 1/(-200) - 1/infinity = -1/200\nf = -200 cm\nNegative focal length indicates a diverging (concave) lens.",
     "examtype": "utme",
     "examyear": "2004"
   },
@@ -4620,6 +4668,22 @@
     "image": "",
     "answer": "b",
     "solution": "volume with temperature (Mercury thermometers rely on thermal expansion of volume.)",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1132,
+    "question": "\nI. The colour of light depends on its frequency\nII. When white light is dispersed by a triangular prism, yellow is deviated more than green\nIII. Rainbows are formed when rains fall heavily\nWhich of the above statements is/are correct about dispersion and colours?",
+    "option": {
+      "a": " I and III only",
+      "b": "I only",
+      "c": " II and III only",
+      "d": "I and II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Color depends on frequency (I is true), but green is deviated more than yellow in a prism (II is false), and rainbows don't specifically require heavy rain - they just need sunlight and water droplets (III is false or misleading).",
     "examtype": "utme",
     "examyear": "2025"
   },

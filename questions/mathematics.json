@@ -1,5 +1,21 @@
 [
   {
+    "id": 2,
+    "question": "A girl walks 30m from a point P on  a bearing of 040 to a point Q. she   then walks 30m on a bearing of 140 to a point R. the bearing of R from P is ",
+    "option": {
+      "a": "90",
+      "b": "50 ",
+      "c": "45",
+      "d": "40"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 4,
     "question": "In how many different ways can the letters of the word GEOLOGY be arranged in order? ",
     "option": {
@@ -844,6 +860,22 @@
     "image": "",
     "answer": "b",
     "solution": "If 9<sup>2x−1</sup>/27<sup>x+1</sup> = 1\n \n⟹f 9<sup>2x−1</sup> = 27<sup>x+1</sup>\n(3<sup>2</sup>)<sup>2x−1</sup> = (3<sup>3</sup>)<sup>x + 1</sup>\n2(2x−1 )= 3(x+1) ⟹ 4x−2 = 3x+3\n4x − 3x = 3 + 2 ⟹ x = 5",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 239,
+    "question": "Triangle OPQ above is the solution of the inequalities",
+    "option": {
+      "a": "x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
+      "b": " y + x ≤ 0, y - x ≥ 0, x -1 ≥ 0",
+      "c": " x - 1 ≤ 0, y - x ≥ o, y + x ≥ 0",
+      "d": " x - 1 ≤ 0, y + x ≤ 0, y - x ≤ 0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699241/ALOC-Questions/Mathematics/2003/math_2003_q18_hgssa8.jpg",
+    "answer": "a",
+    "solution": "Lines bounding Δ OPQ\nOQ; y - x = 0\ny - x ≥ 0\nPQ; x + 1 = 0\nx + 1 ≥ = 0\nPO; y + x = 0\ny + x ≤ 0\n∴ x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -1904,6 +1936,22 @@
     "examyear": "2009"
   },
   {
+    "id": 529,
+    "question": "If x = {n<sup>2</sup>+1:n is a positive integer and 1 ≤ n ≤ 5},\nY = {5n:n is a positive integer and 1 ≤ n ≤ 5}, find x ∩ y.",
+    "option": {
+      "a": " {5,10}",
+      "b": "{5, 10, 15}",
+      "c": "{2, 5, 10}",
+      "d": "{5, 10, 15, 20}"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "X = {n<sup>2</sup> +1:n is a positive integer and 1 ≤ n ≤ 5}\nImplies X = {2, 5, 10, 17, 26} i.e. put n= 1, 2, 3, 4 and 5\nY = {5n:n is a positive integer and 1 ≤ n ≤ 5}\nPut X = 1, 2, 3, 4, and 5\nY = {5, 10, 15, 20, 25}\nX ∩ Y = {2, 5, 10, 17, 26} ∩ {5, 10, 15, 20, 25}\n= {5, 10}",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 530,
     "question": "I.S∩T∩W=S II. S ∪ T ∪ W = W\nIII. T ∩ W = S\nIf S⊂T⊂W, which of the above statements are true?",
     "option": {
@@ -2524,6 +2572,22 @@
     "image": "",
     "answer": "d",
     "solution": "Volume of cuboid = L x b x h\n\n= 0.76cm x 2.6cm x 0.82cm\n\n= 1.62cm<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 746,
+    "question": "The distance between the point (4, 3) and the intersection of y = 2x + 4 and y = 7 - x is",
+    "option": {
+      "a": "√13",
+      "b": "3√2",
+      "c": "√26",
+      "d": "10√5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "P<sub>1</sub> (4, 3), P<sub>2</sub> (x, y)\n\ny = 2x + 4 .....(1)\n\ny = 7 - x .....(2)\n\nSubstitute (2) in (1)\n\n7 - x = 2x + 4\n\n7 - 4 = 2x + x\n\n3 = 3x\n\nx = 1\n\nSubstitute in eqn (2)\n\ny = 7 - x\n\ny = 7 - 1\n\ny = 6\n\nP<sub>2</sub> (1, 6)\n\nDistance between 2 points is given as\n\nD =√ (x<sub>2</sub>−x<sub>1</sub>)<sup>2</sup>+(y<sub>2</sub> − y<sub>1</sub>)\n\n\nD = √(1−4)<sup>2</sup>+(6−3)<sup>2</sup>\n\n\nD = √(−3)<sup>2</sup>+(3)<sup>2</sup>\n\n\nD = √9+9\n\n\nD = √18\n\n\nD = √9×2\n\n\nD = 3√2",
     "examtype": "utme",
     "examyear": "2012"
   },
@@ -3358,6 +3422,22 @@
     "solution": "P( tail on a coin) = 1/2\nEven numbers on a care 2, 4 and 6\n\n  P( even number on a die) = 3/6 = 1/2\nP( tail on a coin and even number on a die) = 1/2 x 1/2\n = 1/4",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 969,
+    "question": "Make q the subject of the formula in the equation mn/a<sup>2</sup>− pq/b<sup>2</sup> = 1",
+    "option": {
+      "a": "q=(b<sup>2</sup> (mn-a<sup>2</sup>))/(a<sup>2</sup> p)",
+      "b": "q=(m<sup>2</sup> n-a<sup>2</sup>)/p<sup>2</sup> ",
+      "c": "q=(mn-2b<sup>2</sup>)/a<sup>2</sup> ",
+      "d": ""
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mi>m</mi>\n      <mi>n</mi>\n    </mrow>\n    <msup>\n      <mi>a</mi>\n      <mn>2</mn>\n    </msup>\n  </mfrac>\n  <mo>&#x2212;<!-- − --></mo>\n  <mfrac>\n    <mrow>\n      <mi>p</mi>\n      <mi>q</mi>\n    </mrow>\n    <msup>\n      <mi>b</mi>\n      <mn>2</mn>\n    </msup>\n  </mfrac>\n  <mo>=</mo>\n  <mn>1</mn>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "(mn)/a<sup>2</sup> − (pq)/b<sup>2</sup> = 1\n \n(mn)/a<sup>2</sup> − 1 = (pq)/b<sup>2</sup>\n(mn)−a<sup>2</sup>/a<sup>2</sup>=pq/b<sup>2</sup>\npq = b<sup>2</sup>(mn−a<sup>2</sup>)/a<sup>2</sup>\nq = b<sup>2</sup>(mn−a<sup>2</sup>)a<sup>2</sup>p",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 972,

@@ -17488,6 +17488,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1186,
+    "question": "The third term of an A.P is 6 and the fifth term is 12. Find the sum of its first twelve terms",
+    "option": {
+      "a": " 201",
+      "b": "144",
+      "c": "198",
+      "d": " 72"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "T<sub>3</sub>  = 6\n\nT<sub>5</sub>  = 12\n\nS<sub>12</sub>  = ?\n\nT<sub>n</sub>  = a + (n - 1)d\n\n⇒ T<sub>3</sub>  = a + 2d = 6 ----- (i)\n\n⇒ T<sub>5</sub>  = a + 4d = 12 ----- (ii)\n\nSubtract equation (ii) from (i)\n\n⇒ -2d = -6\n\n⇒ d(−6/−2) = 3\n\nSubstitute 3 for d in equation (i)\n\n⇒ a + 2(3) = 6\n\n⇒ a + 6 = 6\n\n⇒ a = 6 - 6 = 0\n\nS<sub>n</sub>  = (n(2a+(n−1)d))/2\n⇒ S<sub>12</sub>  = (12(2×0+(12−1)3)/2\n⇒ S<sub>12</sub>  = 6(0 + 11 x 3)\n\n⇒ S<sub>12</sub>  = 6(33)\n\n∴ S<sub>12</sub>  = 198",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1187,
     "question": "Find the value of 110111<sub>2</sub>  + 10100<sub>2</sub> ",
     "option": {

@@ -320,6 +320,22 @@
     "examyear": "2009"
   },
   {
+    "id": 51,
+    "question": "A devise that converts sound energy into electrical energy is ",
+    "option": {
+      "a": "the horn of a motor car ",
+      "b": "An AC generator ",
+      "c": "A microphone ",
+      "d": "Telephone earpiece "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 53,
     "question": "The mode of heat transfer which does not require material medium is",
     "option": {
@@ -800,6 +816,22 @@
     "examyear": "2012"
   },
   {
+    "id": 117,
+    "question": "A ship sinks to the bottom of a 250m deep lake. The atmospheric pressure over the lake is 1.03 x 105 Pa. Taking the density of water in the lake to be 1000 kg/m3, calculate the pressure exerted on the boat. [acceleration due to gravity = 10 m/s2] ",
+    "option": {
+      "a": "2.60 x 106Pa  ",
+      "b": "2.50 x 106Pa ",
+      "c": "2.60 x 105Pa ",
+      "d": "1.03 x 105Pa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 122,
     "question": "A 25N force pulls a 2.0kg body up a 300 inclined plane. If force is parallel to the plane and the body moves up the plane at constant velocity. Calculate the magnitude of the frictional force between the body and the plane. [g =10m/s2]",
     "option": {
@@ -1148,6 +1180,22 @@
     "image": "",
     "answer": "c",
     "solution": "All three processes (using soft iron, laminating the core, and designing an efficient core) help reduce energy losses in transformers.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 174,
+    "question": "The two liquids which are often used in thermometer on experiment basic is known as",
+    "option": {
+      "a": "Mercury only",
+      "b": " Alcohol and Water",
+      "c": "Mercury and Alcohol",
+      "d": "Alcohol only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Mercury and alcohol are often used in THERMOMETER\n\nNote:Water is never allowed to be used in thermometer because, it doesn’t expand uniformly",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -4252,6 +4300,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\n\nMass 1 (m₁) = 5.0 kg\nMass 2 (m₂) = 10.0 kg\nDistance (r) = 0.3 m\nGravitational constant (G) = 6.67 × 10⁻¹¹ Nm²/kg²\nForce (F) = ?\n\nUsing Newton's Law of Universal Gravitation:\nF = G(m₁m₂)/r²\nSubstituting values:\nF = (6.67 × 10⁻¹¹ × 5.0 × 10.0)/(0.3)²\nF = (6.67 × 10⁻¹¹ × 50)/0.09\nF = (333.5 × 10⁻¹¹)/0.09\nF = 3335 × 10⁻¹¹/0.09\nF = 3.71 × 10⁻⁸ N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 755,
+    "question": "A reservoir 500 m deep is filled with a fluid of density 850 kgm⁻³. If the atmospheric pressure is 1.05 × 10⁵ Nm⁻², the pressure at the bottom of the reservoir is. [g = 10ms⁻²]",
+    "option": {
+      "a": "4.72 × 10⁶ Nm⁻²",
+      "b": "4.36 × 10⁶ Nm⁻²",
+      "c": "4.28 × 10⁶ Nm⁻²",
+      "d": "4.25 × 10⁶ Nm⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nDepth (h) = 500 m\nDensity of fluid (ρ) = 850 kg/m³\nAtmospheric pressure (P₀) = 1.05 × 10⁵ N/m²\ng = 10 m/s²\nPressure at bottom (P) = ?\n\nFormula for pressure at depth:\nP = P₀ + ρgh\nwhere:\n\nP₀ = atmospheric pressure\nρgh = pressure due to fluid column\n\nStep 1: Calculate pressure due to fluid column\nρgh = 850 × 10 × 500\nρgh = 850 × 5000\nρgh = 4,250,000 N/m²\nρgh = 4.25 × 10⁶ N/m²\nStep 2: Calculate total pressure at bottom\nP = P₀ + ρgh\nP = 1.05 × 10⁵ + 4.25 × 10⁶\nP = 0.105 × 10⁶ + 4.25 × 10⁶\nP = 4.355 × 10⁶ N/m²\nP ≈ 4.36 × 10⁶ N/m²",
     "examtype": "utme",
     "examyear": "2007"
   },

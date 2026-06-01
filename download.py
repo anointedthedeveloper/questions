@@ -62,11 +62,14 @@ PROGRESS_FILE = "progress.json"
 MAX_ROUNDS = 500
 NO_NEW_LIMIT = 40  # needs 40 consecutive empty rounds before marking done — API is random
 RATE_LIMIT = 58   # per key per minute
-DELAY = 0.05      # minimal delay — 100 keys gives 5800 req/min capacity
+DELAY = 0.05      # minimal delay
 
-# How many parallel requests to fire per round per subject
-# 200 keys / 24 subjects = ~8 keys per subject, use 20 for max speed
-REQUESTS_PER_ROUND = 20
+# Auto-scale parallel requests based on how many keys we have.
+# Each subject gets an equal share of keys, floored to at least 1, capped at 50.
+REQUESTS_PER_ROUND = max(1, min(50, len(API_KEYS) // len(SUBJECTS)))
+print(f"[config] {REQUESTS_PER_ROUND} parallel requests/round per subject "
+      f"({REQUESTS_PER_ROUND * len(SUBJECTS)} total concurrent | "
+      f"{len(API_KEYS) * RATE_LIMIT} req/min capacity)")
 
 # One worker per subject — all subjects run in parallel
 WORKERS = len(SUBJECTS)

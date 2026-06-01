@@ -5280,6 +5280,22 @@
     "examyear": "2019"
   },
   {
+    "id": 356,
+    "question": "An alternating current can induce voltage because it has",
+    "option": {
+      "a": " ripple value",
+      "b": "varying magnetic field",
+      "c": "weaker magnetic field than direct current",
+      "d": "high peak value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "An alternating current can induce voltage because it produces a varying (changing) magnetic field, which according to Faraday's Law causes electromagnetic induction.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 358,
     "question": "During the transformation of matter from the solid to the liquid state, the heat supplied does not produce a temperature increase because",
     "option": {

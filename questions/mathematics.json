@@ -16672,6 +16672,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1161,
+    "question": "Determine the area of the region bounded by y = 2x<sup>2</sup> + 10 and Y = 4x + 16\n.",
+    "option": {
+      "a": "18",
+      "b": "−10/3",
+      "c": " 44/3",
+      "d": "64/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To find the point of intersection, equate the two equations\n\n⇒ 2x<sup>2</sup> + 10 = 4x + 16\n\n⇒ 2x<sup>2</sup>  + 10 - 4x - 16 = 0\n\n⇒ 2x<sup>2</sup>  - 4x - 6 = 0\n\nFactorize\n\n⇒ 2(x + 1)(x - 3) = 0\n\n∴ x = -1 or 3\n\nThe curves will intersect at -1 and 3\n\n\nArea = ∫<sup>b</sup> <sub>a</sub>  [upper function] - [lower function] dx\n\n \n\n= ∫<sup>3</sup> <sub>1</sub> 4x + 16 − (2x<sup>2</sup>+10)dx\n= ∫<sup>3</sup> <sub>1</sub> − 2x<sup>2</sup> + 4x + 6dx\n= ((−2x<sup>3</sup>)/3 + (2x<sup>2</sup>) + 6x)<sup>3</sup> <sub>1</sub>\n= ((−2(3)<sup>3</sup>)/3 + 2(3)<sup>2</sup> + 6(3)) − ((−2(−1)<sup>3</sup>)/3 + 2(−1)<sup>2</sup> + 6(−1))\n= 18 -  (10/3)\n= 18 + 10/3\n= 64/3\n\n ",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1162,
     "question": "Find the value of y if 402<sub>y</sub> =102<sub>ten</sub>",
     "option": {

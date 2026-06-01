@@ -5,7 +5,6 @@ import time
 import threading
 import socket
 import ctypes
-from queue import Queue
 from dotenv import dotenv_values
 
 ES_CONTINUOUS        = 0x80000000
@@ -302,23 +301,13 @@ def process_subject(subject, progress):
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 progress = load_progress()
 
-# split subjects into batches of WORKERS
-queue = Queue()
-for s in SUBJECTS:
-    queue.put(s)
-
-def worker():
-    while not queue.empty():
-        try:
-            subject = queue.get_nowait()
-        except Exception:
-            break
-        process_subject(subject, progress)
-        queue.task_done()
-
 prevent_sleep()
 prevent_shutdown()
-threads = [threading.Thread(target=worker) for _ in range(WORKERS)]
+# One thread per subject — all 24 run fully in parallel
+threads = [
+    threading.Thread(target=process_subject, args=(s, progress), daemon=True)
+    for s in SUBJECTS
+]
 for t in threads:
     t.start()
 for t in threads:

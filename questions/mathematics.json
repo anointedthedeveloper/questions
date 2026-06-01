@@ -542,5 +542,69 @@
     "solution": "θ = 30 x 2(∠ at center twice ∠ at θ)\n∴ θ = 60°\nLength of arc = θ/360 x 2πr = 60/360 x 2 x 22/7 x 21/1 = 22cm\n \n \n \n ",
     "examtype": "utme",
     "examyear": "2003"
+  },
+  {
+    "id": 989,
+    "question": "If P(2, m) is the midpoint of the line joining Q(m, n) and R(n, -4), find the values of m and n.",
+    "option": {
+      "a": " m = 0, n = 4",
+      "b": "m = 4, n = 0",
+      "c": " m = 2, n = 2",
+      "d": "m = -2, n = 4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Q(m, n) and R(n, -4)\n\nMidpoint : P(2, m)\n\n⟹ (m+n/2,n − 4/2 )= (2,m)\nm + n = 2 × 2 ⟹ m + n = 4...(i)\nn − 4 = 2 × m ⟹ n − 4 =2m...(ii)\nSolving (i) and (ii) simultaneously,\n\nm = 0 and n = 4.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1105,
+    "question": "Find the length of a chord 3cm from the centre of a circle of radius 5cm",
+    "option": {
+      "a": "8cm",
+      "b": " 5.6cm",
+      "c": "7cm",
+      "d": "6.5cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Using pythagoras formula:\n\nHyp<sup>2</sup>\n = adj<sup>2</sup>\n + opp<sup>2</sup>\n5<sup>2</sup>\n = opp<sup>2</sup>\n + 3<sup>2</sup>\n \n\n5<sup>2</sup>\n - 3<sup>2</sup>\n = adj<sup>2</sup>\n4 = adj\n\nlength of the chord = 2 * 4 = 8cm",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1281,
+    "question": "The area of a circle of radius 4cm is equal to (Take π = 3.142 )",
+    "option": {
+      "a": "10.3 cm<sup>2</sup>",
+      "b": "15.7 cm<sup>2</sup>",
+      "c": "50.3 cm<sup>2</sup>",
+      "d": "17.4 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Area of a circle (A) = πr<sup>2</sup>\n\nRadius = 4cm\n\nπ = 3.142\n\nA = 3.142 × (4)<sup>2</sup>\n\n= 3.142 × 16\n\n= 50.272\n\nA = 50.3 cm<sup>2</sup> (1dp)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 805,
+    "question": "The pie chart above shows the statistical distribution of 80 students in five subjects in an examination. Calculate how many student offer Mathematics.",
+    "option": {
+      "a": "30",
+      "b": "11",
+      "c": "50",
+      "d": "20"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716131494/ALOC-Questions/Mathematics/2013/2013_MATH_JAMB_Q36_cdzvxs.jpg",
+    "answer": "b",
+    "solution": "5x° + (16x - 24)° + 5x° + (4x + 12)° + (6x + 12)° = 360°\n\n36x° - 24 + 12 + 12 = 360°\n\n36x° = 360°\n\nx° = 360°/36\n\n\n= 10°\n\nThus, the angle of sector representing Mathematics is 5 x 10° = 50°. Hence the number of students who offer mathematics is\n\n50/(360) × 80 ≈ 11",
+    "examtype": "utme",
+    "examyear": "2013"
   }
 ]

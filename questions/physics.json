@@ -542,5 +542,85 @@
     "solution": "Given information:\n\nDiameter of wire, d = yπ m\nLoad (weight), F = y² N\nStress, σ = ?\n\nSolution:\nIf d = y/π m, then r = y/(2π) m\nA = πr² = π[y/(2π)]² = π × y²/(4π²) = y²/(4π) m²\nσ = F/A = y²÷[y²/(4π)] = y² × 4π/y² = 4π Nm⁻129",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 546,
+    "question": "From the diagram above, if the potential differences across the resistor, capacitor, and inductor are 30V, 120V, and 60V, respectively, the effective potential difference is",
+    "option": {
+      "a": "81",
+      "b": "67",
+      "c": "59",
+      "d": "73"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765615031/ALOC-Questions/Physics/2023/physics_2023-Q47_cb6kfj.png",
+    "answer": "b",
+    "solution": "Given information:\n\nVoltage across resistor, VR = 30 V\nVoltage across capacitor, VC = 120 V\nVoltage across inductor, VL = 60 V\nEffective potential difference (supply voltage), V = ?\n\nSolution:\nStep 1: Apply voltage equation for RLC series circuit\nIn an a.c. series circuit, the effective voltage is given by:\nV² = VR² + (VL - VC)²\nStep 2: Substitute the known values\nV² = 30² + (60 - 120)²\nV² = 30² + (-60)²\nV² = 900 + 3600\nStep 3: Calculate the effective voltage\nV² = 4500\nV = √4500\nV = 67.08 V\nV ≈ 67 V",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 70,
+    "question": " For  a particle having an x co-ordinate that varies in time according to the express ion x = 4t -2t2 The instantaneous velocity for of the particle at t = 2.5s is:",
+    "option": {
+      "a": "12m/s ",
+      "b": "6m/s ",
+      "c": "0m/s ",
+      "d": "10m/s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 265,
+    "question": "What is the speed of a body vibrating at 50 cyclic per second",
+    "option": {
+      "a": "100πrads⁻¹",
+      "b": "200πrads⁻¹",
+      "c": "50πrads⁻¹",
+      "d": "400πrads⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nFrequency (f) = 50 cycles per second = 50 Hz\nAngular speed (ω) = ?\n\n\nFormula:\nω = 2πf\nSubstituting values:\nω = 2π × 50\nω = 100π rad/s",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 216,
+    "question": "A satellite revolving around the earth is kept on its orbit by?",
+    "option": {
+      "a": "Centripetal forces only",
+      "b": "Centripetal and frictional forces",
+      "c": "Centrifugal forces only",
+      "d": "Centripetal and centrifugal forces"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The concept of centrifugal force can be applied in rotating devices, such as centrifuges, centrifugal pumps, centrifugal governors, and centrifugal clutches, and in centrifugal railways, planetary orbits and banked curves, when they are analyzed in a rotating coordinate system",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 12,
+    "question": "The most suitable type of mirror used for the construction of search light is the: ",
+    "option": {
+      "a": "concave mirror ",
+      "b": "Convex mirror ",
+      "c": "Spherical mirror ",
+      "d": "Parabolic Mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
   }
 ]

@@ -1392,6 +1392,22 @@
     "examyear": "2017"
   },
   {
+    "id": 232,
+    "question": "Calculate the electric field intensity between two plates of potential difference 6.5V when separated by a distance of 35cm.",
+    "option": {
+      "a": "18.57 NC⁻¹",
+      "b": "53.06 NC⁻¹",
+      "c": "2.28 NC⁻¹",
+      "d": "0.80 NC⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nPotential difference (V) = 6.5V\nDistance between plates (d) = 35cm = 0.35m\nElectric field intensity (E) = ?\n\nFormula:\nE = V/d\nSubstituting values:\nE = 6.5/0.35\nE = 18.57 V/m or NC⁻¹\nNote: Electric field units V/m and NC⁻¹ are equivalent.\n\nThe electric field intensity between the two plates is 18.57 NC⁻¹.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 234,
     "question": "Calculate the upthrust on an object of volume 50cm³ which is immersed in liquid of density 10³ kgm⁻³ [g = 10ms⁻²]",
     "option": {
@@ -2828,6 +2844,22 @@
     "image": "",
     "answer": "a",
     "solution": "Vapour pressure rises exponentially with temperature because molecular kinetic energy increases, allowing more molecules to escape the liquid phase. This exponential relationship means the increase is non-linear, accelerating at higher temperatures.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 481,
+    "question": "The potential energy in an elastic string of force constant k, which has an extension X is?",
+    "option": {
+      "a": "kX",
+      "b": " KX²",
+      "c": "½KX²",
+      "d": ". ½K"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Recall Hooke's Law\nFor an elastic material:\nF = kX\nWhere:\n\nF = restoring force\nk = force constant (spring constant)\nX = extension\n\nStep 2: Derive potential energy\nPotential energy stored in an elastic string is the work done in stretching it:\nE = ∫F dx\nE = ∫kx dx (from 0 to X)\nStep 3: Integrate\nE = k∫x dx (from 0 to X)\nE = k[x²/2]₀ˣ\nE = k(X²/2 - 0)\nE = ½kX²",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -4576,6 +4608,22 @@
     "examyear": "2008"
   },
   {
+    "id": 819,
+    "question": "The fundamental property of a propagating wave which depends only on the source and not the medium of propagation is the?",
+    "option": {
+      "a": "wavelength",
+      "b": "harmonics",
+      "c": "frequency",
+      "d": "velocity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The property that depends only on the source and is independent of the medium is frequency.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 821,
     "question": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?",
     "option": {
@@ -5004,6 +5052,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nInitial number of atoms, N₀ = 10²⁰\nHalf‑life, T = 20 s\n\nSolution:\n\nStep 1: Calculate decay constant\nλ = ln 2 / T = 0.693 / 20 = 0.03465 s⁻¹\n\nStep 2: Initial activity\nActivity A₀ = λ N₀ = 0.03465 × 10²⁰ = 3.465 × 10¹⁸ s⁻¹\n\nStep 3: Number of disintegrations in first second\nSince the time interval (1 s) is much smaller than the half‑life, the activity remains nearly constant. Thus, the number of disintegrations ≈ A₀ × 1 s = 3.465 × 10¹⁸.",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 888,
+    "question": "A body of mass 12 kg traveling at 4.2 m s⁻¹ collides with a second body of mass 18 kg at rest. Calculate their common velocity if the two bodies coalesce after collision?",
+    "option": {
+      "a": "1.5 m s⁻¹",
+      "b": "1.4 m s⁻¹",
+      "c": "2.1 m s⁻¹",
+      "d": "1.7 m s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nMass m₁ = 12 kg, initial velocity u₁ = 4.2 m s⁻¹\nMass m₂ = 18 kg, initial velocity u₂ = 0 m s⁻¹\nThey coalesce (perfectly inelastic collision).\n\nSolution:\n\nStep 1: Conservation of momentum\nTotal initial momentum = m₁u₁ + m₂u₂ = 12 × 4.2 + 18 × 0 = 50.4 kg m s⁻¹\n\nStep 2: Total mass after collision\nM = m₁ + m₂ = 12 + 18 = 30 kg\n\nStep 3: Common velocity v\nv = Total initial momentum / M = 50.4 / 30 = 1.68 m s⁻¹ ≈ 1.7 m s⁻¹",
     "examtype": "utme",
     "examyear": "2009"
   },

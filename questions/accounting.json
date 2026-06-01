@@ -1280,6 +1280,22 @@
     "examyear": "2007"
   },
   {
+    "id": 467,
+    "question": "What will be the equity of the business?",
+    "option": {
+      "a": "N 12,800",
+      "b": "N 4,900",
+      "c": "N 8,200",
+      "d": "N 9,500."
+    },
+    "section": "Use the information below to answer question: Net loss [N2,300]; Capital [N10,500]; Liabilities [N7, 200]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 470,
     "question": "Calculate the balance in the bank statement",
     "option": {
@@ -1296,6 +1312,22 @@
     "examyear": "2007"
   },
   {
+    "id": 471,
+    "question": "What is the adjusted cash book balance?",
+    "option": {
+      "a": "N 14,680",
+      "b": "N 15,560",
+      "c": "N 16,440",
+      "d": "N17,000."
+    },
+    "section": "Use the Information below to answer questions: Balance as per cash book [N13, 560 ]; Unpresented cheques [N5, 120]; Uncredited lodgments [N2, 300] ; Dividend received not entered in the cash book  [N2, 000]; Bank charges [280 ]; Standing order payments [N600] Balance as per bank statement \t[?]",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 472,
     "question": "The fourth stage of the accounting information system is",
     "option": {
@@ -1307,6 +1339,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 475,
+    "question": "If Mr. Ajasin paid his creditors N 5 000 out of N 20 000 owed, what would be the effect of this transaction on the accounting equation?",
+    "option": {
+      "a": "A decrease .in the total liabilities and assets by N5 000.",
+      "b": "An increase in total liabilities and owners’ equity by N15 000.",
+      "c": "An increase in the total assets by N15 000",
+      "d": "A decrease in owners’ equity by N 5 000."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
@@ -1387,6 +1435,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 508,
+    "question": "The second and final call account was debited with",
+    "option": {
+      "a": "ordinary share capital account  N 187,500",
+      "b": "12% preference share capital  N  375,000",
+      "c": "bank account  N 187,500",
+      "d": "12% preference share capital account  N 187,500"
+    },
+    "section": "Use the information below to answer questions 43 and 44\t A company advertised and issued 750,000,12% preference shares of  N 1 each to be issued at  N 1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on pro-rata basis.",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -4348,6 +4412,22 @@
     "image": "",
     "answer": "d",
     "solution": "When you pay off a liability (e.g., cash is paid to settle a creditor), your cash (an asset) goes down and your liability is extinguished (goes down) by the same amount.",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1425,
+    "question": "Which of the following demonstrates the imprest system?",
+    "option": {
+      "a": " Float → expenses paid → cash in bank → float",
+      "b": "Float → cash from bank → expenses paid → float",
+      "c": " Float → expenses paid→ cash from bank → float",
+      "d": "Float → cash in bank → expenses paid → float"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Under the imprest system, you start with a fixed petty cash float. As expenses are paid out of that float, its balance declines. At the end of the period (or when replenishment is needed), you draw cash from the bank equal to the total expenses paid to restore the float back to its original amount.",
     "examtype": "utme",
     "examyear": "1997"
   },

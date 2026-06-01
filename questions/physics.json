@@ -9856,6 +9856,22 @@
     "examyear": "2007"
   },
   {
+    "id": 791,
+    "question": "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600µc across the field is",
+    "option": {
+      "a": "0.8j",
+      "b": "1.8j",
+      "c": "9.0j",
+      "d": "18.0j"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nPotential difference (V) = 3 kV = 3 × 10³ V = 3000 V\nCharge (Q) = 600 µC = 600 × 10⁻⁶ C = 6 × 10⁻⁴ C\nWork done (W) = ?\n\nFormula:\nWork done in moving a charge through a potential difference:\nW = QV\nSubstituting values:\nW = 6 × 10⁻⁴ × 3 × 10³\nW = 6 × 3 × 10⁻⁴⁺³\nW = 18 × 10⁻¹\nW = 1.8 J",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 792,
     "question": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1Ω, the resistivity is",
     "option": {
@@ -12460,6 +12476,22 @@
     "image": "",
     "answer": "c",
     "solution": "Pitch, loudness, and atmospheric pressure do not affect sound velocity. Wind traveling in the same direction of sound affects its velocity. wind can slow down or accelerate the speed of sound, depending on whether it is blowing in the same direction or in the opposite direction to the sound signal.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 1022,
+    "question": "The characteristic of a vibration that determines its intensity is the",
+    "option": {
+      "a": "Frequency",
+      "b": "Overtone",
+      "c": "Wavelength",
+      "d": "Amplitude"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The higher the amplitude of sound the larger the loudness of sound and the lower the amplitude of sound waves the softer the loudness of sound by this we get to know that the amplitude of a sound wave decides the loudness of sound or we can call it the intensity of sound.",
     "examtype": "utme",
     "examyear": "2012"
   },

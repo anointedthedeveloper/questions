@@ -176,6 +176,22 @@
     "examyear": "2013"
   },
   {
+    "id": 76,
+    "question": "Evaluate (2.813×10<sup>−3</sup>×1.063)/(5.637×10<sup>−2</sup>) reducing each number to two significant figures and leaving your answer in two significant figures.\u000b\n",
+    "option": {
+      "a": "0.056",
+      "b": "0.055",
+      "c": "0.054",
+      "d": "0.54"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>2.813</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <msup>\n        <mn>10</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>3</mn>\n        </mrow>\n      </msup>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1.063</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>5.637</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <msup>\n        <mn>10</mn>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "b",
+    "solution": "(2.813×10<sup>(−3)</sup>)×1.063)/(5.637×10<sup>(−2)</sup> ) = (0.002813×1.063)/0.05637 ≊(0.0028×1.1)/0.056=0.055\n\n\n\n",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
     "id": 77,
     "question": "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for N150,000. How much does he need to deposit?\n",
     "option": {
@@ -1024,6 +1040,22 @@
     "examyear": "2007"
   },
   {
+    "id": 470,
+    "question": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus off P",
+    "option": {
+      "a": "It is a semi circle with ST as diameter",
+      "b": "It is a perpendicular bisector of St",
+      "c": "It is a quadrant of a circle with ST as diameter",
+      "d": "It is a straight line perpendicular to ST"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 490,
     "question": "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term.",
     "option": {
@@ -1600,6 +1632,22 @@
     "examyear": "2016"
   },
   {
+    "id": 899,
+    "question": "In how many ways can the word MACICITA be arranged?",
+    "option": {
+      "a": "8!/2!",
+      "b": "8!/3!2!",
+      "c": "8!/2!2!2!",
+      "d": " 8!"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "MACICITA is an eight letter word = 8!\n\nSince we have repeating letters, we have to divide to remove duplicates accordingly. There are 2A, 2C, 2I\n\n∴ 8!/2!2!2!",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 902,
     "question": "Find ∫(x<sup>2</sup>  + 3x − 5)dx",
     "option": {
@@ -1675,6 +1723,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 946,
+    "question": "Divide the L.C.M of 48, 64 and 80 by their H.C.F",
+    "option": {
+      "a": "20",
+      "b": "30",
+      "c": "48",
+      "d": "60"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2018"
@@ -1932,6 +1996,22 @@
     "image": "",
     "answer": "c",
     "solution": "200 mangoes at 4 for N2.50\n\n⟹\n Total cost price = 200/4 × N2.50\n= N 125.00\n\nSince 30 mangoes got spoilt ⟹\n Left over = 200 - 30\n\n= 170 mangoes \n\n170 mangoes at 2 for N 2.40\n\n⟹\n Total selling point = 170/2×N2.40\n= N 204.00\n\nProfit : N (204.00 - 125.00) = N 79.00\n\n% profit = 79/125×100\n= 63.2% profit.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1001,
+    "question": "Simplify 81<sup>(−3/4)</sup> x 25<sup>(1/2)</sup>\n x 243<sup>2/5</sup>",
+    "option": {
+      "a": "2/5",
+      "b": "3/5",
+      "c": "5/2",
+      "d": "5/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "81<sup>(−34)</sup>\n x 25<sup>(1/2)<?sub>\n x 243<sup>(2/5)</sup>\n= (4√81)<sup>−3</sup> × √25 × (5√243)<sup>2</sup>\n= 5×3<sup>2</sup>/3<sup>3</sup>= 5/3",
     "examtype": "utme",
     "examyear": "2019"
   },

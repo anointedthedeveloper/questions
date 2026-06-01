@@ -7952,6 +7952,22 @@
     "examyear": "2024"
   },
   {
+    "id": 567,
+    "question": "In a solar panel, solar beam is concentrated by using ",
+    "option": {
+      "a": "Concave mirror",
+      "b": "Convex mirror",
+      "c": "Plane mirror",
+      "d": "Triangular mirror"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Concave mirrors are designed to focus sunlight onto a specific area, enhancing the intensity of the solar energy. This concentrated energy can then be utilized for heating or converted into electricity in solar thermal and photovoltaic systems.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 568,
     "question": "A rectifier is a device that changes ",
     "option": {
@@ -8396,6 +8412,22 @@
     "image": "",
     "answer": "b",
     "solution": "Pressure is defined as force per unit area. In the context of gas molecules colliding with the walls of a container, the force exerted by the gas can be understood as the rate at which momentum is transferred to the walls.\nAs gas molecules collide with the walls, they change momentum, and this change occurs over time. Thus, the pressure can be described as the rate of change of momentum (change in momentum per collision multiplied by the number of collisions per second) divided by the area over which the collisions occur.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 599,
+    "question": "The energy in a moving car is an example of",
+    "option": {
+      "a": " Mechanical energy",
+      "b": "Electrical energy",
+      "c": "Potential energy",
+      "d": "Kinetic energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The energy in a moving car is an example of kinetic energy - energy possessed by an object due to its motion. While mechanical energy (which includes kinetic energy) is also technically correct, kinetic energy is the most specific and direct answer for describing the energy of a moving object.",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -11568,6 +11600,22 @@
     "examyear": "2008"
   },
   {
+    "id": 841,
+    "question": "The efficiency of the pulley system shown above is 80%. Find the effort E required to lift the load of 1200N",
+    "option": {
+      "a": "275N",
+      "b": "325N",
+      "c": "375N",
+      "d": "573N"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774432531/ALOC-Questions/Physics/2008/PHYSICS_2008_Q_42_icabeo.png",
+    "answer": "c",
+    "solution": "Step 1: Determine Velocity Ratio (V.R)\nFor a block and tackle system:\nV.R = Number of supporting strings = 4\nStep 2: Calculate Mechanical Advantage (M.A) using efficiency\nEfficiency = M.A/V.R\nRearranging:\nM.A = Efficiency × V.R\nM.A = 0.80 × 4\nM.A = 3.2\nStep 3: Calculate Effort\nM.A = Load/Effort\nRearranging:\nE = Load/M.A\nE = 1200/3.2\nE = 375N",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 842,
     "question": "The diagram above is the heating curve for a solid, QR is the?",
     "option": {
@@ -14380,6 +14428,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nElectromotive force (emf), E = 1.5 V\nExternal resistance, R = 1 Ω\nCurrent, I = 0.3 A\n\nSolution:\n\nStep 1: Relate emf, current, and resistances\nFor a cell with internal resistance r connected to an external resistor R, the current is given by:\nI = E / (R + r)\n\nStep 2: Rearrange to solve for r\nR + r = E / I\nr = (E / I) – R\n\nStep 3: Substitute the values\nr = (1.5 / 0.3) – 1\nr = 5 – 1 = 4 Ω",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1071,
+    "question": "Which of the following obeys ohms laws?",
+    "option": {
+      "a": "electroytes",
+      "b": "metals",
+      "c": "diode",
+      "d": "glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Metals obey Ohm's law because they maintain a constant resistance (at constant temperature), resulting in a linear relationship between voltage and current (V = IR). This makes metals ideal for wires, resistors, and other electrical components where predictable, linear behavior is required.",
     "examtype": "utme",
     "examyear": "2013"
   },

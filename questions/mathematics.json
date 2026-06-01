@@ -16368,6 +16368,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1156,
+    "question": "A boat sails 8 km north from P to Q and then sails 6 km west from Q to R. Calculate the bearing of R from P. Give your answer to the nearest degree.",
+    "option": {
+      "a": " 217<sup>o</sup>",
+      "b": "323<sup>o</sup>",
+      "c": "037<sup>o</sup>",
+      "d": "053<sup>o</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "tan θ = opp/adj = RQ/QP = 6/8\ntan θ = 0.75\n\nθ = tan<sup>−1</sup>(0.75) = 36.87°\n\n\n∴ The bearing of R from P = 360° - 36.87° = 323°\n (to the nearest degree)",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1157,
     "question": "A coin is thrown 3 times. What is the probability that atleast one head is obtained?",
     "option": {

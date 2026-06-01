@@ -7184,6 +7184,22 @@
     "examyear": "2022"
   },
   {
+    "id": 471,
+    "question": "An isotope has an initial activity of 120 Bq. 6 days later its activity is 15 Bq. The half-life is? ",
+    "option": {
+      "a": "3 days",
+      "b": "2 days",
+      "c": "1 day",
+      "d": "4 days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInitial activity, A₀ = 120 Bq\nFinal activity, A = 15 Bq\nTime elapsed, t = 6 days\nHalf-life, t½ = ?\n\nSolution:\nUsing the radioactive decay formula:\nA = A₀(½)^(t/t½)\nStep 1: Substitute the known values\n15 = 120(½)^(6/t½)\nStep 2: Simplify\n15/120 = (½)^(6/t½)\n1/8 = (½)^(6/t½)\nStep 3: Express 1/8 as a power of ½\n1/8 = (½)³\nStep 4: Equate the exponents\n(½)³ = (½)^(6/t½)\nTherefore:\n3 = 6/t½\nStep 5: Solve for half-life\nt½ = 6/3\nt½ = 2 days",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 472,
     "question": "The secondary pigments consist of?",
     "option": {
@@ -10542,6 +10558,22 @@
     "solution": "Given information:\nInitial velocity, u = 30 m/s\nDistance to traffic light, s = 50 m\nFinal velocity at light, v = 0 m/s\n\nStep 1: Use kinematic equation for constant acceleration\nv² = u² + 2 a s\n\nStep 2: Substitute known values\n0² = 30² + 2 × a × 50\n0 = 900 + 100 a\n\nStep 3: Solve for deceleration a\n100 a = –900\na = –9 m/s²\n\nThe magnitude of deceleration is 9 m/s².\n",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 700,
+    "question": "A uniform solid cube material 10cm on each side of mass 700g is submerged in water. which of the following best described the behavior of the cube water?",
+    "option": {
+      "a": "the cube will melt after a period of time",
+      "b": "the cube will float",
+      "c": "the cube will sink in water",
+      "d": "the cube will rest at an equilibrium position in water"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nSide length of cube, L = 10 cm = 0.1 m\nMass of cube, m = 700 g = 0.7 kg\nDensity of water, ρ_w ≈ 1000 kg/m³\n\nStep 1: Compute volume of cube\nV = L³ = (0.1 m)³ = 0.001 m³\n\nStep 2: Compute density of cube\nρ_c = m / V = 0.7 kg / 0.001 m³ = 700 kg/m³\n\nStep 3: Compare densities\nρ_c = 700 kg/m³\nρ_w = 1000 kg/m³\nSince ρ_c < ρ_w, the cube is less dense than water.\n\nStep 4: Determine behavior\nAn object less dense than water will float. When fully submerged, the buoyant force exceeds its weight, causing it to rise until partially above the surface, where it floats.",
+    "examtype": "utme",
+    "examyear": "2006"
   },
   {
     "id": 701,

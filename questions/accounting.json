@@ -32,6 +32,22 @@
     "examyear": "2012"
   },
   {
+    "id": 99,
+    "question": "Which of the following is determined in the Trading Account?",
+    "option": {
+      "a": "Factory overheads",
+      "b": "Cost of goods sold",
+      "c": "Prime cost",
+      "d": "Net profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 107,
     "question": "In departmental accounts, administrative expenses are recorded in the",
     "option": {
@@ -592,6 +608,22 @@
     "examyear": "2015"
   },
   {
+    "id": 561,
+    "question": "An advantage of using accounting ratios is that",
+    "option": {
+      "a": " can be easily calculated",
+      "b": " show errors and frauds",
+      "c": "facilitate decision making",
+      "d": "are stipulated by law"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Accounting ratios helps management in taking decision the totality of the activities in an organization",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 595,
     "question": "I. Members subscription\nII. Fines from members\nIII. Donation\nIV. Loan from bank\n\nFrom the information above, sources of income for a Not-for-profit-making organization include",
     "option": {
@@ -652,6 +684,22 @@
     "image": "",
     "answer": "b",
     "solution": "contra entry is used to offset amount or same transaction against another on both side of the cashbook",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 634,
+    "question": "When starting with the cash book balance in preparing the bank reconciliation statement, the followings are added",
+    "option": {
+      "a": "Unpresented cheque",
+      "b": "Dividend",
+      "c": " Uncredited cheque",
+      "d": "credit transfer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Uncredited cheque have to be less when starting with balance as per cashbook not add because the cheque are yet to be credited by the bank",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -976,6 +1024,22 @@
     "examyear": "2008"
   },
   {
+    "id": 992,
+    "question": "Receipt and payment account discloses?",
+    "option": {
+      "a": "debtors",
+      "b": "creditors",
+      "c": "prepayment",
+      "d": "depreciation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation:\nA Receipts and Payments Account can disclose prepayments because when you make advance payments (like rent or insurance paid in advance), these cash outflows appear in the payments side of the account. By comparing these payments with the actual expenses for the period, prepayments can be identified.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 1017,
     "question": "The journal entries for the purchase of stock on credit are to debit?",
     "option": {
@@ -1196,6 +1260,22 @@
     "image": "",
     "answer": "c",
     "solution": "Opening Balance + Additions - Disposals = Closing Balance\nRearranging to find Opening Balance:\nOpening Balance = Closing Balance + Disposals - Additions\nSubstituting the values:\nOpening Balance = ₦3,100,000 + ₦900,000 - ₦100,000\nOpening Balance = ₦4,000,000 - ₦100,000 = ₦3,900,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1236,
+    "question": "<b>Use the information below to answer questions 22 and 23</b>\n\n\nUsing the given balance sheet information for 31/12/98 and 31/12/99, determine the total fixed assets from the opening balance sheet (31/12/98).\nGiven data:\n\n31/12/98: Plant & Machinery ₦1,500, Fixtures ₦700, Stock ₦500, Debtors ₦900, Cash ₦200, Creditors ₦500, Loan ₦600\n31/12/99: Plant & Machinery ₦1,200, Fixtures ₦520, Stock ₦600, Debtors ₦400, Cash ₦300, Creditors ₦600, Loan ₦400",
+    "option": {
+      "a": "₦2,200",
+      "b": " ₦2,020",
+      "c": "₦1,720",
+      "d": "₦2,070"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the total fixed assets from the opening balance sheet (31/12/98), I Identify which items are fixed assets.\nFixed Assets as at 31/12/98:\n\nPlant & Machinery: ₦1,500\nFixtures: ₦700\n\nTotal Fixed Assets = ₦1,500 + ₦700 = ₦2,200\nNote: Stock, Debtors, and Cash are current assets, not fixed assets. Creditors and Loan are liabilities.\nTherefore, the total fixed assets from the opening balance sheet is ₦2,200.",
     "examtype": "utme",
     "examyear": "2001"
   },

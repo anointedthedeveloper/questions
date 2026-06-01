@@ -12126,5 +12126,21 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 393,
+    "question": "The gas that is used for the treatment of cancer is",
+    "option": {
+      "a": "Neon",
+      "b": "Radon",
+      "c": "Xenon",
+      "d": "Argon"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Radon (Rn) is a radioactive noble gas used in radiotherapy for the treatment of cancer. Its radioactive decay produces alpha particles which can be used to irradiate and destroy cancerous tumours. The other noble gases (Ne, Xe, Ar) are not radioactive and have no such medical application.",
+    "examtype": "utme",
+    "examyear": "2016"
   }
 ]

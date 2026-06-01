@@ -20841,5 +20841,62 @@
     "questionNub": 37,
     "hasPassage": 0,
     "category": "others"
+  },
+  {
+    "id": 178,
+    "question": "Many people use to lie in <i>poverty</i>",
+    "option": {
+      "a": "instability",
+      "b": "want",
+      "c": "difficult",
+      "d": "the slums"
+    },
+    "section": "choose the option nearest in meaning to the word or phrase  in italics ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1094,
+    "question": "The cat DEVOURED the rat",
+    "option": {
+      "a": " did the rat devour the cat?",
+      "b": "what devoured the rat?",
+      "c": "did the cat eat the rat?",
+      "d": "Is this the rat that the cat devoured?"
+    },
+    "section": "<b>In each of the questions 98 to 100 the word in capital letters has the emphatic stress. Choose the option to which the given sentence relates.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "In responding to questions on emphatic stress, Interrogative sentence that contradicts the emphasized word is the correct option. This means that, the statement that does not have the emphasized word in it is the correct answer. Option C is the correct answer here because the word ''eat contradicts ''devour''",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 100,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1048,
+    "question": "There are still <u>virtuous</u> women in our society today",
+    "option": {
+      "a": "clever",
+      "b": "upright",
+      "c": "devilsh",
+      "d": "intelligent"
+    },
+    "section": "In each of the questions 51 to 65 choose the option <b>nearest in meaning</b> to the underlined word or phrase.",
+    "image": "",
+    "answer": "b",
+    "solution": "virtuous; having or showing high moral standards.",
+    "examtype": "utme",
+    "examyear": "2012",
+    "questionNub": 54,
+    "hasPassage": 0,
+    "category": "others"
   }
 ]

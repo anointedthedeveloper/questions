@@ -766,5 +766,85 @@
     "solution": "Given information:\n\nPrimary voltage, Vₚ = 240 V\nPrimary turns, Nₚ = 4000 turns\nSecondary voltage, Vₛ = 12 V\nSecondary turns, Nₛ = ?\n\nSolution:\nStep 1: Apply transformer equation\nFormula: Vₚ/Vₛ = Nₚ/Nₛ\nStep 2: Rearrange for Nₛ\nNₛ = (Vₛ × Nₚ)/Vₚ\nStep 3: Substitute values\nNₛ = (12 × 4000)/240\nNₛ = 48000/240\nNₛ = 200 turns",
     "examtype": "utme",
     "examyear": "2005"
+  },
+  {
+    "id": 384,
+    "question": "In what range of temperature is the expansion of water anomalous?",
+    "option": {
+      "a": "+208°C to +212°C",
+      "b": " -80°C to -76°C",
+      "c": "0°C to +4°C",
+      "d": "-4°C to +0°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Understanding anomalous expansion of water:\nNormal behavior: Most liquids expand when heated and contract when cooled.\nAnomalous behavior of water:\nBetween 0°C and 4°C, water behaves differently:\n\nWater contracts when heated from 0°C to 4°C (instead of expanding)\nWater expands when cooled from 4°C to 0°C (instead of contracting)\nWater has maximum density at 4°C\nBelow 0°C, water freezes and expands significantly\n\nWhy this matters:\n\nIce floats on water (less dense)\nAquatic life can survive in frozen lakes (ice on top, water below)\nThis anomaly is crucial for life on Earth\n\nAnalysis of options:\nA. +208°C to +212°C:\n\nNear boiling point; normal behavior ✗\n\nB. -80°C to -76°C:\n\nWater is solid (ice) at these temperatures ✗\n\nC. 0°C to +4°C:\n\nThis is the exact range of anomalous expansion ✓\n\nD. -4°C to +0°C:\n\nWater is solid (ice) below 0°C ✗\n\nAnswer: C. 0°C to +4°C",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 535,
+    "question": "A relative density bottle has a mass of 19 g when empty. When it is completely filled with water, its mass is 66 g. What will be its mass if completely filled with alcohol of relative density 0.8?",
+    "option": {
+      "a": "47 g",
+      "b": "52.8 g",
+      "c": " 37.6 g",
+      "d": "56.6 g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass of empty bottle, m₀ = 19 g\nMass of bottle + water, m₁ = 66 g\nRelative density of alcohol, RD = 0.8\nMass of bottle + alcohol = ?\n\nSolution:\nStep 1: Calculate mass of water\nMass of water = m₁ - m₀\nMass of water = 66 - 19\nMass of water = 47 g\nStep 2: Understand relative density\nRelative density (RD) = Density of substance / Density of water\nFor the same volume:\nRD = Mass of alcohol / Mass of water\nStep 3: Calculate mass of alcohol\n0.8 = Mass of alcohol / 47\nMass of alcohol = 0.8 × 47\nMass of alcohol = 37.6 g\nStep 4: Calculate total mass with alcohol\nMass of bottle + alcohol = m₀ + Mass of alcohol\nMass of bottle + alcohol = 19 + 37.6\nMass of bottle + alcohol = 56.6 g",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 165,
+    "question": "For a best result using temperature to achieve an accurate measurement, it is best to use",
+    "option": {
+      "a": "Mercury thermometer",
+      "b": "gas thermometer",
+      "c": "clinical thermometer",
+      "d": "alcohol thermometer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A gas thermometers are more besting use to achieve an accurate temperature than others, such as liquid in glass thermometers such as mercury, clinical and alcohol thermometer",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 330,
+    "question": "The limiting frictional force between two surface depends on\n\nI. the gaseous reaction between the surfaces\n\nII. the nature of the surfaces in contact\n\nIII. the relative velocity between the surfaces",
+    "option": {
+      "a": "I only",
+      "b": "I & II only",
+      "c": "II only",
+      "d": "III only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The limiting frictional force depends only on the nature of the surfaces in contact",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 699,
+    "question": "A motorcyclist traveling at 30 m/s starts to apply his brakes when he is 50 m from the traffic light that had just turned red. If he reached the traffic light, his deceleration is",
+    "option": {
+      "a": "18 m/s²",
+      "b": "10 m/s²",
+      "c": "9 m/s²",
+      "d": "5 m/s²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nInitial velocity, u = 30 m/s\nDistance to traffic light, s = 50 m\nFinal velocity at light, v = 0 m/s\n\nStep 1: Use kinematic equation for constant acceleration\nv² = u² + 2 a s\n\nStep 2: Substitute known values\n0² = 30² + 2 × a × 50\n0 = 900 + 100 a\n\nStep 3: Solve for deceleration a\n100 a = –900\na = –9 m/s²\n\nThe magnitude of deceleration is 9 m/s².\n",
+    "examtype": "utme",
+    "examyear": "2005"
   }
 ]

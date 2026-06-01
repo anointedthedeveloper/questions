@@ -15264,6 +15264,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1090,
+    "question": "What is the n-th term of the sequence 2, 6, 12, 20...?",
+    "option": {
+      "a": "4n - 2",
+      "b": "2(3<sup>(n - 1)</sup>)",
+      "c": "n<sup>2</sup> + n",
+      "d": "n<sup>2</sup> + 3n + 2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given that 2, 6, 12, 20...? the nth term = n<sup>2</sup> + n\n\ncheck: n = 1, u1 = 2\n\nn = 2, u2 = 4 + 2 = 6\n\nn = 3, u3 = 9 + 3 = 12\n\n∴ n = 4, u4 = 16 + 4 = 20",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1091,
     "question": "If the binary operation ∗\n is defined by m ∗\n n = mn + m + n for any real number m and n, find the identity of the elements under this operation",
     "option": {

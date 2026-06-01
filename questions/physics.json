@@ -9488,6 +9488,22 @@
     "examyear": "2005"
   },
   {
+    "id": 696,
+    "question": "An elastic material has a length of 36 cm when a load of 40N is hung on it and a length of 45cm when a load of 60N is hung on it. The original length of the string is",
+    "option": {
+      "a": " 12 cm",
+      "b": "20 cm",
+      "c": "18 cm",
+      "d": "15 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nWhen F₁ = 40 N, total length L₁ = 36 cm\nWhen F₂ = 60 N, total length L₂ = 45 cm\nOriginal length, L₀ = ?\n\nSolution:\nStep 1: Apply Hooke's Law\nForce F = ke\nWhere:\n\nk = spring constant\ne = extension from original length\n\nFor any load: Total length = Original length + Extension\nStep 2: Set up equations\nFor first load:\n36 = L₀ + e₁\n40 = ke₁\nFor second load:\n45 = L₀ + e₂\n60 = ke₂\nStep 3: Find change in extension\nChange in length: 45 - 36 = 9 cm\nChange in force: 60 - 40 = 20 N\nStep 4: Calculate spring constant\nk = ΔF/Δe = 20/9 N/cm\nStep 5: Find extension for first load\nFrom equation: 40 = ke₁\ne₁ = 40/k = 40/(20/9) = 40 × 9/20 = 18 cm\nStep 6: Calculate original length\nL₀ = L₁ - e₁\nL₀ = 36 - 18\nL₀ = 18 cm",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 697,
     "question": "In the photoelectric effect, which of the following graphs correctly represents the graph of stopping potential V₀ against frequency(f), of incident light?",
     "option": {
@@ -9612,6 +9628,22 @@
     "image": "",
     "answer": "d",
     "solution": "when the glass of a thermometer expands more on heating than the liquid inside, the liquid level would fall compared with the tube wall",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 707,
+    "question": "A drop of petrol makes a finger colder than a drop of water would because?",
+    "option": {
+      "a": "petrol takes its latent heat of veporization from the finger",
+      "b": "petrol takes its latent heat of fusion from the finger",
+      "c": " water is more viscious than petrol",
+      "d": "water has higher surface tension dan petrol"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This process occurs as the petrol evaporates, drawing heat away from the skin and causing a cooling sensation.",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -10142,6 +10174,22 @@
     "solution": "When the base current of a common-emitter transistor is zero, it operates in the cut-off region, meaning it does not conduct current. This region is essential for the transistor to act as an off switch in circuits.",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 750,
+    "question": "The unit of moment of a couple can be expressed in?",
+    "option": {
+      "a": "N m⁻¹",
+      "b": "N m⁻²",
+      "c": "N m",
+      "d": "N m²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Understanding moment of a couple:\nA couple consists of two equal and opposite parallel forces separated by a perpendicular distance.\nMoment of a couple:\nMoment = Force × Perpendicular distance between forces\nDetermining the unit:\nFormula:\nMoment of couple = F × d\nwhere:\n\nF = Force (measured in Newtons, N)\nd = Distance (measured in meters, m)\n\nUnit calculation:\nUnit = N × m = Nm (Newton-meter)",
+    "examtype": "utme",
+    "examyear": "2007"
   },
   {
     "id": 752,

@@ -1344,6 +1344,22 @@
     "examyear": "2011"
   },
   {
+    "id": 97,
+    "question": "A sample of radioactive substance, whose half-life is 16 days, registers 32 decays per second. How long will it take for the rate of decay to reduce to 2 decays per second? ",
+    "option": {
+      "a": "80 days  ",
+      "b": "64 days  ",
+      "c": "48 days  ",
+      "d": "32 days"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 98,
     "question": "When white light passes through a triangular prism, the emerging rays of light arranged in order of decreasing angle of deviation are ",
     "option": {
@@ -13388,6 +13404,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nInitial velocity, u = 0 m s⁻¹\nAcceleration, a = 3 m s⁻²\nDistance, s = 24 m\n\nSolution:\n\nStep 1: Choose the appropriate kinematic equation\nv² = u² + 2as\n\nStep 2: Substitute the values\nv² = 0² + 2 × 3 × 24 = 144\n\nStep 3: Solve for v\nv = √144 = 12 m s⁻¹",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1085,
+    "question": "Calculate the escape velocity of a satellite launched from the earth's surface if the radius of the earth is 6.4x106m",
+    "option": {
+      "a": " 25.3 km s⁻¹",
+      "b": "4.2 km s⁻¹",
+      "c": " 4.0 km s⁻¹",
+      "d": "11.3 km s⁻¹"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nRadius of Earth, R = 6.4 × 10⁶ m\nAcceleration due to gravity, g ≈ 9.8 m s⁻² (standard value, though not explicitly given, it is implied for such problems)\n\nSolution:\n\nStep 1: Formula for escape velocity\nEscape velocity, vₑ = √(2gR)\n\nStep 2: Substitute the values\nvₑ = √(2 × 9.8 × 6.4 × 10⁶)\nvₑ = √(2 × 9.8 × 6.4 × 10⁶) = √(125.44 × 10⁶) = √(1.2544 × 10⁸)\n\nStep 3: Calculate\n√(1.2544 × 10⁸) = 1.12 × 10⁴ m s⁻¹ = 11.2 km s⁻¹ ≈ 11.3 km s⁻¹\n\nFinal Answer:\nThe escape velocity is approximately 11.3 km s⁻¹.",
     "examtype": "utme",
     "examyear": "2014"
   },

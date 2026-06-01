@@ -464,6 +464,22 @@
     "examyear": "2010"
   },
   {
+    "id": 92,
+    "question": " A body of mass m slides down an inclined plane with a constant velocity. If the angle of the incline is Ø, the coefficient of kinetic friction between the body and the plane is  ",
+    "option": {
+      "a": "cot Ø ",
+      "b": "cos Ø  ",
+      "c": "tan Ø  ",
+      "d": "sine Ø"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 96,
     "question": "6000 J of heat is delivered to 10g of dry ice at O0C. What is the final temperature if the container has a heat capacity of 20J/K? (specific heat of water = 4200j/kg.k, latent heat of fusion of ice = 3.33 x 105J/kg)  ",
     "option": {
@@ -988,6 +1004,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610508/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_46_vlldts.jpg",
     "answer": "c",
     "solution": "Magnetic field lines flow from the north pole to the south pole. The force direction is from the north pole (N) toward the south pole (S).",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 228,
+    "question": "An electron in a hydrogen atom makes a transition from the ground level to the third level. If the energy at the ground level, calculate the energy at the third level. [h = 6.6 × 10⁻³⁴ Js; f = 10¹⁵ Hz]",
+    "option": {
+      "a": "1.41 eV",
+      "b": "1.71 eV",
+      "c": "1.61 eV",
+      "d": "1.51 eV"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "For hydrogen atom energy levels:\nThe energy at level n is given by:\nE_n = -13.6/n² eV\nEnergy at ground level (n=1):\nE₁ = -13.6/1² = -13.6 eV\nEnergy at third level (n=3):\nE₃ = -13.6/3² = -13.6/9 = -1.51 eV\nSince energy levels are negative (bound states), the magnitude is:\n|E₃| = 1.51 eV",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -3180,6 +3212,38 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nCharge 1 (Q₁) = 50 µC\nElectric field at point (E₁) = 360 NC⁻¹\nCharge 2 (Q₂) = 120 µC\nDistance and medium remain same\nElectric field due to Q₂ (E₂) = ?\n\nUnderstanding electric field:\nElectric field strength (E) is directly proportional to the charge (Q):\nE ∝ Q (at constant distance and medium)\nFormula:\nE = kQ/r²\nSince k (constant), r (distance), and medium are the same:\nE₁/E₂ = Q₁/Q₂\nSetting up proportion:\n360/E₂ = 50/120\nSolving for E₂:\nE₂ = (360 × 120)/50\nE₂ = 43,200/50\nE₂ = 864 NC⁻¹\nAlternative approach:\nRatio of charges = 120/50 = 2.4\nE₂ = E₁ × 2.4\nE₂ = 360 × 2.4\nE₂ = 864 NC⁻¹",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 779,
+    "question": "The ratio of the coefficient of linear expansion of two metals ∝₁/∝₂ is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals, e₁/e₂ is 1:2, the ratio of the original lengths l₁/l₂ is",
+    "option": {
+      "a": " 8/3",
+      "b": "3/2",
+      "c": "2/3",
+      "d": "3/8"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nα₁ / α₂ = 3/4\nΔL₁ / ΔL₂ = 1/2\nTemperature change ΔT is the same for both.\n\nSolution:\n\nStep 1: Linear expansion formula\nFor each metal: ΔL = α L ΔT\n\nStep 2: Ratio of expansions\nΔL₁ / ΔL₂ = (α₁ L₁ ΔT) / (α₂ L₂ ΔT) = (α₁/α₂) × (L₁/L₂)\n\nStep 3: Substitute known ratios\n1/2 = (3/4) × (L₁/L₂)\n\nStep 4: Solve for L₁/L₂\nL₁/L₂ = (1/2) ÷ (3/4) = (1/2) × (4/3) = 4/6 = 2/3",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 783,
+    "question": "The instantaneous value of the induced e.m.f as a function of time is ε = ε₀ sin ωt where ε₀ is the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is",
+    "option": {
+      "a": "0.00",
+      "b": "ε₀/4",
+      "c": " ε₀/2",
+      "d": " ε₀"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nε = ε₀ sin(ωt)\nPeriod T = 2π/ω\nTime t = T/4\n\nSolution:\n\nStep 1: Find ωt at t = T/4\nωt = ω × (T/4) = ω × (2π/(4ω)) = π/2\n\nStep 2: Evaluate sin(π/2)\nsin(π/2) = 1\n\nStep 3: Substitute into equation\nε = ε₀ × 1 = ε₀",
     "examtype": "utme",
     "examyear": "2007"
   },

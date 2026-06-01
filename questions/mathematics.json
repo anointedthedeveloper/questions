@@ -1440,6 +1440,22 @@
     "examyear": "2006"
   },
   {
+    "id": 404,
+    "question": "If the locus of the points which are equidistant from point P and Q meets line PQ at point N, then PN equals",
+    "option": {
+      "a": "NQ",
+      "b": "1/4NQ",
+      "c": " 2NQ",
+      "d": "1/2NQ"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Locus of point equidistant from points P and q is a perpendicular bisector of the straight joining P and Q\n∴PN = NQ",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 405,
     "question": "In the diagram above, PQ = 10 cm, PS = 8 cm and ∠PSR is 60o while ∠SRQ is a right angle. Find SR",
     "option": {
@@ -2480,6 +2496,22 @@
     "examyear": "2012"
   },
   {
+    "id": 750,
+    "question": "Evaluate ∫<sup>2</sup> <sub>1</sub> (x<sup>2</sup> −4x)dx",
+    "option": {
+      "a": "11/3",
+      "b": "3/11",
+      "c": "-3/11",
+      "d": "-11/3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "∫<sup>2</sup> <sub>1</sub> (x<sup>2</sup> −4x)dx\n\n\n(x<sup>3</sup>/3 − 4x<sup>2</sup>/2)\n\n\nsubstituting integrate values\n\n[8/3 − 4 × 4/2] − [1/2 − 2]\n\n\n= −11/3",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 751,
     "question": "Evaluate ∫<sup>π/4</sup>, <sub>0</sub>sec<sup>2</sup>θdθ",
     "option": {
@@ -2604,6 +2636,22 @@
     "image": "",
     "answer": "b",
     "solution": "r ∝ 1/√s, r ∝ 1/√t\n \n\nr ∝ 1/√s ..... (1)\n\nr ∝ 1/√t ..... (2)\n\nCombining (1) and (2), we get\n\nr = k/(√s × √t) = k/√(st)\n\n\nThis gives √(st) = k/r\n\n\nBy taking the square of both sides, we get\n\nst = k<sup>2</sup>/r<sup>2</sup>\n\n\ns = k<sup>2</sup>/r<sup>2</sup>t",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 784,
+    "question": "Solve for x: |x - 2| < 3",
+    "option": {
+      "a": "x < 5",
+      "b": " -2 < x < 3",
+      "c": "-1 < x < 5",
+      "d": "x < 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "|x - 2| < 3 implies\n\n-(x - 2) < 3 .... or .... +(x - 2) < 3\n\n-x + 2 < 3 .... or .... x - 2 < 3\n\n-x < 3 - 2 .... or .... x < 3 + 2\n\nx > -1 .... or .... x < 5\n\ncombining the two inequalities results, we get;\n\n-1 < x < 5",
     "examtype": "utme",
     "examyear": "2013"
   },
@@ -2844,6 +2892,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003119/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q25_kwrqbw.jpg",
     "answer": "b",
     "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 848,
+    "question": "An arc of the length 16π cm subtends an angle of 80° at the centre of the circle. Find the radius of the circle.",
+    "option": {
+      "a": "24cm",
+      "b": "28cm",
+      "c": "36cm",
+      "d": "32cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "L = θ/360 x 2πr\n16π = 80/360 x 2πr\n\n(16π × 360)/(80 × 2π) = r\n\nr = 36cm",
     "examtype": "utme",
     "examyear": "2016"
   },

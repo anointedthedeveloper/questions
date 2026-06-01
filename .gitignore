@@ -1,8 +1,11 @@
 .env
 progress.json
+subject_locks.json
 accounts.json
 *.corrupt
 *.html
 probe.py
 check_*.py
 subject_locks.json
+*.exe
+*.pyc

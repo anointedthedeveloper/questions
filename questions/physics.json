@@ -1344,6 +1344,22 @@
     "examyear": "2018"
   },
   {
+    "id": 306,
+    "question": "In the diagram shown, which of the simple pendulum will resonate with P when set into oscillation?",
+    "option": {
+      "a": "U",
+      "b": "T",
+      "c": " R and T",
+      "d": "Q and R"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765611654/ALOC-Questions/Physics/2018/2018_Q_27_vo9k8j.jpg",
+    "answer": "b",
+    "solution": "Understanding resonance in pendulums:\nResonance occurs when pendulums have the same length (and therefore the same natural frequency/period).\nGiven information from the diagram:\n\nU is the longest\nS is second longest\nQ is third\nR is the shortest\nP and T have the same length\n\nResonance condition:\nFor resonance with P, a pendulum must have the same length as P.\nFrom the description, P and T are the same length.\nTherefore, when P is set into oscillation, only T will resonate with it because they share the same natural frequency.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 313,
     "question": "Musical instruments playing the same note can be distinguished from one another owing to the difference in their",
     "option": {
@@ -1436,6 +1452,22 @@
     "image": "",
     "answer": "a",
     "solution": "When blue and green colors of light are mixed, the resultant color is cyan (a blue-green color).",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 333,
+    "question": "A metal rod has a length of 100cm at 200°C. At what temperature will its length be 99.4cm, if the linear expansivity of the material of the rod is 2 × 10⁻⁵ °C⁻¹?",
+    "option": {
+      "a": "200°C",
+      "b": "300°C",
+      "c": "100°C",
+      "d": " -100°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nLength at 200°C (L₁) = 100 cm\nFinal length (L₂) = 99.4 cm\nLinear expansivity (α) = 2 × 10⁻⁵ °C⁻¹\nInitial temperature (T₁) = 200°C\nFinal temperature (T₂) = ?\n\nFormula for linear expansion:\nL₂ = L₁[1 + α(T₂ - T₁)]\nSubstituting values:\n99.4 = 100[1 + 2 × 10⁻⁵(T₂ - 200)]\nDividing both sides by 100:\n0.994 = 1 + 2 × 10⁻⁵(T₂ - 200)\nRearranging:\n0.994 - 1 = 2 × 10⁻⁵(T₂ - 200)\n-0.006 = 2 × 10⁻⁵(T₂ - 200)\nSolving for (T₂ - 200):\n(T₂ - 200) = -0.006 / (2 × 10⁻⁵)\n(T₂ - 200) = -0.006 / 0.00002\n(T₂ - 200) = -300\nTherefore:\nT₂ = -300 + 200\nT₂ = -100°C",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -2496,6 +2528,22 @@
     "examyear": "2024"
   },
   {
+    "id": 565,
+    "question": "Electrolysis can be investigated using ",
+    "option": {
+      "a": "Voltmeter",
+      "b": "Ammeter",
+      "c": "Galvanometer",
+      "d": "Voltameter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A voltameter measures the amount of substance that is deposited during electrolysis, allowing for the study of the electrochemical process. It provides information about the quantity of electric charge passed through the electrolyte and the resulting chemical changes. Voltameter is also called an Electrolytic cell.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 569,
     "question": "The dimension of young's modulus, E is given by",
     "option": {
@@ -2780,6 +2828,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nSpeed of proton, v = 1.0 × 10⁶ ms⁻¹\nMagnetic field, B = 1.0 T\nMagnetic force, F = 8.0 × 10⁻¹⁴ N\nCharge of proton, q = 1.6 × 10⁻¹⁹ C\nAngle between velocity and field, θ = ?\n\nSolution:\nStep 1: Formula for magnetic force\nFormula: F = qvB sin θ\nWhere:\n\nF = magnetic force\nq = charge\nv = velocity\nB = magnetic field\nθ = angle between velocity and field\n\nStep 2: Rearrange for sin θ\nsin θ = F/(qvB)\nStep 3: Substitute values\nsin θ = (8.0 × 10⁻¹⁴)/[(1.6 × 10⁻¹⁹) × (1.0 × 10⁶) × (1.0)]\nsin θ = (8.0 × 10⁻¹⁴)/(1.6 × 10⁻¹³)\nsin θ = 8.0/16\nsin θ = 0.5\nStep 4: Find angle\nθ = sin⁻¹(0.5)\nθ = 30°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 660,
+    "question": "When impurities are added to semi-conductors, the conductivity of the semi-conductor",
+    "option": {
+      "a": "increases then decreases",
+      "b": "increases",
+      "c": "decreases",
+      "d": " remains constant"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When impurities are added to semi conductor , the semi conductor is said to be doped, and increases the conductivity of the semi-conductor.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -3616,6 +3680,22 @@
     "examyear": "2009"
   },
   {
+    "id": 875,
+    "question": "Which of the following is a secondary colour",
+    "option": {
+      "a": "blue",
+      "b": "orange",
+      "c": "red",
+      "d": "green"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Primary colours are red, blue and green\n∴ orange is a secondary colour",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 896,
     "question": "A progressive wave is represented by y = 10sin(1000πt - πx/34). Two layers of the wave separated by 153cm have a phase difference of?",
     "option": {
@@ -3788,6 +3868,22 @@
     "image": "",
     "answer": "d",
     "solution": "I = E/(R+r)\n= 12/6 = 2A",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 942,
+    "question": "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?",
+    "option": {
+      "a": "14 A",
+      "b": " 12 A",
+      "c": "10 A",
+      "d": "8 A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nResistance of each resistor = 4 Ω\nNumber of resistors = 3\nConnection: parallel\nVoltage applied, V = 16 V\n\nSolution:\n\nStep 1: Calculate equivalent resistance for parallel connection\nFor three identical resistors in parallel:\n1/R = 1/4 + 1/4 + 1/4 = 3/4\nR = 4/3 Ω\n\nStep 2: Apply Ohm's law to find total current\nI = V / R = 16 / (4/3) = 16 × 3/4 = 12 A",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -4304,6 +4400,22 @@
     "examyear": "2013"
   },
   {
+    "id": 1072,
+    "question": "A house has ten 40W and five 100W bulbs. How much will it cost the owner of the house to keep them lit for 10 hours if the cost of a unit is 5N?",
+    "option": {
+      "a": "N90",
+      "b": "N50",
+      "c": "N45",
+      "d": " N5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Step 1: Calculate total power consumption\nPower from ten 40 W bulbs = 10 × 40 W = 400 W\nPower from five 100 W bulbs = 5 × 100 W = 500 W\nTotal power = 400 W + 500 W = 900 W = 0.9 kW\n\nStep 2: Calculate energy consumed\nEnergy = Power × Time = 0.9 kW × 10 h = 9 kWh\n\nStep 3: Calculate cost\nCost = Energy × cost per unit = 9 kWh × 5 N = 45 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 1078,
     "question": "Calculate the energy of the third level of an atom if the ground state energy is - 24.8eV",
     "option": {
@@ -4540,6 +4652,22 @@
     "image": "",
     "answer": "a",
     "solution": "(Air is a poor conductor ~0.025 W/mK; water ~0.6, glass ~1, ash varies but is higher.)\n\nAir is a poor conductor of heat compared to solids and liquids like ash, glass, and water, making it a good insulator.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1146,
+    "question": "The device that operates using the magnetic effect of electric current is",
+    "option": {
+      "a": "Rheostat",
+      "b": "Thermostat",
+      "c": " Electric bell",
+      "d": "Carbon microphone"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An electric bell works using an electromagnet.",
     "examtype": "utme",
     "examyear": "2025"
   },

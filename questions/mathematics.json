@@ -528,6 +528,22 @@
     "examyear": "2001"
   },
   {
+    "id": 137,
+    "question": "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30°",
+    "option": {
+      "a": "4√3cm",
+      "b": " 8cm",
+      "c": "8√3cm",
+      "d": "4cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Hint: Make a sketch of the moving points such that the hypotenuse is 8cm and the adjacent x cm.\n\nCos 30 = x/8\nx = 8 cos 30 = 8√3cm",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 138,
     "question": "A straight line makes an angle of 30° with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line.",
     "option": {
@@ -1888,6 +1904,22 @@
     "examyear": "2009"
   },
   {
+    "id": 530,
+    "question": "I.S∩T∩W=S II. S ∪ T ∪ W = W\nIII. T ∩ W = S\nIf S⊂T⊂W, which of the above statements are true?",
+    "option": {
+      "a": "I and II",
+      "b": "I and III",
+      "c": " II and III",
+      "d": "I, II and III"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "If S ⊂ T ⊂ W,\n\nS ∩ T ∩ W = S is true since S ∩ T = S and S ∩ W = S.\n\nS ∪ T ∪ W = W is also true. S ∪ T = T and T ∪ W = W.\n\nHowever, to say that T ∩ W = S is not very true mathematically. Instead, it is safe to say S ⊂ (T ∩ W).",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 531,
     "question": "If p=√((rs<sup>3</sup>)/t), express r in terms of p, s and t?",
     "option": {
@@ -2172,6 +2204,22 @@
     "image": "",
     "answer": "a",
     "solution": "Total surface area of the cylindrical pipe = area of circular base + curved surface area\n\n= πr<sup>2</sup> + 2πrh\n\n= π x 7<sup>2</sup> + 2π x 7 x 50\n\n= 49π + 700π\n= 749πm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 614,
+    "question": "If y = x sinx, find dy/dx",
+    "option": {
+      "a": " sin x - x cosx",
+      "b": " sinx + x cosx",
+      "c": " sinx - cosx",
+      "d": "sinx + cosx"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "If y = x sinx, then\n\nLet u = x and v = sinx\n\ndu/dx = 1 and dv/dx = cosx\n\nHence by the product rule,\n\ndy/dx = v (du/dx) + u(dv/dx)\n\n= (sin x) x 1 + x cosx\n\n= sinx + x cosx",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -3088,6 +3136,22 @@
     "examyear": "2017"
   },
   {
+    "id": 913,
+    "question": "What is the product of 2x<sup>2</sup − x + 1 and 3 − 2x",
+    "option": {
+      "a": " 4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3",
+      "b": " −4x<sup>3</sup> + 8x<sup>2</sup> − 5x + 3",
+      "c": "−4x<sup>3</sup> − 8x<sup>2</sup> + 5x + 3",
+      "d": " 4x<sup>3</sup> + 8x<sup>2</sup> − 5x + 3"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "(2x<sup>2</sup> - x + 1) × (3 - 2x);\n\n3(2x<sup>2</sup> - x + 1) - 2x (2x<sup>2</sup> - x + 1)\n\n6x<sup>2</sup> - 3x + 3 - 4x<sup>3</sup> + 2x<sup>2</sup> - 2x\n\n-4x<sup>3</sup> + 8x<sup>2</sup> -5x + 3",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 915,
     "question": "The time taken to a piece of work is inversely proportional to the number of men employed. If it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
     "option": {
@@ -3536,6 +3600,38 @@
     "examyear": "2019"
   },
   {
+    "id": 1012,
+    "question": "In the diagram above, O is the centre of the circle ABC, < ABO = 26° and < BOC = 130°. Calculate < AOC.",
+    "option": {
+      "a": "26°",
+      "b": "13°",
+      "c": " 80°",
+      "d": "102°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006921/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q45_sr8yzi.jpg",
+    "answer": "d",
+    "solution": "< BAC = 130/2\n (angle subtended at the centre)\n\n< BAC = 65°\n\nAlso, x = 26° (theorem)\n\ny = 65° - 26° = 39°\n\n< AOC = 180° - (39° + 39°)\n\n= 102°",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 1013,
+    "question": "Each of the interior angles of a regular polygon is 140°. Calculate the sum of all the interior angles of the polygon.",
+    "option": {
+      "a": "1080°",
+      "b": "1260°",
+      "c": " 2160°",
+      "d": "1800°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Since each interior angle = 140°;\n\nEach exterior angle = 180° - 140° = 40°\n\nNumber of sides of the polygon = 360°/40°\n= 9 \n\nSum of angles in the polygon = 140° x 9\n\n= 1260°",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 1015,
     "question": "If the volume of a frustrum is given as V=πh/3(R<sup>2</sup + Rr + r<sup>2</sup), find dV/dR\n.",
     "option": {
@@ -3840,6 +3936,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1107,
+    "question": "A rectangular pyramid has an area 24cm<sup>2</sup>\n and height 7.5cm. Find its volume?",
+    "option": {
+      "a": "65.0cm<sup>3</sup>",
+      "b": "70.5cm<sup>3</sup>",
+      "c": "56.5cm<sup>3</sup>",
+      "d": "60.0cm<sup>3</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Volume of a rectangular pyramid = length∗width∗height/3\n or area∗height/3\n= 24∗7.5/3\n → 180/3\nVolume of the rectangular pyramid = 60cm<sup>3</sup>",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 1114,
     "question": "Evaluate Log<sub>2</sub> 8√2",
     "option": {
@@ -3916,6 +4028,22 @@
     "image": "",
     "answer": "b",
     "solution": " <sup>3</sup><sup>2 </sup> + <sup>1</sup>C<sub>(3+5)</sub>\n\n<sup>9+1</sup>C<sub>3+5</sub>\n \n\n\n<sup>10</sup>C<sub>8</sub> = 10!/(8!2!)\n(10∗9∗8!)/(8!2!)= (10∗9)/2\n= 45",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1128,
+    "question": "Let (*) be a binary operation on a natural number defined by a * b = a - b + (ab)<sup>2</sup>, then find 3 * 5",
+    "option": {
+      "a": "223",
+      "b": "232",
+      "c": "32",
+      "d": "-232"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "3 * 5 = 3 - 5 + (3 x 5)<sup>2</sup>\n-2 + (15)<sup>2</sup>\n-2 + 225 \n= 223",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -4316,6 +4444,22 @@
     "image": "",
     "answer": "c",
     "solution": "log<sub>5</sub>20 = x\n\n5x = 20(Take log<sub>10</sub> of both sides)\n\nlog<sub>5x</sub> = log<sub>20</sub>\n\nxlog<sub>5</sub> = log<sub>20</sub>\n\nx= [log<sub>20</sub> ÷ log<sub>20</sub>]\n\n[1.30103 ÷ 0.69897]\n\nx = 1.861",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1252,
+    "question": "Find at which rate per annum simple interest N525 will amount to N588 in 3 years.",
+    "option": {
+      "a": "3%",
+      "b": "2%",
+      "c": "5%",
+      "d": "4%"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "I = A − P\n\n= N588 − N525\n\n∴I = N63\n\nI = PRT ÷ 100\n\nR = [100I ÷PT]\n\nR = [(100 × 63 ) ÷ (525 × 3)]\n\n= (6300 ÷ 1575) = 4\n\n∴ The rate = 4 %",
     "examtype": "utme",
     "examyear": "2015"
   },

@@ -17152,6 +17152,22 @@
     "examyear": "2025"
   },
   {
+    "id": 1134,
+    "question": "A 500W electric oven plugged into a 220 V source will consume an electric current of",
+    "option": {
+      "a": "4.88A",
+      "b": "2.27A",
+      "c": "6.43A",
+      "d": "3.23A"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nPower, P = 500 W\nVoltage, V = 220 V\n\nSolution:\n\nStep 1: Formula for electric power\nThe power in an electrical device is given by:\nP = I × V\nwhere I is the current.\n\nStep 2: Rearrange to find current\nI = P / V\n\nStep 3: Substitute values\nI = 500 W / 220 V = 2.2727 A ≈ 2.27 A",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
     "id": 1135,
     "question": "A hydraulic press consists of two cylinders of cross-sectional radius r₁ and r₂. If a force of 200 N applied to the smaller piston (r₁) causes a force of 3200 N to be transmitted onto the larger piston (r₂). The ratio r₁ : r₂ is?",
     "option": {

@@ -80,6 +80,22 @@
     "examyear": "2016"
   },
   {
+    "id": 250,
+    "question": "Which of the following is a Journal as well as an account?",
+    "option": {
+      "a": "Sales day book",
+      "b": "Cash book",
+      "c": "General journal",
+      "d": "Purchases journal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 286,
     "question": "Capital expenditure for the year was",
     "option": {
@@ -176,6 +192,38 @@
     "examyear": "2016"
   },
   {
+    "id": 714,
+    "question": "The major source of document which enables employer to calculate  the employee wages  is the?",
+    "option": {
+      "a": "norminal roll of employees",
+      "b": "records of number of hours worked",
+      "c": " effort of the employee",
+      "d": "Record of independence per employee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The numbers of hours worked is the period of time that a person spends at paid labour. This means that, an employee pay roll is prepared by calculating the number of hours that employee spend working for his or her employer. The wages / salaries of that employee is subject to hourly rate. ( the more time you spend at work, the more the pay).\n\nIt is however worthy to note that, not all employees / employers practice this payment method.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 724,
+    "question": "On 31 July 2017, Mr. Ojo provides the following information for his business:\n\nOpening stock: ₦7,000\n\nClosing stock: ₦12,000\n\nPurchases: ₦60,000\n\nExpenses: ₦4,500\n\nUniform gross margin: 33⅓%\n\nCalculate the total sales for the period.",
+    "option": {
+      "a": " ₦55,000",
+      "b": "₦82,500",
+      "c": "₦27,500",
+      "d": "₦50,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "COGS = Opening Stock + Purchases − Closing Stock\n= 7,000 + 60,000 − 12,000 = ₦55,000\n\nLet Sales = S\nGross margin is 33⅓%, meaning Gross Profit = 1/3 of Sales = S/3\n\nSince:\nSales = COGS + Gross Profit\nS = 55,000 + S/3\n\nMultiply both sides by 3 to eliminate the fraction:\n3S = 165,000 + S\n\nSubtract S from both sides:\n2S = 165,000\n\nDivide both sides by 2:\nS = ₦82,500\n\nFinal Answer: ₦82,500",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 1086,
     "question": "In converting single entry to final account, the balancing figures on the income and expenses accounts are transferred to the?",
     "option": {
@@ -240,6 +288,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1241,
+    "question": "Lubricating oil and spare parts of machinery are examples of?",
+    "option": {
+      "a": "direct materials",
+      "b": "indirect materials",
+      "c": " indirect expenses",
+      "d": "direct expenses"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "These items are classified as indirect materials because:\n\nLubricating oil: Used to maintain machinery but cannot be directly traced to specific units of production. It's consumed by the machinery that produces various products.\nSpare parts: Used for maintenance and repair of machinery. While essential for production, they cannot be directly allocated to specific products being manufactured.\n\nKey distinction:\n\nDirect materials become part of the finished product and can be easily traced to specific units (e.g., raw materials like steel in car manufacturing)\nIndirect materials support the production process but cannot be economically traced to individual products",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1260,
     "question": "The correct entry to reflect the receipt of cash sent by a branch to a head office is?",
     "option": {
@@ -300,6 +364,22 @@
     "image": "",
     "answer": "b",
     "solution": "Bank service charges should not be added to or subtracted from the bank statement balance; they are already reflected on the statement and instead are used to adjust the book balance.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1352,
+    "question": "Appropriation Account\n\nKudu Wale\nInterest on capital 750 550\nSalaries 800 600\nShare of profits 3,300 3,300\n\n\nDetermine the net profit of the partnership.",
+    "option": {
+      "a": "₦ 9,300",
+      "b": "₦ 6,600",
+      "c": " ₦4,850",
+      "d": "₦ 4,450"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To find the net profit of the partnership, Add up all the appropriations from the Appropriation Account.\nGiven information from Appropriation Account:\n\nKudu's interest on capital: ₦750\nWale's interest on capital: ₦550\nKudu's salary: ₦800\nWale's salary: ₦600\nKudu's share of profits: ₦3,300\nWale's share of profits: ₦3,300\n\nCalculation:\nThe net profit equals the total of all appropriations:\nInterest on capital: ₦750 + ₦550 = ₦1,300\nSalaries: ₦800 + ₦600 = ₦1,400\nShare of profits: ₦3,300 + ₦3,300 = ₦6,600\nTotal net profit = ₦1,300 + ₦1,400 + ₦6,600 = ₦9,300",
     "examtype": "utme",
     "examyear": "1999"
   },

@@ -832,6 +832,22 @@
     "examyear": "1997"
   },
   {
+    "id": 212,
+    "question": "Which of the following is not a revenue receipt?",
+    "option": {
+      "a": "Receipt from sales of goods",
+      "b": "Rent from premises sublet",
+      "c": "Interest on savings account",
+      "d": "cash on sale of fixed asset"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 215,
     "question": "A system where a separate cash book is maintained for small payments is",
     "option": {
@@ -1435,6 +1451,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 327,
+    "question": "The accounting concept that allows the cost of kitchen cutlery to be expensed, though it will be used for more than one year is",
+    "option": {
+      "a": "materiality",
+      "b": "accrual",
+      "c": "going concern",
+      "d": "business entity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"
@@ -2716,6 +2748,22 @@
     "image": "",
     "answer": "b",
     "solution": "Calculate Cost of Goods Sold\nCost of Goods Sold = Cost of Goods Available - Closing Stock\n= ₦71,000 - ₦9,000 = ₦62,000",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 675,
+    "question": "In the head office ledger, the value of goods sent to the branch are____________",
+    "option": {
+      "a": "Debited to the branch current account",
+      "b": "Debited to the head office current account",
+      "c": "Credited to the head office current account",
+      "d": "Credited to the branch current account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Branch current account is maintained in the head office books to record all transactions between the head office and the branch. This account is debited with the following:\n\n  i. Goods sent to branch\n\n  ii. Expenses of the branch paid by the head office\n\n  iii. Profit of the branch",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -5280,6 +5328,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1229,
+    "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\nPalaju Enterprises had fixed assets costing ₦900,000 with provision for depreciation of ₦150,000 were disposed of during the period. Fixed assets of ₦100,000 were added during the year. Provision for depreciation was ₦350,000 at the beginning of the year and ₦300,000 at the end of the year.\n\nThe depreciation expenses charged for the year is?",
+    "option": {
+      "a": "₦450,000",
+      "b": "₦250,000",
+      "c": "₦150,000",
+      "d": ". ₦100,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Provision for Depreciation Account:\n\nOpening balance: ₦350,000\nLess: Provision on disposed assets: (₦150,000)\nAdd: Current year depreciation: ?\nClosing balance: ₦300,000\n\nCalculation:\n₦350,000 - ₦150,000 + Current year depreciation = ₦300,000\n₦200,000 + Current year depreciation = ₦300,000\nCurrent year depreciation = ₦300,000 - ₦200,000 = ₦100,000\nTherefore, the depreciation expense charged for the year is ₦100,000.",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1232,
     "question": "<b>Use the information below to answer questions 17 and 18.</b> \n\nThe value of x is",
     "option": {
@@ -6028,6 +6092,22 @@
     "image": "",
     "answer": "b",
     "solution": "The issuance of shares at a discount in Nigeria is only permissible when:\n\nA special resolution of the shareholders is passed approving the issue at a discount, and\n\nThe amount of the discount is specifically stated in that resolution, and\n\nA court order (from the Federal High Court) sanctions the proposed issue at a discount.\n\nThere is no requirement that the share must have existed for a minimum number of years.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1409,
+    "question": "Which of the following entries is effected by a department when goods are charged to it at selling prices?",
+    "option": {
+      "a": "stock account is debited",
+      "b": "purchases account is debited",
+      "c": "stock account is credited",
+      "d": " mark-up account is debited"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When goods are transferred to a department at the selling price, the department must separate the cost and the markup. The markup portion is removed from the stock valuation by debiting the Mark-up Account.",
     "examtype": "utme",
     "examyear": "199"
   },

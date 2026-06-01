@@ -248,12 +248,13 @@ def verify_and_load(subject):
 
     except (json.JSONDecodeError, Exception) as e:
         print(f"  [verify] file corrupt: {e} — starting fresh")
-        os.rename(filepath, filepath + ".corrupt")
+        os.replace(filepath, filepath + ".corrupt")
         return [], set()
 
 
 def append_questions(subject, new_questions):
     filepath = os.path.join(OUTPUT_DIR, f"{subject}.json")
+    tmp = filepath + ".tmp"
     with get_file_lock(subject):
         seen = {}
         if os.path.exists(filepath):
@@ -263,8 +264,9 @@ def append_questions(subject, new_questions):
         for q in new_questions:
             seen[q["id"]] = q
         merged = sorted(seen.values(), key=lambda q: int(q.get("id", 0)))
-        with open(filepath, "w", encoding="utf-8") as f:
+        with open(tmp, "w", encoding="utf-8") as f:
             json.dump(merged, f, ensure_ascii=False, indent=2)
+        os.replace(tmp, filepath)
 
 
 def process_subject(subject, progress):

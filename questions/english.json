@@ -1,5 +1,24 @@
 [
   {
+    "id": 1,
+    "question": " He put…………..  eggs in a basket.",
+    "option": {
+      "a": "white dozen eggs ",
+      "b": "a dozen white eggs  ",
+      "c": " a white dozen eggs ",
+      "d": "dozen white"
+    },
+    "section": "most appropriate option",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 2,
     "question": "The reason why he was not offered admission was …………… his results could not be found.",
     "option": {
@@ -18901,6 +18920,25 @@
     "examtype": "utme",
     "examyear": "2022",
     "questionNub": 22,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1280,
+    "question": "Prison",
+    "option": {
+      "a": "rising",
+      "b": "risen",
+      "c": "potion",
+      "d": "motion"
+    },
+    "section": "From the words lettered A to D, choose the word that rhymes with the given word.",
+    "image": "",
+    "answer": "b",
+    "solution": "Both words have the same sound at the end of their pronunciation.",
+    "examtype": "utme",
+    "examyear": "2022",
+    "questionNub": 27,
     "hasPassage": 0,
     "category": "others"
   },

@@ -1,5 +1,37 @@
 [
   {
+    "id": 2,
+    "question": "According to John’s Gospel, Lazarus was from: ",
+    "option": {
+      "a": "Jerusalem  ",
+      "b": "Teberias ",
+      "c": "Bethany ",
+      "d": "Galilee"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 4,
+    "question": "The thief as described by Jesus comes to ",
+    "option": {
+      "a": "destroy, kill and steal ",
+      "b": "destroy, steal and kill ",
+      "c": "kill, destroy and kill ",
+      "d": "steal, kill and destroy "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 8,
     "question": "What did God create on the fifth day? ",
     "option": {
@@ -39,6 +71,22 @@
       "b": "Jews ",
       "c": "Greeks ",
       "d": "Samaritans."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 23,
+    "question": "What is meant by the Christian doctrine that God is Trinity? ",
+    "option": {
+      "a": "the idea started in Trinidad and Tobago ",
+      "b": "God is three persons in one ",
+      "c": "God is omnipotent ",
+      "d": "God is the Holy Spirit"
     },
     "section": "",
     "image": "",
@@ -283,6 +331,38 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 117,
+    "question": "Paul was accused of apparently being a preacher of foreign divinities in Athens because he preached Jesus and the ",
+    "option": {
+      "a": "Cross ",
+      "b": "Law ",
+      "c": "resurrection ",
+      "d": "second coming"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 121,
+    "question": "The shema emphasizes the ",
+    "option": {
+      "a": "unity of God ",
+      "b": "richness of the spirit of God ",
+      "c": "omnipotence of God ",
+      "d": "crucial role o’ Israel in the world."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2010"
@@ -576,6 +656,38 @@
     "examyear": "2009"
   },
   {
+    "id": 264,
+    "question": "“Unbind him, and let him go.” The statement was made by Jesus when",
+    "option": {
+      "a": "He raised to life the dead Lazarus",
+      "b": "He healed the son of the widow at Nain",
+      "c": "He healed the centurion’s servant",
+      "d": "a boy bound by Satan was brought to Him."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 265,
+    "question": "In Luke, at the Last Supper, Jesus revealed His",
+    "option": {
+      "a": "resurrection",
+      "b": "imminent sufferings",
+      "c": "love for His disciples",
+      "d": "ascension."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 267,
     "question": "Jesus: stilling of the storm was to",
     "option": {
@@ -816,6 +928,22 @@
     "examyear": "2008"
   },
   {
+    "id": 367,
+    "question": "According to the Mosaic law, the only authority to declare a leper healed was",
+    "option": {
+      "a": "Jesus Christ",
+      "b": "the Emperor",
+      "c": "the priest",
+      "d": "the elders."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2008"
+  },
+  {
     "id": 369,
     "question": "According to Matthew, the disciples were sent out with the charge to go nowhere among the Gentiles nor enter any town of the",
     "option": {
@@ -912,6 +1040,22 @@
     "examyear": "2013"
   },
   {
+    "id": 408,
+    "question": "Saul relied on a medium because God did not answer him through",
+    "option": {
+      "a": "dreams, visions and prophets",
+      "b": "inspiration, tambourines and prophets",
+      "c": "dreams, urim and prophets",
+      "d": "lyre, urim and prophets."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 417,
     "question": "Amos’ prophecies which were considered as a conspiracy against the northern kingdom were reported to the king by",
     "option": {
@@ -919,6 +1063,22 @@
       "b": "Amaziah",
       "c": "Hilkiah",
       "d": "Micah."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 421,
+    "question": "‘‘... and many will rejoice at his birth; for he will be great before the Lord...” In the statement above, the angel made this pronouncement because of",
+    "option": {
+      "a": "Elizabeth’s disbelief because of her bareness",
+      "b": "Mary’s holy nature",
+      "c": "Zachariah’s fervent prayers",
+      "d": "Joseph’s hesitation to marry Mary."
     },
     "section": "",
     "image": "",
@@ -939,6 +1099,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 441,
+    "question": "When Christians give freely, God will supply",
+    "option": {
+      "a": "only for those that give",
+      "b": "their needs according to His riches in glory",
+      "c": "their needs according to the measure they give",
+      "d": "their needs day by day."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2013"
@@ -1024,6 +1200,22 @@
     "examyear": "2009"
   },
   {
+    "id": 465,
+    "question": "The king planned to set Daniel over the whole kingdom because,",
+    "option": {
+      "a": "he was the most educated of all.",
+      "b": "an excellent spirit was in him.",
+      "c": "he wanted to favour a foreigner.",
+      "d": "Daniel brought information to the king."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
     "id": 468,
     "question": "Which two tribes in Israel led in the rebuilding of the temple after the exile?",
     "option": {
@@ -1047,6 +1239,22 @@
       "b": "baptize others.",
       "c": "confront religious leaders.",
       "d": "teach in parables."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2009"
+  },
+  {
+    "id": 476,
+    "question": "“No one can serve two masters...” This means that one should not",
+    "option": {
+      "a": "be idolatrous.",
+      "b": "belong to two religions.",
+      "c": "worship money.",
+      "d": "bean unbeliever."
     },
     "section": "",
     "image": "",
@@ -1195,6 +1403,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 560,
+    "question": "Who was the prophet responsible for the re-building of the Temple during the exile?",
+    "option": {
+      "a": "Ezra",
+      "b": "Isaiah",
+      "c": "Jeremiah",
+      "d": "Ezekiel"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -1424,6 +1648,22 @@
     "examyear": "2011"
   },
   {
+    "id": 673,
+    "question": "The Jews showed their hatred for Paul and Barnabas in Pisidia by",
+    "option": {
+      "a": "dragging out the apostles for stoning.",
+      "b": "insisting and driving them out of the Synagogue.",
+      "c": "influencing leading men in the city to drive them out.",
+      "d": "beating and stoning them in the Synagogue"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 678,
     "question": "Saul was converted on his journey to",
     "option": {
@@ -1504,6 +1744,22 @@
     "examyear": "2019"
   },
   {
+    "id": 731,
+    "question": "Summarily, St Paul in his teaching on 'New Life In Christ' advised Christains to ______",
+    "option": {
+      "a": "Endeavor to be baptized by immersion",
+      "b": "Pray for the Grace of God",
+      "c": "Forsake only adultery and murder",
+      "d": "Dwell richly in the word of God"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 735,
     "question": "St. James in the teaching on faith and work gave the analogy of ________",
     "option": {
@@ -1552,6 +1808,22 @@
     "examyear": "2019"
   },
   {
+    "id": 741,
+    "question": "\"I gave you cleanness of teeth in all your cities\". By this statement, God gave them ______",
+    "option": {
+      "a": "New set of teeth",
+      "b": "No food to eat",
+      "c": "No water to drink",
+      "d": "No teeth at all"
+    },
+    "section": "",
+    "image": "",
+    "answer": " b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 743,
     "question": "St. Paul had already boasted to the ______and for this reason he sent a reminder letter to the ______ on Christian giving",
     "option": {
@@ -1563,6 +1835,22 @@
     "section": "",
     "image": "",
     "answer": " a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 761,
+    "question": "According to St Paul, God sent the spirit of his son into men's heart-----",
+    "option": {
+      "a": "So that become and act like a God",
+      "b": "For Purification",
+      "c": "For the Redemption of their Sins",
+      "d": "Crying,"
+    },
+    "section": "",
+    "image": "",
+    "answer": " d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2019"
@@ -1632,6 +1920,22 @@
     "examyear": "2010"
   },
   {
+    "id": 807,
+    "question": "Daniel was delivered from the lion’s den because ",
+    "option": {
+      "a": "of his faith in God’s power. ",
+      "b": "of  the king’s prayers. ",
+      "c": "he was able to charm the lions. ",
+      "d": "the lions were kind to him."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
     "id": 812,
     "question": " Before their first encounter with Jesus, Peter and Andrew  were   ",
     "option": {
@@ -1659,6 +1963,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2010"
+  },
+  {
+    "id": 817,
+    "question": "By introducing Jesus as the Lamb, John was pointing to ",
+    "option": {
+      "a": "Jesus’sacrificial death.        ",
+      "b": "Jesus’miraculous healing. ",
+      "c": "the Jewish yearly sacrifices.      ",
+      "d": "the priestly function of Jesus"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2010"
@@ -1808,6 +2128,22 @@
     "examyear": "2012"
   },
   {
+    "id": 866,
+    "question": "Jesus’ baptism was significant because it",
+    "option": {
+      "a": "initiated him into Judaism",
+      "b": "cleansed Him from sin",
+      "c": "awakened the messianic spirit in Him",
+      "d": "marked the call into the messianic ministry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
     "id": 869,
     "question": "“For he was astonished, and all that were with him, at the catch of fish which they had taken”The people being referred to in the text were",
     "option": {
@@ -1883,6 +2219,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
+  },
+  {
+    "id": 889,
+    "question": "To be a good citizen, Peter advised believers to honour all men and",
+    "option": {
+      "a": "live as free men",
+      "b": "love the brotherhood",
+      "c": "obey their lawful masters",
+      "d": "love reading the scriptures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2012"
@@ -2128,6 +2480,22 @@
     "examyear": "2011"
   },
   {
+    "id": 994,
+    "question": "The name Moses means ",
+    "option": {
+      "a": "baptized in water",
+      "b": "abandoned in water.   ",
+      "c": "drawn out of water",
+      "d": "  thrown into water."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2011"
+  },
+  {
     "id": 996,
     "question": "Who among the following kings was raised by God against the Israelites for going after the Canaanite gods? ",
     "option": {
@@ -2288,6 +2656,22 @@
     "examyear": "2015"
   },
   {
+    "id": 1046,
+    "question": "The names of the sons of Jacob listed in the book of Exodus excluded Joseph because ",
+    "option": {
+      "a": "Joseph was represented by his two sons ",
+      "b": "the Israelites thought Joseph had died ",
+      "c": "the list covered only those who came to Egypt with Jaco",
+      "d": "it was an oversight on the part of the writers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 1053,
     "question": "Nathan announced all the following forms of punishment for David’s Sin except that ",
     "option": {
@@ -2363,6 +2747,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 1069,
+    "question": "Golgotha means the place of",
+    "option": {
+      "a": " the dead   ",
+      "b": "crucifixion         ",
+      "c": "sacrifice      ",
+      "d": "the skull"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

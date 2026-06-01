@@ -1,5 +1,21 @@
 [
   {
+    "id": 11,
+    "question": "The journal is a book ",
+    "option": {
+      "a": "of primary entry into which all transactions are entered before posting ",
+      "b": "kept by journalist for reporting events ",
+      "c": "of prime entry into which postings are made from the ledger  ",
+      "d": "of analyzing major accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 14,
     "question": "Money set aside for the saving of business overheads    is    referred    to   ",
     "option": {
@@ -75,6 +91,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 57,
+    "question": "The purchase journal records:",
+    "option": {
+      "a": "invoices from creditors",
+      "b": "Debtors' invoices",
+      "c": "Cash payments to suppliers",
+      "d": "Amounts owing to employees for wage;"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "post-utme",
     "examyear": "2012"
@@ -256,6 +288,22 @@
     "examyear": "2016"
   },
   {
+    "id": 157,
+    "question": "Clifford pays rent of  N200 per month for premises. He paid N 2,800 within the year, Compute the prepayment.",
+    "option": {
+      "a": "N300",
+      "b": "N400",
+      "c": "N660",
+      "d": "N200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 164,
     "question": "A business organization prepares departmental account in order to",
     "option": {
@@ -267,6 +315,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 165,
+    "question": "The objective of departmental account is to",
+    "option": {
+      "a": "ascertain the amount of profits or losses for the enterprise",
+      "b": "ascertain the amount of profits or losses for each department",
+      "c": "ascertain the cost of running the organization.",
+      "d": "offset the loss of each department."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2016"
@@ -480,6 +544,22 @@
     "examyear": "2006"
   },
   {
+    "id": 253,
+    "question": "The balance as per bank statement is",
+    "option": {
+      "a": "D10,900",
+      "b": "D8,400",
+      "c": "D5,600",
+      "d": "D2,800"
+    },
+    "section": "Balance as per cash book [8,400], Bank charges [300], Standing order paid [2,500 ], Unpresented cheques [2,800]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
     "id": 255,
     "question": "Which of the following is not a purpose for preparing departmental accounts? To",
     "option": {
@@ -510,6 +590,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
+  },
+  {
+    "id": 272,
+    "question": "The name given to a budget in public service accounting is",
+    "option": {
+      "a": "vote.",
+      "b": "subvention.",
+      "c": "general order.",
+      "d": "estimate."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2012"
   },
   {
     "id": 274,
@@ -736,6 +832,22 @@
     "examyear": "2014"
   },
   {
+    "id": 362,
+    "question": "The sum of direct cost in a manufacturing account is",
+    "option": {
+      "a": "production cost",
+      "b": "prime cost",
+      "c": "total cost",
+      "d": "finance cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 368,
     "question": "When an asset is sold, the entries for the accumulated depreciation are: debit",
     "option": {
@@ -864,6 +976,22 @@
     "examyear": "2004"
   },
   {
+    "id": 418,
+    "question": "In the balance sheet of a not-for-profit-making organization, subscription paid in advance is regarded as a",
+    "option": {
+      "a": "current asset",
+      "b": "current liability",
+      "c": "capital",
+      "d": "reserve"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 422,
     "question": "Transfers from the head office to branches are best carried out at",
     "option": {
@@ -928,6 +1056,22 @@
     "examyear": "2007"
   },
   {
+    "id": 477,
+    "question": "The accounting convention which states that the performance of a business should be determined by matching all expenses against all revenues is",
+    "option": {
+      "a": "accruals",
+      "b": "materiality",
+      "c": "objectivity",
+      "d": "periodicity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 487,
     "question": "Calculate the balance as per bank statement at the end of the year",
     "option": {
@@ -988,6 +1132,22 @@
     "image": "",
     "answer": "b",
     "solution": "The sales ledger control account is used to monitor the amounts owed by customers to your business. \n\nThe sales ledger control account is also known as debtors control account and includes all entries of debtors as if only one existed.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 545,
+    "question": "A sales for ₦2,570 was recorded in the sales day book as ₦2750. The error committed was",
+    "option": {
+      "a": "error of principle",
+      "b": " error of commission",
+      "c": "error of original entry",
+      "d": "compensating error"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An error of original entry occurs when an incorrect amount is posted to the correct account. A particular example of an error of original entry is a transposition error where the numbers are not entered in the correct order.  This type of error deals directly with the wrong use of figures",
     "examtype": "utme",
     "examyear": "2015"
   },
@@ -1072,6 +1232,22 @@
     "examyear": "2016"
   },
   {
+    "id": 604,
+    "question": "The objective of departmental account is to",
+    "option": {
+      "a": "ascertain the amount of profits or losses for the enterprise",
+      "b": "ascertain the amount of profits or losses for each department",
+      "c": "ascertain the cost of running the organization",
+      "d": "offset the loss of each department"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "The main objectives of departmental accountingare: To check out an interdepartmental performance. To evaluate the performance of the department with the previous period result. The gross profit of each department can be ascertained.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 611,
     "question": "A business has the following information for a particular period:\nCreditors had an opening balance of ₦3,000 and a closing balance of ₦4,000. Debtors had a closing balance of ₦6,000 but the opening balance is not given. During the period, cash received from debtors was ₦35,000, cash paid to suppliers was ₦25,000, discount allowed to customers was ₦4,000, and discount received from suppliers was ₦4,200.\nWhat is the total sales for the period?",
     "option": {
@@ -1104,6 +1280,38 @@
     "examyear": "2017"
   },
   {
+    "id": 621,
+    "question": "Use the following information for the period: the opening debtors balance is ₦4,000; the closing debtors balance is ₦1,500; cash received from debtors totals ₦8,500; bad debts written off amount to ₦350; discount allowed to customers is ₦500; and discount received from customers is ₦1,000. If the gross profit for the period is ₦5,000, what is the net profit?",
+    "option": {
+      "a": " ₦4,350",
+      "b": "₦6,000",
+      "c": "₦5,150",
+      "d": "₦4,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Net profit = Gross profit − Bad debts − Discount allowed + Discount received\n= ₦5,000 − ₦350 − ₦500 + ₦1,000 = ₦5,150",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 624,
+    "question": "Which of these is the subsidiary book for return inwards?",
+    "option": {
+      "a": "Sales day book",
+      "b": "Sales return journal",
+      "c": " Purchases day journal",
+      "d": "Cash book"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Sales return journal otherwise called return inward book is meant for recording of all good returned by customer",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 625,
     "question": "A double entry for a transaction that offsets one amount against another on both sides of the cashbook is a",
     "option": {
@@ -1116,6 +1324,22 @@
     "image": "",
     "answer": "b",
     "solution": "contra entry is used to offset amount or same transaction against another on both side of the cashbook",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 631,
+    "question": "A business has the following information for a trading period: Stock Jan 1 ₦2600, Purchases ₦4000, Carriage inwards ₦500, Sales ₦9000, Carriage outwards ₦500. Determine the net profit.",
+    "option": {
+      "a": " ₦4,000",
+      "b": "₦4,500",
+      "c": ". ₦5,000",
+      "d": "₦1,400"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Cost of goods sold = Opening stock + Purchases + Carriage inwards\n= ₦2,600 + ₦4,000 + ₦500\n= ₦7,100\n\nGross profit = Sales − Cost of goods sold\n= ₦9,000 − ₦7,100\n= ₦1,900\n\nNet profit = Gross profit − Carriage outwards\n= ₦1,900 − ₦500\n= ₦1,400.",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -1136,6 +1360,22 @@
     "examyear": "2017"
   },
   {
+    "id": 662,
+    "question": "A part of public company's profits belonging to the shareholders is",
+    "option": {
+      "a": "public issue",
+      "b": "bonus",
+      "c": "right issue",
+      "d": "dividends"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Dividend is known as the kind of benefit enjoyed by the shareholder for investing their fund in a particular organisation",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 664,
     "question": "Which type of cashbook entry involves recording the same amount on both the debit and credit sides to offset each other?",
     "option": {
@@ -1150,6 +1390,22 @@
     "solution": "A contra entry in the cashbook is used when the business moves money between its own cash and bank accounts—such as depositing cash into the bank or withdrawing cash from the bank",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 671,
+    "question": "A Trading account for the year ended 31st December 2009 shows the following information:\nOpening Stock: ₦32,000\nPurchases: ₦40,000\nCarriage inwards: ₦1,000\nLess Returns: ₦2,000\nSales: ₦48,000\nLess Returns: ₦2,000\nClosing Stock: ₦9,000\nCalculate:\n\nWhat is the cost of goods sold?",
+    "option": {
+      "a": "₦61,000",
+      "b": "₦62,000",
+      "c": " ₦58,000",
+      "d": " ₦57,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Calculate Cost of Goods Sold\nCost of Goods Sold = Cost of Goods Available - Closing Stock\n= ₦71,000 - ₦9,000 = ₦62,000",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 683,
@@ -1276,6 +1532,22 @@
     "image": "",
     "answer": "a",
     "solution": "Retained profit is part of the part of the profits of an organization not distributed as dividends but ploughed back into the business for expansion.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 735,
+    "question": "Given the following manufacturing information: stock of finished goods on January 1st was ₦50,640 and on December 31st was ₦71,380; stock of raw materials on January 1st was ₦32,160 and on December 31st was ₦29,640; purchase of raw materials was ₦145,000; manufacturing wages were ₦52,000; depreciation on factory equipment was ₦16,500; direct expenses were ₦12,500; factory fuel cost ₦7,000; and carriage inwards on raw materials was ₦7,000, what is the cost of raw materials consumed?",
+    "option": {
+      "a": "₦154,520.",
+      "b": "₦53,000",
+      "c": "₦150,000",
+      "d": "₦152,120"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "To calculate the cost of raw materials consumed, use the formula:\nCost of Raw Materials Consumed = Opening Stock of Raw Materials + Purchases + Carriage Inwards - Closing Stock of Raw Materials\nCalculation:\nCost of Raw Materials Consumed = ₦32,160 + ₦145,000 + ₦7,000 - ₦29,640\nCost of Raw Materials Consumed = ₦184,160 - ₦29,640 = ₦154,520\nTherefore, the cost of raw materials consumed is ₦154,520.",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1488,6 +1760,22 @@
     "examyear": "2021"
   },
   {
+    "id": 846,
+    "question": "The simplest form of single entry procedure consists of keeping a ___?",
+    "option": {
+      "a": "day book or general journal",
+      "b": "cash book and ledger accounts showing debtors and creditors balances",
+      "c": "cash journal, sales journal and purchases journal",
+      "d": "day book in which transactions are described in chronological order"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The simplest form of single-entry procedure consists of keeping a 'day book' in which transactions are described in chronological order. ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 857,
     "question": "Use the information below to answer question\n\nAn asset was purchase for ₦343m in 2003.\nThe estimated life of the asset was 3 years with a residual value of ₦28m.\n\nWhat was the asset value at the beginning of the third year?",
     "option": {
@@ -1596,6 +1884,38 @@
     "image": "",
     "answer": "d",
     "solution": "COGS = Opening Stock + Purchases + Carriage Inwards\n= ₦2,600 + ₦4,000 + ₦500\n= ₦7,100\n\nGross Profit = Sales – COGS\n= ₦9,000 – ₦7,100\n= ₦1,900\n\nNet Profit = Gross Profit – Carriage Outwards\n= ₦1,900 – ₦500\n= ₦1,400",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 896,
+    "question": "Subscription in advance is treated in the balance sheet as a",
+    "option": {
+      "a": " fixed asset",
+      "b": "long term liability",
+      "c": "current asset",
+      "d": "current liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Subscription in advance is the sum of money prepaid by the members of club representing their dues for next year. It is treated as a liability in the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 902,
+    "question": "Which of the following is used to service all operations of government?",
+    "option": {
+      "a": " general reserve fund",
+      "b": "consolidated revenue fund",
+      "c": " special operational fund",
+      "d": " consolidated reserve fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Consolidate revenue fund shows the total income derived by the government from all the sources of revenue.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -1774,6 +2094,22 @@
     "solution": "An accountant reviews and analyses financial records, keeping track of a company's or individual's income, expenditures, and tax liabilities. An accountant may also be involved in project planning, cost analysis, auditing, and financial decision-making.",
     "examtype": "utme",
     "examyear": "2024"
+  },
+  {
+    "id": 965,
+    "question": "One of the major features of bookkeeping is that it?",
+    "option": {
+      "a": " provides permanent records for all financial transactions",
+      "b": "is futuristic in nature",
+      "c": "accpets responsibility for all wrong postings",
+      "d": "does not give room for double entry procedures"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Bookkeeping is the process of recording all financial transactions of a business in a systematic and chronological order.",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 966,
@@ -2048,6 +2384,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1125,
+    "question": "The recording phase of accounting is known as?",
+    "option": {
+      "a": "bookkeeping",
+      "b": " trial balancing",
+      "c": " ledger accounting",
+      "d": "final accounting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reason: bookkeeping is the stage where transactions are recorded (journals, ledgers, subsidiary books). Trial balancing, ledger accounting and final accounting are later stages.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1139,
     "question": "Advertising expenses incurred on a product in a business organization should be charged to?",
     "option": {
@@ -2060,6 +2412,38 @@
     "image": "",
     "answer": "b",
     "solution": "Advertising expenses are directly related to promoting and selling the product.\n\nThey are part of selling and distribution expenses, which fall under the responsibility of the sales department.\n\nProduction handles manufacturing, administration handles general office and management expenses, and purchases deals with acquiring raw materials, none of which cover advertising costs.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1146,
+    "question": "Given: \nRich Social Club \nCash................................>₦100,000\nLoan ...............................>₦30000\nSubscription in arrears.............>₦5,000\nSubscription in advance.............>₦15,000\n\nWhat is the accumulation fund?",
+    "option": {
+      "a": "₦60,000",
+      "b": " ₦80,000",
+      "c": " ₦90,000",
+      "d": "₦110,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Step 1 – Identify assets:\n\nCash = ₦100,000\n\nSubscription in arrears = ₦5,000 (this is money owed to the club, so it’s an asset)\n\nTotal Assets = ₦100,000 + ₦5,000 = ₦105,000\n\nStep 2 – Identify liabilities:\n\nLoan = ₦30,000\n\nSubscription in advance = ₦15,000 (this is money the club owes in service, so liability)\n\nTotal Liabilities = ₦30,000 + ₦15,000 = ₦45,000\n\nStep 3 – Calculate Accumulated Fund:\nAccumulated Fund = Assets − Liabilities\nAccumulated Fund = ₦105,000 − ₦45,000 = ₦60,000",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1157,
+    "question": "<b>Use the information below to answer questions 43 and 44</b>\n\nGoods from head office................₦13,400\nReturns to head office ...............₦118\nRates and insurance paid .............₦188\nWages paid ...........................₦913\nCash remitted to head office..........₦16,625\nStock at 1/1/2000.....................₦1,875\nRents paid ...........................₦325\nStock at 31/12/2000 ..................₦1,975\nSundry expenses ......................₦200\n\nThe profit realized from the trade is?",
+    "option": {
+      "a": "₦4 069",
+      "b": "₦1 817",
+      "c": "₦1 440",
+      "d": "₦1 328"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Goods supplied net of returns = 13,400 − 118 = 13,282\nOpening stock = 1,875\nClosing stock = 1,975\n\nCost of goods sold = Opening + Goods supplied − Closing\n                    = 1,875 + 13,282 − 1,975\n                    = ₦13,182\n\nSales (taken as cash remitted) = ₦16,625\nBranch expenses (paid) = 188 + 913 + 325 + 200 = ₦1,626\n\nProfit = Sales − COGS − Expenses\n       = 16,625 − 13,182 − 1,626\n       = ₦1,817",
     "examtype": "utme",
     "examyear": "2003"
   },
@@ -2172,6 +2556,22 @@
     "image": "",
     "answer": "d",
     "solution": "Reason: single-entry is easy and simple to operate (less paperwork), though it sacrifices completeness and accuracy.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1209,
+    "question": "Given:\n\nSales ............................₦195,200\nStock 1st January.................₦34,000\nPurchases ........................₦126,000\nSales returns ....................₦1,200\nPurchases returns ................₦2,000\n\nIf the gross profit is ₦66,000, what is the value of stock at 31st December?",
+    "option": {
+      "a": "₦30,000",
+      "b": "₦40,000",
+      "c": "₦50000",
+      "d": "₦20,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Net sales = ₦195,200 − ₦1,200 = ₦194,000\nCOGS = Net sales − Gross profit = ₦194,000 − ₦66,000 = ₦128,000\n\nNet purchases = ₦126,000 − ₦2,000 = ₦124,000\nCOGS = Opening stock + Net purchases − Closing stock\n128,000 = 34,000 + 124,000 − Closing stock = 158,000 − Closing stock\n\nClosing stock = 158,000 − 128,000 = ₦30,000",
     "examtype": "utme",
     "examyear": "2002"
   },
@@ -2508,6 +2908,22 @@
     "image": "",
     "answer": "c",
     "solution": "When a partner retires, goodwill must be valued to determine the retiring partner's fair share of the business value, including intangible assets like goodwill.",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1345,
+    "question": "As part of the initial investment, a partner contributes office equipment that originally cost ₦20,000 and on which provision for depreciation of ₦12,500 had been recorded. If the partners agree on a valuation of ₦9,000 for the equipment, what amount should be debited to the office equipment account?",
+    "option": {
+      "a": "₦7,500",
+      "b": "₦9,000",
+      "c": "₦12,500",
+      "d": "₦20,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When a partner contributes assets to a partnership, the assets should be recorded at their agreed valuation, not their original cost or book value.\nGiven information:\n\nOriginal cost of equipment: ₦20,000\nAccumulated depreciation: ₦12,500\nBook value: ₦20,000 - ₦12,500 = ₦7,500\nAgreed valuation by partners: ₦9,000\n\nKey principle:\nIn partnership accounting, contributed assets are recorded at their fair value as agreed by the partners, regardless of the contributor's original cost or book value.",
     "examtype": "utme",
     "examyear": "1999"
   },

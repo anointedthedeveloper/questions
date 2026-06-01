@@ -16,6 +16,22 @@
     "examyear": "2010"
   },
   {
+    "id": 34,
+    "question": "Where a correct amount is entered, but in the wrong person's account, is an error of  ",
+    "option": {
+      "a": "Principle  ",
+      "b": " Omission",
+      "c": "Commission",
+      "d": "Compensation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 35,
     "question": "A credit balance of N350,000 in a cash account shows that  ",
     "option": {
@@ -62,6 +78,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "2013"
+  },
+  {
+    "id": 211,
+    "question": "Which of the following serves the same purpose as a Trading Account?",
+    "option": {
+      "a": "Branch Adjustment Account",
+      "b": "Goods sent to Branch Account",
+      "c": "Branch Stock Account",
+      "d": "Branch Debtors Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
   },
   {
     "id": 261,
@@ -286,6 +318,22 @@
     "solution": "It is the first step in termination process",
     "examtype": "utme",
     "examyear": "2018"
+  },
+  {
+    "id": 751,
+    "question": "One of these is not a similarity between Joint Venture and Partnership.",
+    "option": {
+      "a": "AIM is profit making",
+      "b": "It is for a specific venture",
+      "c": "Involves two people",
+      "d": "have rights and duties"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Joint venture is for a specific venture while partnership is for a perpetual succession.",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 753,
@@ -622,6 +670,38 @@
     "solution": "The National Loan Fund serves as the central channel for all government borrowing and domestic lending transactions, ensuring that loans raised and lent by the government are properly accounted for in one consolidated fund.",
     "examtype": "utme",
     "examyear": "2000"
+  },
+  {
+    "id": 1329,
+    "question": "<b>Use the information below to answer questions 14 and 15</b>\n\n\t\t\t\t  ₦\nCapital: Opening balance \t307,000\nClosing balance \t\t342,000\nNet profit for the period \t121,600\nOpening stock \t\t\t98,800\nPurchases \t\t\t706,000\nCarriage inwards \t\t17,500\nCost of goods sold \t\t740,700\nTotal selling, general and\nAdministrative expenses  \t526,000\nDiscount received \t\t9,650\n\n\nCalculate the gross profit for the period?",
+    "option": {
+      "a": " ₦ 535,650",
+      "b": "₦628,300",
+      "c": "₦637,950",
+      "d": "₦647,600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Formula:\nGross Profit = Net Profit + SG&A Expenses – Discount Received\n\nNumbers:\n\nNet Profit = ₦121,600\n\nSG&A Expenses = ₦526,000\n\nDiscount Received = ₦9,650\n\nCalculation:\nGross Profit = 121,600 + 526,000 – 9,650\nGross Profit = 647,600 – 9,650\nGross Profit = ₦637,950",
+    "examtype": "utme",
+    "examyear": "1999"
+  },
+  {
+    "id": 1348,
+    "question": "If a sole proprietorship is purchased for cash, then?",
+    "option": {
+      "a": "the purchaser debits his business purchase account with the consideration he pays",
+      "b": "all assets and liabilities must be bought",
+      "c": "goodwill results where value of assets",
+      "d": "the vendor debits his business purchase account with the considerstion he receives"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The purchaser records the total purchase price in a \"Business Purchase Account\" or similar account, which is then analyzed and allocated to individual assets and goodwill.",
+    "examtype": "utme",
+    "examyear": "1999"
   },
   {
     "id": 1438,

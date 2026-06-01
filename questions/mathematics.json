@@ -128,6 +128,22 @@
     "examyear": "2013"
   },
   {
+    "id": 68,
+    "question": "What is the remainder when x3 +5x2-6x+1 is divided by x-1? ",
+    "option": {
+      "a": "-1",
+      "b": "2",
+      "c": "-2",
+      "d": "1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 77,
     "question": "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for N150,000. How much does he need to deposit?\n",
     "option": {
@@ -992,6 +1008,22 @@
     "examyear": "2011"
   },
   {
+    "id": 734,
+    "question": "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3",
+    "option": {
+      "a": "24",
+      "b": "27",
+      "c": "32",
+      "d": "36"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "U  ∝ 1/V<sup>3</sup>\n\n\nU = k/V<sup>3</sup>\n\n\nk = UV<sup>3</sup>\n\n\nk = 81 x 2<sup>3</sup>\n = 81 x 8\n\nWhen V = 3,\n\nU = k/V<sup>3</sup>\n\n\nU = 81×8/3<sup>3</sup>\n\n\nU = 81×8/27\n = 24",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 738,
     "question": "The sum to infinity of a geometric progression is −1/10\n and the first term is −1/8\n. Find the common ratio of the progression.",
     "option": {
@@ -1180,6 +1212,22 @@
     "image": "",
     "answer": "c",
     "solution": "P = (Q(R−T)/15)<sup>(1/3)</sup>\ntake cube of both sides\n\nP<sup>3</sup>=Q(R−T)/15\ncross multiply\n\n15P<sup>3</sup>=Q(R−T)\n15P<sup>3</sup>/Q = R - T \n\nT = R - 15P<sup>3</sup>/Q\n ",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 934,
+    "question": "What is the place value of 9 in the number 3.0492?",
+    "option": {
+      "a": "9/10000",
+      "b": "9/1000",
+      "c": "9/100",
+      "d": "9/10"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1628,6 +1676,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given Data: x<sub>1</sub> = -3,  x<sub>2</sub> = 2,y<sub>1</sub>  = 5,  y<sub>2</sub> = 10\n\ncoordinates of the mid-point of the line = (x<sub>1</sub>+x<sub>2</sub> /2, y<sub>1</sub>+y<sub>2</sub> /2)\n\n(−3+2/2, 5+10/2)\n\n=  −1/2) , 15/2)",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 1136,
+    "question": "If a dress is sold for #3800.00 at 20% discount. what is its original price?",
+    "option": {
+      "a": "#3,000.00",
+      "b": "#4,000.00",
+      "c": " #5,000.00",
+      "d": " #4,750.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "It is given that the cost of the item reduces to #3800.00 after the discount on the item.\n\nLet original price = x\n\nx – (20% of x) = 100\n\n⇒ x – 0.2x = 100\n\n⇒ 0.8x = #3800\n\n⇒ x = 3800/0.8\n⇒ x = 4,750",
     "examtype": "utme",
     "examyear": "2022"
   },

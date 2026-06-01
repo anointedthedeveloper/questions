@@ -240,6 +240,22 @@
     "examyear": "2010"
   },
   {
+    "id": 110,
+    "question": "A p-n junction can act as  ",
+    "option": {
+      "a": "an amplifier  ",
+      "b": "a rectifier  ",
+      "c": "an inductor ",
+      "d": "a capacitor "
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 111,
     "question": "  Calcium has a work function of 19 eV with a wavelength of 150 nm. Calculate the maximum energy of a photo electron emitted. (1 eV = 16.1 x 10-19J, h = 6.6 x 10-34Js)            ",
     "option": {
@@ -428,6 +444,22 @@
     "image": "",
     "answer": "a",
     "solution": "The concept of centrifugal force can be applied in rotating devices, such as centrifuges, centrifugal pumps, centrifugal governors, and centrifugal clutches, and in centrifugal railways, planetary orbits and banked curves, when they are analyzed in a rotating coordinate system",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 225,
+    "question": "In the diagram above, the direction of the force between N and S in the magnetic field is",
+    "option": {
+      "a": " MP",
+      "b": "SN",
+      "c": "NS",
+      "d": "PM"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610508/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_46_vlldts.jpg",
+    "answer": "c",
+    "solution": "Magnetic field lines flow from the north pole to the south pole. The force direction is from the north pole (N) toward the south pole (S).",
     "examtype": "utme",
     "examyear": "2016"
   },
@@ -1408,6 +1440,22 @@
     "examyear": "2008"
   },
   {
+    "id": 837,
+    "question": "The resultant of two forces 12 N and 5 N is 13 N. What is the angle between the two forces?",
+    "option": {
+      "a": " 0°",
+      "b": "45°",
+      "c": "90°",
+      "d": "180°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "\nGiven information:\nForce F₁ = 12 N\nForce F₂ = 5 N\nResultant R = 13 N\n\nSolution:\n\nStep 1: Formula for resultant of two forces\nR² = F₁² + F₂² + 2F₁F₂ cos θ\nwhere θ is the angle between the forces.\n\nStep 2: Substitute the given values\n13² = 12² + 5² + 2 × 12 × 5 × cos θ\n169 = 144 + 25 + 120 cos θ\n169 = 169 + 120 cos θ\n\nStep 3: Simplify and solve for cos θ\n169 – 169 = 120 cos θ\n0 = 120 cos θ\ncos θ = 0\n\nStep 4: Determine the angle\ncos θ = 0 ⇒ θ = 90°\n",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 840,
     "question": "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by?",
     "option": {
@@ -1820,6 +1868,22 @@
     "image": "",
     "answer": "d",
     "solution": "Solenoid method: This involves placing the magnet inside a solenoid (an electromagnet) and gradually reducing the current. It provides a controlled environment for effective demagnetization.",
+    "examtype": "utme",
+    "examyear": "2014"
+  },
+  {
+    "id": 1115,
+    "question": "Calculate the mass of the copper deposited during electrolysis when a current of 4 A passes through a copper salt for 2 hours. [Ece of Copper, z = 3.3 × 10⁻⁷ kg C⁻¹]",
+    "option": {
+      "a": " 2.9 × 10⁵ kg",
+      "b": " 9.5 × 10⁻⁷ kg",
+      "c": " 9.5 × 10⁻³ kg",
+      "d": " 2.9 × 10⁴ kg"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\nCurrent, I = 4 A\nTime, t = 2 hours = 2 × 3600 = 7200 s\nElectrochemical equivalent, z = 3.3 × 10⁻⁷ kg C⁻¹\n\nSolution:\n\nStep 1: Calculate total charge passed\nQ = I × t = 4 A × 7200 s = 28 800 C\n\nStep 2: Calculate mass deposited\nm = z × Q = (3.3 × 10⁻⁷) × 28 800 = 3.3 × 10⁻⁷ × 2.88 × 10⁴ = 3.3 × 2.88 × 10⁻³ = 9.504 × 10⁻³ kg\n\nStep 3: Round to two significant figures\n9.504 × 10⁻³ kg ≈ 9.5 × 10⁻³ kg",
     "examtype": "utme",
     "examyear": "2014"
   },

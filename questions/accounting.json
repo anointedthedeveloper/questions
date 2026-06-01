@@ -1,5 +1,21 @@
 [
   {
+    "id": 6,
+    "question": "Which of the following is the most liquid ",
+    "option": {
+      "a": "stock ",
+      "b": "debtors ",
+      "c": "machinery ",
+      "d": "loose tools"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 35,
     "question": "A credit balance of N350,000 in a cash account shows that  ",
     "option": {
@@ -112,6 +128,22 @@
     "examyear": "2022"
   },
   {
+    "id": 912,
+    "question": "The main purpose of transaction file is?",
+    "option": {
+      "a": "to record assets and liabilities",
+      "b": "to update income and expenses",
+      "c": "to make organization decision",
+      "d": " to update master files"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A transaction file is used to hold data during transaction processing. The file is later used to update the master file and audit daily, weekly or monthly transactions.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 920,
     "question": "When expenses are paid on behalf of the venture, the accounting entries is to debit",
     "option": {
@@ -192,6 +224,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1063,
+    "question": "The current ratio is",
+    "option": {
+      "a": "1:1",
+      "b": "2:1",
+      "c": "2.8:1",
+      "d": "3.5:1"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756661739/ALOC-Questions/Accounting/UTME/2005/Accounting_JAMB_2005_Q49-50_zwwc7b.jpg",
+    "answer": "b",
+    "solution": "Current Assets:\n\nStock = ₦10,000\nDebtors = ₦15,000\nCash = ₦5,000\nTotal Current Assets = ₦30,000\n\nCurrent Liabilities:\n\nCreditors = ₦8,000\nWages owed = ₦4,000\nRent owed = ₦3,000\nTotal Current Liabilities = ₦15,000\n\nCurrent Ratio:\nCurrent Ratio = Current Assets ÷ Current Liabilities\nCurrent Ratio = ₦30,000 ÷ ₦15,000 = 2:1\nTherefore, the current ratio is 2:1",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1096,
     "question": "A rapidly growing business organization with multiple units that is interested in comparing the performances and weaknesses of each unit should adopt?",
     "option": {
@@ -224,6 +272,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1243,
+    "question": "<b>Use the information below to answer questions 28 and\n29</b>\n\nSubscription received during the year ₦30,000\nSubscription owed last year ₦4,000\nSubscription received for next year ₦6,000\n\nWhat is the subscription to be charged to income and expenditure account?",
+    "option": {
+      "a": "₦28,000",
+      "b": "₦34,000",
+      "c": "₦30,000",
+      "d": "₦20,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Income = Received during year + Opening arrears − Advance for next year\nSubstituting the numbers:\n\n\nIncome = ₦30,000 + ₦4,000 − ₦6,000 = ₦28,000",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1293,
     "question": "<b>Use the information below to answer questions 28 and 29</b>\n\nMaro Merchant Bank Plc is to issue 500,000 ordinary\nshares of 50k each at ₦ 3,000 per share. Applications\nwere received for 1,550,000 shares fully paid, 1,250,000\nshares are to be issued on a pro rata basis and excess\nsubscriptions were dishonored and refunds made\n\nWhat will be the number of shares to be issued to a subscriber who applied for ₦30,000 shares?",
     "option": {
@@ -236,6 +300,22 @@
     "image": "",
     "answer": "d",
     "solution": "The company is issuing 500,000 shares. Applications were received for 1,550,000 shares, but only applications totaling 1,250,000 shares are considered for pro rata allotment. The remaining applications for 300,000 shares are dishonored and fully refunded.\n\nThe allotment ratio is calculated as follows:\n\nTotal shares to be issued: 500,000\n\nTotal shares considered for allotment: 1,250,000\n\nAllotment ratio = 500,000 / 1,250,000 = 0.4 (or 2/5)\n\nShares allotted = Allotment ratio × Shares applied for\n\nShares allotted = 0.4 × 30,000 = 12,000\n\nThus, the number of shares to be issued to the subscriber is 12,000.",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1310,
+    "question": "The channel through which all government borrowing and domestic lending transactions pass is called?",
+    "option": {
+      "a": "special trust fund",
+      "b": "agency fund",
+      "c": "national loan fund",
+      "d": "contingency fund"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The National Loan Fund serves as the central channel for all government borrowing and domestic lending transactions, ensuring that loans raised and lent by the government are properly accounted for in one consolidated fund.",
     "examtype": "utme",
     "examyear": "2000"
   }

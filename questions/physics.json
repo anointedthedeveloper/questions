@@ -7536,6 +7536,22 @@
     "examyear": "2023"
   },
   {
+    "id": 513,
+    "question": "Which process is responsible for production of energy in stars?",
+    "option": {
+      "a": "Nuclear reaction",
+      "b": "Nuclear fission",
+      "c": "Nuclear fusion",
+      "d": "Radioactive decay"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nuclear fusion is the process in which lighter nuclei are combined to form heavier ones. Matter lost in this process is converted into energy. The energy produced inside the stars is due to the process of nuclear fusion.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 514,
     "question": "How much net work is required to accelerate a 1200 kg car from 10ms⁻¹ to 15ms⁻¹",
     "option": {

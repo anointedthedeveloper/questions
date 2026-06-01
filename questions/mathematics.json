@@ -9840,6 +9840,22 @@
     "examyear": "2011"
   },
   {
+    "id": 634,
+    "question": "Solve for x and y respectively in the simultaneous equations -2x - 5y = 3. x + 3y = 0",
+    "option": {
+      "a": "-3, -9",
+      "b": "9, -3",
+      "c": "-9,3",
+      "d": "3, -9"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "-2x -5y = 3\n\nx + 3y = 0\n\nx = -3y\n\n-2 (-3y) - 5y = -3\n\n6y - 5y = 3\n\ny = 3\n\nbut, x = -3y\n\nx = -3(3)\n\nx = -9\n\ntherefore, x = -9, y = 3",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 635,
     "question": "If x varies directly as square root of y and x = 81 when y = 9, Find x when y = 1(7/9)",
     "option": {
@@ -12016,6 +12032,22 @@
     "examyear": "2016"
   },
   {
+    "id": 827,
+    "question": "From the diagram above, Find the value of < ROP",
+    "option": {
+      "a": "110°",
+      "b": "70°",
+      "c": "95°",
+      "d": "85°"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724002970/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q9_blukmd.jpg",
+    "answer": "c",
+    "solution": "< ROP = 95° (Exterior angle of cyclic quadrilateral)",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 828,
     "question": "The venn diagram shows a class of 50 students with the games they play. How many students play only two games?",
     "option": {
@@ -12716,6 +12748,22 @@
     "image": "",
     "answer": "b",
     "solution": "Y = Px<sup>2</sup> + q\n\nY = 2x<sup>2</sup> - 1\n\nPx<sup>2</sup> + q = 2x<sup>2</sup> - 1\n\nPx<sup>2</sup> = 2x<sup>2</sup> - 1 - q\n\np = (2x<sup>2</sup>−1−q)/x<sup>2</sup>\n\n\nat x = 2\n\nP = (2(2)<sup>2</sup>−1−q)/2<sup>2</sup>\n\n\n= (2(4)−1−q)/4\n\n\n= (8−1−q)/4\n\n\nP = (7−q)/4",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 874,
+    "question": "Evaluate (sin45° + sin30° ) in surd form",
+    "option": {
+      "a": "√3/2√2",
+      "b": "√3 − 1/2",
+      "c": "1/2 √2",
+      "d": "1+√2/2"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724005730/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q6_SOLUTION_xedzj5.jpg",
+    "answer": "d",
+    "solution": "hypotenuse\nsin = 1/2\n\n\nsin45=1/√2\n\n\n= 2/2\n\n\n∴ (sin45 + sin30)\n\n= 1/√2 + 1/2\n\n\n= √2/2 + 1/2\n\n\n= √2+1/2\n\n\n= 1+√2/2",
     "examtype": "utme",
     "examyear": "2017"
   },

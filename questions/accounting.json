@@ -112,6 +112,22 @@
     "examyear": "2013"
   },
   {
+    "id": 141,
+    "question": "An organization which has records of only personal accounts is said to be operating on the basis of",
+    "option": {
+      "a": "single entry",
+      "b": "real accounts",
+      "c": "double entry",
+      "d": "nominal accounts"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 147,
     "question": "Which of the following -is -correct about the imprest system?",
     "option": {
@@ -171,6 +187,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 240,
+    "question": "Cost of goods manufactured is",
+    "option": {
+      "a": "D138,000",
+      "b": "D131,800",
+      "c": "D130,500",
+      "d": "D123,000."
+    },
+    "section": "Given Opening stock:  raw materials [10,000 ], work-in-progress [16,000],  Purchases of raw materials [95,500] , Direct labour wages paid [13,500], Royalties paid [6,200], Accrued wages[2,800], Closing stock- raw materials [7,500], work-in-progress[ 8,500], \tManufacturing overhead [10,000]",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2006"
@@ -720,6 +752,22 @@
     "examyear": "2021"
   },
   {
+    "id": 814,
+    "question": "Using the same departmental information where the organization apportions expenses in the proportion 60:40 for departments A and B respectively, and given that the total depreciation is ₦1,000 with Department A already allocated ₦600 for depreciation, what is the depreciation to be charged to Department B?",
+    "option": {
+      "a": " ₦500",
+      "b": "₦300",
+      "c": "₦400",
+      "d": " ₦600"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The depreciation to be charged to Department B can be calculated in two ways:\nMethod 1 - By difference:\nTotal depreciation - Department A's depreciation = ₦1,000 - ₦600 = ₦400\nMethod 2 - By proportion:\nDepartment B's share = 40% of ₦1,000 = ₦400",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 816,
     "question": "Stationery which will be used over a long period of time is usually recorded as an expense instead of an asset. This concept is called",
     "option": {
@@ -1214,6 +1262,22 @@
     "solution": "The National Loan Fund serves as the central channel for all government borrowing and domestic lending transactions, ensuring that loans raised and lent by the government are properly accounted for in one consolidated fund.",
     "examtype": "utme",
     "examyear": "2000"
+  },
+  {
+    "id": 1324,
+    "question": "Which of the following bank reconciliation items should not be added or subtracted from the bank statement balance to determine the adjusted cash balance?",
+    "option": {
+      "a": "Outstanding cheques",
+      "b": "Bank service charges",
+      "c": "Deposit in the mail not yet received by the bank",
+      "d": "Bank error, charging a company for another company's cheque"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Bank service charges should not be added to or subtracted from the bank statement balance; they are already reflected on the statement and instead are used to adjust the book balance.",
+    "examtype": "utme",
+    "examyear": "1999"
   },
   {
     "id": 1329,

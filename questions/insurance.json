@@ -528,6 +528,22 @@
     "examyear": "1"
   },
   {
+    "id": 59,
+    "question": "In insurance contract offeree is the",
+    "option": {
+      "a": "insured",
+      "b": "insurance company",
+      "c": "client",
+      "d": "Third party"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 60,
     "question": "An individual who is interested in taking an insurance policy must fill a form of application called:",
     "option": {
@@ -3707,6 +3723,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 346,
+    "question": "The saving element in a permanent life assurance policy which represent the policyholder’s interest in the policy is",
+    "option": {
+      "a": "surrender value",
+      "b": "cash value",
+      "c": "sum assured",
+      "d": "residual value"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

@@ -1888,6 +1888,22 @@
     "examyear": "2015"
   },
   {
+    "id": 307,
+    "question": "Assets acquired is recorded by debiting",
+    "option": {
+      "a": "Asset Account, crediting Cash Account",
+      "b": "Cash Account, crediting Asset Account",
+      "c": "Purchase of Business Account, crediting Sale of Business Account",
+      "d": "Asset Account, crediting Purchase of business Account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 308,
     "question": "Goods returned to a supplier is",
     "option": {
@@ -8300,6 +8316,22 @@
     "image": "",
     "answer": "d",
     "solution": "The best distinguishing feature of a non-profit-making organization is that its routine income sources are things like annual subscriptions and levies rather than trading profits.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1402,
+    "question": "<b>Use the information below to answer questions 38 and 39\n\nDan & Baker are in partnership with capitals of ₦50,000 and ₦30,000 each. The partnership agreement provides that:\n(i) profits be shared in the ratio of capital\n(ii) Baker be paid a salary of ₦8,000 \n(iii) both partners pay interest on drawings at 6% p.a.</b>\n\nAt the end of the year, Dan drew₦15,000 while Baker\ndrew ₦14,000 in four equal installment on 31/3, 30/6, 30/9 and 31/12. The net profit for the year was ₦48,000.\n₦5,000 is to be written off the Goodwill account.\n\nWhat is the interest on the drawings by Baker?.",
+    "option": {
+      "a": "₦210",
+      "b": "₦315",
+      "c": "₦450",
+      "d": "₦840"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To calculate the interest on Baker's drawings, determine the period each drawing was outstanding and apply the 6% annual interest rate.\nGiven information:\n\nBaker drew ₦14,000 in four equal installments\nEach installment = ₦14,000 ÷ 4 = ₦3,500\nDrawing dates: 31/3, 30/6, 30/9, and 31/12\nInterest rate: 6% per annum\n\nCalculation of interest on each drawing:\nDrawing on 31/3:\n\nAmount: ₦3,500\nPeriod outstanding: 9 months (April to December)\nInterest = ₦3,500 × 6% × 9/12 = ₦157.50\n\nDrawing on 30/6:\n\nAmount: ₦3,500\nPeriod outstanding: 6 months (July to December)\nInterest = ₦3,500 × 6% × 6/12 = ₦105.00\n\nDrawing on 30/9:\n\nAmount: ₦3,500\nPeriod outstanding: 3 months (October to December)\nInterest = ₦3,500 × 6% × 3/12 = ₦52.50\n\nDrawing on 31/12:\n\nAmount: ₦3,500\nPeriod outstanding: 0 months (drawn at year end)\nInterest = ₦0\n\nTotal interest on Baker's drawings:\n₦157.50 + ₦105.00 + ₦52.50 + ₦0 = ₦315.00\nThe interest on Baker's drawings is ₦315.",
     "examtype": "utme",
     "examyear": "199"
   },

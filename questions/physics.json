@@ -6480,6 +6480,22 @@
     "examyear": "2022"
   },
   {
+    "id": 492,
+    "question": "The graph of pressure (P) against the reciprocal of the volume (I/V) in Boyles's law is a?",
+    "option": {
+      "a": "hyperbola",
+      "b": "parabola",
+      "c": "curve",
+      "d": "straight line"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "When pressure is plotted against 1/V, the relationship becomes P = k(1/V), which is a direct proportionality. This produces a straight line graph passing through the origin with slope equal to the constant k.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 493,
     "question": "What quantity of heat is required to convert 20 g of ice at 0 ºC to water at the same temperature? (Specific latent heat of ice = 336 Jg⁻¹)",
     "option": {
@@ -6652,6 +6668,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614783/ALOC-Questions/Physics/2023/physics_2023-Q11_nw4jov.jpg",
     "answer": "d",
     "solution": "Object A will undergo unstable equilibrium as it can move farther from its original position\n\nObject B will undergo stable equilibrium as it can return to its original position\n\nObject C will undergo neutral equilibrium as it can remain in a new position",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 511,
+    "question": "Rainbow formation is as a result of the combination of which of the following phenomena?\n(i) Reflection\n(ii) Dispersion\n(iii) Total internal reflection\n(iv) Refraction",
+    "option": {
+      "a": "(ii) and (iv) only",
+      "b": "(i), (iii) and (iv) only",
+      "c": "(ii), (iii) and (iv) only",
+      "d": "(i), (ii) and (iv) only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Rainbow formation involves refraction of light entering and exiting water droplets, dispersion of white light into component colors, and reflection at the back surface of the droplets. While total internal reflection does occur, it's often grouped under general reflection in basic explanations, making option D the intended answer.",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -7372,6 +7404,22 @@
     "image": "",
     "answer": "c",
     "solution": "The process of adding impurities to a semiconductor material to increase its conductivity is called doping. This is fundamental to creating functional semiconductor devices like diodes, transistors, and integrated circuits.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 587,
+    "question": "The fourth overtone of a closed pipes is 900Hz, its fundamental frequency is \n",
+    "option": {
+      "a": "50Hz",
+      "b": "100Hz",
+      "c": "200Hz",
+      "d": "400Hz"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Solution:\nUnderstanding closed pipe harmonics:\nIn a closed pipe (one end closed, one end open):\n\nOnly odd harmonics are present\nFundamental frequency (f₀) = 1st harmonic\n1st overtone = 3rd harmonic = 3f₀\n2nd overtone = 5th harmonic = 5f₀\n3rd overtone = 7th harmonic = 7f₀\n4th overtone = 9th harmonic = 9f₀\n\nGiven information:\n\n4th overtone frequency = 900 Hz\nFundamental frequency (f₀) = ?\n\nStep 1: Identify the harmonic number\n4th overtone corresponds to the 9th harmonic\nStep 2: Set up equation\n9f₀ = 900 Hz\nStep 3: Solve for fundamental frequency\nf₀ = 900 / 9\nf₀ = 100 Hz",
     "examtype": "utme",
     "examyear": "2024"
   },

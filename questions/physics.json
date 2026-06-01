@@ -7504,6 +7504,22 @@
     "examyear": "2023"
   },
   {
+    "id": 522,
+    "question": "A 400 N box is being pushed across a level floor at a constant speed by a force P of 100 N at an angle of 30.0° to the horizontal, as shown in the the diagram below. What is the coefficient of kinetic friction between the box and the floor?",
+    "option": {
+      "a": "0.19",
+      "b": "0.24",
+      "c": "0.4",
+      "d": "0.22"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765614857/ALOC-Questions/Physics/2023/physics_2023-Q23_ehlmzy.png",
+    "answer": "a",
+    "solution": "Given information:\n\nWeight of box, W = 400 N\nApplied force, P = 100 N\nAngle, θ = 30.0°\nConstant speed (equilibrium condition)\nCoefficient of kinetic friction, μk = ?\n\nSolution:\nStep 1: Resolve force P into components\nHorizontal component: Px = P cos θ = 100 cos 30°\nPx = 100 × 0.866 = 86.6 N\nVertical component: Py = P sin θ = 100 sin 30°\nPy = 100 × 0.5 = 50 N (directed downward)\nStep 2: Calculate normal force (vertical equilibrium)\nThe vertical forces acting on the box:\n\nNormal force R (upward)\nWeight W (downward)\nVertical component Py (downward)\n\nAt equilibrium:\nR - W - Py = 0\nR = W + Py\nR = 400 + 50\nR = 450 N\nStep 3: Apply horizontal equilibrium\nAt constant speed, horizontal forces are balanced:\nPx = Ffriction\nPx = μkR\nStep 4: Solve for coefficient of kinetic friction\n86.6 = μk × 450\nμk = 86.6/450\nμk = 0.192\nμk ≈ 0.19",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 524,
     "question": "A simple pendulum, has a period of 5.77 seconds. When the pendulum is shortened by 3 m, the period is 4.60 seconds. Calculate the new length of the pendulum",
     "option": {

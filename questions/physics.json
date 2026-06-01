@@ -2272,6 +2272,22 @@
     "examyear": "2015"
   },
   {
+    "id": 144,
+    "question": "Calculate the gravitation force of attraction between two planets of 10²⁴ kg and 10²⁷kg separated by a distance of 10²⁰\nmeters",
+    "option": {
+      "a": " 6.67N",
+      "b": "6.56N",
+      "c": "7.5N",
+      "d": "8.6N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nMass of first planet (m₁) = 10²⁴ kg\nMass of second planet (m₂) = 10²⁷ kg\nDistance between planets (r) = 10²⁰ meters\nGravitational constant (G) = 6.67 × 10⁻¹¹ Nm²/kg²\n\nFormula for Gravitational Force:\nF = G(m₁m₂)/r²\nSubstituting values:\nF = (6.67 × 10⁻¹¹ × 10²⁴ × 10²⁷)/(10²⁰)²\nF = (6.67 × 10⁻¹¹ × 10⁵¹)/(10⁴⁰)\nF = (6.67 × 10⁴⁰)/(10⁴⁰)\nF = 6.67 N\nAnswer: A. 6.67N",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 145,
     "question": "Mr. F. Abioye observed his image through a plane mirror, kept at a distance 4.7m away from him in his room. At what distance is the image found from Abioye's eye?",
     "option": {

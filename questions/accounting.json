@@ -336,6 +336,22 @@
     "examyear": "2013"
   },
   {
+    "id": 105,
+    "question": "A low current ratio in a business indicates that the business is",
+    "option": {
+      "a": "faced with long term loan repayment problem.",
+      "b": "efficient in the utilization of its resources.",
+      "c": "unable to pay its bills on time.",
+      "d": "growing its net asset effectively."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
     "id": 109,
     "question": "The balance at the end of the period is",
     "option": {
@@ -1915,6 +1931,22 @@
     "section": "Use the information below to answer questions 43 and 44\t A company advertised and issued 750,000,12% preference shares of  N 1 each to be issued at  N 1.50 per share. Applications for 1,370,000 were received at 30k per share. 70k per share (including premium) was due on allotment while 25k per share was due on each of the remaining two calls. All amounts due were received. Application money for 120,000 shares was refunded to unsuccessful applicants and the remaining applicants were allotted shares on pro-rata basis.",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 510,
+    "question": "The book value per share is obtained by dividing",
+    "option": {
+      "a": "shareholders equity by outstanding shares",
+      "b": "total assets by outstanding shares",
+      "c": "gross profit by outstanding shares",
+      "d": "net profit by outstanding shares"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -5040,6 +5072,22 @@
     "examyear": "2001"
   },
   {
+    "id": 1249,
+    "question": "If a partner pays a premium of ₦500 for 1/5 share of profit, then the total value of goodwill is?",
+    "option": {
+      "a": "₦500",
+      "b": "₦2,000",
+      "c": "₦2,500",
+      "d": "₦3,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a new partner pays a premium to join a partnership, this premium represents their share of the goodwill of the business.\nGiven:\n\nPremium paid = ₦500\nShare of profit = 1/5\n\nCalculation:\nIf 1/5 share of goodwill = ₦500\nThen total goodwill = ₦500 ÷ (1/5)\nTotal goodwill = ₦500 × 5 = ₦2,500",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 1251,
     "question": "Bala Ltd acquired the business of Bello Ltd and caused the separate existence of the latter company to terminate. This situation is best described as?",
     "option": {
@@ -5116,6 +5164,22 @@
     "image": "",
     "answer": "a",
     "solution": "Opening balance (Nov 1)\nLiability to creditor = ₦13 600\n\nAdd purchases (Nov 15)\n\n₦69 000\n→ ₦13 600 + ₦69 000 = ₦82 600\n\nSubtract cheque paid (Nov 15)\n– ₦51 600\n→ ₦82 600 − ₦51 600 = ₦31 000\n\nCheque returned (Nov 29)\n\n₦3 000\n→ ₦31 000 + ₦3 000 = ₦34 000\n\nDiscount granted (Nov 29)\n– ₦1 500\n→ ₦34 000 − ₦1 500 = ₦32 500",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 1270,
+    "question": "The main objective of bookkeeping is to record economic?",
+    "option": {
+      "a": "transactions systematically for routine managerial decision-making",
+      "b": "events clearly to ensure adequate checks and balances",
+      "c": "events clearly to facilitate strategic managerial desicion-making",
+      "d": "transaction systematically to ascertain the financial position of a business"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The primary aim of bookkeeping is to systematically record all economic transactions so that the business’s financial position can be determined at any point in time.",
     "examtype": "utme",
     "examyear": "2000"
   },

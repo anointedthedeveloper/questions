@@ -10298,6 +10298,25 @@
     "category": "others"
   },
   {
+    "id": 777,
+    "question": "That punch by the young boxer prove to be <u>fatal</u>?",
+    "option": {
+      "a": "effective",
+      "b": "hard",
+      "c": "deadly",
+      "d": "belated"
+    },
+    "section": "<b>In each of questions 68 to 84, choose from the option nearest in meaning to the word underlined.</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "fatal; means causing death. \n\nNearest in meaning is deadly.",
+    "examtype": "utme",
+    "examyear": "2000",
+    "questionNub": 81,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 778,
     "question": "The presence of the security men in the area will provide a <u>moment of respite</u> for the residents?",
     "option": {
@@ -14645,6 +14664,25 @@
     "examtype": "utme",
     "examyear": "2013",
     "questionNub": 74,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1167,
+    "question": "All farmers were encouraged ......carry out fumigation on their farms",
+    "option": {
+      "a": "in",
+      "b": "with",
+      "c": "to",
+      "d": "from"
+    },
+    "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+    "image": "",
+    "answer": "c",
+    "solution": "All farmers were encouraged to carry out fumigation on their farms",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 75,
     "hasPassage": 0,
     "category": "others"
   },

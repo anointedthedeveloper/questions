@@ -9136,6 +9136,22 @@
     "examyear": "2004"
   },
   {
+    "id": 648,
+    "question": "A cell whose internal resistance is 0.5Ω delivers a current of 4A to an external resistor,The loss voltage of the cell is",
+    "option": {
+      "a": "1.250V",
+      "b": "2.000V",
+      "c": "8.000V",
+      "d": "0.125V"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nInternal resistance, r = 0.5 Ω\nCurrent delivered, I = 4 A\nLost voltage, Vₗₒₛₜ = ?\n\nSolution:\nStep 1: Define lost voltage\nLost voltage (voltage drop) is the voltage dissipated across the internal resistance of the cell.\nThis represents the energy lost as heat inside the cell.\nStep 2: Apply Ohm's Law\nFormula: V = IR\nFor internal resistance:\nVₗₒₛₜ = I × r\nWhere:\n\nVₗₒₛₜ = voltage lost/dropped across internal resistance\nI = current\nr = internal resistance\n\nStep 3: Substitute values\nVₗₒₛₜ = 4 × 0.5\nVₗₒₛₜ = 2.0 V\nStep 4: Interpretation\nThis 2V represents:\n\nEnergy dissipated as heat in the cell\nDifference between EMF and terminal voltage\nLost voltage = EMF - Terminal voltage",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 649,
     "question": "If a force of 50N stretches a wire from 20m to 20.01m, what is the amount of force required to stretch the same material from 20m to 20.05m?",
     "option": {
@@ -9500,6 +9516,22 @@
     "image": "",
     "answer": "b",
     "solution": "The impossibility of separating a north pole from a south pole is a consequence of the non‑existence of magnetic monopoles. This is a fundamental property of magnetism.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 678,
+    "question": "A car battery rated 45 A H is charged with a charger whose rating is 2.5A.How long will it take to charge the battery full?",
+    "option": {
+      "a": "10 hrs",
+      "b": "18 hrs",
+      "c": "20 hrs",
+      "d": "25 hrs"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nBattery capacity = 45 ampere‑hours (A H)\nCharger current = 2.5 A\n\nStep 1: Relate capacity, current, and time\nFor a constant current charge, the charging time (in hours) is given by:\nTime = Battery capacity / Charging current\n\nStep 2: Substitute values\nTime = 45 A H / 2.5 A = 18 hours",
     "examtype": "utme",
     "examyear": "2005"
   },

@@ -131,7 +131,7 @@ def create_one(index):
 
             with write_lock:
                 counter['done'] += 1
-                print(f'  [{counter["done"]:>3}/{TARGET}] {email} → {api_key}')
+                print(f'  [{counter["done"]:>3}/{TARGET}] {email} -> {api_key}')
             return
 
         except Exception as e:

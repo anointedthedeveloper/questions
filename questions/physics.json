@@ -15520,6 +15520,22 @@
     "examyear": "2012"
   },
   {
+    "id": 1039,
+    "question": "The p-n junction diodes can act as rectifiers because they",
+    "option": {
+      "a": "conduct current when forward-biased",
+      "b": " conduct current when reverse-biased",
+      "c": "block current when forward-biased",
+      "d": "conduct current in both directions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "p-n junction diodes act as rectifiers because they conduct current when forward-biased.",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 1040,
     "question": "When a brick is taken from the earth's surface to the moon, its mass",
     "option": {

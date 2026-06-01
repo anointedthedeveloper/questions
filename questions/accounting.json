@@ -2496,6 +2496,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1037,
+    "question": "<b>Use the information below to answer questions 22 to 23</b>\n\nZazzau Company:\n\nCash in hand................₦50\nCash in bank................₦1 250\nStock.......................₦4 880\nFurniture...................₦9 60\nBuilding....................₦5 500\nDebtor......................₦1 750\nCreditors...................₦2 150\n\nDrawings of ₦125 were made by the shareholders of the company.\n\nThey company's net current assets amount to?",
+    "option": {
+      "a": "₦5 780",
+      "b": "₦5 70",
+      "c": "₦6 580",
+      "d": "₦7 930"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Current Assets:\n\nCash in hand = ₦50\n\nCash at bank = ₦1,250 → running total = ₦1,300\n\nStock = ₦4,880 → running total = ₦6,180\n\nDebtors = ₦1,750 → Total current assets = ₦7,930\n\nCurrent Liabilities:\n\nCreditors = ₦2,150\n\nNet Current Assets = Current Assets − Current Liabilities\n= ₦7,930 − ₦2,150\n= ₦5,780",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1038,
     "question": "A component of an overhead manufacturing cost is?",
     "option": {
@@ -3564,6 +3580,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672047/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q37-38_sdjnqq.png",
     "answer": "a",
     "solution": "To find the correct closing balance for Musa's current account, properly arrange the account with debits on the left and credits on the right.\nMusa's Current Account (Corrected):\nDebit Side (Left):\n\nDrawings: ₦8,800\nBalance c/d (if credit balance): ?\n\nCredit Side (Right):\n\nBalance b/d: ₦1,800\nInterest on capital: ₦800\nShare of profit: ₦26,200\n\nCalculation:\nTotal credits = ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nLess: Drawings = ₦8,800\nNet credit balance = ₦28,800 - ₦8,800 = ₦20,000\nWait, let me recalculate more carefully:\nCredit side total: ₦1,800 + ₦800 + ₦26,200 = ₦28,800\nDebit side: Drawings ₦8,800\nBalance c/d: ₦28,800 - ₦8,800 = ₦20,000 credit",
+    "examtype": "utme",
+    "examyear": "1997"
+  },
+  {
+    "id": 1452,
+    "question": "The correct closing balance of Lawal’s current account is",
+    "option": {
+      "a": " ₦8,000 credit.",
+      "b": "₦ 14,740 debit",
+      "c": "₦ 14,740credit",
+      "d": "₦ 540 credit"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756672047/ALOC-Questions/Accounting/UTME/1997/Accounting_JAMB_1997_Q37-38_sdjnqq.png",
+    "answer": "a",
+    "solution": "Lawal's Current Account (Corrected):\nCredit Side (Right):\n\nBalance b/d: ₦540\nInterest on capital: ₦360\nShare of profit: ₦13,100\nTotal Credits: ₦14,000\n\nDebit Side (Left):\n\nDrawings: ₦6,000\n\nCalculation:\nClosing balance = Total Credits - Drawings\nClosing balance = ₦14,000 - ₦6,000 = ₦8,000 credit\nSince the credits exceed the debits, Lawal has a credit balance of ₦8,000.",
     "examtype": "utme",
     "examyear": "1997"
   },

@@ -14656,6 +14656,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1076,
+    "question": "Each of the interior angles of a regular polygon is 140°. How many sides has the polygon?",
+    "option": {
+      "a": "9",
+      "b": "8",
+      "c": "7",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Each interior angle = ((n−2)180)/n\n140 = ((n−2)180)/n\nCross multiply:\n\n140n = 180n - 360\n\n40n = 360\n\nn = 9 sides ( A Nonagon)",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1077,
     "question": "A cylinder pipe, made of metal is 3cm thick.If the internal radius of the pipe is 10cm.Find the volume of metal used in making 3m of the pipe.",
     "option": {

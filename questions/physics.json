@@ -8160,6 +8160,22 @@
     "examyear": "2005"
   },
   {
+    "id": 663,
+    "question": "The ray which causes gas molecules to glow is known as",
+    "option": {
+      "a": "cathode ray",
+      "b": "anode ray",
+      "c": "molecular ray",
+      "d": "gamma ray"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "This stream of high‑energy electrons is called a cathode ray. Cathode rays are responsible for the glowing of gases in discharge tubes (e.g., neon signs, Crookes tubes).",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 664,
     "question": "A transformer is rated 240v. If the primary coil is 4000 turns and the secondary voltage 12v, determine the number of turns in the secondary coil.",
     "option": {
@@ -11632,6 +11648,22 @@
     "examyear": "2011"
   },
   {
+    "id": 992,
+    "question": "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?",
+    "option": {
+      "a": "10 cm",
+      "b": "25 cm",
+      "c": " 16 cm",
+      "d": "14 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nFocal length, f = 15 cm (positive for convex lens)\nMagnification, m = +3 (upright image means positive magnification)\nImage is virtual and on the same side as object.\n\nSolution:\n\nStep 1: Sign convention\nUsing Cartesian sign convention (real-is-positive for distances is not used here; we adopt the standard where object distance u is negative for real object, image distance v is negative for virtual image).\nLet the magnitude of object distance be u (positive). Then u = –u (in sign convention).\nSimilarly, v = –v (since image is virtual).\nMagnification m = v / u = (+3). In magnitudes: v / u = 3, so v = 3u.\n\nStep 2: Lens formula\nLens formula: 1/f = 1/v – 1/u.\nSubstituting with signs:\n1/f = 1/(–v) – 1/(–u) = –1/v + 1/u = 1/u – 1/v.\nNow replace v = 3u:\n1/f = 1/u – 1/(3u) = (3 – 1)/(3u) = 2/(3u).\n\nStep 3: Solve for u\nu = (2f) / 3 = (2 × 15) / 3 = 30 / 3 = 10 cm.",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 993,
     "question": "A length of wire has a frequency of 225 Hz when stretched by a force of 225 N. If the force increased to 324 N, what is the new frequency of vibration?",
     "option": {
@@ -12062,6 +12094,22 @@
     "solution": "Given information:\nInitial number of atoms, N₀ = 1000\nHalf‑life, T = 20 s\nRemaining atoms, N = 125\n\nSolution:\n\nStep 1: Radioactive decay formula\nN = N₀ × (½)^(t / T)\n\nStep 2: Substitute the values\n125 = 1000 × (½)^(t / 20)\n\nStep 3: Divide both sides by 1000\n125 / 1000 = (½)^(t / 20)\n0.125 = (½)^(t / 20)\n\nStep 4: Express 0.125 as a power of ½\n0.125 = ⅛ = (½)³\n\nStep 5: Equate exponents\n(½)^(t / 20) = (½)³\nt / 20 = 3\nt = 60 s",
     "examtype": "utme",
     "examyear": "2012"
+  },
+  {
+    "id": 1040,
+    "question": "When a brick is taken from the earth's surface to the moon, its mass",
+    "option": {
+      "a": "remains constant",
+      "b": "reduces",
+      "c": "increases",
+      "d": " becomes zero"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When a brick is taken from the earth's surface to the moon, its mass remains constant. Mass is an intrinsic property of matter that doesn't change with location, although the weight (gravitational force) decreases to about 1/6 of its Earth value due to the moon's weaker gravity.\nRemember:\n\nMass = amount of matter (constant everywhere)\nWeight = gravitational force (varies with location)",
+    "examtype": "utme",
+    "examyear": "2013"
   },
   {
     "id": 1041,

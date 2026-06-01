@@ -1072,6 +1072,22 @@
     "examyear": "1997"
   },
   {
+    "id": 192,
+    "question": "A ledger is a",
+    "option": {
+      "a": "book of accounts",
+      "b": "summary of entries",
+      "c": "book of original entry",
+      "d": "double entry posting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1997"
+  },
+  {
     "id": 195,
     "question": "Which of the following is not a personal account?",
     "option": {
@@ -6782,6 +6798,22 @@
     "solution": "Explanation: Share premium arises from issuing shares above their nominal value and is treated as a capital reserve, not available for distribution as dividend like revenue/general reserves.",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1115,
+    "question": "Which of the following is used to update the cash book in bank reconciliation?",
+    "option": {
+      "a": "Interest received and unpresented cheques",
+      "b": "Commission and debit note",
+      "c": "Unpresented cheques and direct credit",
+      "d": "Interest received and direct credit"
+    },
+    "section": "",
+    "image": "`",
+    "answer": "d",
+    "solution": "Reason: those are items shown on the bank statement but not yet recorded in the cash book, so you update the cash book with them. Unpresented cheques are recorded in the cash book already and are used to reconcile to the bank statement (not to update the cash book).",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 1118,

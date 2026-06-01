@@ -304,6 +304,22 @@
     "examyear": "2013"
   },
   {
+    "id": 79,
+    "question": "…………………checks the arithmetical accuracy of double entry accounts ",
+    "option": {
+      "a": "trading account ",
+      "b": "profit and loss account ",
+      "c": "balance sheet ",
+      "d": "trial lance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2013"
+  },
+  {
     "id": 86,
     "question": "A dishonoured cheque is",
     "option": {
@@ -3200,6 +3216,22 @@
     "examyear": "2020"
   },
   {
+    "id": 798,
+    "question": "The addition of prime cost, indirect cost and opening work- in-progress less the closing work-in-progress will result in cost of",
+    "option": {
+      "a": "goods manufactured",
+      "b": "materials put into production",
+      "c": " goods available for sale",
+      "d": "goods sold"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The formula given represents the calculation for cost of goods manufactured:\nCost of Goods Manufactured = Prime Cost + Indirect Cost + Opening Work-in-Progress - Closing Work-in-Progress",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 806,
     "question": "Which of the following stock valuation method is suitable under inflationary conditions?",
     "option": {
@@ -4064,6 +4096,22 @@
     "examyear": "2008"
   },
   {
+    "id": 1016,
+    "question": "The concept that has much influence over asset valuation and income determination is?",
+    "option": {
+      "a": "entity",
+      "b": "realization",
+      "c": "conversactism",
+      "d": "matching"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Explanation: the conservatism (prudence) concept pushes accountants to understate assets and income and to recognize losses earlier than gains, so it strongly affects asset valuation and income determination.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1017,
     "question": "The journal entries for the purchase of stock on credit are to debit?",
     "option": {
@@ -4268,6 +4316,22 @@
     "image": "",
     "answer": "b",
     "solution": "Reason: A source document (e.g., supplier’s invoice) provides the original evidence of a transaction and is used to verify the cost at which an asset was acquired before it’s recorded in the books.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1071,
+    "question": "A debit in the suspense accounting will appear in the balance sheet as?",
+    "option": {
+      "a": "a current asset",
+      "b": "a current lability",
+      "c": "capital",
+      "d": "drawings"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reason: A debit balance in the suspense account represents an amount yet to be allocated that the business owns (an asset). Therefore it’s shown on the balance sheet as a current asset until cleared.",
     "examtype": "utme",
     "examyear": "2004"
   },

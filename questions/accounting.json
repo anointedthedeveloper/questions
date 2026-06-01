@@ -48,6 +48,22 @@
     "examyear": "2011"
   },
   {
+    "id": 31,
+    "question": "Final accounts of a company refers to: ",
+    "option": {
+      "a": "Trading and profit and loss account  ",
+      "b": "Profit and loss account and balance sheet  ",
+      "c": "Trading account and balance sheet  ",
+      "d": "Trading , profit and loss account and balance sheet"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 34,
     "question": "Where a correct amount is entered, but in the wrong person's account, is an error of  ",
     "option": {
@@ -558,6 +574,22 @@
     "solution": "",
     "examtype": "wassce",
     "examyear": "1997"
+  },
+  {
+    "id": 215,
+    "question": "A system where a separate cash book is maintained for small payments is",
+    "option": {
+      "a": "single entry",
+      "b": "imprest",
+      "c": "float",
+      "d": "reimbursement."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
   },
   {
     "id": 229,
@@ -1900,6 +1932,22 @@
     "image": "",
     "answer": "d",
     "solution": "Realization account: the cash realized from sales of asset is credited to it",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 617,
+    "question": "The account where the profit are distributed to the partner in their profit sharing ratio in partnership",
+    "option": {
+      "a": " trading account",
+      "b": "appropriation account",
+      "c": "balance sheet",
+      "d": "profit and loss account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Appropriation account is the account into which the net profit found in the profit and loss account of the partner will be carried down to and will be shared according to their sharing ratio",
     "examtype": "utme",
     "examyear": "2017"
   },
@@ -4254,6 +4302,22 @@
     "solution": "Local governments in Nigeria maintain Advances Accounts (for tracking loans and advances made to staff and other parties). They do not operate for profit (so no profit account), nor do they typically prepare a commercial-style debtors ledger. While they do prepare statements of assets and liabilities, it isn’t called a “Balance Sheet” in the corporate sense.",
     "examtype": "utme",
     "examyear": "1999"
+  },
+  {
+    "id": 1368,
+    "question": "An advantage of the use of the voucher system is that it?",
+    "option": {
+      "a": "reduces the number of cheques that will be writen during any given period",
+      "b": "provides a highly flexible system for handling unusual transactions",
+      "c": " provides a comprehensive record of business done with particular suppliers",
+      "d": " ensure that every expenditure is reviewed and verified before payment is made"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The voucher system is an internal control mechanism used to authorize and verify expenditures before payments are made. It typically involves preparing a voucher that summarizes the details of a transaction (invoice, purchase order, receipts, etc.) and requires approval before issuing payment.\n\nThis process:\n\nEnsures accuracy\n\nPrevents unauthorized spending\n\nProvides an audit trail",
+    "examtype": "utme",
+    "examyear": "1998"
   },
   {
     "id": 1375,

@@ -6384,6 +6384,22 @@
     "examyear": "2022"
   },
   {
+    "id": 483,
+    "question": "Water is not a good thermometric liquid because it?",
+    "option": {
+      "a": "expands unevenly between 0 ºC and 4 ºC",
+      "b": "maintains fixed density",
+      "c": "has low freezing point",
+      "d": "wets glass"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Water's anomalous expansion between 0 ºC and 4 ºC (where it contracts instead of expands) makes it unsuitable as a thermometric liquid. A thermometer requires uniform, predictable expansion throughout its temperature range for accurate measurements.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 484,
     "question": "Which of these is a second-class lever?",
     "option": {
@@ -9936,6 +9952,22 @@
     "examyear": "2008"
   },
   {
+    "id": 826,
+    "question": "Short sightedness can be corrected by what type of lens?",
+    "option": {
+      "a": " Concave lens",
+      "b": "Convex lens",
+      "c": " Converging lens",
+      "d": "Mirrors"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Shortsightedness is corrected using a concave (curved inwards) lens which is placed in front of a myopic eye",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 827,
     "question": "A short chain is sometimes attached to the back of a petrol tanker to?",
     "option": {
@@ -11068,6 +11100,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nIn an AC circuit, resonance occurs when the inductive reactance equals the capacitive reactance (X_L = X_C).\n\nSolution:\n\nStep 1: Condition at resonance\nAt resonance, the circuit behaves purely resistively. The phase angle between voltage and current is zero.\n\nStep 2: Interpretation\nA phase angle of zero means the voltage and current are in phase, neither leads nor lags.\n\nStep 3: Evaluate options\nOnly 0° corresponds to this condition.",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 930,
+    "question": "In a discharge tube, most of the gas is pumped out so that electricity is conducted at?",
+    "option": {
+      "a": "low voltage",
+      "b": "steady voltage",
+      "c": "high pressure",
+      "d": "low pressure"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "pumping out of the gas in the discharge tube reduces the pressure inside the tube, therefore, electricity is conducted at low pressure",
     "examtype": "utme",
     "examyear": "2010"
   },
@@ -13164,6 +13212,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\nForce on smaller piston, F₁ = 200 N\nForce on larger piston, F₂ = 3200 N\n\nSolution:\n\nStep 1: Pascal's principle for hydraulic press\nPressure is transmitted equally throughout the fluid:\nP₁ = P₂\nF₁ / A₁ = F₂ / A₂\n\nStep 2: Express area in terms of radius\nArea A = πr², so\nF₁ / πr₁² = F₂ / πr₂²\nF₁ / r₁² = F₂ / r₂²\n\nStep 3: Rearrange to find ratio r₁ / r₂\nr₁² / r₂² = F₁ / F₂\nr₁ / r₂ = √(F₁ / F₂)\n\nStep 4: Substitute values\nr₁ / r₂ = √(200 / 3200) = √(1/16) = 1/4",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1136,
+    "question": "The gravitational pull between two bodies is 20N. Find the gravitational pull when their distance of separation is doubled.",
+    "option": {
+      "a": "10N",
+      "b": "5N",
+      "c": "13N",
+      "d": "20N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\nInitial gravitational force, F₁ = 20 N\nInitial distance, r₁ = r\nFinal distance, r₂ = 2r\n\nSolution:\n\nStep 1: Newton's law of universal gravitation\nF ∝ 1 / r²\nTherefore, F₂ / F₁ = (r₁ / r₂)²\n\nStep 2: Substitute values\nF₂ / 20 = (r / 2r)² = (½)² = ¼\n\nStep 3: Solve for F₂\nF₂ = 20 × ¼ = 5 N",
     "examtype": "utme",
     "examyear": "2025"
   },

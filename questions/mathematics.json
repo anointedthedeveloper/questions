@@ -10320,6 +10320,22 @@
     "examyear": "2012"
   },
   {
+    "id": 764,
+    "question": "The grades of 36 students in a class test are as shown in the pie chart above. How many students have excellent?",
+    "option": {
+      "a": "12",
+      "b": "9",
+      "c": "8",
+      "d": "7"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716130496/ALOC-Questions/Mathematics/2012/2012_MATH_JAMB_Q44_f6pzeb.jpg",
+    "answer": "d",
+    "solution": "Excellent = 360° - (120° + 90° + 80°)\n\n= 70°\n\nNumber of excellent students = 70/360 × 36\n= 7 students",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 765,
     "question": "The bar chart above shows the distribution of marks in a class test. If the pass mark is 5, what percentage of students failed the test?",
     "option": {

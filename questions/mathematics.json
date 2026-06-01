@@ -14848,6 +14848,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1062,
+    "question": "A trapezium has two parallel sides of lengths 5cm and 9cm. If the area is 91cm2\n, find the distance between the parallel sides",
+    "option": {
+      "a": "13 cm",
+      "b": "4 cm",
+      "c": "6 cm",
+      "d": "7 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007318/ALOC-Questions/Mathematics/2021/MATH_JAMB_2021_Q5_ienw34.png",
+    "answer": "a",
+    "solution": "Area of Trapezium = 1/2(sum of parallel sides) * h\n91 = 1/2 (5 + 9)h\n\ncross multiply\n91 = 7h\nh = 91/7\n\nh = 13 cm",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1063,
     "question": "find the value of p if the line which passes through (-1, -p) and (-2,2) is parallel to the line 2y+8x-17=0?",
     "option": {

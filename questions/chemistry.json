@@ -10960,6 +10960,22 @@
     "examyear": "2023"
   },
   {
+    "id": 697,
+    "question": "Which of the following alkanes has a straight-chain structure?",
+    "option": {
+      "a": "Cyclopentane (C₅H₁₀)",
+      "b": "Isobutane (C₄H₁₀)",
+      "c": "2-methylpropane (C₄H₁₀)",
+      "d": "Pentane (C₅H₁₂)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Pentane (C₅H₁₂) has the structure CH₃CH₂CH₂CH₂CH₃, which is an unbranched straight chain of five carbon atoms. Cyclopentane is a cyclic compound, not a straight-chain alkane. Isobutane and 2-methylpropane are the same compound — a branched isomer of butane with a methyl group on C2, not a straight chain.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 698,
     "question": "What is the product of the electrolysis of aqueous sodium chloride (NaCl) using inert electrodes?",
     "option": {

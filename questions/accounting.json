@@ -64,6 +64,38 @@
     "examyear": "2014"
   },
   {
+    "id": 515,
+    "question": "Use the information below to answer this question\n\nSegunOjo, didn’t keep her books on double principle. On 1st Jan, 2014, cash in hand was ₦850, bank overdraft ₦3,500, debtor ₦15,500,stock ₦18,000, fittings 9,000 and creditors ₦12,700. As at Dec, 2014, cash in hand was ₦1,200, cash at bank ₦2,500, debtors ₦10,000, stock ₦20,500, furnishing ₦4,000 and creditors ₦17,000\n\nDetermine the closing capital 31/12/2014",
+    "option": {
+      "a": "₦17,500",
+      "b": "₦38,200",
+      "c": "₦20,700",
+      "d": "₦21,200"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "To find SegunOjo’s closing capital at 31 Dec 2014, we simply take all closing assets less all closing liabilities:\nSum of closing assets\nCash in hand: ₦1,200\nCash at bank: ₦2,500\nDebtors: ₦10,000\nStock: ₦20,500\nFurnishings: ₦4,000\nTotal assets = 1,200 + 2,500 + 10,000 + 20,500 + 4,000 = ₦38,200\nSum of closing liabilities\nCreditors: ₦17,000\nClosing capital Closing capital=Total assets−Total liabilities=38200−17,000=₦21,200.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 545,
+    "question": "A sales for ₦2,570 was recorded in the sales day book as ₦2750. The error committed was",
+    "option": {
+      "a": "error of principle",
+      "b": " error of commission",
+      "c": "error of original entry",
+      "d": "compensating error"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "An error of original entry occurs when an incorrect amount is posted to the correct account. A particular example of an error of original entry is a transposition error where the numbers are not entered in the correct order.  This type of error deals directly with the wrong use of figures",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 605,
     "question": "Which of the following expenses relate to the profit and loss account of a manufacturing firm?",
     "option": {
@@ -94,6 +126,38 @@
     "solution": "Realization account: the cash realized from sales of asset is credited to it",
     "examtype": "utme",
     "examyear": "2017"
+  },
+  {
+    "id": 644,
+    "question": "Two departments A and B have the following information: Department A has Sales ₦250,000, Purchases ₦500,000, Discount received ₦24,000, and Discount allowed ₦15,000. Department B has Sales ₦150,000 and Purchases ₦250,000. Determine the discount allowed by Department A.",
+    "option": {
+      "a": " ₦5,000",
+      "b": "₦9,375",
+      "c": "₦5,625",
+      "d": "₦8,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Calculate total sales\n\nDepartment A sales: ₦250,000\nDepartment B sales: ₦150,000\nTotal sales: ₦400,000\n\nStep 2: Calculate Department A's proportion of total sales\nDepartment A's proportion = ₦250,000 ÷ ₦400,000 = 62.5%\nStep 3: Allocate total discount allowed proportionally\nTotal discount allowed = ₦15,000 (given for the business)\nDepartment A's discount allowed = ₦15,000 × 62.5% = ₦9,375\nDepartment A's discount allowed is ₦9,375, representing their proportional share based on sales volume.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 753,
+    "question": "Bought motor vehicle ₦60 paying by cheque. The effect of the transaction will be",
+    "option": {
+      "a": "Increase in assets of motor vehicle account",
+      "b": "Decrease in assets of motor vehicle account",
+      "c": " Increase in assets of bank account",
+      "d": "Increase in liabilities of bank account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The motor vehicle account is the receiver while bank account is giving out. Therefore, there will be an increase in motor account and a decrease in bank account.",
+    "examtype": "utme",
+    "examyear": "2019"
   },
   {
     "id": 810,
@@ -220,6 +284,22 @@
     "image": "",
     "answer": "d",
     "solution": "Raw materials consumed = Opening RM + Purchases RM − Closing RM\n= ₦2,250 + ₦15,000 − ₦3,000 = ₦14,250\n\nDirect labour = ₦17,100\n\nManufacturing overheads (indirect wages) = ₦5,400\n\nTotal manufacturing costs = RM consumed + Direct labour + Overheads\n= ₦14,250 + ₦17,100 + ₦5,400 = ₦36,750\n\nAdd: Opening WIP = ₦1,875 → ₦38,625\n\nLess: Closing WIP = ₦3,375 → ₦35,250\n\nFinal answer: Cost of manufactured goods = ₦35,250.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1057,
+    "question": "The accounting method that reports incomes when earned and expenses when incurred is called?",
+    "option": {
+      "a": "cash accounting",
+      "b": "commitment accounting",
+      "c": "fund accounting",
+      "d": "accrual accounting"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Accrual accounting records income when it is earned (not necessarily when cash is received) and expenses when they are incurred (not necessarily when cash is paid).\n\nThis method gives a more accurate picture of financial performance than cash accounting, which only records transactions when cash changes hands.",
     "examtype": "utme",
     "examyear": "2005"
   },

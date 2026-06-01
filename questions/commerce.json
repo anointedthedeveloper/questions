@@ -1024,6 +1024,22 @@
     "examyear": "2008"
   },
   {
+    "id": 218,
+    "question": "A warehouse which is used to store goods whose customs duty is not yet paid is a ",
+    "option": {
+      "a": "wholesale warehouse",
+      "b": "bonded warehouse",
+      "c": "public warehouse",
+      "d": "branded warehouse"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 219,
     "question": "Balance of payments is made up of ",
     "option": {
@@ -1739,6 +1755,54 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 371,
+    "question": "A source of business financing which involves pledging of a specific asset is ",
+    "option": {
+      "a": "bond ",
+      "b": "mortgage ",
+      "c": "debentures ",
+      "d": "loan"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 373,
+    "question": "A broker is an agent who links a potential investor with ",
+    "option": {
+      "a": "a shareholder who wants to register a company ",
+      "b": "Other members of the exchange who want to trade ",
+      "c": "government official on the exchange ",
+      "d": "a quoted company "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 375,
+    "question": "A communication process providing information for decision-making in an organization is the ",
+    "option": {
+      "a": "Management Information System",
+      "b": "Transmission Control Protocol ",
+      "c": "Information Retrieval System ",
+      "d": "File Transfer Protocol."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -2763,6 +2827,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 589,
+    "question": "Bridging the gap between producers and consumers is the sole purpose of",
+    "option": {
+      "a": "distribution",
+      "b": "hawking",
+      "c": "retailing",
+      "d": "warehousing"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"

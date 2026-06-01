@@ -48,6 +48,22 @@
     "examyear": "2014"
   },
   {
+    "id": 96,
+    "question": "How many colours are in the traffic light?",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2014"
+  },
+  {
     "id": 139,
     "question": "One of the following is not a federal road agencies",
     "option": {
@@ -87,6 +103,22 @@
       "b": "Navy",
       "c": "Civil  defense corps",
       "d": "Police"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2012"
+  },
+  {
+    "id": 170,
+    "question": "Which of these countries operate a unitary system of \tgovernment",
+    "option": {
+      "a": "Nigeria",
+      "b": "U. S. A",
+      "c": "Ghana",
+      "d": "Britain"
     },
     "section": "",
     "image": "",
@@ -157,6 +189,38 @@
     "answer": "a",
     "solution": "",
     "examtype": "wassce",
+    "examyear": "2013"
+  },
+  {
+    "id": 250,
+    "question": "When a constitution is difficult to amend it is said to be",
+    "option": {
+      "a": "rigid",
+      "b": "flexible",
+      "c": "written",
+      "d": "federal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 261,
+    "question": "On a particular day in 2014, the National flag was flown half mask. This act symbolizes",
+    "option": {
+      "a": "National tailors day",
+      "b": "National mourning",
+      "c": "Children’s day",
+      "d": "Golden jubilee celebration"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "neco",
     "examyear": "2013"
   },
   {
@@ -235,6 +299,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 426,
+    "question": "A major civil society group which campaigned against military rule prior to the advent of the Fourth Republic in Nigeria is the",
+    "option": {
+      "a": "Campaign for Democracy",
+      "b": "Save Nigeria Group",
+      "c": "Civil Liberties Organization",
+      "d": "National Democratic Coalition"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "2015"

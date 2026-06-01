@@ -512,6 +512,22 @@
     "examyear": "1999"
   },
   {
+    "id": 328,
+    "question": "A dominant two-party system is operated in",
+    "option": {
+      "a": "the United Kingdom and the United States",
+      "b": "India and Pakistan",
+      "c": "France and Germany",
+      "d": "South Africa and Senegal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 329,
     "question": "Indirect legislation can be achieved by",
     "option": {
@@ -576,6 +592,22 @@
     "examyear": "2016"
   },
   {
+    "id": 388,
+    "question": "The Zikist Movement was popular for its",
+    "option": {
+      "a": "philosophy of non-violence",
+      "b": "promotion of mass literacy",
+      "c": "militant nationalism",
+      "d": "encouragement of multi-party system"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 429,
     "question": "The Igbo political system was based on",
     "option": {
@@ -590,6 +622,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 471,
+    "question": "The bringing of a session of a parliament to an end through royal proclamation is known as",
+    "option": {
+      "a": "political impasse",
+      "b": "dissolution of parliament",
+      "c": "vote of no confidence",
+      "d": "prorogation of parliament."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
   },
   {
     "id": 473,
@@ -651,6 +699,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 502,
+    "question": "The African leader mostly credited for spearheading the formation of the African Union is",
+    "option": {
+      "a": "Muammar Ghaddafi",
+      "b": "Abdelaziz Bouteflika",
+      "c": "Abdoulaye Wade",
+      "d": "Thabo Mbeki."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2012"
@@ -811,6 +875,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 641,
+    "question": "The highest court of appeal under the Republican constitution of Nigeria was the",
+    "option": {
+      "a": "Federal High Court",
+      "b": "Judicial Committee of the Privy Council",
+      "c": "Regional court of Appeal",
+      "d": "Supreme Court"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -1036,6 +1116,22 @@
     "image": "",
     "answer": "d",
     "solution": " The primary function of government is to ensure law and order, creating a stable society.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 787,
+    "question": "In a republic parliamentary system of government, the ceremonial Head of State is the",
+    "option": {
+      "a": "Chief Justice",
+      "b": "Prime Minister",
+      "c": "President",
+      "d": "Queen"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "In a parliamentary system, the President is the ceremonial Head of State.",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -1276,6 +1372,22 @@
     "image": "",
     "answer": "d",
     "solution": "The sole aim of Privatization is profit-making. There is often a reduction of costs or spending and  mass retrenchment of labour in response to economic difficulty.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 974,
+    "question": "One of these is a major problem of the Nigerian civil service",
+    "option": {
+      "a": "inadequate personnel",
+      "b": " political influence",
+      "c": "corruption",
+      "d": "lack of effective leadership"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Corruption is widely recognized as one of the major problems of the Nigerian civil service. It manifests in various forms such as embezzlement, bribery, nepotism, and mismanagement of public funds, which significantly hinder efficiency and service delivery.",
     "examtype": "utme",
     "examyear": "2022"
   },
@@ -1616,6 +1728,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1198,
+    "question": "Removal by impeachment applies to the position of a",
+    "option": {
+      "a": "president",
+      "b": "chief judge",
+      "c": "prime minister",
+      "d": "cabinet minister"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Removal by impeachment applies to the position of a president.\n\nImpeachment means the process by which the chief executive is removed from office by the parliament.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1202,
     "question": "The best form of government for a heterogeneous society is a",
     "option": {
@@ -1644,6 +1772,22 @@
     "image": "",
     "answer": "b",
     "solution": "Public opinion becomes politically relevant when it actively shapes and influences the decisions made by the government. While public opinion can aggregate views, criticize those in power, or show support, its true political relevance is demonstrated when it translates into pressure on policymakers and affects policy outcomes. This influence on government decisions is key to the functioning of a democratic system, as it holds leaders accountable and ensures that public concerns are reflected in governance.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1219,
+    "question": "One of the legacies of pre-colonial Nigeria destroyed by the British was the",
+    "option": {
+      "a": "peace and harmony in the land",
+      "b": "indigenous cultures of the people",
+      "c": "education of the local people",
+      "d": "nation's farmlands"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "One of the legacies of pre-colonial Nigeria destroyed by the British was the indigenous cultures of the people.\n\nWhen British people first came to Nigeria, they saw and regarded many aspects of the peoples' way of life as crude and ungodly. They then destroyed and replaced them with their own. Such were religion, mode of dressing, etc.",
     "examtype": "utme",
     "examyear": "2003"
   },

@@ -256,6 +256,22 @@
     "examyear": "2012"
   },
   {
+    "id": 59,
+    "question": "If a business pays for only 11 months rent during a financial year, what accounting term is given to the outstanding term is given to the outstanding one month's rent? Which of the following equations properly represents a derivation of the fundamental accounting equation?",
+    "option": {
+      "a": "Assets + liabilities = owner's equity ",
+      "b": "Assets = owner's equity",
+      "c": "Cash = assets.  ",
+      "d": "Assets - liabilities = owner's equity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2012"
+  },
+  {
     "id": 62,
     "question": " Which one of the following is not part of a company's equity capital?",
     "option": {
@@ -1111,6 +1127,22 @@
       "b": "N  16,000",
       "c": "N  12,000.",
       "d": "N  4,000"
+    },
+    "section": "Ordinary shares of  N1each  [500,000], 8% preference shares of  N1each [200,000], Interim dividends paid:  - ordinary shares [40,000], - preference shares [12,000], Profit for the year [100,000]",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2006"
+  },
+  {
+    "id": 225,
+    "question": "The dividend per ordinary share for the year is",
+    "option": {
+      "a": "N  0.88 kobo",
+      "b": "N  0.40 kobo",
+      "c": "N  0.20 kobo",
+      "d": "N  0.17 kobo"
     },
     "section": "Ordinary shares of  N1each  [500,000], 8% preference shares of  N1each [200,000], Interim dividends paid:  - ordinary shares [40,000], - preference shares [12,000], Profit for the year [100,000]",
     "image": "",
@@ -2544,6 +2576,22 @@
     "examyear": "2009"
   },
   {
+    "id": 498,
+    "question": "Determine the gross profit",
+    "option": {
+      "a": "N 49,000",
+      "b": "N 48,000",
+      "c": "N 31,000",
+      "d": "N30,000"
+    },
+    "section": "Use the information to answer questions: Work-in-progress 1/1[N 1,000 ];\tWork-in-progress 31/12 \t[N 2,000 ]; Production cost of goods manufactured \t[N 20,000 ] Sales [N 50,000]; Stock of finished goods 1/1 [N 4,000 ]; Stock of finished goods 31/12 [N 5,000 ]; Selling and distribution expenses[  N 2,000 ]; Administrative expenses [ 1,000 ]",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 500,
     "question": "Receipts and payments account is a summary of the",
     "option": {
@@ -2828,6 +2876,22 @@
     "image": "",
     "answer": "b",
     "solution": "The advantages of using a journal in the recording process is, it discloses in one place the complete effects of a transaction, it provides a chronological record of transactions, & it helps to prevent or locate errors because the debit and credit amounts for each entry can be easily compared.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 577,
+    "question": "Given the following information:\n\nDrawings: ₦3,500\nNet loss: ₦2,500\nCapital as at 1.1.2007: ₦35,000\nAdditional capital: ₦10,000\n\nThe adjusted capital as at 31.12.2007 is:",
+    "option": {
+      "a": "₦45,000",
+      "b": "₦39, 000",
+      "c": "₦35,000",
+      "d": "₦46,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find the adjusted capital as at 31.12.2007, start with the opening capital and adjust for all changes during the year.\nGiven:\n\nCapital 1.1.2007: 35,000\nAdditional capital: 10,000\nNet loss: 2,500\nDrawings: 3,500\n\nCapital Account Movement:\nStarting capital (1.1.2007): 35,000\nAdd:\n\nAdditional capital: +10,000\n\nLess:\n\nNet loss: -2,500\nDrawings: -3,500\n\nCalculation:\nAdjusted capital as at 31.12.2007 = 35,000 + 10,000 - 2,500 - 3,500\n= 45,000 - 6,000\n= 39,000",
     "examtype": "utme",
     "examyear": "2016"
   },

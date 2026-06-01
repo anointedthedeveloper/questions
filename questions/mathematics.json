@@ -624,6 +624,22 @@
     "examyear": "2001"
   },
   {
+    "id": 159,
+    "question": "Find the number of ways of selecting 8 subjects from 12 subjects for an examination.",
+    "option": {
+      "a": "490",
+      "b": "495",
+      "c": "496",
+      "d": "498"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Combination is the (n) number of ways of selecting a number of (r) subjects from n.\nnCr = n!/r!(n-r)! = 12! 8! x 4! = 495",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
     "id": 163,
     "question": "In the figure above, PQR is a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, ∠SQR is 75o and ∠QPT is 25o. Calculate the value of ∠RST.",
     "option": {
@@ -1136,6 +1152,22 @@
     "examyear": "2004"
   },
   {
+    "id": 302,
+    "question": "Factorize completely ac - 2bc - a + 4b<sup>2</sup>",
+    "option": {
+      "a": "(a - 2b)(c - a - 2b)",
+      "b": " (a - 2b)(c + a +2b)",
+      "c": " (a - 2b)(c - a + 2b)",
+      "d": " (a - 2b)(c + a - 2b)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "ac - 2bc - a<sup>2</sup> + 4b<sup>2</sup>\nac - 2bc - (a<sup>2</sup> - 4b<sup>2</sup>)\nac - 2bc - (a<sup>2</sup> -(2b)<sup>2</sup>)\nc(a - 2b) - {(a - 2b)(a + 2b)}\n(a - 2b)(c - (a + 2b))\n(a - 2b)(c - a - 2b)",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 304,
     "question": "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec",
     "option": {
@@ -1612,6 +1644,22 @@
     "image": "",
     "answer": "b",
     "solution": "Y = x implies y ≤ x\nY + x = 4 implies y = 4 – x\n∴y = 4 – x\n∴y ≤ x, y + x ≤ 4 and y ≥ 0",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
+    "id": 408,
+    "question": "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between p and r?",
+    "option": {
+      "a": "p varies directly as r<sup>3</sup>",
+      "b": "p varies inversely as r<sup>6</sup>",
+      "c": " p varies inversely as 6√P",
+      "d": "p varies directly as r<sup>6</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "P ∝ 1/q<sup>3</sup>\nP = K/q<sup>3</sup>\nq3 = K/P\nq = K/p<sup>1/3</sup>\nBut q ∝ r<sup>2</sup>\nq = Kr<sup>2</sup>\nK/p<sup>1/3</sup> = Kr<sup>2</sup><sup>2</sup>\nr<sup>2</sup> = K/p<sup>1/3</sup>x 1/K\nr<sup>2</sup> = 1/p<sup>1/3</sup>\nr = (1/p1/3)<sup>2</sup>\nr = 1/p<sup>1/6</sup>\nr ∝ 1/p<sup>1/6</sup>\n∴ r varies inversely as 6√P",
     "examtype": "utme",
     "examyear": "2006"
   },
@@ -4076,6 +4124,22 @@
     "image": "",
     "answer": "c",
     "solution": "Mean of 10 numbers = 16\n\nThe total sum of numbers = 16 x 10 = 160\n\nMean of 11 numbers = 18\n\nTotal sum of numbers = 11 x 18\n\n= 198\n\nThe 11th no. = 198 - 160\n\n= 38",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 1085,
+    "question": "A car travels from calabar to Enugu, a distance of P km with an average speed of U km per hour and continues to benin, a distance of Q km, with an average speed of Wkm per hour. Find its average speed from Calabar to Benin",
+    "option": {
+      "a": "(p+q)/(pw + qu)",
+      "b": "(uw(p+q))/(pw + qu)",
+      "c": "uw(p+q)/pw",
+      "d": "uwpw+qu"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Average speed = totalDistance/TotalTime\n\n\nfrom Calabar to Enugu in time t1, hence\n\nt1 = P/U\nAlso from Enugu to Benin\n\nt2 = q/w\n\n\nAv. speed = (p + q)/(t1 + t2)\n\n\n= (p + q)/((p/u) + (q/w))\n\n\n= p + q x (uw)/(pw + qu)\n\n\n= (uw(p+q))/(pw + qu)",
     "examtype": "utme",
     "examyear": "2021"
   },

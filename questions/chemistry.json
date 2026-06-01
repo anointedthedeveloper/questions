@@ -11424,6 +11424,22 @@
     "examyear": "2024"
   },
   {
+    "id": 733,
+    "question": "The quantity of electricity required to deposit 180g of Ag from a molten silver trioxonitrate(V) is [Ag = 108]",
+    "option": {
+      "a": "1.08F",
+      "b": "3.30F",
+      "c": "1.67F",
+      "d": "1.80F"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Ag⁺ + e⁻ → Ag. One Faraday deposits 1 mole (108g) of Ag. Moles of Ag = 180 ÷ 108 = 1.667 mol. Faradays required = 1.667 × 1 = 1.67F.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 734,
     "question": "What would be the order of the electrolytic cell in an industry intending the production of silver plated spoons?",
     "option": {

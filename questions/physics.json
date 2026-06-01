@@ -48,6 +48,22 @@
     "examyear": "2006"
   },
   {
+    "id": 7,
+    "question": "  An electric kettle with negligible heat capacity is rated at 2000W, if 2.0kg of water is put in it, how long will it take temperature of water to rise from 20oC to 100oC? (specific heat capacity of water = 4200J/Kg-1K-1) ",
+    "option": {
+      "a": "336s ",
+      "b": "240s ",
+      "c": " 168s ",
+      "d": "84s"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2006"
+  },
+  {
     "id": 12,
     "question": "The most suitable type of mirror used for the construction of search light is the: ",
     "option": {
@@ -3424,6 +3440,22 @@
     "examyear": "2006"
   },
   {
+    "id": 753,
+    "question": "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them? [G = 6.67 × 10⁻¹¹ Nm² Kg⁻²]",
+    "option": {
+      "a": "3.50 × 10⁻¹⁰ N",
+      "b": "3.71 × 10⁻⁸ N",
+      "c": "3.57 × 10⁻² N",
+      "d": "4.00 × 10² N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nMass 1 (m₁) = 5.0 kg\nMass 2 (m₂) = 10.0 kg\nDistance (r) = 0.3 m\nGravitational constant (G) = 6.67 × 10⁻¹¹ Nm²/kg²\nForce (F) = ?\n\nUsing Newton's Law of Universal Gravitation:\nF = G(m₁m₂)/r²\nSubstituting values:\nF = (6.67 × 10⁻¹¹ × 5.0 × 10.0)/(0.3)²\nF = (6.67 × 10⁻¹¹ × 50)/0.09\nF = (333.5 × 10⁻¹¹)/0.09\nF = 3335 × 10⁻¹¹/0.09\nF = 3.71 × 10⁻⁸ N",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 758,
     "question": "I. Use a liquid with a high melting point.\nII. use a liquid of high volume expansivity.\nIII. use a capillary tube of large diameter.\n\nwhich of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced?",
     "option": {
@@ -3680,6 +3712,22 @@
     "examyear": "2008"
   },
   {
+    "id": 823,
+    "question": "Convex mirror are used as driving mirrors because images formed are?",
+    "option": {
+      "a": "erect, virtual and diminished",
+      "b": "erect, real and diminished",
+      "c": "erect, virtual and magnified",
+      "d": " inverted virtual and diminished"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Image formed by convex mirror is always erect, virtual and diminished",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 827,
     "question": "A short chain is sometimes attached to the back of a petrol tanker to?",
     "option": {
@@ -3932,6 +3980,22 @@
     "image": "",
     "answer": "b",
     "solution": "Primary colours are red, blue and green\n∴ orange is a secondary colour",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 881,
+    "question": "A piece of radioactive material contains 10²⁰ atoms. If the half‑life of the material is 20 seconds, the number of disintegrations in the first second is?",
+    "option": {
+      "a": "3.47 × 10¹⁸",
+      "b": "6.93 × 10²⁰",
+      "c": "3.47 × 10²⁰",
+      "d": "6.93 × 10¹⁸"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nInitial number of atoms, N₀ = 10²⁰\nHalf‑life, T = 20 s\n\nSolution:\n\nStep 1: Calculate decay constant\nλ = ln 2 / T = 0.693 / 20 = 0.03465 s⁻¹\n\nStep 2: Initial activity\nActivity A₀ = λ N₀ = 0.03465 × 10²⁰ = 3.465 × 10¹⁸ s⁻¹\n\nStep 3: Number of disintegrations in first second\nSince the time interval (1 s) is much smaller than the half‑life, the activity remains nearly constant. Thus, the number of disintegrations ≈ A₀ × 1 s = 3.465 × 10¹⁸.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -4668,6 +4732,22 @@
     "image": "",
     "answer": "c",
     "solution": "Step 1: Calculate total power consumption\nPower from ten 40 W bulbs = 10 × 40 W = 400 W\nPower from five 100 W bulbs = 5 × 100 W = 500 W\nTotal power = 400 W + 500 W = 900 W = 0.9 kW\n\nStep 2: Calculate energy consumed\nEnergy = Power × Time = 0.9 kW × 10 h = 9 kWh\n\nStep 3: Calculate cost\nCost = Energy × cost per unit = 9 kWh × 5 N = 45 N",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1074,
+    "question": "When a charge moves through an electric circuit in the direction of an electric force, it",
+    "option": {
+      "a": " gains both potential and kinetic energy",
+      "b": " gains potential energy and lose kinetic energy",
+      "c": "loses potential energy and gains kinetic energy",
+      "d": "loses both potential and kinetic energy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When a charge moves in the direction of electric force, it loses potential energy and gains kinetic energy.",
     "examtype": "utme",
     "examyear": "2013"
   },

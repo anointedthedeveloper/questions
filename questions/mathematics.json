@@ -6800,6 +6800,22 @@
     "examyear": "2007"
   },
   {
+    "id": 441,
+    "question": "W ∝ L<sup>2</sup> and W = 6 when L = 4. If L = √17 find W",
+    "option": {
+      "a": "6(7/8)",
+      "b": "6(5/8)",
+      "c": "6(3/8)",
+      "d": "6(1/8)"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "W ∝ L<sup>2</sup>\nW = KL<sup>2</sup>\nK = W/L<sup>2</sup>\nK = 6/4<sup>2</sup>\nK = 6/16 = 3/8\nW = 3/8 L<sup>2</sup>\nW = 3/8(√17)<sup>2</sup>\nW = 3/8 x 17\nW = 51/8 = 6(3/8",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
     "id": 442,
     "question": "A binary operation Δ is defined by aΔb = a + b + 1 for any numbers a and b. Find the inverse of the real number 7 under the operation Δ, if the identity element is -1",
     "option": {
@@ -13404,6 +13420,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006172/ALOC-Questions/Mathematics/2017/MATH_JAMB_2017_Q49_casyy2.png",
     "answer": "a",
     "solution": "∠BDC + ∠BDA = 180° { Sum ∠s on a straight line } 65° + ∠BDA = 180° ∠BDA = 115° ∠BDA + ∠BAD + ∠ABD = 180°  (Sum ∠s in a △ } 115° + 50° + x = 180°.  x = 15°",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
+    "id": 918,
+    "question": "Determine the distance between point P(3, 4) and Q(4,5)",
+    "option": {
+      "a": "2",
+      "b": "√5\n ",
+      "c": "√2",
+      "d": "1"
+    },
+    "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"right left right left right left right left right left right left\" rowspacing=\"3pt\" columnspacing=\"0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em\" displaystyle=\"true\">\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi></mi>\n        <mo stretchy=\"false\">(</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>x</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>1</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo>,</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>y</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>1</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo stretchy=\"false\">)</mo>\n        <mo>=</mo>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>,</mo>\n        <mtext>&#xA0;</mtext>\n        <mo stretchy=\"false\">(</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>x</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>2</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo>,</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>y</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>2</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo stretchy=\"false\">)</mo>\n        <mo>=</mo>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>5</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>x</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>2</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo>&#x2212;<!-- − --></mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>x</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>1</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>y</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>2</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo>&#x2212;<!-- − --></mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>y</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>1</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mn>4</mn>\n                <mo>&#x2212;<!-- − --></mo>\n                <mn>3</mn>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mn>5</mn>\n                <mo>&#x2212;<!-- − --></mo>\n                <mn>4</mn>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>1</mn>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>1</mn>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n        <mo>=</mo>\n        <msqrt>\n          <mn>2</mn>\n        </msqrt>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+    "image": "",
+    "answer": "C",
+    "solution": "((x<sub>1</sub>,y<sub>1</sub>)=(3,4),  (x<sub>2</sub>,y<sub>1</sub>) = (4,5) d =√(〖(x<sub>2</sub> -x<sub>1</sub>)<sup>2</sup> +〖(y<sub>2</sub>-y<sub>1</sub>)〗<sup>2</sup> ) & d=√(〖(4 - 3)<sup>2</sup> +〖(5 - 4)〗<sup>2</sup> ) & d=√(1<sup>2</sup> + 1<sup>2</sup> ) = √2)",
     "examtype": "utme",
     "examyear": "2017"
   },

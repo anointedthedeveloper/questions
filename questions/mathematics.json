@@ -1088,6 +1088,22 @@
     "examyear": "2006"
   },
   {
+    "id": 397,
+    "question": "If tan θ = 5/4, find sin<sup>2</sup>θ - cos<sup>2</sup>θ.",
+    "option": {
+      "a": "5/4",
+      "b": "41/9",
+      "c": "9/41",
+      "d": "1\n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Tan θ = 5/4\nx<sup>2</sup> = 5<sup>2</sup> + 42\n= 25 + 16\n= 41\nx = √41\nsin<sup>2</sup>θ - cos<sup>2</sup>θ = (5/√41)<sup>2</sup> - (4/√41)<sup>2</sup>\n= 25/41 - 16/41\n= 9/41",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 405,
     "question": "In the diagram above, PQ = 10 cm, PS = 8 cm and ∠PSR is 60o while ∠SRQ is a right angle. Find SR",
     "option": {
@@ -1262,6 +1278,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2007"
+  },
+  {
+    "id": 472,
+    "question": "Add 1101<sub>2</sub> ,10111<sub>2</sub>  and 111<sub>2</sub> ",
+    "option": {
+      "a": "111011<sub>2</sub> ",
+      "b": "110110<sub>2</sub> ",
+      "c": "101011<sub>2</sub> ",
+      "d": "101010<sub>2</sub> "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": " 1101<sub>2</sub> + 10111<sub>2</sub>  +  111<sub>2</sub>  = 101011",
+    "examtype": "utme",
+    "examyear": "2008"
   },
   {
     "id": 490,
@@ -1982,6 +2014,22 @@
     "solution": "The required roots/region of x is -1≤x≤4",
     "examtype": "utme",
     "examyear": "2016"
+  },
+  {
+    "id": 894,
+    "question": "Evaluate 0.00000231/0.007\n and leave the answer in standard form",
+    "option": {
+      "a": "3.3 x 10<sup>-4</sup>",
+      "b": "3.3 x 10<sup>-3</sup>",
+      "c": "3.3 x 10<sup>-5</sup>",
+      "d": "3.3 x 10<sup>-8</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "0.00000231/0.007 to standard form\n\n= 231×10<sup>-8</sup>/7×10<sup>-3</sup>\n\n\n= 33 × 10<sup>−8−(−3)</sup>\n\n\n= 33 × 10<sup>−8 + 3</sup>\n\n\n= 33 × 10<sup>-5</sup>\n\n= 3.3 x 10<sup>-4</sup>",
+    "examtype": "utme",
+    "examyear": "2017"
   },
   {
     "id": 899,
@@ -2784,6 +2832,22 @@
     "examyear": "2022"
   },
   {
+    "id": 1138,
+    "question": "Evaluate: 16<sup>(0.16)</sup>\n × 16<sup>(0.04)</sup>(0.04) × 2<sup>(0.2)</sup>",
+    "option": {
+      "a": " 2",
+      "b": " 0",
+      "c": "2<sup>0</sup>",
+      "d": " 1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "16<sup>0.16</sup> × 16<sup>0.04</sup> × 2<sup>0.2/sup>\n\n= 2<sup>4(0.16)</sup> × 2<sup>4(0.04)</sup> ×2<sup>0.2</sup>\n\n= 2<sup>0.64</sup> × 2<sup>0.16</sup> × 2<sup>0.2</sup>\n\n=2<sup>(0.64 × 0.16 × 0.2)</sup>\n\n=2<sup>1</sup>\n\n  = 2",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1142,
     "question": "The interior angle of a regular polygon is five times the size of its exterior angle. Identify the polygon.",
     "option": {
@@ -2860,6 +2924,22 @@
     "image": "",
     "answer": "c",
     "solution": "Let p(x)=−2x<sup>3</sup> + 6x<sup>2</sup> + 17x − 21\n\n\nUsing the remainder theorem\n\nLet x + 1 = 0\n\n\n∴ x = −1\n\n\nSince, (x+1) divides p(x), then, remainder will be p(-1)\n\n⇒ p(-1) = -2(-1)<sup>3</sup> +6(−1)<sup>2</sup>  + 17(-1) - 21\n\n∴ p(-1) = -30",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1174,
+    "question": "What is the general term of the sequence 3, 8, 13, 18, ...?",
+    "option": {
+      "a": " 5n - 2",
+      "b": "5n + 2",
+      "c": " 5",
+      "d": " 5n"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given the sequence 3, 8, 13, 18, ... which is an arithmetic sequence\n\na = 3\n\nd = T<sub>2</sub>  - T<sub>1</sub>  = 8 - 3 = 5\n\nThe general term of an A.P is:\n\nT<sub>n</sub>  = a + (n - 1)d\n\n⇒ T<sub>n</sub> = 3 + (n - 1)5\n\n= T<sub>n</sub> = 3 + 5n - 5\n\n∴ T<sub>n</sub> = 5n - 2",
     "examtype": "utme",
     "examyear": "2023"
   },

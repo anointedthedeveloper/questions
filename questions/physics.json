@@ -608,6 +608,22 @@
     "examyear": "2015"
   },
   {
+    "id": 172,
+    "question": "Which of the following will increase the boiling point of water?\n\nI. Taking it to a high altitude\nII. Dissolving a salt into it\nIII. Heating it in a sealed flask\nIV. Increasing the rate of heat supply",
+    "option": {
+      "a": " I only",
+      "b": " III & IV only",
+      "c": "II & III only",
+      "d": "II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The simplest way to change the boiling point of a liquid is to change the surrounding pressure. (a) Using a closed system to artificially increase that pressure will raise the boiling point of a liquid. (b)  Boiling point is dependent upon the strength of the bonds between its molecules. For this reason, adding a solute to the liquid will create stronger bonds between molecules, raising the solution’s boiling point without increasing pressure.",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 181,
     "question": "A charged particle is moving in a uniform magnetic field. if the direction of motion of the charged particle is parallel to the magnetic field, the path of the charge will",
     "option": {
@@ -1472,6 +1488,22 @@
     "examyear": "2022"
   },
   {
+    "id": 468,
+    "question": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
+    "option": {
+      "a": "formation of hydrogen bubbles on the electrode",
+      "b": "increase in the resistance of the cell",
+      "c": "local action",
+      "d": "polarization"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "If the zinc used in the simple cell is of the impure commercial variety bubbles of hydrogen will be seen coming off the zinc. This is called local action.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 472,
     "question": "The secondary pigments consist of?",
     "option": {
@@ -1984,6 +2016,22 @@
     "examyear": "2005"
   },
   {
+    "id": 657,
+    "question": "In an a.c circuit that contains only a capacitor, the voltage lags behind the current by",
+    "option": {
+      "a": "180°",
+      "b": "90°",
+      "c": "60°",
+      "d": "30°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "\n\nGiven information:\n\nA.C. circuit with only a capacitor (purely capacitive circuit)\nPhase relationship between voltage and current\nSolution:\nStep 1: Understand capacitor behavior in A.C. circuits\nIn a purely capacitive circuit:\n\nThe capacitor stores and releases charge\nCurrent flow depends on the rate of voltage change\n\nStep 2: Derive phase relationship\nFor a capacitor: Q = CV\nCurrent: I = dQ/dt = C(dV/dt)\nWhen voltage V = V₀ sin(ωt):\nCurrent I = C × d/dt[V₀ sin(ωt)]\nI = CV₀ω cos(ωt)\nI = CV₀ω sin(ωt + 90°)",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 662,
     "question": "The charge carriers in gasses are",
     "option": {
@@ -2124,6 +2172,22 @@
     "image": "",
     "answer": "c",
     "solution": "Given information:\n\nWhen F₁ = 40 N, total length L₁ = 36 cm\nWhen F₂ = 60 N, total length L₂ = 45 cm\nOriginal length, L₀ = ?\n\nSolution:\nStep 1: Apply Hooke's Law\nForce F = ke\nWhere:\n\nk = spring constant\ne = extension from original length\n\nFor any load: Total length = Original length + Extension\nStep 2: Set up equations\nFor first load:\n36 = L₀ + e₁\n40 = ke₁\nFor second load:\n45 = L₀ + e₂\n60 = ke₂\nStep 3: Find change in extension\nChange in length: 45 - 36 = 9 cm\nChange in force: 60 - 40 = 20 N\nStep 4: Calculate spring constant\nk = ΔF/Δe = 20/9 N/cm\nStep 5: Find extension for first load\nFrom equation: 40 = ke₁\ne₁ = 40/k = 40/(20/9) = 40 × 9/20 = 18 cm\nStep 6: Calculate original length\nL₀ = L₁ - e₁\nL₀ = 36 - 18\nL₀ = 18 cm",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 698,
+    "question": "The amount of energy released when 0.5 kg of uranium is burnt completely is [c = 3 × 10⁸ m/s]",
+    "option": {
+      "a": "1.5 × 10⁸ J",
+      "b": "4.5 × 10⁸ J",
+      "c": "1.5 × 10¹⁶ J",
+      "d": "4.5 × 10¹⁶ J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "\nGiven information:\nMass of uranium, m = 0.5 kg\nSpeed of light, c = 3 × 10⁸ m/s\n\nStep 1: Mass‑energy equivalence formula\nE = m c²\n\nStep 2: Substitute values\nE = 0.5 kg × (3 × 10⁸ m/s)² = 0.5 kg × 9 × 10¹⁶ m²/s² = 4.5 × 10¹⁶ J",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -2670,6 +2734,22 @@
     "solution": "I = E/(R+r)\n= 12/6 = 2A",
     "examtype": "utme",
     "examyear": "2010"
+  },
+  {
+    "id": 954,
+    "question": "A carpenter on top of a roof of 20.0m high dropped a hammer of mass 1.5 kg and it fell directly to the ground. The kinetic energy of the hammer just before hitting the ground is? [g = 10 ms⁻²]",
+    "option": {
+      "a": "600 J",
+      "b": "150 J",
+      "c": "300 J",
+      "d": "450 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nHeight (h) = 20.0 m\nMass (m) = 1.5 kg\ng = 10 m/s²\nInitial velocity (u) = 0 (dropped from rest)\nKinetic energy just before hitting ground = ?\n\nMethod 1: Using conservation of energy\nInitial state (at top):\n\nPE = mgh = 1.5 × 10 × 20 = 300 J\nKE = 0 (at rest)\nTotal energy = 300 J\n\nFinal state (just before hitting ground):\n\nPE = 0 (at ground level)\nKE = ?\nTotal energy = 300 J\n\nBy conservation of energy:\nInitial PE = Final KE\nKE = 300 J\n\nThe kinetic energy of the hammer just before hitting the ground is 300 J.\nExplanation: All the potential energy at the top (300 J) is converted to kinetic energy at the bottom, demonstrating the conservation of mechanical energy. The hammer reaches a velocity of 20 m/s just before impact.",
+    "examtype": "utme",
+    "examyear": "2011"
   },
   {
     "id": 956,

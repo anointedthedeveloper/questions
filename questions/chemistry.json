@@ -6800,6 +6800,22 @@
     "examyear": "2017"
   },
   {
+    "id": 436,
+    "question": "Calculate the mass of copper deposited when a current of 0.5 ampere was passed through a solution of copper (II) chloride for 45 minutes in an electrolytic cell. [Cu = 64, F = 96500 C mol⁻¹]",
+    "option": {
+      "a": "0.300 g",
+      "b": "0.250 g",
+      "c": "0.2242 g",
+      "d": "0.448 g"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Charge = I × t = 0.5 × (45 × 60) = 1350 C. Cu²⁺ + 2e⁻ → Cu, so n = 2. Mass of Cu = (I × t × M)/(n × F) = (0.5 × 2700 × 64)/(2 × 96500) = 86400/193000 = 0.4477 g ≈ 0.448 g.",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 437,
     "question": "The IUPAC nomenclature of the structure shown (CH₂=C(CH₃)-CH₂-CH₃) is",
     "option": {

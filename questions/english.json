@@ -3040,6 +3040,25 @@
     "category": "others"
   },
   {
+    "id": 218,
+    "question": "downtrodden",
+    "option": {
+      "a": "downgrading",
+      "b": "prescribing",
+      "c": "functional",
+      "d": "internal"
+    },
+    "section": "choose the option that has same stress pattern as the given word.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2005",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 222,
     "question": "The EAGLES won the match",
     "option": {
@@ -12312,6 +12331,25 @@
     "category": "others"
   },
   {
+    "id": 994,
+    "question": "My eldest son, who is in Lagos, studying English.",
+    "option": {
+      "a": "only my son is in lagos studying english",
+      "b": "my only son is in lagos studying english",
+      "c": " one of my sons is in lagos studying english",
+      "d": "my sons are in lagos but, only one is studying english"
+    },
+    "section": "<b>In each of the questions 99 to 100 select the option that best explains the information conveyed in the sentence.</b>",
+    "image": "",
+    "answer": "c",
+    "solution": "The speaker said his eldest son, that means he has more than one child but is only talking about one.\n\nThis also means, his son is a student, he lives in Lagos and studying in English language",
+    "examtype": "utme",
+    "examyear": "2011",
+    "questionNub": 99,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 995,
     "question": "If I went to the village I would visit the King.",
     "option": {
@@ -21409,6 +21447,25 @@
     "examtype": "utme",
     "examyear": "2014",
     "questionNub": 6,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1767,
+    "question": "My boss asked me to take my eyes off the ball.",
+    "option": {
+      "a": "I should stop paying attention to what is most important.",
+      "b": "I should be focused when i am about to stay off football.",
+      "c": " I should stay off football after sustaining an injuiry.",
+      "d": " I should be focused when playing football."
+    },
+    "section": "Select the option that best explains the information conveyed in the sentence.",
+    "image": "",
+    "answer": "a",
+    "solution": "Take (one's) eye off the ball. To fail to remain focused on or motivated about some goal, objective, or matter at hand. ",
+    "examtype": "utme",
+    "examyear": "2014",
+    "questionNub": 8,
     "hasPassage": 0,
     "category": "others"
   },

@@ -928,6 +928,22 @@
     "examyear": "2002"
   },
   {
+    "id": 212,
+    "question": "In the diagram above , XZ is the diameter of the circle XZW, with center O and radius 15/2 cm. If XY = 12 cm, find the area of the triangle XYZ",
+    "option": {
+      "a": "54 cm<sup>2</sup>",
+      "b": " 45 cm<sup>2</sup>",
+      "c": "27 cm<sup>2</sup>",
+      "d": "75 cm<sup>2</sup>"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710697800/ALOC-Questions/Mathematics/2002/math_2000_q41_fwwm2j.jpg",
+    "answer": "a",
+    "solution": "o (< semi circle )\nsince radius = 15/2 diameter = 2 * (15/2) = 15cm\nXYZ is a right angled triangle\n∴ 15<sup>2</sup> = 12<sup>2</sup> + (YZ)<sup>2</sup>\n225 = 144 = (YZ)<sup>2</sup>\n225 - 144 = (YZ)<sup>2</sup>\n81 = (YZ)<sup>2</sup>\n√81 = YZ\n9 = YZ\nArea of ΔXYZ = 1/2bh\n(1/2) * 9 * 12\n9 * 6 = 54\n= 54cm<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 220,
     "question": "Use the graph find the values of p and q if px + qy ≥\n 4",
     "option": {
@@ -2156,6 +2172,22 @@
     "image": "",
     "answer": "a",
     "solution": "V = πr2h\n1m = 100cm\n14cm = 1400cm\n∴V=22/7 × (100 x100 x 1400)/1000 = 44,000liters",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 504,
+    "question": "Find the minimum value of the function y = x(1+x)",
+    "option": {
+      "a": " -1/4",
+      "b": " -1/2",
+      "c": " 1/4",
+      "d": "1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "y = x(1+x)\n= x + x2\ndy/dx = 1 + 2x\nAs dy/dy → 0\n1 + 2x = 0\n2x = -1\nX = -1/2\nY = x(1+x)\n= -1/2(1 - 1/2) at x = -1/2\n= -1/2(1/2)\n= -1/4",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -3616,6 +3648,22 @@
     "examyear": "2017"
   },
   {
+    "id": 896,
+    "question": "Find the principal which amounts to ₦ 5,500 at a simple interest in 5 years at 2% per annum",
+    "option": {
+      "a": " ₦ 4,900",
+      "b": "₦ 5,000",
+      "c": "₦ 4,700",
+      "d": "₦ 4,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Principal = P, Simple Interest = I, Amount = A\n\nAmount = Principal + Simple Interest\n\nI = PRT/100\n\n\nR = rate, T = time\n\nI = (P×5×2)/100\n\n\nI = 10P/100\n\n\nI = P/10\n\n\nAmount A = P + I\n\n5500 = P + P/10\n\n\nMultiply through by 100\n\n5500 = 10P + P\n\n5500 = 11P\n\np = 5500/11\n\n\np = ₦5000",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 899,
     "question": "In how many ways can the word MACICITA be arranged?",
     "option": {
@@ -3804,6 +3852,22 @@
     "image": "",
     "answer": "a",
     "solution": "In terms of distance, a circle has a total distance or perimeter of 2πr or πd\n\n  Where r is radius and d is the diameter\n\n  So perimeter = 22/7 x 100\n\n  = 314.2857m\n\n  To cover a distance of 1000m, he is going to round the circular track for 1000/314.2857\n = 3.18\n\n≊ 3 (to the nearest whole number)",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
+    "id": 944,
+    "question": "Two sisters, Taiwo and Kehinde, own a store. The ratio of Taiwo's share to Kehinde's is 11:9. Later Kehinde sells \\(\\frac{2}{3}\\) of her share to Taiwo for N720.00. Find the value of the store",
+    "option": {
+      "a": "N1,080.00",
+      "b": "N2,400.00",
+      "c": "N3,000.00",
+      "d": "N3,600.00"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2018"
   },
@@ -4432,6 +4496,22 @@
     "examyear": "2021"
   },
   {
+    "id": 1070,
+    "question": "Simplify and express in standard form (0.00275 × 0.00640)/(0.025 × 0.08)",
+    "option": {
+      "a": "8.8 x 10<sup>-1</sup>",
+      "b": "8.8 x 10<sup>-2</sup>",
+      "c": "8.8 x 10<sup>-2</sup>",
+      "d": " 8.8 x 10<sup>3</sup>"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>0.00275</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.00640</mn>\n    </mrow>\n    <mrow>\n      <mn>0.025</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>0.08</mn>\n    </mrow>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "(0.00275 × 0.0064)/(0.025 × 0.08)\n \n\nRemoving the decimals = (275 × 64)/(2500 × 800)\n\n\n= 88/10<sup>4</sup>\n\n\n88 x 10<sup>-4</sup> = 88 x 10<sup>-1</sup> x 10<sup>-4</sup>\n\n= 8.8 x 10<sup>-3</sup>",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
     "id": 1080,
     "question": "The mean of ten positive numbers is 16. When another number is added, the mean becomes 18. Find the eleventh number",
     "option": {
@@ -4988,6 +5068,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008055/ALOC-Questions/Mathematics/2023/MATH_2023_Q42_msoqr6.jpg",
     "answer": "c",
     "solution": "sinA/a = sinB/b = sinC/c\n⟹sin82<sup>0</sup>/43.2 = sin56<sup>0</sup>/AB\n⟹AB × sin82<sup>0</sup> = 43.2 × sin56<sup>0</sup>\n∴ AB = (43.2 × sin56<sup>0</sup>)/sin82<sup>0</sup>  = 36.2cm (to 3 s.f)",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 1180,
+    "question": "Calculate, correct to three significant figures, the length of the arc AB in the diagram above.[Take π=22/7]",
+    "option": {
+      "a": "32.4 cm",
+      "b": "30.6 cm",
+      "c": "28.8 cm",
+      "d": "30.5 cm"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724008084/ALOC-Questions/Mathematics/2023/MATH_2023_Q44_cdwigh.jpg",
+    "answer": "b",
+    "solution": "Consider ∆XOB and using Pythagoras theorem\n\n13<sup>2</sup> = 12<sup>2</sup> + h<sup>2</sup>\n⇒ 169 = 144 + h<sup>2</sup>\n⇒ 169 - 144  =h<sup>2</sup>\n⇒ 25 = h<sup>2</sup>\n⇒ h = √25 = 5cm\n\ntan θ = opp/adj\n⇒ tan θ = 12/5 = 2.4\n\n⇒ θ = tan<sup>-1</sup>(2.4)\n\n⇒ θ = 67.38<sup>o</sup>\n∠AOB = 2θ = 2 x 67.38<sup>o</sup> = 134.76<sup>o</sup>\nL = θ/360<sup>o</sup>×2πr\n⇒ L = 134.76/360 × 2 × (22/7) × 13 =77082.72/2520\n∴ L = 30.6cm (to 3 s.f)",
     "examtype": "utme",
     "examyear": "2023"
   },

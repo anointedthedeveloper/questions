@@ -544,6 +544,22 @@
     "examyear": "2011"
   },
   {
+    "id": 106,
+    "question": "Which of the following is not a thermometer?  ",
+    "option": {
+      "a": "thermocouple  ",
+      "b": "pyrometer  ",
+      "c": "hydrometer  ",
+      "d": "platinum resistance thermometer. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 108,
     "question": "Which of the following is not true about a chemical cell?   ",
     "option": {
@@ -1776,6 +1792,22 @@
     "examyear": "2019"
   },
   {
+    "id": 353,
+    "question": "A supply of 400V is connected across capacitors of 3μf and 6μf in series. Calculate the charge",
+    "option": {
+      "a": "8 × 10⁻⁴C",
+      "b": "4 × 10⁻²C",
+      "c": "8 × 10⁻³C",
+      "d": "4 × 10⁻⁸C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nVoltage (V) = 400V\nCapacitor 1 (C₁) = 3μF = 3 × 10⁻⁶F\nCapacitor 2 (C₂) = 6μF = 6 × 10⁻⁶F\nCapacitors in series\nCharge (Q) = ?\n\nStep 1: Calculate equivalent capacitance for series\nFor capacitors in series:\n1/Ceq = 1/C₁ + 1/C₂\n1/Ceq = 1/3 + 1/6\nFinding common denominator:\n1/Ceq = 2/6 + 1/6 = 3/6 = 1/2\nCeq = 2μF = 2 × 10⁻⁶F\nStep 2: Calculate charge\nFor capacitors in series, the charge on each capacitor is the same and equals:\nQ = Ceq × V\nQ = 2 × 10⁻⁶ × 400\nQ = 800 × 10⁻⁶\nQ = 8 × 10⁻⁴C\nAnswer: A. 8 × 10⁻⁴C",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 354,
     "question": "A vibrator causes water ripples to travel across the surface of a tank. The wave travels 50cm in 2s and the distance between successive crests is 5cm. Calculate the frequency of the vibrator",
     "option": {
@@ -1916,6 +1948,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612576/ALOC-Questions/Physics/2020/PHYSICS_2020_Q_8_x9t0jv.jpg",
     "answer": "a",
     "solution": "Step 1: Current when K is open\nWhen K is open, one path through 8Ω total (4Ω + 4Ω) and 2Ω:\nTotal resistance = 8Ω + 2Ω = 10Ω\nCurrent (I₁) = V/R = 6/10 = 0.6A\nStep 2: Current when K is closed\nWhen K is closed, the two 4Ω resistors are in parallel:\nParallel combination: 1/R_parallel = 1/4 + 1/4 = 2/4\nR_parallel = 4/2 = 2Ω\nWait, let me recalculate:\n1/R = 1/4 + 1/4 = 1/4 + 1/4 = 2/4 = 1/2\nR_parallel = 2Ω... that's not right.\nActually: (4 × 4)/(4 + 4) = 16/8 = 2Ω\nHmm, the explanation shows R_parallel = 4Ω. Let me follow their logic:\nIf 1/8 + 1/8 = 2/8 = 1/4, then R = 4Ω\nTotal resistance with K closed: 4Ω + 2Ω = 6Ω\nCurrent (I₂) = 6/6 = 1A\nStep 3: Change in current\nΔI = I₂ - I₁ = 1 - 0.6 = 0.4A increase",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 389,
+    "question": "Natural radioactivity consists of emission?",
+    "option": {
+      "a": "α\n -particles and β\n-rays",
+      "b": "α\n-particles and X-rays",
+      "c": "γ\n -ray and X-rays",
+      "d": "α\n -particles and β\n-rays and γ\n-rays"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Natural radioactivity consists of the emission of alpha particles, beta rays, and gamma rays. These are the three main types of radiation emitted by naturally radioactive materials.Retry",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -2156,6 +2204,22 @@
     "image": "",
     "answer": "a",
     "solution": "When the temperature of a liquid increases, its surface tension decreases due to weakening of intermolecular cohesive forces as molecular kinetic energy increases.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 448,
+    "question": "A piece of substance of specific heat capacity 450 Jkg⁻¹K⁻¹ falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms⁻²]",
+    "option": {
+      "a": "2/9°C",
+      "b": "4/9°C",
+      "c": "9/2°C",
+      "d": " 9/4°C"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Given information:\n\nSpecific heat capacity (c) = 450 J/(kg·K)\nHeight (h) = 20 m\nInitial velocity = 0 (falls from rest)\ng = 10 m/s²\nRise in temperature (ΔT) = ?\n\nPrinciple: Energy Conservation\nAll gravitational potential energy is converted to heat energy.\nStep 1: Calculate potential energy lost\nPE = mgh\nPE = m × 10 × 20\nPE = 200m J\nStep 2: Calculate heat gained\nHeat gained = mcΔT\nHeat = m × 450 × ΔT\nStep 3: Apply energy conservation\nPE lost = Heat gained\n200m = m × 450 × ΔT\nDividing both sides by m:\n200 = 450 × ΔT\nSolving for ΔT:\nΔT = 200/450\nΔT = 20/45\nΔT = 4/9°C\nDecimal value:\nΔT = 4/9 ≈ 0.44°C",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -3856,6 +3920,22 @@
     "examyear": "2008"
   },
   {
+    "id": 807,
+    "question": "A motorcycle of mass 100kg moves round in a circle of radius 10m with a velocity of 5 ms⁻¹. Find the coefficient of friction between the road and the tyres.",
+    "option": {
+      "a": "25",
+      "b": "2.5",
+      "c": "0.5",
+      "d": "0.25"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nMass (m) = 100 kg\nRadius (r) = 10 m\nVelocity (v) = 5 m/s\ng = 10 m/s²\nCoefficient of friction (μ) = ?\n\nUnderstanding the physics:\nFor a motorcycle moving in a circle on a flat road:\n\nCentripetal force is provided by friction between tyres and road\nFriction force = Centripetal force\n\nSetting up equation:\nFriction force = Centripetal force\nμmg = mv²/r\nCancelling mass (m) from both sides:\nμg = v²/r\nSolving for μ:\nμ = v²/(rg)\nSubstituting values:\nμ = (5)²/(10 × 10)\nμ = 25/100\nμ = 0.25",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 810,
     "question": "When cold water is poured on a can containing hot water, the can collapses because the?",
     "option": {
@@ -4124,6 +4204,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nInclined plane angle, θ = 30°\n\nSolution:\n\nStep 1: Velocity ratio for an inclined plane\nFor an inclined plane, when the effort is applied parallel to the plane, the velocity ratio (VR) is the ratio of the distance moved by the effort (length of the incline, L) to the distance moved by the load (vertical height, h).\nVR = L / h = 1 / sin θ\n\nStep 2: Calculate sin 30°\nsin 30° = 0.5\n\nStep 3: Compute VR\nVR = 1 / 0.5 = 2.0",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 857,
+    "question": "I. Density of the liquid.\nII. Acceleration due to gravity.\nIII. Type of container of the liquid.\nIV. The constituents of the liquid.\n\n\nWhich of the above conditions will NOT affect the pressure of fluid?",
+    "option": {
+      "a": " I and III only",
+      "b": "II and III only",
+      "c": "III and IV only",
+      "d": "I and II only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "pressure in fluid is given by P = hpg.\n∴ fluid pressure depends on height of liquid column, h, density of liquid p and acceleration of free fall g. it is therefore independent of type of container and constituents of the liquid.",
     "examtype": "utme",
     "examyear": "2009"
   },
@@ -4476,6 +4572,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nResistance of each resistor = 4 Ω\nNumber of resistors = 3\nConnection: parallel\nVoltage applied, V = 16 V\n\nSolution:\n\nStep 1: Calculate equivalent resistance for parallel connection\nFor three identical resistors in parallel:\n1/R = 1/4 + 1/4 + 1/4 = 3/4\nR = 4/3 Ω\n\nStep 2: Apply Ohm's law to find total current\nI = V / R = 16 / (4/3) = 16 × 3/4 = 12 A",
+    "examtype": "utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 943,
+    "question": "In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at N40, the cost of keeping the bulb lighted for a day is?",
+    "option": {
+      "a": "₦1,920.00",
+      "b": " ₦192.00",
+      "c": " ₦19.20",
+      "d": " ₦1.92"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1774435706/ALOC-Questions/Physics/2010/PHYSICS_2010_Q_44_lbw3ip.png",
+    "answer": "b",
+    "solution": "Energy consumed = power x time\n= 200W x 24hr = 4800wh\n= 4.8 kwh\nBut 1 kwh cost N40\n∴ 4.8kwh costs 4.8 x 40\n= ₦192",
     "examtype": "utme",
     "examyear": "2010"
   },

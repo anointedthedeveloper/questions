@@ -288,6 +288,22 @@
     "examyear": "2014"
   },
   {
+    "id": 20,
+    "question": "A residential building built beside a petrol filling station is described as a",
+    "option": {
+      "a": "risk",
+      "b": "hazard",
+      "c": "peril",
+      "d": "liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 21,
     "question": "The document that sets out the list of items covered in insurance is a",
     "option": {
@@ -3579,6 +3595,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 230,
+    "question": "one of these is a content of a proposal form",
+    "option": {
+      "a": "children of the proposer",
+      "b": "education of the proposer",
+      "c": "occupation of the proposer",
+      "d": "educational"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "model",
     "examyear": "4"

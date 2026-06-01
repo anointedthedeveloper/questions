@@ -320,6 +320,22 @@
     "examyear": "2016"
   },
   {
+    "id": 146,
+    "question": "The major sources of revenue for the state and local governments is",
+    "option": {
+      "a": "value added tax",
+      "b": "statutory allocation",
+      "c": "taxes and levies",
+      "d": "recurrent revenue."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 147,
     "question": "Which of the following -is -correct about the imprest system?",
     "option": {
@@ -2896,6 +2912,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1192,
+    "question": "<b>Use the information below to answer questions 28 and 29.</b>\n\n<b>It is the tradition of the club to write off an amount equal to 25% of the subscriptions received as other expenses.</b>\n\nWhat is the amount to be written off as other expenses?",
+    "option": {
+      "a": "₦4,500",
+      "b": "₦6,000",
+      "c": "₦4,000",
+      "d": "₦5,000."
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756665518/ALOC-Questions/Accounting/UTME/2002/Accounting_JAMB_2002_Q28-29_mt0snk.png",
+    "answer": "d",
+    "solution": "Given Information:\n\nSubscriptions received: ₦20,000\nClub tradition: Write off 25% of subscriptions received as other expenses\n\nCalculation:\nAmount to be written off as other expenses = 25% of subscriptions received\n= 25% × ₦20,000\n= 0.25 × ₦20,000\n= ₦5,000",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1195,
     "question": "Given that 1/3 of the ₦6000 stock held by a branch is purchased from outsiders. If goods are invoiced to branch at 25% on cost, the provision for unrealized profit is?",
     "option": {
@@ -3360,6 +3392,22 @@
     "examyear": "199"
   },
   {
+    "id": 1397,
+    "question": "Which of the following indicate that a partnership business is in place?\n(i) There is a business\n(ii)It is run commonly by partners\n(iii)It has profit-making in view\n(iv) Partners' liability is limited",
+    "option": {
+      "a": " i and ii only",
+      "b": "i, ii and iii only",
+      "c": " i, iii and iv only",
+      "d": " ii, iii and iv only"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Essential characteristics of partnership:\n\nCarrying on a business\nJoint operation by partners\nWith a view to making profit\nUnlimited liability (not limited)\n\nThe correct indicators are (i), (ii), and (iii) only.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
     "id": 1401,
     "question": "The price paid by an acquiring company is the?",
     "option": {
@@ -3372,6 +3420,22 @@
     "image": "",
     "answer": "b",
     "solution": "The purchase consideration is the total price paid by an acquiring company to obtain ownership of the target company’s shares or assets. It encompasses cash paid, shares issued, or other forms of payment agreed upon.",
+    "examtype": "utme",
+    "examyear": "199"
+  },
+  {
+    "id": 1405,
+    "question": "Granada Corporation has net assets of ₦600,000 and contributed capital of ₦180,000. The corporation has 30,000 shares of common stock outstanding with no preferred stock. This suggest that the corporation has?",
+    "option": {
+      "a": "a book value of ₦14 per share",
+      "b": "a book value of ₦20 per share",
+      "c": " a deficit of ₦420,000",
+      "d": " retained earnings of ₦600,000"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Book value per share is calculated as:\n\nBook value per share = Net assets/Shares outstanding = ₦600,000/30,000 = ₦20\nSo the corporation has a book value of ₦20 per share.",
     "examtype": "utme",
     "examyear": "199"
   },

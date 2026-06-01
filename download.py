@@ -60,7 +60,7 @@ SUBJECTS = [
 OUTPUT_DIR = "questions"
 PROGRESS_FILE = "progress.json"
 MAX_ROUNDS = 200
-NO_NEW_LIMIT = 15
+NO_NEW_LIMIT = 40  # needs 40 consecutive empty rounds before marking done — API is random
 RATE_LIMIT = 58  # per key per minute
 # With 100 keys: 5800 req/min capacity vs 24 subjects — delay is negligible
 DELAY = max(60 / (RATE_LIMIT * len(API_KEYS)), 0.05)  # floor at 50ms to be polite

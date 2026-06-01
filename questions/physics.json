@@ -2224,6 +2224,22 @@
     "examyear": "2015"
   },
   {
+    "id": 154,
+    "question": "At what respective value of a, b, and c would the unit of work, the joule, be dimensionally similar to Mᵃ Lᵇ Tᶜ?",
+    "option": {
+      "a": "1, – 2, 1",
+      "b": "1, 2, – 2",
+      "c": "1, 1, –2",
+      "d": "2, 2, 1"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Step 1: Determine the dimensional formula for Work (Joule)\nWork = Force × Distance\nForce = Mass × Acceleration = Mass × (Distance/Time²)\nTherefore:\nWork = Mass × (Distance/Time²) × Distance\nWork = Mass × Distance²/Time²\nDimensional formula for Work:\n[Work] = [M¹L²T⁻²]\nStep 2: Match with Mᵃ Lᵇ Tᶜ\nWe need to find a, b, and c such that:\nMᵃ Lᵇ Tᶜ = M¹L²T⁻²\nComparing the powers:\n\nFor Mass (M): a = 1\nFor Length (L): b = 2\nFor Time (T): c = -2\n\nTherefore:\na = 1, b = 2, c = -2\nAnswer: B. 1, 2, –2",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
     "id": 155,
     "question": "The device in which one circuit controls another, especially if the current in the second circuit is large or dangerous is known as",
     "option": {
@@ -5788,6 +5804,22 @@
     "image": "",
     "answer": "d",
     "solution": "At the Earth's north magnetic pole, the angle is 90° (needle vertical), and at the magnetic equator, the angle is 0° (needle horizontal).",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 401,
+    "question": "A hydrometer is an instrument for measuring the ",
+    "option": {
+      "a": "a depth of water of water in a vessel",
+      "b": " relative density of a liquid by the method of flotation",
+      "c": " relative density of a liquid by finding the apparent loss in weight",
+      "d": "relative humidity of the air"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A hydrometer measures the relative density of a liquid using the flotation method - it floats at different depths depending on the liquid's density.",
     "examtype": "utme",
     "examyear": "2020"
   },
@@ -10112,6 +10144,22 @@
     "examyear": "2006"
   },
   {
+    "id": 728,
+    "question": "A radioactive element has a half life of 4 days. The fraction that has decayed in 16 days is?",
+    "option": {
+      "a": " 15/16",
+      "b": " 1/16",
+      "c": " 3/4",
+      "d": "1/4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\n\nHalf-life, T₁/₂ = 4 days\nTime elapsed, t = 16 days\nFraction decayed = ?\n\nSolution:\nStep 1: Calculate number of half-lives\nNumber of half-lives, n = t/T₁/₂\nn = 16/4 = 4 half-lives\nStep 2: Calculate fraction remaining\nAfter each half-life, half of the substance remains.\nFraction remaining = (1/2)ⁿ\nFraction remaining = (1/2)⁴\nFraction remaining = 1/16\nStep 3: Calculate fraction decayed\nFraction decayed = 1 - Fraction remaining\nFraction decayed = 1 - 1/16\nFraction decayed = 15/16",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 730,
     "question": "I. The number of neutrons released exceeds the number that caused the fission.\nII. There is loss of mass.\nIII. Energy is produced.\nIV. Smaller nuclei merge to form larger nuclei.\nWhich of the statements above are correct about nuclear fission?",
     "option": {
@@ -14204,6 +14252,22 @@
     "image": "",
     "answer": "c",
     "solution": "\nGiven information:\n\nMass of water (m) = 5000 kg\nHeight (h) = 60 m\nTime (t) = 15 min = 15 × 60 = 900 s\ng = 10 m/s² (assumed)\nPower (P) = ?\n\nUnderstanding power:\nPower = Work done / Time taken\nStep 1: Calculate work done\nWork = Potential energy gained\nW = mgh\nSubstituting values:\nW = 5000 × 10 × 60\nW = 3,000,000 J\nW = 3.0 × 10⁶ J\nStep 2: Calculate power\nP = W/t\nP = (3.0 × 10⁶)/900\nP = 3333.33 W\nP = 3.3 × 10³ W\nP = 3.3 × 10³ Js⁻¹",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
+    "id": 1050,
+    "question": "What volume of alcohol will have same mass as 4.2 m³ of petrol? Density of alcohol = 8.4 × 10² kgm⁻³, density of petrol = 7.2 × 10² kgm⁻³",
+    "option": {
+      "a": " 0.8 m³",
+      "b": "1.4 m³",
+      "c": "3.6 m³",
+      "d": " 4.9 m³"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nVolume of petrol (V_petrol) = 4.2 m³\nDensity of alcohol (ρ_alcohol) = 8.4 × 10² kg/m³ = 840 kg/m³\nDensity of petrol (ρ_petrol) = 7.2 × 10² kg/m³ = 720 kg/m³\nVolume of alcohol (V_alcohol) = ?\n\nCondition: Same mass\nStep 1: Calculate mass of petrol\nMass = Density × Volume\nm_petrol = ρ_petrol × V_petrol\nm_petrol = 720 × 4.2\nm_petrol = 3024 kg\nStep 2: Calculate volume of alcohol with same mass\nm_alcohol = m_petrol = 3024 kg\nm_alcohol = ρ_alcohol × V_alcohol\nRearranging:\nV_alcohol = m_alcohol / ρ_alcohol\nV_alcohol = 3024 / 840\nV_alcohol = 3.6 m³",
     "examtype": "utme",
     "examyear": "2013"
   },

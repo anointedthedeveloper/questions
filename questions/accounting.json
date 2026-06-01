@@ -32,6 +32,22 @@
     "examyear": "2010"
   },
   {
+    "id": 25,
+    "question": "The diary or events in which all financial transactions    are    recorded    for    easy reference and to assist in the double entry system is ",
+    "option": {
+      "a": "Ledger",
+      "b": "Journal   ",
+      "c": "Purchases and sales day books ",
+      "d": "Debit and credit documents"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2011"
+  },
+  {
     "id": 34,
     "question": "Where a correct amount is entered, but in the wrong person's account, is an error of  ",
     "option": {
@@ -2272,6 +2288,22 @@
     "examyear": "2023"
   },
   {
+    "id": 919,
+    "question": "An advantage of FIFO method of stock valuation is that",
+    "option": {
+      "a": " it is calculated at the end of the year",
+      "b": " its flow of cost is in sequence with the flow of stock",
+      "c": " it is progressive in nature",
+      "d": " it serves as a control during inflation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "One of the advantages of FIFO method is that the stock received first will be issued out first thereby reducing the problem of deterioration or obsolesence and also items are issued in order of receipt therefore, it is realistic.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 920,
     "question": "When expenses are paid on behalf of the venture, the accounting entries is to debit",
     "option": {
@@ -2380,6 +2412,22 @@
     "image": "",
     "answer": "d",
     "solution": "A bank deposit typically wouldn't cause a discrepancy; rather, it would lead to an increase in both the cash book and bank statement balances. Therefore, it is not a cause of discrepancies between the two balances.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 946,
+    "question": "When shares are over-subscribed, directors may decide to scale down the number of shareholding by alloting shares at ___",
+    "option": {
+      "a": "discount",
+      "b": "par",
+      "c": "premium",
+      "d": "prorata"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "This method distributes shares proportionally to the number of shares applied for by each investor. For example\nif an investor applied for 100 shares and the overall subscription is 200% (twice the offered amount), they migh receive a prorated allocation of 50 shares (100 shares requested / 2 (oversubscription factor) = 50 shares allocated).",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -2960,6 +3008,22 @@
     "examyear": "2002"
   },
   {
+    "id": 1206,
+    "question": "Given an incomplete record without sufficient information to determine profit, the necessary thing to do is to?",
+    "option": {
+      "a": " draw up the statement of affairs",
+      "b": "draw up a T-account to establish the amount",
+      "c": "compare the journal entries with the cash book",
+      "d": "cross-check the cash book for further information"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Reason: with incomplete records you prepare a statement of affairs (opening and closing) to determine net assets and then derive profit (change in capital adjusted for drawings and additional capital). This is the standard method for finding profit when records are insufficient.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 1219,
     "question": "<b>Use the information below to answer questions 5 and 6.\nGiven:</b>\n\nFixed assets ₦85,600\nSales ₦197,000\nStock ₦34,300\nSalaries ₦37,000\nPurchases ₦127,700\nShare capital ₦120,000\nCreditors ₦16, 050\nMotor expenses ₦10,500\nDebtors ₦25,000\n\nWhat is the cash balance?",
     "option": {
@@ -3054,6 +3118,22 @@
     "solution": "This situation is best described as absorption.\n\nAbsorption occurs when:\n\nOne existing company (Bala Ltd) takes over another existing company (Bello Ltd)\nThe acquired company (Bello Ltd) loses its separate legal identity and ceases to exist\nThe acquiring company (Bala Ltd) continues to exist and absorbs all assets and liabilities\nOnly one company survives the transaction",
     "examtype": "utme",
     "examyear": "2001"
+  },
+  {
+    "id": 1265,
+    "question": "On ₦ovember 1, 1998, Zaria Holdings owed ₦13,600 in respect of a creditor. On ₦ovember 15, it purchases goods worth ₦69,000 and paid a cheque of ₦51,600. On ₦ovember 29, one of the Holdings' cheques worth ₦3,000 was returned while the creditor granted a ₦1,500 discount. The amount owed by Zaria Holdings as at ₦ovember 29 is?",
+    "option": {
+      "a": "₦32,500",
+      "b": "₦32,000",
+      "c": " ₦31,000",
+      "d": "₦29,500"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Opening balance (Nov 1)\nLiability to creditor = ₦13 600\n\nAdd purchases (Nov 15)\n\n₦69 000\n→ ₦13 600 + ₦69 000 = ₦82 600\n\nSubtract cheque paid (Nov 15)\n– ₦51 600\n→ ₦82 600 − ₦51 600 = ₦31 000\n\nCheque returned (Nov 29)\n\n₦3 000\n→ ₦31 000 + ₦3 000 = ₦34 000\n\nDiscount granted (Nov 29)\n– ₦1 500\n→ ₦34 000 − ₦1 500 = ₦32 500",
+    "examtype": "utme",
+    "examyear": "2000"
   },
   {
     "id": 1293,

@@ -4656,6 +4656,22 @@
     "examyear": "2018"
   },
   {
+    "id": 309,
+    "question": "Electrical appliances in homes are normally earthed so that",
+    "option": {
+      "a": "a person touching the appliances is safe from electric shock",
+      "b": "Both the a.c. and d.c. sources can be used",
+      "c": "The appliances are maintained at a higher pd than the earth",
+      "d": "The appliances are maintained at a lower pd than the earth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Earthing protects people from electric shock by providing a safe path for fault currents to flow to ground instead of through a person's body.",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 310,
     "question": "The process whereby a liquid turns spontaneously into vapour is called",
     "option": {
@@ -11612,6 +11628,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\nε = ε₀ sin(ωt)\nPeriod T = 2π/ω\nTime t = T/4\n\nSolution:\n\nStep 1: Find ωt at t = T/4\nωt = ω × (T/4) = ω × (2π/(4ω)) = π/2\n\nStep 2: Evaluate sin(π/2)\nsin(π/2) = 1\n\nStep 3: Substitute into equation\nε = ε₀ × 1 = ε₀",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 784,
+    "question": "During the nuclear reaction described by\n²³⁵₉₂W → ²³⁵₉₃X → ²³¹₉₁Y\nthe particles emitted are respectively",
+    "option": {
+      "a": "α and α",
+      "b": "α and β",
+      "c": "β and β",
+      "d": "β and α"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Analyzing the nuclear reactions:\nFirst reaction: ²³⁵₉₂W → ²³⁵₉₃X\nChange in mass number (A): 235 → 235 (no change)\nChange in atomic number (Z): 92 → 93 (increase by 1)\nParticle emitted:\n\nMass number unchanged\nAtomic number increases by 1\nThis indicates β⁻ (beta) decay\n⁰₋₁β or electron emission\nA neutron converts to proton: n → p + e⁻\n\nSecond reaction: ²³⁵₉₃X → ²³¹₉₁Y\nChange in mass number (A): 235 → 231 (decrease by 4)\nChange in atomic number (Z): 93 → 91 (decrease by 2)\nParticle emitted:\n\nMass number decreases by 4\nAtomic number decreases by 2\nThis indicates α (alpha) decay\n⁴₂He or helium nucleus emission\n\nSummary:\n\nFirst emission: β (beta particle)\nSecond emission: α (alpha particle)",
     "examtype": "utme",
     "examyear": "2007"
   },

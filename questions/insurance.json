@@ -16,6 +16,22 @@
     "examyear": "2014"
   },
   {
+    "id": 25,
+    "question": "A method of providing indemnity in the event of loss is",
+    "option": {
+      "a": "cash payment",
+      "b": "professional advice",
+      "c": "resolution of dispute",
+      "d": "resolution of policy"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2014"
+  },
+  {
     "id": 38,
     "question": "Effective supervision and licensing of insurance firms in Nigeria is the function of",
     "option": {
@@ -64,6 +80,22 @@
     "examyear": "1"
   },
   {
+    "id": 55,
+    "question": "A  statement  of  fact  that  the insured must have an interest in the object of the contract is called",
+    "option": {
+      "a": "warranty",
+      "b": "insurable interest",
+      "c": "subrogation",
+      "d": "object interest"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
     "id": 57,
     "question": "The object of an insurance policy is equally known as",
     "option": {
@@ -78,6 +110,70 @@
     "solution": "",
     "examtype": "model",
     "examyear": "1"
+  },
+  {
+    "id": 75,
+    "question": "The following risks are insurable except",
+    "option": {
+      "a": "particular",
+      "b": "pure",
+      "c": "static",
+      "d": "dynamic risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 100,
+    "question": "Unlawful breaking and entering into any premises or place of safe keeping is covered under which of these policies?",
+    "option": {
+      "a": "burglary",
+      "b": "business interruption",
+      "c": "employers liability",
+      "d": "public liability"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "1"
+  },
+  {
+    "id": 135,
+    "question": "The person who calculate the amount given to the insured if he does not want to continue with the contract of insurance is called",
+    "option": {
+      "a": "Actuary",
+      "b": "Insurance agent",
+      "c": "Insurance broker",
+      "d": "Assessor loss adjuster"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "2"
+  },
+  {
+    "id": 152,
+    "question": "The uncertainty of an event occurring is known as",
+    "option": {
+      "a": "Hazard",
+      "b": "Risk",
+      "c": "Loss",
+      "d": "Accident"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
   },
   {
     "id": 153,
@@ -160,6 +256,22 @@
     "examyear": "3"
   },
   {
+    "id": 182,
+    "question": "A professional officer of an insurance company whose duty among others is to calculate the premium to be \tpaid by the insured is called",
+    "option": {
+      "a": "Agent",
+      "b": "Principal",
+      "c": "Actuarist",
+      "d": "Adjuster"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "3"
+  },
+  {
     "id": 185,
     "question": "In insurance contract, failure to disclose all relevant material facts will render the contract",
     "option": {
@@ -174,6 +286,22 @@
     "solution": "",
     "examtype": "model",
     "examyear": "3"
+  },
+  {
+    "id": 201,
+    "question": "Insurance is defined as",
+    "option": {
+      "a": "risking of loss",
+      "b": "pooling of risk",
+      "c": "gathering of risk",
+      "d": "waiving of risk"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
   },
   {
     "id": 202,
@@ -192,6 +320,22 @@
     "examyear": "4"
   },
   {
+    "id": 208,
+    "question": "An undertaking by the insured that certain things shall be done or not be done or certain things shall be put in place or not in place is called",
+    "option": {
+      "a": "warranties and representation",
+      "b": "utmost good faith and uberrimae fidei",
+      "c": "insurable and non-insurable",
+      "d": "subrogation and indemnity"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
     "id": 215,
     "question": "With insurance contract there is",
     "option": {
@@ -199,6 +343,38 @@
       "b": "uncertainty of occurrence",
       "c": "certainty of reward",
       "d": "uncertainty  of reward"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 218,
+    "question": "Non- indemnity insurance means that the assured can",
+    "option": {
+      "a": "be restored back to his former position",
+      "b": "not be restored back to his former position",
+      "c": "be brought back to contract",
+      "d": "not be brought back to contract"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "4"
+  },
+  {
+    "id": 226,
+    "question": "Another name for utmost good faith",
+    "option": {
+      "a": "expirit - de - corps",
+      "b": "uberrimae fidei",
+      "c": "caveat emptor",
+      "d": "proximate cause"
     },
     "section": "",
     "image": "",
@@ -256,6 +432,22 @@
     "examyear": "5"
   },
   {
+    "id": 260,
+    "question": "If the insured has been fully indemnified, the insurers are entitled to take any advantage due to the insured. Principle of insurance involved is",
+    "option": {
+      "a": "insurable interest",
+      "b": "contribution",
+      "c": "indemnity",
+      "d": "subrogation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 261,
     "question": "The settlement of disagreement between the insured and the insurer is called",
     "option": {
@@ -304,6 +496,22 @@
     "examyear": "5"
   },
   {
+    "id": 276,
+    "question": "The contract aimed at providing specific payment at regular intervals for a fixed   period or for life is",
+    "option": {
+      "a": "accident",
+      "b": "annuity",
+      "c": "average",
+      "d": "term"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "model",
+    "examyear": "5"
+  },
+  {
     "id": 277,
     "question": "policy designed for the insured who is incapacitated to carry out normal duty is",
     "option": {
@@ -343,6 +551,38 @@
       "b": "Nigerian  Council of  Registered Insurance  Brokers",
       "c": "Nigerian Corporation of Registered Insurance Brokers",
       "d": "National Corporation of Registered Insurance Brokers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 339,
+    "question": "Which of the following documents forms the basis of a contract in insurance business?",
+    "option": {
+      "a": "Policy document",
+      "b": "Proposal form",
+      "c": "Claim form",
+      "d": "Discharge form"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 349,
+    "question": "Which of the following factors limits indemnity?",
+    "option": {
+      "a": "Cession",
+      "b": "Re - insurance",
+      "c": "Excess",
+      "d": "Co - insurance"
     },
     "section": "",
     "image": "",

@@ -672,6 +672,22 @@
     "examyear": "2010"
   },
   {
+    "id": 101,
+    "question": "Lawyer Bonu in de Grafts Sons and Daughters can be described as a: ",
+    "option": {
+      "a": "caring father ",
+      "b": "faithful husband ",
+      "c": "deceitful friend ",
+      "d": "shrewd politician."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
     "id": 102,
     "question": "De graft’s Sons and Daughters is structured into: ",
     "option": {
@@ -1351,6 +1367,22 @@
       "b": "a legend",
       "c": "an allegory",
       "d": "a satire"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 192,
+    "question": "<em>Let me not love thee if l love thee not</em> illustrates",
+    "option": {
+      "a": "metaphor",
+      "b": "proverb",
+      "c": "paradox",
+      "d": "meiosis"
     },
     "section": "",
     "image": "",
@@ -2320,6 +2352,22 @@
     "examyear": "2009"
   },
   {
+    "id": 317,
+    "question": "When Friar Lawrence asks if the bride is ready, he wants to know if",
+    "option": {
+      "a": "Juliet is prepared",
+      "b": "Rosaline is prepared",
+      "c": "the corpse is ready",
+      "d": "the bride is dressed"
+    },
+    "section": "based on William Shake¬speare’s  \tRomeo and Juliet.",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 318,
     "question": "‘...So tedious is this day<br>\n\tAs is the night before some festival<br>\n\tTo an impatient child that hath new robes<br>\n\tAnd may not wear them.’<br>\nWhat makes Juliet’s night so tedious is the",
     "option": {
@@ -2480,6 +2528,22 @@
     "examyear": "2009"
   },
   {
+    "id": 332,
+    "question": "Thorn in “Adeoti’sNaked Soles” symbolizes",
+    "option": {
+      "a": "victory",
+      "b": "bleakness",
+      "c": "destruction",
+      "d": "suffering"
+    },
+    "section": "based on selected poems from Ker, D. et al (eds.) New poetry from Africa; Soyinka W. (ed.): Poems of Black Africa: Senanu, K E and Vincent, T. (eds.): A Selection of African poetry; Umukoro, M et al (eels.): Exam Focus: Lit-erature in English; Eruvbetine, A. E. et al (eds.): Longman Examination guides; Nwoga, D.I (ed.): West African Verse andAdeoti G: Naked Soles.",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
     "id": 337,
     "question": "According to “Give Me The Minstrels Seat”, a woman is",
     "option": {
@@ -2539,6 +2603,22 @@
     "section": "based on General Literary Principles.",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 347,
+    "question": "An expression that signifies a whole through its significant parts is",
+    "option": {
+      "a": "synesthesia",
+      "b": "synecdoche",
+      "c": "metonymy",
+      "d": "allegory"
+    },
+    "section": "based on General Literary Principles.",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "utme",
     "examyear": "2009"
@@ -2647,6 +2727,22 @@
       "b": "diversion",
       "c": "inversion",
       "d": "imagery"
+    },
+    "section": "based on Literary Appreciation",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2009"
+  },
+  {
+    "id": 360,
+    "question": "‘Tonderai was assisted by the villages in placing his truck box into the back for the car and he got into the passenger side of the truck. Initially, he was a bit nervous and clearly uncomfortable, his young mind was asking how someone whom, he had almost caused a serious accident could be his benefactor.’ ( Daniel T. Manyika: Two worlds Apart )\n\n<br><br>The narrative point of view used in the extract above can best be described as",
+    "option": {
+      "a": "omniscient",
+      "b": "subjective",
+      "c": "panoramic",
+      "d": "scenic"
     },
     "section": "based on Literary Appreciation",
     "image": "",
@@ -3696,6 +3792,22 @@
     "examyear": "2019"
   },
   {
+    "id": 492,
+    "question": "Faceless centres on the life of a",
+    "option": {
+      "a": "Young lady",
+      "b": "Fourteen-year-old girl",
+      "c": "Thirteen-year-old girl",
+      "d": "Ten-year-old girl"
+    },
+    "section": "Question 11 is based on Amma Darko's Faceless",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 493,
     "question": "Yaremi's enemies increased because of her refusal to select one of the three suitors at the",
     "option": {
@@ -4183,6 +4295,22 @@
       "b": "Cannot be found in an allegory",
       "c": "Is capable of growing",
       "d": "Always embodies a quality"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
+    "id": 558,
+    "question": "The overwhelming pride that destroys the tragic hero is called",
+    "option": {
+      "a": "Tragedy",
+      "b": "Nemesis",
+      "c": "Catheris",
+      "d": "Hubris"
     },
     "section": "",
     "image": "",

@@ -1072,6 +1072,22 @@
     "examyear": "2009"
   },
   {
+    "id": 88,
+    "question": "Bicameral legislature exists ",
+    "option": {
+      "a": "where two cameras are used to monitor court proceedings ",
+      "b": "To prevent the concentration of power on legislative house ",
+      "c": "To provide jobs for more politicians ",
+      "d": "to ensure that just laws are passed."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 89,
     "question": "Africans were first elected to the legislature council in British West African ",
     "option": {
@@ -1383,6 +1399,22 @@
       "b": " AG  ",
       "c": "UMBC ",
       "d": "NEPU"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2010"
+  },
+  {
+    "id": 113,
+    "question": "A special election organized to decide on a political issue is known as ",
+    "option": {
+      "a": "plebiscite ",
+      "b": "by-election  ",
+      "c": "general election ",
+      "d": "primary election."
     },
     "section": "",
     "image": "",
@@ -3584,6 +3616,22 @@
     "examyear": "2013"
   },
   {
+    "id": 275,
+    "question": "The special box prepared by the electoral commission into which voters cast their votes is called",
+    "option": {
+      "a": "ballot box.",
+      "b": "ballot paper.",
+      "c": "logo.",
+      "d": "polling booth."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
     "id": 276,
     "question": "An electoral officer charged with the responsibility of announcing election result at the local government level is known as",
     "option": {
@@ -4384,6 +4432,22 @@
     "examyear": "1999"
   },
   {
+    "id": 333,
+    "question": "The British Government revoked the Character of the Royal Niger Company and took over the administration of Nigeria in",
+    "option": {
+      "a": "1861",
+      "b": "1861",
+      "c": "1900",
+      "d": "1914"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
     "id": 334,
     "question": "The Independence constitution can be described as",
     "option": {
@@ -4443,6 +4507,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1999"
+  },
+  {
+    "id": 340,
+    "question": "The duty of an Alkali under the Hausa-Fulan political system is to",
+    "option": {
+      "a": "adjudicate under Islamic laws",
+      "b": "make Islamic laws",
+      "c": "execute Islamic laws",
+      "d": "make treaties under Islamic laws"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1999"
@@ -4711,6 +4791,38 @@
       "b": "education",
       "c": "health care delivery",
       "d": "revenue allocation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 364,
+    "question": "A constitution of any country is basically",
+    "option": {
+      "a": "a mere piece of paper",
+      "b": "a guide to how the country should be governed",
+      "c": "a document stating what the leaders should do",
+      "d": "a document stating how to power"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 365,
+    "question": "The term, Rule of Law means",
+    "option": {
+      "a": "nobody is above the law",
+      "b": "everybody is equal before the law",
+      "c": "we are being governed by lawyers",
+      "d": "A and B above"
     },
     "section": "",
     "image": "",
@@ -6656,6 +6768,22 @@
     "examyear": "2013"
   },
   {
+    "id": 524,
+    "question": "One of the functions of pressure groups is to",
+    "option": {
+      "a": "contest elections to serve the people",
+      "b": "nominate the president",
+      "c": "prepare the budget",
+      "d": "articulate the opinion of their members."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2013"
+  },
+  {
     "id": 525,
     "question": "Public opinion refers to the",
     "option": {
@@ -8032,6 +8160,22 @@
     "examyear": "1988"
   },
   {
+    "id": 626,
+    "question": "Which of the following is not an accepted way of resolving international conflict",
+    "option": {
+      "a": "Diplomacy.",
+      "b": "Non-military use of force.",
+      "c": "Propaganda",
+      "d": "Nuclear war."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
     "id": 628,
     "question": "The common wealth is",
     "option": {
@@ -8507,6 +8651,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1988"
+  },
+  {
+    "id": 662,
+    "question": "The question of civil war was raised for the first time at the \tmeeting of the O.A.U in September 1967 in",
+    "option": {
+      "a": "Kampala",
+      "b": "Addis Ababa",
+      "c": "Lagos",
+      "d": "Kinshasa"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1988"
@@ -9035,6 +9195,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "1989"
+  },
+  {
+    "id": 701,
+    "question": "Foreign policy refers to",
+    "option": {
+      "a": "a policy made by a foreign country",
+      "b": "a policy made by a country for foreigners",
+      "c": "a policy made by a country when it is at war",
+      "d": "the general principles which govern a state’s international behaviour"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "wassce",
     "examyear": "1989"
@@ -11712,6 +11888,22 @@
     "examyear": "2020"
   },
   {
+    "id": 906,
+    "question": "Nigeria's non-aligned policy means that she will _________",
+    "option": {
+      "a": "have nothing to do with the superpowers",
+      "b": " not take sides in international issues based on ideological considerations",
+      "c": "avoid having any dealing with any country with ideological learnings",
+      "d": " relate only with member countries of the Non-Aligned movement"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Nigeria's non-aligned policy means that she will not take sides in international issues based on ideological considerations. This policy is part of the broader Non-Aligned Movement (NAM), which emerged during the Cold War era.  Nigeria, like other non-aligned countries, seeks to maintain independence and neutrality by not committing to any of the major ideological blocs (capitalism or communism). This allows for more flexibility in foreign policy and international relations.",
+    "examtype": "utme",
+    "examyear": "2020"
+  },
+  {
     "id": 908,
     "question": "The idea of making the civil service permanent, neutral and anonymous is to _________",
     "option": {
@@ -11852,6 +12044,22 @@
     "image": "",
     "answer": "b",
     "solution": "Professor Ibrahim Gambari was appointed as the Special Adviser to the United Nations Secretary-General on Africa in 1999. In this role, he focused on various issues pertaining to the African continent, including political, economic and social matters as well as promoting peace and development in Africa.",
+    "examtype": "utme",
+    "examyear": "2021"
+  },
+  {
+    "id": 918,
+    "question": "Which of the following is a founding member of OPEC?",
+    "option": {
+      "a": "Indonesia",
+      "b": "Algeria",
+      "c": "Venezuela",
+      "d": "Nigeria"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Venezuela is a founding member of OPEC. Other founding members are Iran, Iraq, Kuwait and Saudi Arabia. The Organization was formed in September 1960.",
     "examtype": "utme",
     "examyear": "2021"
   },
@@ -13200,6 +13408,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1020,
+    "question": "The National assembly is composed of how many chambers?",
+    "option": {
+      "a": "Two",
+      "b": "Four",
+      "c": "One",
+      "d": "Three"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The National Assembly in Nigeria is bicameral, meaning it is composed of two chambers: the Senate and the House of Representatives.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1021,
     "question": "Which of the following was a significant trade commodity in the pre-colonial Kingdom of Benin?",
     "option": {
@@ -13472,6 +13696,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1041,
+    "question": "which pre-colonial Nigerian Kingdom was known for its artistic and cultural achievement?",
+    "option": {
+      "a": "Nupe",
+      "b": "Igbo",
+      "c": "Kanem-Bornu",
+      "d": "Benin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The Benin Kingdom, in pre-colonial Nigeria, was known for its artistic and cultural achievements. The kingdom was renowned for its brass sculptures, its ivory carvings, and its palace architecture. The Benin Kingdom's art was so highly valued that it influenced the development of modern Western art.",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1042,
     "question": "Nigeria's foreign policy is guided by the principle of",
     "option": {
@@ -13676,6 +13916,22 @@
     "image": "",
     "answer": "a",
     "solution": "Lawyers belong to the professional class because they provide certain expertise to the civil service (in this case, the provision of legal counsel). Other members of the professional class includes: doctors, engineers, accountants, etc. ",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
+    "id": 1060,
+    "question": "Shehu Shagari won the 1979 Presidential Election under ",
+    "option": {
+      "a": " UPN",
+      "b": " NPN",
+      "c": ". NPP",
+      "d": " GNPP"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Shehu Shagari won the 1979 Presidential Election under the umbrella of the National Party of Nigeria (NPN). It also who the 1983 Presidential Election which did not take effect because of the transition to military rule. \n\n ",
     "examtype": "utme",
     "examyear": "2024"
   },
@@ -15504,6 +15760,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1212,
+    "question": "What distinguishes a political party from other social institutions is the desire to",
+    "option": {
+      "a": "influence the international community on local issues",
+      "b": "promote the interest of party members",
+      "c": "win elections and form a government",
+      "d": "influence government policies in certain directions"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The desire to win elections and form a government is what distinguishes a political party from other social institutions.\n\nA political party is an organized group of people who share similar political opinions, principles, interests and beliefs with the aim of winning election and control of government of a country/state/municipality.\n\nOn the other hand, there are social institutions such as pressure groups, A pressure group may be defined as an organized social interest group which is formed with the main aim of pursuing its interests and government policies to the interest of its members without any intention to control the government.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1213,
     "question": "The operation of the rule of law is undermined by the",
     "option": {
@@ -17072,6 +17344,22 @@
     "examyear": "2005"
   },
   {
+    "id": 1331,
+    "question": "Serfs are the dominated class under",
+    "option": {
+      "a": "capitalism",
+      "b": "socialism",
+      "c": "fascism",
+      "d": "feudalism"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Serfs are the dominated class under feudalism. The first class is the king who was regarded as the sole owner of the land. The Serfs were the actual cultivators of the land.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 1332,
     "question": "The ultimate authority in a state is",
     "option": {
@@ -17132,6 +17420,22 @@
     "image": "",
     "answer": "a",
     "solution": "voting in elections is the most important aspect of political participation in a democracy.\n\nMembership of a political party makes one to see it as a must to vote at elections and also fights vigorously to see that others vote for his party.\n\nHe endeavors to attend many political rallies. A person with good conscience tries as much as possible to observe most electoral rules.\n\nThe person also stands the good chance of contesting at elections.",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 1337,
+    "question": "An elected legislator in a presidential system can loose his seat by",
+    "option": {
+      "a": " a vote of no confidence",
+      "b": "impeachment",
+      "c": "cross-carpeting",
+      "d": "recall"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "An elected legislator in a presidential system can loose his seat by recall.\n\nThe word ''Recall'' was defined by G.A.I. Ofoegbu (1999) as a device by which elected officials in the legislature or government could be called back even before their tenure expires.",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -17580,6 +17884,22 @@
     "image": "",
     "answer": "b",
     "solution": "In a monarchical system, the ultimate authority or sovereignty is traditionally vested in the royal family—specifically, the monarch. Although modern constitutional monarchies often have democratic elements, the traditional principle of monarchy holds that the crown is the source of sovereign power, rather than the people, a legislature, or the military.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 1370,
+    "question": "One merit of a written constitution is its",
+    "option": {
+      "a": "legibility",
+      "b": "total flexibility",
+      "c": "rigidity",
+      "d": "ease of reference"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A written constitution's ease of reference is a key merit. Being codified into a single document or organized set of texts allows for:\n\nClarity and Accessibility: Citizens, lawmakers, and judges can easily consult it to understand governmental structures, rights, and legal limits.\n\nTransparency: Provides a definitive source of law, reducing ambiguity and arbitrary governance.\n\nJudicial Reliance: Courts use it as a primary reference for resolving disputes and upholding constitutional principles.",
     "examtype": "utme",
     "examyear": "2008"
   },
@@ -18588,6 +18908,22 @@
     "image": "",
     "answer": "a",
     "solution": "Fredrick Lord Lugard 1914-1919",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1452,
+    "question": "The main role of pressure groups is to",
+    "option": {
+      "a": " influence the legislature to make decision favourable to them",
+      "b": "inject emotion and selfish debates",
+      "c": " influence the public",
+      "d": "use all means, including bribery, to achieve their objectives"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The primary role of pressure groups is to advocate for specific policies or interests by influencing legislators and policymakers. They achieve this through lobbying, submitting proposals, organizing campaigns, and testifying at hearings. For example, environmental groups push for climate legislation, while trade unions advocate for labor rights.",
     "examtype": "utme",
     "examyear": "2015"
   },

@@ -560,6 +560,22 @@
     "examyear": "2015"
   },
   {
+    "id": 305,
+    "question": "Which of the following is the equation for determining net profit or loss from the records of a firm?",
+    "option": {
+      "a": "Closing Capital - Drawings - Capital Introduced",
+      "b": "Opening Capital + Drawings - Closing Capital",
+      "c": "Closing Capital + Opening Capital - Drawings",
+      "d": "Closing Capital + Drawings - Opening Capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
     "id": 317,
     "question": "When the invoice of a customer is overcast, the supplier will send to him a",
     "option": {
@@ -567,6 +583,22 @@
       "b": "payment voucher",
       "c": "debit note",
       "d": "credit note"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2015"
+  },
+  {
+    "id": 320,
+    "question": "Which of the following is not a method of depreciating fixed assets?",
+    "option": {
+      "a": "Revaluation",
+      "b": "Straight line",
+      "c": "Diminishing balance",
+      "d": "Obsolescence"
     },
     "section": "",
     "image": "",
@@ -958,6 +990,22 @@
     "solution": "Accounting ratios helps management in taking decision the totality of the activities in an organization",
     "examtype": "utme",
     "examyear": "2015"
+  },
+  {
+    "id": 580,
+    "question": "An organization which has records of only personal accounts is said to be operating on the basis of",
+    "option": {
+      "a": "single entry",
+      "b": "real accounts",
+      "c": "nominal accounts",
+      "d": "double entry"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "A single entry system records a transaction with a single entry and only maintains one side of every transaction.",
+    "examtype": "utme",
+    "examyear": "2016"
   },
   {
     "id": 595,
@@ -1884,6 +1932,22 @@
     "image": "",
     "answer": "a",
     "solution": "rom the previous solution, we established:\n\nBeginning Inventory + Purchases = ₦11,700\nBeginning Inventory = ₦10,240\n\nStep: Calculate Purchases\nPurchases = (Beginning Inventory + Purchases) - Beginning Inventory\nPurchases = ₦11,700 - ₦10,240\nPurchases = ₦1,460\nTherefore, the figure for purchases is ₦1,460",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
+    "id": 1095,
+    "question": "In the balance sheet of a not-for-profit-making organization, subscription paid in advance is regarded s a?",
+    "option": {
+      "a": "current assets",
+      "b": "current liability",
+      "c": "capital",
+      "d": "reserve"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When members pay their subscription before it is due (in advance), the organization has received money but hasn't yet provided the service for that period.\nThis means the organization owes the service to the members - it's a debt that must be settled by providing the service in the future.\nAny amount owed by an organization is a liability.\nSince subscription paid in advance will be settled within one year, it is a current liability.",
     "examtype": "utme",
     "examyear": "2004"
   },

@@ -2,11 +2,19 @@
   "locks": {
     "mathematics": {
       "machine": "PCTOP",
+<<<<<<< Updated upstream
       "time": 1780297594.177727
     },
     "english": {
       "machine": "PCTOP",
       "time": 1780297594.617481
+=======
+      "time": 1780297413.1655781
+    },
+    "english": {
+      "machine": "PCTOP",
+      "time": 1780297413.4537804
+>>>>>>> Stashed changes
     },
     "physics": {
       "machine": "PCTOP",
@@ -14,7 +22,11 @@
     },
     "biology": {
       "machine": "PCTOP",
+<<<<<<< Updated upstream
       "time": 1780297594.2224736
+=======
+      "time": 1780297413.3651931
+>>>>>>> Stashed changes
     }
   }
 }

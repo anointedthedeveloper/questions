@@ -640,6 +640,22 @@
     "examyear": "2008"
   },
   {
+    "id": 64,
+    "question": "In many countries, citizenship can be acquired through the following processes except ",
+    "option": {
+      "a": "nationalization ",
+      "b": "naturalization ",
+      "c": "registration ",
+      "d": "birth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2008"
+  },
+  {
     "id": 65,
     "question": "Which of the following does not describe a party system? ",
     "option": {
@@ -4023,6 +4039,22 @@
       "b": "a nominal president",
       "c": "a party leader",
       "d": "a nominee of the whole country"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
+    "id": 397,
+    "question": "Which of the following parties formed the opposition in the House of Representatives during Nigerian first republic?",
+    "option": {
+      "a": "NCNC and NEPU",
+      "b": "AG and UMBC",
+      "c": "NPC and NNDP",
+      "d": "NCNC and MDF"
     },
     "section": "",
     "image": "",
@@ -7728,6 +7760,22 @@
     "examyear": "2017"
   },
   {
+    "id": 747,
+    "question": "Which of the following is a major feature of democracy?",
+    "option": {
+      "a": "Capacity to influence people",
+      "b": " Existence of political office holders",
+      "c": " Decision making",
+      "d": "Consent of the people."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Democracy is based on the consent of the governed.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 748,
     "question": "The struggle for self- government from foreign rule is known as __",
     "option": {
@@ -7952,6 +8000,22 @@
     "examyear": "2017"
   },
   {
+    "id": 770,
+    "question": "In the 18th century, a new wind of development blew over Europe and the development was referred to__________?",
+    "option": {
+      "a": "Labour Revolution",
+      "b": "Doctrine Revolution",
+      "c": "Industrial Revolution",
+      "d": "Economic Revolution"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Industrial revolution came into existence and there was a change in the means of production and domestic system of manufacturing",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
     "id": 771,
     "question": "One major merit of the Unitary system of government is that_______?",
     "option": {
@@ -7982,6 +8046,38 @@
     "solution": "Authority is the legitimate power or right to give orders, make decisions, and enforce obedience.",
     "examtype": "UTME",
     "examyear": "2017"
+  },
+  {
+    "id": 773,
+    "question": "Bills passed by the legislature usually requires the approval of the following except_______",
+    "option": {
+      "a": "Governor",
+      "b": " Member house of representative",
+      "c": "Monarch",
+      "d": "President"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "A bill is usually considered and voted on by members of the House of Representatives, but it does not require their approval again after being passed. The bill must go through a formal process that involves both chambers of the legislature and then requires the executive's approval.\n\nIn a federal system like that of the United States or Nigeria, a bill passed by the national legislature (e.g., Congress or the National Assembly) requires the president's assent to become law. Also, in many countries, especially in federal systems like Nigeria, a bill passed by the state legislature requires the governor's assent to become law. In some countries with a constitutional monarchy, such as the United Kingdom, bills require royal assent from the monarch.",
+    "examtype": "UTME",
+    "examyear": "2017"
+  },
+  {
+    "id": 774,
+    "question": "Between 1960 and 1980, Nigeria experienced all the following systems of government except",
+    "option": {
+      "a": "unitary",
+      "b": "federal",
+      "c": "confederal",
+      "d": "parliamentary"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Nigeria has never operated a confederal system of government, only federal, unitary (briefly during military rule), and parliamentary systems.",
+    "examtype": "utme",
+    "examyear": "2018"
   },
   {
     "id": 775,
@@ -9996,6 +10092,22 @@
     "image": "",
     "answer": "c",
     "solution": "Feudalism is a form of government that is based on land ownership. The owners of the land in a feudal system are referred to as Lords and Vassals and they are at the top of the feudal hierarchy. Beneath them are Peasants and Serfs who work the land in exchange for wages, housing and security from the Lords and Vassals. ",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
+    "id": 966,
+    "question": "A one-party system helps to prevent",
+    "option": {
+      "a": "quick decısion",
+      "b": "strong leadership",
+      "c": "stable leadership",
+      "d": "economic waste"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "One of the merits of a one-party system is that it helps to prevent economic waste. With only one party in a state, resources do not have to be diverted to conducting elaborate elections in the selection of leaders. ",
     "examtype": "utme",
     "examyear": "2022"
   },

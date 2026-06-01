@@ -1952,6 +1952,22 @@
     "examyear": "2006"
   },
   {
+    "id": 140,
+    "question": "Consumerism aims at protecting the consumer from",
+    "option": {
+      "a": "harmful products  ",
+      "b": "drug addiction",
+      "c": "smoking cigarettes ",
+      "d": "alcohol consumption. "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2006"
+  },
+  {
     "id": 141,
     "question": "The major types of warehouses are ",
     "option": {
@@ -2062,6 +2078,22 @@
     "solution": "",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 149,
+    "question": "Consumers require protection against exploitation to ensure ",
+    "option": {
+      "a": "adequate consumer awareness",
+      "b": "availability of product variety",
+      "c": "the sale of quality products",
+      "d": "increased aggregate demand."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2007"
   },
   {
     "id": 150,
@@ -3143,6 +3175,22 @@
       "b": "merchant, materials, mentors and money",
       "c": "man, money, materials and machines",
       "d": "machines, manufacturing, money and materials"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
+    "id": 227,
+    "question": "The four Ps of marketing are",
+    "option": {
+      "a": "product, place, process and promotion ",
+      "b": "price, product, property and place",
+      "c": "price, product, place and promotion ",
+      "d": "price, production, place and property "
     },
     "section": "",
     "image": "",
@@ -4832,6 +4880,22 @@
     "examyear": "2011"
   },
   {
+    "id": 348,
+    "question": "The creation of goods and services to satisfy human wants is referred to as ",
+    "option": {
+      "a": "manufacturing ",
+      "b": "commercialization ",
+      "c": "Production ",
+      "d": "entrepreneurship "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
     "id": 351,
     "question": "An individual that links the producer with the retailer is ",
     "option": {
@@ -4859,6 +4923,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2011"
+  },
+  {
+    "id": 353,
+    "question": "The main aim of selling directly to the consumers by manufacturers is to ",
+    "option": {
+      "a": "reduce transportation cost",
+      "b": "make contact with individual consumers ",
+      "c": "discourage the activities of middlemen ",
+      "d": "maximize profit margin"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
     "solution": "",
     "examtype": "utme",
     "examyear": "2011"
@@ -5424,6 +5504,22 @@
     "examyear": "2012"
   },
   {
+    "id": 401,
+    "question": "A document which serves as an order with details of goods required by an intending purchaser is   ",
+    "option": {
+      "a": "a freight note ",
+      "b": "an indent ",
+      "c": "a bill of lading ",
+      "d": "a waybill"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 402,
     "question": "If a customer pays within nine days of receiving goods and takes advantage of 3% off the invoice price, this is stated as ",
     "option": {
@@ -5664,6 +5760,38 @@
     "examyear": "2012"
   },
   {
+    "id": 420,
+    "question": "A company has an authorized capital of 40 million shares at N1 each, out of which 32 million are issued and fully paid-up. What happens to the remaining 8million shares?",
+    "option": {
+      "a": "it has been issued but not paid-up ",
+      "b": "it has been applied for but not issued ",
+      "c": "it is not paid up",
+      "d": "it is not yet been issued "
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 422,
+    "question": "Given:  N\n Opening stock  1,800\n Purchases   2, 800\n Sales    8,000\n Closing stock    350\n Carriage on sales    500\n Calculate the value of the unused stock.\n",
+    "option": {
+      "a": "N 800",
+      "b": "N500",
+      "c": "N350",
+      "d": "N320"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 423,
     "question": "The main objective of a trade association is to ",
     "option": {
@@ -5831,6 +5959,38 @@
       "b": "NDLEA",
       "c": "SON",
       "d": "CPC"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 435,
+    "question": "The process of decoding data in a computer is known as ",
+    "option": {
+      "a": "dilution ",
+      "b": "default drive ",
+      "c": "decryption ",
+      "d": "data security "
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
+    "id": 436,
+    "question": "Which of the following is a type of system software? ",
+    "option": {
+      "a": "Utility programs ",
+      "b": "Registers ",
+      "c": "Hard drives ",
+      "d": "Packages"
     },
     "section": "",
     "image": "",
@@ -7307,6 +7467,22 @@
     "section": "",
     "image": "",
     "answer": "d",
+    "solution": "",
+    "examtype": "neco",
+    "examyear": "2013"
+  },
+  {
+    "id": 543,
+    "question": "The final link in the chain of distribution is the",
+    "option": {
+      "a": "agent",
+      "b": "consumer",
+      "c": "manufacturer",
+      "d": "retailer"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
     "solution": "",
     "examtype": "neco",
     "examyear": "2013"
@@ -9360,6 +9536,22 @@
     "examyear": "2016"
   },
   {
+    "id": 690,
+    "question": "A group of computers that exchange data is referred to as",
+    "option": {
+      "a": "an information bank.",
+      "b": "a network.",
+      "c": "a database.",
+      "d": "an intranet site."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 691,
     "question": "The form of credit sales common to low income groups is",
     "option": {
@@ -9483,6 +9675,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 703,
+    "question": "Bank overdraft as a short term source of fund is",
+    "option": {
+      "a": "an overdrawn account",
+      "b": "granted to a newly opened account",
+      "c": "repayable after more than a year",
+      "d": "a current liability."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2000"
@@ -9707,6 +9915,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2000"
+  },
+  {
+    "id": 719,
+    "question": "The major condition for obtaining loan in thrift, credit and loans cooperative societies is",
+    "option": {
+      "a": "provision of collateral security",
+      "b": "a high level of education",
+      "c": "possession of a large business",
+      "d": "an approved project plan."
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2000"
@@ -10928,6 +11152,22 @@
     "examyear": "2002"
   },
   {
+    "id": 805,
+    "question": "Which of these insurance principles requires a close connection between the actual loss suffered and the risk insured",
+    "option": {
+      "a": "Indemnity",
+      "b": "Proximate cause",
+      "c": "Contribution",
+      "d": "Subrogation."
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
     "id": 807,
     "question": "Which of the following is used to inform the addressee that a registered parcel is ready for collection?",
     "option": {
@@ -11131,6 +11371,22 @@
     "section": "",
     "image": "",
     "answer": "b",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 821,
+    "question": "A company that is registered with the Corporate Affairs Commission only without being enlisted on the Stock Exchange is a",
+    "option": {
+      "a": "public liability company",
+      "b": "joint venture company",
+      "c": "limited company",
+      "d": "registered company."
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2002"
@@ -11632,6 +11888,22 @@
     "examyear": "2003"
   },
   {
+    "id": 855,
+    "question": "The type of marine insurance which covers either damage or loss to the vessel and such as caused by it to other vessels is",
+    "option": {
+      "a": "hull insurance",
+      "b": "time insurance",
+      "c": "freight insurance",
+      "d": "cargo insurance"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 856,
     "question": "The management function that makes the difference in intensity of behaviour is",
     "option": {
@@ -11723,6 +11995,22 @@
     "section": "",
     "image": "",
     "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 862,
+    "question": "Entrepreneurship mainly involves",
+    "option": {
+      "a": "risk-taking",
+      "b": "initiating",
+      "c": "skilled manpower",
+      "d": "knowledge"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"
@@ -11931,6 +12219,22 @@
     "section": "",
     "image": "",
     "answer": "a",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 876,
+    "question": "A major benefit derivable from the privatization and commercialization of public enterprises in Nigeria is",
+    "option": {
+      "a": "increase in wages",
+      "b": "employment generation",
+      "c": "information technology",
+      "d": "revenue generation"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
     "solution": "",
     "examtype": "utme",
     "examyear": "2003"

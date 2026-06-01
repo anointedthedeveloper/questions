@@ -14801,6 +14801,25 @@
     "category": "others"
   },
   {
+    "id": 1173,
+    "question": "My father told me to take the money from .....it",
+    "option": {
+      "a": "whomever offers",
+      "b": "whomsoever offer",
+      "c": "ever who offers",
+      "d": "whoever offers"
+    },
+    "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+    "image": "",
+    "answer": "d",
+    "solution": "In formal speech or writing, \"whomever\" is the form of \"whoever\" used when it is the object of a verb or preposition. In this case, it is not the subject of the verb hence ''whoever offers'' is the correct option.",
+    "examtype": "utme",
+    "examyear": "2013",
+    "questionNub": 81,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 1174,
     "question": "Our teacher defined.......as the killing of one's mother",
     "option": {
@@ -20991,6 +21010,25 @@
     "examtype": "utme",
     "examyear": "2016",
     "questionNub": 46,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1659,
+    "question": "'repri<u>e</u>ve''",
+    "option": {
+      "a": "rich",
+      "b": "police",
+      "c": "queer",
+      "d": "probity"
+    },
+    "section": "For these questions, choose the option that has the same vowel sound as the ones represented by the letter (s) underlined",
+    "image": "",
+    "answer": "b",
+    "solution": "reprieve: /rɪˈpriːv/\npolice: /pəˈliːs/",
+    "examtype": "utme",
+    "examyear": "2016",
+    "questionNub": 47,
     "hasPassage": 0,
     "category": "others"
   },

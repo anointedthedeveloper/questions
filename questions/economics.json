@@ -1360,6 +1360,22 @@
     "examyear": "2001"
   },
   {
+    "id": 221,
+    "question": "Commercial banks settle their daily interbank indebtedness through the",
+    "option": {
+      "a": "Money Market",
+      "b": "Finance House",
+      "c": "Acceptance House",
+      "d": "Clearing House"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2001"
+  },
+  {
     "id": 222,
     "question": "One disadvantage of inflation is that",
     "option": {
@@ -3488,6 +3504,22 @@
     "examyear": "2005"
   },
   {
+    "id": 535,
+    "question": "The profit of the producer can be calculated as",
+    "option": {
+      "a": "total cost less total revenue",
+      "b": "average revenue less average cost",
+      "c": "total revenue less total cost",
+      "d": "marginal revenue less marginal cost"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2005"
+  },
+  {
     "id": 536,
     "question": "The direct exchange of one good for another without the use of money is known as",
     "option": {
@@ -4103,6 +4135,22 @@
       "b": "general price level",
       "c": "size of a country’s gold stock",
       "d": "volume of imports"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "",
+    "examtype": "wassce",
+    "examyear": "2007"
+  },
+  {
+    "id": 640,
+    "question": "A foreign exchange market deals in",
+    "option": {
+      "a": "treasury bills",
+      "b": "currencies",
+      "c": "government bonds",
+      "d": "commodities"
     },
     "section": "",
     "image": "",

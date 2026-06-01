@@ -3136,6 +3136,22 @@
     "examyear": "2024"
   },
   {
+    "id": 927,
+    "question": "An example of fictitious assets is",
+    "option": {
+      "a": "stock",
+      "b": "overdraft",
+      "c": "goodwill",
+      "d": "profit"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Fictitious assets are intangible assets that do not have a physical form and lack inherent value. They represent deferred expenses or prepaid costs that provide benefits over future periods. For example: Preliminary Expense: Discount on Issue of Shares, Goodwill etc.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 932,
     "question": "A commission of ₦5000 to a sales manager was debited to debtors account. This is an error of",
     "option": {
@@ -3744,6 +3760,22 @@
     "examyear": "2003"
   },
   {
+    "id": 1117,
+    "question": "Verifiability in accounting is only possible when there are?",
+    "option": {
+      "a": "minutes of meetings",
+      "b": "payment vouchers",
+      "c": "source documents",
+      "d": "audit certificates"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Reason: verifiability depends on original evidence (invoices, receipts, vouchers, etc.) that support and prove transactions — without source documents you can't reliably verify accounting records.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
     "id": 1125,
     "question": "The recording phase of accounting is known as?",
     "option": {
@@ -3756,6 +3788,22 @@
     "image": "",
     "answer": "a",
     "solution": "Reason: bookkeeping is the stage where transactions are recorded (journals, ledgers, subsidiary books). Trial balancing, ledger accounting and final accounting are later stages.",
+    "examtype": "utme",
+    "examyear": "2003"
+  },
+  {
+    "id": 1130,
+    "question": "<b>Use the information below to answer questions 15 and 16</b>\n\nCalculate the value of fixed assets",
+    "option": {
+      "a": "₦17,052",
+      "b": "₦18469",
+      "c": "₦27 001",
+      "d": "₦27051"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663151/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q15-16_s3clfz.png",
+    "answer": "a",
+    "solution": "Fixed assets:\n\nLand & building = ₦8,470\n\nFurniture & fittings = ₦5,120\n\nMotor vehicles = ₦3,462\n\nTotal fixed assets =\n8,470 + 5,120 + 3,462 = ₦17,052",
     "examtype": "utme",
     "examyear": "2003"
   },

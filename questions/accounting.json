@@ -880,6 +880,22 @@
     "examyear": "2016"
   },
   {
+    "id": 167,
+    "question": "The difference between book keeping and accounting is that while",
+    "option": {
+      "a": "book keeping interprets data accounting records it",
+      "b": "book keeping is regarded as  the language of the business, accounting ascertains its .strength and weakness",
+      "c": "book keeping records data accounting interprets it",
+      "d": "book keeping - summaries information, accounting communicates it."
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 168,
     "question": "Alaka who owed Saka N15, 000, settled his deb  after- deducting cash discount of 10%. To record the discount in the book of Saka, debit",
     "option": {
@@ -5856,6 +5872,22 @@
     "examyear": "2004"
   },
   {
+    "id": 1068,
+    "question": "The rule of accounting equation requires that account payable should be placed under?",
+    "option": {
+      "a": "liabilities",
+      "b": "equities",
+      "c": "assets",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Accounts payable represent amounts the business owes to suppliers — obligations or debts, so they’re recorded under liabilities (usually current liabilities) on the balance sheet.",
+    "examtype": "utme",
+    "examyear": "2004"
+  },
+  {
     "id": 1071,
     "question": "A debit in the suspense accounting will appear in the balance sheet as?",
     "option": {
@@ -6460,6 +6492,22 @@
     "image": "",
     "answer": "a",
     "solution": "Wages and rent are nominal (expense) accounts. Fixtures and machinery are real (asset) accounts.",
+    "examtype": "utme",
+    "examyear": "2002"
+  },
+  {
+    "id": 1172,
+    "question": "<b>₦AFARA A₦D SO₦S Balance Sheet items as at 31st December, 1987.</b>\n\nCapital ₦74480\n\nCreditors ₦15875\n\nPrepaid expenses ₦580\n\nMotor vehicles ₦34750\n\nFurniture ₦35850\n\nAccrued expenses ₦645\n\nStock ₦8100\n\nCash balances ₦9911\n\nDebtors ₦1809\n\n\nCompute the value of current assets?",
+    "option": {
+      "a": "₦20400",
+      "b": "₦20465",
+      "c": "₦35695",
+      "d": "₦19820"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Current assets = Prepaid expenses + Stock + Cash + Debtors\n= ₦580 + ₦8,100 + ₦9,911 + ₦1,809\n= ₦20,400",
     "examtype": "utme",
     "examyear": "2002"
   },

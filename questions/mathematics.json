@@ -7312,6 +7312,22 @@
     "examyear": "2008"
   },
   {
+    "id": 491,
+    "question": "A binary operation * is defined on the set of positive integers is such x*y = 2x-3y+2 for all positive integers x and y. The binary operation is?",
+    "option": {
+      "a": "commutative and close on the set of positive integers",
+      "b": "neither commutative nor closed on the set of positive integers",
+      "c": " commutative but not closed on the set of positive integers",
+      "d": " not cummutative but closed on the set of positive integers"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "X * Y = 2X - 3Y + 2\n2*3 = 2(2) - 3(3) + 2\n=4-9+2\n= -3\nBut -3 does not belong to positive integer",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 492,
     "question": "A binary operation on the real set of numbers excluding -1 is such that for all m, n ∈ R, mΔn = m+n+mn. Find the identity element of the operation.",
     "option": {
@@ -8510,6 +8526,22 @@
     "solution": "5<sup>(2(x-1))</sup> × 5<sup>(x+1)</sup> = 0.04 \n5<sup>(2(x-1))</sup>  × 5<sup>(x+1)</sup> =5<sup>−2</sup>\n2x − 2 + x + 1 = −2\n3x − 1 = −2 ⟹ 3x = −2 + 1 = −1\nx =−1/3",
     "examtype": "utme",
     "examyear": "2009"
+  },
+  {
+    "id": 572,
+    "question": "Evaluate (81/16)<sup>−1/4</sup> × 2<sup>−1</sup>",
+    "option": {
+      "a": "1/3",
+      "b": "3",
+      "c": "6",
+      "d": "1/6"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mrow>\n      <mo>(</mo>\n      <mfrac>\n        <mn>81</mn>\n        <mn>16</mn>\n      </mfrac>\n      <mo>)</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mrow>\n          <mo>&#x2212;<!-- − --></mo>\n          <mn>1</mn>\n        </mrow>\n        <mn>4</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mo>&#x00D7;<!-- × --></mo>\n  <msup>\n    <mn>2</mn>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n  </msup>\n  <mo>=</mo>\n  <mfrac>\n    <mn>1</mn>\n    <msup>\n      <mrow>\n        <mo>(</mo>\n        <mfrac>\n          <mn>81</mn>\n          <mn>16</mn>\n        </mfrac>\n        <mo>)</mo>\n      </mrow>\n      <mrow class=\"MJX-TeXAtom-ORD\">\n        <mfrac>\n          <mn>1</mn>\n          <mn>4</mn>\n        </mfrac>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <msup>\n    <mrow>\n      <mo>(</mo>\n      <mfrac>\n        <mn>16</mn>\n        <mn>81</mn>\n      </mfrac>\n      <mo>)</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <msup>\n    <mrow>\n      <mo>(</mo>\n      <mfrac>\n        <mn>2</mn>\n        <mn>3</mn>\n      </mfrac>\n      <mo>)</mo>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>4</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mn>2</mn>\n    <mn>3</mn>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>3</mn>\n  </mfrac>\n</math>",
+    "image": "",
+    "answer": "a",
+    "solution": "〖(81/16)〗<sup>(-1)/4)</sup> × 2<sup>-1</sup> =1 /〖(81/16)〗<sup>(1/4)</sup>^(1/4) × 1/2=〖(16/81)〗<sup>1/4</sup> × 1/2=〖(2/3)〗<sup>(4×1/4)</sup>= 2/3 × 1/2 = 1/3",
+    "examtype": "utme",
+    "examyear": "2010"
   },
   {
     "id": 573,

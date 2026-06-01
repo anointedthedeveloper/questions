@@ -3152,6 +3152,22 @@
     "examyear": "2012"
   },
   {
+    "id": 731,
+    "question": "Find the remainder when 2x<sup>3</sup>  - 11x<sup>2</sup>  + 8x - 1 is divided by x + 3",
+    "option": {
+      "a": "-871",
+      "b": "-781",
+      "c": "-187",
+      "d": " -178"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Hence f(x) = 2x<sup>3</sup>  - 11x<sup>2</sup>  + 8x - 1\n\nf(-3) = 2(-3)<sup>3</sup>  - 11(-3)<sup>2</sup>  + 8(-3) - 1\n\n= 2(-27) - 11(9) + 8(-3) - 1\n\n= -54 - 99 - 24 - 1\n\n= -178",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 734,
     "question": "U is inversely proportional to the cube of V and U = 81 when V = 2. Find U when V = 3",
     "option": {
@@ -4496,6 +4512,22 @@
     "examyear": "2019"
   },
   {
+    "id": 997,
+    "question": "Integrate ∫<sub>(-1)</sub><sup>2</sup>(2x<sup>2</sup> + x)dx",
+    "option": {
+      "a": "4(1/2)",
+      "b": "3(1/2)",
+      "c": "7(1/2)",
+      "d": "5(1/24)"
+    },
+    "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msubsup>\n    <mo>&#x222B;<!-- ∫ --></mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>1</mn>\n    </mrow>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msubsup>\n  <mo stretchy=\"false\">(</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>+</mo>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mrow class=\"MJX-TeXAtom-ORD\">\n    <mi mathvariant=\"normal\">d</mi>\n  </mrow>\n  <mi>x</mi>\n</math>",
+    "image": "",
+    "answer": "c",
+    "solution": "∫<sub>(-1)</sub><sup>2</sup>(2x<sup>2</sup> + x)dx = [(2x<sup>(2+1)</sup>)/3+x<sup>(1+1)</sup>/2 ]<sub>(-1)</sub><sup>2</sup> = [(2x<sup>3</sup>)/3 + x<sup>2</sup>/2 ]<sub>(-1)</sub><sup>2</sup> = ((2(2)<sup>3</sup> )/3+2<sup>2</sup> 2 ) -((2(-1)<sup>3</sup> )/3+((-1)+M31<sup>2</sup> )/2) = (16/3+2)-((-2)/3+1/2) = 22/3-(-1/6) = 22/3 + 1/6 = 7(1/2)",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 999,
     "question": "Tade bought 200 mangoes at 4 for ₦2.50. 30 out of the mangoes got spoilt and the remaining were sold at 2 for ₦2.40. Find the percentage profit or loss.",
     "option": {
@@ -5408,6 +5440,22 @@
     "examyear": "2023"
   },
   {
+    "id": 1181,
+    "question": "A rectangular plot of land has sides with lengths of 38 m and 52 m corrected to the nearest m. Find the range of the possible values of the area of the rectangle",
+    "option": {
+      "a": " 1931.25 m<sup>2</sup> ≤ A < 2021.25 m<sup>2</sup>",
+      "b": " 1950 m<sup>2</sup>\n ≤ A < 2002m<sup>2</sup>",
+      "c": "1957 m<sup>2</sup>\n ≤ A < 1995 m<sup>2</sup>",
+      "d": "1931.25 m<sup>2</sup>\n ≥ A > 2021.25 m<sup>2</sup>"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "The sides have been given to the nearest meter, so\n\n51.5 m ≤ length < 52.5\n\n37.5 m ≤ width < 38.5\n\nMinimum area = 37.5 x 51.5 = 1931.25 m<sup>2</sup>\n\n\nMaximum area = 38.5 x 52.5 = 2021.25 m<sup>2</sup>\n\n\n∴ The range of the area = 1931.25 m<sup>2</sup> ≤ A < 2021.25 m<sup>2</sup>",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
     "id": 1187,
     "question": "Find the value of 110111<sub>2</sub>  + 10100<sub>2</sub> ",
     "option": {
@@ -5820,6 +5868,22 @@
     "image": "",
     "answer": "c",
     "solution": "Area of a circle (A) = πr<sup>2</sup>\n\nRadius = 4cm\n\nπ = 3.142\n\nA = 3.142 × (4)<sup>2</sup>\n\n= 3.142 × 16\n\n= 50.272\n\nA = 50.3 cm<sup>2</sup> (1dp)",
+    "examtype": "utme",
+    "examyear": "2015"
+  },
+  {
+    "id": 1282,
+    "question": "The area of an ellipse is 132cm2.The length of its major axis is 14cm.Find the length of it minor axis",
+    "option": {
+      "a": "10.5cm",
+      "b": "5cm",
+      "c": "10cm",
+      "d": "3cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "",
     "examtype": "utme",
     "examyear": "2015"
   }

@@ -2464,6 +2464,22 @@
     "examyear": "2022"
   },
   {
+    "id": 465,
+    "question": "Tyres are treaded to?",
+    "option": {
+      "a": " increase weight of tyres",
+      "b": " increase friction",
+      "c": " increase its longevity",
+      "d": " look good"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Tyres are treaded to increase friction (grip/traction) between the tyre and the road surface, especially in wet or slippery conditions, which is crucial for vehicle safety and control.",
+    "examtype": "utme",
+    "examyear": "2022"
+  },
+  {
     "id": 467,
     "question": "The relationship between the coefficient of linear expansion α and volumetric expansion (γ) is-----------------",
     "option": {
@@ -2876,6 +2892,22 @@
     "image": "",
     "answer": "d",
     "solution": "Given information:\n\nMass of empty bottle, m₀ = 19 g\nMass of bottle + water, m₁ = 66 g\nRelative density of alcohol, RD = 0.8\nMass of bottle + alcohol = ?\n\nSolution:\nStep 1: Calculate mass of water\nMass of water = m₁ - m₀\nMass of water = 66 - 19\nMass of water = 47 g\nStep 2: Understand relative density\nRelative density (RD) = Density of substance / Density of water\nFor the same volume:\nRD = Mass of alcohol / Mass of water\nStep 3: Calculate mass of alcohol\n0.8 = Mass of alcohol / 47\nMass of alcohol = 0.8 × 47\nMass of alcohol = 37.6 g\nStep 4: Calculate total mass with alcohol\nMass of bottle + alcohol = m₀ + Mass of alcohol\nMass of bottle + alcohol = 19 + 37.6\nMass of bottle + alcohol = 56.6 g",
+    "examtype": "utme",
+    "examyear": "2023"
+  },
+  {
+    "id": 537,
+    "question": "A beam of light travelling in water is incident on a glass which is immersed in the water. The incident beam makes an angle of 40° with the normal. Calculate the angle of refraction in the glass. [Refractive index of water = 1.33, Refractive index of glass = 1.5]",
+    "option": {
+      "a": "29.36°",
+      "b": "25.37°",
+      "c": "37.21°",
+      "d": "34.75°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\n\nIncident angle in water, θ₁ = 40°\nRefractive index of water, n₁ = 1.33\nRefractive index of glass, n₂ = 1.5\nAngle of refraction in glass, θ₂ = ?\n\nSolution:\nStep 1: Apply Snell's Law\nWhen light travels from one medium to another:\nn₁ sin θ₁ = n₂ sin θ₂\nStep 2: Substitute the known values\n1.33 × sin 40° = 1.5 × sin θ₂\n1.33 × 0.6428 = 1.5 × sin θ₂\n0.8549 = 1.5 × sin θ₂\nStep 3: Solve for sin θ₂\nsin θ₂ = 0.8549/1.5\nsin θ₂ = 0.5699\nStep 4: Calculate angle of refraction\nθ₂ = sin⁻¹(0.5699)\nθ₂ = 34.75°",
     "examtype": "utme",
     "examyear": "2023"
   },
@@ -4012,6 +4044,22 @@
     "image": "",
     "answer": "a",
     "solution": "Given information:\n\nCharge 1 (Q₁) = 50 µC\nElectric field at point (E₁) = 360 NC⁻¹\nCharge 2 (Q₂) = 120 µC\nDistance and medium remain same\nElectric field due to Q₂ (E₂) = ?\n\nUnderstanding electric field:\nElectric field strength (E) is directly proportional to the charge (Q):\nE ∝ Q (at constant distance and medium)\nFormula:\nE = kQ/r²\nSince k (constant), r (distance), and medium are the same:\nE₁/E₂ = Q₁/Q₂\nSetting up proportion:\n360/E₂ = 50/120\nSolving for E₂:\nE₂ = (360 × 120)/50\nE₂ = 43,200/50\nE₂ = 864 NC⁻¹\nAlternative approach:\nRatio of charges = 120/50 = 2.4\nE₂ = E₁ × 2.4\nE₂ = 360 × 2.4\nE₂ = 864 NC⁻¹",
+    "examtype": "utme",
+    "examyear": "2007"
+  },
+  {
+    "id": 777,
+    "question": "A boy drags a bag of rice along a smooth horizontal floor with a force of 2 N applied at an angle of 60° to the floor. The work done after a distance of 3 m is?",
+    "option": {
+      "a": "3 J",
+      "b": "4 J",
+      "c": "5 J",
+      "d": " 6 J"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "Given information:\nForce F = 2 N\nAngle θ = 60°\nDisplacement s = 3 m\nFloor is smooth (no friction)\n\nSolution:\n\nStep 1: Work done formula\nWork done W = F × s × cosθ\n\nStep 2: Substitute values\nW = 2 N × 3 m × cos60°\n\nStep 3: Calculate\ncos60° = 0.5\nW = 2 × 3 × 0.5 = 3 J",
     "examtype": "utme",
     "examyear": "2007"
   },
@@ -5628,6 +5676,22 @@
     "image": "",
     "answer": "b",
     "solution": "Given information:\nThe power of a lens is defined as the reciprocal of its focal length (in metres).\n\nSolution:\n\nStep 1: Formula for power of a lens\nPower P (in dioptres) = 1 / f, where f is the focal length in metres.",
+    "examtype": "utme",
+    "examyear": "2025"
+  },
+  {
+    "id": 1126,
+    "question": "Which of the following is not true about a wave in a plucked string?",
+    "option": {
+      "a": " It is mechanical",
+      "b": " It has a crest",
+      "c": " It is transverse",
+      "d": "It is longitudinal"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "It is longitudinal (String waves are transverse; perpendicular to propagation.",
     "examtype": "utme",
     "examyear": "2025"
   },

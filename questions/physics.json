@@ -2640,6 +2640,22 @@
     "examyear": "2016"
   },
   {
+    "id": 194,
+    "question": "A boy in a barber's shop sits between two parallel mirrors. The number of images observed by him will be",
+    "option": {
+      "a": "Infinite",
+      "b": "Ten",
+      "c": "Eight",
+      "d": "Forty"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "When two parallel mirrors face each other:\nEach mirror reflects the image from the other mirror repeatedly, creating multiple reflections.\nWhat happens:\n\nMirror 1 reflects the object\nMirror 2 reflects the image from Mirror 1\nMirror 1 reflects the image from Mirror 2\nThis continues indefinitely\n\nResult:\nThe number of images formed = Infinite\nIn practice:\n\nEach reflection loses some intensity\nEventually images become too dim to see\nBut theoretically, the reflections continue forever\n\nAnswer: A. Infinite\nWhen sitting between two parallel mirrors, an infinite number of images are formed.",
+    "examtype": "utme",
+    "examyear": "2016"
+  },
+  {
     "id": 196,
     "question": "Which of the following statements is NOT correct?",
     "option": {

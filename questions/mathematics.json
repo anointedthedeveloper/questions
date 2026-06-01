@@ -10832,6 +10832,22 @@
     "examyear": "2012"
   },
   {
+    "id": 767,
+    "question": "A man stands on a tree 150 cm high and sees a boat at an angle of depression of 74°. Find the distance of the boat from the base of the tree.",
+    "option": {
+      "a": "52 cm",
+      "b": "43 cm",
+      "c": "40 cm",
+      "d": "15 cm"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "AB∧D = BD∧C = 74°                  DC=150/tan74°                     =150/3.4874         DC≈43cm",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 768,
     "question": "Find dy/dx if y = cosx\n.",
     "option": {

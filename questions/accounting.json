@@ -3456,6 +3456,22 @@
     "examyear": "2018"
   },
   {
+    "id": 715,
+    "question": "Transactions are recorded or posted to the ledger in line with",
+    "option": {
+      "a": "Accounting Concept",
+      "b": "Source document",
+      "c": " Double Entry Principle",
+      "d": "Data collection"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "The main principle of double-entry system is that for every debit there is a corresponding credit for an equal amount of money and for every credit there is a corresponding debit for an equal amount of money; i.e. for every transaction one account is debited for, the amount of transaction and the other account is also credited. ",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
     "id": 719,
     "question": "Accounts can be classified into",
     "option": {
@@ -3628,6 +3644,22 @@
     "image": "",
     "answer": "a",
     "solution": "Net profit for Department A = Sales – (Opening Stock + Purchases + Allocated Expenses)\n= ₦3 000 – (₦100 + ₦1 500 + [₦150×3 000/8 000])\n= ₦3 000 – (₦100 + ₦1 500 + ₦56.25)\n= ₦3 000 – ₦1 656.25\n= ₦1 343.75",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 746,
+    "question": "The two recognised accounting bases are",
+    "option": {
+      "a": "cash and credit",
+      "b": " personal and impersonal",
+      "c": "Accrual and Cash",
+      "d": "Drawings and Private"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Accounting bases are the totality of method adopted by an enterprises for applying fundamental accounting concepts to its Financial transactions. However, the two bases are cash and Accrual basis",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -5996,6 +6028,22 @@
     "image": "",
     "answer": "c",
     "solution": "When you discount a bill with a bank:\n\nYou receive cash immediately instead of waiting for the maturity date\nThe bank pays you less than the face value of the bill\nThe difference between the face value and the amount paid is called the \"discount\"\nThis discount compensates the bank for the risk and the time value of money\nThe bank then collects the full amount from the debtor on the maturity date",
+    "examtype": "utme",
+    "examyear": "2001"
+  },
+  {
+    "id": 1226,
+    "question": "Given that the balance as per cash book after necessary adjustment was ₦4,315, unpresented cheques were ₦1,688 and the bank statement balance was ₦4,791, what was the balance of uncredited cheques?",
+    "option": {
+      "a": "₦1,223",
+      "b": "₦1,212",
+      "c": "₦1,202",
+      "d": "₦1,115"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "To find uncredited cheques, Use the bank reconciliation formula:\nBank Statement Balance + Uncredited Cheques - Unpresented Cheques = Adjusted Cash Book Balance\nRearranging to find Uncredited Cheques:\nUncredited Cheques = Adjusted Cash Book Balance + Unpresented Cheques - Bank Statement Balance\nSubstituting the values:\nUncredited Cheques = ₦4,315 + ₦1,688 - ₦4,791\nUncredited Cheques = ₦6,003 - ₦4,791 = ₦1,212",
     "examtype": "utme",
     "examyear": "2001"
   },

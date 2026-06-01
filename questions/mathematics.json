@@ -688,6 +688,22 @@
     "examyear": "2005"
   },
   {
+    "id": 349,
+    "question": "If sin θ = -1/2 for 0 < θ < 360°, the value of θ is",
+    "option": {
+      "a": "30° and 150°",
+      "b": "150° and 210°",
+      "c": "210° and 330°",
+      "d": "150° and 330°"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "sin θ = -1/2\n= -0.5\nθ = sin-1 (0.5)\nθ = 30°\nSince θ is negative\nθ = 180 + 30 = 210°\nθ = 360 - 30 = 330°\n∴θ = 210° and 330°",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
     "id": 350,
     "question": "If y = (1 - 2x)<sup>3</sup>\n, find the value of dy/dx at x = -1",
     "option": {
@@ -700,6 +716,22 @@
     "image": "",
     "answer": "d",
     "solution": "y = (1 - 2x)<sup>3</sup>\n\nlet u = 1-2x\ndu/dx = -2\n∴y = u<sup>3</sup>\n\ndy/du = 3u<sup>2</sup>\n\nBut dy/dx = du/dx * dy/du\n= -2 * 3u<sup>2</sup>\n\n= -6u<sup>2</sup>\n\n= -6(1-2x)<sup>2</sup>\n\nAt x = -1: dy/dx = -6(1 - 2(-1))<sup>2</sup>\n\ndy/dx = -6(1 + 2)<sup>2</sup>\n\n= -6 * 3<sup>2</sup>\n\n= -6 * 9\n= -54\n",
+    "examtype": "utme",
+    "examyear": "2005"
+  },
+  {
+    "id": 353,
+    "question": "The maximum value of the function\nf(x) = 2 + x - x<sup>2</sup> is",
+    "option": {
+      "a": "9/4",
+      "b": " 7/4",
+      "c": " 3/2",
+      "d": " 1/2"
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "f(x) = 2 + x - x<sup>2</sup>\ndy/dx = 1-2x\nAs dy/dx = 0\n1-2x = 0\n2x = 1\nx = 1/2\nAt x = 1/2\nf(x) = 2 + x - x<sup>2</sup>\n= 2 + 1/2 -(1/2)<sup>2</sup>\n= 2 + 1/2 - 1/4\n= (8+2-1) / 4 = 9/4",
     "examtype": "utme",
     "examyear": "2005"
   },
@@ -846,6 +878,22 @@
     "solution": "F(x) = Q x D + R\nKx3 + x2 - 5x – 2 = Q(2x+1)+R\nIf 2x+1 = 0 implies x = -1/2\n∴k(-1/2)<sup>3</sup> + (-1/2)<sup>2</sup> -5(-1/2) -2\n= Q(2(-1/2) + 1) +2\nK(-1/8) + 1/4 + 5/2 - 2 = Q(-1+1)+2\n-k/8 + 1/4 + 5/2 - 2 = 0+2\n(-k+2+20-16) / 8 = 2\n(-k+6) / 8 = 2\n-k+6 = 2*8\n-k+6 = 16\n-k = 16-6\n-k = 10\n∴k = -10",
     "examtype": "utme",
     "examyear": "2006"
+  },
+  {
+    "id": 425,
+    "question": "A senatorial candidate had planned to visit seven cities prior to a primary election. However, he could only visit four of the cities. How many different itineraries could be considered?",
+    "option": {
+      "a": "640",
+      "b": " 840",
+      "c": " 520",
+      "d": " 920"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Number of itineraries = <sup>7</sup>P<sub>4</sub>. 7!/((7-4)!)=7!/3!=(7×6×5×4×3!)/3!=840",
+    "examtype": "utme",
+    "examyear": "2007"
   },
   {
     "id": 449,
@@ -1280,6 +1328,22 @@
     "examyear": "2012"
   },
   {
+    "id": 754,
+    "question": "Find the range of 4,9,6,3,2,8,10 and 11",
+    "option": {
+      "a": "11",
+      "b": "9",
+      "c": "8",
+      "d": "4"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "Range = Highest Number - Lowest Number\n\nRange = 11 - 2 = 9",
+    "examtype": "utme",
+    "examyear": "2012"
+  },
+  {
     "id": 755,
     "question": "Find the standard deviation of 2,3,8,10 and 12",
     "option": {
@@ -1628,6 +1692,22 @@
     "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006701/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q7_v7bpi9.jpg",
     "answer": "d",
     "solution": "Length of chord = 2rsin(θ/2)\n= 2(3)sin(68/2)\n= 6sin 34\n= 6 × 0.559\n= 3.354 cm ≊\n  3.4 cm",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 981,
+    "question": "Find the mean of the data.",
+    "option": {
+      "a": "3.26",
+      "b": "4.91",
+      "c": "6.57",
+      "d": "3.0"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006789/ALOC-Questions/Mathematics/2019/MATH_JAMB_2019_Q14_k7xkuu.jpg",
+    "answer": "a",
+    "solution": "Mean = ∑fx/∑f\n= 150/46\n= 3.26",
     "examtype": "utme",
     "examyear": "2019"
   },

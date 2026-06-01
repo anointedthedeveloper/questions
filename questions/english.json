@@ -494,6 +494,25 @@
     "category": "others"
   },
   {
+    "id": 42,
+    "question": "Students could be <i>timid</i>",
+    "option": {
+      "a": "Pugnacious ",
+      "b": "friendly ",
+      "c": "bold ",
+      "d": "covetous"
+    },
+    "section": "opposite in meaning to the word(s) or phrase in italics ",
+    "image": "",
+    "answer": "c",
+    "solution": "",
+    "examtype": "utme",
+    "examyear": "2003",
+    "questionNub": null,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
     "id": 43,
     "question": "The labour leader’s <i>recalcitrant</i> stance was applauded ",
     "option": {
@@ -18540,6 +18559,25 @@
     "examtype": "utme",
     "examyear": "2017",
     "questionNub": 30,
+    "hasPassage": 0,
+    "category": "others"
+  },
+  {
+    "id": 1594,
+    "question": "Select the option that best explain the information conveyed in the sentence\n\nThe letter was being written by the principal",
+    "option": {
+      "a": " The letter had been written by the principal",
+      "b": "The principal was writing the letter",
+      "c": "The principal wanted to write the letter",
+      "d": "The principal wrote the letter"
+    },
+    "section": "",
+    "image": "",
+    "answer": "b",
+    "solution": "When the word 'being' is used in past continuous tense, as it is in the above question, it means the action is happening or was happening before, in a continuous manner, just like in the answer, the principal was writing the letter",
+    "examtype": "utme",
+    "examyear": "2017",
+    "questionNub": 31,
     "hasPassage": 0,
     "category": "others"
   },

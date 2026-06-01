@@ -144,6 +144,22 @@
     "examyear": "2007"
   },
   {
+    "id": 45,
+    "question": "To find the dept of the sea, a ship send out a second waves and an echo after one second. If the velocity of sound in water is 1500m/s, what is the depth of the sea ",
+    "option": {
+      "a": "0.75km ",
+      "b": "1.50km ",
+      "c": "2.20km ",
+      "d": "3.00km "
+    },
+    "section": "",
+    "image": "",
+    "answer": "a",
+    "solution": "",
+    "examtype": "post-utme",
+    "examyear": "2009"
+  },
+  {
     "id": 56,
     "question": "Which of the following  is common to evaporation and boiling, they ",
     "option": {
@@ -656,6 +672,22 @@
     "examyear": "2018"
   },
   {
+    "id": 319,
+    "question": "The inner diameter of a small test tube can be measured accurately using a",
+    "option": {
+      "a": " Micrometres screw gauge",
+      "b": " Pair of dividers",
+      "c": " Metre rule",
+      "d": " Pair of vernier calliper"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "A vernier scale is a visual aid to take an accurate measurement reading between two graduation markings on a linear scale by using mechanical interpolation; thereby increasing resolution and reducing measurement",
+    "examtype": "utme",
+    "examyear": "2018"
+  },
+  {
     "id": 323,
     "question": "The force between the molecules of a liquid in contact with that of a solid is?",
     "option": {
@@ -764,6 +796,22 @@
     "image": "",
     "answer": "c",
     "solution": "The ray is reflected at 0° because it retraces its path back through the centre of curvature along the same line with no angular deviation.",
+    "examtype": "utme",
+    "examyear": "2019"
+  },
+  {
+    "id": 348,
+    "question": "A straight wire 15cm long, carrying a current of 6.0A is in a uniform field of 0.40T. What is the force on the wire when it is at right angle to the field",
+    "option": {
+      "a": "0.46N",
+      "b": " 0.35N",
+      "c": "0.36N",
+      "d": " 0,24N"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "Given information:\n\nLength of wire (L) = 15 cm = 0.15 m\nCurrent (I) = 6.0 A\nMagnetic field (B) = 0.40 T\nAngle (θ) = 90° (at right angle)\nForce (F) = ?\n\nFormula for force on current-carrying conductor:\nF = BIL sin θ\nWhen wire is perpendicular to field (θ = 90°):\nsin 90° = 1\nF = BIL\nSubstituting values:\nF = 0.40 × 6.0 × 0.15\nF = 0.40 × 0.9\nF = 0.36 N",
     "examtype": "utme",
     "examyear": "2019"
   },
@@ -1632,6 +1680,22 @@
     "examyear": "2008"
   },
   {
+    "id": 827,
+    "question": "A short chain is sometimes attached to the back of a petrol tanker to?",
+    "option": {
+      "a": " generate more friction",
+      "b": " ensure the balancing of the tanker",
+      "c": "caution the driver when overspeeding",
+      "d": "conduct excess charges to the earth"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "The friction between the tanker and air creates charges which the chain conducts to the ground.",
+    "examtype": "utme",
+    "examyear": "2008"
+  },
+  {
     "id": 837,
     "question": "The resultant of two forces 12 N and 5 N is 13 N. What is the angle between the two forces?",
     "option": {
@@ -2142,6 +2206,22 @@
     "solution": "Given information:\nGround state energy, E₁ = -24.8 eV\nLevel number, n = 3\n\nSolution:\n\nStep 1: Energy level formula for hydrogen-like atoms\nFor an atom with a single electron, the energy of the nth level is given by:\nEₙ = E₁ / n²\n\nStep 2: Substitute values\nE₃ = -24.8 eV / 3² = -24.8 / 9 = -2.7556 eV ≈ -2.75 eV",
     "examtype": "utme",
     "examyear": "2013"
+  },
+  {
+    "id": 1093,
+    "question": "A force of 500 N is applied to a steel wire of cross‑sectional area 0.2 m². The tensile stress is",
+    "option": {
+      "a": "2.5 × 10⁴ N m⁻²",
+      "b": "1.0 × 10² N m⁻²",
+      "c": " 1.0 × 10³ N m⁻²",
+      "d": " 2.5 × 10³ N m⁻²"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Given information:\nForce, F = 500 N\nCross‑sectional area, A = 0.2 m²\n\nSolution:\n\nStep 1: Formula for tensile stress\nTensile stress σ = Force / Area = F / A\n\nStep 2: Substitute the values\nσ = 500 N / 0.2 m² = 2500 N m⁻²\n\nStep 3: Express in scientific notation\n2500 N m⁻² = 2.5 × 10³ N m⁻²",
+    "examtype": "utme",
+    "examyear": "2014"
   },
   {
     "id": 1101,

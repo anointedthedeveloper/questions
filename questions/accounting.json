@@ -112,6 +112,22 @@
     "examyear": "2021"
   },
   {
+    "id": 931,
+    "question": "An amount paid in cash to John is Dr to John and Cr to",
+    "option": {
+      "a": "bank",
+      "b": "debtors",
+      "c": "cash",
+      "d": "capital"
+    },
+    "section": "",
+    "image": "",
+    "answer": "c",
+    "solution": "When an amount is paid in cash to John, the journal entry is:\n\nDebit: John's account (the person receiving the payment)\nCredit: Cash account (since cash is going out)\n\nSince cash is being paid out, the Cash account must be credited to show the reduction in cash.",
+    "examtype": "utme",
+    "examyear": "2024"
+  },
+  {
     "id": 1033,
     "question": "Given:\npurchases ledger balance..............₦4000\npurchases for the period..............₦50000\nCash refunded by suppliers............₦290\nCheques paid to suppliers..............₦42300\nReturns outwards.......................₦2000\nDiscount received from suppliers.......₦400\n\nThe balance of the purchases ledger control account is?",
     "option": {

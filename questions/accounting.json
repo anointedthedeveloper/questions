@@ -80,6 +80,22 @@
     "examyear": "2017"
   },
   {
+    "id": 663,
+    "question": "When expenses are paid on behalf of the venture, the accounting entries is to debit",
+    "option": {
+      "a": "bank account and credit joint venture account",
+      "b": "expenses account and credit bank account",
+      "c": " joint venture account and credit expenses account",
+      "d": "joint venture account and credit bank account"
+    },
+    "section": "",
+    "image": "",
+    "answer": "d",
+    "solution": "Joint venture account is an account that all expenditure incurred for the venture is debited and all income is credited to.\nDebit joint venture and credit bank account because expenses incurred on behalf of the venture has to be debited to the joint venture account and since the money is joint out the bank must be credited to balance the account",
+    "examtype": "utme",
+    "examyear": "2017"
+  },
+  {
     "id": 785,
     "question": "In the head office ledger, the value of goods sent to the branch are",
     "option": {
@@ -158,6 +174,22 @@
     "solution": "Given:\n\nBalance of Profit and Loss Account = ₦300\nProfit sharing ratio = Jumoke : Kunle = 3 : 2\n\nCalculate Kunle's share of the balance:\nTotal ratio = 3 + 2 = 5\nKunle's share = (2/5) × ₦300 = ₦120",
     "examtype": "utme",
     "examyear": "2004"
+  },
+  {
+    "id": 1135,
+    "question": "<b>Use the information below to answer questions 20 and 21.</b>\n\nCredit purchases are always put at 150% of the total cash paid to suppliers\n\nDetermine the credit purchases",
+    "option": {
+      "a": "₦13 500",
+      "b": "₦15 500",
+      "c": "₦13 400",
+      "d": "₦12 000"
+    },
+    "section": "",
+    "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1756663260/ALOC-Questions/Accounting/UTME/2003/Accounting_JAMB_2003_Q20-21_gg4bum.png",
+    "answer": "d",
+    "solution": "Calculation:\nCredit purchases = 150% × Cash paid to suppliers\nCredit purchases = 150% × ₦8,000\nCredit purchases = 1.5 × ₦8,000\nCredit purchases = ₦12,000",
+    "examtype": "utme",
+    "examyear": "2003"
   },
   {
     "id": 1202,
